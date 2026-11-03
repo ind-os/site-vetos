@@ -1,0 +1,38 @@
+---
+// Une bande de la page, sur fond blanc ou gris bleuté, avec son titre et son contenu dans la
+// largeur du site. Les fonds alternent d'une section à l'autre.
+interface Props {
+  titre?: string;
+  /** Le surtitre, au-dessus du titre, en petites capitales menthe. */
+  surtitre?: string;
+  fond?: 'blanc' | 'gris';
+  id?: string;
+  /** Le niveau du titre ; 2 par défaut. */
+  niveau?: 2 | 3;
+  class?: string;
+}
+
+const { titre, surtitre, fond = 'blanc', id, niveau = 2, class: classe } = Astro.props;
+const Titre = `h${niveau}` as const;
+---
+
+<section class:list={['section', { 'fond-gris': fond === 'gris' }, classe]} id={id} aria-labelledby={titre && id ? `${id}-titre` : undefined}>
+  <div class="conteneur section__interieur">
+    {
+      titre && (
+        <header class="section__tete">
+          {surtitre && <p class="surtitre">{surtitre}</p>}
+          <Titre id={id ? `${id}-titre` : undefined}>{titre}</Titre>
+          <slot name="tete" />
+        </header>
+      )
+    }
+    <slot />
+  </div>
+</section>
+
+<style>
+  .section { padding-block: var(--section-y); }
+  .section__interieur { display: grid; gap: var(--espace-5); }
+  .section__tete { display: grid; gap: var(--espace-2); }
+</style>

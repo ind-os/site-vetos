@@ -1,0 +1,42 @@
+---
+// L'index des conseils santé, et chaque catégorie (chien, chat, NAC) : le texte de la page, puis
+// les conseils en cartes, filtrés par espèce pour une catégorie.
+import { contexteDe } from '../lib/contexte.ts';
+import { premierePhoto } from '../lib/images.ts';
+import { lesPages, minutesDeLecture, slugDe, titreDe, type Page } from '../lib/pages.ts';
+import CarteConseil from '../composants/CarteConseil.astro';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { page, langue, t, html } = contexte;
+const espece = page.data.type === 'conseil-categorie' ? page.data.especes?.[0] : undefined;
+const conseils = (await lesPages(langue, 'conseil')).filter((c) => !espece || c.data.especes?.includes(espece));
+---
+
+<PageInterieure contexte={contexte} cote={false}>
+  <Prose html={html} chapeau />
+  <section class="conseils" aria-labelledby="liste-des-conseils">
+    <h2 id="liste-des-conseils" class="visuellement-cache">{t.conseils.tous}</h2>
+    {
+      conseils.map((c) => (
+        <CarteConseil
+          titre={titreDe(c)}
+          href={c.data.url}
+          surtitre={(c.data.especes ?? []).map((e) => t.especes[e]).join(' · ')}
+          resume={c.data.resume}
+          duree={t.conseils.minutes(minutesDeLecture(c))}
+          photo={premierePhoto([`conseil:${slugDe(c)}`, `espece:${c.data.especes?.[0] ?? 'chien'}`], langue)}
+        />
+      ))
+    }
+  </section>
+</PageInterieure>
+
+<style>
+  .conseils { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); }
+</style>

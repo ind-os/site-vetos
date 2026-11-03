@@ -1,0 +1,42 @@
+---
+// L'équipe d'une clinique : une carte par personne d'après la fiche, avec son portrait s'il
+// existe, puis le texte de la page.
+import { contexteDe } from '../lib/contexte.ts';
+import { enumerer } from '../lib/format.ts';
+import { photo } from '../lib/images.ts';
+import type { Page } from '../lib/pages.ts';
+import CarteMembre from '../composants/CarteMembre.astro';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { langue, t, html } = contexte;
+const clinique = contexte.clinique!;
+---
+
+<PageInterieure contexte={contexte} cote={false}>
+  <div class="equipe">
+    {
+      clinique.equipe.map((m) => (
+        <CarteMembre
+          nom={m.nom}
+          titre={m.titre}
+          fonction={m.fonction[langue]}
+          domaines={m.domaines.length ? enumerer(m.domaines.map((d) => d[langue]), langue) : undefined}
+          langues={m.langues.length ? t.clinique.langues(enumerer(m.langues.map((l) => t.langues[l]), langue)) : undefined}
+          photo={photo(`${clinique.id}:equipe:${m.nom}`, langue)}
+          niveau={2}
+        />
+      ))
+    }
+  </div>
+  <Prose html={html} chapeau />
+</PageInterieure>
+
+<style>
+  .equipe { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
+</style>

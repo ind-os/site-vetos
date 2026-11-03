@@ -1,0 +1,104 @@
+---
+// Le pied de page, sur fond marine. Sur les pages d'une clinique : ses coordonnées et ses
+// horaires. Partout : les huit cliniques, les pages communes et les mentions légales.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import { lienTelephone } from '../lib/format.ts';
+import Horaires from './Horaires.astro';
+
+interface Lien {
+  libelle: string;
+  href: string;
+}
+
+interface Props {
+  langue: Langue;
+  /** La clinique de la page ; ses coordonnées et ses horaires ouvrent le pied de page. */
+  clinique?: Clinique;
+  /** Les huit cliniques, avec leur lien. */
+  cliniques: Lien[];
+  /** Les pages de la clinique, ou les pages communes. */
+  liens: Lien[];
+  legal: Lien[];
+}
+
+const { langue, clinique, cliniques, liens, legal } = Astro.props;
+const t = textes(langue);
+const annee = new Date().getFullYear();
+---
+
+<footer class="pied fond-marine">
+  <div class="conteneur pied__grille">
+    <div class="pied__bloc pied__bloc--premier">
+      {
+        clinique ? (
+          <>
+            <h2 class="pied__titre">{clinique.raison_sociale ?? clinique.nom}</h2>
+            <p>
+              {clinique.adresse.rue}
+              <br />
+              {clinique.adresse.npa} {clinique.adresse.localite} ({clinique.canton})
+            </p>
+            <p>
+              <a href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a>
+              <br />
+              <a href={`mailto:${clinique.email}`}>{clinique.email}</a>
+            </p>
+            <div class="pied__horaires">
+              <Horaires clinique={clinique} langue={langue} />
+            </div>
+          </>
+        ) : (
+          <>
+            <h2 class="pied__titre">{t.site.nom}</h2>
+            <p>{t.site.signature}. {t.site.descriptionDuReseau}.</p>
+          </>
+        )
+      }
+    </div>
+    <nav class="pied__bloc" aria-labelledby="pied-cliniques">
+      <h2 class="pied__titre" id="pied-cliniques">{clinique ? t.clinique.autresCliniques : t.navigation.cliniques}</h2>
+      <ul class="pied__liste pied__liste--colonnes">{cliniques.map((l) => <li><a href={l.href}>{l.libelle}</a></li>)}</ul>
+    </nav>
+    <nav class="pied__bloc" aria-labelledby="pied-pages">
+      <h2 class="pied__titre" id="pied-pages">{clinique ? t.clinique.pagesDeLaClinique : t.site.reseau}</h2>
+      <ul class="pied__liste">{liens.map((l) => <li><a href={l.href}>{l.libelle}</a></li>)}</ul>
+    </nav>
+  </div>
+  <div class="conteneur pied__bas">
+    <p>© {annee} Vetmint</p>
+    <ul class="pied__legal">{legal.map((l) => <li><a href={l.href}>{l.libelle}</a></li>)}</ul>
+  </div>
+</footer>
+
+<style>
+  .pied { padding-block: var(--espace-7) var(--espace-5); font-size: var(--texte-s); }
+  .pied__grille { display: grid; gap: var(--espace-6); }
+  .pied__bloc { display: grid; gap: var(--espace-3); align-content: start; }
+  .pied__titre { font-size: 1.125rem; }
+  .pied a { text-decoration: none; }
+  .pied a:hover { text-decoration: underline; }
+  .pied__liste { list-style: none; margin: 0; padding: 0; line-height: 2; }
+  .pied__horaires { margin-top: var(--espace-2); }
+  .pied__bas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: var(--espace-3);
+    margin-top: var(--espace-7);
+    padding-top: var(--espace-4);
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+  }
+  .pied__legal { display: flex; flex-wrap: wrap; gap: var(--espace-4); list-style: none; margin: 0; padding: 0; }
+
+  @media (min-width: 48rem) {
+    .pied__grille { grid-template-columns: 1.3fr 1fr; }
+    .pied__bloc--premier { grid-row: span 2; }
+    .pied__liste--colonnes { columns: 2; }
+  }
+  @media (min-width: 72rem) {
+    .pied__grille { grid-template-columns: 1.3fr 1.4fr 1fr; }
+    .pied__bloc--premier { grid-row: auto; }
+  }
+</style>

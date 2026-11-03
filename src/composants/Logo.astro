@@ -1,0 +1,39 @@
+---
+// Le logo actuel de Vetmint, tel quel : la patte, la croix et « Vetmint ». Sur les pages d'une
+// clinique, le nom du lieu se place à droite, séparé par un filet. Le logo apparaît une fois
+// par page, dans l'en-tête.
+import { Image } from 'astro:assets';
+import logo from '../assets/logo-vetmint.png';
+
+interface Props {
+  /** Le texte alternatif : « Vetmint, bons soins vétérinaires ». */
+  alt: string;
+  /** Le nom de la clinique, à droite : « Payerne ». */
+  lieu?: string;
+  /** Fait du logo un lien, en général vers l'accueil. */
+  href?: string;
+  /** La hauteur de l'image, en pixels. */
+  hauteur?: number;
+}
+
+const { alt, lieu, href, hauteur = 52 } = Astro.props;
+const Element = href ? 'a' : 'span';
+---
+
+<Element href={href} class="logo" style={`--hauteur: ${hauteur}px`}>
+  <Image src={logo} alt={alt} height={hauteur * 2} densities={[1, 2]} class="logo__image" loading="eager" />
+  {lieu && <span class="logo__lieu">{lieu}</span>}
+</Element>
+
+<style>
+  .logo { display: inline-flex; align-items: center; gap: calc(var(--hauteur) * 0.28); text-decoration: none; }
+  .logo__image { height: var(--hauteur); width: auto; }
+  .logo__lieu {
+    padding-left: calc(var(--hauteur) * 0.28);
+    border-left: 2px solid var(--trait);
+    font: 800 calc(var(--hauteur) * 0.4) / 1.1 var(--police-titre);
+    color: var(--marine);
+    white-space: nowrap;
+  }
+  a.logo:focus-visible { border-radius: 8px; }
+</style>

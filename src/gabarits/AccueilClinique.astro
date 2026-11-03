@@ -1,0 +1,116 @@
+---
+// L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; les
+// horaires, l'accès et les contacts ; les soins de la clinique ; le texte de la page avec la
+// carte de la clinique à côté ; un aperçu de l'équipe.
+import { contexteDe } from '../lib/contexte.ts';
+import { adressePostale } from '../lib/cliniques.ts';
+import { enumerer, lienTelephone, lienWhatsapp } from '../lib/format.ts';
+import { photo, photos } from '../lib/images.ts';
+import { adresse, laPage, titreDe, type Page } from '../lib/pages.ts';
+import { balisageDeLaClinique, balisageDuGroupe } from '../lib/balisage.ts';
+import AppelUrgence from '../composants/AppelUrgence.astro';
+import Accueil from '../composants/Accueil.astro';
+import Bouton from '../composants/Bouton.astro';
+import BoutonRendezVous from '../composants/BoutonRendezVous.astro';
+import Carte from '../composants/Carte.astro';
+import CarteClinique from '../composants/CarteClinique.astro';
+import CarteMembre from '../composants/CarteMembre.astro';
+import Horaires from '../composants/Horaires.astro';
+import Pastilles from '../composants/Pastilles.astro';
+import Prose from '../composants/Prose.astro';
+import Section from '../composants/Section.astro';
+import Base from './Base.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { page, langue, t, html, adresses, titre } = contexte;
+const clinique = contexte.clinique!;
+const id = clinique.id;
+const lien = (cle: string) => adresse(langue, `${id}/${cle}`);
+
+const photoDAccueil = photo(`${id}:accueil`, langue, 1) ?? photo('accueil', langue);
+const services = await Promise.all(
+  clinique.services.map(async (slug) => {
+    const pageDuService = (await laPage(langue, `${id}/services/${slug}`)) ?? (await laPage(langue, `services/${slug}`));
+    const commune = await laPage(langue, `services/${slug}`);
+    return { libelle: commune?.data.nom ?? (commune ? titreDe(commune) : slug), href: pageDuService?.data.url ?? '#' };
+  }),
+);
+const equipe = clinique.equipe.slice(0, 4);
+const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
+---
+
+<Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photoDAccueil?.src} balisage={[balisageDuGroupe(), balisageDeLaClinique(clinique, page.data.url)]}>
+  <Accueil surtitre={t.clinique.surtitre(clinique.lieu, clinique.canton)} titre={titre} accroche={clinique.accroche?.[langue] ?? page.data.resume} photo={photoDAccueil}>
+    <Fragment slot="actions">
+      <BoutonRendezVous clinique={clinique} langue={langue} />
+      <Bouton variante="secondaire" href={lienTelephone(clinique.telephone.international)}>{t.telephone.appeler(clinique.telephone.affiche)}</Bouton>
+    </Fragment>
+    <AppelUrgence clinique={clinique} langue={langue} />
+  </Accueil>
+
+  <Section fond="gris">
+    <div class="infos">
+      <Carte titre={t.horaires.titre} niveau={2}>
+        <Horaires clinique={clinique} langue={langue} />
+      </Carte>
+      <Carte titre={t.clinique.venir} niveau={2} href={await lien('contact')} lien={t.clinique.itineraire}>
+        <p>{adressePostale(clinique)}</p>
+        {clinique.acces.parking && <p>{clinique.acces.parking[langue]}.</p>}
+        {clinique.acces.transports && <p>{clinique.acces.transports[langue]}.</p>}
+      </Carte>
+      <Carte titre={t.clinique.nousJoindre} niveau={2}>
+        <p><a class="lien-fort" href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a></p>
+        {clinique.whatsapp && <p><a href={lienWhatsapp(clinique.whatsapp.international)}>{t.telephone.whatsapp}</a></p>}
+        <p><a href={`mailto:${clinique.email}`}>{clinique.email}</a></p>
+        <p>{t.clinique.especes(especes)}</p>
+      </Carte>
+    </div>
+  </Section>
+
+  <Section titre={t.clinique.services} id="services">
+    <Pastilles liens={services} etiquette={t.clinique.services} />
+  </Section>
+
+  <div class="conteneur texte">
+    <Prose html={html} chapeau />
+    <aside class="texte__cote">
+      <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />
+    </aside>
+  </div>
+
+  {
+    equipe.length > 0 && (
+      <Section fond="gris" titre={t.clinique.equipe} id="equipe">
+        <div class="equipe">
+          {equipe.map((m) => (
+            <CarteMembre
+              nom={m.nom}
+              titre={m.titre}
+              fonction={m.fonction[langue]}
+              photo={photos(`${id}:equipe:${m.nom}`, langue)[0]}
+            />
+          ))}
+        </div>
+        <p><a class="lien-fort" href={await lien('equipe')}>{t.clinique.touteLEquipe}</a></p>
+      </Section>
+    )
+  }
+</Base>
+
+<style>
+  .infos { display: grid; gap: var(--espace-4); }
+  .texte { display: grid; gap: var(--espace-7); padding-block: var(--section-y); }
+  .texte__cote { display: none; }
+  .equipe { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); }
+  @media (min-width: 56rem) {
+    .infos { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  @media (min-width: 64rem) {
+    .texte { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--espace-8); align-items: start; }
+    .texte__cote { display: grid; position: sticky; top: var(--espace-5); }
+  }
+</style>

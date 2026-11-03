@@ -1,0 +1,56 @@
+---
+// L'accueil de vetmint.ch : le premier écran, la carte et les huit cliniques avec leur statut,
+// puis le texte de la page et les derniers conseils santé.
+import { contexteDe } from '../lib/contexte.ts';
+import { lesCliniques } from '../lib/cliniques.ts';
+import { balisageDuGroupe } from '../lib/balisage.ts';
+import { photo } from '../lib/images.ts';
+import { adresse, type Page } from '../lib/pages.ts';
+import Accueil from '../composants/Accueil.astro';
+import Bouton from '../composants/Bouton.astro';
+import CarteClinique from '../composants/CarteClinique.astro';
+import CarteDesCliniques from '../composants/CarteDesCliniques.astro';
+import Prose from '../composants/Prose.astro';
+import Section from '../composants/Section.astro';
+import Base from './Base.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { page, langue, t, html, adresses, titre } = contexte;
+const cliniques = await lesCliniques();
+const photoDAccueil = photo('accueil', langue);
+---
+
+<Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} image={photoDAccueil?.src} balisage={[balisageDuGroupe()]}>
+  <Accueil surtitre={t.site.descriptionDuReseau} titre={titre} accroche={page.data.resume} photo={photoDAccueil}>
+    <Fragment slot="actions">
+      <Bouton href={`${await adresse(langue, 'cliniques')}#rendez-vous`}>{t.cliniques.trouver}</Bouton>
+      <Bouton variante="secondaire" href={await adresse(langue, 'urgences')}>{t.navigation.urgences}</Bouton>
+    </Fragment>
+  </Accueil>
+
+  <Section fond="gris" titre={t.cliniques.trouver} id="cliniques">
+    <div class="reseau">
+      <CarteDesCliniques cliniques={cliniques} langue={langue} />
+      <div class="reseau__cartes">
+        {cliniques.map((c) => <CarteClinique clinique={c} langue={langue} />)}
+      </div>
+    </div>
+  </Section>
+
+  <div class="conteneur texte">
+    <Prose html={html} chapeau />
+  </div>
+</Base>
+
+<style>
+  .reseau { display: grid; gap: var(--espace-6); --fond-carte: var(--gris-bleute); }
+  .reseau__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
+  .texte { padding-block: var(--section-y) var(--espace-8); }
+  @media (min-width: 72rem) {
+    .reseau { grid-template-columns: 26rem minmax(0, 1fr); align-items: start; }
+  }
+</style>

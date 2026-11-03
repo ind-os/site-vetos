@@ -1,0 +1,42 @@
+---
+// Un service, page commune : ce qu'il est, comment il se passe, ses prix. À côté, les cliniques
+// qui le pratiquent, chacune vers sa page du service.
+import { contexteDe } from '../lib/contexte.ts';
+import { lesCliniques, lienDeLaClinique } from '../lib/cliniques.ts';
+import { photo } from '../lib/images.ts';
+import { slugDe, type Page } from '../lib/pages.ts';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { page, langue, t, html } = contexte;
+const slug = slugDe(page);
+const cliniques = await Promise.all(
+  (await lesCliniques())
+    .filter((c) => c.services.includes(slug))
+    .map(async (c) => ({ lieu: c.lieu, href: await lienDeLaClinique(c, langue, `services/${slug}`) })),
+);
+---
+
+<PageInterieure contexte={contexte} photo={photo(`service:${slug}`, langue)} cote={cliniques.length > 0}>
+  <Prose html={html} chapeau />
+  <Fragment slot="cote">
+    <nav class="cliniques" aria-labelledby="dans-quelles-cliniques">
+      <h2 id="dans-quelles-cliniques">{t.services.dansQuellesCliniques}</h2>
+      <ul>{cliniques.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
+    </nav>
+  </Fragment>
+</PageInterieure>
+
+<style>
+  .cliniques { display: grid; gap: var(--espace-3); padding: 22px; border: 1px solid var(--trait); border-radius: var(--rayon-carte); }
+  .cliniques h2 { font-size: var(--titre-3); }
+  .cliniques ul { list-style: none; margin: 0; padding: 0; display: grid; }
+  .cliniques li + li { border-top: 1px solid var(--trait-leger); }
+  .cliniques a { display: flex; align-items: center; min-height: 44px; font-weight: 700; text-decoration: none; }
+  .cliniques a:hover { text-decoration: underline; }
+</style>

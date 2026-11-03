@@ -1,0 +1,121 @@
+---
+// La mise en page de toutes les pages : tête HTML, bandeau d'annonce de la clinique, en-tête et
+// navigation, contenu, pied de page. Une page de clinique a la navigation de sa clinique ; une
+// page commune celle du réseau.
+import type { ImageMetadata } from 'astro';
+import '../styles/charte.css';
+import { CODES_DE_LANGUE, type Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import BandeauAnnonce from '../composants/BandeauAnnonce.astro';
+import EnTete from '../composants/EnTete.astro';
+import PiedDePage from '../composants/PiedDePage.astro';
+import TeteHtml from '../composants/TeteHtml.astro';
+import { lesCliniques, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
+import { adresse } from '../lib/pages.ts';
+
+interface Props {
+  langue: Langue;
+  titre: string;
+  description: string;
+  /** L'adresse de la page dans chaque langue où elle existe. */
+  adresses: Partial<Record<Langue, string>>;
+  /** La clinique de la page : sa navigation, son bandeau, son pied de page. */
+  clinique?: Clinique;
+  image?: ImageMetadata;
+  balisage?: Record<string, unknown>[];
+  noindex?: boolean;
+}
+
+const { langue, titre, description, adresses, clinique, image, balisage, noindex } = Astro.props;
+const t = textes(langue);
+const n = t.navigation;
+const autreLangue = langue === 'fr' ? 'de' : 'fr';
+const lien = (cle: string) => adresse(langue, cle);
+
+const cliniques = await lesCliniques();
+const liensDesCliniques = await Promise.all(
+  cliniques.filter((c) => c.id !== clinique?.id).map(async (c) => ({ libelle: c.lieu, href: await lienDeLaClinique(c, langue) })),
+);
+const legal = [
+  { libelle: n.confidentialite, href: await lien('confidentialite') },
+  { libelle: n.mentionsLegales, href: await lien('mentions-legales') },
+];
+
+let entete: { accueil: string; lieu?: string; liens: { libelle: string; href: string }[]; urgence: { libelle: string; href: string }; rendezVous?: string };
+let liensDuPied: { libelle: string; href: string }[];
+
+if (clinique) {
+  const page = (cle: string) => lien(`${clinique.id}/${cle}`);
+  const accueil = await page('index');
+  entete = {
+    accueil,
+    lieu: clinique.lieu,
+    liens: [
+      { libelle: n.services, href: `${accueil}#services` },
+      { libelle: n.tarifs, href: await page('tarifs') },
+      { libelle: n.abonnements, href: await page('abonnements') },
+      { libelle: n.equipe, href: await page('equipe') },
+      { libelle: n.contact, href: await page('contact') },
+    ],
+    urgence: { libelle: n.urgences, href: clinique.urgences ? await page('urgences') : await lien('urgences') },
+  };
+  liensDuPied = [
+    { libelle: t.rendezVous.bouton, href: await page('rendez-vous') },
+    { libelle: n.questions, href: await page('questions-frequentes') },
+    { libelle: n.tarifs, href: await page('tarifs') },
+    { libelle: n.abonnements, href: await page('abonnements') },
+    { libelle: n.conseils, href: await lien('conseils/index') },
+    { libelle: n.emploi, href: await lien('emploi') },
+    { libelle: t.site.reseau, href: await lien('index') },
+  ];
+} else {
+  const pageDesCliniques = await lien('cliniques');
+  entete = {
+    accueil: await lien('index'),
+    liens: [
+      { libelle: n.cliniques, href: pageDesCliniques },
+      { libelle: n.services, href: await lien('services/index') },
+      { libelle: n.conseils, href: await lien('conseils/index') },
+      { libelle: n.emploi, href: await lien('emploi') },
+    ],
+    urgence: { libelle: n.urgences, href: await lien('urgences') },
+    rendezVous: `${pageDesCliniques}#rendez-vous`,
+  };
+  liensDuPied = [
+    { libelle: n.services, href: await lien('services/index') },
+    { libelle: n.conseils, href: await lien('conseils/index') },
+    { libelle: n.urgences, href: await lien('urgences') },
+    { libelle: n.emploi, href: await lien('emploi') },
+    { libelle: n.aPropos, href: await lien('a-propos') },
+    { libelle: n.newsletter, href: await lien('newsletter') },
+  ];
+}
+---
+
+<!doctype html>
+<html lang={CODES_DE_LANGUE[langue]}>
+  <head>
+    <TeteHtml langue={langue} titre={titre} description={description} adresses={adresses} image={image} balisage={balisage} noindex={noindex} />
+  </head>
+  <body>
+    <a class="lien-evitement" href="#contenu">{n.allerAuContenu}</a>
+    {clinique && <BandeauAnnonce clinique={clinique} langue={langue} />}
+    <EnTete
+      langue={langue}
+      accueil={entete.accueil}
+      lieu={entete.lieu}
+      liens={entete.liens}
+      urgence={entete.urgence}
+      clinique={clinique}
+      rendezVous={entete.rendezVous}
+      autreLangue={adresses[autreLangue]}
+    />
+    <main id="contenu">
+      <slot />
+    </main>
+    <PiedDePage langue={langue} clinique={clinique} cliniques={liensDesCliniques} liens={liensDuPied} legal={legal} />
+    <script>
+      import '../scripts/statut-ouverture.ts';
+    </script>
+  </body>
+</html>

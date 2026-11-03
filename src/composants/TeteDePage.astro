@@ -1,0 +1,40 @@
+---
+// L'en-tête d'une page intérieure, sur fond gris bleuté : fil d'Ariane, titre, et une photo
+// encadrée à droite si la page en a une.
+import type { Photo as PhotoDuCatalogue } from '../lib/images.ts';
+import FilDAriane from './FilDAriane.astro';
+import Photo from './Photo.astro';
+
+interface Props {
+  titre: string;
+  fil: { libelle: string; href: string }[];
+  etiquetteDuFil: string;
+  /** Une phrase sous le titre. */
+  surtitre?: string;
+  photo?: PhotoDuCatalogue;
+}
+
+const { titre, fil, etiquetteDuFil, surtitre, photo } = Astro.props;
+---
+
+<header class="tete fond-gris">
+  <div class:list={['conteneur', 'tete__grille', { 'tete__grille--photo': photo }]}>
+    <div class="tete__texte">
+      <FilDAriane etapes={fil} etiquette={etiquetteDuFil} />
+      {surtitre && <p class="surtitre">{surtitre}</p>}
+      <h1>{titre}</h1>
+      <slot />
+    </div>
+    {photo && <Photo photo={photo} ratio="3 / 2" largeur={460} chargement="eager" />}
+  </div>
+</header>
+
+<style>
+  .tete { padding-block: var(--espace-5) var(--espace-6); }
+  .tete__grille { display: grid; gap: var(--espace-5); align-items: center; }
+  .tete__texte { display: grid; gap: var(--espace-3); }
+  @media (min-width: 56rem) {
+    .tete { padding-block: var(--espace-6) var(--espace-7); }
+    .tete__grille--photo { grid-template-columns: minmax(0, 1fr) minmax(0, 26rem); gap: var(--espace-8); }
+  }
+</style>

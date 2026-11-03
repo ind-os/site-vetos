@@ -1,0 +1,275 @@
+---
+// Le styleguide : chaque bloc réutilisable du site, rendu avec ses variantes, et la façon de
+// l'écrire. Une page de travail, en français seulement, jamais indexée (noindex, robots.txt,
+// absente du plan du site). Un nouveau composant s'ajoute ici le jour où il est créé.
+import Base from '../../gabarits/Base.astro';
+import Exemple from '../../composants/styleguide/Exemple.astro';
+import Accueil from '../../composants/Accueil.astro';
+import AppelUrgence from '../../composants/AppelUrgence.astro';
+import BandeauAnnonce from '../../composants/BandeauAnnonce.astro';
+import Bouton from '../../composants/Bouton.astro';
+import BoutonRendezVous from '../../composants/BoutonRendezVous.astro';
+import Carte from '../../composants/Carte.astro';
+import CarteClinique from '../../composants/CarteClinique.astro';
+import CarteConseil from '../../composants/CarteConseil.astro';
+import CarteDesCliniques from '../../composants/CarteDesCliniques.astro';
+import CarteMembre from '../../composants/CarteMembre.astro';
+import CarteService from '../../composants/CarteService.astro';
+import CroixSuisse from '../../composants/CroixSuisse.astro';
+import FilDAriane from '../../composants/FilDAriane.astro';
+import Horaires from '../../composants/Horaires.astro';
+import Pastilles from '../../composants/Pastilles.astro';
+import Photo from '../../composants/Photo.astro';
+import Prose from '../../composants/Prose.astro';
+import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
+import Section from '../../composants/Section.astro';
+import StatutOuverture from '../../composants/StatutOuverture.astro';
+import TeteDePage from '../../composants/TeteDePage.astro';
+import { laClinique, lesCliniques } from '../../lib/cliniques.ts';
+import { htmlDeLaGarde } from '../../lib/donnees-de-la-clinique.ts';
+import { photo } from '../../lib/images.ts';
+
+const langue = 'fr';
+const payerne = await laClinique('payerne');
+const cliniques = await lesCliniques();
+// Des variantes de la fiche, pour montrer un bandeau et une fermeture
+const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'La clinique ferme à 16 h le vendredi 24 décembre.', de: '' }, niveau: 'info' as const } };
+const avecBandeauUrgent = { ...payerne, bandeau: { texte: { fr: 'Le téléphone est en dérangement ce matin : écrivez sur WhatsApp.', de: '' }, niveau: 'urgent' as const } };
+const avecFermeture = { ...payerne, fermetures: [{ du: '2026-12-24', au: '2026-12-26', motif: { fr: 'fêtes de fin d’année', de: '' } }] };
+
+const couleurs = [
+  { nom: 'Marine', valeur: '#0A4675', variable: '--marine', sens: 'Titres, navigation, pied de page.' },
+  { nom: 'Menthe', valeur: '#00857A', variable: '--menthe-texte', sens: 'Ce qui s’active : boutons et liens.' },
+  { nom: 'Menthe foncé', valeur: '#006B62', variable: '--menthe-fonce', sens: 'Le survol des boutons et des liens.' },
+  { nom: 'Menthe du logo', valeur: '#009C8C', variable: '--menthe', sens: 'Décor seulement, jamais du texte.' },
+  { nom: 'Gris bleuté', valeur: '#F2F6F8', variable: '--gris-bleute', sens: 'Fond des sections alternées et des en-têtes de page.' },
+  { nom: 'Rouge de la croix', valeur: '#C8102E', variable: '--urgence', sens: 'L’urgence, rien d’autre.' },
+  { nom: 'Encre', valeur: '#1D3448', variable: '--encre', sens: 'Texte courant.' },
+  { nom: 'Gris', valeur: '#5B6B78', variable: '--gris', sens: 'Texte secondaire, puces.' },
+  { nom: 'Filet', valeur: '#DCE5EA', variable: '--trait', sens: 'Bordure des cartes.' },
+];
+
+const proseExemple = `
+<p>Le chapeau, premier paragraphe d’une page, est un peu plus grand. La suite du texte garde 70 caractères par ligne.</p>
+<h2>Un titre de section</h2>
+<p>Un paragraphe avec un <a href="#">lien dans le texte</a> et un mot <strong>en gras</strong>.</p>
+<ul class="liste-de-liens">
+  <li><a href="#">Radiographie</a> : os, poumons, ventre et dépistage de la dysplasie.</li>
+  <li><a href="#">Échographie</a> : le ventre, le cœur et la gestation.</li>
+</ul>
+<div class="tableau" role="region" tabindex="0"><table><thead><tr><th>Soin</th><th>Prix</th></tr></thead><tbody><tr><td>Consultation de 30 minutes</td><td>57 CHF</td></tr><tr><td>Bilan annuel du chien avec vaccins</td><td>94 CHF</td></tr></tbody></table></div>
+<p class="appel"><a class="bouton bouton--principal" href="#">Prendre rendez-vous</a></p>
+${htmlDeLaGarde(payerne, langue)}`;
+---
+
+<Base langue={langue} titre="Styleguide | Vetmint" description="Les blocs réutilisables du site Vetmint, avec leurs variantes." adresses={{}} noindex>
+  <TeteDePage titre="Styleguide" fil={[{ libelle: 'Accueil', href: '/' }, { libelle: 'Styleguide', href: '/styleguide/' }]} etiquetteDuFil="Vous êtes ici">
+    <p class="intro">Chaque bloc du site, avec ses variantes et la façon de l’écrire. Une page se construit avec ces blocs : on n’en crée un nouveau que si aucun ne convient, et on l’ajoute ici le même jour. Les règles et le pourquoi sont dans <code>docs/charte-graphique.md</code>.</p>
+  </TeteDePage>
+
+  <div class="conteneur styleguide">
+    <nav class="sommaire" aria-label="Sommaire du styleguide">
+      <a href="#fondations">Fondations</a>
+      <a href="#actions">Actions</a>
+      <a href="#urgence">Urgence</a>
+      <a href="#donnees">Données de la clinique</a>
+      <a href="#cartes">Cartes</a>
+      <a href="#texte">Texte</a>
+      <a href="#mise-en-page">Mise en page</a>
+    </nav>
+
+    <section id="fondations">
+      <h2>Fondations</h2>
+
+      <Exemple titre="Couleurs" description="Une couleur porte un sens. Avant d’en poser une, on sait ce qu’elle code ; sinon, gris. Au survol, seule la couleur change : rien ne bouge, ne pivote ni ne grandit." fichier="styles/charte.css">
+        <div class="couleurs">
+          {
+            couleurs.map((c) => (
+              <div class="couleur">
+                <span class="couleur__pastille" style={`background: ${c.valeur}`} />
+                <p><strong>{c.nom}</strong> <code>{c.valeur}</code></p>
+                <p class="couleur__sens">{c.sens}</p>
+                <p><code>var({c.variable})</code></p>
+              </div>
+            ))
+          }
+        </div>
+      </Exemple>
+
+      <Exemple titre="Typographie" description="Titres en Nunito 800, marine. Texte en Nunito Sans 17 px, interligne 1,55. Le surtitre, en petites capitales menthe, situe la page." fichier="styles/charte.css">
+        <p class="surtitre">Clinique vétérinaire · Payerne (VD)</p>
+        <h1>Titre de page, h1</h1>
+        <h2>Titre de section, h2</h2>
+        <h3>Titre de carte, h3</h3>
+        <p>Le texte courant. La clinique reçoit les chiens, les chats, les lapins et les rongeurs à la route du Châtelard 13.</p>
+      </Exemple>
+
+      <Exemple titre="Photo" description="Une photo du catalogue (src/assets/images/catalogue.json), encadrée, recadrée sur son point focal. Elle ne porte jamais de texte." fichier="composants/Photo.astro" code={`<Photo photo={photo('payerne:locaux', langue)} ratio="4 / 3" largeur={360} />`}>
+        <div class="etroit">{photo('payerne:locaux', langue) && <Photo photo={photo('payerne:locaux', langue)!} ratio="4 / 3" largeur={360} />}</div>
+      </Exemple>
+    </section>
+
+    <section id="actions">
+      <h2>Actions</h2>
+
+      <Exemple titre="Bouton" description="En pilule, en aplat. Principal, menthe plein : l’action de la page, une seule par bloc. Secondaire, contour marine : l’action d’à côté. Dans le Markdown, un lien seul sur sa ligne devient un bouton principal." fichier="composants/Bouton.astro" code={`<Bouton href="/cliniques/">Trouver sa clinique</Bouton>\n<Bouton variante="secondaire" href="tel:+41266601616">Appeler le 026 660 16 16</Bouton>\n<Bouton taille="petit">Petit bouton</Bouton>`}>
+        <div class="rangee">
+          <Bouton href="#">Trouver sa clinique</Bouton>
+          <Bouton variante="secondaire" href="#">Appeler le 026 660 16 16</Bouton>
+          <Bouton taille="petit">Petit bouton</Bouton>
+          <Bouton taille="petit" variante="secondaire">Petit secondaire</Bouton>
+        </div>
+      </Exemple>
+
+      <Exemple titre="Bouton de rendez-vous" description="Ouvre le module de réservation de la clinique (Calendly, ou VetLink à Saint-Légier). Le module ne se charge qu’au clic : la page reste rapide. Sans JavaScript, le lien ouvre l’agenda dans un onglet." fichier="composants/BoutonRendezVous.astro" code={`<BoutonRendezVous clinique={clinique} langue={langue} />`}>
+        <div class="rangee">
+          <BoutonRendezVous clinique={payerne} langue={langue} />
+          <BoutonRendezVous clinique={payerne} langue={langue} variante="secondaire" taille="petit" />
+        </div>
+      </Exemple>
+    </section>
+
+    <section id="urgence">
+      <h2>Urgence</h2>
+
+      <Exemple titre="Croix suisse" description="Le carré rouge du logo. Il signale l’urgence, et rien d’autre." fichier="composants/CroixSuisse.astro" code={`<CroixSuisse taille="22px" />`}>
+        <div class="rangee"><CroixSuisse /> <CroixSuisse taille="32px" /></div>
+      </Exemple>
+
+      <Exemple titre="Rappel d’urgence" description="Le numéro de garde, cliquable, avec son tarif. En ligne sous l’accueil d’une clinique ; en bloc en tête de sa page Urgences." fichier="composants/AppelUrgence.astro" code={`<AppelUrgence clinique={clinique} langue={langue} />\n<AppelUrgence clinique={clinique} langue={langue} forme="bloc" />`}>
+        <AppelUrgence clinique={payerne} langue={langue} />
+        <AppelUrgence clinique={payerne} langue={langue} forme="bloc" />
+      </Exemple>
+    </section>
+
+    <section id="donnees">
+      <h2>Données de la clinique</h2>
+      <p class="intro">Ces blocs lisent la fiche de la clinique (<code>src/donnees/cliniques/&lt;clinique&gt;.json</code>). Pour changer un horaire, une fermeture ou une annonce, on change la fiche : toutes les pages suivent.</p>
+
+      <Exemple titre="Horaires" description="Les jours qui ont les mêmes plages se regroupent. La ligne « Ouvert maintenant » se calcule dans le navigateur, à l’heure de Zurich. Les fermetures annoncées s’ajoutent dessous jusqu’à leur dernier jour." fichier="composants/Horaires.astro" code={`<Horaires clinique={clinique} langue={langue} />`}>
+        <div class="deux">
+          <Carte titre="Horaires"><Horaires clinique={payerne} langue={langue} /></Carte>
+          <Carte titre="Avec une fermeture"><Horaires clinique={avecFermeture} langue={langue} /></Carte>
+        </div>
+      </Exemple>
+
+      <Exemple titre="Statut d’ouverture" description="Seul, pour une carte de clinique. Le point menthe dit ouvert, gris fermé." fichier="composants/StatutOuverture.astro" code={`<StatutOuverture clinique={clinique} langue={langue} />`}>
+        <StatutOuverture clinique={payerne} langue={langue} />
+      </Exemple>
+
+      <Exemple titre="Bandeau d’annonce" description="En haut de chaque page de la clinique, jusqu’à sa date de fin (champ bandeau de la fiche). « urgent » le pose en rouge." fichier="composants/BandeauAnnonce.astro" code={`"bandeau": { "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`}>
+        <BandeauAnnonce clinique={avecBandeau} langue={langue} />
+        <BandeauAnnonce clinique={avecBandeauUrgent} langue={langue} />
+      </Exemple>
+    </section>
+
+    <section id="cartes">
+      <h2>Cartes</h2>
+
+      <Exemple titre="Carte" description="Fond blanc, filet gris, coins de 12 px. Elle porte un bloc d’information, avec un lien qui la termine." fichier="composants/Carte.astro" code={`<Carte titre="Venir à la clinique" href="/payerne/contact/" lien="Itinéraire">\n  <p>Route du Châtelard 13, 1530 Payerne</p>\n</Carte>`} fond="gris">
+        <div class="trois">
+          <Carte titre="Venir à la clinique" href="#" lien="Itinéraire"><p>Route du Châtelard 13, 1530 Payerne</p><p>Places de parc gratuites à proximité.</p></Carte>
+          <Carte titre="Nous joindre"><p><a class="lien-fort" href="#">026 660 16 16</a></p><p>payerne@vetmint.ch</p></Carte>
+        </div>
+      </Exemple>
+
+      <Exemple titre="Carte de clinique" description="Une clinique : nom, statut, adresse, téléphone, rendez-vous. Le lien mène à ses pages, ou à son site actuel tant qu’elle n’est pas en ligne ici." fichier="composants/CarteClinique.astro" code={`<CarteClinique clinique={clinique} langue={langue} />`} fond="gris">
+        <div class="trois">
+          <CarteClinique clinique={payerne} langue={langue} />
+          <CarteClinique clinique={cliniques[0]} langue={langue} />
+        </div>
+      </Exemple>
+
+      <Exemple titre="Carte de service" description="Un soin : son nom, sa phrase de résumé, le lien. Toute la carte est cliquable ; au survol, seul le filet change de couleur." fichier="composants/CarteService.astro" code={`<CarteService titre="Radiographie" resume="Os, poumons, ventre." href="/services/radiographie/" lien="Voir le service" />`}>
+        <div class="trois">
+          <CarteService titre="Radiographie" resume="Ce que montre une radio, son déroulement, la sédation et les prix." href="#" lien="Voir le service" />
+          <CarteService titre="Échographie" resume="Le ventre, le cœur et la gestation." href="#" lien="Voir le service" />
+        </div>
+      </Exemple>
+
+      <Exemple titre="Carte de conseil" description="Un conseil santé : photo, espèce, titre, résumé, temps de lecture." fichier="composants/CarteConseil.astro" code={`<CarteConseil titre="Le lapin" href="/conseils/le-lapin/" surtitre="Lapin et NAC" resume="…" duree="8 min de lecture" photo={photo('conseil:le-lapin', langue)} />`}>
+        <div class="trois">
+          <CarteConseil titre="Le lapin" href="#" surtitre="Lapin et NAC" resume="Alimentation, dents et signes d’alerte." duree="8 min de lecture" photo={photo('conseil:le-lapin', langue)} />
+          <CarteConseil titre="L’obésité du chat" href="#" surtitre="Chat" resume="Savoir si votre chat est trop gros." duree="6 min de lecture" photo={photo('conseil:obesite-du-chat', langue)} />
+        </div>
+      </Exemple>
+
+      <Exemple titre="Carte d’une personne" description="Une personne de l’équipe : son portrait s’il existe, sinon ses initiales ; sa fonction, ses domaines, ses langues." fichier="composants/CarteMembre.astro" code={`<CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />`} fond="gris">
+        <div class="trois">
+          <CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" langues="Langues : français et allemand" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />
+          <CarteMembre nom="Tiago Capelo" fonction="Vétérinaire" domaines="consultations et chirurgie" />
+        </div>
+      </Exemple>
+
+      <Exemple titre="Carte des cliniques" description="La Suisse romande en SVG, sans bibliothèque de carte. Chaque point mène à la clinique ; la clinique de la page est en menthe." fichier="composants/CarteDesCliniques.astro" code={`<CarteDesCliniques cliniques={cliniques} langue={langue} actuelle="payerne" />`}>
+        <div class="etroit"><CarteDesCliniques cliniques={cliniques} langue={langue} actuelle="payerne" /></div>
+      </Exemple>
+    </section>
+
+    <section id="texte">
+      <h2>Texte</h2>
+
+      <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile. Un bloc de données (horaires, garde) se remplit avec la fiche de la clinique." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
+        <Prose html={proseExemple} chapeau />
+      </Exemple>
+
+      <Exemple titre="Questions fréquentes" description="Chaque question ### d’une page s’ouvre au clic, sans JavaScript. La page porte le balisage FAQPage pour les moteurs de recherche." fichier="composants/QuestionsFrequentes.astro" code={`<QuestionsFrequentes questions={[{ question: '…', reponse: '<p>…</p>' }]} />`}>
+        <QuestionsFrequentes
+          questions={[
+            { question: 'Faut-il venir à jeun pour une prise de sang ?', reponse: '<p>Oui, douze heures sans manger. L’eau reste permise.</p>' },
+            { question: 'Puis-je rester pendant la consultation ?', reponse: '<p>Oui. Vous restez avec votre animal pendant tout l’examen.</p>' },
+          ]}
+        />
+      </Exemple>
+
+      <Exemple titre="Pastilles" description="Des liens courts en pastilles : les soins d’une clinique." fichier="composants/Pastilles.astro" code={`<Pastilles liens={[{ libelle: 'Radiographie', href: '/payerne/services/radiographie/' }]} etiquette="Les soins de la clinique" />`}>
+        <Pastilles liens={[{ libelle: 'Consultation', href: '#' }, { libelle: 'Vaccination du chien', href: '#' }, { libelle: 'Radiographie', href: '#' }, { libelle: 'Soins dentaires', href: '#' }]} etiquette="Exemple de pastilles" />
+      </Exemple>
+
+      <Exemple titre="Fil d’Ariane" description="Au-dessus du titre d’une page intérieure." fichier="composants/FilDAriane.astro" code={`<FilDAriane etapes={fil} etiquette="Vous êtes ici" />`}>
+        <FilDAriane etapes={[{ libelle: 'Accueil', href: '#' }, { libelle: 'Payerne', href: '#' }, { libelle: 'Radiographie', href: '#' }]} etiquette="Exemple de fil d’Ariane" />
+      </Exemple>
+    </section>
+
+    <section id="mise-en-page">
+      <h2>Mise en page</h2>
+
+      <Exemple titre="Accueil" description="Le premier écran d’un accueil : surtitre, titre, accroche, boutons, et la photo encadrée à côté du titre. Le rappel d’urgence se pose dessous." fichier="composants/Accueil.astro" code={`<Accueil surtitre="…" titre="…" accroche="…" photo={photo}>\n  <Fragment slot="actions">…</Fragment>\n</Accueil>`}>
+        <Accueil surtitre="Clinique vétérinaire · Payerne (VD)" titre="Clinique vétérinaire Vetmint Payerne" accroche={payerne.accroche?.fr} photo={photo('payerne:accueil', langue, 1)}>
+          <Fragment slot="actions">
+            <BoutonRendezVous clinique={payerne} langue={langue} />
+            <Bouton variante="secondaire" href="#">Appeler le 026 660 16 16</Bouton>
+          </Fragment>
+          <AppelUrgence clinique={payerne} langue={langue} />
+        </Accueil>
+      </Exemple>
+
+      <Exemple titre="En-tête de page" description="L’en-tête d’une page intérieure, sur gris bleuté : fil d’Ariane, titre, et une photo à droite si la page en a une." fichier="composants/TeteDePage.astro" code={`<TeteDePage titre="Radiographie à Payerne" fil={fil} etiquetteDuFil="Vous êtes ici" photo={photo} />`}>
+        <TeteDePage titre="Radiographie à Payerne" fil={[{ libelle: 'Accueil', href: '#' }, { libelle: 'Payerne', href: '#' }, { libelle: 'Radiographie', href: '#' }]} etiquetteDuFil="Exemple" surtitre="Ce soin à Payerne" photo={photo('service:radiographie', langue)} />
+      </Exemple>
+
+      <Exemple titre="Section" description="Une bande de la page, dans la largeur du site. Les fonds blanc et gris bleuté alternent d’une section à l’autre." fichier="composants/Section.astro" code={`<Section titre="Les soins de la clinique" fond="gris" id="services">…</Section>`}>
+        <Section titre="Une section sur fond gris" surtitre="Surtitre" fond="gris"><p>Le contenu de la section.</p></Section>
+      </Exemple>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .intro { max-width: var(--lecture); color: var(--encre-douce); }
+  .styleguide { display: grid; gap: var(--espace-7); padding-block: var(--section-y) var(--espace-8); }
+  .styleguide > section { display: grid; gap: var(--espace-3); scroll-margin-top: var(--espace-5); }
+  .sommaire { display: flex; flex-wrap: wrap; gap: var(--espace-2) var(--espace-5); font-weight: 700; }
+  .couleurs { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); }
+  .couleur { display: grid; gap: var(--espace-1); font-size: var(--texte-s); }
+  .couleur__pastille { height: 64px; border-radius: var(--rayon-carte); border: 1px solid var(--trait); }
+  .couleur__sens { color: var(--encre-douce); }
+  .rangee { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espace-3); }
+  .deux, .trois { display: grid; gap: var(--espace-4); }
+  .etroit { max-width: 420px; }
+  code { font: 0.875em ui-monospace, "SF Mono", Menlo, monospace; }
+  @media (min-width: 48rem) {
+    .deux { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .trois { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+</style>

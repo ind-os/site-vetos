@@ -1,0 +1,13 @@
+---
+// Le texte d'une page Markdown, mis en forme : titres, listes, tableaux, boutons. Le chapeau,
+// premier paragraphe, est un peu plus grand.
+interface Props {
+  html: string;
+  chapeau?: boolean;
+  class?: string;
+}
+
+const { html, chapeau = false, class: classe } = Astro.props;
+---
+
+<div class:list={['prose', { 'prose--chapeau': chapeau }, classe]} set:html={html} />

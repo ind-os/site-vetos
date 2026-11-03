@@ -1,0 +1,98 @@
+---
+// La carte romande des huit cliniques, en SVG, sans bibliothèque de carte : les lacs en gris
+// bleuté, un point par clinique placé d'après ses coordonnées. Chaque point est un lien vers la
+// clinique. La clinique de la page est en menthe.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import { adressePostale, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
+
+interface Props {
+  cliniques: Clinique[];
+  langue: Langue;
+  /** L'identifiant de la clinique mise en avant. */
+  actuelle?: string;
+}
+
+const { cliniques, langue, actuelle } = Astro.props;
+const t = textes(langue);
+
+// Projection équirectangulaire calée sur Bussigny et Lausanne.
+const projeter = (lat: number, lng: number) => ({
+  x: Math.round((196.3 + (lng - 6.5551) * 432) * 10) / 10,
+  y: Math.round((397.8 - (lat - 46.5509) * 628) * 10) / 10,
+});
+
+// La position de l'étiquette de chaque clinique, pour qu'aucune ne se chevauche.
+const ETIQUETTES: Record<string, { ancre: 'start' | 'middle' | 'end'; dx: number; dy: number }> = {
+  bussigny: { ancre: 'end', dx: -16, dy: -10 },
+  chauxdefonds: { ancre: 'start', dx: 14, dy: 5 },
+  domdidier: { ancre: 'start', dx: 14, dy: 7 },
+  fribourg: { ancre: 'middle', dx: 0, dy: 27 },
+  lacdejoux: { ancre: 'start', dx: 13, dy: -6 },
+  payerne: { ancre: 'end', dx: -14, dy: 5 },
+  saintblaise: { ancre: 'start', dx: 14, dy: 0 },
+  saintlegier: { ancre: 'start', dx: 14, dy: 6 },
+};
+
+const points = await Promise.all(
+  cliniques.map(async (c) => ({
+    id: c.id,
+    lieu: c.lieu,
+    ...projeter(c.coordonnees.lat, c.coordonnees.lng),
+    etiquette: ETIQUETTES[c.id] ?? { ancre: 'start', dx: 14, dy: 5 },
+    lien: await lienDeLaClinique(c, langue),
+    aria: `${c.nom}, ${adressePostale(c)}`,
+    actuelle: c.id === actuelle,
+  })),
+);
+const lausanne = projeter(46.5197, 6.6323);
+---
+
+<figure class="carte-cliniques">
+  <svg viewBox="24 12 492 492" role="group" aria-label={t.cliniques.carte}>
+    <g class="carte-cliniques__lacs" aria-hidden="true">
+      <polygon points="21.3,613.8 26.9,566 39.4,544.7 60.2,503.9 79.6,480 102.1,456.1 153.9,442.3 171.2,425.4 198.4,423.5 227.4,426 252.8,428.5 271.4,437.3 320.7,454.3 341.8,466.8 349.6,473.7 357,494.4 326.7,502.6 304.3,497.6 269.7,487.5 211.4,491.9 183.3,493.8 163.9,508.9 109.9,525.2 97.3,511.4 87,516.4 61,554.1 52.4,570.4 25.6,615" />
+      <polygon points="233,252 235.6,235.7 267.5,209.3 283.5,194.3 308.6,161.6 335.8,132.1 358.3,122 377.7,110.7 393.7,112 397.1,142.1 366.9,166 347.5,186.1 322,209.3 277,241.4 239.5,250.8" />
+      <polygon points="399.3,171 421.3,174.2 438.6,161 442.1,154.7 436,138.4 423.1,149 407.1,160.4" />
+      <polygon points="418.7,81.9 430.8,88.1 454.2,86.2 474.9,73.1 490,43.5 493.5,35.4 492.2,27.8 474.9,43.5 456.8,56.1 447.7,63 430.8,75.6" />
+      <polygon points="101.6,326.1 86.1,339.8 64.5,355.5 55,365.1 69.7,362.4 91.3,345.8 103.1,334.4" />
+    </g>
+    <g class="carte-cliniques__repere" aria-hidden="true">
+      <circle cx={lausanne.x} cy={lausanne.y} r="6"></circle>
+      <text x={lausanne.x + 12} y={lausanne.y + 18}>Lausanne</text>
+    </g>
+    {
+      points.map((p) => (
+        <a href={p.lien} class:list={['carte-cliniques__point', { 'carte-cliniques__point--actuelle': p.actuelle }]} aria-label={p.aria}>
+          <circle cx={p.x} cy={p.y} r={p.actuelle ? 11 : 8} />
+          <text x={p.x + p.etiquette.dx} y={p.y + p.etiquette.dy} text-anchor={p.etiquette.ancre}>{p.lieu}</text>
+        </a>
+      ))
+    }
+  </svg>
+</figure>
+
+<style>
+  .carte-cliniques { margin: 0; max-width: 520px; }
+  .carte-cliniques svg { width: 100%; height: auto; overflow: hidden; }
+  .carte-cliniques__lacs polygon { fill: #D6E5EE; }
+  .carte-cliniques__repere circle { fill: var(--blanc); stroke: var(--gris); stroke-width: 2; stroke-dasharray: 3 3; }
+  .carte-cliniques__repere text { fill: var(--gris); font: 500 15px var(--police-texte); }
+  .carte-cliniques__point circle { fill: var(--marine); stroke: var(--blanc); stroke-width: 3; transition: fill var(--transition); }
+  .carte-cliniques__point text {
+    fill: var(--marine);
+    font: 700 17px var(--police-texte);
+    paint-order: stroke;
+    stroke: var(--fond-carte, var(--blanc));
+    stroke-width: 4px;
+    stroke-linejoin: round;
+    transition: fill var(--transition);
+  }
+  .carte-cliniques__point:hover circle,
+  .carte-cliniques__point--actuelle circle { fill: var(--menthe-texte); }
+  .carte-cliniques__point:hover text,
+  .carte-cliniques__point--actuelle text { fill: var(--menthe-fonce); }
+  .carte-cliniques__point:hover text { text-decoration: underline; }
+  .carte-cliniques__point:focus-visible { outline: none; }
+  .carte-cliniques__point:focus-visible circle { stroke: var(--focus); stroke-width: 4; }
+</style>

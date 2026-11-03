@@ -1,0 +1,94 @@
+---
+type: simple
+url: /confidentialite/
+title: "Politique de confidentialité des sites Vetmint"
+description: "Quelles données les sites Vetmint traitent, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, lettre d'information, mesure d'audience."
+h1: Politique de confidentialité
+recherche: politique de confidentialité Vetmint
+redige_le: 2026-10-16
+sources:
+  - contenu-des-pages.md, vetmint.ch/politique-de-confidentialite/ et pages Politique de confidentialité de Bussigny, Domdidier et Saint-Légier (texte identique), relevé du 16 octobre 2026
+  - contenu-des-pages.md, pied de page de vetmint.ch (Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg ; ek@vetmint.ch), relevé du 16 octobre 2026
+  - AGENTS.md du dossier de travail d'AVQN (hébergement sur un serveur Infomaniak au nom de Vetmint, base des horaires, fiches Google)
+  - docs/api.md (données de la base des horaires, sans donnée personnelle)
+  - loi fédérale sur la protection des données (LPD) du 25 septembre 2020, en vigueur depuis le 1er septembre 2023
+a_remplacer:
+  - "Responsable du traitement : Vetmint SA pour les sites, la clinique choisie pour les rendez-vous et le dossier de l'animal (la politique actuelle cite tour à tour Vetmint SA et Vetplatform SA)"
+  - "Adresse pour les demandes : ek@vetmint.ch (adresse de la politique actuelle, à confirmer ou à remplacer par une adresse dédiée)"
+  - "Hébergeur : Infomaniak, serveur au nom de Vetmint, centres de données en Suisse"
+  - "Conservation des journaux du serveur : 30 jours"
+  - "Mesure d'audience : outil installé sur le serveur de Vetmint, sans cookie, adresse IP raccourcie, aucune transmission à un tiers"
+  - "Cookie technique du module de rendez-vous, le temps de la réservation"
+  - "Données demandées par le module de rendez-vous : nom, prénom, téléphone, e-mail, nom et espèce de l'animal, motif"
+  - "Conservation du dossier de l'animal : dix ans après la dernière visite"
+  - "Conservation d'une candidature : six mois après la fin du recrutement"
+  - "Effacement d'une adresse de la lettre d'information : 7 jours après la désinscription"
+  - "Sauvegardes chiffrées, gardées en Suisse"
+  - "Date de la version : 16 octobre 2026"
+---
+
+Vetmint traite peu de données personnelles sur ses sites. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par trois voies : le module de rendez-vous, les e-mails que vous nous envoyez et l'inscription à la lettre d'information. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).
+
+## Qui est responsable
+
+Le responsable des traitements est Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Il répond de vetmint.ch et des sites des huit cliniques (bussigny.vetmint.ch, chauxdefonds.vetmint.ch, domdidier.vetmint.ch, fribourg.vetmint.ch, lacdejoux.vetmint.ch, payerne.vetmint.ch, saintblaise.vetmint.ch, saintlegier.vetmint.ch).
+
+La clinique où vous prenez rendez-vous est responsable des données de ce rendez-vous et du dossier de votre animal. Chaque clinique est une société, par exemple Vetmint Payerne SA. Les raisons sociales et les adresses des cliniques sont dans les [mentions légales](/mentions-legales/).
+
+Pour toute question ou demande, écrivez à [ek@vetmint.ch](mailto:ek@vetmint.ch).
+
+## Ce que nous recevons quand vous consultez un site
+
+### Les journaux du serveur
+
+À chaque visite, le serveur enregistre l'adresse IP, la date et l'heure, la page demandée, le navigateur et la page d'où vous venez. Ces journaux servent à la sécurité du site et à la correction des erreurs. Ils sont effacés après 30 jours.
+
+### La mesure d'audience
+
+Nous comptons les visites avec un outil de mesure d'audience installé sur notre propre serveur, en Suisse. Il ne dépose aucun cookie, raccourcit l'adresse IP avant de l'enregistrer et ne transmet rien à un tiers. Nous voyons le nombre de visites par page, la provenance des visiteurs (moteur de recherche, lien, accès direct) et le type d'appareil. Ces chiffres ne désignent aucune personne.
+
+### Les cookies
+
+Les sites ne déposent aucun cookie de suivi ni de publicité. Le module de rendez-vous utilise un cookie technique le temps de la réservation, puis il expire. Aucun bandeau de consentement n'est donc nécessaire.
+
+### Les horaires, les fermetures et la garde
+
+Les horaires, les fermetures, le numéro de garde et les annonces des cliniques viennent d'une base de données de Vetmint. Votre navigateur la consulte pour afficher l'information du jour. Cette base ne contient aucune donnée personnelle et la consultation n'en transmet aucune. Les mêmes informations sont envoyées aux fiches Google des cliniques.
+
+## Le module de rendez-vous
+
+Pour réserver, vous indiquez votre nom, votre prénom, votre téléphone, votre adresse e-mail, le nom et l'espèce de votre animal et le motif de la visite. Ces données vont à la clinique choisie. Elle s'en sert pour vous recevoir, vous rappeler le rendez-vous et tenir le dossier de votre animal. Les données sont stockées en Suisse. La clinique les garde aussi longtemps que le dossier médical, soit dix ans après la dernière visite.
+
+## Les e-mails et les candidatures
+
+Quand vous écrivez à une clinique ou à Vetmint, votre message et vos coordonnées servent à vous répondre. S'ils concernent votre animal, ils rejoignent son dossier.
+
+Une candidature sert seulement au recrutement. Elle est effacée six mois après la fin du recrutement, sauf si vous acceptez que nous la gardions pour un prochain poste.
+
+## La lettre d'information
+
+Votre adresse e-mail et la clinique que vous indiquez servent seulement à l'envoi de la [lettre d'information](/newsletter/). Chaque lettre porte un lien de désinscription. Après une désinscription, votre adresse est effacée dans les 7 jours.
+
+## Où sont vos données
+
+Les sites, la base des horaires et la mesure d'audience sont hébergés en Suisse, sur un serveur loué au nom de Vetmint chez Infomaniak. Les sites ne transfèrent aucune donnée personnelle à l'étranger.
+
+Certains liens mènent vers un service tiers : un itinéraire sur une carte, WhatsApp, les réseaux sociaux de Vetmint. En les suivant, vous quittez nos sites ; la politique de confidentialité de ce tiers s'applique alors.
+
+## Qui y a accès
+
+L'équipe de la clinique voit les rendez-vous pris chez elle. Vetmint SA administre les sites. L'hébergeur et le prestataire qui entretient les sites agissent comme sous-traitants : ils n'utilisent les données que pour faire fonctionner les sites. Nous ne vendons aucune donnée.
+
+## Sécurité
+
+Toutes les pages sont servies de façon chiffrée (HTTPS). L'administration des sites et de la base des horaires demande un mot de passe. Les sauvegardes sont chiffrées et restent en Suisse.
+
+## Vos droits
+
+Vous pouvez demander quelles données nous avons sur vous, les faire corriger ou effacer et vous opposer à un traitement. Vous pouvez aussi recevoir les données que vous nous avez fournies dans un format courant. Écrivez à [ek@vetmint.ch](mailto:ek@vetmint.ch) ; nous répondons dans les 30 jours. Nous pouvons vous demander de prouver votre identité avant de répondre.
+
+Si vous estimez que vos droits ne sont pas respectés, vous pouvez vous adresser au Préposé fédéral à la protection des données et à la transparence (PFPDT).
+
+## Version
+
+Version du 16 octobre 2026. Quand cette politique change, la date de la version change avec elle.

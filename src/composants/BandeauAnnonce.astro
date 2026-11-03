@@ -1,0 +1,29 @@
+---
+// L'annonce d'une clinique, en haut de chacune de ses pages : une fermeture exceptionnelle, un
+// samedi d'ouverture. Elle disparaît après sa date de fin. « urgent » la pose en rouge.
+import type { Langue } from '../config.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import { instantAZurich } from '../lib/horaires.ts';
+
+interface Props {
+  clinique: Clinique;
+  langue: Langue;
+}
+
+const { clinique, langue } = Astro.props;
+const bandeau = clinique.bandeau;
+const visible = bandeau && (!bandeau.jusqu_au || bandeau.jusqu_au >= instantAZurich().date);
+---
+
+{
+  visible && (
+    <div class:list={['bandeau', { 'bandeau--urgent': bandeau.niveau === 'urgent' }]} role="status">
+      <p class="conteneur">{bandeau.texte[langue]}</p>
+    </div>
+  )
+}
+
+<style>
+  .bandeau { padding-block: var(--espace-3); background: var(--marine); color: var(--blanc); font-weight: 700; font-size: var(--texte-s); text-align: center; }
+  .bandeau--urgent { background: var(--urgence); }
+</style>

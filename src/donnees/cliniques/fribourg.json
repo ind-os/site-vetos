@@ -1,0 +1,100 @@
+{
+  "id": "fribourg",
+  "en_ligne": false,
+  "site_actuel": "https://fribourg.vetmint.ch/",
+  "nom": "Vetmint Fribourg Ouest",
+  "lieu": "Fribourg Ouest",
+  "canton": "FR",
+  "raison_sociale": "Vetmint Fribourg Ouest SA",
+  "adresse": {
+    "rue": "Route des Fluides 5, 4ᵉ étage",
+    "npa": "1762",
+    "localite": "Givisiez"
+  },
+  "coordonnees": {
+    "lat": 46.8137,
+    "lng": 7.1134
+  },
+  "telephone": {
+    "affiche": "026 466 84 84",
+    "international": "+41264668484"
+  },
+  "email": "fribourg@vetmint.ch",
+  "especes": [
+    "chien",
+    "chat",
+    "nac"
+  ],
+  "services": [
+    "consultation",
+    "vaccination-chien",
+    "vaccination-chat",
+    "sterilisation-castration",
+    "chirurgie",
+    "soins-dentaires",
+    "analyses-diagnostic",
+    "radiographie",
+    "hospitalisation",
+    "conseils-aux-eleveurs",
+    "puce-electronique",
+    "nac",
+    "gestion-de-la-douleur"
+  ],
+  "urgences": true,
+  "horaires": {
+    "lundi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "mardi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "mercredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "jeudi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "vendredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "samedi": [],
+    "dimanche": []
+  },
+  "fermetures": [],
+  "bandeau": null,
+  "garde": {
+    "telephone": {
+      "affiche": "0900 80 70 60",
+      "international": "+41900807060"
+    },
+    "tarif": {
+      "fr": "appel surtaxé, 2 francs la minute",
+      "de": "kostenpflichtiger Anruf, 2 Franken pro Minute"
+    }
+  },
+  "rendez_vous": {
+    "outil": "calendly",
+    "adresse": "https://calendly.com/fribourg-vetmint/30min"
+  },
+  "sources": [
+    "fribourg.vetmint.ch : accueil, cabinet, contact, équipe, prestations, tarifs (valables dès le 29 avril 2025), urgences, rendez-vous (Calendly « 30min »), NAC, douleur, plan de prévention ; relevé du 16 octobre 2026",
+    "vetmint.ch/cabinets/, relevé du 16 octobre 2026",
+    "medias.csv et miroir de fribourg.vetmint.ch/equipe/ pour les photos",
+    "OpenStreetMap pour les coordonnées, l'arrêt de bus et ses lignes"
+  ],
+  "a_remplacer": [
+    "Horaires (lundi à vendredi, 8 h à 12 h et 14 h à 18 h, samedi fermé) : seule source, la page Urgences actuelle, copiée de Saint-Blaise",
+    "Numéro de garde 0900 80 70 60 à 2 francs la minute : repris de la page Urgences copiée de Saint-Blaise, à confirmer pour la région de Fribourg",
+    "Accès : arrêt « Givisiez, rte des Fluides », bus TPF 8 et 9, à 2 minutes à pied (OpenStreetMap)",
+    "Accessibilité : ascenseur jusqu'au 4ᵉ étage",
+    "Communes desservies : Granges-Paccot, Villars-sur-Glâne, Belfaux, Marly, Avry ajoutées à Givisiez, Fribourg et Corminboeuf",
+    "Langues de chaque personne : français pour tous, d'après les portraits ; l'accueil actuel dit « français, allemand et anglais » sans dire qui parle quoi",
+    "Titre « Dr » de Léo Munné : repris de la page NAC actuelle",
+    "Durée des motifs « Première consultation perroquet » et « Consultation douleur » : 60 minutes"
+  ]
+}

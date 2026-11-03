@@ -1,0 +1,61 @@
+/*
+  Les données d'une clinique, telles que les écrit src/lib/donnees-de-la-clinique.ts : horaires,
+  statut d'ouverture, fermetures, numéro de garde. Dans un composant comme dans une page Markdown.
+*/
+
+/* Dans une colonne étroite (une carte), le jour passe au-dessus de ses plages. */
+.horaires { display: grid; gap: var(--espace-3); container-type: inline-size; }
+.horaires__liste { display: grid; margin: 0; font-variant-numeric: tabular-nums; }
+.horaires__ligne {
+  display: grid;
+  gap: 0 var(--espace-4);
+  padding: 6px 0;
+  border-bottom: 1px solid var(--trait-leger);
+}
+@container (min-width: 24rem) {
+  .horaires__ligne { grid-template-columns: 9.5rem 1fr; }
+}
+.horaires__ligne:last-child { border-bottom: 0; }
+.horaires__ligne dt { font-weight: 700; color: var(--titre); }
+.horaires__ligne dd { margin: 0; }
+.horaires__ligne--ferme dd { color: var(--gris); }
+.fond-marine .horaires__ligne { border-color: rgba(255, 255, 255, 0.16); }
+.fond-marine .horaires__ligne--ferme dd { color: var(--sur-marine); }
+
+/* « Ouvert maintenant » : le point menthe dit ouvert, gris fermé */
+.statut { display: flex; align-items: center; gap: var(--espace-2); font-weight: 700; font-size: var(--texte-s); color: var(--gris); }
+.statut[hidden] { display: none; }
+.statut__point { width: 10px; height: 10px; border-radius: 50%; background: currentColor; flex: none; }
+.statut[data-ouvert="true"] { color: var(--menthe-texte); }
+.fond-marine .statut { color: var(--sur-marine); }
+.fond-marine .statut[data-ouvert="true"] { color: var(--blanc); }
+
+.fermetures { padding: var(--espace-3) var(--espace-4); border-radius: var(--rayon-carte); background: var(--gris-bleute); }
+.fermetures__titre { font-weight: 700; color: var(--titre); }
+.fermetures ul { margin: var(--espace-1) 0 0; padding-left: 1.2em; }
+.fond-marine .fermetures { background: rgba(255, 255, 255, 0.08); }
+
+/* Le numéro de garde, en une ligne, avec la croix */
+.garde {
+  display: flex;
+  align-items: center;
+  gap: var(--espace-3);
+  padding: 12px 16px;
+  border-left: 4px solid var(--urgence);
+  border-radius: 0 var(--rayon-carte) var(--rayon-carte) 0;
+  background: var(--urgence-pale);
+  color: var(--encre);
+}
+.garde a { color: var(--urgence); font-weight: 800; }
+.garde a:hover { color: var(--encre); }
+.garde__croix {
+  position: relative;
+  flex: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 4px;
+  background: var(--urgence);
+}
+.garde__croix::before, .garde__croix::after { content: ""; position: absolute; left: 50%; top: 50%; translate: -50% -50%; background: var(--blanc); }
+.garde__croix::before { width: 12px; height: 4px; }
+.garde__croix::after { width: 4px; height: 12px; }

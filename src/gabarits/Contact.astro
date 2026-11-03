@@ -1,0 +1,62 @@
+---
+// Le contact d'une clinique : le téléphone en grand, l'e-mail en petit, WhatsApp s'il existe ;
+// l'adresse avec les liens d'itinéraire ; les horaires ; les photos des locaux ; le texte.
+// Aucun formulaire.
+import { contexteDe } from '../lib/contexte.ts';
+import { adressePostale, liensDItineraire } from '../lib/cliniques.ts';
+import { lienTelephone, lienWhatsapp } from '../lib/format.ts';
+import { photos } from '../lib/images.ts';
+import type { Page } from '../lib/pages.ts';
+import Bouton from '../composants/Bouton.astro';
+import Carte from '../composants/Carte.astro';
+import Horaires from '../composants/Horaires.astro';
+import Photo from '../composants/Photo.astro';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { langue, t, html } = contexte;
+const clinique = contexte.clinique!;
+const itineraire = liensDItineraire(clinique);
+const locaux = photos(`${clinique.id}:locaux`, langue).slice(0, 4);
+---
+
+<PageInterieure contexte={contexte} cote={false}>
+  <div class="contact">
+    <div class="contact__joindre">
+      <a class="contact__telephone" href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a>
+      {clinique.whatsapp && <Bouton variante="secondaire" taille="petit" href={lienWhatsapp(clinique.whatsapp.international)}>{t.telephone.whatsapp}</Bouton>}
+      <a class="contact__email" href={`mailto:${clinique.email}`}>{clinique.email}</a>
+    </div>
+    <div class="contact__cartes">
+      <Carte titre={t.clinique.adresse} niveau={2}>
+        <p>{adressePostale(clinique)}</p>
+        {clinique.acces.repere && <p>{clinique.acces.repere[langue]}</p>}
+        <p><a href={itineraire.google} rel="noopener">{t.clinique.itineraireGoogle}</a></p>
+        <p><a href={itineraire.osm} rel="noopener">{t.clinique.itineraireOsm}</a></p>
+      </Carte>
+      <Carte titre={t.horaires.titre} niveau={2}>
+        <Horaires clinique={clinique} langue={langue} />
+      </Carte>
+    </div>
+  </div>
+  {locaux.length > 0 && <div class="locaux">{locaux.map((p) => <Photo photo={p} ratio="4 / 3" largeur={360} />)}</div>}
+  <Prose html={html} chapeau />
+</PageInterieure>
+
+<style>
+  .contact { display: grid; gap: var(--espace-5); }
+  .contact__joindre { display: grid; gap: var(--espace-3); justify-items: start; }
+  .contact__telephone { font: 800 clamp(2rem, 1.5rem + 2vw, 2.75rem) / 1.1 var(--police-titre); color: var(--marine); text-decoration: none; }
+  .contact__telephone:hover { color: var(--menthe-texte); }
+  .contact__email { font-size: var(--texte-s); }
+  .contact__cartes { display: grid; gap: var(--espace-4); }
+  .locaux { display: grid; gap: var(--espace-3); grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); }
+  @media (min-width: 48rem) {
+    .contact__cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+</style>

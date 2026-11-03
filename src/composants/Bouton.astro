@@ -1,0 +1,25 @@
+---
+// Un bouton en pilule. Principal : menthe plein, l'action de la page. Secondaire : contour
+// marine, l'action d'à côté. Avec `href`, c'est un lien ; sans, un bouton.
+import type { HTMLAttributes } from 'astro/types';
+
+interface Props extends Omit<HTMLAttributes<'a'>, 'class'> {
+  variante?: 'principal' | 'secondaire';
+  taille?: 'normal' | 'petit';
+  /** Toute la largeur de son conteneur. */
+  large?: boolean;
+  href?: string;
+  class?: string;
+}
+
+const { variante = 'principal', taille = 'normal', large = false, href, class: classe, ...attributs } = Astro.props;
+const classes = ['bouton', `bouton--${variante}`, { 'bouton--petit': taille === 'petit', 'bouton--large': large }, classe];
+---
+
+{
+  href ? (
+    <a href={href} class:list={classes} {...attributs}><slot /></a>
+  ) : (
+    <button type="button" class:list={classes} {...(attributs as HTMLAttributes<'button'>)}><slot /></button>
+  )
+}

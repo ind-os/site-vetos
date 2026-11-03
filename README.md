@@ -1,25 +1,35 @@
-# modele-de-site
+# Site Vetmint
 
-Le modèle d'un site publié par son dépôt, pour Indos. Chaque nouveau site en est
-une copie. GitHub construit l'image du site et la pousse sur GHCR, puis demande
-au serveur de la reprendre ; la personne fait évoluer le site depuis Claude Code
-sur son ordinateur (`CLAUDE.md`).
+Le site vetmint.ch, en français et en allemand : les pages communes du groupe Vetmint et les pages de chaque clinique, sous `vetmint.ch/<clinique>/`. Astro 7, sortie statique, servie par nginx. Seb le fait évoluer depuis Claude Code (`CLAUDE.md`).
 
-- Astro 7, sortie statique, une page « Hello World » ; pnpm 12, épinglé par
-  `packageManager`.
-- L'image : Astro construit les pages, nginx les sert sur le port 80. Le site
-  n'a aucune route serveur ; nginx suffit, sans runtime Node à l'exécution.
+## Ce que contient le dépôt
+
+| Dossier | Contenu |
+|---|---|
+| `src/content/pages/fr/`, `src/content/pages/de/` | les textes, un fichier Markdown par page et par langue |
+| `src/donnees/cliniques/` | la fiche de chaque clinique : coordonnées, équipe, services, horaires, fermetures, annonce, garde, rendez-vous |
+| `src/i18n/` | les textes de l'interface (menus, boutons) en français et en allemand |
+| `src/assets/images/` | les photos et leur catalogue (sujet, texte alternatif, point focal) |
+| `src/composants/` | les blocs réutilisables, montrés sur `/styleguide/` |
+| `src/gabarits/` | la mise en page de chaque type de page |
+| `src/lib/` | la lecture des pages et des fiches, les horaires, le Markdown, le balisage |
+| `docs/` | les règles : plan des pages, format des pages, fiche de clinique, charte graphique, charte de rédaction, traduction |
+| `outils/` | la vérification d'une page et des liens, la liste des faits à confirmer |
+| `.claude/skills/` | les procédures pour Claude Code : rédiger une page, mettre une clinique en ligne |
 
 ## Travailler dessus
 
 ```bash
 pnpm install
-pnpm dev            # http://localhost:4321
-pnpm build          # dist/
+pnpm dev            # http://localhost:4321, et http://localhost:4321/styleguide/
+pnpm verifier       # types, construction, règles du site, liens
+pnpm faits-a-remplacer payerne   # les faits à confirmer, pour une clinique ou tout le site
+python3 -I outils/verifier-page.py src/content/pages/fr/payerne/tarifs.md
 ```
 
-Hors d'un terminal interactif (Claude Code), `astro dev` démarre en arrière-plan
-et rend la main ; `pnpm astro dev status` et `pnpm astro dev stop` le suivent.
+Hors d'un terminal interactif (Claude Code), `astro dev` démarre en arrière-plan et rend la main ; `pnpm astro dev status` et `pnpm astro dev stop` le suivent.
+
+Le site n'est pas indexé par les moteurs de recherche tant que `INDEXATION` vaut `false` dans `src/config.ts` : chaque page porte `noindex` et `robots.txt` interdit tout.
 
 ## Construire et lancer l'image
 
@@ -29,11 +39,8 @@ docker run --rm -p 8080:80 site
 ```
 
 - Un seul port exposé : **80**.
-- La sonde : `GET /healthz.json` rend `{"ok":true,"sha":"<GIT_SHA>"}`, avec
-  `Cache-Control: no-store`. Le commit est l'argument de build `GIT_SHA`, écrit
-  dans la page au moment de `pnpm build` ; vide sans lui.
-- Le `HEALTHCHECK` demande la sonde par le `wget` de busybox (l'image nginx
-  alpine n'a pas curl).
+- La sonde : `GET /healthz.json` rend `{"ok":true,"sha":"<GIT_SHA>"}`, avec `Cache-Control: no-store`.
+- Le `HEALTHCHECK` demande la sonde par le `wget` de busybox (l'image nginx alpine n'a pas curl).
 
 ## La publication
 
@@ -66,21 +73,8 @@ Le serveur tire l'image sans identifiant : le paquet GHCR se rend public une
 fois, après la première poussée, dans les réglages du paquet sur GitHub. Un
 paquet naît privé.
 
-## Copier le modèle
-
-```bash
-gh repo create <compte>/<site> --public --template ind-os/modele-de-site --clone
-```
-
-La copie pousse son premier commit sur `main` : son workflow construit et pousse
-son image, sans rien publier. Son paquet se rend public, puis le kit d'Indos
-installe le site sur le serveur.
-
 ## Claude Code
 
-- `CLAUDE.md` : les gestes de la personne, pour Claude Code : préparer
-  l'ordinateur, prévisualiser, publier, revenir à une version d'avant.
-- `.claude/settings.json` : Claude ne modifie ni `.github/` ni `.claude/`, ne
-  lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les
-  gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune
-  poussée.
+- `CLAUDE.md` : les gestes de Seb, pour Claude Code : préparer l'ordinateur, modifier le site, prévisualiser, publier, revenir à une version d'avant.
+- `.claude/skills/` : rédiger ou traduire une page, mettre une clinique en ligne.
+- `.claude/settings.json` : Claude ne modifie ni `.github/` ni `.claude/`, ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.

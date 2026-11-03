@@ -1,0 +1,36 @@
+---
+// Le fil d'Ariane, au-dessus du titre d'une page intérieure : Accueil › Payerne › Équipe.
+// Le balisage BreadcrumbList est posé par la tête de page.
+interface Etape {
+  libelle: string;
+  href: string;
+}
+
+interface Props {
+  etapes: Etape[];
+  /** Le nom du repère pour les lecteurs d'écran : « Vous êtes ici ». */
+  etiquette: string;
+}
+
+const { etapes, etiquette } = Astro.props;
+---
+
+<nav class="fil" aria-label={etiquette}>
+  <ol>
+    {
+      etapes.map((etape, i) => (
+        <li>
+          {i < etapes.length - 1 ? <a href={etape.href}>{etape.libelle}</a> : <span aria-current="page">{etape.libelle}</span>}
+        </li>
+      ))
+    }
+  </ol>
+</nav>
+
+<style>
+  .fil ol { display: flex; flex-wrap: wrap; gap: var(--espace-1) var(--espace-2); list-style: none; margin: 0; padding: 0; font-size: var(--texte-s); }
+  .fil li { display: flex; align-items: center; gap: var(--espace-2); color: var(--gris); }
+  .fil li + li::before { content: "›"; color: var(--gris); }
+  .fil a { color: var(--menthe-texte); font-weight: 600; text-decoration: none; }
+  .fil a:hover { text-decoration: underline; color: var(--menthe-fonce); }
+</style>

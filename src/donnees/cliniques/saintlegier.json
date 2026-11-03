@@ -1,0 +1,92 @@
+{
+  "id": "saintlegier",
+  "en_ligne": false,
+  "site_actuel": "https://saintlegier.vetmint.ch/",
+  "nom": "Vetmint Saint-Légier",
+  "lieu": "Saint-Légier",
+  "canton": "VD",
+  "raison_sociale": "Vetmint Saint-Légier SA",
+  "adresse": {
+    "rue": "Route des Deux-Villages 21",
+    "npa": "1806",
+    "localite": "Saint-Légier-La Chiésaz"
+  },
+  "coordonnees": {
+    "lat": 46.4717,
+    "lng": 6.8766
+  },
+  "telephone": {
+    "affiche": "021 683 10 10",
+    "international": "+41216831010"
+  },
+  "email": "st-legier@vetmint.ch",
+  "especes": [
+    "chien",
+    "chat",
+    "nac"
+  ],
+  "services": [
+    "consultation",
+    "vaccination-chien",
+    "vaccination-chat",
+    "sterilisation-castration",
+    "chirurgie",
+    "soins-dentaires",
+    "analyses-diagnostic",
+    "radiographie",
+    "hospitalisation",
+    "conseils-aux-eleveurs",
+    "puce-electronique",
+    "toilettage",
+    "laser",
+    "echographie"
+  ],
+  "urgences": true,
+  "horaires": {
+    "lundi": [
+      "08:00-18:00"
+    ],
+    "mardi": [
+      "08:00-18:00"
+    ],
+    "mercredi": [
+      "08:00-18:00"
+    ],
+    "jeudi": [
+      "08:00-18:00"
+    ],
+    "vendredi": [
+      "08:00-18:00"
+    ],
+    "samedi": [],
+    "dimanche": []
+  },
+  "fermetures": [],
+  "bandeau": null,
+  "garde": {
+    "telephone": {
+      "affiche": "0900 906 906",
+      "international": "+41900906906"
+    },
+    "tarif": {
+      "fr": "appel surtaxé, 2 francs la minute de 8 h à 22 h, 5 francs la minute de 22 h à 8 h",
+      "de": "kostenpflichtiger Anruf, 2 Franken pro Minute von 8 bis 22 Uhr, 5 Franken pro Minute von 22 bis 8 Uhr"
+    }
+  },
+  "rendez_vous": {
+    "outil": "vetlink",
+    "adresse": "https://www.vetlink.ch/fr/cabinet/vetmint-st-legier-la-chiesaz"
+  },
+  "sources": [
+    "saintlegier.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, urgences, rendez-vous, plan de prévention, abonnements), relevé du 16 octobre 2026",
+    "vetmint.ch/cabinets/ (numéro WhatsApp de Saint-Légier), relevé du 16 octobre 2026",
+    "medias.csv et miroir de saintlegier.vetmint.ch/equipe/ (photos de l'équipe)",
+    "carte Google intégrée à saintlegier.vetmint.ch/contact/ (coordonnées)"
+  ],
+  "a_remplacer": [
+    "Coordonnées 46.4717, 6.8766 : déduites de la carte Google du site actuel, à vérifier sur l'adresse",
+    "Langues parlées (français pour chaque personne) : à confirmer par la clinique",
+    "Transports : halte de Saint-Légier-Gare à 5 minutes à pied, à confirmer par la clinique",
+    "Communes desservies : liste reconstituée d'après la région, à confirmer par la clinique"
+  ]
+}

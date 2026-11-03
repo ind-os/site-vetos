@@ -1,0 +1,37 @@
+---
+// Une carte : fond blanc, filet gris, coins de 12 px. Elle porte un bloc d'information
+// (horaires, accès), une prestation ou une personne. Avec `href`, un lien « Voir… » la termine.
+interface Props {
+  titre?: string;
+  /** Le niveau du titre ; 3 par défaut. */
+  niveau?: 2 | 3 | 4;
+  href?: string;
+  /** Le texte du lien qui termine la carte. */
+  lien?: string;
+  class?: string;
+}
+
+const { titre, niveau = 3, href, lien, class: classe } = Astro.props;
+const Titre = `h${niveau}` as const;
+---
+
+<div class:list={['carte', classe]}>
+  {titre && <Titre class="carte__titre">{titre}</Titre>}
+  <div class="carte__contenu"><slot /></div>
+  {href && lien && <a class="lien-fort carte__lien" href={href}>{lien}</a>}
+</div>
+
+<style>
+  .carte {
+    display: grid;
+    gap: var(--espace-2);
+    align-content: start;
+    padding: 22px;
+    border: 1px solid var(--trait);
+    border-radius: var(--rayon-carte);
+    background: var(--blanc);
+  }
+  .carte__titre { font-size: var(--titre-3); }
+  .carte__contenu { color: var(--encre-douce); font-size: var(--texte-s); display: grid; gap: var(--espace-2); }
+  .carte__lien { margin-top: var(--espace-2); }
+</style>

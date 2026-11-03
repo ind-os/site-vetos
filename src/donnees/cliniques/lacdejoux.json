@@ -1,0 +1,102 @@
+{
+  "id": "lacdejoux",
+  "en_ligne": false,
+  "site_actuel": "https://lacdejoux.vetmint.ch/",
+  "nom": "Vetmint Lac-de-Joux",
+  "lieu": "Lac-de-Joux",
+  "canton": "VD",
+  "raison_sociale": "Vetmint Lac de Joux SA",
+  "adresse": {
+    "rue": "Route de l'Hôtel-de-Ville 11",
+    "npa": "1344",
+    "localite": "L'Abbaye"
+  },
+  "coordonnees": {
+    "lat": 46.648,
+    "lng": 6.318
+  },
+  "telephone": {
+    "affiche": "021 357 89 90",
+    "international": "+41213578990"
+  },
+  "email": "lacdejoux@vetmint.ch",
+  "especes": [
+    "chien",
+    "chat",
+    "nac"
+  ],
+  "services": [
+    "consultation",
+    "vaccination-chien",
+    "vaccination-chat",
+    "sterilisation-castration",
+    "chirurgie",
+    "soins-dentaires",
+    "analyses-diagnostic",
+    "radiographie",
+    "hospitalisation",
+    "conseils-aux-eleveurs",
+    "toilettage"
+  ],
+  "urgences": true,
+  "horaires": {
+    "lundi": [
+      "08:00-12:00",
+      "13:30-18:00"
+    ],
+    "mardi": [
+      "08:00-12:00",
+      "13:30-18:00"
+    ],
+    "mercredi": [
+      "08:00-12:00",
+      "13:30-18:00"
+    ],
+    "jeudi": [
+      "08:00-12:00",
+      "13:30-18:00"
+    ],
+    "vendredi": [
+      "08:00-12:00",
+      "13:30-18:00"
+    ],
+    "samedi": [],
+    "dimanche": []
+  },
+  "fermetures": [],
+  "bandeau": null,
+  "garde": {
+    "telephone": {
+      "affiche": "0900 022 022",
+      "international": "+41900022022"
+    },
+    "tarif": {
+      "fr": "appel surtaxé, 2 francs la minute",
+      "de": "kostenpflichtiger Anruf, 2 Franken pro Minute"
+    }
+  },
+  "rendez_vous": {
+    "outil": "calendly",
+    "adresse": "https://calendly.com/vetmint/vetmint"
+  },
+  "sources": [
+    "lacdejoux.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, urgences, rendez-vous, plan de prévention), relevé du 16 octobre 2026",
+    "grille tarifaire de Lac-de-Joux, valable dès le 29 avril 2025",
+    "vetmint.ch/cabinets/ et vetmint.ch/soins-a-domicile/, relevé du 16 octobre 2026",
+    "medias.csv et miroir de la page équipe (photos)",
+    "OpenStreetMap (coordonnées de l'adresse, arrêt de bus et gare voisins)"
+  ],
+  "a_remplacer": [
+    "Raison sociale : « Vetmint Lac de Joux SA », graphie du pied de page actuel ; à vérifier au registre du commerce (le nom de la clinique s'écrit Lac-de-Joux)",
+    "Langues : français seul, les autres langues de l'équipe sont à confirmer",
+    "Domaines de chaque personne : déduits des portraits actuels, à confirmer par chacune",
+    "Parking : places gratuites devant le bâtiment, à confirmer (nombre et gratuité)",
+    "Accès : entrée de plain-pied et place de dépose, texte commun aux sites actuels, à confirmer pour L'Abbaye",
+    "Transports : arrêt L'Abbaye, Place du village, à 2 minutes à pied, d'après OpenStreetMap",
+    "Communes desservies : liste reconstituée d'après la géographie de la Vallée de Joux",
+    "Samedi et dimanche fermés : les sites actuels ne donnent que le lundi à vendredi",
+    "Tarif du numéro de garde Médi-Vet : 2 francs la minute",
+    "Motifs de rendez-vous et durées : la page de rendez-vous actuelle est vide",
+    "Coordonnées 46.6480, 6.3180 : géocodage OpenStreetMap de l'adresse"
+  ]
+}

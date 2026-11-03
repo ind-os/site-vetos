@@ -1,0 +1,38 @@
+---
+// Une photo du catalogue, encadrée (coins de 16 px), recadrée sur son point focal. Astro la
+// sert en AVIF et WebP aux tailles utiles.
+import { Picture } from 'astro:assets';
+import type { Photo } from '../lib/images.ts';
+
+interface Props {
+  photo: Photo;
+  /** Le rapport largeur / hauteur du cadre : « 4 / 3 », « 1 / 1 ». */
+  ratio?: string;
+  /** La largeur maximale affichée, en pixels : elle choisit les tailles servies. */
+  largeur?: number;
+  /** « eager » pour la photo du premier écran. */
+  chargement?: 'lazy' | 'eager';
+  /** Coins arrondis ; false pour une photo pleine largeur dans une carte. */
+  arrondi?: boolean;
+  class?: string;
+}
+
+const { photo, ratio = '4 / 3', largeur = 640, chargement = 'lazy', arrondi = true, class: classe } = Astro.props;
+---
+
+<Picture
+  src={photo.src}
+  alt={photo.alt}
+  formats={['avif', 'webp']}
+  widths={[Math.round(largeur / 2), largeur, largeur * 2].filter((l) => l <= photo.src.width)}
+  sizes={`(min-width: ${largeur}px) ${largeur}px, 100vw`}
+  loading={chargement}
+  fetchpriority={chargement === 'eager' ? 'high' : undefined}
+  class:list={['photo', { 'photo--arrondie': arrondi }, classe]}
+  style={`aspect-ratio: ${ratio}; object-position: ${photo.cadrage};`}
+/>
+
+<style>
+  .photo { width: 100%; height: auto; object-fit: cover; background: var(--gris-bleute); }
+  .photo--arrondie { border-radius: var(--rayon-photo); }
+</style>

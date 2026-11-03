@@ -1,0 +1,337 @@
+/*
+  La charte graphique du site, piste A « Continuité » (docs/charte-graphique.md).
+  Importée une fois, par la mise en page de toutes les pages (src/gabarits/Base.astro).
+
+  Une couleur porte un sens :
+  - marine : titres, navigation, pied de page ;
+  - menthe : ce qui s'active, boutons et liens ;
+  - gris bleuté : fond des sections alternées ;
+  - rouge de la croix : l'urgence, rien d'autre.
+  Au survol, seule la couleur change : rien ne bouge, ne pivote ni ne grandit.
+*/
+
+@import "@fontsource-variable/nunito/index.css";
+@import "@fontsource-variable/nunito-sans/index.css";
+@import "./donnees.css";
+
+/* ------------------------------------------------------------------ */
+/* Jetons                                                              */
+/* ------------------------------------------------------------------ */
+
+:root {
+  /* Couleurs de la charte */
+  --marine: #0A4675;          /* titres, navigation, pied de page */
+  --menthe: #009C8C;          /* le « mint » du logo, décor ; jamais pour du texte */
+  --menthe-texte: #00857A;    /* boutons et liens sur fond blanc ou gris (contraste 4,5:1) */
+  --menthe-fonce: #006B62;    /* survol des boutons et des liens */
+  --menthe-pale: #E6F4F2;     /* fond d'une pastille de service */
+  --gris-bleute: #F2F6F8;     /* fond des sections alternées */
+  --urgence: #C8102E;         /* croix suisse et urgence, rien d'autre */
+  --urgence-pale: #FDF1F2;    /* fond du rappel d'urgence */
+  --encre: #1D3448;           /* texte courant */
+  --encre-douce: #37536A;     /* accroche, texte des cartes */
+  --gris: #5B6B78;            /* texte secondaire, puces */
+  --trait: #DCE5EA;           /* bordure des cartes */
+  --trait-leger: #E6ECEF;     /* filets de séparation */
+  --blanc: #FFFFFF;
+
+  /* Sur le pied de page marine */
+  --sur-marine: #CFDDE8;      /* texte courant (8:1) */
+  --sur-marine-lien: #FFFFFF;
+
+  /* Couleurs selon le fond : redéfinies par .fond-marine */
+  --lien: var(--menthe-texte);
+  --lien-survol: var(--menthe-fonce);
+  --titre: var(--marine);
+  --focus: var(--menthe-texte);
+
+  /* Polices */
+  --police-titre: "Nunito Variable", "Nunito", system-ui, sans-serif;
+  --police-texte: "Nunito Sans Variable", "Nunito Sans", system-ui, sans-serif;
+
+  /* Tailles du texte, de 390 px à 1 280 px de large */
+  --texte-xs: 0.8125rem;                                  /* 13 px */
+  --texte-s: 0.9375rem;                                   /* 15 px */
+  --texte: 1.0625rem;                                     /* 17 px */
+  --texte-l: clamp(1.0625rem, 1rem + 0.3vw, 1.1875rem);   /* 17 à 19 px */
+  --titre-1: clamp(2.0625rem, 1.4rem + 2.8vw, 3.5rem);    /* 33 à 56 px */
+  --titre-2: clamp(1.5rem, 1.25rem + 1.1vw, 2.125rem);    /* 24 à 34 px */
+  --titre-3: clamp(1.1875rem, 1.12rem + 0.3vw, 1.375rem); /* 19 à 22 px */
+
+  /* Espacements */
+  --espace-1: 0.25rem;  /*  4 px */
+  --espace-2: 0.5rem;   /*  8 px */
+  --espace-3: 0.75rem;  /* 12 px */
+  --espace-4: 1rem;     /* 16 px */
+  --espace-5: 1.5rem;   /* 24 px */
+  --espace-6: 2rem;     /* 32 px */
+  --espace-7: 3rem;     /* 48 px */
+  --espace-8: 4rem;     /* 64 px */
+  --gouttiere: clamp(1rem, 0.3rem + 3.6vw, 3.5rem);       /* 16 à 56 px */
+  --section-y: clamp(1.75rem, 1rem + 3vw, 3rem);          /* 28 à 48 px */
+
+  /* Largeurs */
+  --largeur-max: 73rem;   /* 1 168 px de contenu, 1 280 px avec les gouttières */
+  --lecture: 42rem;       /* environ 70 caractères par ligne */
+
+  /* Rayons */
+  --rayon-carte: 12px;
+  --rayon-photo: 16px;
+  --rayon-pilule: 999px;
+
+  /* Durée des changements de couleur */
+  --transition: 0.15s ease;
+}
+
+/* ------------------------------------------------------------------ */
+/* Base                                                                */
+/* ------------------------------------------------------------------ */
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-padding-top: var(--espace-5);
+}
+
+body {
+  margin: 0;
+  background: var(--blanc);
+  color: var(--encre);
+  font-family: var(--police-texte);
+  font-size: var(--texte);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  overflow-wrap: break-word;
+}
+
+h1, h2, h3, h4, p, ul, ol, dl, dd, figure, blockquote { margin: 0; }
+
+h1, h2, h3, h4 {
+  font-family: var(--police-titre);
+  font-weight: 800;
+  color: var(--titre);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+  text-wrap: balance;
+}
+h1 { font-size: var(--titre-1); line-height: 1.05; }
+h2 { font-size: var(--titre-2); }
+h3 { font-size: var(--titre-3); line-height: 1.2; }
+h4 { font-size: var(--texte-l); line-height: 1.25; }
+
+p { text-wrap: pretty; }
+
+img, svg, video { display: block; max-width: 100%; }
+img { height: auto; }
+
+a {
+  color: var(--lien);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  transition: color var(--transition), background-color var(--transition), border-color var(--transition);
+}
+a:hover { color: var(--lien-survol); }
+/* Un numéro de téléphone ou une adresse e-mail ne se coupe jamais en fin de ligne */
+a[href^="tel:"], a[href^="mailto:"] { white-space: nowrap; }
+.insecable { white-space: nowrap; }
+
+button, input, select, textarea { font: inherit; color: inherit; }
+button { cursor: pointer; }
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 3px;
+}
+
+/* ------------------------------------------------------------------ */
+/* Fonds                                                               */
+/* ------------------------------------------------------------------ */
+
+.fond-gris { background: var(--gris-bleute); }
+.fond-marine {
+  background: var(--marine);
+  color: var(--sur-marine);
+  --lien: var(--sur-marine-lien);
+  --lien-survol: var(--sur-marine);
+  --titre: var(--blanc);
+  --focus: var(--blanc);
+}
+
+/* ------------------------------------------------------------------ */
+/* Boutons en pilule, aplat sans dégradé                               */
+/* Aussi posés par le Markdown : un lien seul dans son paragraphe.      */
+/* ------------------------------------------------------------------ */
+
+.bouton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--espace-2);
+  min-height: 52px;
+  padding: 0 1.75rem;
+  border: 2px solid transparent;
+  border-radius: var(--rayon-pilule);
+  font: 700 1rem/1.2 var(--police-texte);
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color var(--transition), color var(--transition), border-color var(--transition);
+}
+.bouton--petit { min-height: 44px; padding: 0 1.25rem; font-size: var(--texte-s); }
+.bouton--large { display: flex; width: 100%; }
+
+/* Principal : menthe plein, l'action de la page */
+.bouton--principal { background: var(--menthe-texte); color: var(--blanc); }
+.bouton--principal:hover { background: var(--menthe-fonce); color: var(--blanc); }
+/* Secondaire : contour marine, l'action d'à côté */
+.bouton--secondaire { background: var(--blanc); border-color: var(--marine); color: var(--marine); }
+.bouton--secondaire:hover { background: var(--marine); color: var(--blanc); }
+/* Sur le fond marine : blanc plein */
+.fond-marine .bouton--secondaire { background: transparent; border-color: var(--blanc); color: var(--blanc); }
+.fond-marine .bouton--secondaire:hover { background: var(--blanc); color: var(--marine); }
+
+/* ------------------------------------------------------------------ */
+/* Prose : le corps des pages Markdown                                 */
+/* ------------------------------------------------------------------ */
+
+/* min-width: 0 : dans une grille, le texte suit la largeur de la colonne et un tableau trop
+   large défile dans sa région sans élargir la page. */
+.prose { max-width: var(--lecture); min-width: 0; line-height: 1.65; }
+.prose > * + * { margin-top: 1em; }
+.prose h2 { margin-top: 2em; }
+.prose h3 { margin-top: 1.6em; }
+.prose h2 + *, .prose h3 + * { margin-top: 0.6em; }
+.prose > :first-child { margin-top: 0; }
+.prose strong { font-weight: 800; color: var(--titre); }
+.prose a { font-weight: 700; }
+.prose .bouton { margin-top: 0.4em; }
+/* Le chapeau : le premier paragraphe, un peu plus grand */
+.prose--chapeau > p:first-child { font-size: var(--texte-l); color: var(--encre-douce); }
+
+.prose ul, .prose ol { padding-left: 1.4em; }
+.prose li + li { margin-top: 0.4em; }
+/* Les puces ne portent pas de sens : gris */
+.prose li::marker { color: var(--gris); }
+
+.prose blockquote {
+  padding: var(--espace-4) var(--espace-5);
+  border-left: 4px solid var(--menthe);
+  border-radius: 0 var(--rayon-carte) var(--rayon-carte) 0;
+  background: var(--gris-bleute);
+}
+
+.prose hr { border: 0; border-top: 1px solid var(--trait-leger); margin: 2.5em 0; }
+
+/* Une liste dont chaque point commence par un lien devient une liste de cartes :
+   « - [Radiographie](/services/radiographie/) : os, poumons, ventre. » */
+.prose ul.liste-de-liens {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: var(--espace-3);
+}
+.prose ul.liste-de-liens > li {
+  margin: 0;
+  padding: var(--espace-4) var(--espace-5);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon-carte);
+  background: var(--blanc);
+  color: var(--encre-douce);
+}
+.prose ul.liste-de-liens > li > a:first-child { display: block; font-family: var(--police-titre); font-weight: 800; font-size: var(--texte-l); text-decoration: none; }
+.prose ul.liste-de-liens > li > a:first-child:hover { text-decoration: underline; }
+
+/* Tableaux de tarifs, lisibles à 390 px. Le Markdown enveloppe chaque tableau dans .tableau,
+   une région qui défile s'il est trop large. */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--texte-s);
+  line-height: 1.4;
+  font-variant-numeric: tabular-nums;
+}
+.prose th, .prose td { padding: 0.7em 0.75em; text-align: left; vertical-align: top; }
+.prose thead th { background: var(--marine); color: var(--blanc); font-weight: 700; }
+.prose thead th:first-child { border-top-left-radius: var(--rayon-carte); }
+.prose thead th:last-child { border-top-right-radius: var(--rayon-carte); }
+.prose tbody tr { border-bottom: 1px solid var(--trait-leger); }
+.prose tbody tr:nth-child(even) { background: var(--gris-bleute); }
+.prose td:last-child, .prose th:last-child { text-align: right; }
+.prose td:first-child { font-weight: 600; color: var(--titre); }
+.prose .tableau { max-width: 100%; overflow-x: auto; }
+.prose .tableau:focus-visible { outline-offset: 2px; border-radius: var(--rayon-carte); }
+@media (max-width: 40rem) {
+  .prose th, .prose td { padding: 0.6em 0.5em; }
+  .prose .tableau :is(td, th):last-child { min-width: 7em; text-align: left; }
+
+  /* Un tableau de trois colonnes ou plus s'empile : chaque ligne devient un bloc, chaque
+     cellule précédée du nom de sa colonne (data-colonne, posé par le Markdown). */
+  .prose .tableau--empile { overflow: visible; }
+  .prose .tableau--empile :is(table, tbody, tr, td, th) { display: block; width: 100%; }
+  .prose .tableau--empile thead { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+  .prose .tableau--empile tr { padding: 0.75em 0; border-bottom: 1px solid var(--trait-leger); }
+  .prose .tableau--empile tbody tr:nth-child(even) { background: none; }
+  .prose .tableau--empile :is(td, th) { padding: 0.15em 0; min-width: 0; text-align: left; }
+  .prose .tableau--empile :is(td, th):first-child { font-size: var(--texte); font-weight: 700; }
+  .prose .tableau--empile :is(td, th)[data-colonne]:not(:first-child)::before { content: attr(data-colonne) "\00a0: "; color: var(--gris); }
+}
+
+/* ------------------------------------------------------------------ */
+/* Utilitaires                                                         */
+/* ------------------------------------------------------------------ */
+
+.conteneur {
+  width: 100%;
+  max-width: calc(var(--largeur-max) + 2 * var(--gouttiere));
+  margin-inline: auto;
+  padding-inline: var(--gouttiere);
+}
+
+.surtitre {
+  font: 700 var(--texte-xs)/1.3 var(--police-texte);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--menthe-texte);
+}
+
+.lien-fort {
+  font-weight: 700;
+  font-size: var(--texte-s);
+  color: var(--lien);
+  text-decoration: none;
+}
+.lien-fort:hover { color: var(--lien-survol); text-decoration: underline; }
+
+.visuellement-cache {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+  border: 0;
+}
+
+.lien-evitement {
+  position: absolute;
+  left: var(--espace-4);
+  top: var(--espace-4);
+  z-index: 100;
+  padding: var(--espace-3) var(--espace-4);
+  border-radius: var(--rayon-carte);
+  background: var(--blanc);
+  color: var(--marine);
+  font-weight: 700;
+}
+.lien-evitement:not(:focus) { clip-path: inset(50%); width: 1px; height: 1px; overflow: hidden; padding: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

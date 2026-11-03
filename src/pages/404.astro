@@ -1,0 +1,40 @@
+---
+// La page des adresses qui n'existent pas, en français puis en allemand : elle renvoie aux
+// cliniques, aux urgences et à l'accueil.
+import Bouton from '../composants/Bouton.astro';
+import Base from '../gabarits/Base.astro';
+import { textes } from '../i18n/index.ts';
+import { adresse } from '../lib/pages.ts';
+
+const fr = textes('fr');
+const de = textes('de');
+---
+
+<Base langue="fr" titre={`${fr.erreur.titre} | Vetmint`} description={fr.erreur.texte} adresses={{}} noindex>
+  <section class="conteneur erreur">
+    <div class="erreur__langue">
+      <h1>{fr.erreur.titre}</h1>
+      <p>{fr.erreur.texte}</p>
+      <div class="erreur__actions">
+        <Bouton href={await adresse('fr', 'cliniques')}>{fr.navigation.cliniques}</Bouton>
+        <Bouton variante="secondaire" href={await adresse('fr', 'urgences')}>{fr.navigation.urgences}</Bouton>
+        <Bouton variante="secondaire" href={await adresse('fr', 'index')}>{fr.navigation.accueil}</Bouton>
+      </div>
+    </div>
+    <div class="erreur__langue" lang="de-CH">
+      <h2>{de.erreur.titre}</h2>
+      <p>{de.erreur.texte}</p>
+      <div class="erreur__actions">
+        <Bouton href={await adresse('de', 'cliniques')}>{de.navigation.cliniques}</Bouton>
+        <Bouton variante="secondaire" href={await adresse('de', 'urgences')}>{de.navigation.urgences}</Bouton>
+        <Bouton variante="secondaire" href={await adresse('de', 'index')}>{de.navigation.accueil}</Bouton>
+      </div>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .erreur { display: grid; gap: var(--espace-7); padding-block: var(--espace-8); }
+  .erreur__langue { display: grid; gap: var(--espace-4); max-width: var(--lecture); }
+  .erreur__actions { display: flex; flex-wrap: wrap; gap: var(--espace-3); }
+</style>

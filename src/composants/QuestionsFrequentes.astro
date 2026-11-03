@@ -1,0 +1,53 @@
+---
+// Des questions et leurs réponses, en accordéon : la question s'ouvre au clic, sans
+// JavaScript (details et summary). Le balisage FAQPage est posé par la tête de page.
+interface Props {
+  questions: { question: string; reponse: string }[];
+  /** Le niveau de titre des questions ; 3 par défaut. */
+  niveau?: 2 | 3;
+}
+
+const { questions, niveau = 3 } = Astro.props;
+const Titre = `h${niveau}` as const;
+---
+
+<div class="faq">
+  {
+    questions.map((q) => (
+      <details class="faq__question">
+        <summary>
+          <Titre class="faq__titre">{q.question}</Titre>
+          <span class="faq__signe" aria-hidden="true" />
+        </summary>
+        <div class="faq__reponse prose" set:html={q.reponse} />
+      </details>
+    ))
+  }
+</div>
+
+<style>
+  .faq { display: grid; gap: var(--espace-3); max-width: var(--lecture); }
+  .faq__question { border: 1px solid var(--trait); border-radius: var(--rayon-carte); background: var(--blanc); }
+  .faq__question[open] { border-color: var(--menthe-texte); }
+  summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--espace-4);
+    min-height: 56px;
+    padding: var(--espace-3) var(--espace-5);
+    cursor: pointer;
+    list-style: none;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary:focus-visible { outline-offset: -3px; border-radius: var(--rayon-carte); }
+  .faq__titre { font-size: var(--texte-l); line-height: 1.3; }
+  summary:hover .faq__titre { color: var(--menthe-fonce); }
+  /* Plus fermé, moins ouvert : seul le trait vertical disparaît */
+  .faq__signe { position: relative; flex: none; width: 16px; height: 16px; }
+  .faq__signe::before, .faq__signe::after { content: ""; position: absolute; background: var(--menthe-texte); border-radius: 2px; }
+  .faq__signe::before { left: 0; right: 0; top: 7px; height: 2px; }
+  .faq__signe::after { top: 0; bottom: 0; left: 7px; width: 2px; }
+  .faq__question[open] .faq__signe::after { display: none; }
+  .faq__reponse { padding: 0 var(--espace-5) var(--espace-5); }
+</style>

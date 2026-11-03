@@ -1,0 +1,71 @@
+---
+// Le rappel d'urgence : la croix rouge, le numéro de garde cliquable et son tarif. En ligne sous
+// l'accueil d'une clinique ; en bloc sur la page Urgences, avec le numéro de la clinique pendant
+// les heures d'ouverture. Le rouge ne sert qu'à l'urgence.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import { lienTelephone } from '../lib/format.ts';
+import CroixSuisse from './CroixSuisse.astro';
+
+interface Props {
+  clinique: Clinique;
+  langue: Langue;
+  forme?: 'ligne' | 'bloc';
+  /** Un lien vers la page Urgences, sous le bloc. */
+  lien?: { href: string; libelle: string };
+}
+
+const { clinique, langue, forme = 'ligne', lien } = Astro.props;
+const t = textes(langue);
+const { telephone, tarif } = clinique.garde;
+---
+
+{
+  forme === 'ligne' ? (
+    <p class="urgence urgence--ligne">
+      <CroixSuisse />
+      <span>
+        {t.urgence.ligneDeGarde} <a href={lienTelephone(telephone.international)}>{telephone.affiche}</a>
+        <span class="urgence__tarif">· {tarif[langue]}</span>
+      </span>
+    </p>
+  ) : (
+    <div class="urgence urgence--bloc">
+      <CroixSuisse taille="32px" />
+      <div class="urgence__texte">
+        <p class="urgence__titre">{t.urgence.horsHoraires}</p>
+        <p>
+          <a class="urgence__numero" href={lienTelephone(telephone.international)}>{telephone.affiche}</a>
+        </p>
+        <p class="urgence__tarif">{tarif[langue]}</p>
+        <p>
+          {t.urgence.pendantLesHoraires} <a href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a>
+        </p>
+        {lien && <p><a class="lien-fort" href={lien.href}>{lien.libelle}</a></p>}
+      </div>
+    </div>
+  )
+}
+
+<style>
+  .urgence {
+    display: flex;
+    align-items: center;
+    gap: var(--espace-3);
+    border-left: 4px solid var(--urgence);
+    border-radius: 0 var(--rayon-carte) var(--rayon-carte) 0;
+    background: var(--urgence-pale);
+    color: var(--encre);
+  }
+  .urgence a { color: var(--urgence); font-weight: 800; }
+  .urgence a:hover { color: var(--encre); }
+  .urgence--ligne { padding: 12px 16px; font-size: var(--texte-s); }
+  .urgence--ligne a { font-size: 1.125rem; }
+  .urgence__tarif { color: var(--gris); }
+  .urgence--bloc { align-items: flex-start; padding: var(--espace-5); gap: var(--espace-4); }
+  .urgence__texte { display: grid; gap: var(--espace-1); }
+  .urgence__titre { font: 800 var(--titre-3) / 1.2 var(--police-titre); color: var(--marine); }
+  .urgence__numero { font: 800 clamp(1.75rem, 1.4rem + 1.5vw, 2.25rem) / 1.1 var(--police-titre); }
+  .urgence .lien-fort { color: var(--lien); }
+</style>

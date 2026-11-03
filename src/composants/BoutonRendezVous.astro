@@ -1,0 +1,37 @@
+---
+// Le bouton « Prendre rendez-vous » d'une clinique. Il ouvre le module de réservation que la
+// clinique utilise déjà (Calendly, ou VetLink à Saint-Légier), chargé seulement au clic
+// (src/scripts/rendez-vous.ts). VetLink s'ouvre dans un nouvel onglet.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+
+interface Props {
+  clinique: Clinique;
+  langue: Langue;
+  variante?: 'principal' | 'secondaire';
+  taille?: 'normal' | 'petit';
+  large?: boolean;
+  /** Le texte du bouton ; par défaut « Prendre rendez-vous ». */
+  libelle?: string;
+  class?: string;
+}
+
+const { clinique, langue, variante = 'principal', taille = 'normal', large = false, libelle, class: classe } = Astro.props;
+const t = textes(langue);
+const { outil, adresse } = clinique.rendez_vous;
+---
+
+<a
+  href={adresse}
+  class:list={['bouton', `bouton--${variante}`, { 'bouton--petit': taille === 'petit', 'bouton--large': large }, classe]}
+  data-rendez-vous={outil}
+  target="_blank"
+  rel="noopener"
+>
+  {libelle ?? t.rendezVous.bouton}
+</a>
+
+<script>
+  import '../scripts/rendez-vous.ts';
+</script>

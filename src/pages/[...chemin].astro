@@ -1,0 +1,30 @@
+---
+// Toutes les pages écrites en Markdown (src/content/pages/), dans les deux langues. L'adresse
+// d'une page est le champ `url` de son en-tête ; son type choisit son gabarit (src/gabarits/).
+import type { GetStaticPaths } from 'astro';
+import { toutesLesPages, type Page } from '../lib/pages.ts';
+import { problemesDuSite } from '../lib/verifications.ts';
+import { GABARITS } from '../gabarits/index.ts';
+
+export const getStaticPaths = (async () => {
+  const problemes = await problemesDuSite();
+  if (problemes.length > 0) {
+    const message = `Le site ne respecte pas ses règles :\n- ${problemes.join('\n- ')}`;
+    if (import.meta.env.PROD) throw new Error(message);
+    console.warn(message);
+  }
+  return (await toutesLesPages()).map((page) => ({
+    params: { chemin: page.data.url.replace(/^\/|\/$/g, '') || undefined },
+    props: { page },
+  }));
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page;
+}
+
+const { page } = Astro.props;
+const Gabarit = GABARITS[page.data.type];
+---
+
+<Gabarit page={page} />

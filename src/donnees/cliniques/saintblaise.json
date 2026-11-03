@@ -1,0 +1,102 @@
+{
+  "id": "saintblaise",
+  "en_ligne": false,
+  "site_actuel": "https://saintblaise.vetmint.ch/",
+  "nom": "Vetmint Saint-Blaise",
+  "lieu": "Saint-Blaise",
+  "canton": "NE",
+  "raison_sociale": "Vetmint Saint-Blaise SA",
+  "adresse": {
+    "rue": "Rue des Bourguillards 11",
+    "npa": "2072",
+    "localite": "Saint-Blaise"
+  },
+  "coordonnees": {
+    "lat": 47.0142,
+    "lng": 6.9862
+  },
+  "telephone": {
+    "affiche": "032 753 11 22",
+    "international": "+41327531122"
+  },
+  "email": "st-blaise@vetmint.ch",
+  "especes": [
+    "chien",
+    "chat",
+    "nac"
+  ],
+  "services": [
+    "consultation",
+    "vaccination-chien",
+    "vaccination-chat",
+    "sterilisation-castration",
+    "chirurgie",
+    "soins-dentaires",
+    "analyses-diagnostic",
+    "radiographie",
+    "hospitalisation",
+    "conseils-aux-eleveurs",
+    "puce-electronique",
+    "toilettage",
+    "laser"
+  ],
+  "urgences": true,
+  "horaires": {
+    "lundi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "mardi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "mercredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "jeudi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "vendredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "samedi": [],
+    "dimanche": []
+  },
+  "fermetures": [],
+  "bandeau": null,
+  "garde": {
+    "telephone": {
+      "affiche": "0900 80 70 60",
+      "international": "+41900807060"
+    },
+    "tarif": {
+      "fr": "appel surtaxé, 2 francs la minute",
+      "de": "kostenpflichtiger Anruf, 2 Franken pro Minute"
+    }
+  },
+  "rendez_vous": {
+    "outil": "calendly",
+    "adresse": "https://calendly.com/vetmintsaintblaise/45min"
+  },
+  "sources": [
+    "saintblaise.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, toilettage, urgences, rendez-vous, plan de prévention), relevé du 16 octobre 2026",
+    "vetmint.ch/cabinets/, relevé du 16 octobre 2026",
+    "coordonnées : lien Google Maps de la fiche de la clinique, dans le HTML de l'accueil et du contact",
+    "photos : medias.csv et HTML de la page équipe du miroir (2024/02/PB.png, EK.png, LF.png)"
+  ],
+  "a_remplacer": [
+    "Coordonnées (47.0142, 6.9862) : centre de la carte du lien Google Maps du site actuel, à confirmer sur l'adresse exacte",
+    "Accroche et repère « au centre du village » : déduits des coordonnées, à confirmer par la clinique",
+    "Parking et place de dépose de plain-pied : texte identique sur six sites Vetmint, à confirmer pour Saint-Blaise",
+    "Transports (gare CFF à 7 minutes à pied, bus 101 de TransN) : à confirmer par la clinique",
+    "Accessibilité (réception et consultations de plain-pied) : à confirmer par la clinique",
+    "Communes desservies (Saint-Blaise, Hauterive, La Tène, Neuchâtel, Cornaux, Cressier, Enges, Le Landeron) : liste reconstituée d'après la carte",
+    "Langues parlées par l'équipe (français) : aucune source, à confirmer par chaque personne",
+    "Motifs et durées du module de rendez-vous : proposés d'après la grille tarifaire ; le calendrier en ligne actuel propose un créneau unique de 45 minutes",
+    "Échographe sur place : déduit de la ligne « Échographie de gestation » de la grille tarifaire, à confirmer par la clinique",
+    "Services : liste tirée de la page Prestations actuelle, identique sur les huit sites, à confirmer par la clinique"
+  ]
+}

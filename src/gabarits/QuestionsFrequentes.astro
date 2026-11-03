@@ -1,0 +1,42 @@
+---
+// Les questions fréquentes d'une clinique : le texte avant la première question, puis chaque
+// question ### en accordéon, avec le balisage FAQPage.
+import { contexteDe } from '../lib/contexte.ts';
+import { balisageDesQuestions } from '../lib/balisage.ts';
+import { questions, sections } from '../lib/html.ts';
+import type { Page } from '../lib/pages.ts';
+import Prose from '../composants/Prose.astro';
+import QuestionsFrequentes from '../composants/QuestionsFrequentes.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { langue, html } = contexte;
+// Les questions peuvent être rangées en sections ## : chaque section garde son titre.
+const { introduction, sections: groupes } = sections(html, 2);
+const avantLesGroupes = sections(introduction, 3);
+const blocs = [
+  { titre: '', entete: '', introduction: avantLesGroupes.introduction, questions: questions(introduction) },
+  ...groupes.map((g) => ({ titre: g.titre, entete: g.entete, introduction: sections(g.contenu, 3).introduction, questions: questions(g.contenu) })),
+];
+const toutes = blocs.flatMap((b) => b.questions);
+---
+
+<PageInterieure contexte={contexte} balisage={[balisageDesQuestions(toutes, langue)]}>
+  {
+    blocs.map((b, i) => (
+      <section class="groupe">
+        {b.entete && <Prose html={b.entete} />}
+        {b.introduction && <Prose html={b.introduction} chapeau={i === 0} />}
+        {b.questions.length > 0 && <QuestionsFrequentes questions={b.questions} niveau={b.entete ? 3 : 2} />}
+      </section>
+    ))
+  }
+</PageInterieure>
+
+<style>
+  .groupe { display: grid; gap: var(--espace-4); }
+</style>

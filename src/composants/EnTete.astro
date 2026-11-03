@@ -1,0 +1,153 @@
+---
+// L'en-tête du site, sur fond blanc : le logo (avec le lieu sur les pages d'une clinique), la
+// navigation, le lien d'urgence, le bouton de rendez-vous et le lien vers l'autre langue. Sur
+// smartphone, un bouton ouvre le menu ; sans JavaScript, la navigation reste affichée.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import Bouton from './Bouton.astro';
+import BoutonRendezVous from './BoutonRendezVous.astro';
+import CroixSuisse from './CroixSuisse.astro';
+import Logo from './Logo.astro';
+
+interface Lien {
+  libelle: string;
+  href: string;
+}
+
+interface Props {
+  langue: Langue;
+  /** L'adresse de l'accueil, cible du logo : celui du site ou celui de la clinique. */
+  accueil: string;
+  /** Le nom du lieu à côté du logo, sur les pages d'une clinique. */
+  lieu?: string;
+  liens: Lien[];
+  /** Le lien vers la page Urgences. */
+  urgence?: Lien;
+  /** Sur les pages d'une clinique : le bouton ouvre son module de rendez-vous. */
+  clinique?: Clinique;
+  /** Sur les pages communes : le bouton mène au choix de la clinique. */
+  rendezVous?: string;
+  /** La même page dans l'autre langue. */
+  autreLangue?: string;
+}
+
+const { langue, accueil, lieu, liens, urgence, clinique, rendezVous, autreLangue } = Astro.props;
+const t = textes(langue);
+const courant = Astro.url.pathname;
+const estCourant = (href: string) => href !== accueil && (courant === href || courant.startsWith(href));
+---
+
+<header class="entete" data-entete>
+  <div class="conteneur entete__barre">
+    <Logo alt={t.site.logo} lieu={lieu} href={accueil} />
+
+    <div class="entete__mobile">
+      {urgence && <a class="entete__urgence-mobile" href={urgence.href} aria-label={urgence.libelle}><CroixSuisse taille="26px" /></a>}
+      <button class="entete__bouton-menu" type="button" aria-expanded="false" aria-controls="menu" data-bouton-menu>
+        <svg viewBox="0 0 24 24" aria-hidden="true" class="entete__icone entete__icone--ouvrir"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"></path></svg>
+        <svg viewBox="0 0 24 24" aria-hidden="true" class="entete__icone entete__icone--fermer"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"></path></svg>
+        <span class="visuellement-cache">{t.navigation.menu}</span>
+      </button>
+    </div>
+
+    <div class="entete__menu" id="menu" data-menu>
+      <nav aria-label={t.navigation.principale}>
+        <ul class="entete__liens">
+          {liens.map((l) => <li><a href={l.href} aria-current={estCourant(l.href) ? 'page' : undefined}>{l.libelle}</a></li>)}
+        </ul>
+      </nav>
+      {
+        urgence && (
+          <a class="entete__urgence" href={urgence.href} aria-current={estCourant(urgence.href) ? 'page' : undefined}>
+            <CroixSuisse taille="20px" />
+            {urgence.libelle}
+          </a>
+        )
+      }
+      {
+        autreLangue && (
+          <a class="entete__langue" href={autreLangue} hreflang={langue === 'fr' ? 'de' : 'fr'} lang={langue === 'fr' ? 'de' : 'fr'}>
+            <span aria-hidden="true">{t.langue.autreCourt}</span>
+            <span class="visuellement-cache">{t.langue.autreAccessible}</span>
+          </a>
+        )
+      }
+      {clinique ? <BoutonRendezVous clinique={clinique} langue={langue} class="entete__rendez-vous" /> : rendezVous && <Bouton href={rendezVous} class="entete__rendez-vous">{t.rendezVous.bouton}</Bouton>}
+    </div>
+  </div>
+</header>
+<script is:inline>document.querySelectorAll('[data-entete]').forEach((e) => e.setAttribute('data-js', ''));</script>
+
+<script>
+  // Le menu de smartphone : un bouton qui ouvre et ferme la navigation.
+  const ORDINATEUR = window.matchMedia('(min-width: 72rem)');
+  document.querySelectorAll<HTMLElement>('[data-entete]').forEach((entete) => {
+    const bouton = entete.querySelector<HTMLButtonElement>('[data-bouton-menu]')!;
+    const menu = entete.querySelector<HTMLElement>('[data-menu]')!;
+    function basculer(ouvrir: boolean, rendreLeFocus = false) {
+      bouton.setAttribute('aria-expanded', String(ouvrir));
+      entete.toggleAttribute('data-ouvert', ouvrir);
+      if (!ouvrir && rendreLeFocus) bouton.focus();
+    }
+    bouton.addEventListener('click', () => basculer(bouton.getAttribute('aria-expanded') !== 'true'));
+    entete.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && entete.hasAttribute('data-ouvert')) basculer(false, true);
+    });
+    menu.addEventListener('click', (e) => {
+      if ((e.target as HTMLElement).closest('a')) basculer(false);
+    });
+    ORDINATEUR.addEventListener('change', () => basculer(false));
+  });
+</script>
+
+<style>
+  .entete { position: relative; z-index: 20; background: var(--blanc); border-bottom: 1px solid var(--trait-leger); }
+  .entete__barre { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espace-2); padding-block: 10px; }
+  .entete__barre > :global(.logo) { margin-right: auto; --hauteur: 42px !important; }
+
+  .entete__mobile { display: flex; align-items: center; gap: var(--espace-2); }
+  .entete__urgence-mobile, .entete__bouton-menu { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; }
+  .entete__bouton-menu { border: 2px solid var(--trait); background: var(--blanc); color: var(--marine); }
+  .entete__bouton-menu:hover { border-color: var(--marine); }
+  .entete__icone { width: 24px; height: 24px; }
+  .entete__icone--fermer, .entete[data-ouvert] .entete__icone--ouvrir { display: none; }
+  .entete[data-ouvert] .entete__icone--fermer { display: block; }
+  .entete:not([data-js]) .entete__bouton-menu { display: none; }
+
+  .entete__menu { flex-basis: 100%; display: grid; gap: var(--espace-4); padding: var(--espace-3) 0 var(--espace-5); }
+  .entete[data-js]:not([data-ouvert]) .entete__menu { display: none; }
+
+  .entete__liens { list-style: none; margin: 0; padding: 0; }
+  .entete__liens li + li { border-top: 1px solid var(--trait-leger); }
+  .entete__liens a, .entete__urgence, .entete__langue {
+    display: flex;
+    align-items: center;
+    gap: var(--espace-2);
+    min-height: 48px;
+    color: var(--marine);
+    font-weight: 700;
+    font-size: 1.0625rem;
+    text-decoration: none;
+  }
+  .entete__liens a:hover, .entete__urgence:hover, .entete__langue:hover { color: var(--menthe-texte); }
+  .entete__liens a[aria-current='page'], .entete__urgence[aria-current='page'] {
+    color: var(--menthe-texte);
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.35em;
+  }
+  .entete__langue { justify-content: center; width: 44px; min-height: 44px; border: 2px solid var(--trait); border-radius: var(--rayon-pilule); font-size: var(--texte-s); }
+  .entete__langue:hover { border-color: var(--marine); }
+
+  @media (min-width: 72rem) {
+    .entete__barre { flex-wrap: nowrap; gap: var(--espace-5); padding-block: 14px; }
+    .entete__barre > :global(.logo) { --hauteur: 52px !important; margin-right: 0; }
+    .entete__mobile, .entete:not([data-js]) .entete__bouton-menu { display: none; }
+    .entete__menu, .entete[data-js]:not([data-ouvert]) .entete__menu { display: flex; flex: 1; align-items: center; gap: var(--espace-5); padding: 0; }
+    .entete__menu nav { margin-left: auto; }
+    .entete__liens { display: flex; gap: var(--espace-5); }
+    .entete__liens li + li { border: 0; }
+    .entete__liens a, .entete__urgence { min-height: 44px; font-size: 1rem; font-weight: 600; }
+  }
+</style>

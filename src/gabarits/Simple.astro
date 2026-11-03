@@ -1,0 +1,18 @@
+---
+// Une page de texte : à propos, emploi, lettre d'information, pages légales ; et pour une
+// clinique, ses tarifs et ses abonnements, avec la carte de la clinique à côté.
+import { contexteDe } from '../lib/contexte.ts';
+import type { Page } from '../lib/pages.ts';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+---
+
+<PageInterieure contexte={contexte}>
+  <Prose html={contexte.html} chapeau />
+</PageInterieure>

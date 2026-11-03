@@ -1,0 +1,743 @@
+[
+  {
+    "fichier": "accueil-veterinaire-chat-tigre.jpg",
+    "sujet": "accueil",
+    "alt": {
+      "fr": "Une vétérinaire sourit à un chat tigré qu'elle tient sur la table de consultation",
+      "de": "Eine Tierärztin lächelt eine getigerte Katze an, die sie auf dem Untersuchungstisch hält"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.4
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR-Femme_chat-HR_crop-scaled.jpg"
+  },
+  {
+    "fichier": "accueil-veterinaire-carlin.jpg",
+    "sujet": "accueil",
+    "alt": {
+      "fr": "Un vétérinaire en tenue bleue pose les mains sur un carlin couché sur la table de consultation",
+      "de": "Ein Tierarzt in blauer Berufskleidung legt die Hände auf einen Mops, der auf dem Untersuchungstisch liegt"
+    },
+    "point_focal": {
+      "x": 0.47,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR_inside-vieux-veto-scaled.jpeg"
+  },
+  {
+    "fichier": "accueil-veterinaire-chat-persan.jpg",
+    "sujet": "accueil",
+    "alt": {
+      "fr": "Une vétérinaire ausculte au stéthoscope un chat gris et blanc à poil long",
+      "de": "Eine Tierärztin hört eine grau-weisse Langhaarkatze mit dem Stethoskop ab"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_107432576-scaled.jpeg"
+  },
+  {
+    "fichier": "espece-chien-croise.jpg",
+    "sujet": "espece:chien",
+    "alt": {
+      "fr": "Un chien croisé au pelage fauve, en harnais rose, regarde l'objectif",
+      "de": "Ein Mischlingshund mit rehbraunem Fell im rosa Geschirr schaut in die Kamera"
+    },
+    "point_focal": {
+      "x": 0.57,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2022/01/vet-12.jpg"
+  },
+  {
+    "fichier": "espece-chat-chaton-tigre.jpg",
+    "sujet": "espece:chat",
+    "alt": {
+      "fr": "Un chaton tigré gris couché sur un plaid posé sur un radiateur",
+      "de": "Ein grau getigertes Kätzchen liegt auf einer Decke auf einem Heizkörper"
+    },
+    "point_focal": {
+      "x": 0.3,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Chatton_soins-domicile.jpg"
+  },
+  {
+    "fichier": "espece-chat-chaton-clair.jpg",
+    "sujet": "espece:chat",
+    "alt": {
+      "fr": "Un chaton au pelage clair et aux yeux bleus allongé sur une couverture blanche",
+      "de": "Ein Kätzchen mit hellem Fell und blauen Augen liegt auf einer weissen Decke"
+    },
+    "point_focal": {
+      "x": 0.68,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/09/chats.jpeg"
+  },
+  {
+    "fichier": "espece-nac-lapin-gris.jpg",
+    "sujet": "espece:nac",
+    "alt": {
+      "fr": "Un jeune lapin gris dans l'herbe haute",
+      "de": "Ein junges graues Kaninchen im hohen Gras"
+    },
+    "point_focal": {
+      "x": 0.42,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/09/lapin.jpeg"
+  },
+  {
+    "fichier": "conseil-troubles-de-la-ponte.jpg",
+    "sujet": "conseil:troubles-de-la-ponte",
+    "alt": {
+      "fr": "Une poule rousse couve dans un nichoir en bois, deux œufs posés devant elle",
+      "de": "Eine rotbraune Henne brütet in einem Nistkasten aus Holz, vor ihr liegen zwei Eier"
+    },
+    "point_focal": {
+      "x": 0.65,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Poule.webp"
+  },
+  {
+    "fichier": "conseil-troubles-de-la-ponte.jpg",
+    "sujet": "espece:oiseau",
+    "alt": {
+      "fr": "Une poule rousse couve dans un nichoir en bois, deux œufs posés devant elle",
+      "de": "Eine rotbraune Henne brütet in einem Nistkasten aus Holz, vor ihr liegen zwei Eier"
+    },
+    "point_focal": {
+      "x": 0.65,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Poule.webp"
+  },
+  {
+    "fichier": "service-consultation-examen-oreille.jpg",
+    "sujet": "service:consultation",
+    "alt": {
+      "fr": "Deux vétérinaires examinent l'oreille d'un petit chien blanc à l'otoscope",
+      "de": "Zwei Tierärzte untersuchen mit dem Otoskop das Ohr eines kleinen weissen Hundes"
+    },
+    "point_focal": {
+      "x": 0.56,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme.jpg"
+  },
+  {
+    "fichier": "service-chirurgie-intervention.jpg",
+    "sujet": "service:chirurgie",
+    "alt": {
+      "fr": "Un vétérinaire masqué intervient sur un chat endormi sous la lampe de la salle de soins",
+      "de": "Ein Tierarzt mit Maske behandelt eine schlafende Katze unter der Lampe des Behandlungsraums"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.55
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/04/Alex_intervention-scaled.jpg"
+  },
+  {
+    "fichier": "service-soins-dentaires-chien.jpg",
+    "sujet": "service:soins-dentaires",
+    "alt": {
+      "fr": "Des mains gantées ouvrent la gueule d'un chien pour examiner ses dents",
+      "de": "Behandschuhte Hände öffnen das Maul eines Hundes, um seine Zähne zu untersuchen"
+    },
+    "point_focal": {
+      "x": 0.64,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/08/soins-dentaires-chien.webp"
+  },
+  {
+    "fichier": "service-analyses-laboratoire.jpg",
+    "sujet": "service:analyses-diagnostic",
+    "alt": {
+      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+  },
+  {
+    "fichier": "service-radiographie-cliche.jpg",
+    "sujet": "service:radiographie",
+    "alt": {
+      "fr": "Un vétérinaire montre un cliché de radiographie à côté d'un jack russell couché sur le bureau",
+      "de": "Ein Tierarzt zeigt ein Röntgenbild neben einem Jack Russell, der auf dem Schreibtisch liegt"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR-Triptique-HR-scaled.jpeg"
+  },
+  {
+    "fichier": "service-echographie-ecran.jpg",
+    "sujet": "service:echographie",
+    "alt": {
+      "fr": "Une vétérinaire regarde une image d'échographie sur l'écran de l'échographe",
+      "de": "Eine Tierärztin betrachtet ein Ultraschallbild auf dem Bildschirm des Ultraschallgeräts"
+    },
+    "point_focal": {
+      "x": 0.42,
+      "y": 0.47
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/09/echographie-scaled.jpeg"
+  },
+  {
+    "fichier": "service-laser-chien.jpg",
+    "sujet": "service:laser",
+    "alt": {
+      "fr": "Une soignante en lunettes de protection tient un bouvier pendant une séance de thérapie laser",
+      "de": "Eine Pflegerin mit Schutzbrille hält einen Sennenhund während einer Sitzung der Lasertherapie"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.4
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+  },
+  {
+    "fichier": "service-toilettage-yorkshire.jpg",
+    "sujet": "service:toilettage",
+    "alt": {
+      "fr": "Une toiletteuse coupe aux ciseaux les poils d'un yorkshire sur la table de toilettage",
+      "de": "Eine Fellpflegerin schneidet auf dem Pflegetisch mit der Schere das Fell eines Yorkshires"
+    },
+    "point_focal": {
+      "x": 0.42,
+      "y": 0.4
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/06/image-toilettage-e1686667249172.jpeg"
+  },
+  {
+    "fichier": "service-nac-lapin.jpg",
+    "sujet": "service:nac",
+    "alt": {
+      "fr": "Un vétérinaire en tenue de soins tient contre lui un lapin noir et blanc",
+      "de": "Ein Tierarzt in Berufskleidung hält ein schwarz-weisses Kaninchen an sich"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_25400444-scaled.jpeg"
+  },
+  {
+    "fichier": "service-soins-a-domicile-chien.jpg",
+    "sujet": "service:soins-a-domicile",
+    "alt": {
+      "fr": "Un jack russell couché sur un coussin dans son panier en osier, à la maison",
+      "de": "Ein Jack Russell liegt zu Hause auf einem Kissen in seinem Weidenkorb"
+    },
+    "point_focal": {
+      "x": 0.63,
+      "y": 0.42
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Chien_soins-domicile-FF.jpg"
+  },
+  {
+    "fichier": "conseil-pancreatite-du-chien.jpg",
+    "sujet": "conseil:pancreatite-du-chien",
+    "alt": {
+      "fr": "Un chien sous perfusion, un cathéter posé à la patte avant, debout sur une alèse",
+      "de": "Ein Hund mit Infusion und einem Katheter am Vorderbein steht auf einer Unterlage"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/08/pancreatite.jpeg"
+  },
+  {
+    "fichier": "conseil-pancreatite-du-chien.jpg",
+    "sujet": "service:hospitalisation",
+    "alt": {
+      "fr": "Un chien sous perfusion, un cathéter posé à la patte avant, debout sur une alèse",
+      "de": "Ein Hund mit Infusion und einem Katheter am Vorderbein steht auf einer Unterlage"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/08/pancreatite.jpeg"
+  },
+  {
+    "fichier": "conseil-le-lapin.jpg",
+    "sujet": "conseil:le-lapin",
+    "alt": {
+      "fr": "Un jeune lapin brun et blanc assis dans l'herbe à côté de sa gamelle",
+      "de": "Ein junges braun-weisses Kaninchen sitzt im Gras neben seinem Napf"
+    },
+    "point_focal": {
+      "x": 0.53,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/lapin.webp"
+  },
+  {
+    "fichier": "conseil-le-cochon-d-inde.jpg",
+    "sujet": "conseil:le-cochon-d-inde",
+    "alt": {
+      "fr": "Un cochon d'Inde à poil long noir et blanc entouré de fleurs roses",
+      "de": "Ein langhaariges schwarz-weisses Meerschweinchen, umgeben von rosa Blumen"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/CDI.jpeg"
+  },
+  {
+    "fichier": "conseil-le-rat.jpg",
+    "sujet": "conseil:le-rat",
+    "alt": {
+      "fr": "Un rat gris et blanc grignote une graine qu'il tient entre ses pattes",
+      "de": "Eine grau-weisse Ratte knabbert an einem Samenkorn, das sie zwischen den Pfoten hält"
+    },
+    "point_focal": {
+      "x": 0.37,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/rat.jpeg"
+  },
+  {
+    "fichier": "conseil-hyperthyroidie-feline.jpg",
+    "sujet": "conseil:hyperthyroidie-feline",
+    "alt": {
+      "fr": "Un chat tigré mince assis sur le sol devant un mur turquoise",
+      "de": "Eine schlanke getigerte Katze sitzt auf dem Boden vor einer türkisfarbenen Wand"
+    },
+    "point_focal": {
+      "x": 0.42,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/07/hyperthiroidie-fel.jpeg"
+  },
+  {
+    "fichier": "conseil-bilan-sanguin.jpg",
+    "sujet": "conseil:bilan-sanguin",
+    "alt": {
+      "fr": "Deux tubes de prélèvement remplis de sang posés sur un champ de soins",
+      "de": "Zwei mit Blut gefüllte Probenröhrchen auf einem Abdecktuch"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/07/Un-bilan-sanguin-pour-mon-animal.webp"
+  },
+  {
+    "fichier": "conseil-obesite-du-chat.jpg",
+    "sujet": "conseil:obesite-du-chat",
+    "alt": {
+      "fr": "Un chat au pelage crème et au masque brun joue couché dans l'herbe",
+      "de": "Eine Katze mit cremefarbenem Fell und brauner Gesichtsmaske spielt im Gras liegend"
+    },
+    "point_focal": {
+      "x": 0.62,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/08/chat-obese.jpeg"
+  },
+  {
+    "fichier": "conseil-alimentation-du-lapin.jpg",
+    "sujet": "conseil:alimentation-du-lapin",
+    "alt": {
+      "fr": "Un lapin brun mange une fleur de trèfle dans l'herbe",
+      "de": "Ein braunes Kaninchen frisst im Gras eine Kleeblüte"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/07/Alimentation-du-lapin.jpeg"
+  },
+  {
+    "fichier": "conseil-sterilisation-du-lapin.jpg",
+    "sujet": "conseil:sterilisation-du-lapin",
+    "alt": {
+      "fr": "Deux lapins blancs adultes et un lapereau sur un tapis au soleil",
+      "de": "Zwei erwachsene weisse Kaninchen und ein Jungkaninchen auf einem Teppich in der Sonne"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2023/08/sterilisation-des-lapins.jpeg"
+  },
+  {
+    "fichier": "conseil-maladie-dentaire-du-lapin.jpg",
+    "sujet": "conseil:maladie-dentaire-du-lapin",
+    "alt": {
+      "fr": "Un lapin fauve, gueule ouverte, montre ses incisives à l'entrée de sa cabane",
+      "de": "Ein rehbraunes Kaninchen zeigt mit offenem Maul seine Schneidezähne am Eingang seines Häuschens"
+    },
+    "point_focal": {
+      "x": 0.43,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/lapin_maladie_dentaire.png"
+  },
+  {
+    "fichier": "conseil-otites-du-lapin.jpg",
+    "sujet": "conseil:otites-du-lapin",
+    "alt": {
+      "fr": "Un lapin bélier fauve couché sur un canapé vert",
+      "de": "Ein rehbraunes Widderkaninchen liegt auf einem grünen Sofa"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/otite.webp"
+  },
+  {
+    "fichier": "conseil-rhinite-du-lapin.jpg",
+    "sujet": "conseil:rhinite-du-lapin",
+    "alt": {
+      "fr": "Gros plan sur la tête et le nez d'un lapin gris et blanc",
+      "de": "Nahaufnahme von Kopf und Nase eines grau-weissen Kaninchens"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Rhinite.jpeg"
+  },
+  {
+    "fichier": "conseil-encephalitozoonose.jpg",
+    "sujet": "conseil:encephalitozoonose",
+    "alt": {
+      "fr": "Un lapin brun à la tête penchée sur le côté, posé sur une surface blanche",
+      "de": "Ein braunes Kaninchen mit zur Seite geneigtem Kopf auf einer weissen Fläche"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/ECuniculi.png"
+  },
+  {
+    "fichier": "conseil-mycoplasmose.jpg",
+    "sujet": "conseil:mycoplasmose",
+    "alt": {
+      "fr": "Un rat blanc et gris posé sur le bord d'une coupelle en verre",
+      "de": "Eine weiss-graue Ratte sitzt auf dem Rand einer Glasschale"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/mycoplasmose.webp"
+  },
+  {
+    "fichier": "conseil-sablose-urinaire.jpg",
+    "sujet": "conseil:sablose-urinaire",
+    "alt": {
+      "fr": "Deux lapins blancs et un cochon d'Inde roux et blanc mangent des feuilles vertes",
+      "de": "Zwei weisse Kaninchen und ein rot-weisses Meerschweinchen fressen grüne Blätter"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.55
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/sablose-urinaire.webp"
+  },
+  {
+    "fichier": "conseil-nebulisations-et-inhalations.jpg",
+    "sujet": "conseil:nebulisations-et-inhalations",
+    "alt": {
+      "fr": "Un lapin bélier brun dans sa caisse de transport, porte ouverte",
+      "de": "Ein braunes Widderkaninchen in seiner Transportbox mit offener Tür"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Nebulisations-et-inhalations.png"
+  },
+  {
+    "fichier": "clinique-domdidier-facade.jpg",
+    "sujet": "clinique:domdidier",
+    "alt": {
+      "fr": "L'entrée de la clinique de Domdidier, façade blanche, auvent et plaque Vetmint",
+      "de": "Der Eingang der Praxis Domdidier mit weisser Fassade, Vordach und Vetmint-Schild"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/04/Facade-Vetmint-Domdidier.jpg"
+  },
+  {
+    "fichier": "clinique-payerne-entree.jpg",
+    "sujet": "clinique:payerne",
+    "alt": {
+      "fr": "La porte vitrée de la clinique de Payerne, ornée de silhouettes d'animaux et du logo Vetmint",
+      "de": "Die Glastür der Praxis Payerne, verziert mit Tierumrissen und dem Vetmint-Logo"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Face-exterieur_site-scaled.jpg"
+  },
+  {
+    "fichier": "clinique-saintlegier-facade.jpg",
+    "sujet": "clinique:saintlegier",
+    "alt": {
+      "fr": "La façade ocre de la clinique de Saint-Légier, avec sa croix bleue et ses vitrines Vetmint",
+      "de": "Die ockerfarbene Fassade der Praxis Saint-Légier mit blauem Kreuz und den Vetmint-Schaufenstern"
+    },
+    "point_focal": {
+      "x": 0.4,
+      "y": 0.5
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2022/08/Exterieur-scaled-e1661964498280.jpg"
+  },
+  {
+    "fichier": "groupe-veterinaires-chat.jpg",
+    "sujet": "groupe",
+    "alt": {
+      "fr": "Un vétérinaire prend des notes pendant qu'une collègue tient un chat blanc sur la table d'examen",
+      "de": "Ein Tierarzt macht Notizen, während eine Kollegin eine weisse Katze auf dem Untersuchungstisch hält"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR_couple-chat_Crop.jpg"
+  },
+  {
+    "fichier": "groupe-veterinaires-yorkshire.jpg",
+    "sujet": "groupe",
+    "alt": {
+      "fr": "Deux vétérinaires en tenue bleue sourient, l'une tient un yorkshire dans ses bras",
+      "de": "Zwei Tierärztinnen in blauer Berufskleidung lächeln, eine hält einen Yorkshire im Arm"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.45
+    },
+    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_181907306-scaled.jpeg"
+  },
+  {
+    "fichier": "payerne-accueil-veterinaire-chiot-chaton.jpg",
+    "sujet": "payerne:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en blouse blanche tient dans ses bras un chiot cocker et un chaton roux",
+      "de": "Eine Tierärztin im weissen Kittel hält einen Cockerspaniel-Welpen und ein rotes Kätzchen im Arm"
+    },
+    "point_focal": {
+      "x": 0.53,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+  },
+  {
+    "fichier": "payerne-accueil-veterinaires-labrador.jpg",
+    "sujet": "payerne:accueil",
+    "alt": {
+      "fr": "Deux vétérinaires souriants entourent un labrador sable assis sur la table d'examen",
+      "de": "Zwei lächelnde Tierärzte stehen um einen sandfarbenen Labrador, der auf dem Untersuchungstisch sitzt"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.4
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2021/02/HR-H-F-chien-HR_Crop-scaled.jpg"
+  },
+  {
+    "fichier": "payerne-accueil-veterinaire-husky.jpg",
+    "sujet": "payerne:accueil",
+    "alt": {
+      "fr": "Un vétérinaire en tenue bleue, stéthoscope au cou, caresse un husky",
+      "de": "Ein Tierarzt in blauer Berufskleidung mit Stethoskop um den Hals streichelt einen Husky"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.4
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-homme.jpg"
+  },
+  {
+    "fichier": "payerne-equipe-claire-lise-tinguely.jpg",
+    "sujet": "payerne:equipe:Claire-Lise Tinguely",
+    "alt": {
+      "fr": "Claire-Lise Tinguely, vétérinaire, en salle de consultation avec un chien tricolore assis sur la table",
+      "de": "Claire-Lise Tinguely, Tierärztin, im Sprechzimmer mit einem dreifarbigen Hund, der auf dem Tisch sitzt"
+    },
+    "point_focal": {
+      "x": 0.6,
+      "y": 0.3
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/10/Claire-scaled-e1760103492798.jpg"
+  },
+  {
+    "fichier": "payerne-equipe-jessy-dizerens.jpg",
+    "sujet": "payerne:equipe:Jessy Dizerens",
+    "alt": {
+      "fr": "Jessy Dizerens, assistante en médecine vétérinaire, dans un pré avec un chiot bouvier bernois dans les bras",
+      "de": "Jessy Dizerens, Tiermedizinische Praxisassistentin, auf einer Wiese mit einem Berner-Sennenhund-Welpen im Arm"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.3
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/09/Jessy-scaled-e1759137087792-1454x1536.jpg"
+  },
+  {
+    "fichier": "payerne-equipe-sandra-maeder.jpg",
+    "sujet": "payerne:equipe:Sandra Maeder",
+    "alt": {
+      "fr": "Sandra Maeder, assistante en médecine vétérinaire, assise à côté d'un berger allemand",
+      "de": "Sandra Maeder, Tiermedizinische Praxisassistentin, sitzt neben einem Deutschen Schäferhund"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.35
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/09/Sandra-scaled-e1759137860441-1805x2048.jpg"
+  },
+  {
+    "fichier": "payerne-equipe-afonso-jesus-costa.jpg",
+    "sujet": "payerne:equipe:Afonso Jesus Costa",
+    "alt": {
+      "fr": "Afonso Jesus Costa, apprenti assistant en médecine vétérinaire, en tenue de soins turquoise",
+      "de": "Afonso Jesus Costa, Lernender Tiermedizinischer Praxisassistent, in türkisfarbener Berufskleidung"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.4
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2024/10/AC-1.png"
+  },
+  {
+    "fichier": "payerne-equipe-annie-pasquier.jpg",
+    "sujet": "payerne:equipe:Annie Pasquier",
+    "alt": {
+      "fr": "Annie Pasquier, préapprentie assistante en médecine vétérinaire, tient une chatte écaille de tortue dans ses bras",
+      "de": "Annie Pasquier, Vorlernende Tiermedizinische Praxisassistentin, hält eine Schildpattkatze im Arm"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.35
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/10/Annie-e1759928693293.jpg"
+  },
+  {
+    "fichier": "payerne-locaux-entree.jpg",
+    "sujet": "payerne:locaux",
+    "alt": {
+      "fr": "La porte vitrée de la clinique de Payerne, ornée de silhouettes d'animaux et du logo Vetmint",
+      "de": "Die Glastür der Praxis Payerne, verziert mit Tierumrissen und dem Vetmint-Logo"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/11/IMG_20221107_154048-scaled.jpg"
+  },
+  {
+    "fichier": "payerne-locaux-reception.jpg",
+    "sujet": "payerne:locaux",
+    "alt": {
+      "fr": "La réception de la clinique de Payerne, son comptoir en bois et les portes des salles de consultation",
+      "de": "Der Empfang der Praxis Payerne mit Holztheke und den Türen der Sprechzimmer"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Vue-client-1024x768.jpg"
+  },
+  {
+    "fichier": "payerne-locaux-zone-de-soins.jpg",
+    "sujet": "payerne:locaux",
+    "alt": {
+      "fr": "La zone de soins de la clinique de Payerne, entre la salle de chirurgie et la salle de radiologie",
+      "de": "Der Behandlungsbereich der Praxis Payerne zwischen dem Operationssaal und dem Röntgenraum"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Salle-OP-scaled.jpg"
+  },
+  {
+    "fichier": "payerne-locaux-laboratoire.jpg",
+    "sujet": "payerne:locaux",
+    "alt": {
+      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+  },
+  {
+    "fichier": "payerne-locaux-laboratoire.jpg",
+    "sujet": "payerne:service:analyses-diagnostic",
+    "alt": {
+      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+  },
+  {
+    "fichier": "payerne-espece-chien-berger-blanc.jpg",
+    "sujet": "payerne:espece:chien",
+    "alt": {
+      "fr": "Un berger blanc couché sur un plaid, des lunettes roses en forme de cœur sur le museau",
+      "de": "Ein weisser Schäferhund liegt auf einer Decke, auf der Schnauze eine rosa Brille in Herzform"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/chien.jpeg"
+  },
+  {
+    "fichier": "payerne-espece-chat-chaton-clair.jpg",
+    "sujet": "payerne:espece:chat",
+    "alt": {
+      "fr": "Un chaton au pelage clair et aux yeux bleus allongé sur une couverture blanche",
+      "de": "Ein Kätzchen mit hellem Fell und blauen Augen liegt auf einer weissen Decke"
+    },
+    "point_focal": {
+      "x": 0.68,
+      "y": 0.45
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/chats.jpeg"
+  },
+  {
+    "fichier": "payerne-espece-nac-lapin-gris.jpg",
+    "sujet": "payerne:espece:nac",
+    "alt": {
+      "fr": "Un jeune lapin gris dans l'herbe haute",
+      "de": "Ein junges graues Kaninchen im hohen Gras"
+    },
+    "point_focal": {
+      "x": 0.42,
+      "y": 0.5
+    },
+    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/lapin.jpeg"
+  }
+]

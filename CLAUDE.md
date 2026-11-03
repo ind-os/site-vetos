@@ -9,15 +9,20 @@ Tu aides une personne à faire évoluer son site. Elle n'est pas développeuse.
 
 ## Ce qu'il y a dans ce dossier
 
-- `src/pages/index.astro` : la page d'accueil.
-- `src/pages/` : une page par fichier. `src/pages/contact.astro` devient l'adresse `/contact`.
-- `public/` : les images et les fichiers servis tels quels. `public/logo.png` devient l'adresse `/logo.png`.
+Le site vetmint.ch, en français et en allemand : les pages communes du groupe et les pages de chaque clinique, sous `vetmint.ch/<clinique>/`.
+
+- `src/content/pages/fr/` et `src/content/pages/de/` : les textes, une page par fichier, dans chaque langue. `fr/payerne/equipe.md` est la page `/payerne/equipe/` ; `de/payerne/equipe.md` est sa traduction.
+- `src/donnees/cliniques/` : la fiche de chaque clinique. Horaires, fermetures, annonce, équipe, téléphone, rendez-vous.
+- `src/i18n/fr.ts` et `src/i18n/de.ts` : les petits textes des menus et des boutons.
+- `src/assets/images/` : les photos et leur catalogue.
+- `src/composants/` : les blocs du site. La page `/styleguide/` les montre tous.
+- `docs/` : les règles du site. `docs/plan-des-pages.md` dit quelle page vit où.
 
 Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils servent à publier le site. `.github/` et `.claude/` te sont fermés.
 
 ## Les gestes
 
-Quatre gestes, dans l'ordre : préparer l'ordinateur, une fois ; puis, à chaque modification, prévisualiser, publier, et parfois revenir à une version d'avant.
+Cinq gestes : préparer l'ordinateur, une fois ; puis, à chaque modification, prévisualiser, modifier, publier, et parfois revenir à une version d'avant.
 
 ### 1. Préparer l'ordinateur
 
@@ -63,21 +68,35 @@ La personne voit sa modification sur son ordinateur avant de la publier. Le site
 3. Donne-lui l'adresse à ouvrir dans son navigateur : `http://localhost:4321`. Chaque fichier enregistré s'y voit aussitôt.
 4. `pnpm astro dev status` dit s'il tourne ; `pnpm astro dev stop` l'arrête.
 
-Fais la modification qu'elle demande, puis dis-lui où la regarder.
+Fais la modification qu'elle demande (geste 3), puis dis-lui où la regarder.
 
-### 3. Publier
+### 3. Modifier le site
+
+Chaque modification se fait dans les deux langues : le français d'abord, puis la même chose en allemand. Les règles sont dans `docs/` ; lis le document du cas avant de modifier.
+
+- **Un horaire, une fermeture, une annonce en haut des pages d'une clinique** : la fiche de la clinique, `src/donnees/cliniques/<clinique>.json` (`docs/fiche-clinique.md`, « Les gestes courants »). Toutes les pages de la clinique suivent.
+- **Un texte d'une page** : son fichier dans `src/content/pages/fr/`, puis le même dans `src/content/pages/de/`. Suis la skill `rediger-une-page`.
+- **Une nouvelle page** : un nouveau fichier dans chaque langue, au chemin que donne `docs/plan-des-pages.md`. Suis la skill `rediger-une-page`.
+- **Un texte d'un menu ou d'un bouton** : `src/i18n/fr.ts` et la même clé dans `src/i18n/de.ts`.
+- **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
+- **La mise en page ou un bloc** : regarde d'abord `/styleguide/`. Utilise un bloc qui existe ; s'il faut en créer un, ajoute-le au styleguide le même jour (`docs/charte-graphique.md`).
+
+Après chaque modification, montre à la personne la page en français et en allemand. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
+
+### 4. Publier
 
 Seulement quand la personne le demande (« publie »), après avoir vu la modification en local.
 
-1. Montre ce qui va partir : `git status`, et dis-le en mots simples.
-2. Reprends ce qui a pu être publié depuis un autre ordinateur : `git pull --rebase origin main`.
-3. Enregistre la modification avec un message clair, en français, qui dit ce qui change sur le site :
+1. Vérifie le site : `pnpm verifier`. S'il échoue, lis le message : il nomme le fichier et la règle en cause. Corrige, montre la correction en local, puis recommence.
+2. Montre ce qui va partir : `git status`, et dis-le en mots simples.
+3. Reprends ce qui a pu être publié depuis un autre ordinateur : `git pull --rebase origin main`.
+4. Enregistre la modification avec un message clair, en français, qui dit ce qui change sur le site :
 
        git add -A
        git commit -m "La page d'accueil a un nouveau titre"
 
-4. Publie : `git push origin main`.
-5. Suis la publication jusqu'au bout. Trouve le numéro du workflow lancé par ce commit :
+5. Publie : `git push origin main`.
+6. Suis la publication jusqu'au bout. Trouve le numéro du workflow lancé par ce commit :
 
        gh run list --workflow publier.yml --commit "$(git rev-parse HEAD)" --json databaseId --jq '.[0].databaseId'
 
@@ -85,27 +104,27 @@ Seulement quand la personne le demande (« publie »), après avoir vu la modifi
 
        gh run watch <numéro> --exit-status
 
-6. Vert : le site en ligne montre la modification. Son adresse : `gh variable get SITE_ADRESSE`. Donne-la à la personne.
-7. Si le journal dit « Rien n'est publié », le site n'est pas encore installé sur son serveur : dis-le à la personne. Rien n'est cassé.
-8. Rouge : lis ce qui a échoué, `gh run view <numéro> --log-failed`, et explique-le simplement.
+7. Vert : le site en ligne montre la modification. Son adresse : `gh variable get SITE_ADRESSE`. Donne-la à la personne.
+8. Si le journal dit « Rien n'est publié », le site n'est pas encore installé sur son serveur : dis-le à la personne. Rien n'est cassé.
+9. Rouge : lis ce qui a échoué, `gh run view <numéro> --log-failed`, et explique-le simplement.
    - Si la construction du site a échoué, la cause est la modification : corrige-la, vérifie-la en local, puis publie de nouveau.
    - Si l'attente du site en ligne a échoué, le site en ligne n'a pas repris la modification. Dis à la personne de prévenir la personne qui s'occupe de son serveur.
 
 Ne publie qu'une chose à la fois : attends la fin d'une publication avant la suivante.
 
-### 4. Revenir à une version d'avant
+### 5. Revenir à une version d'avant
 
 Quand la personne veut retrouver le site d'avant une modification.
 
 1. Montre les dernières modifications : `git log --oneline -10`. Dis chacune en mots simples, avec sa date (`git log -10 --format="%h %ad %s" --date=short`).
 2. Demande-lui laquelle annuler.
 3. Annule-la par un nouveau commit : `git revert --no-edit <commit>`. Pour en annuler plusieurs, annule-les une par une, de la plus récente à la plus ancienne.
-4. Montre-lui le résultat en local (geste 2), puis publie (geste 3).
+4. Montre-lui le résultat en local (geste 2), puis publie (geste 4).
 
 L'historique ne se réécrit jamais : ni `git reset` sur une modification déjà publiée, ni poussée forcée.
 
 ## Les règles
 
 - Aucun mot de passe, jeton ou clé dans les fichiers du site : tout ce qui est dans ce dossier peut être lu par tous.
-- Une modification se voit en local avant d'être publiée.
+- Une modification se voit en local avant d'être publiée, en français et en allemand.
 - En cas de doute sur ce que veut la personne, demande-lui avant de modifier.

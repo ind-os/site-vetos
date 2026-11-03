@@ -1,0 +1,58 @@
+---
+// La mise en page d'une page intérieure : l'en-tête gris bleuté (fil d'Ariane, titre, photo),
+// puis le corps. Sur ordinateur, une colonne à droite reste visible : sur les pages d'une
+// clinique, sa carte et le bouton de rendez-vous ; ailleurs, ce que la page met dans « cote ».
+import type { Contexte } from '../lib/contexte.ts';
+import type { Photo } from '../lib/images.ts';
+import { balisageDeLaClinique, balisageDuFil, balisageDuGroupe } from '../lib/balisage.ts';
+import CarteClinique from '../composants/CarteClinique.astro';
+import TeteDePage from '../composants/TeteDePage.astro';
+import Base from './Base.astro';
+
+interface Props {
+  contexte: Contexte;
+  photo?: Photo;
+  /** Le surtitre au-dessus du titre. */
+  surtitre?: string;
+  /** Balisage schema.org propre à la page. */
+  balisage?: Record<string, unknown>[];
+  /** La colonne de droite ; par défaut, seulement sur les pages d'une clinique. */
+  cote?: boolean;
+}
+
+const { contexte, photo, surtitre, balisage = [], cote } = Astro.props;
+const { page, langue, t, clinique, adresses, fil, titre } = contexte;
+const avecCote = cote ?? (Boolean(clinique) || Astro.slots.has('cote'));
+const graphe = [
+  balisageDuGroupe(),
+  ...(clinique ? [balisageDeLaClinique(clinique, fil[1]?.href ?? page.data.url)] : []),
+  balisageDuFil(fil),
+  ...balisage,
+];
+---
+
+<Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photo?.src} balisage={graphe}>
+  <TeteDePage titre={titre} fil={fil} etiquetteDuFil={t.navigation.filDAriane} surtitre={surtitre} photo={photo}>
+    <slot name="tete" />
+  </TeteDePage>
+  <div class:list={['conteneur', 'page', { 'page--cote': avecCote }]}>
+    <div class="page__corps"><slot /></div>
+    {
+      avecCote && (
+        <aside class="page__cote">
+          <slot name="cote">{clinique && <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />}</slot>
+        </aside>
+      )
+    }
+  </div>
+</Base>
+
+<style>
+  .page { display: grid; gap: var(--espace-7); padding-block: var(--section-y) var(--espace-8); }
+  .page__corps { display: grid; gap: var(--espace-6); align-content: start; min-width: 0; }
+  .page__cote { display: grid; gap: var(--espace-4); align-content: start; }
+  @media (min-width: 64rem) {
+    .page--cote { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--espace-8); align-items: start; }
+    .page__cote { position: sticky; top: var(--espace-5); }
+  }
+</style>

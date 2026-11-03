@@ -1,0 +1,45 @@
+---
+// Un exemple du styleguide : le nom du bloc, à quoi il sert, son rendu et la façon de l'écrire.
+interface Props {
+  titre: string;
+  /** À quoi sert le bloc, et quand l'utiliser. */
+  description: string;
+  /** Le code à copier pour utiliser le bloc. */
+  code?: string;
+  /** Le fichier du composant, depuis src/. */
+  fichier?: string;
+  /** Un fond gris bleuté derrière le rendu. */
+  fond?: 'blanc' | 'gris';
+}
+
+const { titre, description, code, fichier, fond = 'blanc' } = Astro.props;
+const id = titre.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+---
+
+<article class="exemple" id={id}>
+  <header class="exemple__tete">
+    <h3><a href={`#${id}`}>{titre}</a></h3>
+    <p>{description}</p>
+    {fichier && <p class="exemple__fichier"><code>src/{fichier}</code></p>}
+  </header>
+  <div class:list={['exemple__rendu', { 'fond-gris': fond === 'gris' }]}><slot /></div>
+  {code && <pre class="exemple__code"><code>{code.trim()}</code></pre>}
+</article>
+
+<style>
+  .exemple { display: grid; gap: var(--espace-4); padding-block: var(--espace-6); border-top: 1px solid var(--trait-leger); scroll-margin-top: var(--espace-5); }
+  .exemple__tete { display: grid; gap: var(--espace-2); max-width: var(--lecture); }
+  .exemple__tete h3 a { color: inherit; text-decoration: none; }
+  .exemple__tete p { color: var(--encre-douce); }
+  .exemple__fichier code { font-size: var(--texte-xs); color: var(--gris); }
+  .exemple__rendu { display: grid; gap: var(--espace-4); padding: var(--espace-5); border: 1px dashed var(--trait); border-radius: var(--rayon-carte); }
+  .exemple__code {
+    margin: 0;
+    padding: var(--espace-4);
+    overflow-x: auto;
+    border-radius: var(--rayon-carte);
+    background: #F5F7F9;
+    font: 0.8125rem/1.6 ui-monospace, "SF Mono", Menlo, monospace;
+    color: var(--encre);
+  }
+</style>

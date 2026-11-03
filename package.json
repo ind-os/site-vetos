@@ -1,14 +1,25 @@
 {
-  "name": "modele-de-site",
+  "name": "site-vetmint",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "verifier": "astro check && astro build && node outils/verifier-les-liens.mjs",
+    "faits-a-remplacer": "node outils/faits-a-remplacer.mjs"
   },
   "dependencies": {
-    "astro": "7.4.2"
+    "@astrojs/markdown-satteri": "0.4.5",
+    "@astrojs/sitemap": "3.7.4",
+    "@fontsource-variable/nunito": "5.3.0",
+    "@fontsource-variable/nunito-sans": "5.3.0",
+    "astro": "7.4.2",
+    "satteri": "0.10.5"
   },
-  "packageManager": "pnpm@12.16.1"
+  "packageManager": "pnpm@12.16.1",
+  "devDependencies": {
+    "@astrojs/check": "0.9.10",
+    "typescript": "6.0.3"
+  }
 }

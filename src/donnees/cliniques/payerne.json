@@ -1,0 +1,265 @@
+{
+  "id": "payerne",
+  "en_ligne": true,
+  "site_actuel": "https://payerne.vetmint.ch/",
+  "nom": "Vetmint Payerne",
+  "lieu": "Payerne",
+  "canton": "VD",
+  "raison_sociale": "Vetmint Payerne SA",
+  "adresse": {
+    "rue": "Route du Châtelard 13",
+    "npa": "1530",
+    "localite": "Payerne"
+  },
+  "coordonnees": {
+    "lat": 46.8107,
+    "lng": 6.9271
+  },
+  "telephone": {
+    "affiche": "026 660 16 16",
+    "international": "+41266601616"
+  },
+  "whatsapp": {
+    "affiche": "026 660 16 16",
+    "international": "+41266601616"
+  },
+  "email": "payerne@vetmint.ch",
+  "especes": [
+    "chien",
+    "chat",
+    "nac"
+  ],
+  "services": [
+    "consultation",
+    "vaccination-chien",
+    "vaccination-chat",
+    "sterilisation-castration",
+    "chirurgie",
+    "soins-dentaires",
+    "analyses-diagnostic",
+    "radiographie",
+    "hospitalisation",
+    "conseils-aux-eleveurs",
+    "puce-electronique"
+  ],
+  "urgences": true,
+  "horaires": {
+    "lundi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "mardi": [
+      "08:00-12:00",
+      "14:00-19:00"
+    ],
+    "mercredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "jeudi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "vendredi": [
+      "08:00-12:00",
+      "14:00-18:00"
+    ],
+    "samedi": [],
+    "dimanche": []
+  },
+  "fermetures": [],
+  "bandeau": null,
+  "garde": {
+    "telephone": {
+      "affiche": "0900 904 904",
+      "international": "+41900904904"
+    },
+    "tarif": {
+      "fr": "appel surtaxé, 1,70 franc la minute",
+      "de": "kostenpflichtiger Anruf, 1.70 Franken pro Minute"
+    }
+  },
+  "rendez_vous": {
+    "outil": "calendly",
+    "adresse": "https://calendly.com/vetmintpayerne/45min"
+  },
+  "sources": [
+    "payerne.vetmint.ch (accueil, cabinet, contact, équipe, prestations, plan de prévention, tarifs, urgence, rendez-vous), relevé du 16 octobre 2026",
+    "vetmint.ch/cabinets/ (WhatsApp), vetmint.ch/soins-a-domicile/ (district de la Broye), vetmint.ch/toilettage/ (toilettage à Payerne)",
+    "medias.csv et miroir de payerne.vetmint.ch/equipe/ (photos)",
+    "carte Google intégrée à payerne.vetmint.ch/contact/ (coordonnées)"
+  ],
+  "a_remplacer": [
+    "Horaires : lundi et mercredi à vendredi 8 h à 12 h et 14 h à 18 h, mardi jusqu'à 19 h (pages Prestations et Urgences) ; l'accueil actuel dit 8 h à 18 h du lundi au vendredi et certains samedis de 8 h 30 à 15 h",
+    "Numéro de garde : 0900 904 904 (page Urgences) ; l'accueil actuel affiche le 026 466 34 35",
+    "Langues de chaque personne : la clinique dit parler français, allemand et anglais, sans préciser qui parle quoi",
+    "Domaines des vétérinaires : consultations et chirurgie, non précisés par les sites actuels",
+    "Communes desservies : liste reconstituée d'après la géographie de la Broye",
+    "Places de parc gratuites ; gare CFF à environ 20 minutes à pied",
+    "Motifs de rendez-vous : reconstitués d'après la grille tarifaire ; la page actuelle propose un seul type de rendez-vous en ligne",
+    "Toilettage : annoncé à Payerne par vetmint.ch, absent des pages de la clinique et de son équipe"
+  ],
+  "accroche": {
+    "fr": "Route du Châtelard 13, avec une place de dépose de plain-pied devant l'entrée.",
+    "de": "Route du Châtelard 13, mit einem ebenerdigen Halteplatz vor dem Eingang."
+  },
+  "equipe": [
+    {
+      "nom": "Claire-Lise Tinguely",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr",
+        "de"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        },
+        {
+          "fr": "chirurgie",
+          "de": "Chirurgie"
+        }
+      ]
+    },
+    {
+      "nom": "Tiago Capelo",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        },
+        {
+          "fr": "chirurgie",
+          "de": "Chirurgie"
+        }
+      ]
+    },
+    {
+      "nom": "Jessy Dizerens",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr",
+        "de"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "assistance en consultation et au bloc",
+          "de": "Assistenz in der Sprechstunde und im OP"
+        }
+      ]
+    },
+    {
+      "nom": "Sandra Maeder",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "assistance en consultation et au bloc",
+          "de": "Assistenz in der Sprechstunde und im OP"
+        }
+      ]
+    },
+    {
+      "nom": "Afonso Jesus Costa",
+      "titre": null,
+      "fonction": {
+        "fr": "Apprenti assistant en médecine vétérinaire",
+        "de": "Lernender Tiermedizinischer Praxisassistent"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "soins",
+          "de": "Pflege"
+        }
+      ]
+    },
+    {
+      "nom": "Annie Pasquier",
+      "titre": null,
+      "fonction": {
+        "fr": "Préapprentie assistante en médecine vétérinaire",
+        "de": "Vorlehre als Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "soins",
+          "de": "Pflege"
+        }
+      ]
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Route du Châtelard 13, au sud-ouest du centre de Payerne",
+      "de": "Route du Châtelard 13, südwestlich des Zentrums von Payerne"
+    },
+    "parking": {
+      "fr": "Places de parc gratuites à proximité et une place de dépose de plain-pied devant l'entrée",
+      "de": "Kostenlose Parkplätze in der Nähe und ein ebenerdiger Halteplatz vor dem Eingang"
+    },
+    "transports": {
+      "fr": "Gare CFF de Payerne à environ 20 minutes à pied",
+      "de": "Bahnhof SBB Payerne, etwa 20 Minuten zu Fuss"
+    },
+    "accessibilite": {
+      "fr": "Entrée de plain-pied, avec accès direct depuis la place de dépose",
+      "de": "Ebenerdiger Eingang, direkt vom Halteplatz aus erreichbar"
+    }
+  },
+  "communes": [
+    "Payerne",
+    "Corcelles-près-Payerne",
+    "Grandcour",
+    "Valbroye",
+    "Lucens",
+    "Avenches",
+    "Estavayer",
+    "Montagny",
+    "Cugy"
+  ]
+}

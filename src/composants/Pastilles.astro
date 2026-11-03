@@ -1,0 +1,32 @@
+---
+// Une liste de liens en pastilles : les services d'une clinique, les catégories de conseils.
+interface Props {
+  liens: { libelle: string; href: string }[];
+  /** Le nom de la liste pour les lecteurs d'écran. */
+  etiquette: string;
+}
+
+const { liens, etiquette } = Astro.props;
+---
+
+<ul class="pastilles" aria-label={etiquette}>
+  {liens.map((l) => <li><a href={l.href}>{l.libelle}</a></li>)}
+</ul>
+
+<style>
+  .pastilles { display: flex; flex-wrap: wrap; gap: var(--espace-2); list-style: none; margin: 0; padding: 0; }
+  .pastilles a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 1.1rem;
+    border: 1px solid #BFE3DE;
+    border-radius: var(--rayon-pilule);
+    background: var(--menthe-pale);
+    color: var(--menthe-fonce);
+    font-weight: 700;
+    font-size: var(--texte-s);
+    text-decoration: none;
+  }
+  .pastilles a:hover { background: var(--menthe-texte); border-color: var(--menthe-texte); color: var(--blanc); }
+</style>

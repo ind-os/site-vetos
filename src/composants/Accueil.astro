@@ -1,0 +1,47 @@
+---
+// Le premier écran d'un accueil : surtitre, titre, accroche, boutons, et la photo encadrée à
+// côté du titre (dessus sur smartphone). La photo ne porte jamais de texte.
+import type { Photo as PhotoDuCatalogue } from '../lib/images.ts';
+import Photo from './Photo.astro';
+
+interface Props {
+  surtitre: string;
+  titre: string;
+  accroche?: string;
+  photo?: PhotoDuCatalogue;
+}
+
+const { surtitre, titre, accroche, photo } = Astro.props;
+---
+
+<section class="accueil">
+  <div class="conteneur accueil__grille">
+    {photo && <Photo photo={photo} ratio="4 / 3" largeur={620} chargement="eager" class="accueil__photo" />}
+    <div class="accueil__texte">
+      <p class="surtitre">{surtitre}</p>
+      <h1>{titre}</h1>
+      {accroche && <p class="accueil__accroche">{accroche}</p>}
+      <div class="accueil__actions"><slot name="actions" /></div>
+    </div>
+  </div>
+  <div class="conteneur accueil__bas"><slot /></div>
+</section>
+
+<style>
+  .accueil { padding-block: var(--espace-5) var(--espace-6); }
+  .accueil__grille { display: grid; gap: var(--espace-5); align-items: center; }
+  .accueil__texte { display: grid; gap: var(--espace-4); }
+  .accueil__accroche { font-size: var(--texte-l); color: var(--encre-douce); max-width: 30em; }
+  .accueil__actions { display: grid; gap: var(--espace-3); margin-top: var(--espace-2); }
+  .accueil__bas:not(:empty) { margin-top: var(--espace-6); }
+  .accueil__bas:empty { display: none; }
+
+  @media (min-width: 40rem) {
+    .accueil__actions { display: flex; flex-wrap: wrap; }
+  }
+  @media (min-width: 56rem) {
+    .accueil { padding-block: var(--espace-8) var(--espace-7); }
+    .accueil__grille { grid-template-columns: 1fr 1.05fr; gap: var(--espace-8); }
+    .accueil :global(.accueil__photo) { order: 2; }
+  }
+</style>

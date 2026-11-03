@@ -1,0 +1,54 @@
+---
+// Une clinique en carte : son nom, son adresse, son téléphone, son statut d'ouverture et le
+// bouton de rendez-vous. Sur la page des cliniques et dans la colonne des pages d'une clinique.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import { adressePostale, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
+import { lienTelephone } from '../lib/format.ts';
+import BoutonRendezVous from './BoutonRendezVous.astro';
+import StatutOuverture from './StatutOuverture.astro';
+
+interface Props {
+  clinique: Clinique;
+  langue: Langue;
+  /** Le niveau du titre ; 3 par défaut. */
+  niveau?: 2 | 3;
+  /** Le lien vers la clinique ; faux sur ses propres pages. */
+  lienVersLaClinique?: boolean;
+}
+
+const { clinique, langue, niveau = 3, lienVersLaClinique = true } = Astro.props;
+const t = textes(langue);
+const Titre = `h${niveau}` as const;
+const lien = await lienDeLaClinique(clinique, langue);
+---
+
+<article class="clinique">
+  <Titre class="clinique__nom">
+    {lienVersLaClinique ? <a href={lien}>{clinique.nom}</a> : clinique.nom}
+  </Titre>
+  <StatutOuverture clinique={clinique} langue={langue} />
+  <p class="clinique__adresse">{adressePostale(clinique)}</p>
+  <p><a class="clinique__telephone" href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a></p>
+  <BoutonRendezVous clinique={clinique} langue={langue} taille="petit" large />
+  {lienVersLaClinique && <a class="lien-fort" href={lien}>{clinique.en_ligne ? t.clinique.voirLaClinique : t.clinique.siteActuel}</a>}
+</article>
+
+<style>
+  .clinique {
+    display: grid;
+    gap: var(--espace-2);
+    align-content: start;
+    padding: 22px;
+    border: 1px solid var(--trait);
+    border-radius: var(--rayon-carte);
+    background: var(--blanc);
+  }
+  .clinique__nom { font-size: var(--titre-3); }
+  .clinique__nom a { color: inherit; text-decoration: none; }
+  .clinique__nom a:hover { color: var(--menthe-texte); text-decoration: underline; }
+  .clinique__adresse { color: var(--encre-douce); font-size: var(--texte-s); }
+  .clinique__telephone { font-weight: 800; font-size: 1.125rem; color: var(--marine); text-decoration: none; }
+  .clinique__telephone:hover { color: var(--menthe-texte); }
+  .clinique :global(.bouton) { margin-top: var(--espace-2); }
+</style>
