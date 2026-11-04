@@ -22,7 +22,11 @@ Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils s
 
 ## Au début de chaque conversation
 
-Vérifie l'ordinateur, sans rien installer : `node --version`, `pnpm --version`, `gh auth status` et `git config user.email`. Si l'une échoue, ou répond vide, suis la skill `preparer-l-ordinateur` avant toute modification.
+Avant de répondre au premier message, quel qu'il soit, prépare l'espace de travail. La personne voit ainsi son site à côté de la conversation dès le départ.
+
+1. Vérifie l'ordinateur, sans rien installer : `node --version`, `pnpm --version`, `gh auth status` et `git config user.email`. Si l'une échoue, ou répond vide, suis la skill `preparer-l-ordinateur`, puis reprends ici.
+2. Ouvre la prévisualisation (geste 1).
+3. Réponds ensuite à son message.
 
 ## Les gestes
 
@@ -30,14 +34,15 @@ Quatre gestes, à chaque modification : prévisualiser, modifier, publier, et pa
 
 ### 1. Prévisualiser
 
-La personne voit sa modification sur son ordinateur avant de la publier. Le site en ligne ne change pas.
+La personne voit le site sur son ordinateur, dans le navigateur à côté de la conversation. Le site en ligne ne change pas.
 
 1. Si `node_modules/` manque, ou si `package.json` a changé, lance `pnpm install`.
-2. Lance `pnpm dev`. Le serveur de prévisualisation démarre en arrière-plan et la commande rend la main.
-3. Donne-lui l'adresse à ouvrir dans son navigateur : `http://localhost:4321`. Chaque fichier enregistré s'y voit aussitôt.
-4. `pnpm astro dev status` dit s'il tourne ; `pnpm astro dev stop` l'arrête.
+2. Lance `pnpm dev`. Le serveur de prévisualisation démarre en arrière-plan et la commande rend la main. S'il tourne déjà, la commande le dit et le garde.
+3. Ouvre le site dans le navigateur à côté de la conversation : l'outil `preview_start` avec l'adresse `http://localhost:4321`. Chaque fichier enregistré s'y voit aussitôt.
+4. Donne-lui aussi le lien [http://localhost:4321](http://localhost:4321) : il rouvre le site si elle a fermé le navigateur. Si l'outil `preview_start` manque, ce lien suffit.
+5. `pnpm astro dev status` dit s'il tourne ; `pnpm astro dev stop` l'arrête.
 
-Fais la modification qu'elle demande (geste 2), puis dis-lui où la regarder.
+Fais la modification qu'elle demande (geste 2), puis ouvre la page modifiée dans ce navigateur avec l'outil `navigate`.
 
 ### 2. Modifier le site
 
@@ -50,7 +55,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 - **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
 - **La mise en page ou un bloc** : regarde d'abord `/styleguide/`. Utilise un bloc qui existe ; s'il faut en créer un, ajoute-le au styleguide le même jour (`docs/charte-graphique.md`).
 
-Après chaque modification, montre à la personne la page en français et en allemand. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
+Après chaque modification, montre à la personne la page en français, puis en allemand, dans le navigateur à côté de la conversation. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
 
 ### 3. Publier
 

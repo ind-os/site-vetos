@@ -18,6 +18,9 @@
       "Bash(git push * -f*)"
     ],
     "allow": [
+      "Bash(node --version)",
+      "Bash(pnpm --version)",
+      "Bash(git config user.email)",
       "Bash(pnpm install)",
       "Bash(pnpm dev)",
       "Bash(pnpm build)",
@@ -39,7 +42,9 @@
       "Bash(gh run list*)",
       "Bash(gh run view*)",
       "Bash(gh run watch*)",
-      "Bash(gh variable get SITE_ADRESSE)"
+      "Bash(gh variable get SITE_ADRESSE)",
+      "mcp__Claude_Browser__preview_start",
+      "mcp__Claude_Browser__navigate"
     ]
   }
 }
