@@ -1,6 +1,6 @@
 # Charte de rédaction
 
-Règles d'écriture de tous les textes de vetmint.ch : les pages communes au groupe et les pages des huit cliniques. Le français est la langue de rédaction ; l'allemand en est la traduction ([traduction.md](traduction.md)). Le format du fichier est dans [format-des-pages.md](format-des-pages.md), l'emplacement de chaque page dans [plan-des-pages.md](plan-des-pages.md).
+Règles d'écriture de tous les textes de vetmint.ch : les pages communes au groupe et les pages des huit cliniques. Le français est la langue de rédaction ; l'allemand en est la traduction ([traduction.md](traduction.md)). Le format du fichier est dans [format-des-pages.md](format-des-pages.md), les sections de chaque type de page dans [structure-des-pages.md](structure-des-pages.md), l'emplacement de chaque page dans [plan-des-pages.md](plan-des-pages.md).
 
 1. La voix
 2. Le vocabulaire
@@ -149,7 +149,7 @@ Ces termes restent, parce que le propriétaire les entend à la clinique. Ils so
 
 ### 2.3 Les mots et tournures à éviter
 
-Le script de vérification signale la plupart d'entre eux.
+Le script `outils/verifier-les-pages.mjs` signale la plupart d'entre eux.
 
 - **Slogans et formules balancées** : « Prévenir, soigner, accompagner », « Protéger & Soigner », « Maîtrisez vos dépenses ».
 - **Adjectifs de valeur** : qualitatif, optimal, idéal, performant, moderne, flambant neuf, dernier cri, à la pointe, innovant, unique, exceptionnel, exclusif, supérieur, le meilleur, talentueux, éminent, réputé, formidable, digne de confiance, dédié, dévoué, passionné. Le fait remplace l'adjectif.
@@ -214,7 +214,7 @@ Un fait ne s'invente jamais : un nom de personne, un diplôme, un prix, un horai
 
 ## 5. Le référencement
 
-« Script » signifie que `outils/verifier-page.py` contrôle la règle.
+« Script » signifie que `outils/verifier-les-pages.mjs` contrôle la règle ([verifications.md](verifications.md)).
 
 - **Une recherche par page.** L'en-tête nomme l'expression visée (`recherche`), par exemple « radiographie chien Payerne ». Elle apparaît dans le title, dans le H1 ou sa première phrase, puis dans le premier paragraphe, en français naturel, sans répétition forcée.
 - **Le title fait 60 caractères au plus** et contient le sujet et le lieu sur une page d'une clinique, le sujet et « Vetmint » sur une page commune. Script.
@@ -222,9 +222,9 @@ Un fait ne s'invente jamais : un nom de personne, un diplôme, un prix, un horai
 - **Un seul H1**, qui nomme le sujet et, sur une page d'une clinique, la ville. Il vient de l'en-tête ; le corps commence par un H2 et les niveaux se suivent sans saut. Script.
 - **Un intertitre toutes les 200 à 300 mots.** Script.
 - **Des phrases courtes** : vingt mots en moyenne, trente au plus sauf énumération. Script.
-- **Le volume est dans la fourchette du type de page**, que le script donne. Il vient des faits et des questions réelles, jamais de la répétition : si les faits manquent, la page reste courte. Script.
+- **Le volume est dans la fourchette du type de page** ([structure-des-pages.md](structure-des-pages.md)). Il vient des faits et des questions réelles, jamais de la répétition : si les faits manquent, la page reste courte. Script.
 - **Aucune page ne partage plus de 20 % de son texte avec une autre.** Une page d'une clinique ne reprend jamais un paragraphe d'une autre clinique en changeant la ville. Script.
 - **Une page d'une clinique contient au moins cinq faits qui ne valent que pour elle** : adresse, repère, parking, transports, communes, noms de l'équipe, jours, équipements.
-- **Les liens internes** sont relatifs et suivent le plan : les pages d'une clinique renvoient vers son rendez-vous, ses pages de service et les pages communes ; la page d'un service dans une clinique renvoie à la page commune du service ; une page commune de service renvoie vers les cliniques qui le pratiquent. Le script contrôle les liens obligatoires de chaque type de page.
+- **Les liens internes** sont relatifs et suivent le plan : les pages d'une clinique renvoient vers son rendez-vous, ses pages de service et les pages communes ; la page d'un service dans une clinique renvoie à la page commune du service ; une page commune de service renvoie vers les cliniques qui le pratiquent. Le script contrôle les liens obligatoires de chaque type de page ([structure-des-pages.md](structure-des-pages.md)).
 - **Les mots du propriétaire d'abord** (2.1), le terme médical entre parenthèses s'il est utile.
-- **Chaque image a un texte alternatif** qui décrit ce qu'elle montre : « La salle de radiographie de la clinique de Payerne ».
+- **Chaque photo a un texte alternatif** qui décrit ce qu'elle montre, dans le catalogue des photos ([charte-graphique.md](charte-graphique.md)) : « La salle de radiographie de la clinique de Payerne ».

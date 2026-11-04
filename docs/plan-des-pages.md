@@ -15,7 +15,7 @@ Chaque page est un fichier Markdown dans `src/content/pages/<langue>/`. Le chemi
 | `fr/payerne/equipe.md` | `/payerne/equipe/` |
 | `de/payerne/equipe.md` | `/de/payerne/team/` |
 
-Le format du fichier est dans [format-des-pages.md](format-des-pages.md), les adresses allemandes dans [traduction.md](traduction.md), les règles d'écriture dans la [charte de rédaction](charte-redactionnelle.md).
+Le format du fichier est dans [format-des-pages.md](format-des-pages.md), le contenu de chaque type de page dans [structure-des-pages.md](structure-des-pages.md), les adresses allemandes dans [traduction.md](traduction.md), les règles d'écriture dans la [charte de rédaction](charte-redactionnelle.md).
 
 ## Le type de page choisit la mise en page
 
@@ -76,19 +76,12 @@ Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa f
 | `/<clinique>/urgences/` | `urgences.md`, si la fiche dit `"urgences": true` | `urgences` |
 | `/<clinique>/services/<service>/` | `services/<service>.md`, pour chaque service du champ `services` de la fiche | `service-clinique` |
 
-Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Une clinique peut avoir des pages en plus : un fichier ajouté dans son dossier devient une page.
+Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Une clinique peut avoir une page de service en plus, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
 
 ## Ce que le site vérifie
 
-À chaque construction (`pnpm build`), le site vérifie ses règles et s'arrête sur la première qui manque, avec le nom du fichier en cause :
-
-- chaque page existe dans les deux langues ;
-- chaque adresse est unique, et les adresses allemandes commencent par `/de/` ;
-- chaque clinique dont la fiche dit `"en_ligne": true` a toutes ses pages ;
-- chaque service cité par une fiche a sa page commune.
-
-En prévisualisation (`pnpm dev`), les mêmes problèmes s'affichent dans le terminal sans arrêter le site. `pnpm verifier` contrôle en plus les types du code et chaque lien interne.
+À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, une clinique en ligne incomplète ou un service sans page commune, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
 
 ## Les cliniques pas encore en ligne
 
-Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. La procédure est dans la skill `mettre-une-clinique-en-ligne`.
+Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. Leurs pages peuvent déjà être écrites : la prévisualisation les construit et les montre ; la construction du site en ligne les laisse de côté, ni page, ni plan du site, ni traduction exigée, tant que la fiche dit `"en_ligne": false`. La procédure est dans la skill `mettre-une-clinique-en-ligne`.

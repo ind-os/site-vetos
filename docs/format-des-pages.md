@@ -1,6 +1,6 @@
 # Format des pages
 
-Une page est un fichier Markdown avec un en-tête YAML. Astro vérifie l'en-tête à chaque construction (`src/content.config.ts`) : un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ. Les règles d'écriture (voix, vocabulaire, typographie, référencement) sont dans la [charte de rédaction](charte-redactionnelle.md).
+Une page est un fichier Markdown avec un en-tête YAML. Astro vérifie l'en-tête à chaque construction (`src/content.config.ts`) : un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ. Les règles d'écriture (voix, vocabulaire, typographie, référencement) sont dans la [charte de rédaction](charte-redactionnelle.md), les sections de chaque type de page dans [structure-des-pages.md](structure-des-pages.md). « Script » : `outils/verifier-les-pages.mjs` contrôle la règle.
 
 ## En-tête
 
@@ -31,7 +31,7 @@ resume: Chiens, chats, lapins et rongeurs, route du Châtelard 13.
 | `redige_le` | toujours | date AAAA-MM-JJ |
 | `ordre` | facultatif | la position dans une liste (services, conseils) |
 | `resume` | facultatif | une phrase de 20 mots au plus, pour les cartes et l'accroche |
-| `especes` | service et conseil | `[chien, chat, nac]` |
+| `especes` | service et conseil ; obligatoire sur une page `conseil-categorie`, dont il donne l'espèce | `[chien, chat, nac]` |
 
 Une valeur qui contient « : » se met entre guillemets.
 
@@ -44,8 +44,8 @@ Une valeur qui contient « : » se met entre guillemets.
 - Téléphones : `[026 660 16 16](tel:+41266601616)`. E-mails : `[payerne@vetmint.ch](mailto:payerne@vetmint.ch)`.
 - Questions fréquentes : chaque question est un `###`, la réponse suit.
 - Tableaux Markdown pour les prix et les calendriers.
-- Pas d'image dans le corps : les gabarits placent les photos.
-- Pas de HTML, hors les blocs de données ci-dessous.
+- Pas d'image dans le corps : les gabarits placent les photos. Script.
+- Pas de HTML, hors les marqueurs des blocs de données ci-dessous. Script.
 
 ## Blocs de données
 
@@ -64,7 +64,7 @@ Un bloc appartient à la clinique du champ `clinique`. Sur une page qui présent
 ## Vérifier une page
 
 ```sh
-python3 -I outils/verifier-page.py src/content/pages/fr/payerne/tarifs.md
+node outils/verifier-les-pages.mjs --doublons src/content/pages/fr/payerne/tarifs.md
 ```
 
-Le script contrôle le volume, le title, la description, le H1, les titres, les liens obligatoires, les tournures interdites et la part de texte commune avec les autres pages (20 % au plus). Une page allemande passe les contrôles de forme.
+Le script contrôle l'en-tête, le title, la description, le H1 et les titres, le volume du type de page, les liens obligatoires, les tournures interdites, le HTML et les images dans le corps, et, avec `--doublons`, la part de texte commune avec les autres pages de la même langue (20 % au plus). Une page allemande passe les contrôles de forme. `pnpm verifier` passe toutes les pages, sans la mesure des doublons ([verifications.md](verifications.md)).

@@ -2,7 +2,7 @@
 
 Chaque clinique a sa fiche, `src/donnees/cliniques/<clinique>.json`. Elle porte les faits que les gabarits affichent sur toutes ses pages : en-tête, pied de page, accueil, contact, équipe, carte des cliniques, module de rendez-vous, balisage pour les moteurs de recherche. Astro la vérifie à chaque construction (`src/content.config.ts`).
 
-Les horaires, les fermetures et le bandeau d'annonce sont lus par un seul fichier, `src/lib/donnees-de-la-clinique.ts` : les gabarits ne les lisent jamais directement dans la fiche.
+Les horaires, le statut d'ouverture, les fermetures, le bandeau et le numéro de garde s'affichent par un seul fichier, `src/lib/donnees-de-la-clinique.ts` ; `src/lib/balisage.ts` lit aussi les horaires de la fiche pour les moteurs de recherche.
 
 ## Les champs
 
@@ -20,10 +20,10 @@ Les horaires, les fermetures et le bandeau d'annonce sont lus par un seul fichie
 | `services` | les services pratiqués sur place, par le nom de leur page commune : chacun a sa page `/<clinique>/services/<service>/` |
 | `urgences` | `true` si la clinique reçoit les urgences : elle a alors sa page Urgences |
 | `equipe` | une entrée par personne : `nom`, `titre`, `fonction` (dans les deux langues), `langues` (`fr`, `de`, `en`…), `domaines` |
-| `acces` | `repere`, `parking`, `transports`, `accessibilite`, dans les deux langues |
-| `communes` | les communes d'où viennent les clients |
-| `horaires` | les plages de chaque jour, `"lundi": ["08:00-12:00", "14:00-18:00"]` ; un jour vide est fermé |
-| `fermetures` | `{ "du": "2026-12-24", "au": "2026-12-26", "motif": { "fr": "…", "de": "…" } }` ; une fermeture passée ne s'affiche plus |
+| `acces` | `repere`, `parking`, `transports`, `accessibilite`, dans les deux langues ; les trois premiers s'affichent sur l'accueil et le contact, `accessibilite` sert à écrire l'accès de plain-pied de la page Contact |
+| `communes` | les communes d'où viennent les clients ; aucun gabarit ne les affiche, elles servent à écrire « D'où viennent nos clients » sur l'accueil et le contact |
+| `horaires` | les plages de chaque jour, `"lundi": ["08:00-12:00", "14:00-18:00"]`, heures de 00 à 24, début avant fin, dans l'ordre qu'on veut ; un jour vide est fermé |
+| `fermetures` | `{ "du": "2026-12-24", "au": "2026-12-26", "motif": { "fr": "…", "de": "…" } }`, `du` avant ou égal à `au` ; une fermeture passée ne s'affiche plus |
 | `bandeau` | `{ "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`, ou `null` ; `urgent` le pose en rouge |
 | `garde` | le numéro de garde et son tarif, dans les deux langues |
 | `rendez_vous` | `{ "outil": "calendly", "adresse": "https://calendly.com/…" }` ; `vetlink` pour Saint-Légier |
@@ -35,4 +35,7 @@ Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }
 - **Changer un horaire** : modifier les plages du jour dans `horaires`. L'accueil, le contact, le pied de page, la carte des cliniques et le statut « Ouvert maintenant » suivent.
 - **Annoncer une fermeture** : ajouter une entrée dans `fermetures`. Elle s'affiche sous les horaires jusqu'à son dernier jour.
 - **Poser une annonce** : remplir `bandeau` avec sa date de fin. Elle s'affiche en haut de chaque page de la clinique jusqu'à cette date. La remettre à `null` pour la retirer.
-- **Ajouter une personne** : ajouter une entrée dans `equipe`. Son portrait vient du catalogue des photos, sujet `<clinique>:equipe:<nom>`.
+- **Ajouter une personne** : ajouter une entrée dans `equipe`, puis sa photo au catalogue, sujet `<clinique>:equipe:<nom>` ([charte-graphique.md](charte-graphique.md), « Le catalogue des photos »). Son portrait s'écrit sur la page Équipe, dans les deux langues.
+- **Retirer une personne** : retirer son entrée de `equipe`, sa photo du catalogue et du dossier des images, puis son portrait de la page Équipe, dans les deux langues.
+- **Ajouter un service** : l'ajouter à `services`, par le nom de sa page commune, puis écrire sa page `services/<service>.md` dans les deux langues. La construction refuse une clinique en ligne sans la page d'un service de sa fiche.
+- **Retirer un service** : le retirer de `services`, puis supprimer sa page dans les deux langues. `pnpm verifier` signale les liens des autres pages qui menaient à cette page.

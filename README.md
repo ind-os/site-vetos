@@ -12,19 +12,22 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe V
 | `src/assets/images/` | les photos et leur catalogue (sujet, texte alternatif, point focal) |
 | `src/composants/` | les blocs réutilisables, montrés sur `/styleguide/` |
 | `src/gabarits/` | la mise en page de chaque type de page |
-| `src/lib/` | la lecture des pages et des fiches, les horaires, le Markdown, le balisage |
-| `docs/` | les règles : plan des pages, format des pages, fiche de clinique, charte graphique, charte de rédaction, traduction |
-| `outils/` | la vérification d'une page et des liens |
-| `.claude/skills/` | les procédures pour Claude Code : préparer l'ordinateur, rédiger une page, mettre une clinique en ligne |
+| `src/lib/` | la lecture des pages et des fiches, la navigation, les conseils, les horaires, le Markdown, le balisage |
+| `docs/` | les règles : plan des pages, structure des pages, format des pages, fiche de clinique, charte graphique, charte de rédaction, traduction, et ce que le site vérifie |
+| `outils/` | la vérification des pages, de la charte et des liens, derrière `pnpm verifier` et `pnpm auditer` |
+| `.claude/skills/` | les procédures pour Claude Code : préparer l'ordinateur, rédiger une page, mettre une clinique en ligne, modifier la mise en page, auditer le site, confirmer les faits du site |
 
 ## Travailler dessus
 
 ```bash
 pnpm install
 pnpm dev            # http://localhost:4321, et http://localhost:4321/styleguide/
-pnpm verifier       # types, construction, règles du site, liens
-python3 -I outils/verifier-page.py src/content/pages/fr/payerne/tarifs.md
+pnpm verifier       # pages, charte, types, construction, liens : avant chaque publication
+pnpm auditer        # pnpm verifier, puis le texte commun entre toutes les pages
+node outils/verifier-les-pages.mjs --doublons src/content/pages/fr/payerne/tarifs.md
 ```
+
+Ce que chaque commande contrôle est dans `docs/verifications.md`.
 
 Hors d'un terminal interactif (Claude Code), `astro dev` démarre en arrière-plan et rend la main ; `pnpm astro dev status` et `pnpm astro dev stop` le suivent.
 
@@ -38,12 +41,13 @@ docker run --rm -p 8080:80 site
 ```
 
 - Un seul port exposé : **80**.
+- `nginx.conf` : une adresse inconnue rend la page 404 du site ; une adresse de page sans barre finale redirige vers la barre finale ; les textes partent compressés en gzip ; les pages sont en `no-cache`, le navigateur les redemande à chaque visite, et les fichiers de `/_astro/`, qui portent une empreinte dans leur nom, se gardent un an.
 - La sonde : `GET /healthz.json` rend `{"ok":true,"sha":"<GIT_SHA>"}`, avec `Cache-Control: no-store`.
 - Le `HEALTHCHECK` demande la sonde par le `wget` de busybox (l'image nginx alpine n'a pas curl).
 
 ## La publication
 
-`.github/workflows/publier.yml`, à chaque poussée sur `main` :
+`.github/workflows/publier.yml`, à chaque poussée sur `main`, chaque nuit à 2 h UTC (`schedule`) et à la main depuis l'onglet Actions de GitHub (`workflow_dispatch`). La reconstruction de la nuit fait disparaître les annonces et les fermetures dont la date est passée. Le workflow :
 
 1. construit l'image avec `GIT_SHA` au commit et la pousse sur
    `ghcr.io/<compte>/<dépôt>`, étiquetée `main` et par le commit, avec le
@@ -74,6 +78,6 @@ paquet naît privé.
 
 ## Claude Code
 
-- `CLAUDE.md` : les gestes de Seb, pour Claude Code : vérifier l'ordinateur, prévisualiser, modifier le site, publier, revenir à une version d'avant.
-- `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, mettre une clinique en ligne.
-- `.claude/settings.json` : Claude ne modifie ni `.github/` ni `.claude/`, ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.
+- `CLAUDE.md` : les gestes de Seb, pour Claude Code : vérifier l'ordinateur, prévisualiser, modifier le site, publier, revenir à une version d'avant ; et les deux niveaux de règles, ce que le site refuse et ce qui est convention.
+- `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, mettre une clinique en ligne, modifier la mise en page, auditer le site de temps en temps, confirmer les faits du site une seule fois.
+- `.claude/settings.json` : Claude ne modifie ni `.github/`, ni `.claude/`, ni `Dockerfile`, `nginx.conf` et la sonde `src/pages/healthz.json.ts`, ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.
