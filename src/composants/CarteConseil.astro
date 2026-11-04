@@ -1,5 +1,6 @@
 ---
-// Un conseil santé en carte : sa photo, l'espèce, le titre, le résumé, le temps de lecture.
+// Un conseil santé en carte : sa photo, l'espèce, le titre, le résumé, le temps de lecture. Toute
+// la carte est cliquable (.carte--cliquable de src/styles/charte.css), le lien reste celui du titre.
 import type { Photo as PhotoDuCatalogue } from '../lib/images.ts';
 import Photo from './Photo.astro';
 
@@ -11,41 +12,31 @@ interface Props {
   /** « 4 min de lecture ». */
   duree?: string;
   photo?: PhotoDuCatalogue;
-  niveau?: 2 | 3;
 }
 
-const { titre, href, surtitre, resume, duree, photo, niveau = 3 } = Astro.props;
-const Titre = `h${niveau}` as const;
+const { titre, href, surtitre, resume, duree, photo } = Astro.props;
 ---
 
-<article class="conseil">
+<article class="carte carte--cliquable conseil">
   {photo && <Photo photo={photo} ratio="3 / 2" largeur={380} arrondi={false} />}
   <div class="conseil__texte">
     {surtitre && <p class="surtitre">{surtitre}</p>}
-    <Titre class="conseil__titre"><a href={href}>{titre}</a></Titre>
+    <h3 class="conseil__titre"><a href={href}>{titre}</a></h3>
     {resume && <p class="conseil__resume">{resume}</p>}
     {duree && <p class="conseil__duree">{duree}</p>}
   </div>
 </article>
 
 <style>
+  /* La photo touche les bords de la carte : la marge est celle du texte. */
   .conseil {
-    position: relative;
     display: grid;
     grid-template-rows: auto 1fr;
+    padding: 0;
     overflow: hidden;
-    border: 1px solid var(--trait);
-    border-radius: var(--rayon-carte);
-    background: var(--blanc);
-    transition: border-color var(--transition);
   }
-  .conseil:hover { border-color: var(--menthe-texte); }
-  .conseil__texte { display: grid; gap: var(--espace-2); align-content: start; padding: 18px 22px 22px; }
+  .conseil__texte { display: grid; gap: var(--espace-2); align-content: start; padding: 18px var(--marge-carte) var(--marge-carte); }
   .conseil__titre { font-size: var(--titre-3); }
-  .conseil__titre a { color: inherit; text-decoration: none; }
-  .conseil__titre a::after { content: ""; position: absolute; inset: 0; }
-  .conseil__titre a:focus-visible { outline: none; }
-  .conseil:has(a:focus-visible) { outline: 3px solid var(--focus); outline-offset: 3px; }
   .conseil:hover .conseil__titre a { color: var(--menthe-fonce); }
   .conseil__resume { color: var(--encre-douce); font-size: var(--texte-s); }
   .conseil__duree { color: var(--gris); font-size: var(--texte-xs); }

@@ -8,29 +8,21 @@ interface Props {
   href?: string;
   /** Le texte du lien qui termine la carte. */
   lien?: string;
-  class?: string;
 }
 
-const { titre, niveau = 3, href, lien, class: classe } = Astro.props;
+const { titre, niveau = 3, href, lien } = Astro.props;
 const Titre = `h${niveau}` as const;
 ---
 
-<div class:list={['carte', classe]}>
+<div class="carte">
   {titre && <Titre class="carte__titre">{titre}</Titre>}
   <div class="carte__contenu"><slot /></div>
   {href && lien && <a class="lien-fort carte__lien" href={href}>{lien}</a>}
 </div>
 
 <style>
-  .carte {
-    display: grid;
-    gap: var(--espace-2);
-    align-content: start;
-    padding: 22px;
-    border: 1px solid var(--trait);
-    border-radius: var(--rayon-carte);
-    background: var(--blanc);
-  }
+  /* Le cadre vient de la classe .carte de la charte (src/styles/charte.css). */
+  .carte { display: grid; gap: var(--espace-2); align-content: start; }
   .carte__titre { font-size: var(--titre-3); }
   .carte__contenu { color: var(--encre-douce); font-size: var(--texte-s); display: grid; gap: var(--espace-2); }
   .carte__lien { margin-top: var(--espace-2); }

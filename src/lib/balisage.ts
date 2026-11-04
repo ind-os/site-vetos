@@ -8,7 +8,10 @@ import { JOURS } from './horaires.ts';
 
 const JOURS_SCHEMA = { lundi: 'Monday', mardi: 'Tuesday', mercredi: 'Wednesday', jeudi: 'Thursday', vendredi: 'Friday', samedi: 'Saturday', dimanche: 'Sunday' } as const;
 
-const absolue = (chemin: string) => new URL(chemin, ADRESSE_DU_SITE).href;
+/** L'adresse complète d'un chemin du site : « /payerne/ » donne « https://vetmint.ch/payerne/ ». */
+export function absolue(chemin: string): string {
+  return new URL(chemin, ADRESSE_DU_SITE).href;
+}
 
 /** Le groupe Vetmint. */
 export function balisageDuGroupe(): Record<string, unknown> {

@@ -1,16 +1,15 @@
 ---
 // Les urgences d'une clinique : le numéro de garde et son tarif d'abord, puis le texte de la page.
-import { contexteDe } from '../lib/contexte.ts';
-import type { Page } from '../lib/pages.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import AppelUrgence from '../composants/AppelUrgence.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { langue, html } = contexte;
 ---
 

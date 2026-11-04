@@ -14,18 +14,16 @@ interface Props {
   id?: string;
   /** Le niveau du titre de chaque clinique. */
   niveau?: 2 | 3;
-  /** Le fond derrière la carte : le halo blanc des noms s'y fond. */
-  fond?: 'blanc' | 'gris';
 }
 
-const { cliniques, langue, id, niveau = 3, fond = 'blanc' } = Astro.props;
+const { cliniques, langue, id, niveau = 3 } = Astro.props;
 ---
 
-<div class:list={['reseau', { 'reseau--gris': fond === 'gris' }]} id={id} data-reseau>
+<div class="reseau" id={id} data-reseau>
   <div class="reseau__carte">
     <CarteDesCliniques cliniques={cliniques} langue={langue} />
   </div>
-  <div class="reseau__cartes">
+  <div class="reseau__cartes grille-de-cartes">
     {cliniques.map((c) => <CarteClinique clinique={c} langue={langue} niveau={niveau} />)}
   </div>
 </div>
@@ -35,9 +33,7 @@ const { cliniques, langue, id, niveau = 3, fond = 'blanc' } = Astro.props;
 </script>
 
 <style>
-  .reseau { display: grid; gap: var(--espace-6); scroll-margin-top: var(--espace-5); }
-  .reseau--gris { --fond-carte: var(--gris-bleute); }
-  .reseau__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
+  .reseau { display: grid; gap: var(--espace-6); }
   @media (min-width: 72rem) {
     .reseau { grid-template-columns: 24rem minmax(0, 1fr); align-items: start; }
     .reseau__carte { position: sticky; top: var(--espace-5); align-self: start; z-index: 1; }

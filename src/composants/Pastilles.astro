@@ -1,15 +1,16 @@
 ---
-// Une liste de liens en pastilles : les services d'une clinique, les catégories de conseils.
+// Une liste de liens courts en pastilles : sur la page d'un soin dans une clinique, les autres
+// soins de la clinique. Le titre visible au-dessus de la liste la nomme pour les lecteurs d'écran.
 interface Props {
   liens: { libelle: string; href: string }[];
-  /** Le nom de la liste pour les lecteurs d'écran. */
-  etiquette: string;
+  /** L'identifiant (id) du titre visible qui nomme la liste. */
+  idDuTitre: string;
 }
 
-const { liens, etiquette } = Astro.props;
+const { liens, idDuTitre } = Astro.props;
 ---
 
-<ul class="pastilles" aria-label={etiquette}>
+<ul class="pastilles" aria-labelledby={idDuTitre}>
   {liens.map((l) => <li><a href={l.href}>{l.libelle}</a></li>)}
 </ul>
 
@@ -18,9 +19,9 @@ const { liens, etiquette } = Astro.props;
   .pastilles a {
     display: inline-flex;
     align-items: center;
-    min-height: 44px;
+    min-height: var(--cible);
     padding: 0 1.1rem;
-    border: 1px solid #BFE3DE;
+    border: 1px solid var(--menthe-trait);
     border-radius: var(--rayon-pilule);
     background: var(--menthe-pale);
     color: var(--menthe-fonce);

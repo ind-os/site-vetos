@@ -7,7 +7,7 @@ import { textes } from '../i18n/index.ts';
 import { formaterDate, formaterHeure, formaterPlage } from './format.ts';
 
 export const JOURS = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche'] as const;
-export type Jour = (typeof JOURS)[number];
+type Jour = (typeof JOURS)[number];
 
 /** Les plages d'ouverture de chaque jour, « 08:00-12:00 » ; un jour vide est fermé. */
 export type Horaires = Record<Jour, string[]>;
@@ -19,7 +19,7 @@ export interface Fermeture {
 }
 
 /** Une ligne d'horaires affichée : « Mercredi à vendredi », « 8 h à 12 h et 14 h à 18 h ». */
-export interface LigneDHoraires {
+interface LigneDHoraires {
   jours: string;
   plages: string;
   ferme: boolean;
@@ -28,10 +28,12 @@ export interface LigneDHoraires {
 /** Les jours qui ont les mêmes plages, regroupés quand ils se suivent. */
 export function lignesDHoraires(horaires: Horaires, langue: Langue): LigneDHoraires[] {
   const t = textes(langue).horaires;
+  // Les plages « HH:MM-HH:MM » se trient comme du texte : de la plus tôt à la plus tard.
+  const plagesTriees = (jour: Jour) => [...horaires[jour]].sort();
   const groupes: Jour[][] = [];
   for (const jour of JOURS) {
     const dernier = groupes.at(-1);
-    if (dernier && horaires[dernier[0]].join() === horaires[jour].join()) dernier.push(jour);
+    if (dernier && plagesTriees(dernier[0]).join() === plagesTriees(jour).join()) dernier.push(jour);
     else groupes.push([jour]);
   }
   // En français, le second jour garde sa minuscule : « Mercredi à vendredi ».
@@ -40,7 +42,7 @@ export function lignesDHoraires(horaires: Horaires, langue: Langue): LigneDHorai
     const premier = t.jours[jours[0]];
     const dernier = ensuite(jours.at(-1)!);
     const lien = jours.length === 2 ? t.et : t.a;
-    const plages = horaires[jours[0]];
+    const plages = plagesTriees(jours[0]);
     return {
       jours: jours.length === 1 ? premier : `${premier} ${lien} ${dernier}`,
       plages: plages.length ? plages.map((p) => formaterPlage(p, langue)).join(` ${t.et} `) : t.ferme,
@@ -49,7 +51,7 @@ export function lignesDHoraires(horaires: Horaires, langue: Langue): LigneDHorai
   });
 }
 
-export interface Instant {
+interface Instant {
   /** Date du jour à Zurich, AAAA-MM-JJ. */
   date: string;
   jour: Jour;
@@ -74,7 +76,7 @@ export function instantAZurich(maintenant: Date = new Date()): Instant {
 }
 
 /** Le jour de la semaine d'une date AAAA-MM-JJ. */
-export function jourDeLaSemaine(date: string): Jour {
+function jourDeLaSemaine(date: string): Jour {
   const [a, m, j] = date.split('-').map(Number);
   // getUTCDay : dimanche vaut 0
   return JOURS[(new Date(Date.UTC(a, m - 1, j)).getUTCDay() + 6) % 7];
@@ -85,7 +87,8 @@ function ajouterJours(date: string, nombre: number): string {
   return new Date(Date.UTC(a, m - 1, j + nombre)).toISOString().slice(0, 10);
 }
 
-function enMinutes(heure: string): number {
+/** Les minutes depuis minuit d'une heure « 08:30 ». */
+export function enMinutes(heure: string): number {
   const [h, m] = heure.split(':').map(Number);
   return h * 60 + m;
 }
@@ -94,11 +97,14 @@ function enHeure(minutes: number): string {
   return `${String(Math.floor(minutes / 60)).padStart(2, '0')}:${String(minutes % 60).padStart(2, '0')}`;
 }
 
+/** Les plages d'un jour en minutes depuis minuit, de la plus tôt à la plus tard. */
 function plagesDuJour(horaires: Horaires, jour: Jour): [number, number][] {
-  return (horaires[jour] ?? []).map((plage) => {
-    const [debut, fin] = plage.split('-');
-    return [enMinutes(debut), enMinutes(fin)];
-  });
+  return (horaires[jour] ?? [])
+    .map((plage): [number, number] => {
+      const [debut, fin] = plage.split('-');
+      return [enMinutes(debut), enMinutes(fin)];
+    })
+    .sort((a, b) => a[0] - b[0]);
 }
 
 function estFermeLe(date: string, fermetures: Fermeture[]): boolean {
@@ -120,7 +126,7 @@ export function texteDeFermeture(fermeture: Fermeture, langue: Langue): string {
   return fermeture.motif ? `${periode}, ${fermeture.motif[langue]}` : periode;
 }
 
-export interface Statut {
+interface Statut {
   ouvert: boolean;
   texte: string;
 }

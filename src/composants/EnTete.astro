@@ -43,7 +43,7 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
 
 <header class="entete" data-entete>
   <div class="conteneur entete__barre">
-    <Logo alt={t.site.logo} lieu={lieu} href={accueilDuSite} hrefLieu={lieu ? accueil : undefined} libelleLieu={lieu ? t.site.accueilDuLieu(lieu) : undefined} />
+    <Logo alt={t.site.logo} href={accueilDuSite} lieu={lieu ? { nom: lieu, href: accueil, libelle: t.site.accueilDuLieu(lieu) } : undefined} />
 
     <div class="entete__mobile">
       {urgence && <a class="entete__urgence-mobile" href={urgence.href} aria-label={urgence.libelle}><CroixSuisse taille="26px" /></a>}
@@ -107,10 +107,10 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
 <style>
   .entete { position: relative; z-index: 20; background: var(--blanc); border-bottom: 1px solid var(--trait-leger); }
   .entete__barre { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espace-2); padding-block: 10px; }
-  .entete__barre > :global(.logo) { margin-right: auto; --hauteur: 42px !important; }
+  .entete__barre > :global(.logo) { margin-right: auto; --hauteur-logo: 42px; }
 
   .entete__mobile { display: flex; align-items: center; gap: var(--espace-2); }
-  .entete__urgence-mobile, .entete__bouton-menu { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; }
+  .entete__urgence-mobile, .entete__bouton-menu { display: grid; place-items: center; width: var(--cible); height: var(--cible); border-radius: 50%; }
   .entete__bouton-menu { border: 2px solid var(--trait); background: var(--blanc); color: var(--marine); }
   .entete__bouton-menu:hover { border-color: var(--marine); }
   .entete__icone { width: 24px; height: 24px; }
@@ -130,7 +130,7 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
     min-height: 48px;
     color: var(--marine);
     font-weight: 700;
-    font-size: 1.0625rem;
+    font-size: var(--texte);
     text-decoration: none;
   }
   .entete__liens a:hover, .entete__urgence:hover, .entete__langue:hover { color: var(--menthe-texte); }
@@ -140,17 +140,17 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
     text-decoration-thickness: 2px;
     text-underline-offset: 0.35em;
   }
-  .entete__langue { justify-content: center; width: 44px; min-height: 44px; border: 2px solid var(--trait); border-radius: var(--rayon-pilule); font-size: var(--texte-s); }
+  .entete__langue { justify-content: center; width: var(--cible); min-height: var(--cible); border: 2px solid var(--trait); border-radius: var(--rayon-pilule); font-size: var(--texte-s); }
   .entete__langue:hover { border-color: var(--marine); }
 
   @media (min-width: 72rem) {
     .entete__barre { flex-wrap: nowrap; gap: var(--espace-5); padding-block: 14px; }
-    .entete__barre > :global(.logo) { --hauteur: 52px !important; margin-right: 0; }
+    .entete__barre > :global(.logo) { --hauteur-logo: 52px; margin-right: 0; }
     .entete__mobile, .entete:not([data-js]) .entete__bouton-menu { display: none; }
     .entete__menu, .entete[data-js]:not([data-ouvert]) .entete__menu { display: flex; flex: 1; align-items: center; gap: var(--espace-5); padding: 0; }
     .entete__menu nav { margin-left: auto; }
     .entete__liens { display: flex; gap: var(--espace-5); }
     .entete__liens li + li { border: 0; }
-    .entete__liens a, .entete__urgence { min-height: 44px; font-size: 1rem; font-weight: 600; }
+    .entete__liens a, .entete__urgence { min-height: var(--cible); font-size: 1rem; font-weight: 600; }
   }
 </style>

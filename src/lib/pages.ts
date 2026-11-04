@@ -28,21 +28,33 @@ export function slugDe(page: Page): string {
   return cleDe(page).split('/').at(-1) ?? '';
 }
 
-/** Toutes les pages, dans les deux langues. */
+/** Toutes les pages écrites, dans les deux langues, publiées ou non. */
 export async function toutesLesPages(): Promise<Page[]> {
   return getCollection('pages');
 }
 
-/** Les pages d'une langue, éventuellement d'un type, dans l'ordre du champ `ordre` puis du titre. */
+/**
+ * Les pages que le site construit. En prévisualisation, toutes. À la construction, les pages
+ * communes et celles des cliniques en ligne : les pages d'une clinique dont la fiche dit
+ * `"en_ligne": false` ne sont ni construites, ni dans le plan du site.
+ */
+export async function pagesPubliables(): Promise<Page[]> {
+  const pages = await toutesLesPages();
+  if (!import.meta.env.PROD) return pages;
+  const enLigne = new Set((await getCollection('cliniques')).filter((c) => c.data.en_ligne).map((c) => c.data.id));
+  return pages.filter((p) => !p.data.clinique || enLigne.has(p.data.clinique));
+}
+
+/** Les pages publiables d'une langue, éventuellement d'un type, dans l'ordre du champ `ordre` puis du titre. */
 export async function lesPages(langue: Langue, type?: TypeDePage): Promise<Page[]> {
-  return (await toutesLesPages())
+  return (await pagesPubliables())
     .filter((p) => langueDe(p) === langue && (!type || p.data.type === type))
     .sort((a, b) => (a.data.ordre ?? 99) - (b.data.ordre ?? 99) || (a.data.h1 ?? a.data.title).localeCompare(b.data.h1 ?? b.data.title, langue));
 }
 
-/** La page d'une clé dans une langue, ou rien. */
+/** La page publiable d'une clé dans une langue, ou rien. */
 export async function laPage(langue: Langue, cle: string): Promise<Page | undefined> {
-  return (await toutesLesPages()).find((p) => langueDe(p) === langue && cleDe(p) === cle);
+  return (await pagesPubliables()).find((p) => langueDe(p) === langue && cleDe(p) === cle);
 }
 
 /**
@@ -59,11 +71,6 @@ export async function adresse(langue: Langue, cle: string): Promise<string> {
     return '#';
   }
   throw new Error(message);
-}
-
-/** La même page dans l'autre langue, ou rien. */
-export async function laTraduction(page: Page, langue: Langue): Promise<Page | undefined> {
-  return laPage(langue, cleDe(page));
 }
 
 /** Le titre d'une page tel qu'il s'affiche : le H1, sinon le title. */

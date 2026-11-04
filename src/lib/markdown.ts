@@ -7,9 +7,11 @@
 // - un mot composé court ne se coupe pas au trait d'union (« e-mail », « rendez-vous »).
 
 import type { HastPluginDefinition, MdastPluginDefinition } from 'satteri';
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
 
 /** La langue d'une page Markdown, d'après l'adresse de son en-tête. */
-function langueDuFichier(ctx: { data: { astro?: { frontmatter?: Record<string, unknown> } } }): 'fr' | 'de' {
+function langueDuFichier(ctx: { data: { astro?: { frontmatter?: Record<string, unknown> } } }): Langue {
   const url = ctx.data.astro?.frontmatter?.url;
   return typeof url === 'string' && url.startsWith('/de/') ? 'de' : 'fr';
 }
@@ -29,13 +31,13 @@ function retoursALaLigne(): MdastPluginDefinition {
   };
 }
 
-const ESPACE_INSECABLE = ' ';
+const ESPACE_INSECABLE = '\u00a0';
 const UNITES = 'h|min|minutes?|heures?|francs?|CHF|Fr\\.|Franken|km|kg|g|ans?|mois|jours?|semaines?|Minuten|Stunden|Jahre|Monate|Tage|Wochen|Uhr|%';
 const NOMBRE_ET_UNITE = new RegExp(`(\\d) (${UNITES})(?=[\\s.,;:!?)»]|$)`, 'gu');
-const HEURE_ET_MINUTES = /(\d h) (\d{2})\b/gu;
+const HEURE_ET_MINUTES = /(\d\u00a0h) (\d{2})\b/gu;
 
 /** Un nombre et son unité sur la même ligne. */
-export function lierLesUnites(texte: string): string {
+function lierLesUnites(texte: string): string {
   return texte.replace(NOMBRE_ET_UNITE, `$1${ESPACE_INSECABLE}$2`).replace(HEURE_ET_MINUTES, `$1${ESPACE_INSECABLE}$2`);
 }
 
@@ -80,7 +82,6 @@ function liens(): HastPluginDefinition {
           const contenu = pleins(parent);
           if (contenu.length === 1 && contenu[0].type === 'element' && contenu[0].tagName === 'a') {
             ctx.setProperty(lien, 'className', ['bouton', 'bouton--principal']);
-            ctx.setProperty(parent as never, 'className', ['appel']);
           }
         }
       },
@@ -132,7 +133,7 @@ function tableaux(): HastPluginDefinition {
     element: {
       filter: ['table'],
       visit(tableau, ctx) {
-        const de = langueDuFichier(ctx as never) === 'de';
+        const nom = textes(langueDuFichier(ctx as never)).tableau.nom;
         const entete = enfants(tableau as unknown as NoeudHast, 'thead')[0];
         const noms = entete
           ? enfants(entete, 'tr').flatMap((tr) => enfants(tr, 'th', 'td')).map((c) => ctx.textContent(c as never).trim())
@@ -154,7 +155,7 @@ function tableaux(): HastPluginDefinition {
             className: empile ? ['tableau', 'tableau--empile'] : ['tableau'],
             role: 'region',
             tabIndex: 0,
-            ariaLabel: `${de ? 'Tabelle' : 'Tableau'}${noms.length ? ` : ${noms.join(', ')}` : ''}`,
+            ariaLabel: `${nom}${noms.length ? ` : ${noms.join(', ')}` : ''}`,
           },
           children: [],
         });

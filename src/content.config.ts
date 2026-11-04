@@ -1,17 +1,34 @@
 // Les deux collections du site, vérifiées à chaque construction :
 // - « pages » : les textes, un fichier Markdown par page et par langue (docs/format-des-pages.md) ;
 // - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-clinique.md).
-// Un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ.
+// Un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ,
+// dans un message en français.
 
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
+import { enMinutes } from './lib/horaires.ts';
 import { TYPES_DE_PAGE } from './lib/types-de-page.ts';
+
+z.config(z.locales.fr());
+
+/** Vrai si « AAAA-MM-JJ » est un jour du calendrier : « 2026-02-30 » ne l'est pas. */
+function estUnJour(texte: string): boolean {
+  const [a, m, j] = texte.split('-').map(Number);
+  const jour = new Date(Date.UTC(a, m - 1, j));
+  return jour.getUTCFullYear() === a && jour.getUTCMonth() === m - 1 && jour.getUTCDate() === j;
+}
 
 /** Une date AAAA-MM-JJ, écrite telle quelle ou lue comme une date par le YAML. */
 const date = z
   .union([z.string(), z.date()])
-  .transform((valeur) => (valeur instanceof Date ? valeur.toISOString().slice(0, 10) : valeur));
+  .transform((valeur) => (valeur instanceof Date ? valeur.toISOString().slice(0, 10) : valeur))
+  .pipe(
+    z
+      .string()
+      .regex(/^\d{4}-\d{2}-\d{2}$/, 'une date au format AAAA-MM-JJ, par exemple 2026-12-24')
+      .refine(estUnJour, 'une date qui existe dans le calendrier'),
+  );
 
 const pages = defineCollection({
   // L'identifiant d'une page est son chemin sans l'extension : « fr/payerne/equipe ».
@@ -20,7 +37,7 @@ const pages = defineCollection({
     type: z.enum(TYPES_DE_PAGE),
     clinique: z.string().optional(),
     url: z.string().regex(/^\/([a-z0-9-]+\/)*$/, 'une adresse en minuscules qui commence et finit par « / »'),
-    title: z.string().max(70),
+    title: z.string().max(60, 'un title de 60 caractères au plus'),
     description: z.string(),
     h1: z.string().optional(),
     /** Le nom court de la page, pour les pastilles, les menus et le fil d'Ariane : « Radiographie ». */
@@ -36,8 +53,14 @@ const pages = defineCollection({
 /** Un texte dans les deux langues. */
 const texte = z.object({ fr: z.string(), de: z.string() });
 
-/** Une plage d'ouverture « 08:00-12:00 ». */
-const plage = z.string().regex(/^\d{2}:\d{2}-\d{2}:\d{2}$/, 'une plage au format 08:00-12:00');
+/** Une plage d'ouverture « 08:00-12:00 » : heures de 00 à 24, minutes de 00 à 59, début avant fin. */
+const plage = z
+  .string()
+  .regex(/^([01]\d|2[0-4]):[0-5]\d-([01]\d|2[0-4]):[0-5]\d$/, 'une plage au format 08:00-12:00, heures de 00 à 24, minutes de 00 à 59')
+  .refine((texte) => {
+    const [debut, fin] = texte.split('-');
+    return enMinutes(debut) < enMinutes(fin);
+  }, 'une plage dont le début précède la fin, par exemple 08:00-12:00');
 
 const telephone = z.object({
   /** Tel qu'il s'affiche : « 026 660 16 16 ». */
@@ -98,7 +121,13 @@ const cliniques = defineCollection({
       dimanche: z.array(plage).default([]),
     }),
     /** Les fermetures annoncées : du premier au dernier jour fermé, AAAA-MM-JJ. */
-    fermetures: z.array(z.object({ du: date, au: date, motif: texte.optional() })).default([]),
+    fermetures: z
+      .array(
+        z
+          .object({ du: date, au: date, motif: texte.optional() })
+          .refine((f) => f.du <= f.au, { message: 'un dernier jour « au » égal ou postérieur au premier jour « du »', path: ['au'] }),
+      )
+      .default([]),
     /** L'annonce en haut de chaque page de la clinique, jusqu'à la date donnée. */
     bandeau: z.object({ texte, niveau: z.enum(['info', 'urgent']).default('info'), jusqu_au: date.optional() }).nullable().default(null),
     /** Le service de garde, hors des heures d'ouverture. */

@@ -2,11 +2,10 @@
 // Le contact d'une clinique : le téléphone en grand, l'e-mail en petit, WhatsApp s'il existe ;
 // l'adresse avec les liens d'itinéraire ; les horaires ; les photos des locaux ; le texte.
 // Aucun formulaire.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { adressePostale, liensDItineraire } from '../lib/cliniques.ts';
 import { lienTelephone, lienWhatsapp } from '../lib/format.ts';
 import { photos } from '../lib/images.ts';
-import type { Page } from '../lib/pages.ts';
 import Bouton from '../composants/Bouton.astro';
 import Carte from '../composants/Carte.astro';
 import Horaires from '../composants/Horaires.astro';
@@ -15,10 +14,10 @@ import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { langue, t, html } = contexte;
 const clinique = contexte.clinique!;
 const itineraire = liensDItineraire(clinique);
@@ -44,18 +43,18 @@ const locaux = photos(`${clinique.id}:locaux`, langue).slice(0, 4);
       </Carte>
     </div>
   </div>
-  {locaux.length > 0 && <div class="locaux">{locaux.map((p) => <Photo photo={p} ratio="4 / 3" largeur={360} />)}</div>}
+  {locaux.length > 0 && <div class="grille-de-cartes locaux">{locaux.map((p) => <Photo photo={p} ratio="4 / 3" largeur={360} />)}</div>}
   <Prose html={html} chapeau />
 </PageInterieure>
 
 <style>
   .contact { display: grid; gap: var(--espace-5); }
   .contact__joindre { display: grid; gap: var(--espace-3); justify-items: start; }
-  .contact__telephone { font: 800 clamp(2rem, 1.5rem + 2vw, 2.75rem) / 1.1 var(--police-titre); color: var(--marine); text-decoration: none; }
+  .contact__telephone { font: 800 var(--chiffre-grand) / 1.1 var(--police-titre); color: var(--marine); text-decoration: none; }
   .contact__telephone:hover { color: var(--menthe-texte); }
   .contact__email { font-size: var(--texte-s); }
   .contact__cartes { display: grid; gap: var(--espace-4); }
-  .locaux { display: grid; gap: var(--espace-3); grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); }
+  .locaux { --min: 14rem; --gap: var(--espace-3); }
   @media (min-width: 48rem) {
     .contact__cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }

@@ -12,12 +12,12 @@ const { sections } = Astro.props;
 ---
 
 <div class="sections-en-cartes">
-  {sections.map((s) => <article class="prose section-en-carte" set:html={s.entete + s.contenu} />)}
+  {sections.map((s) => <article class="carte prose section-en-carte" set:html={s.entete + s.contenu} />)}
 </div>
 
 <style>
   .sections-en-cartes { display: grid; gap: var(--espace-5); }
-  @media (min-width: 52rem) {
+  @media (min-width: 48rem) {
     .sections-en-cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
   .section-en-carte {
@@ -25,9 +25,6 @@ const { sections } = Astro.props;
     flex-direction: column;
     max-width: none;
     padding: var(--espace-5);
-    border: 1px solid var(--trait);
-    border-radius: var(--rayon-carte);
-    background: var(--blanc);
   }
   .section-en-carte :global(h2) {
     margin: 0;

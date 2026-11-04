@@ -8,11 +8,9 @@ import { htmlDesHoraires } from '../lib/donnees-de-la-clinique.ts';
 interface Props {
   clinique: Clinique;
   langue: Langue;
-  /** La ligne « Ouvert maintenant » ; vraie par défaut. */
-  statut?: boolean;
 }
 
-const { clinique, langue, statut = true } = Astro.props;
+const { clinique, langue } = Astro.props;
 ---
 
-<Fragment set:html={htmlDesHoraires(clinique, langue, statut)} />
+<Fragment set:html={htmlDesHoraires(clinique, langue)} />

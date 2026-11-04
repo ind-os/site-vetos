@@ -10,13 +10,13 @@ import type { Langue } from '../config.ts';
 export function formaterHeure(heure: string, langue: Langue): string {
   const [h, m] = heure.split(':').map(Number);
   if (langue === 'de') return m === 0 ? String(h) : `${h}.${String(m).padStart(2, '0')}`;
-  return m === 0 ? `${h} h` : `${h} h ${String(m).padStart(2, '0')}`;
+  return m === 0 ? `${h}\u00a0h` : `${h}\u00a0h\u00a0${String(m).padStart(2, '0')}`;
 }
 
 /** Une plage « 08:00-12:00 » : « 8 h à 12 h », « 8–12 Uhr ». */
 export function formaterPlage(plage: string, langue: Langue): string {
   const [debut, fin] = plage.split('-');
-  if (langue === 'de') return `${formaterHeure(debut, langue)}–${formaterHeure(fin, langue)} Uhr`;
+  if (langue === 'de') return `${formaterHeure(debut, langue)}–${formaterHeure(fin, langue)}\u00a0Uhr`;
   return `${formaterHeure(debut, langue)} à ${formaterHeure(fin, langue)}`;
 }
 
@@ -29,7 +29,7 @@ const MOIS: Record<Langue, string[]> = {
 export function formaterDate(date: string, langue: Langue, annee = true): string {
   const [a, m, j] = date.split('-').map(Number);
   const jour = langue === 'de' ? `${j}.` : j === 1 ? '1er' : String(j);
-  return `${jour} ${MOIS[langue][m - 1]}${annee ? ` ${a}` : ''}`;
+  return `${jour}\u00a0${MOIS[langue][m - 1]}${annee ? ` ${a}` : ''}`;
 }
 
 /** Le lien d'appel d'un numéro international : « tel:+41266601616 ». */

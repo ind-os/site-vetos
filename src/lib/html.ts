@@ -8,7 +8,7 @@ export function texteDe(html: string): string {
     .replace(/&#x27;|&#39;/g, "'")
     .replace(/&quot;/g, '"')
     .replace(/&amp;/g, '&')
-    .replace(/&nbsp;| /g, ' ')
+    .replace(/&nbsp;|\u00a0/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
@@ -22,13 +22,17 @@ export interface Section {
   contenu: string;
 }
 
-/** Les sections d'un niveau de titre (2 pour ##, 3 pour ###), avec le texte qui les précède. */
-export function sections(html: string, niveau: 2 | 3): { introduction: string; sections: Section[] } {
+/**
+ * Les sections d'un niveau de titre (2 pour ##, 3 pour ###) : le texte avant le premier titre
+ * (`introduction`), le HTML à partir du premier titre tel quel (`suite`), et chaque section.
+ */
+export function sections(html: string, niveau: 2 | 3): { introduction: string; suite: string; sections: Section[] } {
   const balise = `h${niveau}`;
   const morceaux = html.split(new RegExp(`(?=<${balise}[\\s>])`));
   const introduction = morceaux[0].startsWith(`<${balise}`) ? '' : (morceaux.shift() ?? '').trim();
   return {
     introduction,
+    suite: morceaux.join(''),
     sections: morceaux.map((morceau) => {
       const titre = new RegExp(`^<${balise}[^>]*>([\\s\\S]*?)</${balise}>`).exec(morceau);
       return { titre: texteDe(titre?.[1] ?? ''), entete: titre?.[0] ?? '', contenu: morceau.slice(titre?.[0].length ?? 0).trim() };

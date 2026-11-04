@@ -1,19 +1,18 @@
 ---
 // Le rendez-vous d'une clinique : le bouton qui ouvre son module de réservation (Calendly ou
 // VetLink, chargé au clic) et le téléphone, puis le texte de la page.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { lienTelephone } from '../lib/format.ts';
-import type { Page } from '../lib/pages.ts';
 import Bouton from '../composants/Bouton.astro';
 import BoutonRendezVous from '../composants/BoutonRendezVous.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { langue, t, html } = contexte;
 const clinique = contexte.clinique!;
 ---

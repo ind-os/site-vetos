@@ -1,25 +1,24 @@
 ---
 // L'équipe d'une clinique : une carte par personne d'après la fiche, avec son portrait s'il
 // existe, puis le texte de la page.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { enumerer } from '../lib/format.ts';
 import { photo } from '../lib/images.ts';
-import type { Page } from '../lib/pages.ts';
 import CarteMembre from '../composants/CarteMembre.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { langue, t, html } = contexte;
 const clinique = contexte.clinique!;
 ---
 
 <PageInterieure contexte={contexte} cote={false}>
-  <div class="equipe">
+  <div class="grille-de-cartes">
     {
       clinique.equipe.map((m) => (
         <CarteMembre
@@ -36,7 +35,3 @@ const clinique = contexte.clinique!;
   </div>
   <Prose html={html} chapeau />
 </PageInterieure>
-
-<style>
-  .equipe { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
-</style>

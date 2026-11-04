@@ -1,42 +1,25 @@
 ---
-// Un service en carte : son nom, la phrase qui le résume et le lien « Voir le service ».
+// Un service en carte : son nom, la phrase qui le résume et le lien « Voir le service ». Toute
+// la carte est cliquable (.carte--cliquable de src/styles/charte.css), le lien reste celui du titre.
 interface Props {
   titre: string;
   resume?: string;
   href: string;
   lien: string;
-  niveau?: 2 | 3;
 }
 
-const { titre, resume, href, lien, niveau = 3 } = Astro.props;
-const Titre = `h${niveau}` as const;
+const { titre, resume, href, lien } = Astro.props;
 ---
 
-<article class="service">
-  <Titre class="service__titre"><a href={href}>{titre}</a></Titre>
+<article class="carte carte--cliquable service">
+  <h3 class="service__titre"><a href={href}>{titre}</a></h3>
   {resume && <p class="service__resume">{resume}</p>}
   <span class="lien-fort service__lien" aria-hidden="true">{lien}</span>
 </article>
 
 <style>
-  .service {
-    position: relative;
-    display: grid;
-    gap: var(--espace-2);
-    align-content: start;
-    padding: 22px;
-    border: 1px solid var(--trait);
-    border-radius: var(--rayon-carte);
-    background: var(--blanc);
-    transition: border-color var(--transition);
-  }
-  .service:hover { border-color: var(--menthe-texte); }
+  .service { display: grid; gap: var(--espace-2); align-content: start; }
   .service__titre { font-size: var(--titre-3); }
-  .service__titre a { color: inherit; text-decoration: none; }
-  /* Toute la carte est cliquable, le lien reste celui du titre */
-  .service__titre a::after { content: ""; position: absolute; inset: 0; border-radius: inherit; }
-  .service__titre a:focus-visible { outline: none; }
-  .service:has(a:focus-visible) { outline: 3px solid var(--focus); outline-offset: 3px; }
   .service__resume { color: var(--encre-douce); font-size: var(--texte-s); }
   .service__lien { margin-top: var(--espace-1); }
   .service:hover .service__lien { text-decoration: underline; color: var(--menthe-fonce); }

@@ -104,19 +104,6 @@
     "source": "https://vetmint.ch/wp-content/uploads/2024/12/Poule.webp"
   },
   {
-    "fichier": "conseil-troubles-de-la-ponte.jpg",
-    "sujet": "espece:oiseau",
-    "alt": {
-      "fr": "Une poule rousse couve dans un nichoir en bois, deux œufs posés devant elle",
-      "de": "Eine rotbraune Henne brütet in einem Nistkasten aus Holz, vor ihr liegen zwei Eier"
-    },
-    "point_focal": {
-      "x": 0.65,
-      "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Poule.webp"
-  },
-  {
     "fichier": "service-consultation-examen-oreille.jpg",
     "sujet": "service:consultation",
     "alt": {
@@ -468,8 +455,8 @@
     "source": "https://vetmint.ch/wp-content/uploads/2024/12/Nebulisations-et-inhalations.png"
   },
   {
-    "fichier": "clinique-domdidier-facade.jpg",
-    "sujet": "clinique:domdidier",
+    "fichier": "domdidier-locaux-facade.jpg",
+    "sujet": "domdidier:locaux",
     "alt": {
       "fr": "L'entrée de la clinique de Domdidier, façade blanche, auvent et plaque Vetmint",
       "de": "Der Eingang der Praxis Domdidier mit weisser Fassade, Vordach und Vetmint-Schild"
@@ -481,21 +468,8 @@
     "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/04/Facade-Vetmint-Domdidier.jpg"
   },
   {
-    "fichier": "clinique-payerne-entree.jpg",
-    "sujet": "clinique:payerne",
-    "alt": {
-      "fr": "La porte vitrée de la clinique de Payerne, ornée de silhouettes d'animaux et du logo Vetmint",
-      "de": "Die Glastür der Praxis Payerne, verziert mit Tierumrissen und dem Vetmint-Logo"
-    },
-    "point_focal": {
-      "x": 0.45,
-      "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Face-exterieur_site-scaled.jpg"
-  },
-  {
-    "fichier": "clinique-saintlegier-facade.jpg",
-    "sujet": "clinique:saintlegier",
+    "fichier": "saintlegier-locaux-facade.jpg",
+    "sujet": "saintlegier:locaux",
     "alt": {
       "fr": "La façade ocre de la clinique de Saint-Légier, avec sa croix bleue et ses vitrines Vetmint",
       "de": "Die ockerfarbene Fassade der Praxis Saint-Légier mit blauem Kreuz und den Vetmint-Schaufenstern"
@@ -505,32 +479,6 @@
       "y": 0.5
     },
     "source": "https://bussigny.vetmint.ch/wp-content/uploads/2022/08/Exterieur-scaled-e1661964498280.jpg"
-  },
-  {
-    "fichier": "groupe-veterinaires-chat.jpg",
-    "sujet": "groupe",
-    "alt": {
-      "fr": "Un vétérinaire prend des notes pendant qu'une collègue tient un chat blanc sur la table d'examen",
-      "de": "Ein Tierarzt macht Notizen, während eine Kollegin eine weisse Katze auf dem Untersuchungstisch hält"
-    },
-    "point_focal": {
-      "x": 0.55,
-      "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR_couple-chat_Crop.jpg"
-  },
-  {
-    "fichier": "groupe-veterinaires-yorkshire.jpg",
-    "sujet": "groupe",
-    "alt": {
-      "fr": "Deux vétérinaires en tenue bleue sourient, l'une tient un yorkshire dans ses bras",
-      "de": "Zwei Tierärztinnen in blauer Berufskleidung lächeln, eine hält einen Yorkshire im Arm"
-    },
-    "point_focal": {
-      "x": 0.55,
-      "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_181907306-scaled.jpeg"
   },
   {
     "fichier": "payerne-accueil-veterinaire-chiot-chaton.jpg",
@@ -700,44 +648,5 @@
       "y": 0.5
     },
     "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
-  },
-  {
-    "fichier": "payerne-espece-chien-berger-blanc.jpg",
-    "sujet": "payerne:espece:chien",
-    "alt": {
-      "fr": "Un berger blanc couché sur un plaid, des lunettes roses en forme de cœur sur le museau",
-      "de": "Ein weisser Schäferhund liegt auf einer Decke, auf der Schnauze eine rosa Brille in Herzform"
-    },
-    "point_focal": {
-      "x": 0.5,
-      "y": 0.55
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/chien.jpeg"
-  },
-  {
-    "fichier": "payerne-espece-chat-chaton-clair.jpg",
-    "sujet": "payerne:espece:chat",
-    "alt": {
-      "fr": "Un chaton au pelage clair et aux yeux bleus allongé sur une couverture blanche",
-      "de": "Ein Kätzchen mit hellem Fell und blauen Augen liegt auf einer weissen Decke"
-    },
-    "point_focal": {
-      "x": 0.68,
-      "y": 0.45
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/chats.jpeg"
-  },
-  {
-    "fichier": "payerne-espece-nac-lapin-gris.jpg",
-    "sujet": "payerne:espece:nac",
-    "alt": {
-      "fr": "Un jeune lapin gris dans l'herbe haute",
-      "de": "Ein junges graues Kaninchen im hohen Gras"
-    },
-    "point_focal": {
-      "x": 0.42,
-      "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2023/08/lapin.jpeg"
   }
 ]

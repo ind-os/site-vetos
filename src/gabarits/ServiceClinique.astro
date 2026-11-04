@@ -1,44 +1,35 @@
 ---
 // Un service dans une clinique : ce que la clinique fait sur place, avec la carte de la clinique,
 // le lien vers la page commune du service et les autres soins de la clinique.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
+import { servicesDeLaClinique } from '../lib/cliniques.ts';
 import { premierePhoto } from '../lib/images.ts';
-import { laPage, slugDe, titreDe, type Page } from '../lib/pages.ts';
+import { laPage, slugDe } from '../lib/pages.ts';
 import CarteClinique from '../composants/CarteClinique.astro';
 import Pastilles from '../composants/Pastilles.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { page, langue, t, html } = contexte;
 const clinique = contexte.clinique!;
 const slug = slugDe(page);
 const commune = await laPage(langue, `services/${slug}`);
 const photoDuService = premierePhoto([`${clinique.id}:service:${slug}`, `service:${slug}`], langue);
-const autres = (
-  await Promise.all(
-    clinique.services
-      .filter((s) => s !== slug)
-      .map(async (s) => {
-        const ici = await laPage(langue, `${clinique.id}/services/${s}`);
-        const generale = await laPage(langue, `services/${s}`);
-        return ici && { libelle: generale?.data.nom ?? titreDe(ici), href: ici.data.url };
-      }),
-  )
-).filter((l) => l !== undefined);
+const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.service !== slug);
 ---
 
 <PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)}>
   <Prose html={html} chapeau />
   {
     autres.length > 0 && (
-      <section class="autres">
-        <h2>{t.services.autresServices}</h2>
-        <Pastilles liens={autres} etiquette={t.services.autresServices} />
+      <section class="bloc">
+        <h2 id="autres-services">{t.services.autresServices}</h2>
+        <Pastilles liens={autres} idDuTitre="autres-services" />
       </section>
     )
   }
@@ -47,8 +38,3 @@ const autres = (
     {commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
   </Fragment>
 </PageInterieure>
-
-<style>
-  .autres { display: grid; gap: var(--espace-4); }
-  .autres h2 { font-size: var(--titre-3); }
-</style>

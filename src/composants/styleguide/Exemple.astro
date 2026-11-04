@@ -27,7 +27,7 @@ const id = titre.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase().r
 </article>
 
 <style>
-  .exemple { display: grid; gap: var(--espace-4); padding-block: var(--espace-6); border-top: 1px solid var(--trait-leger); scroll-margin-top: var(--espace-5); }
+  .exemple { display: grid; gap: var(--espace-4); padding-block: var(--espace-6); border-top: 1px solid var(--trait-leger); }
   .exemple__tete { display: grid; gap: var(--espace-2); max-width: var(--lecture); }
   .exemple__tete h3 a { color: inherit; text-decoration: none; }
   .exemple__tete p { color: var(--encre-douce); }
@@ -38,8 +38,8 @@ const id = titre.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase().r
     padding: var(--espace-4);
     overflow-x: auto;
     border-radius: var(--rayon-carte);
-    background: #F5F7F9;
-    font: 0.8125rem/1.6 ui-monospace, "SF Mono", Menlo, monospace;
+    background: var(--gris-bleute);
+    font: var(--texte-xs) / 1.6 var(--police-code);
     color: var(--encre);
   }
 </style>

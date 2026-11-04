@@ -21,7 +21,7 @@ const { nom, fonction, titre, langues, domaines, photo, niveau = 3 } = Astro.pro
 const Titre = `h${niveau}` as const;
 ---
 
-<article class="membre">
+<article class="carte membre">
   {
     photo ? (
       <Photo photo={photo} ratio="1 / 1" largeur={320} class="membre__portrait" />
@@ -38,19 +38,17 @@ const Titre = `h${niveau}` as const;
 </article>
 
 <style>
+  /* Le portrait touche les bords de la carte : la marge des côtés est celle du texte. */
   .membre {
     display: grid;
     grid-template-columns: 1fr;
     align-content: start;
     align-items: start;
     gap: 18px;
-    padding: 0 0 22px;
+    padding: 0 0 var(--marge-carte);
     overflow: hidden;
-    border: 1px solid var(--trait);
-    border-radius: var(--rayon-carte);
-    background: var(--blanc);
   }
-  .membre__texte { display: grid; gap: var(--espace-1); padding-inline: 22px; }
+  .membre__texte { display: grid; gap: var(--espace-1); padding-inline: var(--marge-carte); }
   .membre :global(.membre__portrait) { border-radius: 0; }
   .membre__avatar {
     display: grid;

@@ -1,47 +1,75 @@
-// Les règles que le site vérifie à chaque construction (docs/plan-des-pages.md) :
-// - chaque page existe dans les deux langues ;
+// Les règles que le site vérifie à chaque construction (docs/verifications.md) :
+// - chaque page publiable existe dans les deux langues ;
 // - chaque adresse est unique, les adresses allemandes commencent par /de/ ;
+// - une page d'un type de clinique porte le champ clinique, celui de son dossier ; une page
+//   commune ne le porte pas ;
+// - une page de catégorie de conseils nomme son espèce ;
 // - chaque clinique en ligne a ses pages obligatoires ;
-// - chaque service d'une fiche a sa page commune.
+// - chaque service d'une fiche a sa page commune ;
+// - les textes d'interface ont les mêmes clés en français et en allemand ;
+// - chaque photo du catalogue nomme une clinique et une personne qui existent.
 // En construction, un problème arrête tout ; en prévisualisation, il s'affiche dans le terminal.
 
 import { LANGUES, LANGUE_PAR_DEFAUT } from '../config.ts';
+import { problemesDesTextes } from '../i18n/index.ts';
 import { lesCliniques } from './cliniques.ts';
-import { cleDe, langueDe, toutesLesPages } from './pages.ts';
-import { pagesObligatoires } from './types-de-page.ts';
+import { problemesDuCatalogue } from './images.ts';
+import { cleDe, langueDe, pagesPubliables, toutesLesPages } from './pages.ts';
+import { pagesObligatoires, TYPES_DE_PAGE_DE_CLINIQUE } from './types-de-page.ts';
+
+/** Le chemin du fichier d'une page, depuis la racine du dépôt. */
+function fichierDe(langue: string, cle: string): string {
+  return `src/content/pages/${langue}/${cle}.md`;
+}
 
 export async function problemesDuSite(): Promise<string[]> {
   const pages = await toutesLesPages();
+  const publiables = await pagesPubliables();
+  const cliniques = await lesCliniques();
   const problemes: string[] = [];
   const existe = (langue: string, cle: string) => pages.some((p) => langueDe(p) === langue && cleDe(p) === cle);
+  const typesDeClinique: readonly string[] = TYPES_DE_PAGE_DE_CLINIQUE;
+
+  for (const page of publiables) {
+    const langue = langueDe(page);
+    const cle = cleDe(page);
+    for (const autre of LANGUES) {
+      if (autre !== langue && !existe(autre, cle)) problemes.push(`${fichierDe(langue, cle)} n'a pas de traduction : ${fichierDe(autre, cle)} manque.`);
+    }
+  }
 
   for (const page of pages) {
     const langue = langueDe(page);
     const cle = cleDe(page);
-    for (const autre of LANGUES) {
-      if (autre !== langue && !existe(autre, cle)) problemes.push(`La page ${langue}/${cle}.md n'a pas de traduction : src/content/pages/${autre}/${cle}.md manque.`);
-    }
+    const fichier = fichierDe(langue, cle);
+    const { type, clinique, url, especes } = page.data;
     const prefixe = langue === LANGUE_PAR_DEFAUT ? '' : `/${langue}`;
-    if (prefixe && !page.data.url.startsWith(`${prefixe}/`)) problemes.push(`${page.id}.md : l'adresse ${page.data.url} doit commencer par ${prefixe}/.`);
-    if (!prefixe && LANGUES.some((l) => page.data.url.startsWith(`/${l}/`))) problemes.push(`${page.id}.md : l'adresse ${page.data.url} ne doit pas commencer par un préfixe de langue.`);
+    if (prefixe && !url.startsWith(`${prefixe}/`)) problemes.push(`${fichier} : l'adresse ${url} doit commencer par ${prefixe}/.`);
+    if (!prefixe && LANGUES.some((l) => url.startsWith(`/${l}/`))) problemes.push(`${fichier} : l'adresse ${url} ne doit pas commencer par un préfixe de langue.`);
     const dossier = cle.split('/')[0];
-    if (page.data.clinique && page.data.clinique !== dossier) problemes.push(`${page.id}.md : le champ clinique (${page.data.clinique}) ne correspond pas au dossier ${dossier}/.`);
+    if (clinique && clinique !== dossier) problemes.push(`${fichier} : le champ clinique (${clinique}) ne correspond pas au dossier ${dossier}/.`);
+    if (typesDeClinique.includes(type) && !clinique) problemes.push(`${fichier} : le champ clinique manque, une page de type ${type} appartient à une clinique.`);
+    if (!typesDeClinique.includes(type) && clinique) problemes.push(`${fichier} : le champ clinique est de trop, une page de type ${type} est une page commune.`);
+    if (type === 'conseil-categorie' && !especes?.length) problemes.push(`${fichier} : le champ especes manque, une page de type conseil-categorie nomme son espèce (chien, chat ou nac).`);
   }
 
   const parAdresse = new Map<string, string[]>();
-  for (const page of pages) parAdresse.set(page.data.url, [...(parAdresse.get(page.data.url) ?? []), page.id]);
-  for (const [url, ids] of parAdresse) if (ids.length > 1) problemes.push(`L'adresse ${url} est utilisée par plusieurs pages : ${ids.join(', ')}.`);
+  for (const page of pages) parAdresse.set(page.data.url, [...(parAdresse.get(page.data.url) ?? []), `src/content/pages/${page.id}.md`]);
+  for (const [url, fichiers] of parAdresse) if (fichiers.length > 1) problemes.push(`L'adresse ${url} est utilisée par plusieurs pages : ${fichiers.join(', ')}.`);
 
-  for (const clinique of await lesCliniques()) {
+  for (const clinique of cliniques) {
     for (const service of clinique.services) {
-      if (!existe(LANGUE_PAR_DEFAUT, `services/${service}`)) problemes.push(`La fiche ${clinique.id}.json cite le service « ${service} », qui n'a pas de page dans services/.`);
+      if (!existe(LANGUE_PAR_DEFAUT, `services/${service}`)) {
+        problemes.push(`src/donnees/cliniques/${clinique.id}.json cite le service « ${service} », qui n'a pas de page commune : ${fichierDe(LANGUE_PAR_DEFAUT, `services/${service}`)} manque.`);
+      }
     }
     if (!clinique.en_ligne) continue;
     for (const langue of LANGUES) {
       for (const cle of pagesObligatoires(clinique)) {
-        if (!existe(langue, cle)) problemes.push(`La clinique ${clinique.id} est en ligne mais src/content/pages/${langue}/${cle}.md manque.`);
+        if (!existe(langue, cle)) problemes.push(`La clinique ${clinique.id} est en ligne mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
       }
     }
   }
-  return problemes;
+
+  return [...problemes, ...problemesDesTextes(), ...problemesDuCatalogue(cliniques)];
 }

@@ -4,10 +4,9 @@
 interface Props {
   html: string;
   chapeau?: boolean;
-  class?: string;
 }
 
-const { html, chapeau = false, class: classe } = Astro.props;
+const { html, chapeau = false } = Astro.props;
 ---
 
-<div class:list={['prose', { 'prose--chapeau': chapeau }, classe]} set:html={html} />
+<div class:list={['prose', { 'prose--chapeau': chapeau }]} set:html={html} />

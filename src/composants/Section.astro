@@ -3,27 +3,19 @@
 // largeur du site. Les fonds alternent d'une section à l'autre.
 interface Props {
   titre?: string;
-  /** Le surtitre, au-dessus du titre, en petites capitales menthe. */
-  surtitre?: string;
   fond?: 'blanc' | 'gris';
   id?: string;
-  /** Le niveau du titre ; 2 par défaut. */
-  niveau?: 2 | 3;
-  class?: string;
 }
 
-const { titre, surtitre, fond = 'blanc', id, niveau = 2, class: classe } = Astro.props;
-const Titre = `h${niveau}` as const;
+const { titre, fond = 'blanc', id } = Astro.props;
 ---
 
-<section class:list={['section', { 'fond-gris': fond === 'gris' }, classe]} id={id} aria-labelledby={titre && id ? `${id}-titre` : undefined}>
+<section class:list={['section', { 'fond-gris': fond === 'gris' }]} id={id} aria-labelledby={titre && id ? `${id}-titre` : undefined}>
   <div class="conteneur section__interieur">
     {
       titre && (
         <header class="section__tete">
-          {surtitre && <p class="surtitre">{surtitre}</p>}
-          <Titre id={id ? `${id}-titre` : undefined}>{titre}</Titre>
-          <slot name="tete" />
+          <h2 id={id ? `${id}-titre` : undefined}>{titre}</h2>
         </header>
       )
     }

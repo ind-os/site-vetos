@@ -1,4 +1,4 @@
-# Publie le site à chaque poussée sur main :
+# Publie le site à chaque poussée sur main, chaque nuit et à la demande :
 #   1. construit l'image par le Dockerfile, avec GIT_SHA au commit, et la pousse
 #      sur ghcr.io/<compte>/<dépôt>, étiquetée `main` et par le commit ;
 #   2. si le site est installé sur un serveur (les secrets REDEPLOIEMENT_ADRESSE
@@ -11,6 +11,12 @@ name: Publier
 on:
   push:
     branches: [main]
+  # La reconstruction de nuit fait disparaître les annonces et les fermetures dont la date est
+  # passée. 2 h UTC : 3 h à Zurich en hiver, 4 h en été.
+  schedule:
+    - cron: "0 2 * * *"
+  # Le bouton « Run workflow » de l'onglet Actions relance une publication.
+  workflow_dispatch:
 
 permissions:
   contents: read
@@ -22,6 +28,8 @@ concurrency:
 
 jobs:
   publier:
+    # Seule la branche main se publie : lancé à la main depuis une autre branche, rien ne part.
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     permissions:
@@ -61,6 +69,8 @@ jobs:
           docker push "$IMAGE:main"
           echo "Image : \`$IMAGE:main\` (\`$IMAGE:$GITHUB_SHA\`)" >>"$GITHUB_STEP_SUMMARY"
 
+      # Sans nouveau commit (reconstruction de nuit ou à la demande), la sonde rend déjà ce commit :
+      # l'attente réussit tout de suite, sans prouver que le serveur a repris la nouvelle image.
       - name: Publier sur le serveur
         env:
           ADRESSE: ${{ secrets.REDEPLOIEMENT_ADRESSE }}

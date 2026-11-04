@@ -1,13 +1,16 @@
 // Les photos du site. src/assets/images/catalogue.json décrit chaque fichier : son sujet, son
 // texte alternatif dans les deux langues et le point à garder visible quand elle est recadrée.
 // Les gabarits demandent une photo par sujet :
-//   « accueil », « groupe », « espece:chien », « service:radiographie », « conseil:le-lapin »,
-//   « clinique:payerne », et pour une clinique « payerne:accueil », « payerne:locaux »,
-//   « payerne:equipe:Claire-Lise Tinguely », « payerne:espece:chat ».
+//   - pour tout le réseau : « accueil », « service:radiographie », « conseil:le-lapin », et
+//     « espece:chien », la photo d'un conseil qui n'a pas la sienne ;
+//   - pour une clinique : « payerne:accueil », « payerne:locaux »,
+//     « payerne:equipe:Claire-Lise Tinguely », « payerne:service:radiographie ».
+// La construction vérifie qu'un sujet de clinique nomme une clinique et une personne qui existent.
 
 import type { ImageMetadata } from 'astro';
 import type { Langue } from '../config.ts';
 import catalogue from '../assets/images/catalogue.json';
+import type { Clinique } from './cliniques.ts';
 
 interface EntreeDuCatalogue {
   fichier: string;
@@ -27,6 +30,9 @@ export interface Photo {
 
 const fichiers = import.meta.glob<{ default: ImageMetadata }>('../assets/images/*.{jpg,jpeg,png,webp}', { eager: true });
 const parNom = new Map(Object.entries(fichiers).map(([chemin, module]) => [chemin.split('/').pop()!, module.default]));
+
+/** Les sujets de tout le réseau ; un autre sujet commence par l'identifiant d'une clinique. */
+const SUJETS_DU_RESEAU = ['accueil', 'espece', 'service', 'conseil'];
 
 /** Un nom sans accents ni majuscules, pour relier « equipe:Léo Munné » à « equipe:Leo Munne ». */
 function normaliser(texte: string): string {
@@ -64,4 +70,20 @@ export function premierePhoto(sujets: string[], langue: Langue): Photo | undefin
     if (trouvee) return trouvee;
   }
   return undefined;
+}
+
+/** Les sujets du catalogue qui nomment une clinique ou une personne absente des fiches. */
+export function problemesDuCatalogue(cliniques: Clinique[]): string[] {
+  return (catalogue as EntreeDuCatalogue[]).flatMap(({ sujet }) => {
+    const [premier, quoi, nom = ''] = sujet.split(':');
+    if (SUJETS_DU_RESEAU.includes(premier)) return [];
+    const clinique = cliniques.find((c) => c.id === premier);
+    if (!clinique) {
+      return [`src/assets/images/catalogue.json : le sujet « ${sujet} » commence par « ${premier} », qui n'est ni une clinique (src/donnees/cliniques/) ni un sujet du réseau (${SUJETS_DU_RESEAU.join(', ')}).`];
+    }
+    if (quoi === 'equipe' && !clinique.equipe.some((m) => normaliser(m.nom) === normaliser(nom))) {
+      return [`src/assets/images/catalogue.json : le sujet « ${sujet} » nomme « ${nom} », absent de l'équipe de src/donnees/cliniques/${clinique.id}.json.`];
+    }
+    return [];
+  });
 }

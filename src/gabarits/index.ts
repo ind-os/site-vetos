@@ -1,6 +1,7 @@
-// Le gabarit de chaque type de page (docs/gabarits.md). Le type est le champ `type` de l'en-tête
+// Le gabarit de chaque type de page (docs/plan-des-pages.md). Le type est le champ `type` de l'en-tête
 // d'une page Markdown. Pour changer la mise en page d'un type, on modifie son gabarit ; pour
-// ajouter un type, on l'ajoute ici et dans src/lib/types-de-page.ts.
+// ajouter un type, on l'ajoute ici et dans src/lib/types-de-page.ts. Chaque gabarit reçoit le
+// contexte de la page (src/lib/contexte.ts) dans sa prop `contexte`.
 
 import type { TypeDePage } from '../lib/types-de-page.ts';
 import AccueilClinique from './AccueilClinique.astro';

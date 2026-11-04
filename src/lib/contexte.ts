@@ -38,8 +38,11 @@ async function nomCourt(page: Page, t: Catalogue): Promise<string> {
       return n.services;
     case 'conseil-index':
       return n.conseils;
-    case 'conseil-categorie':
-      return t.especes[page.data.especes?.[0] ?? 'chien'];
+    case 'conseil-categorie': {
+      // Une page de catégorie sans espèce est signalée à la construction (src/lib/verifications.ts).
+      const espece = page.data.especes?.[0];
+      return espece ? t.especes[espece] : titreDe(page);
+    }
     case 'urgences-groupe':
     case 'urgences':
       return n.urgences;
@@ -79,13 +82,13 @@ async function filDAriane(page: Page, langue: Langue, t: Catalogue): Promise<Con
   return etapes;
 }
 
-/** Le contexte d'une page, pour son gabarit. */
+/** Le contexte d'une page, calculé une fois par src/pages/[...chemin].astro et passé à son gabarit. */
 export async function contexteDe(page: Page): Promise<Contexte> {
   const langue = langueDe(page);
   const t = textes(langue);
   const clinique = page.data.clinique ? await laClinique(page.data.clinique) : undefined;
   const cliniques = await lesCliniques();
-  const html = pointerVersLesSitesActuels(remplirLesDonnees(page.rendered?.html ?? '', cliniques, langue, clinique?.id), cliniques);
+  const html = pointerVersLesSitesActuels(remplirLesDonnees(page.rendered?.html ?? '', cliniques, langue, page.id, clinique?.id), cliniques);
   const adresses: Contexte['adresses'] = {};
   for (const l of LANGUES) {
     const traduction = await laPage(l, cleDe(page));

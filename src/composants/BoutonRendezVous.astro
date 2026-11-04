@@ -1,7 +1,8 @@
 ---
-// Le bouton « Prendre rendez-vous » d'une clinique. Calendly s'ouvre dans un panneau à droite,
-// préparé après l'affichage de la page (src/scripts/rendez-vous.ts). VetLink s'ouvre dans un
-// nouvel onglet. Sans JavaScript, le lien ouvre l'agenda dans un onglet.
+// Le bouton « Prendre rendez-vous » d'une clinique. Calendly s'ouvre dans un panneau à droite ;
+// son code se charge quand le visiteur survole le bouton ou y pose le focus
+// (src/scripts/rendez-vous.ts). VetLink s'ouvre dans un nouvel onglet. Sans JavaScript, le lien
+// ouvre l'agenda dans un onglet.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import type { Clinique } from '../lib/cliniques.ts';
@@ -12,12 +13,10 @@ interface Props {
   variante?: 'principal' | 'secondaire';
   taille?: 'normal' | 'petit';
   large?: boolean;
-  /** Le texte du bouton ; par défaut « Prendre rendez-vous ». */
-  libelle?: string;
   class?: string;
 }
 
-const { clinique, langue, variante = 'principal', taille = 'normal', large = false, libelle, class: classe } = Astro.props;
+const { clinique, langue, variante = 'principal', taille = 'normal', large = false, class: classe } = Astro.props;
 const t = textes(langue);
 const { outil, adresse } = clinique.rendez_vous;
 ---
@@ -32,7 +31,7 @@ const { outil, adresse } = clinique.rendez_vous;
   target="_blank"
   rel="noopener"
 >
-  {libelle ?? t.rendezVous.bouton}
+  {t.rendezVous.bouton}
 </a>
 
 <script>
@@ -51,7 +50,7 @@ const { outil, adresse } = clinique.rendez_vous;
     position: absolute;
     inset: 0;
     border: 0;
-    background: rgb(10 70 117 / 0.45);
+    background: var(--voile);
     opacity: 0;
     cursor: pointer;
     transition: opacity 0.2s;
@@ -66,7 +65,7 @@ const { outil, adresse } = clinique.rendez_vous;
     flex-direction: column;
     width: min(44rem, 100%);
     background: var(--blanc);
-    box-shadow: -12px 0 32px rgb(10 70 117 / 0.16);
+    box-shadow: -12px 0 32px var(--ombre-panneau);
     transform: translateX(100%);
     transition: transform 0.28s ease;
   }
@@ -75,15 +74,15 @@ const { outil, adresse } = clinique.rendez_vous;
     display: flex;
     align-items: center;
     gap: var(--espace-3);
-    padding: 10px 12px 10px 22px;
+    padding: 10px 12px 10px var(--marge-carte);
     border-bottom: 1px solid var(--trait-leger);
   }
-  .tiroir__titre { margin: 0; color: var(--marine); font: 800 1.125rem var(--police-titre); }
+  .tiroir__titre { margin: 0; color: var(--marine); font: 800 var(--texte-m) var(--police-titre); }
   .tiroir__fermer {
     display: grid;
     place-items: center;
-    width: 44px;
-    height: 44px;
+    width: var(--cible);
+    height: var(--cible);
     margin-left: auto;
     border: 2px solid var(--trait);
     border-radius: 50%;
@@ -91,11 +90,10 @@ const { outil, adresse } = clinique.rendez_vous;
     color: var(--marine);
     cursor: pointer;
   }
-  .tiroir__fermer span { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
   .tiroir__fermer svg { width: 22px; height: 22px; }
   .tiroir__fermer:hover { border-color: var(--marine); }
   .tiroir__cadre { display: flex; flex-direction: column; flex: 1; min-height: 0; }
-  .tiroir__etat { margin: 0; padding: 22px; color: var(--encre-douce); }
+  .tiroir__etat { margin: 0; padding: var(--marge-carte); color: var(--encre-douce); }
   .tiroir__widget { flex: 1; min-height: 0; }
   .tiroir__widget .calendly-inline-widget { height: 100% !important; min-width: 0 !important; }
   /* L'indicateur gris de Calendly se centre dans le panneau, puis le sien, bleu, apparaît en haut de l'agenda. On ne garde que celui de l'agenda. */

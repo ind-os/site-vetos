@@ -3,7 +3,7 @@
 // samedi d'ouverture. Elle disparaît après sa date de fin. « urgent » la pose en rouge.
 import type { Langue } from '../config.ts';
 import type { Clinique } from '../lib/cliniques.ts';
-import { instantAZurich } from '../lib/horaires.ts';
+import { bandeauDuJour } from '../lib/donnees-de-la-clinique.ts';
 
 interface Props {
   clinique: Clinique;
@@ -11,12 +11,11 @@ interface Props {
 }
 
 const { clinique, langue } = Astro.props;
-const bandeau = clinique.bandeau;
-const visible = bandeau && (!bandeau.jusqu_au || bandeau.jusqu_au >= instantAZurich().date);
+const bandeau = bandeauDuJour(clinique);
 ---
 
 {
-  visible && (
+  bandeau && (
     <div class:list={['bandeau', { 'bandeau--urgent': bandeau.niveau === 'urgent' }]} role="status">
       <p class="conteneur">{bandeau.texte[langue]}</p>
     </div>

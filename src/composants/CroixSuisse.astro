@@ -1,5 +1,6 @@
 ---
-// La croix suisse du logo, en carré rouge : elle signale l'urgence, et rien d'autre.
+// La croix suisse du logo, en carré rouge : elle signale l'urgence, et rien d'autre. Son style
+// est la classe .croix de src/styles/donnees.css, que le numéro de garde pose aussi.
 interface Props {
   /** Le côté du carré : « 22px ». */
   taille?: string;
@@ -8,26 +9,3 @@ const { taille = '22px' } = Astro.props;
 ---
 
 <span class="croix" style={`--taille: ${taille}`} aria-hidden="true"></span>
-
-<style>
-  .croix {
-    position: relative;
-    display: inline-block;
-    flex: none;
-    width: var(--taille);
-    height: var(--taille);
-    border-radius: calc(var(--taille) * 0.18);
-    background: var(--urgence);
-  }
-  .croix::before,
-  .croix::after {
-    content: "";
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    background: var(--blanc);
-    translate: -50% -50%;
-  }
-  .croix::before { width: 56%; height: 18%; }
-  .croix::after { width: 18%; height: 56%; }
-</style>

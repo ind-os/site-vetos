@@ -1,7 +1,8 @@
 ---
 // La carte romande des huit cliniques, en SVG, sans bibliothèque de carte : les lacs en gris
 // bleuté, un point par clinique placé d'après ses coordonnées. Chaque point est un lien vers la
-// clinique. La clinique de la page, et celle survolée dans la liste, sont en menthe.
+// clinique. Le point survolé ou sous le focus clavier, et celui de la clinique survolée dans la
+// liste, passent en menthe. Le halo blanc des noms prend le fond de la section (--fond).
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import { adressePostale, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
@@ -9,11 +10,9 @@ import { adressePostale, lienDeLaClinique, type Clinique } from '../lib/clinique
 interface Props {
   cliniques: Clinique[];
   langue: Langue;
-  /** L'identifiant de la clinique mise en avant. */
-  actuelle?: string;
 }
 
-const { cliniques, langue, actuelle } = Astro.props;
+const { cliniques, langue } = Astro.props;
 const t = textes(langue);
 
 // Projection équirectangulaire calée sur Bussigny et Lausanne.
@@ -42,7 +41,6 @@ const points = await Promise.all(
     etiquette: ETIQUETTES[c.id] ?? { ancre: 'start', dx: 14, dy: 5 },
     lien: await lienDeLaClinique(c, langue),
     aria: `${c.nom}, ${adressePostale(c)}`,
-    actuelle: c.id === actuelle,
   })),
 );
 const lausanne = projeter(46.5197, 6.6323);
@@ -63,8 +61,8 @@ const lausanne = projeter(46.5197, 6.6323);
     </g>
     {
       points.map((p) => (
-        <a href={p.lien} class:list={['carte-cliniques__point', { 'carte-cliniques__point--actuelle': p.actuelle }]} data-clinique={p.id} aria-label={p.aria}>
-          <circle cx={p.x} cy={p.y} r={p.actuelle ? 11 : 8} />
+        <a href={p.lien} class="carte-cliniques__point" data-clinique={p.id} aria-label={p.aria}>
+          <circle cx={p.x} cy={p.y} r="8" />
           <text x={p.x + p.etiquette.dx} y={p.y + p.etiquette.dy} text-anchor={p.etiquette.ancre}>{p.lieu}</text>
         </a>
       ))
@@ -75,7 +73,7 @@ const lausanne = projeter(46.5197, 6.6323);
 <style>
   .carte-cliniques { margin: 0; max-width: 520px; }
   .carte-cliniques svg { width: 100%; height: auto; overflow: hidden; }
-  .carte-cliniques__lacs polygon { fill: #D6E5EE; }
+  .carte-cliniques__lacs polygon { fill: var(--lac); }
   .carte-cliniques__repere circle { fill: var(--blanc); stroke: var(--gris); stroke-width: 2; stroke-dasharray: 3 3; }
   .carte-cliniques__repere text { fill: var(--gris); font: 500 15px var(--police-texte); }
   .carte-cliniques__point circle { fill: var(--marine); stroke: var(--blanc); stroke-width: 3; transition: fill var(--transition); }
@@ -83,18 +81,14 @@ const lausanne = projeter(46.5197, 6.6323);
     fill: var(--marine);
     font: 700 17px var(--police-texte);
     paint-order: stroke;
-    stroke: var(--fond-carte, var(--blanc));
+    stroke: var(--fond, var(--blanc));
     stroke-width: 4px;
     stroke-linejoin: round;
     transition: fill var(--transition);
   }
-  .carte-cliniques__point:hover circle,
-  .carte-cliniques__point--actuelle circle,
-  .carte-cliniques__point[data-survol] circle { fill: var(--menthe-texte); }
-  .carte-cliniques__point:hover text,
-  .carte-cliniques__point--actuelle text,
-  .carte-cliniques__point[data-survol] text { fill: var(--menthe-fonce); }
-  .carte-cliniques__point:hover text { text-decoration: underline; }
+  .carte-cliniques__point:is(:hover, :focus-visible, [data-survol]) circle { fill: var(--menthe-texte); }
+  .carte-cliniques__point:is(:hover, :focus-visible, [data-survol]) text { fill: var(--menthe-fonce); }
+  .carte-cliniques__point:is(:hover, :focus-visible) text { text-decoration: underline; }
   .carte-cliniques__point:focus-visible { outline: none; }
   .carte-cliniques__point:focus-visible circle { stroke: var(--focus); stroke-width: 4; }
 </style>

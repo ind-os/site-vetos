@@ -4,7 +4,7 @@
 
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Langue } from '../config.ts';
-import { adresse } from './pages.ts';
+import { adresse, laPage, titreDe } from './pages.ts';
 
 export type Clinique = CollectionEntry<'cliniques'>['data'];
 
@@ -18,11 +18,6 @@ export async function laClinique(id: string): Promise<Clinique> {
   const fiche = (await lesCliniques()).find((c) => c.id === id);
   if (!fiche) throw new Error(`Aucune fiche pour la clinique « ${id} » : le fichier src/donnees/cliniques/${id}.json manque.`);
   return fiche;
-}
-
-/** Les cliniques dont les pages sont en ligne sur ce site. */
-export async function lesCliniquesEnLigne(): Promise<Clinique[]> {
-  return (await lesCliniques()).filter((c) => c.en_ligne);
 }
 
 /**
@@ -40,7 +35,7 @@ export function adressePostale(clinique: Clinique): string {
   return `${clinique.adresse.rue}, ${clinique.adresse.npa} ${clinique.adresse.localite}`;
 }
 
-/** Les liens d'itinéraire, par l'adresse, sans carte intégrée. */
+/** Les liens d'itinéraire, sans carte intégrée : Google Maps par le nom et l'adresse, OpenStreetMap par les coordonnées. */
 export function liensDItineraire(clinique: Clinique): { google: string; osm: string } {
   const requete = encodeURIComponent(`${clinique.nom}, ${adressePostale(clinique)}`);
   const { lat, lng } = clinique.coordonnees;
@@ -48,6 +43,39 @@ export function liensDItineraire(clinique: Clinique): { google: string; osm: str
     google: `https://www.google.com/maps/dir/?api=1&destination=${requete}`,
     osm: `https://www.openstreetmap.org/directions?to=${lat}%2C${lng}#map=16/${lat}/${lng}`,
   };
+}
+
+/** Un service de la clinique : son libellé, son résumé et l'adresse de sa page dans la clinique. */
+export interface ServiceDeLaClinique {
+  /** Le nom du fichier de la page commune : « radiographie ». */
+  service: string;
+  libelle: string;
+  resume?: string;
+  href: string;
+}
+
+/**
+ * Les services de la fiche d'une clinique, dans son ordre. Le libellé est le nom court de la
+ * page commune (« Radiographie »), sinon le titre de la page. Chaque service a sa page dans la
+ * clinique ; s'il en manque une, la construction s'arrête. En prévisualisation, le lien mène à la
+ * page commune et le terminal le signale, pour que la page en cours d'écriture reste visible.
+ */
+export async function servicesDeLaClinique(clinique: Clinique, langue: Langue): Promise<ServiceDeLaClinique[]> {
+  const services = await Promise.all(
+    clinique.services.map(async (service) => {
+      const commune = await laPage(langue, `services/${service}`);
+      const ici = await laPage(langue, `${clinique.id}/services/${service}`);
+      if (!ici) {
+        const message = `La clinique ${clinique.id} cite le service « ${service} » : src/content/pages/${langue}/${clinique.id}/services/${service}.md manque.`;
+        if (!import.meta.env.DEV) throw new Error(message);
+        console.warn(`${message} Le lien mène à la page commune.`);
+      }
+      const page = ici ?? commune;
+      if (!page) return undefined;
+      return { service, libelle: commune?.data.nom ?? titreDe(page), resume: ici?.data.resume ?? commune?.data.resume, href: page.data.url };
+    }),
+  );
+  return services.filter((s) => s !== undefined);
 }
 
 /**

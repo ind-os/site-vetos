@@ -40,6 +40,19 @@
 /* Jetons                                                              */
 /* ------------------------------------------------------------------ */
 
+/*
+  Les cinq points de rupture du site, les seuls utilisés :
+  - 40rem (640 px) : les boutons de l'accueil passent en ligne ; en dessous, un tableau de trois
+    colonnes ou plus s'empile ;
+  - 48rem (768 px) : deux colonnes (cartes du contact, texte en cartes, pied de page) ;
+  - 56rem (896 px) : la photo passe à côté du titre (accueil, en-tête de page), trois cartes
+    d'information sur l'accueil d'une clinique ;
+  - 64rem (1 024 px) : la colonne latérale (.avec-cote) se place à droite du corps ;
+  - 72rem (1 152 px) : la navigation complète dans l'en-tête, la carte des cliniques à côté de
+    la liste, le pied de page en trois colonnes.
+  Une requête média ne lit pas de jeton : la valeur s'écrit en clair, l'une de ces cinq.
+*/
+
 :root {
   /* Couleurs de la charte */
   --marine: #0A4675;          /* titres, navigation, pied de page */
@@ -47,7 +60,9 @@
   --menthe-texte: #007A70;    /* boutons et liens sur fond blanc, gris ou menthe pâle (contraste 4,5:1 au moins) */
   --menthe-fonce: #006B62;    /* survol des boutons et des liens */
   --menthe-pale: #E6F4F2;     /* fond d'une pastille de service */
+  --menthe-trait: #BFE3DE;    /* filet d'une pastille de service */
   --gris-bleute: #F2F6F8;     /* fond des sections alternées */
+  --lac: #D6E5EE;             /* les lacs de la carte des cliniques */
   --urgence: #C8102E;         /* croix suisse et urgence, rien d'autre */
   --urgence-pale: #FDF1F2;    /* fond du rappel d'urgence */
   --encre: #1D3448;           /* texte courant */
@@ -55,30 +70,39 @@
   --gris: #5B6B78;            /* texte secondaire, puces */
   --trait: #DCE5EA;           /* bordure des cartes */
   --trait-leger: #E6ECEF;     /* filets de séparation */
-  --blanc: #FFFFFF;
+  --blanc: #FFFFFF;           /* fond des pages et des cartes */
 
   /* Sur le pied de page marine */
   --sur-marine: #CFDDE8;      /* texte courant (8:1) */
-  --sur-marine-lien: #FFFFFF;
+  --sur-marine-lien: #FFFFFF; /* liens */
+  --sur-marine-filet: rgba(255, 255, 255, 0.16);  /* filets de séparation */
+  --sur-marine-fond: rgba(255, 255, 255, 0.08);   /* fond d'un encadré (fermetures) */
+
+  /* Le panneau de rendez-vous, au-dessus de la page */
+  --voile: rgb(10 70 117 / 0.45);             /* la page derrière le panneau, voilée de marine */
+  --ombre-panneau: rgb(10 70 117 / 0.16);     /* l'ombre du panneau sur la page */
 
   /* Couleurs selon le fond : redéfinies par .fond-marine */
-  --lien: var(--menthe-texte);
-  --lien-survol: var(--menthe-fonce);
-  --titre: var(--marine);
-  --focus: var(--menthe-texte);
+  --lien: var(--menthe-texte);         /* liens */
+  --lien-survol: var(--menthe-fonce);  /* survol des liens */
+  --titre: var(--marine);              /* titres */
+  --focus: var(--menthe-texte);        /* contour du focus clavier */
 
   /* Polices */
   --police-titre: "Nunito Variable", ui-rounded, system-ui, sans-serif;
   --police-texte: "Nunito Sans Variable", ui-rounded, system-ui, sans-serif;
+  --police-code: ui-monospace, "SF Mono", Menlo, monospace;   /* le code du styleguide */
 
   /* Tailles du texte, de 390 px à 1 280 px de large */
   --texte-xs: 0.8125rem;                                  /* 13 px */
   --texte-s: 0.9375rem;                                   /* 15 px */
   --texte: 1.0625rem;                                     /* 17 px */
+  --texte-m: 1.125rem;                                    /* 18 px : un téléphone, un petit titre */
   --texte-l: clamp(1.0625rem, 1rem + 0.3vw, 1.1875rem);   /* 17 à 19 px */
   --titre-1: clamp(2.0625rem, 1.4rem + 2.8vw, 3.5rem);    /* 33 à 56 px */
   --titre-2: clamp(1.5rem, 1.25rem + 1.1vw, 2.125rem);    /* 24 à 34 px */
   --titre-3: clamp(1.1875rem, 1.12rem + 0.3vw, 1.375rem); /* 19 à 22 px */
+  --chiffre-grand: clamp(2rem, 1.5rem + 2vw, 2.75rem);    /* 32 à 44 px : le numéro à appeler (contact, garde) */
 
   /* Espacements */
   --espace-1: 0.25rem;  /*  4 px */
@@ -89,12 +113,15 @@
   --espace-6: 2rem;     /* 32 px */
   --espace-7: 3rem;     /* 48 px */
   --espace-8: 4rem;     /* 64 px */
+  --marge-carte: 22px;  /* marge intérieure d'une carte */
   --gouttiere: clamp(1rem, 0.3rem + 3.6vw, 3.5rem);       /* 16 à 56 px */
   --section-y: clamp(1.75rem, 1rem + 3vw, 3rem);          /* 28 à 48 px */
 
   /* Largeurs */
   --largeur-max: 73rem;   /* 1 168 px de contenu, 1 280 px avec les gouttières */
   --lecture: 42rem;       /* environ 70 caractères par ligne */
+  --largeur-cote: 20rem;  /* la colonne latérale d'une page (.avec-cote) */
+  --cible: 44px;          /* hauteur et largeur minimales d'une cible tactile */
 
   /* Rayons */
   --rayon-carte: 12px;
@@ -171,7 +198,8 @@ button { cursor: pointer; }
 /* Fonds                                                               */
 /* ------------------------------------------------------------------ */
 
-.fond-gris { background: var(--gris-bleute); }
+/* --fond : le fond sous le contenu, que lit la carte des cliniques pour le halo de ses noms */
+.fond-gris { background: var(--gris-bleute); --fond: var(--gris-bleute); }
 .fond-marine {
   background: var(--marine);
   color: var(--sur-marine);
@@ -201,7 +229,7 @@ button { cursor: pointer; }
   cursor: pointer;
   transition: background-color var(--transition), color var(--transition), border-color var(--transition);
 }
-.bouton--petit { min-height: 44px; padding: 0 1.25rem; font-size: var(--texte-s); }
+.bouton--petit { min-height: var(--cible); padding: 0 1.25rem; font-size: var(--texte-s); }
 .bouton--large { display: flex; width: 100%; }
 
 /* Principal : menthe plein, l'action de la page */
@@ -213,6 +241,57 @@ button { cursor: pointer; }
 /* Sur le fond marine : blanc plein */
 .fond-marine .bouton--secondaire { background: transparent; border-color: var(--blanc); color: var(--blanc); }
 .fond-marine .bouton--secondaire:hover { background: var(--blanc); color: var(--marine); }
+
+/* ------------------------------------------------------------------ */
+/* Cartes : fond blanc, filet gris, coins de 12 px                     */
+/* Chaque bloc en carte pose la classe « carte » sur son élément et     */
+/* garde dans son style ce qui lui est propre (grille, marge, survol).  */
+/* Le Markdown pose le même cadre sur chaque point d'une liste de liens. */
+/* ------------------------------------------------------------------ */
+
+.carte,
+.prose ul.liste-de-liens > li {
+  padding: var(--marge-carte);
+  border: 1px solid var(--trait);
+  border-radius: var(--rayon-carte);
+  background: var(--blanc);
+  --fond: var(--blanc);
+}
+
+/* Une carte entièrement cliquable : le lien de son titre la couvre, le contour du focus clavier
+   entoure la carte, et son filet passe en menthe au survol. */
+.carte--cliquable { position: relative; transition: border-color var(--transition); }
+.carte--cliquable:hover { border-color: var(--menthe-texte); }
+.carte--cliquable :is(h2, h3) a { color: inherit; text-decoration: none; }
+.carte--cliquable :is(h2, h3) a::after { content: ""; position: absolute; inset: 0; }
+.carte--cliquable :is(h2, h3) a:focus-visible { outline: none; }
+.carte--cliquable:has(a:focus-visible) { outline: 3px solid var(--focus); outline-offset: 3px; }
+
+/* Des cartes en grille : autant de colonnes que la largeur en permet, chacune de --min au moins
+   (15rem par défaut), séparées de --gap (--espace-4 par défaut). Un usage pose sa valeur :
+   style="--min: 13rem". */
+.grille-de-cartes {
+  display: grid;
+  gap: var(--gap, var(--espace-4));
+  grid-template-columns: repeat(auto-fill, minmax(var(--min, 15rem), 1fr));
+}
+
+/* ------------------------------------------------------------------ */
+/* Mise en page                                                        */
+/* ------------------------------------------------------------------ */
+
+/* Le corps d'une page et une colonne à côté : dès 64rem, la colonne (--largeur-cote) se place à
+   droite et reste visible pendant la lecture. En dessous, elle suit le corps. */
+.avec-cote { display: grid; gap: var(--espace-7); }
+@media (min-width: 64rem) {
+  .avec-cote { grid-template-columns: minmax(0, 1fr) var(--largeur-cote); gap: var(--espace-8); align-items: start; }
+  .avec-cote__cote { position: sticky; top: var(--espace-5); align-self: start; }
+}
+
+/* Une sous-section du corps d'une page : son titre h2, à la taille d'un titre de carte, puis son
+   contenu (pastilles, cartes, liens). */
+.bloc { display: grid; gap: var(--espace-4); }
+.bloc > h2 { font-size: var(--titre-3); }
 
 /* ------------------------------------------------------------------ */
 /* Prose : le corps des pages Markdown                                 */
@@ -254,12 +333,10 @@ button { cursor: pointer; }
   display: grid;
   gap: var(--espace-3);
 }
+/* Le cadre de chaque point est celui des cartes (plus haut), avec une marge plus serrée. */
 .prose ul.liste-de-liens > li {
   margin: 0;
   padding: var(--espace-4) var(--espace-5);
-  border: 1px solid var(--trait);
-  border-radius: var(--rayon-carte);
-  background: var(--blanc);
   color: var(--encre-douce);
 }
 .prose ul.liste-de-liens > li > a:first-child { display: block; font-family: var(--police-titre); font-weight: 800; font-size: var(--texte-l); text-decoration: none; }

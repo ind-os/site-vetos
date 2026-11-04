@@ -1,13 +1,10 @@
-// Die Texte der Oberfläche auf Deutsch. Gleicher Aufbau wie fr.ts : jeder Schlüssel aus fr.ts
-// muss hier stehen, sonst meldet `pnpm verifier` den fehlenden Text.
-// Schweizer Rechtschreibung : « ss » statt « ß ».
+// Les textes de l'interface en allemand, avec les mêmes clés que fr.ts : une clé absente d'un
+// des deux fichiers arrête la construction. Orthographe suisse : « ss », jamais « ß ».
 
 import type { Catalogue } from './index.ts';
 
 export const de: Catalogue = {
   langue: {
-    nom: 'Deutsch',
-    autre: 'Français',
     autreCourt: 'FR',
     autreAccessible: 'Cette page en français',
   },
@@ -24,7 +21,6 @@ export const de: Catalogue = {
   navigation: {
     principale: 'Hauptnavigation',
     menu: 'Menü',
-    fermer: 'Menü schliessen',
     allerAuContenu: 'Zum Inhalt',
     accueil: 'Startseite',
     filDAriane: 'Sie sind hier',
@@ -47,28 +43,18 @@ export const de: Catalogue = {
 
   rendezVous: {
     bouton: 'Termin vereinbaren',
-    boutonClinique: (lieu: string) => `Termin in ${lieu} vereinbaren`,
-    choisirUneClinique: 'Praxis wählen',
     huitCliniques: 'In einer der acht Vetmint-Praxen.',
-    chargement: 'Der Kalender wird geöffnet …',
     fermer: 'Schliessen',
     nouvelOnglet: 'Der Kalender öffnet sich in einem neuen Tab.',
-    erreur: 'Der Kalender lässt sich nicht öffnen. Rufen Sie die Praxis an unter',
   },
 
   telephone: {
     appeler: (numero: string) => `${numero} anrufen`,
     whatsapp: 'WhatsApp',
-    ecrire: 'E-Mail schreiben',
   },
 
   urgence: {
-    titre: 'Notfall',
-    horsHoraires: 'Notfall ausserhalb der Öffnungszeiten',
-    ligneDeGarde: 'Notfall ausserhalb der Öffnungszeiten: Notfalldienst',
-    garde: 'Notfalldienst',
-    pendantLesHoraires: 'Während der Öffnungszeiten rufen Sie die Praxis an:',
-    queFaire: 'Was tun im Notfall',
+    garde: 'Notfallnummer',
   },
 
   horaires: {
@@ -104,10 +90,6 @@ export const de: Catalogue = {
     itineraireGoogle: 'Route mit Google Maps',
     itineraireOsm: 'Route mit OpenStreetMap',
     adresse: 'Adresse',
-    parking: 'Parkplätze',
-    transports: 'Öffentlicher Verkehr',
-    accessibilite: 'Zugang',
-    communes: 'Einzugsgebiet',
     services: 'Die Leistungen der Praxis',
     voirLaClinique: 'Zur Praxis',
     siteActuel: 'Website der Praxis',
@@ -115,7 +97,6 @@ export const de: Catalogue = {
     touteLEquipe: 'Das ganze Team',
     langues: (liste: string) => `Sprachen: ${liste}`,
     especes: (liste: string) => `Behandelte Tiere: ${liste}`,
-    raisonSociale: 'Firma',
     autresCliniques: 'Die anderen Vetmint-Praxen',
     pagesDeLaClinique: 'Die Praxis',
   },
@@ -139,7 +120,6 @@ export const de: Catalogue = {
   },
 
   services: {
-    tous: 'Alle Leistungen',
     voir: 'Zur Leistung',
     dansQuellesCliniques: 'In welchen Praxen',
     pratiqueA: (lieu: string) => `Diese Leistung in ${lieu}`,
@@ -149,7 +129,6 @@ export const de: Catalogue = {
 
   conseils: {
     tous: 'Alle Ratgeber',
-    lire: 'Ratgeber lesen',
     minutes: (n: number) => `${n} Min. Lesezeit`,
     aLireAussi: 'Ebenfalls lesenswert',
   },
@@ -157,11 +136,6 @@ export const de: Catalogue = {
   cliniques: {
     trouver: 'Praxis finden',
     carte: 'Karte der acht Vetmint-Praxen in der Westschweiz',
-    statut: 'Geöffnet',
-  },
-
-  questions: {
-    titre: 'Häufige Fragen',
   },
 
   erreur: {
@@ -171,6 +145,5 @@ export const de: Catalogue = {
 
   tableau: {
     nom: 'Tabelle',
-    premiereLigne: 'erste Zeile',
   },
 };

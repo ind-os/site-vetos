@@ -1,12 +1,11 @@
 // Les textes de l'interface en français : menus, boutons, titres des blocs, messages.
-// C'est le catalogue de référence. Chaque texte ajouté ici s'ajoute aussi dans de.ts, sinon
-// `pnpm verifier` signale le texte manquant. Les textes des pages sont dans src/content/pages/.
+// C'est le catalogue de référence. Chaque texte ajouté ici s'ajoute aussi dans de.ts, sous la
+// même clé : sinon la construction s'arrête et nomme la clé qui manque. Les textes des pages
+// sont dans src/content/pages/.
 
 export const fr = {
   langue: {
-    nom: 'Français',
     /** Le lien vers l'autre langue, dans l'en-tête. */
-    autre: 'Deutsch',
     autreCourt: 'DE',
     autreAccessible: 'Diese Seite auf Deutsch',
   },
@@ -23,7 +22,6 @@ export const fr = {
   navigation: {
     principale: 'Navigation principale',
     menu: 'Menu',
-    fermer: 'Fermer le menu',
     allerAuContenu: 'Aller au contenu',
     accueil: 'Accueil',
     filDAriane: 'Vous êtes ici',
@@ -46,28 +44,18 @@ export const fr = {
 
   rendezVous: {
     bouton: 'Prendre rendez-vous',
-    boutonClinique: (lieu: string) => `Prendre rendez-vous à ${lieu}`,
-    choisirUneClinique: 'Choisir une clinique',
     huitCliniques: 'Dans l’une des huit cliniques Vetmint.',
-    chargement: 'Ouverture de l’agenda…',
     fermer: 'Fermer',
     nouvelOnglet: 'L’agenda s’ouvre dans un nouvel onglet.',
-    erreur: 'L’agenda ne s’ouvre pas. Appelez la clinique au',
   },
 
   telephone: {
     appeler: (numero: string) => `Appeler le ${numero}`,
     whatsapp: 'WhatsApp',
-    ecrire: 'Écrire un e-mail',
   },
 
   urgence: {
-    titre: 'Urgence',
-    horsHoraires: 'Urgence en dehors des horaires',
-    ligneDeGarde: 'Urgence en dehors des horaires\u00a0: service de garde',
-    garde: 'Service de garde',
-    pendantLesHoraires: 'Pendant les heures d’ouverture, appelez la clinique\u00a0:',
-    queFaire: 'Que faire en cas d’urgence',
+    garde: 'Numéro de garde',
   },
 
   horaires: {
@@ -103,10 +91,6 @@ export const fr = {
     itineraireGoogle: 'Itinéraire avec Google Maps',
     itineraireOsm: 'Itinéraire avec OpenStreetMap',
     adresse: 'Adresse',
-    parking: 'Parking',
-    transports: 'Transports publics',
-    accessibilite: 'Accès',
-    communes: 'Communes desservies',
     services: 'Les soins de la clinique',
     voirLaClinique: 'Voir la clinique',
     siteActuel: 'Site de la clinique',
@@ -114,7 +98,6 @@ export const fr = {
     touteLEquipe: 'Toute l’équipe',
     langues: (liste: string) => `Langues\u00a0: ${liste}`,
     especes: (liste: string) => `Animaux reçus\u00a0: ${liste}`,
-    raisonSociale: 'Raison sociale',
     autresCliniques: 'Les autres cliniques Vetmint',
     pagesDeLaClinique: 'La clinique',
   },
@@ -138,7 +121,6 @@ export const fr = {
   },
 
   services: {
-    tous: 'Tous les services',
     voir: 'Voir le service',
     dansQuellesCliniques: 'Dans quelles cliniques',
     pratiqueA: (lieu: string) => `Ce soin à ${lieu}`,
@@ -148,7 +130,6 @@ export const fr = {
 
   conseils: {
     tous: 'Tous les conseils',
-    lire: 'Lire le conseil',
     minutes: (n: number) => `${n} min de lecture`,
     aLireAussi: 'À lire aussi',
   },
@@ -156,11 +137,6 @@ export const fr = {
   cliniques: {
     trouver: 'Trouver sa clinique',
     carte: 'Carte des huit cliniques Vetmint en Suisse romande',
-    statut: 'Ouverture',
-  },
-
-  questions: {
-    titre: 'Questions fréquentes',
   },
 
   erreur: {
@@ -170,6 +146,5 @@ export const fr = {
 
   tableau: {
     nom: 'Tableau',
-    premiereLigne: 'première ligne',
   },
 };

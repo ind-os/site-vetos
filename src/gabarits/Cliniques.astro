@@ -2,20 +2,19 @@
 // La page des cliniques : la carte et les huit cliniques, chacune avec son bouton de
 // rendez-vous (ancre #rendez-vous du bouton de l'en-tête), puis le texte : son introduction, et une
 // carte par clinique, deux par ligne.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { lesCliniques } from '../lib/cliniques.ts';
 import { sections } from '../lib/html.ts';
-import type { Page } from '../lib/pages.ts';
 import ReseauDesCliniques from '../composants/ReseauDesCliniques.astro';
 import Prose from '../composants/Prose.astro';
 import SectionsEnCartes from '../composants/SectionsEnCartes.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { langue, html } = contexte;
 const cliniques = await lesCliniques();
 const texte = sections(html, 2);

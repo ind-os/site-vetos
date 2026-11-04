@@ -1,7 +1,7 @@
 ---
 // La mise en page de toutes les pages : tête HTML, bandeau d'annonce de la clinique, en-tête et
 // navigation, contenu, pied de page. Une page de clinique a la navigation de sa clinique ; une
-// page commune celle du réseau.
+// page commune celle du réseau (src/lib/navigation.ts).
 import type { ImageMetadata } from 'astro';
 import '../styles/charte.css';
 import { CODES_DE_LANGUE, type Langue } from '../config.ts';
@@ -10,9 +10,9 @@ import BandeauAnnonce from '../composants/BandeauAnnonce.astro';
 import EnTete from '../composants/EnTete.astro';
 import PiedDePage from '../composants/PiedDePage.astro';
 import TeteHtml from '../composants/TeteHtml.astro';
-import { lesCliniques, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
+import type { Clinique } from '../lib/cliniques.ts';
 import { premierePhoto } from '../lib/images.ts';
-import { adresse } from '../lib/pages.ts';
+import { navigationDe } from '../lib/navigation.ts';
 
 interface Props {
   langue: Langue;
@@ -28,72 +28,11 @@ interface Props {
 }
 
 const { langue, titre, description, adresses, clinique, image, balisage, noindex } = Astro.props;
-const t = textes(langue);
-const n = t.navigation;
+const n = textes(langue).navigation;
 const autreLangue = langue === 'fr' ? 'de' : 'fr';
-const lien = (cle: string) => adresse(langue, cle);
 // Une page sans photo se partage avec la photo d'accueil de sa clinique, sinon celle du réseau.
 const imageDePartage = image ?? premierePhoto(clinique ? [`${clinique.id}:accueil`, 'accueil'] : ['accueil'], langue)?.src;
-
-const cliniques = await lesCliniques();
-const liensDesCliniques = await Promise.all(
-  cliniques.filter((c) => c.id !== clinique?.id).map(async (c) => ({ libelle: c.lieu, href: await lienDeLaClinique(c, langue) })),
-);
-const legal = [
-  { libelle: n.confidentialite, href: await lien('confidentialite') },
-  { libelle: n.mentionsLegales, href: await lien('mentions-legales') },
-];
-
-let entete: { accueil: string; lieu?: string; liens: { libelle: string; href: string }[]; urgence: { libelle: string; href: string }; rendezVous?: string };
-let liensDuPied: { libelle: string; href: string }[];
-
-if (clinique) {
-  const page = (cle: string) => lien(`${clinique.id}/${cle}`);
-  const accueil = await page('index');
-  entete = {
-    accueil,
-    lieu: clinique.lieu,
-    liens: [
-      { libelle: n.services, href: await page('services/index') },
-      { libelle: n.tarifs, href: await page('tarifs') },
-      { libelle: n.abonnements, href: await page('abonnements') },
-      { libelle: n.equipe, href: await page('equipe') },
-      { libelle: n.contact, href: await page('contact') },
-    ],
-    urgence: { libelle: n.urgences, href: clinique.urgences ? await page('urgences') : await lien('urgences') },
-  };
-  liensDuPied = [
-    { libelle: t.rendezVous.bouton, href: await page('rendez-vous') },
-    { libelle: n.services, href: await page('services/index') },
-    { libelle: n.questions, href: await page('questions-frequentes') },
-    { libelle: n.tarifs, href: await page('tarifs') },
-    { libelle: n.abonnements, href: await page('abonnements') },
-    { libelle: n.conseils, href: await lien('conseils/index') },
-    { libelle: n.emploi, href: await lien('emploi') },
-    { libelle: t.site.reseau, href: await lien('index') },
-  ];
-} else {
-  const pageDesCliniques = await lien('cliniques');
-  entete = {
-    accueil: await lien('index'),
-    liens: [
-      { libelle: n.cliniques, href: pageDesCliniques },
-      { libelle: n.services, href: await lien('services/index') },
-      { libelle: n.conseils, href: await lien('conseils/index') },
-      { libelle: n.emploi, href: await lien('emploi') },
-    ],
-    urgence: { libelle: n.urgences, href: await lien('urgences') },
-    rendezVous: `${pageDesCliniques}#rendez-vous`,
-  };
-  liensDuPied = [
-    { libelle: n.services, href: await lien('services/index') },
-    { libelle: n.conseils, href: await lien('conseils/index') },
-    { libelle: n.urgences, href: await lien('urgences') },
-    { libelle: n.emploi, href: await lien('emploi') },
-    { libelle: n.aPropos, href: await lien('a-propos') },
-    { libelle: n.newsletter, href: await lien('newsletter') },
-  ];
-}
+const { entete, cliniques, pied, legal } = await navigationDe(langue, clinique);
 ---
 
 <!doctype html>
@@ -117,7 +56,7 @@ if (clinique) {
     <main id="contenu">
       <slot />
     </main>
-    <PiedDePage langue={langue} clinique={clinique} cliniques={liensDesCliniques} liens={liensDuPied} legal={legal} />
+    <PiedDePage langue={langue} clinique={clinique} cliniques={cliniques} liens={pied} legal={legal} />
     <script>
       import '../scripts/statut-ouverture.ts';
     </script>

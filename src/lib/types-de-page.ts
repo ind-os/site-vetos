@@ -1,18 +1,14 @@
 // Les types de page et la convention des pages de clinique (docs/plan-des-pages.md).
 // Le type, dans l'en-tête d'une page Markdown, choisit son gabarit (src/gabarits/).
 
-export const TYPES_DE_PAGE = [
-  // Pages communes
-  'accueil-groupe',
-  'cliniques',
-  'service-index',
-  'service',
-  'urgences-groupe',
-  'conseil-index',
-  'conseil-categorie',
-  'conseil',
-  'simple',
-  // Pages d'une clinique
+/** Les types des pages communes : leur fichier est hors des dossiers des cliniques. */
+const TYPES_DE_PAGE_COMMUNE = ['accueil-groupe', 'cliniques', 'service-index', 'service', 'urgences-groupe', 'conseil-index', 'conseil-categorie', 'conseil', 'simple'] as const;
+
+/**
+ * Les types des pages d'une clinique : leur fichier est dans <langue>/<clinique>/ et leur en-tête
+ * porte le champ `clinique`.
+ */
+export const TYPES_DE_PAGE_DE_CLINIQUE = [
   'accueil-clinique',
   'services-clinique',
   'equipe',
@@ -24,6 +20,8 @@ export const TYPES_DE_PAGE = [
   'urgences',
   'service-clinique',
 ] as const;
+
+export const TYPES_DE_PAGE = [...TYPES_DE_PAGE_COMMUNE, ...TYPES_DE_PAGE_DE_CLINIQUE] as const;
 
 export type TypeDePage = (typeof TYPES_DE_PAGE)[number];
 

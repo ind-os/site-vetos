@@ -3,6 +3,7 @@
 // clinique. Calculé dans le navigateur (src/scripts/statut-ouverture.ts) ; caché sans JavaScript.
 import type { Langue } from '../config.ts';
 import type { Clinique } from '../lib/cliniques.ts';
+import { htmlDuStatut } from '../lib/donnees-de-la-clinique.ts';
 
 interface Props {
   clinique: Clinique;
@@ -12,13 +13,4 @@ interface Props {
 const { clinique, langue } = Astro.props;
 ---
 
-<p
-  class="statut"
-  data-statut-ouverture
-  data-langue={langue}
-  data-horaires={JSON.stringify(clinique.horaires)}
-  data-fermetures={JSON.stringify(clinique.fermetures)}
-  hidden
->
-  <span class="statut__point" aria-hidden="true"></span><span data-statut-texte></span>
-</p>
+<Fragment set:html={htmlDuStatut(clinique, langue)} />

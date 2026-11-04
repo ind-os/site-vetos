@@ -1,6 +1,7 @@
 ---
 // Des questions et leurs réponses, en accordéon : la question s'ouvre au clic, sans
-// JavaScript (details et summary). Le balisage FAQPage est posé par la tête de page.
+// JavaScript (details et summary). Le balisage FAQPage est posé par la mise en page intérieure
+// (src/gabarits/PageInterieure.astro), que le gabarit des questions fréquentes lui passe.
 interface Props {
   questions: { question: string; reponse: string }[];
   /** Le niveau de titre des questions ; 3 par défaut. */
@@ -14,7 +15,7 @@ const Titre = `h${niveau}` as const;
 <div class="faq">
   {
     questions.map((q) => (
-      <details class="faq__question">
+      <details class="carte faq__question">
         <summary>
           <Titre class="faq__titre">{q.question}</Titre>
           <span class="faq__signe" aria-hidden="true" />
@@ -27,7 +28,8 @@ const Titre = `h${niveau}` as const;
 
 <style>
   .faq { display: grid; gap: var(--espace-3); max-width: var(--lecture); }
-  .faq__question { border: 1px solid var(--trait); border-radius: var(--rayon-carte); background: var(--blanc); }
+  /* La marge est celle de la question et de la réponse : toute la ligne de la question s'ouvre au clic. */
+  .faq__question { padding: 0; }
   .faq__question[open] { border-color: var(--menthe-texte); }
   summary {
     display: flex;

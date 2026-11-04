@@ -32,14 +32,12 @@ const graphe = [
 ---
 
 <Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photo?.src} balisage={graphe}>
-  <TeteDePage titre={titre} fil={fil} etiquetteDuFil={t.navigation.filDAriane} surtitre={surtitre} photo={photo}>
-    <slot name="tete" />
-  </TeteDePage>
-  <div class:list={['conteneur', 'page', { 'page--cote': avecCote }]}>
+  <TeteDePage titre={titre} fil={fil} etiquetteDuFil={t.navigation.filDAriane} surtitre={surtitre} photo={photo} />
+  <div class:list={['conteneur', 'page', { 'avec-cote': avecCote }]}>
     <div class="page__corps"><slot /></div>
     {
       avecCote && (
-        <aside class="page__cote">
+        <aside class="page__cote avec-cote__cote">
           <slot name="cote">{clinique && <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />}</slot>
         </aside>
       )
@@ -48,11 +46,8 @@ const graphe = [
 </Base>
 
 <style>
-  .page { display: grid; gap: var(--espace-7); padding-block: var(--section-y) var(--espace-8); }
+  /* La grille du corps et de la colonne est la classe .avec-cote de src/styles/charte.css. */
+  .page { display: grid; padding-block: var(--section-y) var(--espace-8); }
   .page__corps { display: grid; gap: var(--espace-6); align-content: start; min-width: 0; }
   .page__cote { display: grid; gap: var(--espace-4); align-content: start; }
-  @media (min-width: 64rem) {
-    .page--cote { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--espace-8); align-items: start; }
-    .page__cote { position: sticky; top: var(--espace-5); }
-  }
 </style>

@@ -2,11 +2,11 @@
 // L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; les
 // horaires, l'accès et les contacts ; le texte de la page avec la carte de la clinique à côté ;
 // un aperçu de l'équipe. La liste des soins est sur la page Services de la clinique.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { adressePostale } from '../lib/cliniques.ts';
 import { enumerer, lienTelephone, lienWhatsapp } from '../lib/format.ts';
 import { photo, photos } from '../lib/images.ts';
-import { adresse, type Page } from '../lib/pages.ts';
+import { adresse } from '../lib/pages.ts';
 import { balisageDeLaClinique, balisageDuGroupe } from '../lib/balisage.ts';
 import AppelUrgence from '../composants/AppelUrgence.astro';
 import Accueil from '../composants/Accueil.astro';
@@ -21,10 +21,10 @@ import Section from '../composants/Section.astro';
 import Base from './Base.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { page, langue, t, html, adresses, titre } = contexte;
 const clinique = contexte.clinique!;
 const id = clinique.id;
@@ -63,9 +63,9 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
     </div>
   </Section>
 
-  <div class="conteneur texte">
+  <div class="conteneur texte avec-cote">
     <Prose html={html} chapeau />
-    <aside class="texte__cote">
+    <aside class="texte__cote avec-cote__cote">
       <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />
     </aside>
   </div>
@@ -73,7 +73,7 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
   {
     equipe.length > 0 && (
       <Section fond="gris" titre={t.clinique.equipe} id="equipe">
-        <div class="equipe">
+        <div class="grille-de-cartes equipe">
           {equipe.map((m) => (
             <CarteMembre
               nom={m.nom}
@@ -91,14 +91,15 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
 
 <style>
   .infos { display: grid; gap: var(--espace-4); }
-  .texte { display: grid; gap: var(--espace-7); padding-block: var(--section-y); }
+  /* La grille du texte et de sa colonne est la classe .avec-cote de src/styles/charte.css ; la
+     colonne n'apparaît qu'à côté du texte. */
+  .texte { padding-block: var(--section-y); }
   .texte__cote { display: none; }
-  .equipe { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(13rem, 1fr)); }
+  .equipe { --min: 13rem; }
   @media (min-width: 56rem) {
     .infos { grid-template-columns: repeat(3, minmax(0, 1fr)); }
   }
   @media (min-width: 64rem) {
-    .texte { grid-template-columns: minmax(0, 1fr) 20rem; gap: var(--espace-8); align-items: start; }
-    .texte__cote { display: grid; position: sticky; top: var(--espace-5); }
+    .texte__cote { display: grid; }
   }
 </style>

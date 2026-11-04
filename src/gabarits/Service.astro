@@ -1,19 +1,19 @@
 ---
 // Un service, page commune : ce qu'il est, comment il se passe, ses prix. À côté, le rendez-vous
 // et les cliniques qui le pratiquent, chacune vers sa page du service.
-import { contexteDe } from '../lib/contexte.ts';
+import type { Contexte } from '../lib/contexte.ts';
 import { lesCliniques, lienDeLaClinique } from '../lib/cliniques.ts';
 import { photo } from '../lib/images.ts';
-import { slugDe, type Page } from '../lib/pages.ts';
+import { slugDe } from '../lib/pages.ts';
 import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { page, langue, t, html } = contexte;
 const slug = slugDe(page);
 const cliniques = await Promise.all(
@@ -29,7 +29,7 @@ const cliniques = await Promise.all(
     <AppelRendezVous langue={langue} />
     {
       cliniques.length > 0 && (
-        <nav class="cliniques" aria-labelledby="dans-quelles-cliniques">
+        <nav class="carte bloc cliniques" aria-labelledby="dans-quelles-cliniques">
           <h2 id="dans-quelles-cliniques">{t.services.dansQuellesCliniques}</h2>
           <ul>{cliniques.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
         </nav>
@@ -39,10 +39,9 @@ const cliniques = await Promise.all(
 </PageInterieure>
 
 <style>
-  .cliniques { display: grid; gap: var(--espace-3); padding: 22px; border: 1px solid var(--trait); border-radius: var(--rayon-carte); }
-  .cliniques h2 { font-size: var(--titre-3); }
+  .cliniques { gap: var(--espace-3); }
   .cliniques ul { list-style: none; margin: 0; padding: 0; display: grid; }
   .cliniques li + li { border-top: 1px solid var(--trait-leger); }
-  .cliniques a { display: flex; align-items: center; min-height: 44px; font-weight: 700; text-decoration: none; }
+  .cliniques a { display: flex; align-items: center; min-height: var(--cible); font-weight: 700; text-decoration: none; }
   .cliniques a:hover { text-decoration: underline; }
 </style>

@@ -1,6 +1,6 @@
 ---
-// L'en-tête d'une page intérieure, sur fond gris bleuté : fil d'Ariane, titre, et une photo
-// encadrée à droite si la page en a une.
+// L'en-tête d'une page intérieure, sur fond gris bleuté : fil d'Ariane, surtitre, titre, et une
+// photo encadrée à droite si la page en a une.
 import type { Photo as PhotoDuCatalogue } from '../lib/images.ts';
 import FilDAriane from './FilDAriane.astro';
 import Photo from './Photo.astro';
@@ -9,7 +9,7 @@ interface Props {
   titre: string;
   fil: { libelle: string; href: string }[];
   etiquetteDuFil: string;
-  /** Une phrase sous le titre. */
+  /** Le surtitre, au-dessus du titre, en petites capitales menthe. */
   surtitre?: string;
   photo?: PhotoDuCatalogue;
 }

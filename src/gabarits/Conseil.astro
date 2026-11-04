@@ -1,18 +1,19 @@
 ---
 // Un conseil santé : sa photo, son texte, le rendez-vous à côté, puis trois conseils de la même espèce.
-import { contexteDe } from '../lib/contexte.ts';
-import { photo, premierePhoto } from '../lib/images.ts';
-import { lesPages, minutesDeLecture, slugDe, titreDe, type Page } from '../lib/pages.ts';
+import type { Contexte } from '../lib/contexte.ts';
+import { carteDuConseil } from '../lib/conseils.ts';
+import { photo } from '../lib/images.ts';
+import { lesPages, minutesDeLecture, slugDe } from '../lib/pages.ts';
 import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import CarteConseil from '../composants/CarteConseil.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
-  page: Page;
+  contexte: Contexte;
 }
 
-const contexte = await contexteDe(Astro.props.page);
+const { contexte } = Astro.props;
 const { page, langue, t, html } = contexte;
 const slug = slugDe(page);
 const espece = page.data.especes?.[0];
@@ -24,25 +25,12 @@ const lies = (await lesPages(langue, 'conseil')).filter((c) => c.id !== page.id 
   <AppelRendezVous slot="cote" langue={langue} />
   {
     lies.length > 0 && (
-      <section class="lies" aria-labelledby="a-lire-aussi">
+      <section class="bloc" aria-labelledby="a-lire-aussi">
         <h2 id="a-lire-aussi">{t.conseils.aLireAussi}</h2>
-        <div class="lies__cartes">
-          {lies.map((c) => (
-            <CarteConseil
-              titre={titreDe(c)}
-              href={c.data.url}
-              resume={c.data.resume}
-              duree={t.conseils.minutes(minutesDeLecture(c))}
-              photo={premierePhoto([`conseil:${slugDe(c)}`, `espece:${c.data.especes?.[0] ?? 'chien'}`], langue)}
-            />
-          ))}
+        <div class="grille-de-cartes">
+          {lies.map((c) => <CarteConseil {...carteDuConseil(c, langue)} />)}
         </div>
       </section>
     )
   }
 </PageInterieure>
-
-<style>
-  .lies { display: grid; gap: var(--espace-4); margin-top: var(--espace-6); }
-  .lies__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
-</style>
