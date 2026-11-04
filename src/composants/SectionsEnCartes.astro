@@ -1,0 +1,41 @@
+---
+// Le texte d'une page coupé à chaque titre ## : une carte par section, deux par ligne sur un
+// grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de
+// sa carte, à la même hauteur que celui de la carte voisine. Sur la page des cliniques.
+import type { Section } from '../lib/html.ts';
+
+interface Props {
+  sections: Section[];
+}
+
+const { sections } = Astro.props;
+---
+
+<div class="sections-en-cartes">
+  {sections.map((s) => <article class="prose section-en-carte" set:html={s.entete + s.contenu} />)}
+</div>
+
+<style>
+  .sections-en-cartes { display: grid; gap: var(--espace-5); }
+  @media (min-width: 52rem) {
+    .sections-en-cartes { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  }
+  .section-en-carte {
+    display: flex;
+    flex-direction: column;
+    max-width: none;
+    padding: var(--espace-5);
+    border: 1px solid var(--trait);
+    border-radius: var(--rayon-carte);
+    background: var(--blanc);
+  }
+  .section-en-carte :global(h2) {
+    margin: 0;
+    padding-bottom: var(--espace-3);
+    border-bottom: 1px solid var(--trait-leger);
+    font-size: var(--titre-3);
+  }
+  .section-en-carte :global(h2 + *) { margin-top: var(--espace-4); }
+  .section-en-carte > :global(p:last-child:has(> .bouton)) { margin-top: auto; padding-top: var(--espace-5); }
+  .section-en-carte :global(.bouton) { margin-top: 0; }
+</style>

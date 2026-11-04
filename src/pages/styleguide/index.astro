@@ -25,10 +25,12 @@ import Prose from '../../composants/Prose.astro';
 import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
 import ReseauDesCliniques from '../../composants/ReseauDesCliniques.astro';
 import Section from '../../composants/Section.astro';
+import SectionsEnCartes from '../../composants/SectionsEnCartes.astro';
 import StatutOuverture from '../../composants/StatutOuverture.astro';
 import TeteDePage from '../../composants/TeteDePage.astro';
 import { laClinique, lesCliniques } from '../../lib/cliniques.ts';
 import { htmlDeLaGarde } from '../../lib/donnees-de-la-clinique.ts';
+import { sections } from '../../lib/html.ts';
 import { photo } from '../../lib/images.ts';
 
 const langue = 'fr';
@@ -62,6 +64,16 @@ const proseExemple = `
 <div class="tableau" role="region" tabindex="0"><table><thead><tr><th>Soin</th><th>Prix</th></tr></thead><tbody><tr><td>Consultation de 30 minutes</td><td>57 CHF</td></tr><tr><td>Bilan annuel du chien avec vaccins</td><td>94 CHF</td></tr></tbody></table></div>
 <p class="appel"><a class="bouton bouton--principal" href="#">Prendre rendez-vous</a></p>
 ${htmlDeLaGarde(payerne, langue)}`;
+
+const sectionsExemple = sections(`
+<h2>Vetmint Payerne</h2>
+<p>Route du Châtelard 13, 1530 Payerne. Téléphone <a href="#">026 660 16 16</a>.</p>
+${htmlDeLaGarde(payerne, langue)}
+<p>Chiens, chats, lapins et rongeurs.</p>
+<p class="appel"><a class="bouton bouton--principal" href="#">Le site de Vetmint Payerne</a></p>
+<h2>Une section plus courte</h2>
+<p>Son bouton se pose à la même hauteur que celui de la carte voisine.</p>
+<p class="appel"><a class="bouton bouton--principal" href="#">Un bouton</a></p>`, 2).sections;
 ---
 
 <Base langue={langue} titre="Styleguide | Vetmint" description="Les blocs réutilisables du site Vetmint, avec leurs variantes." adresses={{}} noindex>
@@ -221,6 +233,10 @@ ${htmlDeLaGarde(payerne, langue)}`;
 
       <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile. Un bloc de données (horaires, garde) se remplit avec la fiche de la clinique." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
         <Prose html={proseExemple} chapeau />
+      </Exemple>
+
+      <Exemple titre="Texte en cartes" description="Le texte d’une page coupé à chaque titre ## : une carte par section, deux par ligne sur un grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de sa carte. Sur la page des cliniques." fichier="composants/SectionsEnCartes.astro" code={`<SectionsEnCartes sections={sections(html, 2).sections} />`} fond="gris">
+        <SectionsEnCartes sections={sectionsExemple} />
       </Exemple>
 
       <Exemple titre="Questions fréquentes" description="Chaque question ### d’une page s’ouvre au clic, sans JavaScript. La page porte le balisage FAQPage pour les moteurs de recherche." fichier="composants/QuestionsFrequentes.astro" code={`<QuestionsFrequentes questions={[{ question: '…', reponse: '<p>…</p>' }]} />`}>
