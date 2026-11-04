@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "verifier": "astro check && astro build && node outils/verifier-les-liens.mjs"
+    "verifier": "node outils/verifier-les-pages.mjs && node outils/verifier-la-charte.mjs && astro check && astro build && node outils/verifier-les-liens.mjs",
+    "auditer": "pnpm verifier && node outils/verifier-les-pages.mjs --doublons"
   },
   "dependencies": {
     "@astrojs/markdown-satteri": "0.4.5",
@@ -17,6 +18,9 @@
     "satteri": "0.10.5"
   },
   "packageManager": "pnpm@12.16.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
   "devDependencies": {
     "@astrojs/check": "0.9.10",
     "typescript": "6.0.3"
