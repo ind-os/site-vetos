@@ -45,19 +45,19 @@ Quand toutes les questions ont une réponse ou que la personne dit qu'elle n'en 
 ### Emploi et lettre d'information
 
 5. Les postes affichés sont-ils ouverts : vétérinaire 80 à 100 % à Payerne dès le 1er février 2027 ; assistante ou assistant en médecine vétérinaire 60 à 80 % à Saint-Légier ; places d'apprentissage pour août 2027 ?
-6. Les conditions affichées : cinq jours de formation continue par an pour un vétérinaire à plein temps, trois pour une assistante ; réponse à une candidature sous dix jours ouvrables ; questions au 077 497 28 83 ?
+6. Les conditions affichées : cinq jours de formation continue par an pour un vétérinaire à plein temps, trois pour une assistante ; réponse à une candidature sous dix jours ouvrables ; questions au 077 497 28 83 et candidatures à rh@vetplatform.com ?
 7. La lettre d'information : quatre envois par an (mars, juin, septembre, décembre), inscription par e-mail à newsletter@vetmint.ch ?
 
 ### Les prix
 
 8. Les huit cliniques ont-elles la même grille de prix, valable dès le 29 avril 2025 ? Les prix sont-ils toutes taxes comprises ?
 9. Le plan de prévention chiot ou chaton : 515 francs, ou 490 ? Avec stérilisation ou castration : 925 et 1 240 francs pour le chiot, 615 et 755 pour le chaton, ou 880, 1 180, 585 et 718 ? Paiement possible en quatre fois par Swissbilling ?
-10. Les abonnements mensuels sont-ils proposés dans les huit cliniques, ou seulement à Bussigny et Saint-Légier ? Les conditions générales de Vetmint Saint-Légier SA valent-elles pour toutes ?
+10. Les abonnements mensuels sont-ils proposés dans les huit cliniques, ou seulement à Bussigny et Saint-Légier ? Les conditions générales de Vetmint Saint-Légier SA valent-elles pour toutes ? L'abonnement Junior va jusqu'à 12 mois et l'Adulte commence à 7 mois : quelle est la limite ?
 11. Ces prix sont affichés sur les pages de service, mais ne figurent dans aucune grille. Lesquels sont justes, lesquels passer en « sur devis » ?
     - Radiographie de deux clichés 150 CHF, cliché supplémentaire 45 CHF, sédation 60 à 120 CHF.
     - Dépistage officiel des hanches et des coudes : 390 CHF sur une page, 320 sur une autre.
     - Radiographie de comptage des chiots 90 CHF, échographie de gestation 50 CHF.
-    - Échographie abdominale 221 CHF, échocardiographie 260 CHF.
+    - Échographie abdominale 221 CHF ; échocardiographie 260 CHF sur une page, 270 sur une autre.
     - Bilan sanguin complet 145 CHF, prise de sang avant anesthésie 85 CHF, urine 45 CHF, selles 40 CHF, cytologie 55 CHF, biopsie 180 à 280 CHF.
     - Hospitalisation 95 à 140 CHF la journée, 60 CHF de jour, perfusion 65 CHF par jour.
     - Puce avec inscription 65 CHF, puce miniature ou thermochip 85 CHF, passeport 25 CHF.
@@ -85,14 +85,14 @@ Quand toutes les questions ont une réponse ou que la personne dit qu'elle n'en 
 18. Le toilettage : à Payerne et à Domdidier, et le défeutrage sous anesthésie à La Chaux-de-Fonds ? Aussi à Bussigny, au Lac-de-Joux, à Saint-Blaise ?
 19. L'échographie : Domdidier et Payerne envoient-elles leurs échographies à Fribourg Ouest ? Saint-Blaise a-t-elle un échographe ?
 20. Les animaux : oiseaux, reptiles, poissons et amphibiens orientés vers Fribourg Ouest ; furets, lapins, cochons d'Inde et rats reçus dans les huit cliniques ?
-21. Les visites à domicile : par les sept cliniques sauf Fribourg Ouest, euthanasie à domicile comprise ? La pose de puce se fait-elle aussi au Lac-de-Joux ?
-22. Les délais de résultat : prise de sang sur place en 20 à 30 minutes, laboratoire externe en deux à cinq jours ouvrables, biopsie en cinq à sept jours ?
+21. Les visites à domicile : par les sept cliniques sauf Fribourg Ouest, euthanasie à domicile comprise ? La pose de puce se fait-elle aussi au Lac-de-Joux ? L'ostéopathie se pratique-t-elle à Fribourg Ouest, à 140 CHF ?
+22. Les délais de résultat : prise de sang sur place en 20 à 30 minutes ? Pour le laboratoire externe, les pages disent deux à cinq jours ouvrables, cinq à sept jours ou une à deux semaines : quel délai ? Biopsie en cinq à sept jours ?
 
 ### Payerne
 
 23. L'équipe : qui parle allemand (le site dit Claire-Lise Tinguely et Jessy Dizerens), qui parle anglais ? Le parcours de Tiago Capelo ? Annie Pasquier est-elle arrivée à l'été 2025 ?
 24. L'accès : places de parc gratuites, sortie A1 à cinq minutes, gare à vingt minutes à pied, tout au rez-de-chaussée ?
-25. L'organisation : opérations le matin du lundi au vendredi, animal déposé à 8 h et repris entre 16 h et 18 h (19 h le mardi) ; rendez-vous sous deux à trois jours ouvrables ; vaccins contre la leishmaniose et la piroplasmose sur demande ; supplément d'urgence de 99 CHF pendant les heures d'ouverture ?
+25. L'organisation : opérations le matin du lundi au vendredi, animal déposé à 8 h, ou dès 7 h 30 comme le disent les pages communes de stérilisation et de soins dentaires, et repris entre 16 h et 18 h (19 h le mardi) ; rendez-vous sous deux à trois jours ouvrables ; vaccins contre la leishmaniose et la piroplasmose sur demande ; supplément d'urgence de 99 CHF pendant les heures d'ouverture ?
 
 ### Les sept autres cliniques
 
@@ -101,3 +101,5 @@ Quand toutes les questions ont une réponse ou que la personne dit qu'elle n'en 
     - La Chaux-de-Fonds : le titre suisse de Lorena Geronazzo ; les furets reçus ?
     - Fribourg Ouest : Léo Munné porte-t-il le titre de docteur ?
     - Saint-Blaise, Saint-Légier, Lac-de-Joux : la position de la clinique sur la carte est-elle juste ?
+    - Domdidier et Saint-Légier ont-elles un WhatsApp (079 388 16 44 pour Saint-Légier), à ajouter à leur fiche ?
+    - Les liens de rendez-vous : celui du Lac-de-Joux (calendly.com/vetmint/vetmint) est-il propre à la clinique ? Celui de Payerne propose 45 minutes, la consultation en dure 30.

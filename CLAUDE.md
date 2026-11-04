@@ -12,13 +12,13 @@ Tu aides une personne à faire évoluer son site. Elle n'est pas développeuse.
 Le site vetmint.ch, en français et en allemand : les pages communes du groupe et les pages de chaque clinique, sous `vetmint.ch/<clinique>/`.
 
 - `src/content/pages/fr/` et `src/content/pages/de/` : les textes, une page par fichier, dans chaque langue. `fr/payerne/equipe.md` est la page `/payerne/equipe/` ; `de/payerne/equipe.md` est sa traduction.
-- `src/donnees/cliniques/` : la fiche de chaque clinique. Horaires, fermetures, annonce, équipe, téléphone, rendez-vous.
+- `src/donnees/cliniques/` : la fiche de chaque clinique. Horaires, fermetures, annonce, équipe, services, téléphone, rendez-vous.
 - `src/i18n/fr.ts` et `src/i18n/de.ts` : les petits textes des menus et des boutons.
 - `src/assets/images/` : les photos et leur catalogue.
 - `src/composants/` : les blocs du site. La page `/styleguide/` les montre tous.
-- `docs/` : les règles du site. `docs/plan-des-pages.md` dit quelle page vit où.
+- `docs/` : les règles du site. `docs/plan-des-pages.md` dit quelle page vit où. `docs/structure-des-pages.md` dit ce que contient chaque type de page, dans quel ordre et à quelle longueur. `docs/verifications.md` dit ce que le site vérifie tout seul.
 
-Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils servent à publier le site. `.github/` et `.claude/` te sont fermés.
+Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils servent à publier le site. `.github/` et `.claude/` te sont fermés, à une exception près : la skill `confirmer-les-faits-du-site` se retire elle-même une fois ses questions posées.
 
 ## Au début de chaque conversation
 
@@ -27,6 +27,11 @@ Avant de répondre au premier message, quel qu'il soit, prépare l'espace de tra
 1. Vérifie l'ordinateur, sans rien installer : `node --version`, `pnpm --version`, `gh auth status` et `git config user.email`. Si l'une échoue, ou répond vide, suis la skill `preparer-l-ordinateur`, puis reprends ici.
 2. Ouvre la prévisualisation (geste 1).
 3. Réponds ensuite à son message.
+
+## Deux niveaux de règles
+
+- **Ce que le site refuse.** Une page sans traduction, une adresse en double, un lien cassé, un title trop long, du HTML dans un texte, un bloc absent du styleguide, une couleur écrite en dur : `pnpm verifier` s'arrête et nomme le fichier et la règle. La liste est dans `docs/verifications.md`.
+- **Tout le reste est une convention**, écrite dans `docs/` : l'ordre des sections d'une page, le choix d'un bloc existant, le sens d'une couleur, la voix des textes. Tu la suis. Quand la personne demande quelque chose qui s'en écarte, une section en moins sur une page, un bloc nouveau là où un bloc existe, une couleur qui ne porte pas de sens, dis-le-lui avant de modifier, en deux phrases : ce que la convention prévoit, et ce que sa demande change pour l'homogénéité du site. Puis fais ce qu'elle décide.
 
 ## Les gestes
 
@@ -50,10 +55,14 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 
 - **Un horaire, une fermeture, une annonce en haut des pages d'une clinique** : la fiche de la clinique, `src/donnees/cliniques/<clinique>.json` (`docs/fiche-clinique.md`, « Les gestes courants »). Toutes les pages de la clinique suivent.
 - **Un texte d'une page** : son fichier dans `src/content/pages/fr/`, puis le même dans `src/content/pages/de/`. Suis la skill `rediger-une-page`.
-- **Une nouvelle page** : un nouveau fichier dans chaque langue, au chemin que donne `docs/plan-des-pages.md`. Suis la skill `rediger-une-page`.
+- **Une nouvelle page** : un nouveau fichier dans chaque langue, au chemin que donne `docs/plan-des-pages.md`, avec les sections que donne `docs/structure-des-pages.md`. Suis la skill `rediger-une-page`.
+- **Un prix, un numéro ou un fait qui apparaît sur plusieurs pages** : cherche chaque endroit dans les deux langues, `grep -rn "<valeur>" src/content/pages src/donnees`, et corrige partout. Un horaire ou un numéro de garde se change dans la fiche, jamais dans les pages.
 - **Un texte d'un menu ou d'un bouton** : `src/i18n/fr.ts` et la même clé dans `src/i18n/de.ts`.
+- **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
+- **Une personne qui arrive ou qui part** : la fiche de la clinique et sa photo (`docs/fiche-clinique.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
+- **Un service en plus ou en moins dans une clinique** : la liste `services` de la fiche (`docs/fiche-clinique.md`, « Les gestes courants »), puis sa page de service dans les deux langues, créée ou supprimée, avec la skill `rediger-une-page`.
 - **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
-- **La mise en page ou un bloc** : regarde d'abord `/styleguide/`. Utilise un bloc qui existe ; s'il faut en créer un, ajoute-le au styleguide le même jour (`docs/charte-graphique.md`).
+- **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 
 Après chaque modification, montre à la personne la page en français, puis en allemand, dans le navigateur à côté de la conversation. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
 
@@ -96,6 +105,10 @@ Quand la personne veut retrouver le site d'avant une modification.
 4. Montre-lui le résultat en local (geste 1), puis publie (geste 3).
 
 L'historique ne se réécrit jamais : ni `git reset` sur une modification déjà publiée, ni poussée forcée.
+
+### De temps en temps : relire tout le site
+
+Quand la personne demande une relecture complète ou un nettoyage, suis la skill `auditer-le-site`. Jamais à chaque modification : la vérification de chaque publication suffit.
 
 ## Les règles
 

@@ -5,7 +5,7 @@ description: "À suivre pour écrire et publier les pages d'une clinique Vetmint
 
 # Mettre une clinique en ligne
 
-Les règles sont dans `docs/plan-des-pages.md` (les pages d'une clinique), `docs/fiche-clinique.md` (la fiche) et `docs/traduction.md`. Payerne est le modèle : ses pages sont dans `src/content/pages/fr/payerne/` et `src/content/pages/de/payerne/`, sa fiche dans `src/donnees/cliniques/payerne.json`.
+Les règles sont dans `docs/plan-des-pages.md` (les pages d'une clinique), `docs/structure-des-pages.md` (ce que contient chacune), `docs/fiche-clinique.md` (la fiche) et `docs/traduction.md`. Payerne est le modèle : ses pages sont dans `src/content/pages/fr/payerne/` et `src/content/pages/de/payerne/`, sa fiche dans `src/donnees/cliniques/payerne.json`.
 
 ## 1. Compléter la fiche
 
@@ -15,8 +15,7 @@ Les règles sont dans `docs/plan-des-pages.md` (les pages d'une clinique), `docs
 
 ## 2. Ajouter les photos
 
-1. Copie les photos dans `src/assets/images/`, nommées `<clinique>-<sujet>.jpg`.
-2. Ajoute une entrée par photo dans `src/assets/images/catalogue.json` : `sujet` (`<clinique>:accueil`, `<clinique>:locaux`, `<clinique>:equipe:<Nom Prénom>`), `alt` en français et en allemand, `point_focal`.
+Copie les photos dans `src/assets/images/` et ajoute chacune au catalogue, comme le dit « Le catalogue des photos » de `docs/charte-graphique.md`. Une clinique a besoin d'une photo d'accueil, de photos de ses locaux et du portrait de chaque personne de l'équipe ; une personne sans portrait reste dans l'équipe.
 
 ## 3. Écrire les pages en français
 
