@@ -132,23 +132,23 @@ In Fribourg Ouest. Die erste Konsultation verschafft einen Überblick über Käf
 
 ### Fribourg Ouest, in Givisiez
 
-Dies ist die Praxis der Gruppe, die alle Heimtiere empfängt. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. Die Einzelheiten finden Sie auf der Seite [Heimtiere in Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). [Leistungen](/de/fribourg/#services) · [Termin](/de/fribourg/termin/)
+Dies ist die Praxis der Gruppe, die alle Heimtiere empfängt. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. Die Einzelheiten finden Sie auf der Seite [Heimtiere in Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
 
 ### Kaninchen und Nager, einschliesslich Operationen an kleinen Nagern
 
-- La Chaux-de-Fonds: [Leistungen](/de/chauxdefonds/#services), [Termin](/de/chauxdefonds/termin/)
-- Domdidier: [Leistungen](/de/domdidier/#services), [Termin](/de/domdidier/termin/)
-- Payerne: [Leistungen](/de/payerne/#services), [Termin](/de/payerne/termin/)
-- Saint-Blaise: [Leistungen](/de/saintblaise/#services), [Termin](/de/saintblaise/termin/)
+- La Chaux-de-Fonds: [Leistungen](/de/chauxdefonds/leistungen/), [Termin](/de/chauxdefonds/termin/)
+- Domdidier: [Leistungen](/de/domdidier/leistungen/), [Termin](/de/domdidier/termin/)
+- Payerne: [Leistungen](/de/payerne/leistungen/), [Termin](/de/payerne/termin/)
+- Saint-Blaise: [Leistungen](/de/saintblaise/leistungen/), [Termin](/de/saintblaise/termin/)
 
 ### Kaninchen und Nager, ohne Operationen an Hamstern und Wüstenrennmäusen
 
-- Lac-de-Joux, in L'Abbaye: [Leistungen](/de/lacdejoux/#services), [Termin](/de/lacdejoux/termin/)
+- Lac-de-Joux, in L'Abbaye: [Leistungen](/de/lacdejoux/leistungen/), [Termin](/de/lacdejoux/termin/)
 
 ### Kaninchen und Nager, nur Operationen am Kaninchen
 
-- Bussigny: [Leistungen](/de/bussigny/#services), [Termin](/de/bussigny/termin/)
-- Saint-Légier: [Leistungen](/de/saintlegier/#services), [Termin](/de/saintlegier/termin/)
+- Bussigny: [Leistungen](/de/bussigny/leistungen/), [Termin](/de/bussigny/termin/)
+- Saint-Légier: [Leistungen](/de/saintlegier/leistungen/), [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

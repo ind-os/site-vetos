@@ -134,14 +134,14 @@ Souvent oui, avec une sédation courte : la tête doit rester parfaitement droi
 
 Les huit cliniques Vetmint ont une radiographie numérique et prennent les clichés officiels de dysplasie.
 
-- [Bussigny](/bussigny/#services) : pack de cinq radiographies dans l'abonnement Senior. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : radiographies dentaires des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : clichés officiels des hanches et des coudes. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : radiographie numérique, salle d'opération équipée pour la chirurgie des os. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : radiographie numérique à côté de l'échographe et du laboratoire. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : salle de radiologie dans la zone de soins, reliée à la salle de préparation. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : clichés officiels des hanches et des coudes. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : salle de radiologie numérique, dans la même aile que le laboratoire et la salle d'hospitalisation. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : pack de cinq radiographies dans l'abonnement Senior. [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : radiographies dentaires des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : clichés officiels des hanches et des coudes. [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : radiographie numérique, salle d'opération équipée pour la chirurgie des os. [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : radiographie numérique à côté de l'échographe et du laboratoire. [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : salle de radiologie dans la zone de soins, reliée à la salle de préparation. [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : clichés officiels des hanches et des coudes. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : salle de radiologie numérique, dans la même aile que le laboratoire et la salle d'hospitalisation. [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

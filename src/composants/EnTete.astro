@@ -1,10 +1,12 @@
 ---
-// L'en-tête du site, sur fond blanc : le logo (avec le lieu sur les pages d'une clinique), la
-// navigation, le lien d'urgence, le bouton de rendez-vous et le lien vers l'autre langue. Sur
-// smartphone, un bouton ouvre le menu ; sans JavaScript, la navigation reste affichée.
+// L'en-tête du site, sur fond blanc : le logo (accueil du site) et, sur les pages d'une
+// clinique, le nom du lieu (accueil de la clinique). Puis la navigation, le lien d'urgence,
+// le bouton de rendez-vous et le lien vers l'autre langue. Sur smartphone, un bouton ouvre
+// le menu ; sans JavaScript, la navigation reste affichée.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import type { Clinique } from '../lib/cliniques.ts';
+import { adresse } from '../lib/pages.ts';
 import Bouton from './Bouton.astro';
 import BoutonRendezVous from './BoutonRendezVous.astro';
 import CroixSuisse from './CroixSuisse.astro';
@@ -17,7 +19,7 @@ interface Lien {
 
 interface Props {
   langue: Langue;
-  /** L'adresse de l'accueil, cible du logo : celui du site ou celui de la clinique. */
+  /** L'accueil de la section : le site, ou la clinique. Le nom du lieu y mène. */
   accueil: string;
   /** Le nom du lieu à côté du logo, sur les pages d'une clinique. */
   lieu?: string;
@@ -34,13 +36,14 @@ interface Props {
 
 const { langue, accueil, lieu, liens, urgence, clinique, rendezVous, autreLangue } = Astro.props;
 const t = textes(langue);
+const accueilDuSite = await adresse(langue, 'index');
 const courant = Astro.url.pathname;
 const estCourant = (href: string) => href !== accueil && (courant === href || courant.startsWith(href));
 ---
 
 <header class="entete" data-entete>
   <div class="conteneur entete__barre">
-    <Logo alt={t.site.logo} lieu={lieu} href={accueil} />
+    <Logo alt={t.site.logo} lieu={lieu} href={accueilDuSite} hrefLieu={lieu ? accueil : undefined} libelleLieu={lieu ? t.site.accueilDuLieu(lieu) : undefined} />
 
     <div class="entete__mobile">
       {urgence && <a class="entete__urgence-mobile" href={urgence.href} aria-label={urgence.libelle}><CroixSuisse taille="26px" /></a>}

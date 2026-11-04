@@ -147,14 +147,14 @@ Ne tirez jamais sur un fil qui dépasse de la bouche ou de l'anus : vous pourri
 
 Les huit cliniques pratiquent la chirurgie des tissus mous, la césarienne et le retrait de corps étrangers, avec une salle d'opération et une hospitalisation sur place.
 
-- [Bussigny](/bussigny/#services) : chirurgie des tissus mous, avec le laser pour la cicatrisation après l'opération. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : chirurgie des tissus mous, opérations des lapins et de nombreux rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : un anesthésiste externe vient à la clinique pour les opérations importantes qui demandent une anesthésie complexe. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : une vétérinaire spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. Les boxes d'hospitalisation sont séparés par espèce ; un vétérinaire suit les animaux hospitalisés les soirs et les week-ends. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : une salle de préparation reliée à la salle de chirurgie et à la salle de radiographie. [Rendez-vous à Payerne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : chirurgie des tissus mous et opérations des rongeurs, du cochon d'Inde au hamster. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : chirurgie des tissus mous, avec l'échographie sur place et le laser pour la cicatrisation. Rendez-vous par téléphone au [021 683 10 10](tel:+41216831010).
+- [Bussigny](/bussigny/services/) : chirurgie des tissus mous, avec le laser pour la cicatrisation après l'opération. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : chirurgie des tissus mous, opérations des lapins et de nombreux rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : un anesthésiste externe vient à la clinique pour les opérations importantes qui demandent une anesthésie complexe. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. Les boxes d'hospitalisation sont séparés par espèce ; un vétérinaire suit les animaux hospitalisés les soirs et les week-ends. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la salle de radiographie. [Rendez-vous à Payerne](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : chirurgie des tissus mous et opérations des rongeurs, du cochon d'Inde au hamster. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : chirurgie des tissus mous, avec l'échographie sur place et le laser pour la cicatrisation. Rendez-vous par téléphone au [021 683 10 10](tel:+41216831010).
 
 ## Prendre rendez-vous
 

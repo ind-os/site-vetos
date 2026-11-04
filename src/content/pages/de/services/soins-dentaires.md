@@ -146,14 +146,14 @@ Das ist eine Fehlstellung: Die Zähne nutzen sich nicht mehr ab und verletzen di
 
 Die acht Praxen Vetmint führen die Zahnsteinentfernung mit Ultraschall, das Polieren, Zahnröntgenbilder und Extraktionen durch.
 
-- [Bussigny](/de/bussigny/#services): Der Laser ergänzt die Behandlung des entzündeten Zahnfleischs der Katze. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Pauschale für die Extraktion aller Zähne, Laser für das Zahnfleisch. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Ein Zahnarzt, der in Freiburg bei Menschen arbeitet, unterstützt das Team bei komplexen Eingriffen. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: Zahnbehandlung bei Kaninchen, Nagern, Frettchen und gewissen Echsen, mit Kürzen und Zahnröntgen. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: Pauschale für die Extraktion aller Zähne. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): Zahnsteinentfernung in der Behandlungszone, die den Vorbereitungsraum, den Operationssaal und den Röntgenraum vereint. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Pauschale für die Extraktion aller Zähne, Laser für das Zahnfleisch. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Laser für das Zahnfleisch der Katze. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): Der Laser ergänzt die Behandlung des entzündeten Zahnfleischs der Katze. [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Pauschale für die Extraktion aller Zähne, Laser für das Zahnfleisch. [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Ein Zahnarzt, der in Freiburg bei Menschen arbeitet, unterstützt das Team bei komplexen Eingriffen. [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Zahnbehandlung bei Kaninchen, Nagern, Frettchen und gewissen Echsen, mit Kürzen und Zahnröntgen. [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Pauschale für die Extraktion aller Zähne. [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): Zahnsteinentfernung in der Behandlungszone, die den Vorbereitungsraum, den Operationssaal und den Röntgenraum vereint. [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Pauschale für die Extraktion aller Zähne, Laser für das Zahnfleisch. [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Laser für das Zahnfleisch der Katze. [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

@@ -55,7 +55,7 @@ Certains samedis, la clinique ouvre de 8 h 30 à 15 h. Les samedis d'ouvertur
 - Un vétérinaire se déplace pour les [soins à domicile](/services/soins-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
 - Le [toilettage](/services/toilettage/) se fait à la clinique, par une assistante en médecine vétérinaire diplômée toiletteuse ; un vétérinaire donne un calmant à l'animal qui ne supporte pas d'être manipulé.
 
-Les [NAC](/services/nac/) (lapins, cochons d'Inde, rats, chinchillas, gerbilles, dègues) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération.
+Les [NAC](/services/nac/) (lapins, cochons d'Inde, rats, chinchillas, gerbilles, dègues) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué à la clinique.
 
 ## L'équipe
 

@@ -149,14 +149,14 @@ Chaque clinique Vetmint a son laboratoire pour le sang, l'urine, les selles et l
 
 | Clinique | Particularité | Rendez-vous |
 |---|---|---|
-| [Bussigny](/bussigny/#services) | test sanguin et analyse d'urine compris dans les abonnements | [prendre rendez-vous](/bussigny/rendez-vous/) |
-| [La Chaux-de-Fonds](/chauxdefonds/#services) | analyses de sang, d'urine et de selles sur place | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
-| [Domdidier](/domdidier/#services) | examen de la peau au microscope, cultures de champignons | [prendre rendez-vous](/domdidier/rendez-vous/) |
-| [Fribourg Ouest](/fribourg/#services), Givisiez | analyseurs pour chiens, chats, lapins, rongeurs, oiseaux et reptiles ; bilan sanguin à la première consultation d'un perroquet | [prendre rendez-vous](/fribourg/rendez-vous/) |
-| [Lac-de-Joux](/lacdejoux/#services), L'Abbaye | laboratoire d'analyses à la clinique | [prendre rendez-vous](/lacdejoux/rendez-vous/) |
-| [Payerne](/payerne/#services) | le laboratoire transmet les résultats directement à l'ordinateur de la clinique | [prendre rendez-vous](/payerne/rendez-vous/) |
-| [Saint-Blaise](/saintblaise/#services) | cytologie des ponctions à l'aiguille fine, analyses de selles | [prendre rendez-vous](/saintblaise/rendez-vous/) |
-| [Saint-Légier](/saintlegier/#services) | test sanguin compris dans les abonnements adultes | [prendre rendez-vous](/saintlegier/rendez-vous/) |
+| [Bussigny](/bussigny/services/) | test sanguin et analyse d'urine compris dans les abonnements | [prendre rendez-vous](/bussigny/rendez-vous/) |
+| [La Chaux-de-Fonds](/chauxdefonds/services/) | analyses de sang, d'urine et de selles sur place | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
+| [Domdidier](/domdidier/services/) | examen de la peau au microscope, cultures de champignons | [prendre rendez-vous](/domdidier/rendez-vous/) |
+| [Fribourg Ouest](/fribourg/services/), Givisiez | analyseurs pour chiens, chats, lapins, rongeurs, oiseaux et reptiles ; bilan sanguin à la première consultation d'un perroquet | [prendre rendez-vous](/fribourg/rendez-vous/) |
+| [Lac-de-Joux](/lacdejoux/services/), L'Abbaye | laboratoire d'analyses à la clinique | [prendre rendez-vous](/lacdejoux/rendez-vous/) |
+| [Payerne](/payerne/services/) | le laboratoire transmet les résultats directement à l'ordinateur de la clinique | [prendre rendez-vous](/payerne/rendez-vous/) |
+| [Saint-Blaise](/saintblaise/services/) | cytologie des ponctions à l'aiguille fine, analyses de selles | [prendre rendez-vous](/saintblaise/rendez-vous/) |
+| [Saint-Légier](/saintlegier/services/) | test sanguin compris dans les abonnements adultes | [prendre rendez-vous](/saintlegier/rendez-vous/) |
 
 ## Prendre rendez-vous
 

@@ -4,8 +4,7 @@
 import { contexteDe } from '../lib/contexte.ts';
 import { lesCliniques } from '../lib/cliniques.ts';
 import type { Page } from '../lib/pages.ts';
-import CarteClinique from '../composants/CarteClinique.astro';
-import CarteDesCliniques from '../composants/CarteDesCliniques.astro';
+import ReseauDesCliniques from '../composants/ReseauDesCliniques.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
@@ -19,19 +18,6 @@ const cliniques = await lesCliniques();
 ---
 
 <PageInterieure contexte={contexte} cote={false}>
-  <div class="reseau" id="rendez-vous">
-    <CarteDesCliniques cliniques={cliniques} langue={langue} />
-    <div class="reseau__cartes">
-      {cliniques.map((c) => <CarteClinique clinique={c} langue={langue} niveau={2} />)}
-    </div>
-  </div>
+  <ReseauDesCliniques cliniques={cliniques} langue={langue} niveau={2} id="rendez-vous" />
   <Prose html={html} chapeau />
 </PageInterieure>
-
-<style>
-  .reseau { display: grid; gap: var(--espace-6); scroll-margin-top: var(--espace-5); }
-  .reseau__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
-  @media (min-width: 72rem) {
-    .reseau { grid-template-columns: 24rem minmax(0, 1fr); align-items: start; }
-  }
-</style>

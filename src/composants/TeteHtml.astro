@@ -3,6 +3,8 @@
 // et balisage schema.org.
 import type { ImageMetadata } from 'astro';
 import { getImage } from 'astro:assets';
+import policeTexte from '@fontsource-variable/nunito-sans/files/nunito-sans-latin-wght-normal.woff2';
+import policeTitre from '@fontsource-variable/nunito/files/nunito-latin-wght-normal.woff2';
 import { ADRESSE_DU_SITE, CODES_DE_LANGUE, INDEXATION, type Langue } from '../config.ts';
 import { enJsonLd } from '../lib/balisage.ts';
 
@@ -25,6 +27,8 @@ const partage = image ? await getImage({ src: image, width: 1200, format: 'jpg' 
 ---
 
 <meta charset="utf-8" />
+<link rel="preload" href={policeTitre} as="font" type="font/woff2" crossorigin />
+<link rel="preload" href={policeTexte} as="font" type="font/woff2" crossorigin />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>{titre}</title>
 <meta name="description" content={description} />

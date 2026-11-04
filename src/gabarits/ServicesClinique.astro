@@ -1,0 +1,58 @@
+---
+// Les services d'une clinique : le texte de la page, puis une carte par soin de la fiche.
+// Chaque carte mène à la page du soin dans la clinique, ou à la page commune s'il n'en a pas.
+import { contexteDe } from '../lib/contexte.ts';
+import { laPage, titreDe, type Page } from '../lib/pages.ts';
+import CarteService from '../composants/CarteService.astro';
+import Prose from '../composants/Prose.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  page: Page;
+}
+
+const contexte = await contexteDe(Astro.props.page);
+const { langue, t, html } = contexte;
+const clinique = contexte.clinique!;
+const services = (
+  await Promise.all(
+    clinique.services.map(async (slug) => {
+      const ici = await laPage(langue, `${clinique.id}/services/${slug}`);
+      const commune = await laPage(langue, `services/${slug}`);
+      const cible = ici ?? commune;
+      if (!cible) return undefined;
+      return {
+        titre: commune?.data.nom ?? ici?.data.nom ?? titreDe(cible),
+        resume: ici?.data.resume ?? commune?.data.resume,
+        href: cible.data.url,
+      };
+    }),
+  )
+).filter((service) => service !== undefined);
+
+const coupe = html.search(/<h2[\s>]/);
+const chapeau = coupe === -1 ? html : html.slice(0, coupe);
+const suite = coupe === -1 ? '' : html.slice(coupe);
+---
+
+<PageInterieure contexte={contexte} surtitre={t.clinique.surtitre(clinique.lieu, clinique.canton)}>
+  <Prose html={chapeau} chapeau />
+  {
+    services.length > 0 && (
+      <section class="liste">
+        <h2>{t.clinique.services}</h2>
+        <div class="grille">
+          {services.map((service) => (
+            <CarteService titre={service.titre} resume={service.resume} href={service.href} lien={t.services.voir} />
+          ))}
+        </div>
+      </section>
+    )
+  }
+  {suite && <Prose html={suite} />}
+</PageInterieure>
+
+<style>
+  .liste { display: grid; gap: var(--espace-4); }
+  .grille { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr)); }
+</style>

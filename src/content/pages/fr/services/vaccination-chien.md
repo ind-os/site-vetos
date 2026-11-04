@@ -148,14 +148,14 @@ Oui. Un chien de douze ans se défend moins bien contre les infections qu'un jeu
 
 Les huit cliniques Vetmint vaccinent les chiens pendant le bilan de santé, sur rendez-vous.
 
-- [Bussigny](/bussigny/#services) : un calendrier en ligne réservé aux rendez-vous de vaccin. [Réserver un vaccin à Bussigny](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : la consultation vaccinale se réserve en ligne. [Réserver un vaccin à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : bilan avec vaccins à 94 francs. [Réserver un vaccin à Domdidier](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : bilan avec vaccins à 89 francs. [Réserver un vaccin à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : le bilan avec vaccins le moins cher du groupe, à 86 francs. [Réserver un vaccin au Lac-de-Joux](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : bilan avec vaccins à 94 francs. [Réserver un vaccin à Payerne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : bilan avec vaccins à 93 francs. [Réserver un vaccin à Saint-Blaise](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : la réservation en ligne sert uniquement aux vaccins ; les autres rendez-vous se prennent au [021 683 10 10](tel:+41216831010). [Réserver un vaccin à Saint-Légier](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : un calendrier en ligne réservé aux rendez-vous de vaccin. [Réserver un vaccin à Bussigny](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation vaccinale se réserve en ligne. [Réserver un vaccin à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : bilan avec vaccins à 94 francs. [Réserver un vaccin à Domdidier](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : bilan avec vaccins à 89 francs. [Réserver un vaccin à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : le bilan avec vaccins le moins cher du groupe, à 86 francs. [Réserver un vaccin au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : bilan avec vaccins à 94 francs. [Réserver un vaccin à Payerne](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : bilan avec vaccins à 93 francs. [Réserver un vaccin à Saint-Blaise](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : la réservation en ligne sert uniquement aux vaccins ; les autres rendez-vous se prennent au [021 683 10 10](tel:+41216831010). [Réserver un vaccin à Saint-Légier](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

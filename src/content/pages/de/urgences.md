@@ -142,7 +142,7 @@ Es wird stationär aufgenommen, bei Bedarf mit Infusion. Tagsüber nehmen die ac
 
 ## Die Notfallversorgung in den Praxen
 
-Während der Öffnungszeiten macht jede Praxis vor Ort die Blutanalysen und Röntgenaufnahmen, die ein Notfall braucht, und operiert oder nimmt das Tier stationär auf. Die Ausstattung jeder Praxis ist auf ihrer Seite Leistungen beschrieben: [Bussigny](/de/bussigny/#services), [La Chaux-de-Fonds](/de/chauxdefonds/#services), [Domdidier](/de/domdidier/#services), [Fribourg Ouest](/de/fribourg/#services), [Lac-de-Joux](/de/lacdejoux/#services), [Payerne](/de/payerne/#services), [Saint-Blaise](/de/saintblaise/#services) und [Saint-Légier](/de/saintlegier/#services).
+Während der Öffnungszeiten macht jede Praxis vor Ort die Blutanalysen und Röntgenaufnahmen, die ein Notfall braucht, und operiert oder nimmt das Tier stationär auf. Die Ausstattung jeder Praxis ist auf ihrer Seite Leistungen beschrieben: [Bussigny](/de/bussigny/leistungen/), [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/), [Domdidier](/de/domdidier/leistungen/), [Fribourg Ouest](/de/fribourg/leistungen/), [Lac-de-Joux](/de/lacdejoux/leistungen/), [Payerne](/de/payerne/leistungen/), [Saint-Blaise](/de/saintblaise/leistungen/) und [Saint-Légier](/de/saintlegier/leistungen/).
 
 Wenn ein Notfall zu einer Operation führt, beschreiben die Seiten [Chirurgie](/de/leistungen/chirurgie/) und [Stationäre Betreuung](/de/leistungen/stationaere-betreuung/) den weiteren Verlauf.
 

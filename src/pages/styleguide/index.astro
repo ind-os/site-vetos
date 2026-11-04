@@ -5,6 +5,7 @@
 import Base from '../../gabarits/Base.astro';
 import Exemple from '../../composants/styleguide/Exemple.astro';
 import Accueil from '../../composants/Accueil.astro';
+import AppelRendezVous from '../../composants/AppelRendezVous.astro';
 import AppelUrgence from '../../composants/AppelUrgence.astro';
 import BandeauAnnonce from '../../composants/BandeauAnnonce.astro';
 import Bouton from '../../composants/Bouton.astro';
@@ -22,6 +23,7 @@ import Pastilles from '../../composants/Pastilles.astro';
 import Photo from '../../composants/Photo.astro';
 import Prose from '../../composants/Prose.astro';
 import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
+import ReseauDesCliniques from '../../composants/ReseauDesCliniques.astro';
 import Section from '../../composants/Section.astro';
 import StatutOuverture from '../../composants/StatutOuverture.astro';
 import TeteDePage from '../../composants/TeteDePage.astro';
@@ -121,11 +123,15 @@ ${htmlDeLaGarde(payerne, langue)}`;
         </div>
       </Exemple>
 
-      <Exemple titre="Bouton de rendez-vous" description="Ouvre le module de réservation de la clinique (Calendly, ou VetLink à Saint-Légier). Le module ne se charge qu’au clic : la page reste rapide. Sans JavaScript, le lien ouvre l’agenda dans un onglet." fichier="composants/BoutonRendezVous.astro" code={`<BoutonRendezVous clinique={clinique} langue={langue} />`}>
+      <Exemple titre="Bouton de rendez-vous" description="Ouvre l’agenda de la clinique dans un panneau à droite (Calendly), ou dans un onglet (VetLink). L’agenda se prépare après l’affichage de la page. Sans JavaScript, le lien ouvre un onglet." fichier="composants/BoutonRendezVous.astro" code={`<BoutonRendezVous clinique={clinique} langue={langue} />`}>
         <div class="rangee">
           <BoutonRendezVous clinique={payerne} langue={langue} />
           <BoutonRendezVous clinique={payerne} langue={langue} variante="secondaire" taille="petit" />
         </div>
+      </Exemple>
+
+      <Exemple titre="Rendez-vous à côté du texte" description="Sur les pages longues qui ne sont pas celles d’une clinique (un service, un conseil). La carte reste visible pendant la lecture. Le bouton mène au choix de la clinique." fichier="composants/AppelRendezVous.astro" code={`<AppelRendezVous langue={langue} />`}>
+        <div class="etroit"><AppelRendezVous langue={langue} /></div>
       </Exemple>
     </section>
 
@@ -194,7 +200,7 @@ ${htmlDeLaGarde(payerne, langue)}`;
         </div>
       </Exemple>
 
-      <Exemple titre="Carte d’une personne" description="Une personne de l’équipe : son portrait s’il existe, sinon ses initiales ; sa fonction, ses domaines, ses langues." fichier="composants/CarteMembre.astro" code={`<CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />`} fond="gris">
+      <Exemple titre="Carte d’une personne" description="Une personne de l’équipe. Sans photo, un cadre clair avec ses initiales garde la même place que le portrait." fichier="composants/CarteMembre.astro" code={`<CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />`} fond="gris">
         <div class="trois">
           <CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" langues="Langues : français et allemand" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />
           <CarteMembre nom="Tiago Capelo" fonction="Vétérinaire" domaines="consultations et chirurgie" />
@@ -203,6 +209,10 @@ ${htmlDeLaGarde(payerne, langue)}`;
 
       <Exemple titre="Carte des cliniques" description="La Suisse romande en SVG, sans bibliothèque de carte. Chaque point mène à la clinique ; la clinique de la page est en menthe." fichier="composants/CarteDesCliniques.astro" code={`<CarteDesCliniques cliniques={cliniques} langue={langue} actuelle="payerne" />`}>
         <div class="etroit"><CarteDesCliniques cliniques={cliniques} langue={langue} actuelle="payerne" /></div>
+      </Exemple>
+
+      <Exemple titre="Carte et cliniques" description="La carte à côté des cliniques, sur l’accueil et la page des cliniques. Sur un grand écran, elle reste visible le long de la liste. Passer sur une clinique allume son point, et passer sur un point allume sa clinique. Seule la couleur change." fichier="composants/ReseauDesCliniques.astro" code={`<ReseauDesCliniques cliniques={cliniques} langue={langue} />`}>
+        <ReseauDesCliniques cliniques={cliniques} langue={langue} />
       </Exemple>
     </section>
 

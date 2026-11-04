@@ -1,8 +1,9 @@
 ---
-// Un conseil santé : sa photo, son texte, puis trois conseils de la même espèce.
+// Un conseil santé : sa photo, son texte, le rendez-vous à côté, puis trois conseils de la même espèce.
 import { contexteDe } from '../lib/contexte.ts';
 import { photo, premierePhoto } from '../lib/images.ts';
 import { lesPages, minutesDeLecture, slugDe, titreDe, type Page } from '../lib/pages.ts';
+import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import CarteConseil from '../composants/CarteConseil.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
@@ -18,8 +19,9 @@ const espece = page.data.especes?.[0];
 const lies = (await lesPages(langue, 'conseil')).filter((c) => c.id !== page.id && (!espece || c.data.especes?.includes(espece))).slice(0, 3);
 ---
 
-<PageInterieure contexte={contexte} photo={photo(`conseil:${slug}`, langue)} surtitre={t.conseils.minutes(minutesDeLecture(page))} cote={false}>
+<PageInterieure contexte={contexte} photo={photo(`conseil:${slug}`, langue)} surtitre={t.conseils.minutes(minutesDeLecture(page))}>
   <Prose html={html} chapeau />
+  <AppelRendezVous slot="cote" langue={langue} />
   {
     lies.length > 0 && (
       <section class="lies" aria-labelledby="a-lire-aussi">

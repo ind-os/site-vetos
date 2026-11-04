@@ -117,9 +117,9 @@ Cela dépend du contrat. Certaines assurances pour animaux couvrent les médecin
 
 ## Les cliniques qui pratiquent l'ostéopathie
 
-**[Domdidier](/domdidier/#services)**, dans la Broye fribourgeoise, reçoit chiens et chats en ostéopathie. La clinique détaille cette consultation sur sa page [l'ostéopathie à Domdidier](/domdidier/services/osteopathie/). [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+**[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise, reçoit chiens et chats en ostéopathie. La clinique détaille cette consultation sur sa page [l'ostéopathie à Domdidier](/domdidier/services/osteopathie/). [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
 
-**[Fribourg Ouest](/fribourg/#services)**, à Givisiez, propose l'ostéopathie avec une spécialiste en ostéopathie animale. L'ostéopathie fait aussi partie de la [consultation douleur](/fribourg/services/gestion-de-la-douleur/) de la clinique, pour les animaux qui souffrent depuis longtemps. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+**[Fribourg Ouest](/fribourg/services/)**, à Givisiez, propose l'ostéopathie avec une spécialiste en ostéopathie animale. L'ostéopathie fait aussi partie de la [consultation douleur](/fribourg/services/gestion-de-la-douleur/) de la clinique, pour les animaux qui souffrent depuis longtemps. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 
 ## Prendre rendez-vous
 

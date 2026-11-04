@@ -134,14 +134,14 @@ Oft ja, mit einer kurzen Sedation: Der Kopf muss vollkommen gerade bleiben. Es f
 
 Die acht Praxen von Vetmint röntgen digital und machen die offiziellen Dysplasie-Aufnahmen.
 
-- [Bussigny](/de/bussigny/#services): Paket mit fünf Röntgenbildern im Senior-Abonnement. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Zahnröntgenbilder bei Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: digitales Röntgen, Operationssaal für die Knochenchirurgie ausgestattet. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: digitales Röntgen neben dem Ultraschallgerät und dem Labor. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): Röntgenraum im Behandlungsbereich, mit dem Vorbereitungsraum verbunden. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): digitaler Röntgenraum, im selben Flügel wie das Labor und der Raum für die stationäre Betreuung. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): Paket mit fünf Röntgenbildern im Senior-Abonnement. [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Zahnröntgenbilder bei Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: digitales Röntgen, Operationssaal für die Knochenchirurgie ausgestattet. [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: digitales Röntgen neben dem Ultraschallgerät und dem Labor. [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): Röntgenraum im Behandlungsbereich, mit dem Vorbereitungsraum verbunden. [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): digitaler Röntgenraum, im selben Flügel wie das Labor und der Raum für die stationäre Betreuung. [Termin](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

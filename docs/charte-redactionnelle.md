@@ -368,6 +368,7 @@ Les pages d'une clinique, sous `/<clinique>/` :
 | Page | Adresse | Type | Plan |
 |---|---|---|---|
 | Accueil de la clinique | `/<clinique>/` | `accueil-clinique` | 3.1 |
+| Services de la clinique | `/<clinique>/services/` | `services-clinique` | |
 | Équipe | `/<clinique>/equipe/` | `equipe` | 3.2 |
 | Un service dans la clinique | `/<clinique>/services/<service>/` | `service-clinique` | 3.3 |
 | Urgences et garde | `/<clinique>/urgences/` | `urgences` | 3.4 |
@@ -377,7 +378,7 @@ Les pages d'une clinique, sous `/<clinique>/` :
 | Tarifs de la clinique | `/<clinique>/tarifs/` | `tarifs` | 3.9 |
 | Plan de prévention et abonnements de la clinique | `/<clinique>/abonnements/` | `abonnements` | 3.10 |
 
-Une clinique a une page de service pour chaque service du champ `services` de sa fiche, et une page Urgences si sa fiche dit `"urgences": true`. Son accueil liste ses soins à l'ancre `/<clinique>/#services`.
+Une clinique a une page Services (`/<clinique>/services/`), une page pour chaque service du champ `services` de sa fiche, et une page Urgences si sa fiche dit `"urgences": true`.
 
 Les pages communes :
 
@@ -395,7 +396,7 @@ Les pages communes :
 | Emploi | `/emploi/` | `simple` | 3.14 |
 | À propos, lettre d'information, pages légales | `/a-propos/`, `/newsletter/`, `/confidentialite/`, `/mentions-legales/` | `simple` | |
 
-Les pages sans plan type suivent les sections 1, 2 et 4. Leur volume : 250 à 600 mots pour `service-index`, 800 à 2 000 pour `urgences-groupe`, 200 à 500 pour `conseil-index`, 150 à 500 pour `conseil-categorie`, 200 à 1 800 pour `simple`.
+Les pages sans plan type suivent les sections 1, 2 et 4. Leur volume : 70 à 400 mots pour `services-clinique`, 250 à 600 pour `service-index`, 800 à 2 000 pour `urgences-groupe`, 200 à 500 pour `conseil-index`, 150 à 500 pour `conseil-categorie`, 200 à 1 800 pour `simple`.
 
 Les services, d'après le plan des pages : une page d'ensemble (`/services/`) et 18 pages : consultation, vaccination-chien, vaccination-chat, sterilisation-castration, chirurgie, soins-dentaires, analyses-diagnostic, radiographie, echographie, hospitalisation, laser, osteopathie, puce-electronique, toilettage, nac, gestion-de-la-douleur, soins-a-domicile, conseils-aux-eleveurs.
 
@@ -413,7 +414,7 @@ Sections, dans l'ordre :
 
 1. **Chapeau** (3 phrases) : la clinique, la ville, les animaux reçus, le temps de consultation. F§1, F§6.
 2. **Rendez-vous et horaires** : téléphone, lien vers `/<clinique>/rendez-vous/`, bloc horaires. F§1, F§2, B.
-3. **Les soins sur place** : six à dix services en une phrase chacun (qui, quel jour si utile). Chaque service pratiqué renvoie à sa page dans la clinique (`/<clinique>/services/<service>/`) ; un service sans page dans la clinique renvoie à sa page commune (`/services/<service>/`). Le gabarit ajoute la liste des soins de la fiche, à l'ancre `#services`. F§5, B.
+3. **Les soins sur place** : six à dix services en une phrase chacun (qui, quel jour si utile). Chaque service pratiqué renvoie à sa page dans la clinique (`/<clinique>/services/<service>/`) ; un service sans page dans la clinique renvoie à sa page commune (`/services/<service>/`). La liste complète est sur `/<clinique>/services/`. F§5, B.
 4. **L'équipe** : noms, fonctions, langues parlées, lien vers `/<clinique>/equipe/`. F§4.
 5. **Les locaux et l'accès** : repère, parking, transports, étage, accès en fauteuil roulant, lien vers `/<clinique>/contact/`. F§7.
 6. **En cas d'urgence** : pendant et en dehors des heures d'ouverture, numéro de garde et son tarif, lien vers `/<clinique>/urgences/`. F§3, B.
@@ -577,7 +578,7 @@ Sections, dans l'ordre :
 6. **Les suites** : ce qui est normal, ce qui doit faire rappeler, le contrôle. R.
 7. **Le prix** : ce qui est compris, la fourchette quand les cliniques diffèrent, le plan de prévention ou l'abonnement quand ils couvrent le soin, lien vers `/tarifs/`. T, C.
 8. **Questions fréquentes** : quatre à huit questions en H3, formulées comme au comptoir. C, R.
-9. **Les cliniques qui le pratiquent** : la liste des cliniques, chacune avec un lien vers ses soins (`/<clinique>/#services`) et vers son rendez-vous (`/<clinique>/rendez-vous/`), et le cas échéant la particularité locale (jour, vétérinaire, équipement). F§5 de chaque clinique.
+9. **Les cliniques qui le pratiquent** : la liste des cliniques, chacune avec un lien vers ses soins (`/<clinique>/services/`) et vers son rendez-vous (`/<clinique>/rendez-vous/`), et le cas échéant la particularité locale (jour, vétérinaire, équipement). F§5 de chaque clinique.
 10. **Prendre rendez-vous** : le bouton et les téléphones des cliniques ou le lien vers `/cliniques/`.
 11. **Signature** : « Rédigé par {auteur}. Relu par {vétérinaire}, le {date}. »
 

@@ -124,14 +124,14 @@ Oui pour l'essentiel : le vétérinaire voit les organes en direct et vous expl
 
 ## Les cliniques qui font l'échographie
 
-- [Bussigny](/bussigny/#services) : échographie du ventre, de gestation et du cœur. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : échographie de gestation à 50 francs. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans la même clinique. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : échographe à la clinique, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : échographie de gestation à 50 francs. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : échographie complète du ventre, de gestation et du cœur. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : échographie du ventre, de gestation et du cœur. [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : échographie de gestation à 50 francs. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans la même clinique. [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : échographe à la clinique, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : échographie de gestation à 50 francs. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : échographie complète du ventre, de gestation et du cœur. [Rendez-vous](/saintlegier/rendez-vous/)
 
-Les cliniques de [Domdidier](/domdidier/#services) et de [Payerne](/payerne/#services) adressent leurs patients à la clinique de Fribourg Ouest pour l'échographie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
+Les cliniques de [Domdidier](/domdidier/services/) et de [Payerne](/payerne/services/) adressent leurs patients à la clinique de Fribourg Ouest pour l'échographie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
 
 ## Prendre rendez-vous
 

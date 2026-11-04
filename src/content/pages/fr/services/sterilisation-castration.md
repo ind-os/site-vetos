@@ -150,14 +150,14 @@ Le risque existe pour toute anesthésie, mais il reste faible chez un jeune anim
 
 ## Les cliniques qui stérilisent et castrent
 
-- [Bussigny](/bussigny/#services) : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : chiens, chats, lapins et rongeurs (cochons d'Inde, rats, chinchillas, hamsters, gerbilles, dègues). Stérilisation de la chatte à 210 francs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : chiens, chats, lapins et rongeurs. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : chiens, chats, lapins et rongeurs, avec une anesthésie adaptée à chaque espèce de NAC. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : chiens, chats, lapins, cochons d'Inde, rats, chinchillas et dègues. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : chiens, chats, lapins et rongeurs. [Rendez-vous à Payerne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : chiens, chats et lapins. Rendez-vous d'opération par téléphone au [021 683 10 10](tel:+41216831010).
+- [Bussigny](/bussigny/services/) : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : chiens, chats, lapins et rongeurs (cochons d'Inde, rats, chinchillas, hamsters, gerbilles, dègues). Stérilisation de la chatte à 210 francs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : chiens, chats, lapins et rongeurs. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : chiens, chats, lapins et rongeurs, avec une anesthésie adaptée à chaque espèce de NAC. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : chiens, chats, lapins, cochons d'Inde, rats, chinchillas et dègues. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : chiens, chats, lapins et rongeurs. [Rendez-vous à Payerne](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : chiens, chats et lapins. Rendez-vous d'opération par téléphone au [021 683 10 10](tel:+41216831010).
 
 ## Prendre rendez-vous
 

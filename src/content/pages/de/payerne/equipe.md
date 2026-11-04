@@ -82,7 +82,7 @@ Die Konsultation dauert 30 Minuten. Die Tierärztin oder der Tierarzt untersucht
 
 ### Am Operationstag
 
-Sie bringen Ihr Tier am Morgen und holen es am Ende des Tages ab. Die Assistentin bereitet den Operationssaal und das Narkosematerial vor. Die Tierärztin oder der Tierarzt untersucht das Tier, bevor sie oder er es in Narkose legt, und operiert es; danach überwacht die Assistentin sein Aufwachen. Die Tierärztin oder der Tierarzt ruft Sie an, wenn die Operation beendet ist. Die Einzelheiten zu den Behandlungen und Untersuchungen vor Ort stehen auf der Seite [Leistungen](/de/payerne/#services).
+Sie bringen Ihr Tier am Morgen und holen es am Ende des Tages ab. Die Assistentin bereitet den Operationssaal und das Narkosematerial vor. Die Tierärztin oder der Tierarzt untersucht das Tier, bevor sie oder er es in Narkose legt, und operiert es; danach überwacht die Assistentin sein Aufwachen. Die Tierärztin oder der Tierarzt ruft Sie an, wenn die Operation beendet ist. Die Einzelheiten zu den Behandlungen und Untersuchungen vor Ort stehen auf der Seite [Leistungen](/de/payerne/leistungen/).
 
 Für einen Termin bei der Tierärztin oder beim Tierarzt rufen Sie die [026 660 16 16](tel:+41266601616) an oder wählen Sie online einen freien Termin.
 

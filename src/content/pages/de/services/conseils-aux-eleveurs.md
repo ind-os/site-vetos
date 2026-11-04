@@ -132,14 +132,14 @@ Der Heimtier-Tierarzt von Fribourg Ouest hält Vorträge und Schulungen für Zü
 
 Die acht Praxen beraten Züchterinnen und Züchter, führen Kaiserschnitte durch und machen die offiziellen Röntgenaufnahmen für die Screenings.
 
-- [Bussigny](/de/bussigny/#services): Trächtigkeitsultraschall, individuelle Futterrationen; [Termin](/de/bussigny/termin/).
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Trächtigkeitsultraschall, Mini-Mikrochips; [Termin](/de/chauxdefonds/termin/).
-- [Domdidier](/de/domdidier/#services): Mini-Mikrochips und Thermochips; [Termin](/de/domdidier/termin/).
-- [Fribourg Ouest](/de/fribourg/#services): Heimtier-Konsultationen, Mini-Mikrochips; [Termin](/de/fribourg/termin/).
-- [Lac-de-Joux](/de/lacdejoux/#services): Trächtigkeitsultraschall mit Konsultation; [Termin](/de/lacdejoux/termin/).
-- [Payerne](/de/payerne/#services): Mini-Mikrochips und Thermochips; [Termin](/de/payerne/termin/).
-- [Saint-Blaise](/de/saintblaise/#services): Trächtigkeitsultraschall, Mini-Mikrochips; [Termin](/de/saintblaise/termin/).
-- [Saint-Légier](/de/saintlegier/#services): Ultraschall, individuelle Futterrationen; Termin unter [021 683 10 10](tel:+41216831010).
+- [Bussigny](/de/bussigny/leistungen/): Trächtigkeitsultraschall, individuelle Futterrationen; [Termin](/de/bussigny/termin/).
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Trächtigkeitsultraschall, Mini-Mikrochips; [Termin](/de/chauxdefonds/termin/).
+- [Domdidier](/de/domdidier/leistungen/): Mini-Mikrochips und Thermochips; [Termin](/de/domdidier/termin/).
+- [Fribourg Ouest](/de/fribourg/leistungen/): Heimtier-Konsultationen, Mini-Mikrochips; [Termin](/de/fribourg/termin/).
+- [Lac-de-Joux](/de/lacdejoux/leistungen/): Trächtigkeitsultraschall mit Konsultation; [Termin](/de/lacdejoux/termin/).
+- [Payerne](/de/payerne/leistungen/): Mini-Mikrochips und Thermochips; [Termin](/de/payerne/termin/).
+- [Saint-Blaise](/de/saintblaise/leistungen/): Trächtigkeitsultraschall, Mini-Mikrochips; [Termin](/de/saintblaise/termin/).
+- [Saint-Légier](/de/saintlegier/leistungen/): Ultraschall, individuelle Futterrationen; Termin unter [021 683 10 10](tel:+41216831010).
 
 Für Nager enthält das Merkblatt [Das Meerschweinchen](/de/ratgeber/das-meerschweinchen/) das Zuchtalter und die Dauer der Trächtigkeit.
 

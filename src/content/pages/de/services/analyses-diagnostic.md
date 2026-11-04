@@ -149,14 +149,14 @@ Jede Praxis von Vetmint hat ihr Labor für Blut, Urin, Kot und Haut. Alle schick
 
 | Praxis | Besonderheit | Termin |
 |---|---|---|
-| [Bussigny](/de/bussigny/#services) | Bluttest und Urinuntersuchung in den Abonnementen inbegriffen | [Termin vereinbaren](/de/bussigny/termin/) |
-| [La Chaux-de-Fonds](/de/chauxdefonds/#services) | Blut-, Urin- und Kotuntersuchungen vor Ort | [Termin vereinbaren](/de/chauxdefonds/termin/) |
-| [Domdidier](/de/domdidier/#services) | Untersuchung der Haut unter dem Mikroskop, Pilzkulturen | [Termin vereinbaren](/de/domdidier/termin/) |
-| [Fribourg Ouest](/de/fribourg/#services), Givisiez | Analysegeräte für Hunde, Katzen, Kaninchen, Nager, Vögel und Reptilien; Blutbild bei der ersten Konsultation eines Papageis | [Termin vereinbaren](/de/fribourg/termin/) |
-| [Lac-de-Joux](/de/lacdejoux/#services), L'Abbaye | Untersuchungslabor in der Praxis | [Termin vereinbaren](/de/lacdejoux/termin/) |
-| [Payerne](/de/payerne/#services) | das Labor übermittelt die Resultate direkt an den Computer der Praxis | [Termin vereinbaren](/de/payerne/termin/) |
-| [Saint-Blaise](/de/saintblaise/#services) | Zytologie von Punktionen mit feiner Nadel, Kotuntersuchungen | [Termin vereinbaren](/de/saintblaise/termin/) |
-| [Saint-Légier](/de/saintlegier/#services) | Bluttest in den Abonnementen für Erwachsene inbegriffen | [Termin vereinbaren](/de/saintlegier/termin/) |
+| [Bussigny](/de/bussigny/leistungen/) | Bluttest und Urinuntersuchung in den Abonnementen inbegriffen | [Termin vereinbaren](/de/bussigny/termin/) |
+| [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/) | Blut-, Urin- und Kotuntersuchungen vor Ort | [Termin vereinbaren](/de/chauxdefonds/termin/) |
+| [Domdidier](/de/domdidier/leistungen/) | Untersuchung der Haut unter dem Mikroskop, Pilzkulturen | [Termin vereinbaren](/de/domdidier/termin/) |
+| [Fribourg Ouest](/de/fribourg/leistungen/), Givisiez | Analysegeräte für Hunde, Katzen, Kaninchen, Nager, Vögel und Reptilien; Blutbild bei der ersten Konsultation eines Papageis | [Termin vereinbaren](/de/fribourg/termin/) |
+| [Lac-de-Joux](/de/lacdejoux/leistungen/), L'Abbaye | Untersuchungslabor in der Praxis | [Termin vereinbaren](/de/lacdejoux/termin/) |
+| [Payerne](/de/payerne/leistungen/) | das Labor übermittelt die Resultate direkt an den Computer der Praxis | [Termin vereinbaren](/de/payerne/termin/) |
+| [Saint-Blaise](/de/saintblaise/leistungen/) | Zytologie von Punktionen mit feiner Nadel, Kotuntersuchungen | [Termin vereinbaren](/de/saintblaise/termin/) |
+| [Saint-Légier](/de/saintlegier/leistungen/) | Bluttest in den Abonnementen für Erwachsene inbegriffen | [Termin vereinbaren](/de/saintlegier/termin/) |
 
 ## Einen Termin vereinbaren
 

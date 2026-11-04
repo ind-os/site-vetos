@@ -131,14 +131,14 @@ Alle acht Praxen setzen und lesen Standard-Mikrochips aus und nehmen den Eintrag
 
 | Praxis | Standard-Mikrochip | Mini-Mikrochip und Thermochip | Termin |
 |---|---|---|---|
-| [Bussigny](/de/bussigny/#services) | ja | nein | [Termin vereinbaren](/de/bussigny/termin/) |
-| [La Chaux-de-Fonds](/de/chauxdefonds/#services) | ja | ja | [Termin vereinbaren](/de/chauxdefonds/termin/) |
-| [Domdidier](/de/domdidier/#services) | ja | ja | [Termin vereinbaren](/de/domdidier/termin/) |
-| [Fribourg Ouest](/de/fribourg/#services), Givisiez | ja, auch bei Vögeln | ja | [Termin vereinbaren](/de/fribourg/termin/) |
-| [Lac-de-Joux](/de/lacdejoux/#services), L'Abbaye | ja | nein | [Termin vereinbaren](/de/lacdejoux/termin/) |
-| [Payerne](/de/payerne/#services) | ja | ja | [Termin vereinbaren](/de/payerne/termin/) |
-| [Saint-Blaise](/de/saintblaise/#services) | ja | ja | [Termin vereinbaren](/de/saintblaise/termin/) |
-| [Saint-Légier](/de/saintlegier/#services) | ja | nein | [Termin vereinbaren](/de/saintlegier/termin/) |
+| [Bussigny](/de/bussigny/leistungen/) | ja | nein | [Termin vereinbaren](/de/bussigny/termin/) |
+| [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/) | ja | ja | [Termin vereinbaren](/de/chauxdefonds/termin/) |
+| [Domdidier](/de/domdidier/leistungen/) | ja | ja | [Termin vereinbaren](/de/domdidier/termin/) |
+| [Fribourg Ouest](/de/fribourg/leistungen/), Givisiez | ja, auch bei Vögeln | ja | [Termin vereinbaren](/de/fribourg/termin/) |
+| [Lac-de-Joux](/de/lacdejoux/leistungen/), L'Abbaye | ja | nein | [Termin vereinbaren](/de/lacdejoux/termin/) |
+| [Payerne](/de/payerne/leistungen/) | ja | ja | [Termin vereinbaren](/de/payerne/termin/) |
+| [Saint-Blaise](/de/saintblaise/leistungen/) | ja | ja | [Termin vereinbaren](/de/saintblaise/termin/) |
+| [Saint-Légier](/de/saintlegier/leistungen/) | ja | nein | [Termin vereinbaren](/de/saintlegier/termin/) |
 
 ## Termin vereinbaren
 

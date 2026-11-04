@@ -10,9 +10,31 @@
   Au survol, seule la couleur change : rien ne bouge, ne pivote ni ne grandit.
 */
 
-@import "@fontsource-variable/nunito/index.css";
-@import "@fontsource-variable/nunito-sans/index.css";
 @import "./donnees.css";
+
+/*
+  Nunito et Nunito Sans, lettres latines seulement : le français et l'allemand y tiennent.
+  « optional » : si le fichier est déjà là, le texte s'écrit tout de suite avec.
+  Sinon la page garde la police de secours, sans en changer en cours de lecture.
+  Les deux fichiers sont demandés dès le début de la page (src/composants/TeteHtml.astro).
+*/
+@font-face {
+  font-family: "Nunito Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 200 1000;
+  src: url("@fontsource-variable/nunito/files/nunito-latin-wght-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Nunito Sans Variable";
+  font-style: normal;
+  font-display: optional;
+  font-weight: 200 1000;
+  src: url("@fontsource-variable/nunito-sans/files/nunito-sans-latin-wght-normal.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
 
 /* ------------------------------------------------------------------ */
 /* Jetons                                                              */
@@ -46,8 +68,8 @@
   --focus: var(--menthe-texte);
 
   /* Polices */
-  --police-titre: "Nunito Variable", "Nunito", system-ui, sans-serif;
-  --police-texte: "Nunito Sans Variable", "Nunito Sans", system-ui, sans-serif;
+  --police-titre: "Nunito Variable", ui-rounded, system-ui, sans-serif;
+  --police-texte: "Nunito Sans Variable", ui-rounded, system-ui, sans-serif;
 
   /* Tailles du texte, de 390 px à 1 280 px de large */
   --texte-xs: 0.8125rem;                                  /* 13 px */

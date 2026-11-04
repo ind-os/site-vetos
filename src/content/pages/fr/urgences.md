@@ -142,7 +142,7 @@ Il est hospitalisé, sous perfusion si besoin. Le jour, les huit cliniques hospi
 
 ## Les soins d'urgence dans les cliniques
 
-Pendant les heures d'ouverture, chaque clinique fait sur place les analyses de sang et les radiographies dont une urgence a besoin, puis opère ou hospitalise. L'équipement de chacune est décrit sur sa page Prestations : [Bussigny](/bussigny/#services), [La Chaux-de-Fonds](/chauxdefonds/#services), [Domdidier](/domdidier/#services), [Fribourg Ouest](/fribourg/#services), [Lac-de-Joux](/lacdejoux/#services), [Payerne](/payerne/#services), [Saint-Blaise](/saintblaise/#services) et [Saint-Légier](/saintlegier/#services).
+Pendant les heures d'ouverture, chaque clinique fait sur place les analyses de sang et les radiographies dont une urgence a besoin, puis opère ou hospitalise. L'équipement de chacune est décrit sur sa page Prestations : [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Domdidier](/domdidier/services/), [Fribourg Ouest](/fribourg/services/), [Lac-de-Joux](/lacdejoux/services/), [Payerne](/payerne/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/).
 
 Quand une urgence mène à une opération, les pages [Chirurgie](/services/chirurgie/) et [Hospitalisation](/services/hospitalisation/) décrivent la suite.
 

@@ -130,14 +130,14 @@ Le vétérinaire évite en général les vaccins pendant la gestation et en disc
 
 Les huit cliniques Vetmint vaccinent les chats pendant le bilan de santé annuel, sur rendez-vous.
 
-- [Bussigny](/bussigny/#services) : [021 703 25 30](tel:+41217032530) ou [rendez-vous en ligne](/bussigny/rendez-vous/), avec un calendrier propre aux vaccins
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : [032 914 03 48](tel:+41329140348) ou [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : [026 675 38 88](tel:+41266753888) ou [rendez-vous en ligne](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : [026 466 84 84](tel:+41264668484) ou [rendez-vous en ligne](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : [021 357 89 90](tel:+41213578990) ou [rendez-vous en ligne](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : [026 660 16 16](tel:+41266601616) ou [rendez-vous en ligne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : [032 753 11 22](tel:+41327531122) ou [rendez-vous en ligne](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : [021 683 10 10](tel:+41216831010) ou [rendez-vous en ligne](/saintlegier/rendez-vous/), réservé aux vaccins
+- [Bussigny](/bussigny/services/) : [021 703 25 30](tel:+41217032530) ou [rendez-vous en ligne](/bussigny/rendez-vous/), avec un calendrier propre aux vaccins
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [032 914 03 48](tel:+41329140348) ou [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [026 675 38 88](tel:+41266753888) ou [rendez-vous en ligne](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [026 466 84 84](tel:+41264668484) ou [rendez-vous en ligne](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [021 357 89 90](tel:+41213578990) ou [rendez-vous en ligne](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [026 660 16 16](tel:+41266601616) ou [rendez-vous en ligne](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [032 753 11 22](tel:+41327531122) ou [rendez-vous en ligne](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [021 683 10 10](tel:+41216831010) ou [rendez-vous en ligne](/saintlegier/rendez-vous/), réservé aux vaccins
 
 ## Prendre rendez-vous
 

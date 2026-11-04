@@ -159,14 +159,14 @@ Cela dépend de votre contrat. La clinique vous remet une facture détaillée, �
 
 Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires de chaque clinique figurent sur son site.
 
-- [Bussigny](/bussigny/#services) : la réservation en ligne propose la consultation, le vaccin, la première visite du chiot ou du chaton et la séance de laser. [Prendre rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : la consultation la moins chère du groupe, à 54 francs. La consultation de santé se réserve en ligne. [Prendre rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : des consultations d'ostéopathie pour chiens et chats. La clinique de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : deux salles de consultation insonorisées, une consultation NAC et une consultation spécialisée en chirurgie. [Prendre rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : deux salles de consultation et un laboratoire d'analyses sur place. [Prendre rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : deux salles de consultation et un laboratoire relié à un ordinateur qui transmet directement les résultats. [Prendre rendez-vous à Payerne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : des consultations avec laser en plus des consultations générales. [Prendre rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : la réservation en ligne sert aux vaccins ; pour une consultation, appelez le [021 683 10 10](tel:+41216831010).
+- [Bussigny](/bussigny/services/) : la réservation en ligne propose la consultation, le vaccin, la première visite du chiot ou du chaton et la séance de laser. [Prendre rendez-vous à Bussigny](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation la moins chère du groupe, à 54 francs. La consultation de santé se réserve en ligne. [Prendre rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : des consultations d'ostéopathie pour chiens et chats. La clinique de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : deux salles de consultation insonorisées, une consultation NAC et une consultation spécialisée en chirurgie. [Prendre rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : deux salles de consultation et un laboratoire d'analyses sur place. [Prendre rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : deux salles de consultation et un laboratoire relié à un ordinateur qui transmet directement les résultats. [Prendre rendez-vous à Payerne](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : des consultations avec laser en plus des consultations générales. [Prendre rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : la réservation en ligne sert aux vaccins ; pour une consultation, appelez le [021 683 10 10](tel:+41216831010).
 
 ## Prendre rendez-vous
 

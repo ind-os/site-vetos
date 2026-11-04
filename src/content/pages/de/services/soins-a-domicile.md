@@ -134,13 +134,13 @@ Die Tierärztin oder der Tierarzt nimmt sich die Zeit, Ihnen jeden Schritt zu er
 
 Sieben Vetmint-Praxen bieten Hausbesuche nach Vereinbarung rund um ihre Gemeinde an.
 
-- [Bussigny](/de/bussigny/#services): [021 703 25 30](tel:+41217032530), [Online-Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): [032 914 03 48](tel:+41329140348), [Online-Termin](/de/chauxdefonds/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [021 703 25 30](tel:+41217032530), [Online-Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [032 914 03 48](tel:+41329140348), [Online-Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/hausbesuche/), für die Freiburger Broye: [026 675 38 88](tel:+41266753888), [Online-Termin](/de/domdidier/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: [021 357 89 90](tel:+41213578990), [Online-Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services), für die Waadtländer Broye: [026 660 16 16](tel:+41266601616), [Online-Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): [032 753 11 22](tel:+41327531122), [Online-Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services), für die Waadtländer Riviera: [021 683 10 10](tel:+41216831010)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [021 357 89 90](tel:+41213578990), [Online-Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/), für die Waadtländer Broye: [026 660 16 16](tel:+41266601616), [Online-Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [032 753 11 22](tel:+41327531122), [Online-Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/), für die Waadtländer Riviera: [021 683 10 10](tel:+41216831010)
 
 Für ein älteres Tier mit Schmerzen beschreibt die Seite [Schmerztherapie](/de/leistungen/schmerztherapie/) die mögliche Verlaufskontrolle zwischen zwei Besuchen.
 

@@ -142,12 +142,12 @@ Placez une marche devant ses endroits préférés, une litière à bord bas et l
 
 ## Les cliniques qui soignent la douleur
 
-La consultation douleur se fait à [Fribourg Ouest](/fribourg/#services), à Givisiez. Elle reçoit l'animal qui a mal depuis longtemps ou dont la douleur résiste au traitement habituel, avec un premier rendez-vous d'une heure.
+La consultation douleur se fait à [Fribourg Ouest](/fribourg/services/), à Givisiez. Elle reçoit l'animal qui a mal depuis longtemps ou dont la douleur résiste au traitement habituel, avec un premier rendez-vous d'une heure.
 
 Dans toutes les cliniques Vetmint, le traitement de la douleur fait partie de chaque opération et une douleur qui dure se suit en consultation de 30 minutes. Deux soins complémentaires se pratiquent dans certaines d'entre elles :
 
-- la [thérapie laser](/services/laser/) à [Bussigny](/bussigny/#services), [La Chaux-de-Fonds](/chauxdefonds/#services), [Saint-Blaise](/saintblaise/#services) et [Saint-Légier](/saintlegier/#services) ;
-- l'[ostéopathie](/services/osteopathie/) à [Domdidier](/domdidier/#services) et à Fribourg Ouest.
+- la [thérapie laser](/services/laser/) à [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/) ;
+- l'[ostéopathie](/services/osteopathie/) à [Domdidier](/domdidier/services/) et à Fribourg Ouest.
 
 Pour un lapin ou un rongeur, le conseil [l'arthrose des NAC](/conseils/arthrose-des-nac/) détaille les signes et les aménagements.
 

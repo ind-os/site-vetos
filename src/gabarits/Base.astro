@@ -51,7 +51,7 @@ if (clinique) {
     accueil,
     lieu: clinique.lieu,
     liens: [
-      { libelle: n.services, href: `${accueil}#services` },
+      { libelle: n.services, href: await page('services/index') },
       { libelle: n.tarifs, href: await page('tarifs') },
       { libelle: n.abonnements, href: await page('abonnements') },
       { libelle: n.equipe, href: await page('equipe') },
@@ -61,6 +61,7 @@ if (clinique) {
   };
   liensDuPied = [
     { libelle: t.rendezVous.bouton, href: await page('rendez-vous') },
+    { libelle: n.services, href: await page('services/index') },
     { libelle: n.questions, href: await page('questions-frequentes') },
     { libelle: n.tarifs, href: await page('tarifs') },
     { libelle: n.abonnements, href: await page('abonnements') },

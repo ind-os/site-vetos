@@ -120,10 +120,10 @@ Ja. Das Kaninchen verträgt die Sitzung gut, auf einem Tuch liegend, ohne starke
 
 Vier Praxen haben ein therapeutisches Lasergerät. Die anderen Praxen von Vetmint verweisen Sie an die nächstgelegene.
 
-- **[Bussigny](/de/bussigny/#services)**, westlich von Lausanne: Hunde, Katzen und Kaninchen. [Termin in Bussigny](/de/bussigny/termin/)
-- **[La Chaux-de-Fonds](/de/chauxdefonds/#services)**, für die Neuenburger Berge: Hunde, Katzen, Kaninchen und Nager. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
-- **[Saint-Blaise](/de/saintblaise/#services)**, am Nordufer des Neuenburgersees: Hunde, Katzen, Kaninchen und Nager. [Termin in Saint-Blaise](/de/saintblaise/termin/)
-- **[Saint-Légier](/de/saintlegier/#services)**, oberhalb von Vevey: Hunde, Katzen und Kaninchen. [Termin in Saint-Légier](/de/saintlegier/termin/)
+- **[Bussigny](/de/bussigny/leistungen/)**, westlich von Lausanne: Hunde, Katzen und Kaninchen. [Termin in Bussigny](/de/bussigny/termin/)
+- **[La Chaux-de-Fonds](/de/chauxdefonds/leistungen/)**, für die Neuenburger Berge: Hunde, Katzen, Kaninchen und Nager. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
+- **[Saint-Blaise](/de/saintblaise/leistungen/)**, am Nordufer des Neuenburgersees: Hunde, Katzen, Kaninchen und Nager. [Termin in Saint-Blaise](/de/saintblaise/termin/)
+- **[Saint-Légier](/de/saintlegier/leistungen/)**, oberhalb von Vevey: Hunde, Katzen und Kaninchen. [Termin in Saint-Légier](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

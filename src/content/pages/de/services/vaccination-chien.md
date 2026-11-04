@@ -148,14 +148,14 @@ Ja. Ein zwölfjähriger Hund wehrt sich schlechter gegen Infektionen als ein jun
 
 Alle acht Praxen Vetmint impfen Hunde während des Gesundheitschecks, nach Termin.
 
-- [Bussigny](/de/bussigny/#services): ein Online-Kalender nur für Impftermine. [Impfung in Bussigny reservieren](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): die Impfkonsultation lässt sich online reservieren. [Impfung in La Chaux-de-Fonds reservieren](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Check mit Impfungen zu 94 Franken. [Impfung in Domdidier reservieren](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: Check mit Impfungen zu 89 Franken. [Impfung in Fribourg Ouest reservieren](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: der günstigste Check mit Impfungen der Gruppe, zu 86 Franken. [Impfung in Lac-de-Joux reservieren](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): Check mit Impfungen zu 94 Franken. [Impfung in Payerne reservieren](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Check mit Impfungen zu 93 Franken. [Impfung in Saint-Blaise reservieren](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Die Online-Reservation dient ausschliesslich den Impfungen; die übrigen Termine werden unter [021 683 10 10](tel:+41216831010) vereinbart. [Impfung in Saint-Légier reservieren](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): ein Online-Kalender nur für Impftermine. [Impfung in Bussigny reservieren](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): die Impfkonsultation lässt sich online reservieren. [Impfung in La Chaux-de-Fonds reservieren](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Check mit Impfungen zu 94 Franken. [Impfung in Domdidier reservieren](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Check mit Impfungen zu 89 Franken. [Impfung in Fribourg Ouest reservieren](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: der günstigste Check mit Impfungen der Gruppe, zu 86 Franken. [Impfung in Lac-de-Joux reservieren](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): Check mit Impfungen zu 94 Franken. [Impfung in Payerne reservieren](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Check mit Impfungen zu 93 Franken. [Impfung in Saint-Blaise reservieren](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Die Online-Reservation dient ausschliesslich den Impfungen; die übrigen Termine werden unter [021 683 10 10](tel:+41216831010) vereinbart. [Impfung in Saint-Légier reservieren](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

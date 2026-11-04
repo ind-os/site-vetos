@@ -117,9 +117,9 @@ Das hängt vom Vertrag ab. Manche Tierversicherungen decken die Komplementärmed
 
 ## Die Praxen mit Osteopathie
 
-**[Domdidier](/de/domdidier/#services)**, in der Freiburger Broye, empfängt Hunde und Katzen zur Osteopathie. Die Praxis beschreibt diese Konsultation auf ihrer Seite [Osteopathie in Domdidier](/de/domdidier/leistungen/osteopathie/). [Termin in Domdidier](/de/domdidier/termin/)
+**[Domdidier](/de/domdidier/leistungen/)**, in der Freiburger Broye, empfängt Hunde und Katzen zur Osteopathie. Die Praxis beschreibt diese Konsultation auf ihrer Seite [Osteopathie in Domdidier](/de/domdidier/leistungen/osteopathie/). [Termin in Domdidier](/de/domdidier/termin/)
 
-**[Fribourg Ouest](/de/fribourg/#services)**, in Givisiez, bietet Osteopathie mit einer Spezialistin für Tierosteopathie an. Die Osteopathie ist auch Teil der [Schmerzsprechstunde](/de/fribourg/leistungen/schmerztherapie/) der Praxis für Tiere, die seit langem leiden. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+**[Fribourg Ouest](/de/fribourg/leistungen/)**, in Givisiez, bietet Osteopathie mit einer Spezialistin für Tierosteopathie an. Die Osteopathie ist auch Teil der [Schmerzsprechstunde](/de/fribourg/leistungen/schmerztherapie/) der Praxis für Tiere, die seit langem leiden. [Termin in Fribourg Ouest](/de/fribourg/termin/)
 
 ## Einen Termin vereinbaren
 

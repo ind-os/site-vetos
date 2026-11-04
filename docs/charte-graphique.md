@@ -26,9 +26,9 @@ Avant de colorer un élément, on sait ce que la couleur code. Sinon, il reste g
 - **Cartes** : fond blanc, filet gris `#DCE5EA`, coins de 12 px.
 - **Photos** : encadrées, coins de 16 px, à côté du titre, jamais sous le texte.
 - **Survol** : seule la couleur change. Rien ne bouge, ne pivote ni ne grandit.
-- **Logo** : le logo actuel, tel quel, une fois par page, dans l'en-tête. Sur les pages d'une clinique, le nom du lieu se place à sa droite, séparé par un filet.
+- **Logo** : le logo actuel, tel quel, une fois par page, dans l'en-tête. Il mène à l'accueil du site. Sur les pages d'une clinique, le nom du lieu se place à sa droite, séparé par un filet, et mène à l'accueil de cette clinique.
 - **Rendez-vous et urgence d'abord** : « Prendre rendez-vous » et le téléphone sont visibles au premier écran sur smartphone ; le numéro de garde est cliquable, avec son tarif ; aucune fenêtre surgissante au chargement.
-- **Lisible et rapide** : texte de 16 px au moins, contraste AA, photos en AVIF et WebP, aucun module de réservation chargé avant le clic.
+- **Lisible et rapide** : texte de 16 px au moins, contraste AA, photos en AVIF et WebP. Le module de rendez-vous n'est pas dans le premier affichage : il se prépare ensuite, quand le navigateur est libre, et le panneau s'ouvre tout de suite au clic.
 
 ## Ajouter un bloc
 

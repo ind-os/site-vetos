@@ -55,7 +55,7 @@ An einzelnen Samstagen öffnet die Praxis von 8.30 bis 15 Uhr. Die geöffneten S
 - Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.
 - Die [Fellpflege](/de/leistungen/fellpflege/) erfolgt in der Praxis durch eine Tiermedizinische Praxisassistentin mit Diplom in Fellpflege. Eine Tierärztin oder ein Tierarzt gibt einem Tier, das es nicht erträgt, angefasst zu werden, ein Beruhigungsmittel.
 
-Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Meerschweinchen, Ratten, Chinchillas, Rennmäuse, Degus) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft.
+Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Meerschweinchen, Ratten, Chinchillas, Rennmäuse, Degus) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft. Die Seite [Leistungen](/de/payerne/leistungen/) beschreibt jede Leistung, die in der Praxis erbracht wird.
 
 ## Das Team
 

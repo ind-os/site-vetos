@@ -147,14 +147,14 @@ Ziehen Sie nie an einem Faden, der aus dem Maul oder dem After ragt: Sie könnte
 
 Die acht Praxen führen Weichteilchirurgie, Kaiserschnitte und die Entfernung von Fremdkörpern durch, mit einem Operationssaal und stationärer Betreuung vor Ort.
 
-- [Bussigny](/de/bussigny/#services): Weichteilchirurgie, mit dem Laser für die Wundheilung nach der Operation. [Termin in Bussigny](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Weichteilchirurgie, Operationen bei Kaninchen und vielen Nagern. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Ein externer Anästhesist kommt in die Praxis für grössere Operationen, die eine anspruchsvolle Narkose erfordern. [Termin in Domdidier](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: eine auf Chirurgie spezialisierte Tierärztin und ein Operationssaal, der für die Knochenchirurgie ausgestattet ist. Die Boxen der stationären Betreuung sind nach Tierart getrennt; ein Tierarzt betreut die stationären Tiere abends und an den Wochenenden. [Termin in Fribourg Ouest](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: ein Operationssaal mit zwei Zonen und die Laparoskopie. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): ein Vorbereitungsraum, der mit dem Operationssaal und dem Röntgenraum verbunden ist. [Termin in Payerne](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Weichteilchirurgie und Operationen bei Nagern, vom Meerschweinchen bis zum Hamster. [Termin in Saint-Blaise](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Weichteilchirurgie, mit Ultraschall vor Ort und dem Laser für die Wundheilung. Termin telefonisch unter [021 683 10 10](tel:+41216831010).
+- [Bussigny](/de/bussigny/leistungen/): Weichteilchirurgie, mit dem Laser für die Wundheilung nach der Operation. [Termin in Bussigny](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Weichteilchirurgie, Operationen bei Kaninchen und vielen Nagern. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Ein externer Anästhesist kommt in die Praxis für grössere Operationen, die eine anspruchsvolle Narkose erfordern. [Termin in Domdidier](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: eine auf Chirurgie spezialisierte Tierärztin und ein Operationssaal, der für die Knochenchirurgie ausgestattet ist. Die Boxen der stationären Betreuung sind nach Tierart getrennt; ein Tierarzt betreut die stationären Tiere abends und an den Wochenenden. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: ein Operationssaal mit zwei Zonen und die Laparoskopie. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): ein Vorbereitungsraum, der mit dem Operationssaal und dem Röntgenraum verbunden ist. [Termin in Payerne](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Weichteilchirurgie und Operationen bei Nagern, vom Meerschweinchen bis zum Hamster. [Termin in Saint-Blaise](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Weichteilchirurgie, mit Ultraschall vor Ort und dem Laser für die Wundheilung. Termin telefonisch unter [021 683 10 10](tel:+41216831010).
 
 ## Termin vereinbaren
 

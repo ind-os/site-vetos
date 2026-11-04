@@ -125,12 +125,12 @@ Le bain élimine une partie des puces, pas leurs œufs dans la maison. La toilet
 
 Le toilettage, le défeutrage et la sédation se font dans deux cliniques de la Broye, avec la même grille de prix :
 
-- [Payerne](/payerne/#services), route du Châtelard 13 ([rendez-vous](/payerne/rendez-vous/))
-- [Domdidier](/domdidier/#services), route de Saint-Aubin 58 ([rendez-vous](/domdidier/rendez-vous/))
+- [Payerne](/payerne/services/), route du Châtelard 13 ([rendez-vous](/payerne/rendez-vous/))
+- [Domdidier](/domdidier/services/), route de Saint-Aubin 58 ([rendez-vous](/domdidier/rendez-vous/))
 
 Les autres [cliniques Vetmint](/cliniques/) vous orientent vers l'une des deux.
 
-[La Chaux-de-Fonds](/chauxdefonds/#services) pratique le défeutrage des chats sous anesthésie, dès 200 francs ([rendez-vous](/chauxdefonds/rendez-vous/)).
+[La Chaux-de-Fonds](/chauxdefonds/services/) pratique le défeutrage des chats sous anesthésie, dès 200 francs ([rendez-vous](/chauxdefonds/rendez-vous/)).
 
 ## Prendre rendez-vous
 

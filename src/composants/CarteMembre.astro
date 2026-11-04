@@ -1,6 +1,6 @@
 ---
-// Une personne de l'équipe : son portrait (ou ses initiales), son nom, sa fonction, les langues
-// qu'elle parle et ses domaines.
+// Une personne de l'équipe : son portrait, ou un cadre clair avec ses initiales, puis son nom,
+// sa fonction, les langues qu'elle parle et ses domaines. Le cadre a toujours la même place.
 import type { Photo as PhotoDuCatalogue } from '../lib/images.ts';
 import { initiales } from '../lib/format.ts';
 import Photo from './Photo.astro';
@@ -21,8 +21,14 @@ const { nom, fonction, titre, langues, domaines, photo, niveau = 3 } = Astro.pro
 const Titre = `h${niveau}` as const;
 ---
 
-<article class:list={['membre', { 'membre--photo': photo }]}>
-  {photo ? <Photo photo={photo} ratio="1 / 1" largeur={320} class="membre__portrait" /> : <span class="membre__initiales" aria-hidden="true">{initiales(nom)}</span>}
+<article class="membre">
+  {
+    photo ? (
+      <Photo photo={photo} ratio="1 / 1" largeur={320} class="membre__portrait" />
+    ) : (
+      <span class="membre__avatar" aria-hidden="true"><span class="membre__initiales">{initiales(nom)}</span></span>
+    )
+  }
   <div class="membre__texte">
     <Titre class="membre__nom">{titre ? `${titre} ${nom}` : nom}</Titre>
     <p class="membre__fonction">{fonction}</p>
@@ -34,28 +40,32 @@ const Titre = `h${niveau}` as const;
 <style>
   .membre {
     display: grid;
-    grid-template-columns: 72px 1fr;
-    gap: 18px;
-    align-items: center;
-    padding: 22px;
+    grid-template-columns: 1fr;
+    align-items: start;
+    padding: 0 0 22px;
+    overflow: hidden;
     border: 1px solid var(--trait);
     border-radius: var(--rayon-carte);
     background: var(--blanc);
   }
-  .membre--photo { grid-template-columns: 1fr; align-items: start; padding: 0 0 22px; overflow: hidden; }
-  .membre--photo .membre__texte { padding-inline: 22px; }
+  .membre__texte { display: grid; gap: var(--espace-1); padding-inline: 22px; }
   .membre :global(.membre__portrait) { border-radius: 0; }
+  .membre__avatar {
+    display: grid;
+    place-items: center;
+    aspect-ratio: 1 / 1;
+    background: var(--gris-bleute);
+  }
   .membre__initiales {
     display: grid;
     place-content: center;
-    width: 72px;
-    height: 72px;
+    width: 34%;
+    aspect-ratio: 1;
     border-radius: 50%;
-    background: #E3EEF4;
+    background: var(--blanc);
     color: var(--marine);
-    font: 800 22px var(--police-titre);
+    font: 800 1.35rem/1 var(--police-titre);
   }
-  .membre__texte { display: grid; gap: var(--espace-1); }
   .membre__nom { font-size: var(--titre-3); }
   .membre__fonction { color: var(--encre-douce); font-weight: 600; }
   .membre__detail { color: var(--gris); font-size: var(--texte-s); }

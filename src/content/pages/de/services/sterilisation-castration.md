@@ -150,14 +150,14 @@ Das Risiko besteht bei jeder Narkose, bleibt aber bei einem jungen, gesunden Tie
 
 ## Die Praxen, die sterilisieren und kastrieren
 
-- [Bussigny](/de/bussigny/#services): Hunde, Katzen und Kaninchen. [Termin in Bussigny](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Hunde, Katzen, Kaninchen und Nager (Meerschweinchen, Ratten, Chinchillas, Hamster, Wüstenrennmäuse, Degus). Sterilisation der Kätzin zu 210 Franken. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Hunde, Katzen, Kaninchen und Nager. [Termin in Domdidier](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: Hunde, Katzen, Kaninchen und Nager, mit einer auf jede Heimtierart abgestimmten Narkose. [Termin in Fribourg Ouest](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten, Chinchillas und Degus. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): Hunde, Katzen, Kaninchen und Nager. [Termin in Payerne](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Hunde, Katzen, Kaninchen und Nager. [Termin in Saint-Blaise](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Hunde, Katzen und Kaninchen. Operationstermine telefonisch unter [021 683 10 10](tel:+41216831010).
+- [Bussigny](/de/bussigny/leistungen/): Hunde, Katzen und Kaninchen. [Termin in Bussigny](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Hunde, Katzen, Kaninchen und Nager (Meerschweinchen, Ratten, Chinchillas, Hamster, Wüstenrennmäuse, Degus). Sterilisation der Kätzin zu 210 Franken. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Hunde, Katzen, Kaninchen und Nager. [Termin in Domdidier](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Hunde, Katzen, Kaninchen und Nager, mit einer auf jede Heimtierart abgestimmten Narkose. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten, Chinchillas und Degus. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): Hunde, Katzen, Kaninchen und Nager. [Termin in Payerne](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Hunde, Katzen, Kaninchen und Nager. [Termin in Saint-Blaise](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Hunde, Katzen und Kaninchen. Operationstermine telefonisch unter [021 683 10 10](tel:+41216831010).
 
 ## Termin vereinbaren
 

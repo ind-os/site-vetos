@@ -130,14 +130,14 @@ Die Tierärztin oder der Tierarzt vermeidet in der Regel Impfungen während der 
 
 Alle acht Praxen Vetmint impfen Katzen während des jährlichen Gesundheitschecks, nach Termin.
 
-- [Bussigny](/de/bussigny/#services): [021 703 25 30](tel:+41217032530) oder [Online-Termin](/de/bussigny/termin/), mit einem eigenen Kalender für Impfungen
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): [032 914 03 48](tel:+41329140348) oder [Online-Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): [026 675 38 88](tel:+41266753888) oder [Online-Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: [026 466 84 84](tel:+41264668484) oder [Online-Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: [021 357 89 90](tel:+41213578990) oder [Online-Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): [026 660 16 16](tel:+41266601616) oder [Online-Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): [032 753 11 22](tel:+41327531122) oder [Online-Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): [021 683 10 10](tel:+41216831010) oder [Online-Termin](/de/saintlegier/termin/), nur für Impfungen
+- [Bussigny](/de/bussigny/leistungen/): [021 703 25 30](tel:+41217032530) oder [Online-Termin](/de/bussigny/termin/), mit einem eigenen Kalender für Impfungen
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [032 914 03 48](tel:+41329140348) oder [Online-Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [026 675 38 88](tel:+41266753888) oder [Online-Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [026 466 84 84](tel:+41264668484) oder [Online-Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [021 357 89 90](tel:+41213578990) oder [Online-Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [026 660 16 16](tel:+41266601616) oder [Online-Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [032 753 11 22](tel:+41327531122) oder [Online-Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [021 683 10 10](tel:+41216831010) oder [Online-Termin](/de/saintlegier/termin/), nur für Impfungen
 
 ## Termin vereinbaren
 

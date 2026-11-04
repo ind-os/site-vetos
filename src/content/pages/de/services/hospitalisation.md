@@ -129,14 +129,14 @@ Die Tierärztin oder der Tierarzt ruft Sie an, sobald sie oder er es feststellt.
 
 Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär.
 
-- [Bussigny](/de/bussigny/#services): stationäre Betreuung nach Operationen und für Behandlungen an der Infusion. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Hausbesuche für die Zeit nach einem stationären Aufenthalt. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: Einzelboxen, Trennung der Tierarten, Besucherbereich, Tierärztin oder Tierarzt am Abend und am Wochenende anwesend, stationäre Betreuung der Heimtiere, auch Vögel und Reptilien. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: Raum für die stationäre Betreuung mit Einzelboxen. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Raum für die stationäre Betreuung mit Tageslicht. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): stationäre Betreuung nach Operationen und für Behandlungen an der Infusion. [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Hausbesuche für die Zeit nach einem stationären Aufenthalt. [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Einzelboxen, Trennung der Tierarten, Besucherbereich, Tierärztin oder Tierarzt am Abend und am Wochenende anwesend, stationäre Betreuung der Heimtiere, auch Vögel und Reptilien. [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Raum für die stationäre Betreuung mit Einzelboxen. [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Raum für die stationäre Betreuung mit Tageslicht. [Termin](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

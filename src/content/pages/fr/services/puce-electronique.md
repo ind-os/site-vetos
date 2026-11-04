@@ -131,14 +131,14 @@ Les huit cliniques posent et lisent les puces standard et font l'inscription dan
 
 | Clinique | Puce standard | Puce miniature et thermochip | Rendez-vous |
 |---|---|---|---|
-| [Bussigny](/bussigny/#services) | oui | non | [prendre rendez-vous](/bussigny/rendez-vous/) |
-| [La Chaux-de-Fonds](/chauxdefonds/#services) | oui | oui | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
-| [Domdidier](/domdidier/#services) | oui | oui | [prendre rendez-vous](/domdidier/rendez-vous/) |
-| [Fribourg Ouest](/fribourg/#services), Givisiez | oui, oiseaux compris | oui | [prendre rendez-vous](/fribourg/rendez-vous/) |
-| [Lac-de-Joux](/lacdejoux/#services), L'Abbaye | oui | non | [prendre rendez-vous](/lacdejoux/rendez-vous/) |
-| [Payerne](/payerne/#services) | oui | oui | [prendre rendez-vous](/payerne/rendez-vous/) |
-| [Saint-Blaise](/saintblaise/#services) | oui | oui | [prendre rendez-vous](/saintblaise/rendez-vous/) |
-| [Saint-Légier](/saintlegier/#services) | oui | non | [prendre rendez-vous](/saintlegier/rendez-vous/) |
+| [Bussigny](/bussigny/services/) | oui | non | [prendre rendez-vous](/bussigny/rendez-vous/) |
+| [La Chaux-de-Fonds](/chauxdefonds/services/) | oui | oui | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
+| [Domdidier](/domdidier/services/) | oui | oui | [prendre rendez-vous](/domdidier/rendez-vous/) |
+| [Fribourg Ouest](/fribourg/services/), Givisiez | oui, oiseaux compris | oui | [prendre rendez-vous](/fribourg/rendez-vous/) |
+| [Lac-de-Joux](/lacdejoux/services/), L'Abbaye | oui | non | [prendre rendez-vous](/lacdejoux/rendez-vous/) |
+| [Payerne](/payerne/services/) | oui | oui | [prendre rendez-vous](/payerne/rendez-vous/) |
+| [Saint-Blaise](/saintblaise/services/) | oui | oui | [prendre rendez-vous](/saintblaise/rendez-vous/) |
+| [Saint-Légier](/saintlegier/services/) | oui | non | [prendre rendez-vous](/saintlegier/rendez-vous/) |
 
 ## Prendre rendez-vous
 

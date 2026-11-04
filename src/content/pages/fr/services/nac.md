@@ -132,23 +132,23 @@ Oui, dans cinq cliniques. L'anesthésie d'un animal de 100 grammes demande du ma
 
 ### Fribourg Ouest, à Givisiez
 
-C'est la clinique du groupe qui reçoit tous les NAC. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. La clinique opère aussi les petites espèces, oiseaux compris. Le détail est sur la page [NAC de Fribourg Ouest](/fribourg/services/nac/). [Prestations](/fribourg/#services) · [Rendez-vous](/fribourg/rendez-vous/)
+C'est la clinique du groupe qui reçoit tous les NAC. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. La clinique opère aussi les petites espèces, oiseaux compris. Le détail est sur la page [NAC de Fribourg Ouest](/fribourg/services/nac/). [Prestations](/fribourg/services/) · [Rendez-vous](/fribourg/rendez-vous/)
 
 ### Lapins et rongeurs, opérations des petits rongeurs comprises
 
-- La Chaux-de-Fonds : [prestations](/chauxdefonds/#services), [rendez-vous](/chauxdefonds/rendez-vous/)
-- Domdidier : [prestations](/domdidier/#services), [rendez-vous](/domdidier/rendez-vous/)
-- Payerne : [prestations](/payerne/#services), [rendez-vous](/payerne/rendez-vous/)
-- Saint-Blaise : [prestations](/saintblaise/#services), [rendez-vous](/saintblaise/rendez-vous/)
+- La Chaux-de-Fonds : [prestations](/chauxdefonds/services/), [rendez-vous](/chauxdefonds/rendez-vous/)
+- Domdidier : [prestations](/domdidier/services/), [rendez-vous](/domdidier/rendez-vous/)
+- Payerne : [prestations](/payerne/services/), [rendez-vous](/payerne/rendez-vous/)
+- Saint-Blaise : [prestations](/saintblaise/services/), [rendez-vous](/saintblaise/rendez-vous/)
 
 ### Lapins et rongeurs, sans opération des hamsters et des gerbilles
 
-- Lac-de-Joux, à L'Abbaye : [prestations](/lacdejoux/#services), [rendez-vous](/lacdejoux/rendez-vous/)
+- Lac-de-Joux, à L'Abbaye : [prestations](/lacdejoux/services/), [rendez-vous](/lacdejoux/rendez-vous/)
 
 ### Lapins et rongeurs, opérations du lapin seulement
 
-- Bussigny : [prestations](/bussigny/#services), [rendez-vous](/bussigny/rendez-vous/)
-- Saint-Légier : [prestations](/saintlegier/#services), [rendez-vous](/saintlegier/rendez-vous/)
+- Bussigny : [prestations](/bussigny/services/), [rendez-vous](/bussigny/rendez-vous/)
+- Saint-Légier : [prestations](/saintlegier/services/), [rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

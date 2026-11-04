@@ -23,7 +23,7 @@ const Titre = `h${niveau}` as const;
 const lien = await lienDeLaClinique(clinique, langue);
 ---
 
-<article class="clinique">
+<article class="clinique" data-clinique={clinique.id}>
   <Titre class="clinique__nom">
     {lienVersLaClinique ? <a href={lien}>{clinique.nom}</a> : clinique.nom}
   </Titre>
@@ -43,7 +43,9 @@ const lien = await lienDeLaClinique(clinique, langue);
     border: 1px solid var(--trait);
     border-radius: var(--rayon-carte);
     background: var(--blanc);
+    transition: border-color var(--transition), background-color var(--transition);
   }
+  .clinique[data-survol] { border-color: var(--menthe-texte); background: var(--menthe-pale); }
   .clinique__nom { font-size: var(--titre-3); }
   .clinique__nom a { color: inherit; text-decoration: none; }
   .clinique__nom a:hover { color: var(--menthe-texte); text-decoration: underline; }

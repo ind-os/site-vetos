@@ -8,8 +8,7 @@ import { photo } from '../lib/images.ts';
 import { adresse, type Page } from '../lib/pages.ts';
 import Accueil from '../composants/Accueil.astro';
 import Bouton from '../composants/Bouton.astro';
-import CarteClinique from '../composants/CarteClinique.astro';
-import CarteDesCliniques from '../composants/CarteDesCliniques.astro';
+import ReseauDesCliniques from '../composants/ReseauDesCliniques.astro';
 import Prose from '../composants/Prose.astro';
 import Section from '../composants/Section.astro';
 import Base from './Base.astro';
@@ -33,12 +32,7 @@ const photoDAccueil = photo('accueil', langue);
   </Accueil>
 
   <Section fond="gris" titre={t.cliniques.trouver} id="cliniques">
-    <div class="reseau">
-      <CarteDesCliniques cliniques={cliniques} langue={langue} />
-      <div class="reseau__cartes">
-        {cliniques.map((c) => <CarteClinique clinique={c} langue={langue} />)}
-      </div>
-    </div>
+    <ReseauDesCliniques cliniques={cliniques} langue={langue} fond="gris" />
   </Section>
 
   <div class="conteneur texte">
@@ -47,10 +41,5 @@ const photoDAccueil = photo('accueil', langue);
 </Base>
 
 <style>
-  .reseau { display: grid; gap: var(--espace-6); --fond-carte: var(--gris-bleute); }
-  .reseau__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
   .texte { padding-block: var(--section-y) var(--espace-8); }
-  @media (min-width: 72rem) {
-    .reseau { grid-template-columns: 26rem minmax(0, 1fr); align-items: start; }
-  }
 </style>

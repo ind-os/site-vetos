@@ -1,0 +1,45 @@
+---
+// La carte et les cliniques côte à côte : l'accueil du site et la page des cliniques.
+// Sur un grand écran, la carte reste visible le long de la liste. Survoler une clinique
+// allume son point, et survoler un point allume sa clinique (src/scripts/reseau.ts).
+import type { Langue } from '../config.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import CarteClinique from './CarteClinique.astro';
+import CarteDesCliniques from './CarteDesCliniques.astro';
+
+interface Props {
+  cliniques: Clinique[];
+  langue: Langue;
+  /** Ancre, pour le bouton « Prendre rendez-vous » de l'en-tête. */
+  id?: string;
+  /** Le niveau du titre de chaque clinique. */
+  niveau?: 2 | 3;
+  /** Le fond derrière la carte : le halo blanc des noms s'y fond. */
+  fond?: 'blanc' | 'gris';
+}
+
+const { cliniques, langue, id, niveau = 3, fond = 'blanc' } = Astro.props;
+---
+
+<div class:list={['reseau', { 'reseau--gris': fond === 'gris' }]} id={id} data-reseau>
+  <div class="reseau__carte">
+    <CarteDesCliniques cliniques={cliniques} langue={langue} />
+  </div>
+  <div class="reseau__cartes">
+    {cliniques.map((c) => <CarteClinique clinique={c} langue={langue} niveau={niveau} />)}
+  </div>
+</div>
+
+<script>
+  import '../scripts/reseau.ts';
+</script>
+
+<style>
+  .reseau { display: grid; gap: var(--espace-6); scroll-margin-top: var(--espace-5); }
+  .reseau--gris { --fond-carte: var(--gris-bleute); }
+  .reseau__cartes { display: grid; gap: var(--espace-4); grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); }
+  @media (min-width: 72rem) {
+    .reseau { grid-template-columns: 24rem minmax(0, 1fr); align-items: start; }
+    .reseau__carte { position: sticky; top: var(--espace-5); align-self: start; z-index: 1; }
+  }
+</style>

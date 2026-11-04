@@ -14,6 +14,7 @@ import QuestionsFrequentes from './QuestionsFrequentes.astro';
 import RendezVous from './RendezVous.astro';
 import Service from './Service.astro';
 import ServiceClinique from './ServiceClinique.astro';
+import ServicesClinique from './ServicesClinique.astro';
 import Simple from './Simple.astro';
 import Urgences from './Urgences.astro';
 
@@ -28,6 +29,7 @@ export const GABARITS: Record<TypeDePage, typeof Simple> = {
   conseil: Conseil,
   simple: Simple,
   'accueil-clinique': AccueilClinique,
+  'services-clinique': ServicesClinique,
   equipe: Equipe,
   contact: Contact,
   tarifs: Simple,

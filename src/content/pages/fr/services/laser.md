@@ -120,10 +120,10 @@ Oui. Le lapin supporte bien la séance, posé sur une serviette, sans contention
 
 Quatre cliniques ont un appareil de laser thérapeutique. Les autres cliniques Vetmint vous orientent vers la plus proche.
 
-- **[Bussigny](/bussigny/#services)**, à l'ouest de Lausanne : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- **[La Chaux-de-Fonds](/chauxdefonds/#services)**, pour les Montagnes neuchâteloises : chiens, chats, lapins et rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- **[Saint-Blaise](/saintblaise/#services)**, sur la rive nord du lac de Neuchâtel : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- **[Saint-Légier](/saintlegier/#services)**, au-dessus de Vevey : chiens, chats et lapins. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
+- **[Bussigny](/bussigny/services/)**, à l'ouest de Lausanne : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
+- **[La Chaux-de-Fonds](/chauxdefonds/services/)**, pour les Montagnes neuchâteloises : chiens, chats, lapins et rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- **[Saint-Blaise](/saintblaise/services/)**, sur la rive nord du lac de Neuchâtel : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
+- **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : chiens, chats et lapins. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

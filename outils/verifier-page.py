@@ -39,6 +39,7 @@ TAILLE_BARDEAU = 6
 # Fourchettes de mots par type de page (charte, section 3).
 VOLUMES = {
   "accueil-clinique": (900, 1400),
+  "services-clinique": (70, 400),
   "equipe": (500, 1500),
   "urgences": (700, 1200),
   "contact": (400, 900),
@@ -58,7 +59,7 @@ VOLUMES = {
   "conseil-categorie": (150, 500),
 }
 # Les types de page d'une clinique : le fichier est dans <langue>/<clinique>/.
-TYPES_CLINIQUE = {"accueil-clinique", "equipe", "urgences", "contact", "rendez-vous", "questions-frequentes", "tarifs", "abonnements", "service-clinique"}
+TYPES_CLINIQUE = {"accueil-clinique", "services-clinique", "equipe", "urgences", "contact", "rendez-vous", "questions-frequentes", "tarifs", "abonnements", "service-clinique"}
 TYPES_SIGNES = {"service", "conseil"}
 
 CLINIQUES = {
@@ -75,6 +76,9 @@ CLINIQUES = {
 # Liens obligatoires des pages françaises, par type : (libellé, expression régulière sur le href).
 # « {c} » est remplacé par l'identifiant de la clinique de la page.
 LIENS_OBLIGATOIRES = {
+  "services-clinique": [
+    ("rendez-vous", r"^/{c}/rendez-vous/$"), ("tarifs", r"^/{c}/tarifs/$"), ("téléphone", r"^tel:"),
+  ],
   "accueil-clinique": [
     ("rendez-vous", r"^/{c}/rendez-vous/$"), ("équipe", r"^/{c}/equipe/$"), ("contact", r"^/{c}/contact/$"),
     ("urgences", r"^/{c}/urgences/$"), ("tarifs", r"^/{c}/tarifs/$"), ("une page de service de la clinique", r"^/{c}/services/"),

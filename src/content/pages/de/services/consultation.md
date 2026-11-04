@@ -159,14 +159,14 @@ Das hängt von Ihrem Vertrag ab. Die Praxis stellt Ihnen eine detaillierte Rechn
 
 Alle acht Praxen Vetmint bieten Konsultationen von 30 Minuten an. Die Öffnungszeiten jeder Praxis stehen auf ihrer Seite.
 
-- [Bussigny](/de/bussigny/#services): Die Online-Reservation bietet die Konsultation, die Impfung, den ersten Besuch des Welpen oder Kätzchens und die Lasersitzung an. [Termin in Bussigny vereinbaren](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): die günstigste Konsultation der Gruppe, zu 54 Franken. Die Gesundheitskonsultation lässt sich online reservieren. [Termin in La Chaux-de-Fonds vereinbaren](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/#services): Osteopathie-Konsultationen für Hunde und Katzen. Die Praxis Payerne ist etwa zehn Minuten entfernt. [Termin in Domdidier vereinbaren](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: zwei schallisolierte Konsultationsräume, eine Heimtier-Konsultation und eine spezialisierte Konsultation in Chirurgie. [Termin in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: zwei Konsultationsräume und ein Analyselabor vor Ort. [Termin in Lac-de-Joux vereinbaren](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/#services): zwei Konsultationsräume und ein Labor, das an einen Computer angeschlossen ist, der die Ergebnisse direkt übermittelt. [Termin in Payerne vereinbaren](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Konsultationen mit Laser zusätzlich zu den allgemeinen Konsultationen. [Termin in Saint-Blaise vereinbaren](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): Die Online-Reservation dient den Impfungen; für eine Konsultation rufen Sie die [021 683 10 10](tel:+41216831010) an.
+- [Bussigny](/de/bussigny/leistungen/): Die Online-Reservation bietet die Konsultation, die Impfung, den ersten Besuch des Welpen oder Kätzchens und die Lasersitzung an. [Termin in Bussigny vereinbaren](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): die günstigste Konsultation der Gruppe, zu 54 Franken. Die Gesundheitskonsultation lässt sich online reservieren. [Termin in La Chaux-de-Fonds vereinbaren](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Osteopathie-Konsultationen für Hunde und Katzen. Die Praxis Payerne ist etwa zehn Minuten entfernt. [Termin in Domdidier vereinbaren](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: zwei schallisolierte Konsultationsräume, eine Heimtier-Konsultation und eine spezialisierte Konsultation in Chirurgie. [Termin in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: zwei Konsultationsräume und ein Analyselabor vor Ort. [Termin in Lac-de-Joux vereinbaren](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): zwei Konsultationsräume und ein Labor, das an einen Computer angeschlossen ist, der die Ergebnisse direkt übermittelt. [Termin in Payerne vereinbaren](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Konsultationen mit Laser zusätzlich zu den allgemeinen Konsultationen. [Termin in Saint-Blaise vereinbaren](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): Die Online-Reservation dient den Impfungen; für eine Konsultation rufen Sie die [021 683 10 10](tel:+41216831010) an.
 
 ## Termin vereinbaren
 

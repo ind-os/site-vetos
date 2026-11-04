@@ -142,12 +142,12 @@ Stellen Sie eine Stufe vor ihre Lieblingsplätze, ein Katzenklo mit niedrigem Ra
 
 ## Die Praxen, die Schmerzen behandeln
 
-Die Schmerzkonsultation findet in [Fribourg Ouest](/de/fribourg/#services) in Givisiez statt. Sie empfängt Tiere, die seit langer Zeit Schmerzen haben oder deren Schmerz auf die übliche Behandlung nicht anspricht, mit einem ersten Termin von einer Stunde.
+Die Schmerzkonsultation findet in [Fribourg Ouest](/de/fribourg/leistungen/) in Givisiez statt. Sie empfängt Tiere, die seit langer Zeit Schmerzen haben oder deren Schmerz auf die übliche Behandlung nicht anspricht, mit einem ersten Termin von einer Stunde.
 
 In allen Vetmint-Praxen gehört die Schmerzbehandlung zu jeder Operation, und ein anhaltender Schmerz wird in einer Konsultation von 30 Minuten verfolgt. Zwei ergänzende Behandlungen werden in einigen von ihnen durchgeführt:
 
-- die [Lasertherapie](/de/leistungen/lasertherapie/) in [Bussigny](/de/bussigny/#services), [La Chaux-de-Fonds](/de/chauxdefonds/#services), [Saint-Blaise](/de/saintblaise/#services) und [Saint-Légier](/de/saintlegier/#services);
-- die [Osteopathie](/de/leistungen/osteopathie/) in [Domdidier](/de/domdidier/#services) und in Fribourg Ouest.
+- die [Lasertherapie](/de/leistungen/lasertherapie/) in [Bussigny](/de/bussigny/leistungen/), [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/), [Saint-Blaise](/de/saintblaise/leistungen/) und [Saint-Légier](/de/saintlegier/leistungen/);
+- die [Osteopathie](/de/leistungen/osteopathie/) in [Domdidier](/de/domdidier/leistungen/) und in Fribourg Ouest.
 
 Für ein Kaninchen oder einen Nager beschreibt der Ratgeber [Arthrose bei Heimtieren](/de/ratgeber/arthrose-heimtiere/) die Anzeichen und die Anpassungen.
 

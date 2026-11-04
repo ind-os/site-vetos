@@ -1,12 +1,12 @@
 ---
 // L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; les
-// horaires, l'accès et les contacts ; les soins de la clinique ; le texte de la page avec la
-// carte de la clinique à côté ; un aperçu de l'équipe.
+// horaires, l'accès et les contacts ; le texte de la page avec la carte de la clinique à côté ;
+// un aperçu de l'équipe. La liste des soins est sur la page Services de la clinique.
 import { contexteDe } from '../lib/contexte.ts';
 import { adressePostale } from '../lib/cliniques.ts';
 import { enumerer, lienTelephone, lienWhatsapp } from '../lib/format.ts';
 import { photo, photos } from '../lib/images.ts';
-import { adresse, laPage, titreDe, type Page } from '../lib/pages.ts';
+import { adresse, type Page } from '../lib/pages.ts';
 import { balisageDeLaClinique, balisageDuGroupe } from '../lib/balisage.ts';
 import AppelUrgence from '../composants/AppelUrgence.astro';
 import Accueil from '../composants/Accueil.astro';
@@ -16,7 +16,6 @@ import Carte from '../composants/Carte.astro';
 import CarteClinique from '../composants/CarteClinique.astro';
 import CarteMembre from '../composants/CarteMembre.astro';
 import Horaires from '../composants/Horaires.astro';
-import Pastilles from '../composants/Pastilles.astro';
 import Prose from '../composants/Prose.astro';
 import Section from '../composants/Section.astro';
 import Base from './Base.astro';
@@ -32,13 +31,6 @@ const id = clinique.id;
 const lien = (cle: string) => adresse(langue, `${id}/${cle}`);
 
 const photoDAccueil = photo(`${id}:accueil`, langue, 1) ?? photo('accueil', langue);
-const services = await Promise.all(
-  clinique.services.map(async (slug) => {
-    const pageDuService = (await laPage(langue, `${id}/services/${slug}`)) ?? (await laPage(langue, `services/${slug}`));
-    const commune = await laPage(langue, `services/${slug}`);
-    return { libelle: commune?.data.nom ?? (commune ? titreDe(commune) : slug), href: pageDuService?.data.url ?? '#' };
-  }),
-);
 const equipe = clinique.equipe.slice(0, 4);
 const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
 ---
@@ -69,10 +61,6 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
         <p>{t.clinique.especes(especes)}</p>
       </Carte>
     </div>
-  </Section>
-
-  <Section titre={t.clinique.services} id="services">
-    <Pastilles liens={services} etiquette={t.clinique.services} />
   </Section>
 
   <div class="conteneur texte">

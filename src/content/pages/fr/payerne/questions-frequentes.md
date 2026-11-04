@@ -47,7 +47,7 @@ Le plan coûte 515 francs pour un an. Il comprend les consultations sur rendez-v
 
 ### Quels animaux soignez-vous ?
 
-Les chiens, les chats, les lapins et les rongeurs : cochons d'Inde, rats, chinchillas, hamsters, gerbilles et dègues. Nous les opérons aussi, y compris pour la castration et les soins des dents. La page [Prestations](/payerne/#services) dit ce qui se fait sur place.
+Les chiens, les chats, les lapins et les rongeurs : cochons d'Inde, rats, chinchillas, hamsters, gerbilles et dègues. Nous les opérons aussi, y compris pour la castration et les soins des dents. La page [Prestations](/payerne/services/) dit ce qui se fait sur place.
 
 ### Vous déplacez-vous à domicile ?
 

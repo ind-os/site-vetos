@@ -30,6 +30,8 @@ async function nomCourt(page: Page, t: Catalogue): Promise<string> {
       return n.accueil;
     case 'accueil-clinique':
       return page.data.clinique ? (await laClinique(page.data.clinique)).lieu : titreDe(page);
+    case 'services-clinique':
+      return n.services;
     case 'cliniques':
       return n.cliniques;
     case 'service-index':

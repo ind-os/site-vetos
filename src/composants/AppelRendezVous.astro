@@ -1,0 +1,29 @@
+---
+// Une petite carte pour la colonne de droite des pages longues (un service, un conseil) :
+// trouver une clinique et prendre rendez-vous, pendant toute la lecture. Le bouton mène
+// au choix de la clinique, là où chaque clinique a son bouton d'agenda.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import { adresse } from '../lib/pages.ts';
+import Bouton from './Bouton.astro';
+import Carte from './Carte.astro';
+
+interface Props {
+  langue: Langue;
+}
+
+const { langue } = Astro.props;
+const t = textes(langue);
+const cliniques = await adresse(langue, 'cliniques');
+---
+
+<div class="appel">
+  <Carte titre={t.cliniques.trouver} niveau={2}>
+    <p>{t.rendezVous.huitCliniques}</p>
+    <Bouton href={`${cliniques}#rendez-vous`} taille="petit" large>{t.rendezVous.bouton}</Bouton>
+  </Carte>
+</div>
+
+<style>
+  .appel :global(.bouton) { margin-top: var(--espace-2); }
+</style>

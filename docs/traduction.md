@@ -83,7 +83,7 @@ L'adresse allemande d'une page est l'adresse française précédée de `/de/`, a
 
 ### Services
 
-Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. La page d'un service dans une clinique : `/<clinique>/services/<service>/` devient `/de/<clinique>/leistungen/<Leistung>/`.
+Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. La page des services d'une clinique : `/<clinique>/services/` devient `/de/<clinique>/leistungen/`. La page d'un service dans une clinique : `/<clinique>/services/<service>/` devient `/de/<clinique>/leistungen/<Leistung>/`.
 
 | Service | Leistung |
 |---|---|
@@ -148,5 +148,5 @@ Pour chaque clinique, par exemple `payerne` :
 | `/payerne/rendez-vous/` | `/de/payerne/termin/` |
 | `/payerne/questions-frequentes/` | `/de/payerne/haeufige-fragen/` |
 | `/payerne/urgences/` | `/de/payerne/notfall/` |
+| `/payerne/services/` | `/de/payerne/leistungen/` |
 | `/payerne/services/<service>/` | `/de/payerne/leistungen/<Leistung>/` |
-| `/payerne/#services` | `/de/payerne/#services` |

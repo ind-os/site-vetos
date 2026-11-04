@@ -25,13 +25,14 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 |---|---|---|
 | `accueil-groupe` | accueil de vetmint.ch | premier écran, carte et cartes des huit cliniques |
 | `cliniques` | les cliniques | carte et cartes des huit cliniques, avec leur bouton de rendez-vous |
-| `service-index` | tous les services | rien : les listes de liens deviennent des cartes |
-| `service` | un service, page commune | photo, cliniques qui le pratiquent |
+| `service-index` | tous les services | listes de liens en cartes, rendez-vous à côté |
+| `service` | un service, page commune | photo, à côté le rendez-vous et les cliniques qui le pratiquent |
 | `urgences-groupe` | urgences de tout Vetmint | rien |
-| `conseil-index`, `conseil-categorie` | conseils santé, par espèce | cartes des conseils |
-| `conseil` | un conseil santé | photo, trois conseils de la même espèce |
+| `conseil-index`, `conseil-categorie` | conseils santé, par espèce | cartes des conseils, rendez-vous à côté |
+| `conseil` | un conseil santé | photo, rendez-vous à côté, trois conseils de la même espèce |
 | `simple` | tarifs et abonnements comparés, à propos, emploi, lettre d'information, pages légales | rien |
-| `accueil-clinique` | accueil d'une clinique | premier écran avec rendez-vous et urgence, horaires, accès, soins, aperçu de l'équipe |
+| `accueil-clinique` | accueil d'une clinique | premier écran avec rendez-vous et urgence, horaires, accès, aperçu de l'équipe |
+| `services-clinique` | les services d'une clinique | une carte par soin de la fiche |
 | `equipe` | équipe | une carte par personne de la fiche |
 | `contact` | contact | téléphone en grand, e-mail, WhatsApp, adresse, itinéraires, horaires, photos des locaux |
 | `tarifs`, `abonnements` | tarifs et abonnements de la clinique | carte de la clinique à côté |
@@ -65,6 +66,7 @@ Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa f
 | Adresse | Fichier | Type |
 |---|---|---|
 | `/<clinique>/` | `index.md` | `accueil-clinique` |
+| `/<clinique>/services/` | `services/index.md` | `services-clinique` |
 | `/<clinique>/equipe/` | `equipe.md` | `equipe` |
 | `/<clinique>/contact/` | `contact.md` | `contact` |
 | `/<clinique>/tarifs/` | `tarifs.md` | `tarifs` |

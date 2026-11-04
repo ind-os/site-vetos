@@ -1,10 +1,11 @@
 ---
-// Un service, page commune : ce qu'il est, comment il se passe, ses prix. À côté, les cliniques
-// qui le pratiquent, chacune vers sa page du service.
+// Un service, page commune : ce qu'il est, comment il se passe, ses prix. À côté, le rendez-vous
+// et les cliniques qui le pratiquent, chacune vers sa page du service.
 import { contexteDe } from '../lib/contexte.ts';
 import { lesCliniques, lienDeLaClinique } from '../lib/cliniques.ts';
 import { photo } from '../lib/images.ts';
 import { slugDe, type Page } from '../lib/pages.ts';
+import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
@@ -22,13 +23,18 @@ const cliniques = await Promise.all(
 );
 ---
 
-<PageInterieure contexte={contexte} photo={photo(`service:${slug}`, langue)} cote={cliniques.length > 0}>
+<PageInterieure contexte={contexte} photo={photo(`service:${slug}`, langue)}>
   <Prose html={html} chapeau />
   <Fragment slot="cote">
-    <nav class="cliniques" aria-labelledby="dans-quelles-cliniques">
-      <h2 id="dans-quelles-cliniques">{t.services.dansQuellesCliniques}</h2>
-      <ul>{cliniques.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
-    </nav>
+    <AppelRendezVous langue={langue} />
+    {
+      cliniques.length > 0 && (
+        <nav class="cliniques" aria-labelledby="dans-quelles-cliniques">
+          <h2 id="dans-quelles-cliniques">{t.services.dansQuellesCliniques}</h2>
+          <ul>{cliniques.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
+        </nav>
+      )
+    }
   </Fragment>
 </PageInterieure>
 

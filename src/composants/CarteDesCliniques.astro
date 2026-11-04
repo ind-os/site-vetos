@@ -1,7 +1,7 @@
 ---
 // La carte romande des huit cliniques, en SVG, sans bibliothèque de carte : les lacs en gris
 // bleuté, un point par clinique placé d'après ses coordonnées. Chaque point est un lien vers la
-// clinique. La clinique de la page est en menthe.
+// clinique. La clinique de la page, et celle survolée dans la liste, sont en menthe.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import { adressePostale, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
@@ -63,7 +63,7 @@ const lausanne = projeter(46.5197, 6.6323);
     </g>
     {
       points.map((p) => (
-        <a href={p.lien} class:list={['carte-cliniques__point', { 'carte-cliniques__point--actuelle': p.actuelle }]} aria-label={p.aria}>
+        <a href={p.lien} class:list={['carte-cliniques__point', { 'carte-cliniques__point--actuelle': p.actuelle }]} data-clinique={p.id} aria-label={p.aria}>
           <circle cx={p.x} cy={p.y} r={p.actuelle ? 11 : 8} />
           <text x={p.x + p.etiquette.dx} y={p.y + p.etiquette.dy} text-anchor={p.etiquette.ancre}>{p.lieu}</text>
         </a>
@@ -89,9 +89,11 @@ const lausanne = projeter(46.5197, 6.6323);
     transition: fill var(--transition);
   }
   .carte-cliniques__point:hover circle,
-  .carte-cliniques__point--actuelle circle { fill: var(--menthe-texte); }
+  .carte-cliniques__point--actuelle circle,
+  .carte-cliniques__point[data-survol] circle { fill: var(--menthe-texte); }
   .carte-cliniques__point:hover text,
-  .carte-cliniques__point--actuelle text { fill: var(--menthe-fonce); }
+  .carte-cliniques__point--actuelle text,
+  .carte-cliniques__point[data-survol] text { fill: var(--menthe-fonce); }
   .carte-cliniques__point:hover text { text-decoration: underline; }
   .carte-cliniques__point:focus-visible { outline: none; }
   .carte-cliniques__point:focus-visible circle { stroke: var(--focus); stroke-width: 4; }

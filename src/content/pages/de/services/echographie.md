@@ -124,14 +124,14 @@ Ja, im Wesentlichen: Die Tierärztin oder der Tierarzt sieht die Organe live und
 
 ## Die Praxen mit Ultraschall
 
-- [Bussigny](/de/bussigny/#services): Ultraschall von Bauch, Trächtigkeit und Herz. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/#services): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/chauxdefonds/termin/)
-- [Fribourg Ouest](/de/fribourg/#services), in Givisiez: Ultraschallgerät, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/#services), in L'Abbaye: Ultraschallgerät in der Praxis, Trächtigkeitsultraschall mit Konsultation. [Termin](/de/lacdejoux/termin/)
-- [Saint-Blaise](/de/saintblaise/#services): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/#services): vollständiger Bauchultraschall, Trächtigkeits- und Herzultraschall. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): Ultraschall von Bauch, Trächtigkeit und Herz. [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/chauxdefonds/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Ultraschallgerät, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Ultraschallgerät in der Praxis, Trächtigkeitsultraschall mit Konsultation. [Termin](/de/lacdejoux/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): vollständiger Bauchultraschall, Trächtigkeits- und Herzultraschall. [Termin](/de/saintlegier/termin/)
 
-Die Praxen [Domdidier](/de/domdidier/#services) und [Payerne](/de/payerne/#services) überweisen ihre Patienten für den Ultraschall an die Praxis Fribourg Ouest. Die Tierärztin oder der Tierarzt, die oder der Ihr Tier betreut, übermittelt die Akte und die Analysen.
+Die Praxen [Domdidier](/de/domdidier/leistungen/) und [Payerne](/de/payerne/leistungen/) überweisen ihre Patienten für den Ultraschall an die Praxis Fribourg Ouest. Die Tierärztin oder der Tierarzt, die oder der Ihr Tier betreut, übermittelt die Akte und die Analysen.
 
 ## Einen Termin vereinbaren
 

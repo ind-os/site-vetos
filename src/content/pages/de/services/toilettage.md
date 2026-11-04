@@ -125,12 +125,12 @@ Das Bad entfernt einen Teil der Flöhe, nicht aber ihre Eier im Haus. Die Fellpf
 
 Fellpflege, Entfilzen und Sedierung finden in zwei Praxen der Broye statt, mit derselben Preisliste:
 
-- [Payerne](/de/payerne/#services), route du Châtelard 13 ([Termin](/de/payerne/termin/))
-- [Domdidier](/de/domdidier/#services), route de Saint-Aubin 58 ([Termin](/de/domdidier/termin/))
+- [Payerne](/de/payerne/leistungen/), route du Châtelard 13 ([Termin](/de/payerne/termin/))
+- [Domdidier](/de/domdidier/leistungen/), route de Saint-Aubin 58 ([Termin](/de/domdidier/termin/))
 
 Die anderen [Vetmint-Praxen](/de/praxen/) verweisen Sie an eine der beiden.
 
-[La Chaux-de-Fonds](/de/chauxdefonds/#services) führt das Entfilzen von Katzen unter Narkose durch, ab 200 Franken ([Termin](/de/chauxdefonds/termin/)).
+[La Chaux-de-Fonds](/de/chauxdefonds/leistungen/) führt das Entfilzen von Katzen unter Narkose durch, ab 200 Franken ([Termin](/de/chauxdefonds/termin/)).
 
 ## Termin vereinbaren
 

@@ -14,6 +14,7 @@ export const TYPES_DE_PAGE = [
   'simple',
   // Pages d'une clinique
   'accueil-clinique',
+  'services-clinique',
   'equipe',
   'contact',
   'tarifs',
@@ -28,10 +29,11 @@ export type TypeDePage = (typeof TYPES_DE_PAGE)[number];
 
 /**
  * Les pages que chaque clinique en ligne doit avoir, dans chaque langue : le chemin du fichier
- * sous src/content/pages/<langue>/<clinique>/. La page urgences s'ajoute si la fiche dit que la
- * clinique reçoit les urgences, et une page par service de la fiche dans services/.
+ * sous src/content/pages/<langue>/<clinique>/. La page des services liste les soins de la fiche.
+ * La page urgences s'ajoute si la fiche dit que la clinique reçoit les urgences, et une page
+ * par service de la fiche dans services/.
  */
-export const PAGES_DE_CLINIQUE = ['index', 'equipe', 'contact', 'tarifs', 'rendez-vous', 'questions-frequentes', 'abonnements'] as const;
+export const PAGES_DE_CLINIQUE = ['index', 'services/index', 'equipe', 'contact', 'tarifs', 'rendez-vous', 'questions-frequentes', 'abonnements'] as const;
 
 /** Les pages obligatoires d'une clinique, d'après sa fiche. */
 export function pagesObligatoires(fiche: { id: string; urgences: boolean; services: string[] }): string[] {

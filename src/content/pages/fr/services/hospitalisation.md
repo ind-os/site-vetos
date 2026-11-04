@@ -129,14 +129,14 @@ Le vétérinaire vous appelle dès qu'il le constate. Il vous explique ce qui ch
 
 Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs.
 
-- [Bussigny](/bussigny/#services) : hospitalisation après les opérations et pour les soins par perfusion. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/#services) : soins à domicile pour la suite d'une hospitalisation. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/#services), à Givisiez : boxes individuels, séparation des espèces, espace de visite, vétérinaire présent le soir et le week-end, hospitalisation des NAC, oiseaux et reptiles compris. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/#services), à L'Abbaye : salle d'hospitalisation à boxes individuels. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/#services) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/#services) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/#services) : salle d'hospitalisation à la lumière du jour. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : hospitalisation après les opérations et pour les soins par perfusion. [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : soins à domicile pour la suite d'une hospitalisation. [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : boxes individuels, séparation des espèces, espace de visite, vétérinaire présent le soir et le week-end, hospitalisation des NAC, oiseaux et reptiles compris. [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : salle d'hospitalisation à boxes individuels. [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : salle d'hospitalisation à la lumière du jour. [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

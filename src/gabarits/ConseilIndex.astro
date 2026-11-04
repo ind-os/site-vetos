@@ -1,9 +1,10 @@
 ---
 // L'index des conseils santé, et chaque catégorie (chien, chat, NAC) : le texte de la page, puis
-// les conseils en cartes, filtrés par espèce pour une catégorie.
+// les conseils en cartes, filtrés par espèce pour une catégorie. Le rendez-vous reste à côté.
 import { contexteDe } from '../lib/contexte.ts';
 import { premierePhoto } from '../lib/images.ts';
 import { lesPages, minutesDeLecture, slugDe, titreDe, type Page } from '../lib/pages.ts';
+import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import CarteConseil from '../composants/CarteConseil.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
@@ -18,8 +19,9 @@ const espece = page.data.type === 'conseil-categorie' ? page.data.especes?.[0] :
 const conseils = (await lesPages(langue, 'conseil')).filter((c) => !espece || c.data.especes?.includes(espece));
 ---
 
-<PageInterieure contexte={contexte} cote={false}>
+<PageInterieure contexte={contexte}>
   <Prose html={html} chapeau />
+  <AppelRendezVous slot="cote" langue={langue} />
   <section class="conseils" aria-labelledby="liste-des-conseils">
     <h2 id="liste-des-conseils" class="visuellement-cache">{t.conseils.tous}</h2>
     {

@@ -132,14 +132,14 @@ Le vétérinaire NAC de Fribourg Ouest donne des conférences et des formations 
 
 Les huit cliniques conseillent les éleveurs, opèrent les césariennes et réalisent les radiographies officielles de dépistage.
 
-- [Bussigny](/bussigny/#services) : échographie de gestation, rations alimentaires personnalisées ; [rendez-vous](/bussigny/rendez-vous/).
-- [La Chaux-de-Fonds](/chauxdefonds/#services) : échographie de gestation, puces miniatures ; [rendez-vous](/chauxdefonds/rendez-vous/).
-- [Domdidier](/domdidier/#services) : puces miniatures et thermochips ; [rendez-vous](/domdidier/rendez-vous/).
-- [Fribourg Ouest](/fribourg/#services) : consultations NAC, puces miniatures ; [rendez-vous](/fribourg/rendez-vous/).
-- [Lac-de-Joux](/lacdejoux/#services) : échographie de gestation avec consultation ; [rendez-vous](/lacdejoux/rendez-vous/).
-- [Payerne](/payerne/#services) : puces miniatures et thermochips ; [rendez-vous](/payerne/rendez-vous/).
-- [Saint-Blaise](/saintblaise/#services) : échographie de gestation, puces miniatures ; [rendez-vous](/saintblaise/rendez-vous/).
-- [Saint-Légier](/saintlegier/#services) : échographie, rations alimentaires personnalisées ; rendez-vous au [021 683 10 10](tel:+41216831010).
+- [Bussigny](/bussigny/services/) : échographie de gestation, rations alimentaires personnalisées ; [rendez-vous](/bussigny/rendez-vous/).
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : échographie de gestation, puces miniatures ; [rendez-vous](/chauxdefonds/rendez-vous/).
+- [Domdidier](/domdidier/services/) : puces miniatures et thermochips ; [rendez-vous](/domdidier/rendez-vous/).
+- [Fribourg Ouest](/fribourg/services/) : consultations NAC, puces miniatures ; [rendez-vous](/fribourg/rendez-vous/).
+- [Lac-de-Joux](/lacdejoux/services/) : échographie de gestation avec consultation ; [rendez-vous](/lacdejoux/rendez-vous/).
+- [Payerne](/payerne/services/) : puces miniatures et thermochips ; [rendez-vous](/payerne/rendez-vous/).
+- [Saint-Blaise](/saintblaise/services/) : échographie de gestation, puces miniatures ; [rendez-vous](/saintblaise/rendez-vous/).
+- [Saint-Légier](/saintlegier/services/) : échographie, rations alimentaires personnalisées ; rendez-vous au [021 683 10 10](tel:+41216831010).
 
 Pour les rongeurs, la fiche [le cochon d'Inde](/conseils/le-cochon-d-inde/) reprend l'âge de reproduction et la durée de gestation.
 

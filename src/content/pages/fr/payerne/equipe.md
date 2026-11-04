@@ -82,7 +82,7 @@ La consultation dure 30 minutes. Le vétérinaire examine votre animal de la tê
 
 ### Le jour d'une opération
 
-Vous déposez votre animal le matin et vous le reprenez en fin de journée. L'assistante prépare la salle d'opération et le matériel d'anesthésie. Le vétérinaire examine l'animal avant de l'endormir, l'opère, puis l'assistante surveille son réveil. Le vétérinaire vous téléphone quand l'opération est finie. Le détail des soins et des examens faits sur place est sur la page [Prestations](/payerne/#services).
+Vous déposez votre animal le matin et vous le reprenez en fin de journée. L'assistante prépare la salle d'opération et le matériel d'anesthésie. Le vétérinaire examine l'animal avant de l'endormir, l'opère, puis l'assistante surveille son réveil. Le vétérinaire vous téléphone quand l'opération est finie. Le détail des soins et des examens faits sur place est sur la page [Prestations](/payerne/services/).
 
 Pour voir l'un des deux vétérinaires, appelez le [026 660 16 16](tel:+41266601616) ou choisissez un créneau en ligne.
 
