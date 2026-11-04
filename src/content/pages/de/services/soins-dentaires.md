@@ -6,25 +6,10 @@ description: "Zahnsteinentfernung bei Hund und Katze bei Vetmint: Narkose, ein V
 h1: Zahnbehandlung und Zahnsteinentfernung bei Hund und Katze
 nom: Zahnbehandlung
 recherche: Zahnsteinentfernung Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 6
 resume: Die Zahnsteinentfernung in Narkose, die Extraktionen, das Zähneputzen zu Hause und die Preise in den acht Praxen.
-sources:
-  - vetmint.ch/soins-et-hygiene-dentaires/ et /soins-et-hygiene-dentaires-2/ (déroulement, hygiène, brossage), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques (détartrage et polissage, extractions, extraction totale), valables dès le 29 avril 2025 (Domdidier dès le 1er avril 2023)
-  - bussigny.vetmint.ch/abonnements/ (abonnements Adulte+ et Senior avec détartrage annuel)
-  - pages Prestations des huit cliniques, fribourg.vetmint.ch/nac/ (soins dentaires des NAC), domdidier.vetmint.ch/specialiste/ (médecin-dentiste)
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (parage dentaire du lapin)
-  - connaissances vétérinaires courantes pour la maladie des gencives, les signes et les suites, à valider par le relecteur
-a_remplacer:
-  - "Heure de dépôt le matin du détartrage (entre 7 h 30 et 8 h 30) : à confirmer par chaque clinique"
-  - "Appel au propriétaire avant toute extraction non prévue : à confirmer par Vetmint"
-  - "Contrôle 7 à 10 jours après une extraction : à confirmer par le relecteur"
-  - "Détartrage programmé après une consultation d'examen de la bouche avec devis : à confirmer par Vetmint"
 ---
 
 Die Zahnsteinentfernung bei Hund und Katze erfolgt unter Vollnarkose, in der Praxis, an einem Vormittag. Die Tierärztin oder der Tierarzt kontrolliert jeden Zahn und entfernt den Zahnstein über und unter dem Zahnfleisch. Sie oder er röntgt fragliche Zähne, zieht die Zähne, die nicht mehr zu retten sind, und poliert dann den Zahnschmelz. Die Pauschale kostet je nach Praxis 300 bis 345 Franken, Narkose inbegriffen. Ihr Tier geht am Nachmittag nach Hause.
@@ -158,5 +143,3 @@ Die acht Praxen Vetmint führen die Zahnsteinentfernung mit Ultraschall, das Pol
 ## Termin vereinbaren
 
 Die Zahnsteinentfernung wird nach einer Konsultation geplant: Die Tierärztin oder der Tierarzt untersucht das Maul und gibt Ihnen eine Offerte mit der voraussichtlichen Zahl der Extraktionen. Sagen Sie am Telefon, dass Sie wegen der Zähne kommen. Wählen Sie Ihre Praxis auf der [Praxiskarte](/de/praxen/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

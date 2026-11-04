@@ -8,20 +8,6 @@ h1: Kastration und Sterilisation in Payerne
 recherche: Katze sterilisieren Payerne
 redige_le: 2026-11-03
 resume: "Katzen, Hunde, Kaninchen und Nager werden vor Ort operiert, mit Pauschalen von 115 bis 810 Franken."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, prestations, plan de prévention, cabinet, contact), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (équipe, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Opérations programmées le matin, du lundi au vendredi"
-  - "Dépôt de l'animal à 8 h, reprise entre 16 h et 18 h, jusqu'à 19 h le mardi"
-  - "Appel du vétérinaire à la fin de l'opération ; appel d'une assistante le lendemain"
-  - "Contrôle après l'opération sur un créneau de 15 minutes"
-  - "Surveillance de l'anesthésie et du réveil par une assistante en médecine vétérinaire"
-  - "Stérilisation de la lapine et opérations des rongeurs sur devis, absentes de la grille de Payerne"
-  - "Forfait de la chienne et du chien au même prix quel que soit le poids, hors traitements imprévus"
-  - "Dernier repas du chien et du chat la veille au soir, eau laissée jusqu'au matin"
 ---
 
 Die Tierarztpraxis Vetmint in Payerne kastriert und sterilisiert Katzen, Hunde und Kaninchen in ihrem Operationssaal an der Route du Châtelard 13. Sie operiert auch Meerschweinchen, Ratten, Chinchillas, Hamster, Wüstenrennmäuse und Degus. In Payerne kostet die Sterilisation einer Kätzin 260 Franken und die Kastration eines Katers 115 Franken. Ihr Tier kommt am selben Abend mit Ihnen nach Hause.
@@ -95,5 +81,3 @@ Sie wacht in Ruhe auf, in einem Käfig der stationären Betreuung, der für eine
 Das Alter für die Operation, ihre Gründe und die Zeit danach zu Hause sind auf der Seite [Alles über Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/) erklärt. Die übrigen Operationen sind auf der Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschrieben.
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

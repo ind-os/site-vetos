@@ -5,24 +5,10 @@ title: "Bilan sanguin du chien et du chat : à quoi sert-il | Vetmint"
 description: "Bilan sanguin du chien, du chat ou du lapin : avant une anesthésie, pour un animal malade, âgé ou d'une race à risque. Ce qu'il mesure, comment il se passe."
 h1: "Bilan sanguin : à quoi sert une prise de sang"
 recherche: bilan sanguin chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 5
 resume: Avant une opération, pour un animal malade ou âgé, la prise de sang montre ce que l'examen ne voit pas.
-sources:
-  - contenu-des-pages.md, vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, pages Prestations des cliniques (« analyses de sang dans notre laboratoire »)
-  - contenu-des-pages.md, bussigny.vetmint.ch/abonnements/ (test sanguin annuel des abonnements)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (jamais de jeûne pour un lapin)
-  - connaissances vétérinaires courantes (charte 5.3) pour le déroulement de la prise de sang et la préparation
-a_remplacer:
-  - "Résultat des analyses courantes pendant la consultation ou dans l'heure : délai à confirmer par chaque clinique"
-  - "Analyses spéciales envoyées à un laboratoire externe, résultat en deux à trois jours ouvrables : délai à confirmer par Vetmint"
-  - "Jeûne de 8 à 12 heures avant un bilan complet du chien et du chat : à valider par le vétérinaire relecteur"
-  - "Section « Comment se passe la prise de sang » (veine de la patte ou du cou, quelques minutes, petit pansement) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Au cours de sa vie, votre animal aura sans doute une ou plusieurs prises de sang. Le bilan sanguin est un examen complémentaire : il montre ce que la consultation ne voit pas. Il renseigne le vétérinaire sur le travail des organes, la coagulation, le taux de sucre dans le sang ou la présence d'une anémie, entre autres. Il concerne le chien, le chat et la plupart des NAC, lapin compris.
@@ -78,5 +64,3 @@ Appelez le jour même s'il a les gencives très pâles, s'effondre ou respire av
 Les [abonnements](/abonnements/) Vetmint pour chiens et chats comprennent une prise de sang par an, avec deux consultations et le vaccin. L'abonnement senior, dès 7 ans, y ajoute une analyse d'urine et une mesure de la tension. Les prix des analyses hors abonnement figurent sur la page [Tarifs](/tarifs/).
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

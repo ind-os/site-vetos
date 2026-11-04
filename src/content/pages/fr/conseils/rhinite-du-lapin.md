@@ -5,20 +5,10 @@ title: "Rhinite du lapin : signes, causes, traitement | Vetmint"
 description: "Rhinite du lapin : éternuements, nez qui coule, yeux qui pleurent. Ce qui l'entretient, quand consulter, examens et traitement. Par les vétérinaires Vetmint."
 h1: La rhinite chez le lapin
 recherche: rhinite lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 13
 resume: Un lapin qui éternue et dont le nez coule a souvent une rhinite, qui se soigne mieux quand elle est prise tôt.
-sources:
-  - contenu-des-pages.md, vetmint.ch/rhinite-du-lapin/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Délai de deux jours d'écoulement avant de prendre rendez-vous : à confirmer par le vétérinaire relecteur"
-  - "Contagion entre lapins et séparation pendant le traitement : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Une rhinite est une inflammation de l'intérieur du nez. Chez le lapin, elle va souvent de pair avec une infection. Elle peut toucher un lapin de tout âge, surtout s'il vit dans un air sec, poussiéreux ou enfumé. Soignée dès les premiers signes, elle guérit mieux. Laissée sans traitement, elle a tendance à durer et à revenir.
@@ -87,5 +77,3 @@ Les bactéries en cause peuvent se transmettre entre lapins qui vivent ensemble.
 Nos vétérinaires reçoivent les lapins en consultation. La page [Médecine des NAC](/services/nac/) décrit ce que nous faisons pour eux. Pour une rhinite qui dure ou revient, la clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

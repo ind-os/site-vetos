@@ -8,20 +8,6 @@ h1: L'équipe de Vetmint Payerne
 recherche: vétérinaire Payerne
 redige_le: 2026-10-16
 resume: Deux vétérinaires, deux assistantes, un apprenti et une préapprentie, route du Châtelard 13.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/equipe/ (portraits écrits par les intéressés), relevé du 16 octobre 2026
-  - "contenu-des-pages.md, payerne.vetmint.ch (accueil : langues, accueil des animaux anxieux ; cabinet : locaux)"
-  - miroir de payerne.vetmint.ch/equipe/ et medias.csv (dates de mise en ligne des photos)
-a_remplacer:
-  - "Tâches de chaque vétérinaire : consultations, opérations et urgences de la journée partagées entre les deux"
-  - "Tiago Capelo : chiens, chats et NAC en consultation ; parcours et formation non publiés"
-  - "Répartition des tâches des assistantes (téléphone, préparation du bloc, surveillance de l'anesthésie, appel du lendemain)"
-  - "Suivi d'un animal par le même vétérinaire quand l'agenda le permet"
-  - "Apprentissage d'assistante en médecine vétérinaire en trois ans, avec les cours à l'école professionnelle"
-  - "Gestes contre le stress : animal qui sort seul de sa caisse, friandise, chat qui attend dans sa caisse couverte"
-  - "Appel du vétérinaire à la fin de l'opération"
-  - "Langues : l'accueil actuel dit « français, allemand et anglais » ; la page ne cite que l'allemand de Claire-Lise Tinguely et de Jessy Dizerens, à confirmer"
-  - "Arrivée d'Annie Pasquier à l'été 2025 (le site actuel dit « depuis cet été », photo mise en ligne en octobre 2025)"
 ---
 
 Six personnes soignent les animaux à la clinique Vetmint Payerne : deux vétérinaires, deux assistantes en médecine vétérinaire, un apprenti et une préapprentie. Elles reçoivent les chiens, les chats, les lapins et les rongeurs, à la route du Châtelard 13. À l'accueil comme en consultation, l'équipe parle français ; Claire-Lise Tinguely et Jessy Dizerens parlent aussi allemand.

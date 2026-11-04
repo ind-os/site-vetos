@@ -5,22 +5,10 @@ title: "Pancréatite chez le chien : signes et traitement | Vetmint"
 description: "Pancréatite du chien : vomissements, ventre douloureux, abattement. Quand appeler, les examens, la perfusion et les repas pauvres en graisses à donner ensuite."
 h1: Pancréatite chez le chien
 recherche: pancréatite chien
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien]
 ordre: 7
 resume: Un chien qui vomit, souffre du ventre et refuse de manger peut faire une pancréatite, à soigner vite.
-sources:
-  - contenu-des-pages.md, vetmint.ch/la-pancreatite-chez-le-chien/ (relevé du 16 octobre 2026)
-  - connaissances vétérinaires courantes (charte 5.3) pour les causes, les signes d'urgence, les examens et le lien avec le diabète
-a_remplacer:
-  - "Section « Ce qui la déclenche » (repas gras, restes de table, poubelle, surpoids, schnauzer nain, certains médicaments) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Section « Comment le vétérinaire pose le diagnostic » (enzyme du pancréas mesurée dans le sang, échographie) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Absence de médicament qui éteigne l'inflammation, médicament contre les vomissements, lien avec le diabète après des crises répétées : ajouts de la rédaction, à valider par le vétérinaire relecteur"
-  - "Section « Quand consulter » (signes qui imposent d'appeler le jour même, selles molles répétées comme signe de forme chronique) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Position de prière comme signe de douleur du ventre : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 La pancréatite est une inflammation du pancréas, l'organe placé près de l'estomac qui fabrique les sucs de la digestion et l'insuline. Le plus souvent, aucune infection n'est en cause. La crise peut être soudaine (pancréatite aiguë) ou revenir par épisodes pendant des mois (pancréatite chronique). Elle est douloureuse et peut devenir grave en quelques heures.
@@ -87,5 +75,3 @@ Une pancréatite peut revenir. Chaque crise abîme un peu plus le pancréas, qui
 Une consultation dure 30 minutes chez Vetmint. Le vétérinaire examine votre chien, fait les analyses sur place et prépare avec vous le plan des repas. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

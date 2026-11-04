@@ -5,12 +5,12 @@ description: "À suivre pour écrire, réécrire ou traduire un texte du site Ve
 
 # Rédiger une page
 
-Les règles et le pourquoi sont dans `docs/` : le plan des pages (`docs/plan-des-pages.md`), le format (`docs/format-des-pages.md`), la voix et les plans types (`docs/charte-redactionnelle.md`), la traduction (`docs/traduction.md`). Cette skill dit les gestes et les vérifications. Lis la charte en entier à la première page d'une session.
+Les règles et le pourquoi sont dans `docs/` : le plan des pages (`docs/plan-des-pages.md`), le format (`docs/format-des-pages.md`), la voix, le vocabulaire et le référencement (`docs/charte-redactionnelle.md`), la traduction (`docs/traduction.md`). Cette skill dit les gestes et les vérifications. Lis la charte en entier à la première page d'une session.
 
 ## 1. Situer la page
 
 1. Trouve le type de la page et son fichier dans `docs/plan-des-pages.md`. Une page qui existe se modifie dans son fichier ; une page nouvelle prend le chemin et le type du plan.
-2. Relis le plan type de ce type dans la charte (section 3) : sections, volume, liens obligatoires, modèles de title et de description.
+2. Ouvre une page existante du même type (champ `type` de l'en-tête) et prends-la pour modèle : sections, longueur, liens, forme du title et de la description. Pour une page d'une clinique, la même page de Payerne.
 3. Note la recherche visée par la page : une seule expression, par exemple « radiographie chien Payerne ».
 
 ## 2. Rassembler les faits
@@ -20,14 +20,14 @@ Les règles et le pourquoi sont dans `docs/` : le plan des pages (`docs/plan-des
 3. La personne qui demande la modification : un prix, un horaire, un nom qu'elle donne fait foi.
 4. Quand deux sources se contredisent, garde les deux valeurs et demande à la personne laquelle est juste.
 
-Un fait qui manque ne s'invente pas (charte, section 5). Ne s'inventent jamais : un nom de personne, un diplôme, un avis, un partenaire, une marque.
+Un fait qui manque ne s'invente pas (charte, section 4). Ne s'inventent jamais : un nom de personne, un diplôme, un avis, un partenaire, une marque.
 
 ## 3. Écrire en français
 
 1. L'en-tête d'abord, au format de `docs/format-des-pages.md`.
-2. Le corps, section par section, selon le plan type. Le H1 n'est pas dans le corps.
+2. Le corps, section par section, sur le modèle de la page du même type. Le H1 n'est pas dans le corps.
 3. Les horaires et le numéro de garde dans leur bloc de données, jamais écrits à la main.
-4. Les liens obligatoires du plan type ; les téléphones en `tel:+41…`.
+4. Les liens vers les pages liées (rendez-vous, tarifs, page commune du service) ; les téléphones en `tel:+41…`.
 5. Relis une fois contre la voix de la charte : phrases courtes, aucun slogan, aucun adjectif de valeur, aucun tiret d'incise, aucun point d'exclamation.
 
 Vérifie, et corrige jusqu'à zéro erreur :
@@ -59,6 +59,4 @@ python3 -I outils/verifier-page.py src/content/pages/de/<chemin>.md
 En français, court :
 
 1. Les pages modifiées, leur adresse dans chaque langue, le résultat des vérifications.
-2. Les faits qui restent à confirmer (`a_remplacer`) et qui peut les confirmer.
-3. Les contradictions rencontrées entre sources.
-4. Pour un service ou un conseil : la relecture par un vétérinaire reste à faire tant que la signature dit « Relecture vétérinaire en attente ».
+2. Les faits que tu as retirés faute de les connaître.

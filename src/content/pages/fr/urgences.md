@@ -5,26 +5,10 @@ title: "Vétérinaire de garde : numéros et prix | Vetmint"
 description: "Urgence vétérinaire dans une clinique Vetmint : qui appeler de jour, quel numéro de garde la nuit et le week-end, prix de l'appel et suppléments d'urgence."
 h1: Urgences et vétérinaire de garde dans les cliniques Vetmint
 recherche: vétérinaire de garde
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 19
 especes: [chien, chat, nac]
 resume: Le bon numéro selon l'heure et la clinique, le prix d'une urgence et les signes qui ne peuvent pas attendre.
-sources:
-  - pages Urgences et accueils des huit sites de clinique (numéros de garde, prix de l'appel, Médi-Vet au Lac-de-Joux, répondeur de Saint-Légier), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes, suppléments d'urgence)
-  - fribourg.vetmint.ch/equipe/ (vétérinaire présent le soir et le week-end à Fribourg Ouest)
-  - lacdejoux.vetmint.ch, questions fréquentes (urgences reçues pendant les heures d'ouverture)
-  - pages Prestations des huit cliniques (laboratoire, radiographie, hospitalisation)
-  - connaissances vétérinaires courantes pour le tri des urgences et les questions posées au téléphone, à valider par le relecteur
-a_remplacer:
-  - "Prix de l'appel au 0900 022 022 de Médi-Vet, Lac-de-Joux (2 francs la minute) : à confirmer par la clinique"
-  - "Numéro de garde de Fribourg Ouest (0900 80 70 60, repris de la page Urgences actuelle, qui affiche aussi le téléphone et l'e-mail de Saint-Blaise) : à confirmer par la clinique"
-  - "Numéro de garde de Domdidier et de Payerne (0900 904 904, pages Urgences ; les accueils affichent 026 466 34 35) : à confirmer par les cliniques"
-  - "Garde de Saint-Légier : 0900 906 906 à 2 francs la minute de 8 h à 22 h et 5 francs de 22 h à 8 h (accueil actuel) ; la page Urgences actuelle renvoie au 021 683 10 10, dont le répondeur oriente vers la garde de la Riviera, à confirmer par la clinique"
-  - "Moyens de paiement d'une urgence (carte de débit, carte de crédit et TWINT, sur place) : à confirmer par Vetmint"
 ---
 
 Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cliniques Vetmint. Pendant les heures d'ouverture, votre clinique reçoit elle-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, payant à la minute. Une urgence coûte la consultation, un supplément de 40 à 176 francs selon la clinique et l'heure, puis les soins.
@@ -151,5 +135,3 @@ Quand une urgence mène à une opération, les pages [Chirurgie](/services/chiru
 Une consultation de 30 minutes laisse le temps d'examiner votre animal en entier et de parler de ce qui vous inquiète. Rendez-vous en ligne : [Bussigny](/bussigny/rendez-vous/), [La Chaux-de-Fonds](/chauxdefonds/rendez-vous/), [Domdidier](/domdidier/rendez-vous/), [Fribourg Ouest](/fribourg/rendez-vous/), [Lac-de-Joux](/lacdejoux/rendez-vous/), [Payerne](/payerne/rendez-vous/), [Saint-Blaise](/saintblaise/rendez-vous/) et [Saint-Légier](/saintlegier/rendez-vous/), pour les vaccins.
 
 [Prendre rendez-vous dans une clinique](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

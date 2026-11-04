@@ -5,20 +5,10 @@ title: "Ernährung des Kaninchens: Heu, Grünfutter, Pellets | Vetmint"
 description: "Was ein Kaninchen frisst: der Heuanteil, das Grünfutter pro Kilo, die Pellets, verbotene Lebensmittel, das Calcium im Gemüse und das Wasser, das es braucht."
 h1: "Ernährung des Kaninchens"
 recherche: "Ernährung Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 9
 resume: "Die Ration des Kaninchens: Heu unbegrenzt, Grünfutter, wenig Pellets, tabu Lebensmittel und Wasser."
-sources:
-  - vetmint.ch/alimentation-du-lapin-2/ (article Alimentation du lapin), relevé du 16 octobre 2026
-  - vetmint.ch/le-lapin/ (fiche Le lapin, part du foin et quantité de granulés)
-  - connaissances vétérinaires courantes pour les cæcotrophes, les signes d'alerte et la transition alimentaire, à valider par le relecteur
-a_remplacer:
-  - "Part du foin (80 % au moins) et quantité de granulés (20 g par kilo et par jour au plus) alignées sur la fiche Le lapin ; l'article d'origine disait 70 % et 2 à 3 % du poids (30 g pour un lapin de 1 kg) : à trancher par le relecteur"
-  - "Liens vers margueritecie.org (liste de verdure, alimentation du lapin) de l'article d'origine retirés : choix à valider (charte 7.9)"
 ---
 
 Eine passende Ration erspart dem Kaninchen die meisten seiner Krankheiten: schief wachsende Zähne, Harnprobleme, Übergewicht, verschluckte Haare, die den Magen blockieren, Durchfall. Sie schützt auch eine unscheinbare, aber lebenswichtige Gewohnheit, das Fressen der Caecotrophe. Das ist weicher, glänzender Kot, reich an Vitaminen und Eiweiss, den das Kaninchen direkt am After wieder aufnimmt, vor allem nachts. Die Ernährung des Kaninchens beruht auf einem einfachen Grundsatz: viele Fasern, wenig Zucker, nicht zu viel Calcium.
@@ -105,5 +95,3 @@ Während der Konsultation von 30 Minuten wiegt die Tierärztin oder der Tierarzt
 Zu Lebensraum, Gruppenhaltung und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/). Die Behandlung von Kaninchen in unseren Praxen: [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

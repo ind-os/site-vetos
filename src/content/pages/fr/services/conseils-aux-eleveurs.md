@@ -6,24 +6,10 @@ description: "Vétérinaire pour éleveurs chez Vetmint : bilan avant la sailli
 h1: Conseils aux éleveurs de chiens, de chats et de NAC
 nom: Conseils aux éleveurs
 recherche: vétérinaire pour éleveurs
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 18
 especes: [chien, chat, nac]
 resume: "Le suivi d'une portée, de la saillie à la vente : dépistages, échographie de gestation, mise bas, vaccins et puce."
-sources:
-  - pages Prestations des huit cliniques (informations aux éleveurs, médecine de la reproduction, néonatalogie, radiographies officielles des hanches et des coudes, échographie de gestation, césarienne, puces électroniques et thermochip), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation, échographie de gestation, bilans pédiatriques avec vaccins, vaccin contre la rage)
-  - vetmint.ch/le-lapin/, vetmint.ch/le-cochon-dinde/, vetmint.ch/le-rat/ et vetmint.ch/lencephalitozoonose/ (gestation, première portée du cochon d'Inde, dépistages avant la reproduction)
-  - fribourg.vetmint.ch/nac/ (conférences pour les groupements d'éleveurs)
-  - vetmint.ch/radiographie/ (sédation pour les radiographies orthopédiques)
-  - connaissances vétérinaires courantes pour la gestation, la mise bas, les premières semaines et l'identification des chiots, à valider par le relecteur
-a_remplacer:
-  - "Prix des radiographies officielles des hanches et des coudes (320 francs, sédation et envoi des clichés compris) : à confirmer par Vetmint"
-  - "Prix de la radiographie de comptage des chiots ou des chatons (90 francs, hors consultation) : à confirmer par Vetmint"
-  - "Échographie de gestation à 50 francs hors consultation dans les cliniques qui ne publient pas ce prix (Domdidier, Fribourg Ouest, Payerne, Saint-Légier) : à confirmer par les cliniques"
 ---
 
 Une portée se prépare avant la saillie et se suit jusqu'au départ du dernier chiot ou chaton. Les vétérinaires Vetmint conseillent les éleveurs de chiens, de chats et de nouveaux animaux de compagnie (NAC) à chaque étape : dépistages, échographie de gestation, mise bas, vaccins et puce électronique. Une consultation de 30 minutes coûte 54 à 59 francs selon la clinique, l'échographie de gestation 50 francs en plus.
@@ -142,5 +128,3 @@ Les huit cliniques conseillent les éleveurs, opèrent les césariennes et réal
 - [Saint-Légier](/saintlegier/services/) : échographie, rations alimentaires personnalisées ; rendez-vous au [021 683 10 10](tel:+41216831010).
 
 Pour les rongeurs, la fiche [le cochon d'Inde](/conseils/le-cochon-d-inde/) reprend l'âge de reproduction et la durée de gestation.
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

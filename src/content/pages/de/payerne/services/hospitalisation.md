@@ -8,22 +8,6 @@ h1: Stationäre Betreuung in Payerne
 recherche: stationäre Betreuung Hund Payerne
 redige_le: 2026-11-03
 resume: Hunde, Katzen, Kaninchen und Nager bleiben den Tag oder die Nacht, mit einem Anruf der Tierärztin oder des Tierarztes.
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch/prestations/ (hospitalisation des chiens, chats, rongeurs et lapins), /contact/ (questions fréquentes : dépôt le matin, cages adaptées à la durée du séjour, salles séparées), /cabinet-payerne/ (zone de soins), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (forfaits d'opération avec surveillance de l'anesthésie, suppléments d'urgence)
-  - pages déjà rédigées de Payerne (accueil, équipe, urgences, rendez-vous, questions fréquentes, contact)
-  - page commune /services/hospitalisation/ (prix, déroulement d'une journée, eux-mêmes à confirmer)
-a_remplacer:
-  - "Nuit sans présence de l'équipe : contrôle à la fermeture et dès l'ouverture, transfert vers une clinique de garde si une surveillance continue est nécessaire"
-  - "Appel du vétérinaire chaque jour en fin de matinée"
-  - "Prix : journée 95 à 140 CHF selon la taille, hospitalisation de jour 60 CHF, perfusion 65 CHF par jour (page commune, absents de la grille de Payerne)"
-  - "Réveil d'une stérilisation ou d'une castration compris dans le forfait, sans journée d'hospitalisation facturée en plus"
-  - "Dépôt de l'animal à 8 h, reprise en fin de journée jusqu'à 18 h (19 h le mardi)"
-  - "Visites sur rendez-vous pendant les heures d'ouverture"
-  - "Nourriture habituelle et couverture de la maison acceptées"
-  - "Lapins et rongeurs installés à l'écart des chiens et des chats"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Aide de l'équipe pour porter l'animal depuis la voiture"
 ---
 
 Die Tierarztpraxis Vetmint Payerne nimmt Ihren Hund, Ihre Katze, Ihr Kaninchen oder Ihren Nager stationär auf, wenn er fortlaufende Behandlung braucht. Die meisten Patienten bleiben einen Tag: Sie werden am Morgen abgegeben und gehen am Abend nach Hause, nach einer Infusion, einer Beobachtung oder dem Aufwachen aus einer Operation. Jedes Tier erhält einen Käfig, der nach seiner Grösse und der Dauer seines Aufenthalts gewählt wird. Nachts bleibt das Team nicht vor Ort: Es kontrolliert die Patienten bei Schliessung und gleich bei Öffnung.
@@ -95,5 +79,3 @@ Die ersten Stunden sind oft die schwierigsten. Ihr Käfig ist mit einem Tuch bed
 Der Vetmint-Ratgeber zur stationären Betreuung nennt die übliche Dauer jedes Aufenthalts je nach Krankheit.
 
 [Alles über die stationäre Betreuung](/de/leistungen/stationaere-betreuung/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

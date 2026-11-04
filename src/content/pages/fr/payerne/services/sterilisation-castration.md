@@ -8,20 +8,6 @@ h1: Stérilisation et castration à Payerne
 recherche: stérilisation chat Payerne
 redige_le: 2026-11-03
 resume: "Chats, chiens, lapins et rongeurs opérés sur place, avec des forfaits de 115 à 810 francs."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, prestations, plan de prévention, cabinet, contact), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (équipe, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Opérations programmées le matin, du lundi au vendredi"
-  - "Dépôt de l'animal à 8 h, reprise entre 16 h et 18 h, jusqu'à 19 h le mardi"
-  - "Appel du vétérinaire à la fin de l'opération ; appel d'une assistante le lendemain"
-  - "Contrôle après l'opération sur un créneau de 15 minutes"
-  - "Surveillance de l'anesthésie et du réveil par une assistante en médecine vétérinaire"
-  - "Stérilisation de la lapine et opérations des rongeurs sur devis, absentes de la grille de Payerne"
-  - "Forfait de la chienne et du chien au même prix quel que soit le poids, hors traitements imprévus"
-  - "Dernier repas du chien et du chat la veille au soir, eau laissée jusqu'au matin"
 ---
 
 La clinique Vetmint de Payerne stérilise et castre les chats, les chiens et les lapins dans sa salle d'opération de la route du Châtelard 13. Elle opère aussi les cochons d'Inde, les rats, les chinchillas, les hamsters, les gerbilles et les dègues. À Payerne, la stérilisation d'une chatte coûte 260 francs et la castration d'un chat 115 francs. Votre animal rentre avec vous le soir même.
@@ -95,5 +81,3 @@ Il se réveille au calme, dans une cage d'hospitalisation choisie pour un séjou
 L'âge de l'opération, ses raisons et les suites à la maison sont expliqués sur la page [Tout savoir sur la stérilisation et la castration](/services/sterilisation-castration/). Les autres opérations sont décrites sur la page [Chirurgie à Payerne](/payerne/services/chirurgie/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

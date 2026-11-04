@@ -6,14 +6,6 @@ description: "La newsletter Vetmint arrive quatre fois par an : prévention de 
 h1: La lettre d'information Vetmint
 recherche: newsletter Vetmint
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/inscription-newsletter/ et pages Inscription newsletter des cliniques, relevé du 16 octobre 2026
-a_remplacer:
-  - "Rythme : quatre lettres par an, en mars, juin, septembre et décembre"
-  - "Adresse d'inscription et de désinscription : newsletter@vetmint.ch (en attendant le formulaire)"
-  - "Données demandées à l'inscription : adresse e-mail et clinique"
-  - "Effacement de l'adresse dans les 7 jours après une désinscription"
-  - "Aucune publicité de marque, aucune transmission des adresses à des tiers"
 ---
 
 La newsletter Vetmint est une lettre d'information envoyée par e-mail quatre fois par an, au début de chaque saison. Elle s'adresse aux propriétaires de chiens, de chats, de lapins et d'autres NAC. Elle donne les gestes de prévention du moment et les informations de votre clinique. L'inscription est gratuite et se résilie à tout moment.

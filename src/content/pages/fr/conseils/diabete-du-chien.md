@@ -5,23 +5,10 @@ title: "Diabète chez le chien : signes, causes, traitement | Vetmint"
 description: "Diabète du chien : il boit beaucoup, urine plus et maigrit malgré son appétit. Races à risque, âge, signes d'urgence, insuline, alimentation et suivi."
 h1: Diabète chez le chien
 recherche: diabète chien
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien]
 ordre: 6
 resume: Un chien qui boit beaucoup, urine plus et maigrit peut être diabétique, une maladie qui se soigne à vie.
-sources:
-  - contenu-des-pages.md, vetmint.ch/diabete-chez-le-chien/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/la-pancreatite-chez-le-chien/ (lien entre pancréas et alimentation)
-  - connaissances vétérinaires courantes (charte 5.3) pour les signes d'urgence, le diagnostic, le rythme des piqûres et le suivi
-a_remplacer:
-  - "Signes d'urgence (vomissements, refus de manger, respiration rapide, tremblements et convulsions sous insuline) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Sucre ou miel frotté sur les gencives en cas de malaise sous insuline : conseil de la rédaction, à valider par le vétérinaire relecteur"
-  - "Section « Comment le vétérinaire pose le diagnostic » (glycémie, fructosamine, analyse d'urine) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Échantillon d'urine du matin à apporter au rendez-vous : conseil de la rédaction, à valider par le vétérinaire relecteur"
-  - "Deux piqûres d'insuline par jour à heure fixe, après le repas, et courbes de glycémie : rythme habituel écrit par la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Le diabète est une maladie hormonale. Il touche l'humain, le chien et le chat, sous des formes proches. Chez le chien diabétique, le sucre reste dans le sang et n'entre plus dans les cellules. Le chien boit beaucoup, urine plus et maigrit alors qu'il mange bien. Il se soigne, mais en général à vie.
@@ -91,5 +78,3 @@ Garder votre chien à son poids de forme réduit le risque. La stérilisation de
 Une consultation dure 30 minutes chez Vetmint. Le premier rendez-vous pour un chien diabétique laisse le temps d'apprendre les piqûres et de poser toutes vos questions. La page [Consultation et bilan de santé](/services/consultation/) décrit ce qui s'y fait.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -6,24 +6,10 @@ description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 1
 h1: Échographie du chien et du chat
 nom: Échographie
 recherche: échographie chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat]
 ordre: 9
 resume: L'échographie du ventre, du cœur et de gestation, sa préparation, sa durée, ses prix et les cliniques équipées.
-sources:
-  - vetmint.ch/echographie-2/ (principe, lecture des images, indications, déroulement, jeûne, durée, tonte), relevé du 16 octobre 2026
-  - pages Prestations de Bussigny et de Saint-Légier (échographies abdominales, de gestation, échocardiographie)
-  - fribourg.vetmint.ch/cabinet-2/ et lacdejoux.vetmint.ch/cabinet-2/ (appareil d'échographie)
-  - grilles tarifaires de Bussigny, La Chaux-de-Fonds, Lac-de-Joux, Saint-Blaise et Saint-Légier (échographie de gestation, échographie abdominale complète), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour la gestation, l'échographie guidée et les suites, à valider par le relecteur
-a_remplacer:
-  - "Échographie abdominale complète au prix de Saint-Légier (221 CHF) dans les autres cliniques équipées : à confirmer par la grille Vetmint"
-  - "Prix de l'échocardiographie (260 CHF) : à confirmer par la grille Vetmint"
-  - "Domdidier et Payerne adressent les échographies à Fribourg Ouest : à confirmer par Vetmint"
-  - "Images et compte rendu remis par e-mail : à confirmer par Vetmint"
 ---
 
 L'échographie du chien et du chat montre l'intérieur du ventre et le cœur en images qui bougent, sans rayons X et sans douleur. L'examen dure 15 à 25 minutes, sur un animal le plus souvent éveillé. Pour le ventre, il doit être à jeun depuis 12 heures. Une échographie de gestation coûte 50 francs, une échographie complète du ventre 221 francs. Six cliniques Vetmint ont un échographe.
@@ -138,5 +124,3 @@ Les cliniques de [Domdidier](/domdidier/services/) et de [Payerne](/payerne/serv
 Une échographie se décide pendant une consultation ou sur demande de votre vétérinaire. Prenez un rendez-vous le matin pour que le jeûne de la nuit suffise. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
 
 Pour aller plus loin : [la pancréatite du chien](/conseils/pancreatite-du-chien/) et [la sablose urinaire](/conseils/sablose-urinaire/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -6,22 +6,10 @@ description: "Schmerzen bei Hund, Katze oder Kaninchen: Anzeichen, Behandlung na
 h1: Schmerztherapie bei Hund, Katze und Kaninchen
 nom: Schmerztherapie
 recherche: Schmerzen Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 16
 especes: [chien, chat, nac]
 resume: Die Schmerzen Ihres Tieres erkennen, sie nach einer Operation oder langfristig lindern und die Wirkung der Behandlung verfolgen.
-sources:
-  - fribourg.vetmint.ch/douleur/ (consultation douleur, douleurs suivies, préparation, traitements, suivi à deux semaines ou un mois), relevé du 16 octobre 2026
-  - vetmint.ch/larthrose-chez-les-nac/ (signes et gestion de l'arthrose), vetmint.ch/le-lapin/ et vetmint.ch/le-cochon-dinde/ (animaux qui cachent leurs symptômes), vetmint.ch/peca-pecalbo-2/ (lapin opéré hospitalisé 24 à 48 heures pour sevrer les antidouleurs)
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation, forfaits d'anesthésie avec gestion de la douleur, laser, ostéopathie)
-  - pages Prestations des huit cliniques (laser, ostéopathie)
-  - connaissances vétérinaires courantes pour les signes de douleur, les médicaments et les suites, à valider par le relecteur
-a_remplacer:
-  - "Prix de la première consultation douleur à Fribourg Ouest (130 francs, 60 minutes) : à confirmer par la clinique"
-  - "Prix d'une consultation de suivi douleur à Fribourg Ouest (59 francs, prix de la consultation de 30 minutes) : à confirmer par la clinique"
 ---
 
 Ein Tier, das Schmerzen hat, zeigt das selten durch Schreien. Der Hund hinkt oder springt nicht mehr ins Auto, die Katze steigt nicht mehr aufs Bett, das Kaninchen kauert sich in eine Ecke und hört auf zu fressen. Die Tierärztinnen und Tierärzte von Vetmint erkennen den Schmerz, suchen seine Ursache und behandeln ihn, nach einer Operation wie auf lange Sicht. Eine Konsultation von 30 Minuten kostet je nach Praxis 54 bis 59 Franken. Fribourg Ouest bietet zusätzlich eine Konsultation an, die dem chronischen Schmerz gewidmet ist.
@@ -156,5 +144,3 @@ Für ein Kaninchen oder einen Nager beschreibt der Ratgeber [Arthrose bei Heimti
 Vereinbaren Sie einen Termin in Ihrer Praxis, online oder per Telefon. Geben Sie «Schmerzen» oder «Lahmheit» als Anlass an. Für die Schmerzkonsultation rufen Sie Fribourg Ouest unter [026 466 84 84](tel:+41264668484) an oder buchen [online](/de/fribourg/termin/).
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

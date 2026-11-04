@@ -5,22 +5,10 @@ title: "Nébulisation et inhalation du lapin et des NAC | Vetmint"
 description: "Nébulisation et inhalation pour un lapin, un rongeur ou un oiseau qui respire mal : à quoi elles servent, quel appareil choisir, les gestes à la maison."
 h1: "Fiche de consultation : nébulisations et inhalations"
 recherche: nébulisation lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 20
 resume: Les gestes pour faire une nébulisation ou une inhalation à la maison à un lapin, un rongeur ou un oiseau.
-sources:
-  - contenu-des-pages.md, vetmint.ch/nebulisations-et-inhalations-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (consultation spécialisée NAC, valable dès le 29 avril 2025)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-a_remplacer:
-  - "Marque et modèle de nébuliseur retirés de l'article d'origine (modèle à compresseur testé chez les NAC, cité par son nom) : choix à valider par le vétérinaire relecteur, qui peut le réintroduire par « par exemple » (charte 7.9)"
-  - "Marques retirées de l'article d'origine : chambres d'inhalation à masque pour chat et pour enfant, spray inhalateur contre l'asthme. Choix à valider par Vetmint et le vétérinaire relecteur (charte 7.9)"
-  - "Durée d'une séance de nébulisation : l'article d'origine écrit « 15+20 minutes », la page retient 15 à 20 minutes, à confirmer par le vétérinaire relecteur"
-  - "Signes qui doivent faire rappeler pendant le traitement (respiration bouche ouverte, panique dans la boîte, écoulements qui augmentent) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Votre lapin, votre rongeur ou votre oiseau a des troubles respiratoires : nez, sinus, gorge ou poumons. Le vétérinaire vous a proposé des nébulisations, des inhalations ou les deux. Ces soins se font à la maison, avec un appareil vendu en pharmacie ou une simple boîte en plastique. Bien faits, ils soulagent l'animal et renforcent l'effet des médicaments.
@@ -87,5 +75,3 @@ Ces soins font partie du traitement de plusieurs maladies décrites dans nos con
 La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins, les rongeurs et les oiseaux. La clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le vétérinaire y remet des fiches écrites pour chaque soin à faire à la maison.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

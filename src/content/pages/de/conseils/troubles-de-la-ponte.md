@@ -5,21 +5,10 @@ title: Legenot und Legestörungen beim Vogel | Vetmint
 description: "Legestörungen beim Vogel: Ei steckt fest, Weibchen kauert am Käfigboden, gelähmte Beine. Was zu häufiges Legen auslöst, der Notfall und die Vorbeugung."
 h1: Legestörungen beim Vogel
 recherche: Legenot Vogel
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 19
 resume: Ei steckt fest, Legen bricht ab, weiche Schale, bei Huhn, Wellensittich oder Kanarienvogel. Oft ein Notfall.
-sources:
-  - contenu-des-pages.md, vetmint.ch/troubles-de-la-ponte-chez-loiseau/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ (oiseaux d'ornement et de basse-cour, consultation perroquets)
-  - contenu-des-pages.md, fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-  - charte de rédaction, 2.4 (téléphone de la clinique Vetmint Fribourg Ouest)
-a_remplacer:
-  - "Consignes d'attente (oiseau au chaud, au calme, dans une petite caisse sans perchoir haut) et appel avant de venir pour vérifier que la clinique reçoit les oiseaux : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
-  - "Mesures de prévention détaillées (durée d'éclairage raccourcie, retrait du nid et du miroir, caresses sur le dos et sous les ailes à éviter, œufs factices) : ajout de la rédaction tiré des facteurs de l'article d'origine, à confirmer par le vétérinaire relecteur"
 ---
 
 Legestörungen betreffen den weiblichen Vogel, unabhängig von der Art. Das Ei bleibt stecken, das Legen bricht abrupt ab oder die Eier sind schlecht geformt. Hühner, Wellensittiche, Kanarienvögel und andere kleine Singvögel sind am stärksten betroffen, weil sie viel legen. Ein festsitzendes Ei ist oft ein Notfall.
@@ -82,5 +71,3 @@ In gewissen Fällen wird eine chirurgische [Sterilisation](/de/leistungen/kastra
 Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Ziervögel und Hofgeflügel. Sie bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Papageien haben dort ausserdem eine erste Konsultation, die ihren Haltungsbedingungen gewidmet ist. Bei einem festsitzenden Ei rufen Sie sie an unter [026 466 84 84](tel:+41264668484). Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) stellt unsere Behandlungen für Vögel, Kaninchen und Nager vor.
 
 [Die Praxen Vetmint](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

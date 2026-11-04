@@ -6,17 +6,6 @@ description: "Plan de prévention chiot ou chaton à 515 francs pour un an : co
 h1: Plan de prévention et abonnements
 recherche: abonnement vétérinaire
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ et pages Plan de prévention des huit cliniques, relevé du 16 octobre 2026
-  - contenu-des-pages.md, vetmint.ch/abonnements/, bussigny.vetmint.ch/abonnements/ et saintlegier.vetmint.ch/abonnements/, relevé du 16 octobre 2026
-  - calculateurs des pages « Comparatif de prix » de bussigny.vetmint.ch (douze abonnements), copie locale du 16 octobre 2026
-  - Conditions générales et liste des prestations des abonnements (PDF d'octobre 2021, Vetmint Saint-Légier SA)
-a_remplacer:
-  - "Prix du plan de prévention : 515 CHF pour le chiot et le chaton, 925 et 1 240 CHF avec castration ou stérilisation du chiot, 615 et 755 CHF pour le chaton (sites des cliniques) ; vetmint.ch affiche 490, 880, 1 180, 585 et 718 CHF ; Bussigny et Saint-Légier affichent 1 240 CHF pour la stérilisation du chaton"
-  - "Versements du plan : quatre fois 128,75 CHF pour 515 CHF (calculé ; vetmint.ch donne 122,50 CHF pour 490 CHF)"
-  - "Valeurs du comparatif calculées avec les prix unitaires des calculateurs actuels (consultation 125,50 CHF pour un chien, 62 CHF pour un chat ; visite de contrôle 50,50 et 47 CHF), sans le vaccin contre la rage pour les adultes : à recalculer sur la grille du 29 avril 2025"
-  - "Abonnements proposés dans les huit cliniques (les sources ne les montrent qu'à Bussigny, Saint-Légier et sur vetmint.ch)"
-  - "Conditions générales de Vetmint Saint-Légier SA appliquées par les huit cliniques, résiliation à adresser à la clinique de l'animal"
 ---
 
 Vetmint propose deux formules pour payer la prévention à l'avance. Le plan de prévention couvre la première année d'un chiot ou d'un chaton pour un prix fixe. L'abonnement vétérinaire mensuel suit le chien ou le chat à tout âge. Il étale le coût des soins de l'année.

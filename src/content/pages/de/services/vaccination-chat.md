@@ -6,23 +6,10 @@ description: "Katze impfen bei Vetmint: Katzenseuche, Katzenschnupfen, Leukose, 
 h1: Impfung bei der Katze
 nom: Impfung bei der Katze
 recherche: Katze impfen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 3
 especes: [chat]
 resume: Die Impfungen des Kätzchens und der erwachsenen Katze, je nachdem ob sie hinausgeht oder nicht, durchgeführt während eines Gesundheitschecks von 30 Minuten.
-sources:
-  - grilles tarifaires des huit cliniques (bilans avec vaccins du chat d'intérieur et d'extérieur, bilan avec vaccin contre la rage), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (plan chaton, test FIV/FeLV), bussigny.vetmint.ch/abonnements/ (abonnements chat)
-  - pages Prestations et Rendez-vous des huit cliniques (consultation vaccinale, prise de rendez-vous), relevé du 16 octobre 2026
-  - essai vetmint-service-vaccination-chat.md (redaction/essais), repris et complété
-  - connaissances vétérinaires courantes pour les maladies, le calendrier et les suites, à valider par le relecteur
-a_remplacer:
-  - "Rappel envoyé avant l'échéance (SMS, WhatsApp ou e-mail) pour tous les clients : le plan de prévention le prévoit, à confirmer pour les autres clients"
-  - "Plan de prévention chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
-  - "Bilan pédiatrique du chaton d'intérieur à 70 francs à Bussigny alors que l'adulte coûte 98 francs : à confirmer par la clinique"
 ---
 
 Die Impfung schützt Ihre Katze vor vier Krankheiten: Katzenseuche, Katzenschnupfen, Leukose und Tollwut. Bei Vetmint erfolgt die Impfung der Katze während des jährlichen Gesundheitschecks, einer Konsultation von 30 Minuten mit vollständiger Untersuchung des Tieres. Je nach Praxis und Lebensweise der Katze kostet dieser Check mit Impfungen 70 bis 99 Franken.
@@ -144,5 +131,3 @@ Alle acht Praxen Vetmint impfen Katzen während des jährlichen Gesundheitscheck
 Wählen Sie Ihre Praxis auf der [Karte](/de/praxen/) oder rufen Sie sie an. Nennen Sie bei einem Kätzchen am Telefon sein Alter: Die Praxis plant einen pädiatrischen Check ein. Nennen Sie für eine Reise das Abreisedatum: Die Tollwutimpfung muss mindestens 21 Tage zurückliegen.
 
 Zum Weiterlesen: [die Schilddrüsenüberfunktion der älteren Katze](/de/ratgeber/schilddruesenueberfunktion-katze/) und [das Übergewicht der Katze](/de/ratgeber/uebergewicht-katze/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

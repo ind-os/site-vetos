@@ -5,22 +5,10 @@ title: "PECA und PECALBO: Operation bei Ohrenentzündung | Vetmint"
 description: "PECA und PECALBO, Operation der schweren Ohrenentzündung beim Kaninchen: was entfernt wird, stationärer Aufenthalt, Ohrpflege zu Hause, Komplikationen."
 h1: "Informationsblatt zur Konsultation: PECA und PECALBO"
 recherche: "Operation Ohrenentzündung Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 21
 resume: "Die Operation der schweren Ohrenentzündung beim Kaninchen, der stationäre Aufenthalt danach und die Ohrpflege bei Ihnen zu Hause."
-sources:
-  - contenu-des-pages.md, vetmint.ch/peca-pecalbo-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/otites-chez-les-lapins/ (localisations de l'otite)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ et vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (jamais de jeûne, six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (consultation spécialisée NAC, valable dès le 29 avril 2025)
-a_remplacer:
-  - "Prix de l'opération sur devis, selon l'oreille et l'étendue de l'infection : formule de la rédaction, le prix est absent des sources, à confirmer par Vetmint"
-  - "Foin et légumes habituels à apporter pour l'hospitalisation : conseil de la rédaction, à valider par le vétérinaire relecteur"
-  - "Signes qui doivent faire rappeler après l'opération (plaie qui gonfle, sent mauvais ou saigne, tête penchée qui s'aggrave ou ne diminue pas après quelques jours) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Ihr Kaninchen hat eine schwere Ohrenentzündung, und die Tierärztin oder der Tierarzt empfiehlt, es zu operieren. Die beiden vorgeschlagenen Operationen tragen abgekürzte englische Namen. Die PECA (*partial ear canal ablation*) ist die teilweise Entfernung des Gehörgangs. Die PECALBO fügt eine laterale Osteotomie der Bulla hinzu (*lateral bulla osteotomy*): die seitliche Öffnung des Knochens, der das Mittelohr beherbergt. Diese Operation der Ohrenentzündung des Kaninchens gibt in den meisten Fällen gute Ergebnisse.
@@ -84,5 +72,3 @@ Ist die Heilung abgeschlossen, bringt die Operation dem Kaninchen in der Mehrhei
 Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen tun. Die Vetmint-Praxis Fribourg Ouest in Givisiez operiert Heimtiere mit einer auf jede Art abgestimmten Narkose und bietet eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an. Der Preis der Operation wird in einem Kostenvoranschlag festgelegt, je nach Ohr und Ausdehnung der Infektion. Die übrigen Preise stehen auf der Seite [Preise](/de/preise/).
 
 [Vetmint-Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

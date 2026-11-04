@@ -6,34 +6,10 @@ description: "Analyse de sang, d'urine, de selles et de peau chez Vetmint : la 
 h1: "Analyses et diagnostic : sang, urine, peau et biopsies"
 nom: Analyses et diagnostic
 recherche: analyse de sang chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 7
 resume: Ce que le laboratoire des cliniques analyse sur place, ce qui part au laboratoire externe, les délais et les prix.
-sources:
-  - pages Prestations des huit cliniques (diagnostic, biopsies), relevé du 16 octobre 2026
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (situations où une prise de sang est proposée)
-  - payerne.vetmint.ch/cabinet-payerne/, fribourg.vetmint.ch/cabinet-2/, lacdejoux.vetmint.ch/cabinet-2/ (laboratoires et analyseurs)
-  - fribourg.vetmint.ch/nac/ (analyses chez les oiseaux et les NAC)
-  - bussigny.vetmint.ch/abonnements/ et vetmint.ch/plan-de-prevention/ (test sanguin annuel, analyse d'urine, test FIV/FeLV)
-  - grilles tarifaires des cliniques (consultation de 30 minutes, 54 à 59 francs), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour les examens, la préparation et les délais généraux, à valider par le relecteur
-a_remplacer:
-  - "Délai d'une analyse de sang faite sur place (20 minutes environ) : à confirmer par chaque clinique"
-  - "Délai d'un résultat de biopsie (5 à 7 jours ouvrables) : à confirmer par Vetmint"
-  - "Appel du vétérinaire au propriétaire dès réception d'un résultat externe : à confirmer par Vetmint"
-  - "Prix du bilan sanguin complet (145 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la prise de sang avant une anesthésie (85 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de l'analyse d'urine (45 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de l'analyse de selles (40 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la cytologie lue sur place (55 CHF) : à confirmer par la grille Vetmint"
-  - "Dépôt d'un échantillon d'urine ou de selles sans l'animal, après un appel : à confirmer par Vetmint"
-  - "Résultats remis imprimés ou envoyés par e-mail : à confirmer par Vetmint"
-  - "Litière non absorbante remise par la clinique pour recueillir l'urine du chat : à confirmer par Vetmint"
-  - "Prix de la biopsie avec analyse externe (180 à 280 CHF) : à confirmer par la grille Vetmint"
 ---
 
 Une analyse de sang du chien ou du chat se fait à la clinique. Le vétérinaire prélève un peu de sang à la patte ou au cou. Les appareils du laboratoire donnent la plupart des résultats en 20 minutes environ. Les huit cliniques Vetmint analysent aussi l'urine, les selles et la peau. Elles regardent au microscope les cellules prélevées à l'aiguille. Un bilan sanguin complet coûte 145 francs ; les biopsies partent vers un laboratoire externe.
@@ -163,5 +139,3 @@ Chaque clinique Vetmint a son laboratoire pour le sang, l'urine, les selles et l
 Une analyse se prévoit pendant une consultation de 30 minutes. Si votre animal doit être à jeun, prenez un rendez-vous le matin. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
 
 Pour aller plus loin : [le diabète du chien](/conseils/diabete-du-chien/) et [l'hyperthyroïdie du chat](/conseils/hyperthyroidie-feline/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

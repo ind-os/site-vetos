@@ -27,11 +27,6 @@ const pages = defineCollection({
     nom: z.string().optional(),
     recherche: z.string(),
     redige_le: date,
-    sources: z.array(z.string()).default([]),
-    auteur: z.string().optional(),
-    relecteur: z.string().optional(),
-    relu_le: date.optional(),
-    a_remplacer: z.array(z.string()).optional(),
     ordre: z.number().optional(),
     resume: z.string().optional(),
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).optional(),
@@ -58,8 +53,8 @@ const cliniques = defineCollection({
     id: z.string(),
     /** Vrai quand les pages de la clinique sont écrites et publiées sur ce site. */
     en_ligne: z.boolean(),
-    /** L'adresse du site actuel de la clinique, utilisée tant que ses pages ne sont pas en ligne. */
-    site_actuel: z.url(),
+    /** L'adresse où mènent les liens vers la clinique tant que ses pages ne sont pas en ligne. */
+    adresse_hors_ligne: z.url(),
     nom: z.string(),
     /** Le nom de lieu affiché à côté du logo : « Fribourg Ouest ». */
     lieu: z.string(),
@@ -110,8 +105,6 @@ const cliniques = defineCollection({
     garde: z.object({ telephone, tarif: texte }),
     /** Le module de réservation, ouvert par le bouton « Prendre rendez-vous ». */
     rendez_vous: z.object({ outil: z.enum(['calendly', 'vetlink']), adresse: z.url() }),
-    sources: z.array(z.string()).default([]),
-    a_remplacer: z.array(z.string()).default([]),
   }),
 });
 

@@ -91,4 +91,4 @@ En prévisualisation (`pnpm dev`), les mêmes problèmes s'affichent dans le ter
 
 ## Les cliniques pas encore en ligne
 
-Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à son site actuel (`site_actuel`). Les textes écrivent déjà l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. La procédure est dans la skill `mettre-une-clinique-en-ligne`.
+Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. La procédure est dans la skill `mettre-une-clinique-en-ligne`.

@@ -6,22 +6,10 @@ description: "Lasertherapie bei Vetmint: Wunden, Wundheilung, Arthrose, Zahnflei
 h1: Lasertherapie für Hunde, Katzen und Kaninchen
 nom: Lasertherapie
 recherche: Lasertherapie Tier
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 11
 especes: [chien, chat, nac]
 resume: Ein Licht, das Schmerzen lindert und die Heilung beschleunigt, ohne Schnitt und ohne Narkose, in Sitzungen von wenigen Minuten.
-sources:
-  - pages Prestations de bussigny, chauxdefonds, saintblaise et saintlegier.vetmint.ch (indications du laser), relevé du 16 octobre 2026
-  - grilles tarifaires de Bussigny, Saint-Blaise et Saint-Légier (consultation avec thérapie laser, 62 CHF), valables dès le 29 avril 2025
-  - vetmint.ch/larthrose-chez-les-nac/ et vetmint.ch/pododermatite-chez-le-lapin/ (laser dans le traitement)
-  - connaissances vétérinaires courantes pour le mode d'action, le déroulement, les précautions et le rythme des séances, à valider par le relecteur
-a_remplacer:
-  - "Prix de la consultation avec thérapie laser à La Chaux-de-Fonds (62 francs, comme à Bussigny, Saint-Blaise et Saint-Légier) : à confirmer par la clinique"
-  - "Prix d'une séance de suivi (62 francs, le même que la première séance) : à confirmer par Vetmint"
-  - "Durée d'une séance à la clinique (15 à 20 minutes, rendez-vous compris) : à confirmer par les cliniques"
 ---
 
 Der tiermedizinische Laser ist ein Licht, das auf eine kranke Stelle gerichtet wird, um den Schmerz zu lindern, die Entzündung zu verringern und die Heilung zu beschleunigen. Er schneidet nicht und verbrennt nicht: Das Tier bleibt wach, ohne Spritze und ohne Rasur. Die meisten Hunde und Katzen lassen es ohne Schwierigkeiten geschehen. Vier Praxen von Vetmint bieten die Lasertherapie an, für 62 Franken pro Sitzung mit Konsultation.
@@ -130,5 +118,3 @@ Vier Praxen haben ein therapeutisches Lasergerät. Die anderen Praxen von Vetmin
 Sagen Sie am Telefon, was der Laser behandeln soll: eine Wunde, eine Arthrose, eine Narbe nach einer anderswo durchgeführten Operation. Die Praxis plant dann eine erste Sitzung mit der Untersuchung ein. Wurde Ihr Tier anderswo operiert oder behandelt, bringen Sie den Bericht mit.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -6,24 +6,10 @@ description: "Fellpflege für Hund und Katze bei Vetmint: Bad, Schnitt, Krallen,
 h1: Fellpflege und Entfilzen für Hund und Katze
 nom: Fellpflege
 recherche: Fellpflege Hund
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 14
 especes: [chien, chat]
 resume: Bad, Schnitt und Entfilzen durch eine Tiermedizinische Praxisassistentin mit Fellpflege-Ausbildung, bei Bedarf mit einer Tierärztin oder einem Tierarzt vor Ort.
-sources:
-  - vetmint.ch/toilettage/ et pages Toilettage des cliniques (assistante en médecine vétérinaire diplômée en toilettage, sédation par un vétérinaire, adresse toilettage@vetmint.ch), relevé du 16 octobre 2026
-  - vetmint.ch/toilettage/ (« disponible à Payerne ») et pages Prestations et Tarifs de Domdidier (toilettage et défeutrage avec ou sans sédation, toilettage dès 81 CHF, supplément de 26 CHF par quart d'heure pour les nœuds, sixième séance à moitié prix)
-  - grille tarifaire de La Chaux-de-Fonds (défeutrage des chats sous anesthésie dès 200 CHF)
-  - connaissances vétérinaires courantes pour les rythmes de toilettage, la sédation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Durée d'une séance (une à trois heures selon la taille et le pelage, animal déposé puis repris) : à confirmer par la toiletteuse"
-  - "Prix de la sédation annoncé avant la séance, selon le poids : à confirmer par Vetmint"
-  - "Cliniques où le toilettage a lieu : Payerne (vetmint.ch/toilettage/) et Domdidier (pages Prestations et Tarifs de la clinique), défeutrage sous anesthésie à La Chaux-de-Fonds ; les grilles de Bussigny, du Lac-de-Joux et de Saint-Blaise listent aussi le toilettage et la page Prestations commune le cite partout, à confirmer par Vetmint"
-  - "Prix du toilettage à Payerne : ceux de la grille de Domdidier, Payerne n'en publie pas"
-  - "Réponse aux demandes écrites à toilettage@vetmint.ch sous deux jours ouvrables : à confirmer par Vetmint"
 ---
 
 Die Fellpflege bei Vetmint findet in der Praxis statt, durch eine Tiermedizinische Praxisassistentin (TPA) mit Diplom in Fellpflege. Sie wäscht, trocknet, entwirrt und schneidet das Fell von Hunden und Katzen, kürzt die Krallen und reinigt die Ohren. Ist das Tier zu ängstlich oder zu stark verfilzt, führt eine Tierärztin oder ein Tierarzt der Praxis eine Sedierung durch und bleibt vor Ort. Die Fellpflege eines kleinen Hundes kostet ab 81 Franken, die einer Katze ab 91 Franken.
@@ -137,5 +123,3 @@ Die anderen [Vetmint-Praxen](/de/praxen/) verweisen Sie an eine der beiden.
 Schreiben Sie der Fellpflegerin und geben Sie Rasse, Gewicht, Zustand des Fells und die für Sie passende Praxis an. Ein Foto des Fells hilft ihr, die nötige Zeit einzuplanen. Sie antwortet innerhalb von zwei Werktagen mit einem Datum. Sie können auch Ihre Praxis anrufen.
 
 [An toilettage@vetmint.ch schreiben](mailto:toilettage@vetmint.ch)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

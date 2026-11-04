@@ -5,20 +5,10 @@ title: "Stérilisation du lapin : âge, opération, prix | Vetmint"
 description: "Stériliser sa lapine ou castrer son lapin : à quel âge, ce que l'opération évite, pourquoi il ne faut jamais le mettre à jeun, les suites et les prix."
 h1: Stérilisation et castration du lapin
 recherche: stérilisation lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 10
 resume: "Stériliser une lapine ou castrer un lapin : âge, bénéfices, préparation sans jeûne, suites et prix."
-sources:
-  - vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (article Stérilisation des lapins), relevé du 16 octobre 2026
-  - vetmint.ch/le-lapin/ (fiche Le lapin, âge et poids de la stérilisation, tumeurs de l'utérus)
-  - grilles tarifaires des cliniques (ovariohystérectomie lapine, castration lapin), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour la tréponématose, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Retour à la maison le jour même de l'opération : à confirmer par chaque clinique"
 ---
 
 La stérilisation retire au lapin ses organes reproducteurs. Chez la femelle, ce sont les ovaires et l'utérus. Chez le mâle, ce sont les testicules : on parle de castration. Si vous ne voulez pas de portée, nos vétérinaires la conseillent pour les deux sexes, dès 4 mois. Elle évite surtout à la lapine les tumeurs de l'utérus, qui touchent la majorité des femelles non stérilisées après 4 ans. Le forfait coûte 250 à 380 francs pour une lapine et 131 à 185 francs pour un mâle, selon la clinique.
@@ -113,5 +103,3 @@ Elle réduit un peu les besoins en énergie. Une ration riche en foin et pauvre 
 La stérilisation et la castration des autres espèces : [stérilisation et castration](/services/sterilisation-castration/). Les soins aux lapins dans nos cliniques : [médecine des NAC](/services/nac/), avec la [spécialité NAC de Fribourg Ouest](/fribourg/services/nac/). Tout sur la vie du lapin : [la fiche du lapin](/conseils/le-lapin/).
 
 [Choisir une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -8,16 +8,6 @@ h1: Impfung bei der Katze in Payerne
 recherche: Katze impfen Payerne
 redige_le: 2026-11-03
 resume: "Die Impfung der Katze während eines Checks von 30 Minuten: 70 Franken in der Wohnung, 98 Franken mit Freigang."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, plan de prévention, cabinet, contact, accueil), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, accès)"
-  - "vetmint.ch/soins-a-domicile/ (district de la Broye, forfait de déplacement)"
-a_remplacer:
-  - "Chat anxieux qui attend dans sa caisse couverte et entre directement en salle de consultation"
-  - "Test FIV/FeLV fait sur place, résultat pendant la consultation"
-  - "Rappel de vaccin envoyé par SMS, WhatsApp ou e-mail à tous les clients ; le plan de prévention le prévoit pour ses abonnés"
-  - "Plan de prévention chaton à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs pour le plan de base"
 ---
 
 In Payerne wird die Katze während eines Gesundheitschecks von 30 Minuten geimpft, in der Tierarztpraxis Vetmint an der Route du Châtelard 13. Der Preis hängt vom Leben der Katze ab. Er beträgt 70 Franken für eine Wohnungskatze, die gegen Katzenseuche und Katzenschnupfen geimpft wird. Er beträgt 98 Franken für eine Katze mit Freigang, die zusätzlich gegen Leukose geimpft wird.
@@ -98,5 +88,3 @@ Einen Mikrochip, einen Heimtierausweis und eine Tollwutimpfung, die mindestens 2
 Die Krankheiten, die Auffrischungen und die möglichen Reaktionen auf die Impfung sind auf der Seite [Alles über die Impfung der Katze](/de/leistungen/impfung-katze/) erklärt.
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

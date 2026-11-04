@@ -1,7 +1,7 @@
 {
   "id": "bussigny",
   "en_ligne": false,
-  "site_actuel": "https://bussigny.vetmint.ch/",
+  "adresse_hors_ligne": "https://bussigny.vetmint.ch/",
   "nom": "Vetmint Bussigny",
   "lieu": "Bussigny",
   "canton": "VD",
@@ -83,22 +83,5 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/bussigny-vetmint/consultation-generale"
-  },
-  "sources": [
-    "bussigny.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, urgences, rendez-vous), relevé du 16 octobre 2026",
-    "grille tarifaire de bussigny.vetmint.ch/tarifs/, valable dès le 29 avril 2025",
-    "coordonnées et repère de la Migros : OpenStreetMap, consulté le 16 octobre 2026",
-    "arrêts et lignes de transport public : horaire officiel (transport.opendata.ch), consulté le 16 octobre 2026"
-  ],
-  "a_remplacer": [
-    "Places de parc : six places gratuites devant l'entrée (le site actuel dit seulement « nombreuses places à proximité »)",
-    "Temps à pied depuis la gare et l'arrêt « Bussigny, gare » : trois minutes",
-    "Arrêt de bus : « Bussigny, gare », lignes 35 et 56, d'après l'horaire officiel ; le site actuel nomme un arrêt « Rue de l'Industrie » qui n'existe pas dans l'horaire",
-    "Communes desservies : liste reconstituée d'après la situation de la clinique dans l'Ouest lausannois",
-    "Langues parlées par les vétérinaires : français seul, à compléter",
-    "Domaines des vétérinaires : médecine générale pour les deux, médecines complémentaires pour le Dr Wicki (d'après sa page équipe)",
-    "Photo du Dr Wicki : aucune, le site actuel montre une illustration provisoire générée (chien et chat), pas un portrait",
-    "Services pratiqués : liste tirée de la page Prestations actuelle, commune à tous les sites ; toilettage exclu (il se fait à Payerne d'après vetmint.ch/toilettage/)",
-    "Motifs de rendez-vous 3 à 6 et leurs durées : la page actuelle ne propose que « Consultation générale » et « Rendez-vous vaccinal »"
-  ]
+  }
 }

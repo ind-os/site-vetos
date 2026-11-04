@@ -6,22 +6,10 @@ description: "Douleur du chien, du chat ou du lapin : les signes qui alertent, 
 h1: Gestion de la douleur chez le chien, le chat et le lapin
 nom: Gestion de la douleur
 recherche: douleur chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 16
 especes: [chien, chat, nac]
 resume: Repérer la douleur de votre animal, la soulager après une opération ou au long cours, et suivre l'effet du traitement.
-sources:
-  - fribourg.vetmint.ch/douleur/ (consultation douleur, douleurs suivies, préparation, traitements, suivi à deux semaines ou un mois), relevé du 16 octobre 2026
-  - vetmint.ch/larthrose-chez-les-nac/ (signes et gestion de l'arthrose), vetmint.ch/le-lapin/ et vetmint.ch/le-cochon-dinde/ (animaux qui cachent leurs symptômes), vetmint.ch/peca-pecalbo-2/ (lapin opéré hospitalisé 24 à 48 heures pour sevrer les antidouleurs)
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation, forfaits d'anesthésie avec gestion de la douleur, laser, ostéopathie)
-  - pages Prestations des huit cliniques (laser, ostéopathie)
-  - connaissances vétérinaires courantes pour les signes de douleur, les médicaments et les suites, à valider par le relecteur
-a_remplacer:
-  - "Prix de la première consultation douleur à Fribourg Ouest (130 francs, 60 minutes) : à confirmer par la clinique"
-  - "Prix d'une consultation de suivi douleur à Fribourg Ouest (59 francs, prix de la consultation de 30 minutes) : à confirmer par la clinique"
 ---
 
 Un animal qui a mal le montre rarement par des cris. Le chien boite ou ne saute plus dans la voiture, le chat ne monte plus sur le lit, le lapin se tasse dans un coin et cesse de manger. Les vétérinaires Vetmint repèrent la douleur, en cherchent la cause et la traitent, après une opération comme au long cours. Une consultation de 30 minutes coûte 54 à 59 francs selon la clinique. Fribourg Ouest propose en plus une consultation consacrée à la douleur chronique.
@@ -156,5 +144,3 @@ Pour un lapin ou un rongeur, le conseil [l'arthrose des NAC](/conseils/arthrose-
 Prenez rendez-vous dans votre clinique, en ligne ou par téléphone. Indiquez « douleur » ou « boiterie » comme motif. Pour la consultation douleur, appelez Fribourg Ouest au [026 466 84 84](tel:+41264668484) ou réservez [en ligne](/fribourg/rendez-vous/).
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

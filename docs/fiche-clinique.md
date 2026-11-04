@@ -2,7 +2,7 @@
 
 Chaque clinique a sa fiche, `src/donnees/cliniques/<clinique>.json`. Elle porte les faits que les gabarits affichent sur toutes ses pages : en-tête, pied de page, accueil, contact, équipe, carte des cliniques, module de rendez-vous, balisage pour les moteurs de recherche. Astro la vérifie à chaque construction (`src/content.config.ts`).
 
-Les horaires, les fermetures et le bandeau d'annonce sont pour l'instant dans la fiche. Ils passeront ensuite par l'API des données en direct (`api.vetmint.ch`) : seule la lecture des données changera (`src/lib/donnees-de-la-clinique.ts`), pas les pages.
+Les horaires, les fermetures et le bandeau d'annonce sont lus par un seul fichier, `src/lib/donnees-de-la-clinique.ts` : les gabarits ne les lisent jamais directement dans la fiche.
 
 ## Les champs
 
@@ -10,7 +10,7 @@ Les horaires, les fermetures et le bandeau d'annonce sont pour l'instant dans la
 |---|---|
 | `id` | l'identifiant, qui donne l'adresse : `payerne` pour `/payerne/` |
 | `en_ligne` | `true` quand les pages de la clinique sont écrites dans les deux langues |
-| `site_actuel` | l'adresse de son site actuel, où mènent ses liens tant qu'elle n'est pas en ligne |
+| `adresse_hors_ligne` | l'adresse où mènent les liens vers la clinique tant que ses pages ne sont pas en ligne |
 | `nom`, `lieu`, `canton`, `raison_sociale` | « Vetmint Payerne », « Payerne », « VD », « Vetmint Payerne SA » |
 | `adresse`, `coordonnees` | la rue, le NPA, la localité ; la latitude et la longitude à quatre décimales |
 | `telephone`, `whatsapp` | `{ "affiche": "026 660 16 16", "international": "+41266601616" }` ; `whatsapp` seulement si la clinique en a un |
@@ -27,7 +27,6 @@ Les horaires, les fermetures et le bandeau d'annonce sont pour l'instant dans la
 | `bandeau` | `{ "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`, ou `null` ; `urgent` le pose en rouge |
 | `garde` | le numéro de garde et son tarif, dans les deux langues |
 | `rendez_vous` | `{ "outil": "calendly", "adresse": "https://calendly.com/…" }` ; `vetlink` pour Saint-Légier |
-| `sources`, `a_remplacer` | d'où viennent les faits, ce qui reste à confirmer ; notes de travail |
 
 Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }`.
 

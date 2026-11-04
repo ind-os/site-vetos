@@ -5,21 +5,10 @@ title: "Cochon d'Inde : habitat, vitamine C, soins | Vetmint"
 description: "Le cochon d'Inde : vie en groupe, cage et sol, vitamine C chaque jour, foin, stérilisation, dépistages et signes qui imposent d'appeler le vétérinaire."
 h1: Le cochon d'Inde
 recherche: cochon d'Inde
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 2
 resume: "Vivre avec des cochons d'Inde : groupe, espace, vitamine C, foin, prévention et signes d'alerte."
-sources:
-  - vetmint.ch/le-cochon-dinde/ (fiche Le cochon d'Inde), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation, soins dentaires et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, les aliments riches en vitamine C et la première mise bas, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les cochons d'Inde en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de foin et de granulés (Supreme Science Selective, Oxbow, Beaphar) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
-  - "Liens vers des sites tiers de l'article d'origine (cobayesclub.com, guinealynx.info) retirés : choix à valider (charte 7.9)"
 ---
 
 Le cochon d'Inde, ou cobaye, vit 5 à 8 ans. Il ne fabrique pas de vitamine C : sa nourriture doit lui en apporter chaque jour, sinon il développe le scorbut. Comme le lapin, c'est une proie qui dissimule ses symptômes. Un cochon d'Inde qui cesse de manger est déjà malade depuis un moment.
@@ -124,5 +113,3 @@ Les cliniques Vetmint reçoivent les cochons d'Inde en consultation de 30 minute
 À Fribourg Ouest, la clinique a une spécialité NAC : soins dentaires des rongeurs, chirurgie avec une anesthésie adaptée à l'espèce, hospitalisation ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

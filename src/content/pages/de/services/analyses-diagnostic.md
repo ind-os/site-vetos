@@ -6,34 +6,10 @@ description: "Blut-, Urin-, Kot- und Hautuntersuchungen bei Vetmint: die meisten
 h1: "Labor und Diagnostik: Blut, Urin, Haut und Biopsien"
 nom: Labor und Diagnostik
 recherche: Blutuntersuchung Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 7
 resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht, die Wartezeiten und die Preise.
-sources:
-  - pages Prestations des huit cliniques (diagnostic, biopsies), relevé du 16 octobre 2026
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (situations où une prise de sang est proposée)
-  - payerne.vetmint.ch/cabinet-payerne/, fribourg.vetmint.ch/cabinet-2/, lacdejoux.vetmint.ch/cabinet-2/ (laboratoires et analyseurs)
-  - fribourg.vetmint.ch/nac/ (analyses chez les oiseaux et les NAC)
-  - bussigny.vetmint.ch/abonnements/ et vetmint.ch/plan-de-prevention/ (test sanguin annuel, analyse d'urine, test FIV/FeLV)
-  - grilles tarifaires des cliniques (consultation de 30 minutes, 54 à 59 francs), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour les examens, la préparation et les délais généraux, à valider par le relecteur
-a_remplacer:
-  - "Délai d'une analyse de sang faite sur place (20 minutes environ) : à confirmer par chaque clinique"
-  - "Délai d'un résultat de biopsie (5 à 7 jours ouvrables) : à confirmer par Vetmint"
-  - "Appel du vétérinaire au propriétaire dès réception d'un résultat externe : à confirmer par Vetmint"
-  - "Prix du bilan sanguin complet (145 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la prise de sang avant une anesthésie (85 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de l'analyse d'urine (45 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de l'analyse de selles (40 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la cytologie lue sur place (55 CHF) : à confirmer par la grille Vetmint"
-  - "Dépôt d'un échantillon d'urine ou de selles sans l'animal, après un appel : à confirmer par Vetmint"
-  - "Résultats remis imprimés ou envoyés par e-mail : à confirmer par Vetmint"
-  - "Litière non absorbante remise par la clinique pour recueillir l'urine du chat : à confirmer par Vetmint"
-  - "Prix de la biopsie avec analyse externe (180 à 280 CHF) : à confirmer par la grille Vetmint"
 ---
 
 Eine Blutuntersuchung beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Ein grosses Blutbild kostet 145 Franken; Biopsien gehen an ein externes Labor.
@@ -163,5 +139,3 @@ Jede Praxis von Vetmint hat ihr Labor für Blut, Urin, Kot und Haut. Alle schick
 Eine Untersuchung wird während einer Konsultation von 30 Minuten eingeplant. Muss Ihr Tier nüchtern sein, vereinbaren Sie einen Termin am Morgen. Wählen Sie Ihre Praxis auf der [Karte der Praxen](/de/praxen/).
 
 Zum Weiterlesen: [Diabetes beim Hund](/de/ratgeber/diabetes-hund/) und [Schilddrüsenüberfunktion bei der Katze](/de/ratgeber/schilddruesenueberfunktion-katze/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

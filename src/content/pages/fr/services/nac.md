@@ -6,22 +6,10 @@ description: "Vétérinaire NAC chez Vetmint : lapins et rongeurs dans les huit
 h1: Médecine des NAC, du lapin au reptile
 nom: NAC
 recherche: vétérinaire NAC
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 15
 especes: [nac]
 resume: Lapins et rongeurs dans les huit cliniques, oiseaux, reptiles et cas complexes chez le vétérinaire NAC de Fribourg Ouest.
-sources:
-  - fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/equipe/ (espèces reçues, consultations, hospitalisation, dents et chirurgie des NAC, parcours de Léo Munné), relevé du 16 octobre 2026
-  - pages Prestations des huit cliniques (opérations, soins dentaires et hospitalisation des lapins et des rongeurs)
-  - grilles tarifaires des cliniques (bilan avec vaccin du lapin, castration et stérilisation du lapin, castration des rongeurs, consultation spécialisée NAC, vaccin contre la rage du furet), valables dès le 29 avril 2025
-  - vetmint.ch/le-lapin/, vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/, vetmint.ch/lencephalitozoonose/ (prévention, jeûne, signes d'urgence)
-  - connaissances vétérinaires courantes pour les signes d'alerte par espèce et le transport, à valider par le relecteur
-a_remplacer:
-  - "Orientation des oiseaux, reptiles, poissons et amphibiens vers Fribourg Ouest par les sept autres cliniques : à confirmer par Vetmint"
-  - "Furets reçus dans les huit cliniques : à confirmer par les cliniques"
 ---
 
 Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cliniques reçoivent les lapins et les rongeurs. Les oiseaux, les reptiles et les cas difficiles vont à la clinique de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC. Une consultation coûte de 54 à 59 francs selon la clinique, dès 60 francs pour une consultation spécialisée.
@@ -155,5 +143,3 @@ C'est la clinique du groupe qui reçoit tous les NAC. Léo Munné, vétérinaire
 Au téléphone, dites l'espèce, l'âge et le motif. Pour un lapin qui ne mange plus, dites-le d'emblée : c'est une urgence. Pour un oiseau, un reptile ou un deuxième avis sur un cas qui traîne, appelez Fribourg Ouest.
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

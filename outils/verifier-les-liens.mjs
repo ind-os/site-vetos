@@ -1,5 +1,5 @@
 // Vérifie, après `pnpm build`, que chaque lien interne des pages construites (dist/) mène à une
-// page qui existe. Les liens vers les sites actuels des cliniques pas encore en ligne, les liens
+// page qui existe. Les liens vers l'adresse hors ligne des cliniques pas encore en ligne, les liens
 // externes, tel: et mailto: ne sont pas suivis.
 //
 //   node outils/verifier-les-liens.mjs

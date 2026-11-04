@@ -5,22 +5,10 @@ title: "Pankreatitis beim Hund: Anzeichen und Therapie | Vetmint"
 description: "Pankreatitis beim Hund: Erbrechen, schmerzhafter Bauch, Mattigkeit. Wann Sie anrufen sollten, die Untersuchungen, die Infusion und fettarme Mahlzeiten danach."
 h1: Pankreatitis beim Hund
 recherche: Pankreatitis Hund
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien]
 ordre: 7
 resume: Ein Hund, der erbricht, Bauchschmerzen hat und nicht frisst, kann eine Pankreatitis haben, die rasch behandelt werden muss.
-sources:
-  - contenu-des-pages.md, vetmint.ch/la-pancreatite-chez-le-chien/ (relevé du 16 octobre 2026)
-  - connaissances vétérinaires courantes (charte 5.3) pour les causes, les signes d'urgence, les examens et le lien avec le diabète
-a_remplacer:
-  - "Section « Ce qui la déclenche » (repas gras, restes de table, poubelle, surpoids, schnauzer nain, certains médicaments) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Section « Comment le vétérinaire pose le diagnostic » (enzyme du pancréas mesurée dans le sang, échographie) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Absence de médicament qui éteigne l'inflammation, médicament contre les vomissements, lien avec le diabète après des crises répétées : ajouts de la rédaction, à valider par le vétérinaire relecteur"
-  - "Section « Quand consulter » (signes qui imposent d'appeler le jour même, selles molles répétées comme signe de forme chronique) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Position de prière comme signe de douleur du ventre : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Die Pankreatitis ist eine Entzündung der Bauchspeicheldrüse, des Organs neben dem Magen, das die Verdauungssäfte und das Insulin bildet. Meistens ist keine Infektion die Ursache. Der Schub kann plötzlich auftreten (akute Pankreatitis) oder über Monate in Episoden wiederkehren (chronische Pankreatitis). Sie ist schmerzhaft und kann innerhalb weniger Stunden ernst werden.
@@ -87,5 +75,3 @@ Eine Pankreatitis kann wiederkehren. Jeder Schub schädigt die Bauchspeicheldrü
 Eine Konsultation dauert bei Vetmint 30 Minuten. Die Tierärztin oder der Tierarzt untersucht Ihren Hund, führt die Analysen vor Ort durch und erstellt mit Ihnen den Mahlzeitenplan. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

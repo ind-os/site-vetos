@@ -5,20 +5,10 @@ title: Harngriess bei Kaninchen und Meerschweinchen | Vetmint
 description: "Harngriess bei Kaninchen und Meerschweinchen: dicker, weisser Urin, Blut, Schmerzen. Die Rolle des Kalziums, die Untersuchungen, die Behandlung und das Wasser."
 h1: Harngriess bei Kaninchen und Meerschweinchen
 recherche: Harngriess Kaninchen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
 resume: Kalziumgriess in der Blase von Kaninchen oder Meerschweinchen, den Wasser, Ernährung und Bewegung vermeiden helfen.
-sources:
-  - contenu-des-pages.md, vetmint.ch/sablose-urinaire-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Lien vers le site tiers « La dure vie du lapin urbain » (liste des végétaux riches en calcium) retiré : choix à valider avec le relecteur (charte 7.9)"
-  - "Signes d'urgence (efforts pour uriner sans résultat, cochon d'Inde qui cesse de manger) et question sur l'urine orange ou rouge : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Der Harngriess ist das Vorhandensein von Kalziumkristallen als Griess in der Blase. Er betrifft vor allem Kaninchen und Meerschweinchen, bei denen Harnprobleme häufig sind. Ihre Art, Kalzium aufzunehmen, macht sie dafür anfällig. Gewisse Lebensbedingungen erhöhen das Risiko. Früh erkannt, lässt er sich gut behandeln, kehrt aber oft zurück.
@@ -97,5 +87,3 @@ Die Tierärztin oder der Tierarzt passt die Ration an Ihr Tier an. Der Ratgeber 
 Die Untersuchungen und Behandlungen von Kaninchen und Meerschweinchen sind auf der Seite [Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt sie auch in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/), ab 60 Franken.
 
 [Ihre Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

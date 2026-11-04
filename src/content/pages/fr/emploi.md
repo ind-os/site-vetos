@@ -6,21 +6,6 @@ description: "Vetmint recrute des vétérinaires, des assistantes en médecine v
 h1: Travailler chez Vetmint
 recherche: emploi vétérinaire Suisse romande
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/emplois/ et vetmint.ch/emploi-v2/, relevé du 16 octobre 2026
-  - contenu-des-pages.md, pages Emploi des huit cliniques (adresse rh@vetplatform.com), relevé du 16 octobre 2026
-  - contenu-des-pages.md, pages Équipe et Infos de Bussigny et de Domdidier (apprenties), relevé du 16 octobre 2026
-  - contenu-des-pages.md, accueils des cliniques (service de garde en dehors des heures d'ouverture), relevé du 16 octobre 2026
-a_remplacer:
-  - "Poste ouvert : vétérinaire pour animaux de compagnie, 80 à 100 %, clinique de Payerne, entrée le 1er février 2027 ou à convenir"
-  - "Poste ouvert : assistante ou assistant en médecine vétérinaire, 60 à 80 %, clinique de Saint-Légier, entrée à convenir"
-  - "Places d'apprentissage AMV pour la rentrée d'août 2027, dans plusieurs cliniques"
-  - "Temps partiel possible pour chaque poste"
-  - "Formation continue financée : cinq jours par an pour un vétérinaire à plein temps, trois jours pour une AMV, au prorata du taux"
-  - "Tâches administratives assurées par le groupe : salaires, facturation, commandes, informatique"
-  - "Délai de réponse à une candidature : dix jours ouvrables"
-  - "Déroulement du recrutement : entretien avec le vétérinaire responsable de la clinique, puis une demi-journée à la clinique"
-  - "Téléphone pour les questions de candidature : 077 497 28 83 (numéro de la page vetmint.ch/emploi-v2/, à confirmer)"
 ---
 
 Vetmint réunit huit cliniques vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est dirigé par des vétérinaires. Vous cherchez un emploi de vétérinaire ou d'assistante en médecine vétérinaire (AMV) en Suisse romande, ou une place d'apprentissage : nos cliniques recrutent. Dans toutes nos cliniques, une consultation dure 30 minutes.

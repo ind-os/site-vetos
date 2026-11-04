@@ -6,24 +6,10 @@ description: "Chirurgie bei Vetmint: Knoten, Wunde, verschluckter Fremdkörper, 
 h1: "Weichteilchirurgie: Knoten, Wunden, Fremdkörper"
 nom: Chirurgie
 recherche: Tierarzt Chirurgie
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 5
 especes: [chien, chat, nac]
 resume: Die Operationen an Haut, Bauch und Organen, vom Knoten, der entfernt wird, bis zum verschluckten Fremdkörper.
-sources:
-  - pages Prestations des huit cliniques (chirurgie des tissus mous, biopsies, hospitalisation), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques (consultation, forfaits d'anesthésie détaillés dans les stérilisations, consultation spécialisée en chirurgie de Fribourg Ouest, suppléments d'urgence), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Cabinet de Fribourg Ouest, Lac-de-Joux et Payerne (salles d'opération, laparoscopie, hospitalisation), page Spécialiste de Domdidier (anesthésiste externe), page NAC et page Équipe de Fribourg Ouest
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (bilan avant l'anesthésie), vetmint.ch/peca-pecalbo-2/ (chirurgie de l'oreille du lapin)
-  - bussigny.vetmint.ch/abonnements/ et pages Plan de prévention (réductions sur les actes)
-  - connaissances vétérinaires courantes pour les indications, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Délai du résultat d'analyse d'une grosseur retirée (une à deux semaines, laboratoire externe) : à confirmer par les cliniques"
-  - "Devis écrit remis avant toute opération programmée : à confirmer par Vetmint"
-  - "Contrôles après une opération à deux ou trois jours et vers le dixième jour : à confirmer par les cliniques"
 ---
 
 In der Tierchirurgie bezeichnen die Weichteile die Haut, den Bauch und die Organe, ohne Knochen und Gelenke. Die häufigsten Operationen entfernen einen Knoten, verschliessen eine Wunde, holen einen verschluckten Gegenstand heraus oder bringen Junge per Kaiserschnitt zur Welt. Die acht Praxen Vetmint führen diese Operationen bei Hunden, Katzen, Kaninchen und Nagern durch, mit einer laufend überwachten Narkose. Der Preis wird per Offerte festgelegt, nach einer Konsultation von 30 Minuten, die je nach Praxis 54 bis 59 Franken kostet.
@@ -161,5 +147,3 @@ Die acht Praxen führen Weichteilchirurgie, Kaiserschnitte und die Entfernung vo
 Reservieren Sie für eine geplante Operation eine Konsultation und nennen Sie den Grund. Bei einer Wunde, einem verschluckten Gegenstand oder einer Geburt, die nicht vorangeht, rufen Sie direkt die nächstgelegene Praxis an. Der Ratgeber [Blutuntersuchung](/de/ratgeber/blutuntersuchung/) erklärt, wozu die Blutentnahme vor der Narkose dient; das Merkblatt [PECA und PECALBO](/de/ratgeber/peca-pecalbo/) beschreibt die Operation am Ohr des Kaninchens.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

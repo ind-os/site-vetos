@@ -5,26 +5,10 @@ title: "Notfall-Tierarzt: Nummern und Preise | Vetmint"
 description: "Tierärztlicher Notfall in einer Vetmint-Praxis: wen Sie tagsüber anrufen, welche Notfallnummer nachts und am Wochenende gilt, Anrufpreis und Notfallzuschläge."
 h1: Notfälle und tierärztlicher Notfalldienst in den Vetmint-Praxen
 recherche: tierärztlicher Notfalldienst
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 19
 especes: [chien, chat, nac]
 resume: Die richtige Nummer je nach Uhrzeit und Praxis, der Preis eines Notfalls und die Anzeichen, die nicht warten können.
-sources:
-  - pages Urgences et accueils des huit sites de clinique (numéros de garde, prix de l'appel, Médi-Vet au Lac-de-Joux, répondeur de Saint-Légier), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes, suppléments d'urgence)
-  - fribourg.vetmint.ch/equipe/ (vétérinaire présent le soir et le week-end à Fribourg Ouest)
-  - lacdejoux.vetmint.ch, questions fréquentes (urgences reçues pendant les heures d'ouverture)
-  - pages Prestations des huit cliniques (laboratoire, radiographie, hospitalisation)
-  - connaissances vétérinaires courantes pour le tri des urgences et les questions posées au téléphone, à valider par le relecteur
-a_remplacer:
-  - "Prix de l'appel au 0900 022 022 de Médi-Vet, Lac-de-Joux (2 francs la minute) : à confirmer par la clinique"
-  - "Numéro de garde de Fribourg Ouest (0900 80 70 60, repris de la page Urgences actuelle, qui affiche aussi le téléphone et l'e-mail de Saint-Blaise) : à confirmer par la clinique"
-  - "Numéro de garde de Domdidier et de Payerne (0900 904 904, pages Urgences ; les accueils affichent 026 466 34 35) : à confirmer par les cliniques"
-  - "Garde de Saint-Légier : 0900 906 906 à 2 francs la minute de 8 h à 22 h et 5 francs de 22 h à 8 h (accueil actuel) ; la page Urgences actuelle renvoie au 021 683 10 10, dont le répondeur oriente vers la garde de la Riviera, à confirmer par la clinique"
-  - "Moyens de paiement d'une urgence (carte de débit, carte de crédit et TWINT, sur place) : à confirmer par Vetmint"
 ---
 
 In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag von 40 bis 176 Franken je nach Praxis und Uhrzeit, danach die Behandlung.
@@ -151,5 +135,3 @@ Wenn ein Notfall zu einer Operation führt, beschreiben die Seiten [Chirurgie](/
 Eine Konsultation von 30 Minuten lässt Zeit, Ihr Tier vollständig zu untersuchen und über das zu sprechen, was Sie beunruhigt. Online-Termine: [Bussigny](/de/bussigny/termin/), [La Chaux-de-Fonds](/de/chauxdefonds/termin/), [Domdidier](/de/domdidier/termin/), [Fribourg Ouest](/de/fribourg/termin/), [Lac-de-Joux](/de/lacdejoux/termin/), [Payerne](/de/payerne/termin/), [Saint-Blaise](/de/saintblaise/termin/) und [Saint-Légier](/de/saintlegier/termin/), für die Impfungen.
 
 [Einen Termin in einer Praxis vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -6,27 +6,10 @@ description: "Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehand
 h1: Tierärztliche Hausbesuche
 nom: Hausbesuche
 recherche: Tierarzt Hausbesuch
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
 resume: Eine Tierärztin oder ein Tierarzt kommt für Routinebehandlungen zu Ihnen nach Hause, von Montag bis Freitag, mit einer Anfahrtspauschale ab 55 Franken.
-sources:
-  - vetmint.ch/soins-a-domicile/ et domdidier.vetmint.ch/soins-a-domicile/ (horaires, forfait de 55 francs pour la Riviera vaudoise et la Broye, annulation, paiement), relevé du 16 octobre 2026
-  - questions fréquentes de vetmint.ch et des accueils de clinique (soins courants à domicile, sur rendez-vous)
-  - pages Urgences, Contact et accueils des cliniques (visites à domicile avec frais de déplacement)
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes)
-  - connaissances vétérinaires courantes pour les soins possibles à domicile et la préparation de la visite, à valider par le relecteur
-a_remplacer:
-  - "Forfait de déplacement autour des cliniques hors de la Riviera vaudoise et de la Broye (55 francs dans un rayon de 15 kilomètres) : à confirmer par Vetmint"
-  - "Prix de la consultation à domicile (prix de la consultation de 30 minutes de la clinique, 54 à 59 francs, plus le déplacement) : à confirmer par Vetmint"
-  - "Un seul forfait de déplacement pour plusieurs animaux du même foyer : à confirmer par Vetmint"
-  - "Fin de vie et euthanasie à domicile proposées par les sept cliniques qui se déplacent : à confirmer par Vetmint"
-  - "Fribourg Ouest absente de la liste : seule sa page Urgences actuelle, copiée de Saint-Blaise, cite les visites à domicile, à confirmer par la clinique"
-  - "Annulation tardive facturée au prix du forfait de déplacement : à confirmer par Vetmint"
-  - "Incinération organisée par la clinique après une euthanasie à domicile : à confirmer par Vetmint"
 ---
 
 Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden von Montag bis Freitag, von 7.30 bis 19 Uhr, nach Vereinbarung statt. Sie bezahlen die Konsultation zum Preis der Praxis, dazu eine Anfahrtspauschale von 55 Franken an der Waadtländer Riviera, in der Broye und rund um jede Praxis.
@@ -145,5 +128,3 @@ Sieben Vetmint-Praxen bieten Hausbesuche nach Vereinbarung rund um ihre Gemeinde
 Für ein älteres Tier mit Schmerzen beschreibt die Seite [Schmerztherapie](/de/leistungen/schmerztherapie/) die mögliche Verlaufskontrolle zwischen zwei Besuchen.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

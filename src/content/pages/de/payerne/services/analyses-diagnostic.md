@@ -8,21 +8,6 @@ h1: Analysen und Diagnostik in Payerne
 recherche: Blutuntersuchung Hund Payerne
 redige_le: 2026-11-03
 resume: Das Labor der Praxis liest die meisten Blutuntersuchungen noch während der Konsultation.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (diagnostic, biopsies) et /cabinet-payerne/ (zone de soins, laboratoire relié à l'ordinateur), relevé du 16 octobre 2026
-  - payerne.vetmint.ch/plan-de-prevention/ (test FIV/FeLV du plan chaton)
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, suppléments d'urgence)
-  - pages déjà rédigées de Payerne (accueil, équipe, rendez-vous, questions fréquentes)
-  - page commune /services/analyses-diagnostic/ (prix et délais, eux-mêmes à confirmer)
-a_remplacer:
-  - "Résultat d'une prise de sang en une demi-heure environ (accueil de Payerne) ; la page commune dit 20 minutes"
-  - "Résultat d'une biopsie en cinq à sept jours ouvrables (page commune) ; l'ancienne page Prestations rédigée disait une semaine environ"
-  - "Résultat d'une culture de teigne en une à trois semaines"
-  - "Appel du vétérinaire dès réception d'un résultat externe"
-  - "Prix : bilan sanguin complet 145 CHF, prise de sang avant anesthésie 85 CHF, urine 45 CHF, selles 40 CHF, cytologie 55 CHF, biopsie 180 à 280 CHF (page commune, absents de la grille de Payerne)"
-  - "Dépôt d'un échantillon d'urine ou de selles au comptoir, sans l'animal, après un appel"
-  - "Résultats remis imprimés ou envoyés par e-mail"
-  - "Calmant léger proposé pour un chat qui ne supporte pas la prise de sang"
 ---
 
 In Payerne findet die Blutuntersuchung bei Hund und Katze im Labor der Praxis an der Route du Châtelard 13 statt. Seine Geräte schicken die Werte direkt an den Computer der Tierärztin oder des Tierarztes. Die meisten Blutentnahmen werden deshalb in etwa einer halben Stunde ausgewertet, noch vor dem Ende der Konsultation. Dasselbe Labor untersucht Urin, Kot, Haut und die Zellen eines Knotens bei Hunden, Katzen, Kaninchen und Nagern. Nur die Biopsien gehen an ein externes Labor.
@@ -91,5 +76,3 @@ Nicht immer. Ein Wert kann nach Stress oder einer Mahlzeit steigen. Die Tierärz
 Der Vetmint-Ratgeber zu den Analysen erklärt, wonach jede Untersuchung sucht und in welchem Alter sich ein Check lohnt.
 
 [Alles über die Analysen](/de/leistungen/labor-diagnostik/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

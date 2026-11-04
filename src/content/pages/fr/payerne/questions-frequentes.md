@@ -7,14 +7,6 @@ description: "Les questions que nos clients de Payerne posent le plus : dépose
 h1: Vos questions sur la clinique de Payerne
 recherche: questions clinique vétérinaire Payerne
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/contact/ (questions fréquentes actuelles), accueil, cabinet, plan de prévention, tarifs, urgence, relevé du 16 octobre 2026
-  - vetmint.ch/soins-a-domicile/ (district de la Broye, forfait, horaire, paiement)
-a_remplacer:
-  - "Dépôt de l'animal dès 8 h, reprise jusqu'à 18 h (19 h le mardi)"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Places de parc gratuites"
-  - "Animal anxieux reçu directement en salle de consultation, sans passer par la salle d'attente"
 ---
 
 Ces questions sont celles que nos clients posent le plus souvent au téléphone et au comptoir de la clinique vétérinaire Vetmint Payerne. Chaque réponse renvoie à la page qui donne le détail.

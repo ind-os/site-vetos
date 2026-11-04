@@ -6,20 +6,6 @@ description: "Les cliniques Vetmint à Bussigny, La Chaux-de-Fonds, Domdidier, F
 h1: Nos cliniques
 recherche: cliniques Vetmint
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/cabinets/ (adresses, téléphones, e-mails, WhatsApp), relevé du 16 octobre 2026
-  - contenu-des-pages.md, accueil, contact, cabinet, prestations et urgences des huit sites de clinique, relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques (laser, ostéopathie, échographies), valables dès le 29 avril 2025
-  - docs/charte-redactionnelle.md, section 2.4 (adresses de référence)
-a_remplacer:
-  - "Horaires de Domdidier (lundi, mardi, mercredi et vendredi 8 h à 12 h et 14 h à 18 h, jeudi jusqu'à 20 h, samedi 8 h 30 à 12 h 30) : l'accueil actuel dit 8 h à 18 h sans pause, jeudi jusqu'à 19 h et samedi 8 h 30 à 15 h"
-  - "Horaires de Payerne (pause de midi, mardi jusqu'à 19 h, samedi fermé) : l'accueil actuel dit 8 h à 18 h sans pause et certains samedis 8 h 30 à 15 h"
-  - "Horaires de Fribourg Ouest (lundi à vendredi 8 h à 12 h et 14 h à 18 h) : repris de la page Urgences actuelle, recopiée de Saint-Blaise"
-  - "Samedi et dimanche fermés à La Chaux-de-Fonds, Fribourg Ouest, Lac-de-Joux, Payerne, Saint-Blaise et Saint-Légier : les sites actuels ne citent pas ces jours"
-  - "Numéro de garde de Domdidier et de Payerne (0900 904 904) : les accueils actuels affichent le 026 466 34 35"
-  - "Numéro de garde de Fribourg Ouest (0900 80 70 60, 2 francs la minute) : repris de la page Urgences actuelle, qui affiche le téléphone de Saint-Blaise"
-  - "Garde de Saint-Légier (0900 906 906) : la page Urgences actuelle renvoie au 021 683 10 10, dont le répondeur oriente vers la garde de la Riviera"
-  - "Prix de l'appel au 0900 022 022 de Médi-Vet, Lac-de-Joux (2 francs la minute)"
 ---
 
 Vetmint compte huit cliniques vétérinaires, quatre dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel. Chaque clinique Vetmint reçoit sur rendez-vous. La nuit, le dimanche et les jours fériés, un numéro de garde régional prend le relais.

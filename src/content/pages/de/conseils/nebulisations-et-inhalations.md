@@ -5,22 +5,10 @@ title: Vernebelung und Inhalation bei Heimtieren | Vetmint
 description: "Vernebelung und Inhalation bei Kaninchen, Nagern oder Vögeln mit Atemnot: wozu sie dienen, welches Gerät Sie wählen und welche Handgriffe zu Hause nötig sind."
 h1: "Konsultationsblatt: Vernebelungen und Inhalationen"
 recherche: Vernebelung Kaninchen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 20
 resume: Die Handgriffe, um einem Kaninchen, Nager oder Vogel zu Hause eine Vernebelung oder Inhalation zu geben.
-sources:
-  - contenu-des-pages.md, vetmint.ch/nebulisations-et-inhalations-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (consultation spécialisée NAC, valable dès le 29 avril 2025)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-a_remplacer:
-  - "Marque et modèle de nébuliseur retirés de l'article d'origine (modèle à compresseur testé chez les NAC, cité par son nom) : choix à valider par le vétérinaire relecteur, qui peut le réintroduire par « par exemple » (charte 7.9)"
-  - "Marques retirées de l'article d'origine : chambres d'inhalation à masque pour chat et pour enfant, spray inhalateur contre l'asthme. Choix à valider par Vetmint et le vétérinaire relecteur (charte 7.9)"
-  - "Durée d'une séance de nébulisation : l'article d'origine écrit « 15+20 minutes », la page retient 15 à 20 minutes, à confirmer par le vétérinaire relecteur"
-  - "Signes qui doivent faire rappeler pendant le traitement (respiration bouche ouverte, panique dans la boîte, écoulements qui augmentent) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Ihr Kaninchen, Ihr Nager oder Ihr Vogel hat Atembeschwerden: Nase, Nebenhöhlen, Rachen oder Lunge. Die Tierärztin oder der Tierarzt hat Ihnen Vernebelungen, Inhalationen oder beides vorgeschlagen. Diese Behandlungen erfolgen zu Hause, mit einem Gerät aus der Apotheke oder einer einfachen Plastikbox. Richtig durchgeführt, lindern sie das Tier und verstärken die Wirkung der Medikamente.
@@ -87,5 +75,3 @@ Diese Behandlungen gehören zur Therapie mehrerer Krankheiten, die in unseren Ra
 Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen, Nager und Vögel tun. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Die Tierärztin oder der Tierarzt gibt dort für jede Behandlung zu Hause schriftliche Merkblätter ab.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

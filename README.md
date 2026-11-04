@@ -14,8 +14,8 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe V
 | `src/gabarits/` | la mise en page de chaque type de page |
 | `src/lib/` | la lecture des pages et des fiches, les horaires, le Markdown, le balisage |
 | `docs/` | les règles : plan des pages, format des pages, fiche de clinique, charte graphique, charte de rédaction, traduction |
-| `outils/` | la vérification d'une page et des liens, la liste des faits à confirmer |
-| `.claude/skills/` | les procédures pour Claude Code : rédiger une page, mettre une clinique en ligne |
+| `outils/` | la vérification d'une page et des liens |
+| `.claude/skills/` | les procédures pour Claude Code : préparer l'ordinateur, rédiger une page, mettre une clinique en ligne |
 
 ## Travailler dessus
 
@@ -23,7 +23,6 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe V
 pnpm install
 pnpm dev            # http://localhost:4321, et http://localhost:4321/styleguide/
 pnpm verifier       # types, construction, règles du site, liens
-pnpm faits-a-remplacer payerne   # les faits à confirmer, pour une clinique ou tout le site
 python3 -I outils/verifier-page.py src/content/pages/fr/payerne/tarifs.md
 ```
 
@@ -60,8 +59,8 @@ publication en cours). GitHub ne garde qu'une publication en attente : d'une
 rafale de poussées, la dernière est publiée, et celles d'entre deux sont
 annulées avant de commencer.
 
-Ce que le dépôt reçoit du serveur qui sert le site, posé par le kit d'Indos à
-l'installation :
+Ce que le dépôt reçoit du serveur qui sert le site, posé à l'installation du
+serveur :
 
 | Nom | Sorte | Contenu |
 | --- | --- | --- |
@@ -75,6 +74,6 @@ paquet naît privé.
 
 ## Claude Code
 
-- `CLAUDE.md` : les gestes de Seb, pour Claude Code : préparer l'ordinateur, modifier le site, prévisualiser, publier, revenir à une version d'avant.
-- `.claude/skills/` : rédiger ou traduire une page, mettre une clinique en ligne.
+- `CLAUDE.md` : les gestes de Seb, pour Claude Code : vérifier l'ordinateur, prévisualiser, modifier le site, publier, revenir à une version d'avant.
+- `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, mettre une clinique en ligne.
 - `.claude/settings.json` : Claude ne modifie ni `.github/` ni `.claude/`, ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.

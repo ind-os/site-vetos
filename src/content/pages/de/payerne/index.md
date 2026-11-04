@@ -8,21 +8,6 @@ h1: "Tierarztpraxis Vetmint Payerne"
 recherche: "Tierarzt Payerne"
 redige_le: 2026-10-16
 resume: "Hunde, Katzen, Kaninchen und Nager, Route du Châtelard 13. Konsultationen von 30 Minuten nach Terminvereinbarung."
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch (accueil, cabinet, contact, équipe, prestations, plan de prévention, tarifs, urgence, rendez-vous), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - vetmint.ch/soins-a-domicile/ et vetmint.ch/toilettage/, relevé du 16 octobre 2026
-a_remplacer:
-  - "Horaires : lundi et mercredi à vendredi 8 h à 12 h et 14 h à 18 h, mardi jusqu'à 19 h ; l'accueil actuel dit 8 h à 18 h en continu"
-  - "Numéro de garde : 0900 904 904 (page Urgences actuelle) ; l'accueil actuel affiche le 026 466 34 35"
-  - "Résultats de la prise de sang en une demi-heure environ, pendant la consultation"
-  - "Sortie Payerne de l'A1 à cinq minutes en voiture ; gare CFF à une vingtaine de minutes à pied"
-  - "Places de parc gratuites"
-  - "Communes d'où viennent les clients : Corcelles-près-Payerne, Grandcour, Valbroye, Lucens, Avenches, Estavayer, Montagny, Cugy"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Toilettage à la clinique : annoncé à Payerne par vetmint.ch/toilettage/, absent des pages actuelles de la clinique"
-  - "Langues : l'accueil actuel dit « français, allemand et anglais » ; la fiche donne l'allemand à Claire-Lise Tinguely et à Jessy Dizerens, l'anglais à personne, à confirmer"
-  - "Plan de prévention chiot à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs"
 ---
 
 Die Tierarztpraxis Vetmint Payerne empfängt Hunde, Katzen, Kaninchen und Nager an der Route du Châtelard 13. Eine Tierärztin und ein Tierarzt, Claire-Lise Tinguely und Tiago Capelo, arbeiten dort mit zwei Tiermedizinischen Praxisassistentinnen (TPA) und zwei jungen Menschen in Ausbildung. Jede Konsultation dauert 30 Minuten und findet nach Terminvereinbarung statt.

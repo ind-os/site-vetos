@@ -6,25 +6,6 @@ description: "Quelles données les sites Vetmint traitent, pourquoi, où elles s
 h1: Politique de confidentialité
 recherche: politique de confidentialité Vetmint
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/politique-de-confidentialite/ et pages Politique de confidentialité de Bussigny, Domdidier et Saint-Légier (texte identique), relevé du 16 octobre 2026
-  - contenu-des-pages.md, pied de page de vetmint.ch (Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg ; ek@vetmint.ch), relevé du 16 octobre 2026
-  - AGENTS.md du dossier de travail d'AVQN (hébergement sur un serveur Infomaniak au nom de Vetmint, base des horaires, fiches Google)
-  - docs/api.md (données de la base des horaires, sans donnée personnelle)
-  - loi fédérale sur la protection des données (LPD) du 25 septembre 2020, en vigueur depuis le 1er septembre 2023
-a_remplacer:
-  - "Responsable du traitement : Vetmint SA pour les sites, la clinique choisie pour les rendez-vous et le dossier de l'animal (la politique actuelle cite tour à tour Vetmint SA et Vetplatform SA)"
-  - "Adresse pour les demandes : ek@vetmint.ch (adresse de la politique actuelle, à confirmer ou à remplacer par une adresse dédiée)"
-  - "Hébergeur : Infomaniak, serveur au nom de Vetmint, centres de données en Suisse"
-  - "Conservation des journaux du serveur : 30 jours"
-  - "Mesure d'audience : outil installé sur le serveur de Vetmint, sans cookie, adresse IP raccourcie, aucune transmission à un tiers"
-  - "Cookie technique du module de rendez-vous, le temps de la réservation"
-  - "Données demandées par le module de rendez-vous : nom, prénom, téléphone, e-mail, nom et espèce de l'animal, motif"
-  - "Conservation du dossier de l'animal : dix ans après la dernière visite"
-  - "Conservation d'une candidature : six mois après la fin du recrutement"
-  - "Effacement d'une adresse de la lettre d'information : 7 jours après la désinscription"
-  - "Sauvegardes chiffrées, gardées en Suisse"
-  - "Date de la version : 16 octobre 2026"
 ---
 
 Vetmint traite peu de données personnelles sur ses sites. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par trois voies : le module de rendez-vous, les e-mails que vous nous envoyez et l'inscription à la lettre d'information. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).

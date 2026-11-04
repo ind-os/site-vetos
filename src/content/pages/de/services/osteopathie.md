@@ -6,21 +6,10 @@ description: "Osteopathie für Hund und Katze bei Vetmint: Steifheit, Lahmheit, 
 h1: Osteopathie bei Hund und Katze
 nom: Osteopathie
 recherche: Osteopathie Hund
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 12
 especes: [chien, chat]
 resume: Manuelle Griffe, die einem steifen Hund oder einer steifen Katze nach einer tierärztlichen Untersuchung Beweglichkeit zurückgeben.
-sources:
-  - domdidier.vetmint.ch/prestations/ (ostéopathie pour chiens et chats), relevé du 16 octobre 2026
-  - grilles tarifaires de Domdidier (consultation d'ostéopathie, 111 CHF) et de Fribourg Ouest (140 CHF, spécialiste en ostéopathie animale), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/douleur/ (ostéopathie parmi les thérapies d'appoint de la consultation douleur)
-  - connaissances vétérinaires courantes pour les indications, les limites, le déroulement et les suites, à valider par le relecteur
-a_remplacer:
-  - "Durée d'une séance d'ostéopathie (45 minutes à une heure) : à confirmer par Domdidier et Fribourg Ouest"
-  - "Délai conseillé entre deux séances (trois à quatre semaines) : à confirmer par les ostéopathes des deux cliniques"
 ---
 
 Die Osteopathie beim Hund und bei der Katze behandelt mit den Händen. Die Osteopathin oder der Osteopath erkennt steife oder schmerzhafte Stellen und mobilisiert sie sanft, um den Gelenken und Muskeln Bewegung zurückzugeben. Diese Behandlung richtet sich an Tiere, die lahmen, mit dem Alter steif werden oder sich von einer Operation erholen. Bei Vetmint kostet eine Sitzung je nach Praxis 111 bis 140 Franken und folgt immer auf eine tierärztliche Untersuchung.
@@ -126,5 +115,3 @@ Das hängt vom Vertrag ab. Manche Tierversicherungen decken die Komplementärmed
 Wurde Ihr Tier für dieses Problem noch nicht untersucht, verlangen Sie zuerst eine Konsultation von 30 Minuten in der nächstgelegenen Praxis. Die Tierärztin oder der Tierarzt verweist Sie danach an die Sitzung. Wurde es bereits untersucht, rufen Sie direkt Domdidier oder Fribourg Ouest an und sagen Sie es am Telefon.
 
 [Eine Vetmint-Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

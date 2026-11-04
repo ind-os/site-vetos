@@ -8,19 +8,6 @@ h1: Konsultation in Payerne
 recherche: Tierarzt Konsultation Payerne
 redige_le: 2026-11-03
 resume: "Dreissig Minuten mit Claire-Lise Tinguely oder Tiago Capelo, für 57 Franken, Route du Châtelard 13."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, cabinet, contact, tarifs, plan de prévention, accueil), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, langues, horaires, accès)"
-  - "pages de Payerne du nouveau site (accueil, équipe, contact, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Résultats de la plupart des prises de sang en une demi-heure environ, pendant la consultation"
-  - "Biopsies et cultures envoyées à un laboratoire externe, résultat en une semaine environ"
-  - "Radiographie faite pendant la même visite quand la salle est libre"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Langues : l'accueil actuel dit « français, allemand et anglais » ; la fiche donne l'allemand à Claire-Lise Tinguely et à Jessy Dizerens, l'anglais à personne"
-  - "Choix du vétérinaire possible à la prise de rendez-vous, selon l'agenda"
-  - "Samedis d'ouverture de 8 h 30 à 15 h, annoncés dans le bandeau du site"
 ---
 
 In Payerne dauert eine tierärztliche Konsultation 30 Minuten und kostet 57 Franken. Claire-Lise Tinguely und Tiago Capelo, die beiden Tierärzte der Tierarztpraxis Vetmint, empfangen dort Hunde, Katzen, Kaninchen und Nager, vom Meerschweinchen bis zum Hamster. Die Termine finden an der Route du Châtelard 13 statt, von Montag bis Freitag. Am Dienstag dauern sie bis 19 Uhr.
@@ -95,5 +82,3 @@ Nein. Rufen Sie die [026 660 16 16](tel:+41266601616) an: Während der Öffnungs
 Die Konsultation von 30 Minuten und ihr Ablauf sind auf der Seite [Alles über die tierärztliche Konsultation](/de/leistungen/konsultation/) ausführlich erklärt. Die Impfungen werden beim selben Besuch gemacht: siehe [die Impfung des Hundes in Payerne](/de/payerne/leistungen/impfung-hund/) und [die Impfung der Katze in Payerne](/de/payerne/leistungen/impfung-katze/).
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

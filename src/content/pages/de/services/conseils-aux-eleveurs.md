@@ -6,24 +6,10 @@ description: "Tierarzt für Züchter bei Vetmint: Untersuchung vor dem Deckakt, 
 h1: Beratung für Züchter von Hunden, Katzen und Heimtieren
 nom: Züchterberatung
 recherche: Tierarzt für Züchter
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 18
 especes: [chien, chat, nac]
 resume: "Die Betreuung eines Wurfs vom Deckakt bis zum Verkauf: Screenings, Trächtigkeitsultraschall, Geburt, Impfungen und Mikrochip."
-sources:
-  - pages Prestations des huit cliniques (informations aux éleveurs, médecine de la reproduction, néonatalogie, radiographies officielles des hanches et des coudes, échographie de gestation, césarienne, puces électroniques et thermochip), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation, échographie de gestation, bilans pédiatriques avec vaccins, vaccin contre la rage)
-  - vetmint.ch/le-lapin/, vetmint.ch/le-cochon-dinde/, vetmint.ch/le-rat/ et vetmint.ch/lencephalitozoonose/ (gestation, première portée du cochon d'Inde, dépistages avant la reproduction)
-  - fribourg.vetmint.ch/nac/ (conférences pour les groupements d'éleveurs)
-  - vetmint.ch/radiographie/ (sédation pour les radiographies orthopédiques)
-  - connaissances vétérinaires courantes pour la gestation, la mise bas, les premières semaines et l'identification des chiots, à valider par le relecteur
-a_remplacer:
-  - "Prix des radiographies officielles des hanches et des coudes (320 francs, sédation et envoi des clichés compris) : à confirmer par Vetmint"
-  - "Prix de la radiographie de comptage des chiots ou des chatons (90 francs, hors consultation) : à confirmer par Vetmint"
-  - "Échographie de gestation à 50 francs hors consultation dans les cliniques qui ne publient pas ce prix (Domdidier, Fribourg Ouest, Payerne, Saint-Légier) : à confirmer par les cliniques"
 ---
 
 Ein Wurf wird vor dem Deckakt vorbereitet und bis zur Abgabe des letzten Welpen oder Kätzchens begleitet. Die Tierärztinnen und Tierärzte von Vetmint beraten Züchterinnen und Züchter von Hunden, Katzen und neuen Heimtieren (NAC) in jeder Phase: Screenings, Trächtigkeitsultraschall, Geburt, Impfungen und Mikrochip. Eine Konsultation von 30 Minuten kostet je nach Praxis 54 bis 59 Franken, der Trächtigkeitsultraschall zusätzlich 50 Franken.
@@ -142,5 +128,3 @@ Die acht Praxen beraten Züchterinnen und Züchter, führen Kaiserschnitte durch
 - [Saint-Légier](/de/saintlegier/leistungen/): Ultraschall, individuelle Futterrationen; Termin unter [021 683 10 10](tel:+41216831010).
 
 Für Nager enthält das Merkblatt [Das Meerschweinchen](/de/ratgeber/das-meerschweinchen/) das Zuchtalter und die Dauer der Trächtigkeit.
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

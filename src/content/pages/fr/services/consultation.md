@@ -6,24 +6,10 @@ description: "Consultation vétérinaire de 30 minutes chez Vetmint : vos quest
 h1: Consultation vétérinaire de 30 minutes
 nom: Consultation
 recherche: consultation vétérinaire
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 1
 especes: [chien, chat, nac]
 resume: Trente minutes pour examiner votre animal en entier, comprendre ce qui ne va pas et décider de la suite avec vous.
-sources:
-  - grilles tarifaires des huit cliniques (consultation de 30 minutes, consultations laser, ostéopathie, NAC et chirurgie, suppléments d'urgence), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - vetmint.ch/plan-de-prevention/ et bussigny.vetmint.ch/abonnements/ (consultations comprises dans le plan et les abonnements)
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (prise de sang de l'animal âgé ou malade)
-  - pages Prestations, Rendez-vous et Cabinet des huit cliniques (espèces reçues, laboratoire, réservation en ligne), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour l'examen et la préparation, à valider par le relecteur
-a_remplacer:
-  - "Délai des résultats d'un laboratoire externe (2 à 5 jours ouvrables, appel de la clinique) : à confirmer par les cliniques"
-  - "Un rendez-vous par animal, deux animaux de la même famille sur une plage double : à confirmer par Vetmint"
-  - "Moyens de paiement (cartes usuelles et TWINT, paiement à la fin de la consultation) : repris de la page Soins à domicile de Domdidier, à confirmer pour toutes les cliniques"
-  - "Rendez-vous non annulé 24 heures à l'avance facturé : repris de la page Soins à domicile de Domdidier, à confirmer pour les consultations"
 ---
 
 Une consultation vétérinaire chez Vetmint dure 30 minutes, pour un chien, un chat, un lapin ou un autre petit animal. Ce temps sert à écouter ce que vous avez remarqué, à examiner l'animal en entier et à décider ensemble de la suite. Elle coûte de 54 à 59 francs selon la clinique, examens complémentaires en plus.
@@ -173,5 +159,3 @@ Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires
 Choisissez la clinique la plus proche sur la carte des cliniques, puis réservez en ligne ou par téléphone. Dites en quelques mots le motif de la visite : la clinique prévoit le bon matériel et, si besoin, vous demande d'apporter un échantillon.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

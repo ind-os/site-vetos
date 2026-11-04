@@ -5,21 +5,10 @@ title: "Meerschweinchen: Haltung, Vitamin C, Pflege | Vetmint"
 description: "Das Meerschweinchen: Leben in der Gruppe, Käfig und Boden, tägliches Vitamin C, Heu, Sterilisation, Untersuchungen und Anzeichen, die zur Tierärztin führen."
 h1: "Das Meerschweinchen"
 recherche: "Meerschweinchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 2
 resume: "Leben mit Meerschweinchen: Gruppe, Platz, Vitamin C, Heu, Vorsorge und Warnzeichen."
-sources:
-  - vetmint.ch/le-cochon-dinde/ (fiche Le cochon d'Inde), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation, soins dentaires et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, les aliments riches en vitamine C et la première mise bas, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les cochons d'Inde en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de foin et de granulés (Supreme Science Selective, Oxbow, Beaphar) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
-  - "Liens vers des sites tiers de l'article d'origine (cobayesclub.com, guinealynx.info) retirés : choix à valider (charte 7.9)"
 ---
 
 Das Meerschweinchen wird 5 bis 8 Jahre alt. Es kann kein Vitamin C herstellen: Seine Nahrung muss ihm jeden Tag welches liefern, sonst erkrankt es an Skorbut. Wie das Kaninchen ist es ein Beutetier, das seine Symptome verbirgt. Ein Meerschweinchen, das nicht mehr frisst, ist schon seit einiger Zeit krank.
@@ -124,5 +113,3 @@ Die Vetmint-Praxen empfangen Meerschweinchen zu einer Konsultation von 30 Minute
 In Fribourg Ouest hat die Praxis eine Heimtier-Spezialität: Zahnbehandlungen bei Nagern, Chirurgie mit einer auf die Art abgestimmten Narkose, stationäre Betreuung ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

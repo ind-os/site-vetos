@@ -7,11 +7,6 @@ h1: Conseils santé pour le lapin et les NAC
 recherche: conseils santé lapin NAC
 redige_le: 2026-10-16
 especes: [nac]
-sources:
-  - contenu-des-pages.md, vetmint.ch/lapin-et-nac/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ et vetmint.ch/le-rat/ (médecine préventive)
-  - contenu-des-pages.md, vetmint.ch/troubles-de-la-ponte-chez-loiseau/ (signes d'urgence de l'oiseau)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ (espèces reçues)
 ---
 
 Les nouveaux animaux de compagnie (NAC) regroupent les lapins, les rongeurs, les furets, les oiseaux et les reptiles. Ce sont surtout des proies : ils cachent leurs symptômes et arrivent souvent tard chez le vétérinaire. Ces conseils santé aident à repérer tôt ce qui ne va pas.

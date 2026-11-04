@@ -6,24 +6,10 @@ description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 
 h1: Ultraschall bei Hund und Katze
 nom: Ultraschall
 recherche: Ultraschall Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat]
 ordre: 9
 resume: Der Ultraschall von Bauch, Herz und Trächtigkeit, die Vorbereitung, die Dauer, die Preise und die ausgestatteten Praxen.
-sources:
-  - vetmint.ch/echographie-2/ (principe, lecture des images, indications, déroulement, jeûne, durée, tonte), relevé du 16 octobre 2026
-  - pages Prestations de Bussigny et de Saint-Légier (échographies abdominales, de gestation, échocardiographie)
-  - fribourg.vetmint.ch/cabinet-2/ et lacdejoux.vetmint.ch/cabinet-2/ (appareil d'échographie)
-  - grilles tarifaires de Bussigny, La Chaux-de-Fonds, Lac-de-Joux, Saint-Blaise et Saint-Légier (échographie de gestation, échographie abdominale complète), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour la gestation, l'échographie guidée et les suites, à valider par le relecteur
-a_remplacer:
-  - "Échographie abdominale complète au prix de Saint-Légier (221 CHF) dans les autres cliniques équipées : à confirmer par la grille Vetmint"
-  - "Prix de l'échocardiographie (260 CHF) : à confirmer par la grille Vetmint"
-  - "Domdidier et Payerne adressent les échographies à Fribourg Ouest : à confirmer par Vetmint"
-  - "Images et compte rendu remis par e-mail : à confirmer par Vetmint"
 ---
 
 Der Ultraschall beim Hund und bei der Katze zeigt das Innere des Bauchs und das Herz in bewegten Bildern, ohne Röntgenstrahlen und ohne Schmerzen. Die Untersuchung dauert 15 bis 25 Minuten, meist an einem wachen Tier. Für den Bauch muss es seit 12 Stunden nüchtern sein. Ein Trächtigkeitsultraschall kostet 50 Franken, ein vollständiger Bauchultraschall 221 Franken. Sechs Praxen von Vetmint haben ein Ultraschallgerät.
@@ -138,5 +124,3 @@ Die Praxen [Domdidier](/de/domdidier/leistungen/) und [Payerne](/de/payerne/leis
 Ein Ultraschall wird während einer Konsultation oder auf Wunsch Ihrer Tierärztin oder Ihres Tierarztes beschlossen. Vereinbaren Sie einen Termin am Morgen, damit das Fasten über Nacht genügt. Wählen Sie Ihre Praxis auf der [Karte der Praxen](/de/praxen/).
 
 Zum Weiterlesen: [Pankreatitis beim Hund](/de/ratgeber/pankreatitis-hund/) und [Harngriess](/de/ratgeber/harngriess/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

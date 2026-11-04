@@ -20,9 +20,9 @@ Les règles sont dans `docs/plan-des-pages.md` (les pages d'une clinique), `docs
 
 ## 3. Écrire les pages en français
 
-Les pages obligatoires sont dans `docs/plan-des-pages.md`, « Les pages d'une clinique ». Pour chacune, suis la skill `rediger-une-page`. Reprends d'abord les textes déjà écrits pour la clinique, s'ils existent (`../vetmint-sites-legacy/sites/<clinique>/src/content/pages/` dans le dossier de travail d'AVQN) : leurs liens se réécrivent vers les adresses du site (`/<clinique>/contact/`). Écris ensuite les pages qui manquent : tarifs, abonnements, une page par service.
+Les pages obligatoires sont dans `docs/plan-des-pages.md`, « Les pages d'une clinique ». Pour chacune, suis la skill `rediger-une-page`, avec la même page de Payerne pour modèle. Les faits viennent de la fiche de la clinique et de la personne ; aucun ne se reprend de Payerne.
 
-Tant que la fiche dit `"en_ligne": false`, les pages se prévisualisent mais les liens des autres pages mènent encore au site actuel de la clinique.
+Tant que la fiche dit `"en_ligne": false`, les pages se prévisualisent mais les liens des autres pages mènent encore à l'adresse du champ `adresse_hors_ligne` de la fiche.
 
 ## 4. Traduire en allemand
 

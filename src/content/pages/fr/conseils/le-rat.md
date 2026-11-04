@@ -5,20 +5,10 @@ title: "Rat domestique : cage, alimentation, soins | Vetmint"
 description: "Le rat domestique : vie en groupe, cage-volière, granulés complets, stérilisation, visites selon l'âge et signes qui doivent faire consulter un vétérinaire."
 h1: Le rat domestique
 recherche: rat domestique
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 3
 resume: "Vivre avec des rats : groupe, cage, ration, stérilisation, visites selon l'âge et signes d'alerte."
-sources:
-  - vetmint.ch/le-rat/ (fiche Le rat), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation, chirurgie et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les rats en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de granulés (Supreme Science Selective, Versele-Laga) et de friandises (Nutri-Berries de Lafeber) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
 ---
 
 Le rat domestique vit 2 à 3 ans. Curieux et intelligent, il a besoin de compagnie, de place pour grimper et d'occupations renouvelées. Sa vie est courte : dès 2 ans, il entre dans l'âge des maladies d'usure. Une visite régulière chez le vétérinaire les repère tôt.
@@ -129,5 +119,3 @@ Les cliniques Vetmint reçoivent les rats en consultation de 30 minutes. La page
 La clinique de Fribourg Ouest a une spécialité NAC. Ses instruments et ses protocoles d'anesthésie sont adaptés aux petits rongeurs, jusqu'à la microchirurgie ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -8,20 +8,6 @@ h1: Züchterberatung in Payerne
 recherche: Tierarzt Züchter Payerne
 redige_le: 2026-11-03
 resume: "Vom Deckakt bis zur Abgabe der Jungen: was die Praxis in Payerne für einen Wurf tut."
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (informations aux éleveurs, médecine de la reproduction, néonatalogie, césariennes, clichés officiels des hanches et des coudes, castration et stérilisation des NAC, puces miniatures et thermochip, conseils en nutrition), relevé du 16 octobre 2026
-  - payerne.vetmint.ch/plan-de-prevention/ (plans chiot et chaton, options castration et stérilisation)
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, bilans pédiatriques, vaccin contre la rage, suppléments d'urgence)
-  - vetmint.ch/soins-a-domicile/ (district de la Broye, forfait de déplacement de 55 francs)
-  - pages déjà rédigées de Payerne (accueil, urgences, rendez-vous)
-  - page commune /services/conseils-aux-eleveurs/ (durées de gestation, signes d'alerte, prix de la radiographie de comptage)
-a_remplacer:
-  - "Échographie de gestation : absente des pages de Payerne et de sa fiche ; la page commune l'annonce à Payerne à 50 CHF hors consultation"
-  - "Radiographie de comptage à 90 CHF hors consultation (page commune, absente de la grille de Payerne)"
-  - "Prix du dépistage officiel des hanches et des coudes : 390 CHF sur la page commune Radiographie, 320 CHF sur la page commune Conseils aux éleveurs"
-  - "Césarienne sur devis, selon l'espèce, la taille et l'heure"
-  - "Portée entière vue en un seul rendez-vous allongé, fixé par téléphone"
-  - "Visite à domicile pour une portée : un seul forfait de déplacement pour toute la portée"
 ---
 
 Die Tierarztpraxis Vetmint Payerne begleitet Züchterinnen und Züchter von Hunden und Katzen, vom Deckakt bis zur Abgabe der Jungen. Sie untersucht die künftige Mutter und macht die offiziellen Dysplasie-Aufnahmen. Stockt die Geburt, führt sie den Kaiserschnitt durch; danach macht sie den ersten Check der Welpen und Kätzchen. Familien, die nur einen einzigen Wurf erwarten, werden gleich empfangen, ebenso die Halterinnen und Halter von Kaninchenweibchen, Meerschweinchen oder Rattenweibchen. Eine Konsultation von 30 Minuten kostet 57 Franken.
@@ -93,5 +79,3 @@ Nur wenn es seinen ersten Wurf zwischen 5 und 8 Monaten hat. Später verwächst 
 Der Vetmint-Ratgeber für Züchter nennt die Trächtigkeitsdauer jeder Tierart und die Screenings je nach Rasse.
 
 [Alles über die Betreuung von Zuchten](/de/leistungen/zuechterberatung/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -7,13 +7,6 @@ h1: "Gesundheitsratgeber für die Katze"
 recherche: "Gesundheitsratgeber Katze"
 redige_le: 2026-10-16
 especes: [chat]
-sources:
-  - contenu-des-pages.md, vetmint.ch/chat/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, bussigny.vetmint.ch/tarifs/ (vaccins et définitions du chat d'intérieur et d'extérieur, valable dès le 29 avril 2025)
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ et bussigny.vetmint.ch/abonnements/ (contenu du plan chaton et des abonnements)
-  - contenu-des-pages.md, vetmint.ch/lobesite-chez-le-chat/ et vetmint.ch/hyperthyroidie-feline/
-a_remplacer:
-  - "Chat mâle qui essaie d'uriner sans résultat, cité comme urgence : ajout de la rédaction, à valider par un vétérinaire Vetmint"
 ---
 
 Diese Ratgeber gehen von den Fragen aus, die Katzenhalterinnen und Katzenhalter am Empfang und in der Konsultation stellen. Sie beschreiben die Anzeichen, die aufmerken lassen sollten, was die Tierärztin oder der Tierarzt sucht und was Sie zu Hause tun können.

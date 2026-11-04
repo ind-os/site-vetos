@@ -6,24 +6,10 @@ description: "Tierärztliche Konsultation von 30 Minuten bei Vetmint: Fragen, Un
 h1: Tierärztliche Konsultation von 30 Minuten
 nom: Konsultation
 recherche: Tierarzt Konsultation
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 1
 especes: [chien, chat, nac]
 resume: Dreissig Minuten, um Ihr Tier gründlich zu untersuchen, die Ursache zu verstehen und das weitere Vorgehen gemeinsam mit Ihnen festzulegen.
-sources:
-  - grilles tarifaires des huit cliniques (consultation de 30 minutes, consultations laser, ostéopathie, NAC et chirurgie, suppléments d'urgence), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - vetmint.ch/plan-de-prevention/ et bussigny.vetmint.ch/abonnements/ (consultations comprises dans le plan et les abonnements)
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (prise de sang de l'animal âgé ou malade)
-  - pages Prestations, Rendez-vous et Cabinet des huit cliniques (espèces reçues, laboratoire, réservation en ligne), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour l'examen et la préparation, à valider par le relecteur
-a_remplacer:
-  - "Délai des résultats d'un laboratoire externe (2 à 5 jours ouvrables, appel de la clinique) : à confirmer par les cliniques"
-  - "Un rendez-vous par animal, deux animaux de la même famille sur une plage double : à confirmer par Vetmint"
-  - "Moyens de paiement (cartes usuelles et TWINT, paiement à la fin de la consultation) : repris de la page Soins à domicile de Domdidier, à confirmer pour toutes les cliniques"
-  - "Rendez-vous non annulé 24 heures à l'avance facturé : repris de la page Soins à domicile de Domdidier, à confirmer pour les consultations"
 ---
 
 Eine tierärztliche Konsultation bei Vetmint dauert 30 Minuten, für einen Hund, eine Katze, ein Kaninchen oder ein anderes kleines Heimtier. Diese Zeit dient dazu, zuzuhören, was Ihnen aufgefallen ist, das Tier gründlich zu untersuchen und gemeinsam über das weitere Vorgehen zu entscheiden. Sie kostet 54 bis 59 Franken je nach Praxis, zusätzliche Untersuchungen nicht eingerechnet.
@@ -173,5 +159,3 @@ Alle acht Praxen Vetmint bieten Konsultationen von 30 Minuten an. Die Öffnungsz
 Wählen Sie die nächstgelegene Praxis auf der Praxiskarte und reservieren Sie dann online oder telefonisch. Nennen Sie in wenigen Worten den Grund des Besuchs: Die Praxis plant das passende Material ein und bittet Sie bei Bedarf, eine Probe mitzubringen.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

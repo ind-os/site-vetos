@@ -6,28 +6,10 @@ description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmi
 h1: Röntgen bei Hund und Katze
 nom: Röntgen
 recherche: Röntgen Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 8
 resume: Was ein Röntgenbild zeigt, der Ablauf, die Sedation, die Dysplasie-Untersuchung und die Preise.
-sources:
-  - vetmint.ch/radiographie/ (principe, déroulement, zones examinées, exemples de diagnostics), relevé du 16 octobre 2026
-  - pages Prestations des huit cliniques (radiologie numérique, clichés officiels des hanches et des coudes, lecture et explication, radiographies dentaires)
-  - payerne.vetmint.ch/cabinet-payerne/, fribourg.vetmint.ch/cabinet-2/, lacdejoux.vetmint.ch/cabinet-2/, saintlegier.vetmint.ch/cabinet-2/ (salles et appareils)
-  - bussigny.vetmint.ch/abonnements/ (pack de cinq radiographies des abonnements Senior)
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (radiographie du crâne du lapin)
-  - connaissances vétérinaires courantes pour la préparation, la gestation et la radioprotection, à valider par le relecteur
-a_remplacer:
-  - "Prix d'une radiographie de deux clichés, lecture comprise (150 CHF) : à confirmer par la grille Vetmint"
-  - "Prix d'un cliché supplémentaire (45 CHF) : à confirmer par la grille Vetmint"
-  - "Prix d'une sédation légère (60 à 120 CHF selon le poids) : à confirmer par la grille Vetmint"
-  - "Prix du dépistage officiel des hanches et des coudes, sédation et envoi compris (390 CHF) : à confirmer par la grille Vetmint"
-  - "Envoi des images à un radiologue vétérinaire spécialiste pour les cas difficiles : à confirmer par Vetmint"
-  - "Aucun scanner dans les cliniques Vetmint, orientation vers un centre équipé : à confirmer par Vetmint"
-  - "Images remises sur demande par e-mail ou par lien de téléchargement : à confirmer par Vetmint"
 ---
 
 Das Röntgen beim Hund und bei der Katze zeigt Knochen, Lunge, Herz und Bauchorgane in wenigen Minuten. Die acht Praxen von Vetmint röntgen digital: Das Bild erscheint auf dem Bildschirm, während Ihr Tier noch auf dem Tisch liegt. Die Tierärztin oder der Tierarzt erklärt es Ihnen sofort. Ein Röntgen mit zwei Aufnahmen kostet 150 Franken, Befundung inbegriffen.
@@ -148,5 +130,3 @@ Die acht Praxen von Vetmint röntgen digital und machen die offiziellen Dysplasi
 Ein Röntgen wird während einer Konsultation beschlossen. Für eine Dysplasie-Untersuchung sagen Sie es am Telefon: Die Praxis plant die Sedation ein und erinnert Sie daran, nüchtern zu kommen. Nach einem Unfall rufen Sie direkt die Praxis an oder lesen die Seite [Notfall](/de/notfall/). Wählen Sie Ihre Praxis auf der [Karte der Praxen](/de/praxen/).
 
 Zum Weiterlesen: [Harngriess](/de/ratgeber/harngriess/) und [Arthrose bei Heimtieren](/de/ratgeber/arthrose-heimtiere/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

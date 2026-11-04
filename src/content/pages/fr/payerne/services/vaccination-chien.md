@@ -8,18 +8,6 @@ h1: Vaccination du chien à Payerne
 recherche: vaccin chien Payerne
 redige_le: 2026-11-03
 resume: "Le vaccin du chien pendant un bilan de 30 minutes, 94 francs, chiot ou adulte."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, plan de prévention, prestations, rendez-vous), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (rendez-vous, contact, questions fréquentes)"
-a_remplacer:
-  - "Vaccins contre la leishmaniose et la piroplasmose disponibles à Payerne, sur demande, avec un prix annoncé avant"
-  - "Rappel de vaccin envoyé par SMS, WhatsApp ou e-mail à tous les clients ; le plan de prévention le prévoit pour ses abonnés"
-  - "Paiement du plan de prévention en une fois ou en quatre versements (repris de la page commune)"
-  - "Motif « Vaccin et bilan annuel » dans la réservation en ligne : la page actuelle propose un seul type de rendez-vous"
-  - "Chien anxieux reçu directement en salle de consultation, sans passer par la salle d'attente"
-  - "Plan de prévention chiot à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs"
 ---
 
 À Payerne, le vaccin du chien se fait pendant un bilan de santé de 30 minutes. Ce bilan coûte 94 francs, pour un chiot comme pour un adulte. La piqûre protège contre la maladie de Carré, l'hépatite contagieuse, la parvovirose, la parainfluenza et la leptospirose. Pour voyager, le bilan avec le vaccin contre la rage coûte 77 francs.
@@ -99,5 +87,3 @@ Oui. Un vétérinaire de Payerne se déplace dans tout le district de la Broye p
 Les maladies, le calendrier complet et les rappels sont expliqués sur la page [Tout savoir sur la vaccination du chien](/services/vaccination-chien/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

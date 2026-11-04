@@ -6,12 +6,6 @@ description: "Huit cliniques vétérinaires Vetmint dans les cantons de Vaud, Fr
 h1: Vetmint, cliniques vétérinaires en Suisse romande
 recherche: cliniques vétérinaires Suisse romande
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch (accueil, cabinets, contact, plan de prévention, abonnements, passation-veterinaire), relevé du 16 octobre 2026
-  - contenu-des-pages.md, accueils, prestations et urgences des huit sites de clinique, relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 54 à 59 francs)
-a_remplacer:
-  - "Plan de prévention chiot ou chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
 ---
 
 Vetmint réunit huit cliniques vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est tenu et géré par des vétérinaires. Chaque clinique reçoit les chiens, les chats, les lapins et les petits rongeurs sur rendez-vous. Les consultations durent 30 minutes. Les cliniques ouvrent du lundi au vendredi ; certaines reçoivent aussi le samedi matin.

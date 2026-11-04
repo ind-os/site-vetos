@@ -8,17 +8,6 @@ h1: Mikrochip in Payerne
 recherche: Mikrochip Hund Payerne
 redige_le: 2026-11-03
 resume: Setzen, Eintrag im Register, Mini-Mikrochip und Thermochip; Auslesen des Mikrochips eines gefundenen Tieres.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (pose et lecture de puces, transmission à ANIS et AMICUS, recherche des propriétaires d'animaux retrouvés, puces miniatures, thermochip), relevé du 16 octobre 2026
-  - payerne.vetmint.ch/plan-de-prevention/ (passeport, puce et inscription offerts, 515 CHF, soins à l'unité 656 CHF pour le chiot et 683 CHF pour le chaton)
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (bilan avec vaccin contre la rage et lecture de la puce, bilans annuels)
-  - pages déjà rédigées de Payerne (accueil, rendez-vous, questions fréquentes)
-  - page commune /services/puce-electronique/ (prix de la pose et du passeport, eux-mêmes à confirmer)
-a_remplacer:
-  - "Prix : pose de la puce avec inscription 65 CHF, puce miniature ou thermochip 85 CHF, passeport 25 CHF (page commune, absents de la grille de Payerne)"
-  - "Lecture gratuite de la puce d'un animal trouvé"
-  - "Plan de prévention chiot ou chaton à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs"
-  - "Bilan avec vaccin contre la rage au plus tard un mois avant le départ, planifié par téléphone"
 ---
 
 In Payerne wird der Mikrochip für Hund und Katze während einer Konsultation gesetzt, meist zusammen mit der ersten Impfung. Die Tierärztin oder der Tierarzt schiebt ihn in zwei Sekunden unter die Haut am Hals. Danach übermittelt die Praxis die Nummer und Ihre Kontaktdaten an das Schweizer Register: AMICUS für Hunde, ANIS für Katzen. Sie setzt auch Mini-Mikrochips und Thermochips. Ein gefundenes Tier aus der Broye kann hergebracht werden, um seinen Mikrochip auszulesen.
@@ -85,5 +74,3 @@ Nein, das ist Sache der Halterin oder des Halters, in AMICUS für einen Hund ode
 Der Vetmint-Ratgeber zum Mikrochip fasst die Schweizer Regeln für jede Tierart und die Funktionsweise des Lesegeräts zusammen.
 
 [Alles über den Mikrochip](/de/leistungen/mikrochip/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -7,11 +7,6 @@ h1: "Gesundheitsratgeber für den Hund"
 recherche: "Gesundheitsratgeber Hund"
 redige_le: 2026-10-16
 especes: [chien]
-sources:
-  - contenu-des-pages.md, vetmint.ch/chien/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, bussigny.vetmint.ch/tarifs/ (vaccins du bilan annuel, valable dès le 29 avril 2025)
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ et bussigny.vetmint.ch/abonnements/ (contenu du plan chiot et des abonnements)
-  - contenu-des-pages.md, vetmint.ch/diabete-chez-le-chien/ (stérilisation et diabète de la chienne)
 ---
 
 Diese Ratgeber beantworten die Fragen, die Hundehalterinnen und Hundehalter in der Konsultation am häufigsten stellen. Jeder beschreibt die Anzeichen, auf die Sie achten sollten, die Untersuchungen der Tierärztin oder des Tierarztes, die Behandlung und den Zeitpunkt, an dem Sie anrufen sollten.

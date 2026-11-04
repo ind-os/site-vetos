@@ -5,20 +5,10 @@ title: "Alimentation du lapin : foin, verdure, granulés | Vetmint"
 description: "Que donner à manger à un lapin : la part de foin, la verdure par kilo, les granulés, les aliments interdits, le calcium des légumes et l'eau à prévoir."
 h1: Alimentation du lapin
 recherche: alimentation du lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 9
 resume: "La ration du lapin : foin à volonté, verdure, peu de granulés, les aliments à bannir et l'eau."
-sources:
-  - vetmint.ch/alimentation-du-lapin-2/ (article Alimentation du lapin), relevé du 16 octobre 2026
-  - vetmint.ch/le-lapin/ (fiche Le lapin, part du foin et quantité de granulés)
-  - connaissances vétérinaires courantes pour les cæcotrophes, les signes d'alerte et la transition alimentaire, à valider par le relecteur
-a_remplacer:
-  - "Part du foin (80 % au moins) et quantité de granulés (20 g par kilo et par jour au plus) alignées sur la fiche Le lapin ; l'article d'origine disait 70 % et 2 à 3 % du poids (30 g pour un lapin de 1 kg) : à trancher par le relecteur"
-  - "Liens vers margueritecie.org (liste de verdure, alimentation du lapin) de l'article d'origine retirés : choix à valider (charte 7.9)"
 ---
 
 Une ration adaptée évite au lapin la plupart de ses maladies : dents qui poussent de travers, troubles urinaires, surpoids, poils avalés qui bloquent l'estomac, diarrhée. Elle protège aussi un geste discret mais vital, la consommation des cæcotrophes. Ce sont des crottes molles et luisantes, riches en vitamines et en protéines, que le lapin mange directement à la sortie de l'anus, surtout la nuit. L'alimentation du lapin repose sur un principe simple : beaucoup de fibres, peu de sucre, peu de calcium en excès.
@@ -105,5 +95,3 @@ Pendant la consultation de 30 minutes, le vétérinaire pèse votre lapin, palpe
 Pour l'habitat, la vie en groupe et les vaccins : [la fiche du lapin](/conseils/le-lapin/). Les soins aux lapins dans nos cliniques : [médecine des NAC](/services/nac/). La clinique de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/).
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

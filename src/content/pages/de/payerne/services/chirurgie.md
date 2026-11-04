@@ -8,19 +8,6 @@ h1: Chirurgie in Payerne
 recherche: Tierchirurgie Payerne
 redige_le: 2026-11-03
 resume: "Weichteiloperationen, vor Ort durchgeführt von den beiden Tierärzten von Payerne, nach Offerte."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, cabinet, tarifs, urgence, contact), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, domaines, horaires)"
-  - "pages de Payerne du nouveau site (accueil, équipe, urgences)"
-a_remplacer:
-  - "Opérations programmées le matin, du lundi au vendredi ; animal déposé à 8 h et rentré en fin d'après-midi"
-  - "Devis écrit remis après la consultation"
-  - "Biopsies envoyées à un laboratoire externe, résultat en une semaine environ"
-  - "Scanner, IRM et chirurgie des os adressés à une clinique de référence, avec le dossier et les radiographies"
-  - "Hospitalisation de nuit : contrôle le soir à la fermeture et à l'ouverture, sans présence continue"
-  - "Appel du vétérinaire à la fin de l'opération"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
 ---
 
 In Payerne wird die Tierchirurgie vor Ort durchgeführt, im Operationssaal der Tierarztpraxis Vetmint, Route du Châtelard 13. Claire-Lise Tinguely und Tiago Capelo operieren dort Hunde, Katzen, Kaninchen und Nager. Sie entfernen Knoten, verschliessen Wunden, holen verschluckte Gegenstände heraus und führen Kaiserschnitte durch. Der Preis wird per Offerte festgelegt, nach einer Konsultation von 30 Minuten zu 57 Franken.
@@ -90,5 +77,3 @@ Zeigen Sie ihn zuerst in der Konsultation. Die Tierärztin oder der Tierarzt kan
 Die Narkose, die Wundheilung und die Pflege zu Hause sind auf der Seite [Alles über die Weichteilchirurgie](/de/leistungen/chirurgie/) erklärt.
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

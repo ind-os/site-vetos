@@ -5,21 +5,10 @@ title: "Chat en surpoids : l'évaluer et le faire maigrir | Vetmint"
 description: "Chat en surpoids : le repérer, les risques pour sa santé, l'aliment et la ration à choisir, le rythme de perte de poids et des idées pour le faire bouger."
 h1: L'obésité chez le chat
 recherche: chat en surpoids
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
 resume: Un chat trop gros vit moins bien et moins longtemps ; le faire maigrir prend des mois, à un rythme précis.
-sources:
-  - contenu-des-pages.md, vetmint.ch/lobesite-chez-le-chat/ (relevé du 16 octobre 2026)
-  - connaissances vétérinaires courantes (charte 5.3) pour le risque de lipidose hépatique quand le chat cesse de manger
-a_remplacer:
-  - "Marques retirées de l'article d'origine : friandises allégées d'une marque d'aliment, distributeurs de croquettes « Catch » et « Pipolino », jouet distributeur de type « Kong ». Choix à valider par Vetmint et le vétérinaire relecteur (charte 7.9)"
-  - "Tableau de l'index de graisse corporelle (image de l'article d'origine) : à remplacer par une image ou un composant du gabarit"
-  - "Critères de l'index de graisse corporelle cités en exemple (côtes, taille vue de dessus, ventre) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Chat en surpoids qui ne mange plus depuis deux jours : délai écrit par la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 L'obésité est un excès de graisse dans le corps. Chez le chat, le surpoids nuit à la santé bien avant les kilos spectaculaires : faire maigrir un chat trop gros lui rend toujours service. C'est une maladie chronique, qui ne se règle pas en quelques jours. Le régime dure des mois, demande de la patience et décourage parfois. Le résultat en vaut la peine.
@@ -103,5 +92,3 @@ Un chat âgé qui maigrit sans régime n'est pas dans ce cas : il peut souffrir
 Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour peser votre chat, noter son index de graisse corporelle et établir sa ration. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail. Les contrôles de poids suivent ensuite au rythme convenu avec le vétérinaire.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

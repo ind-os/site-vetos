@@ -6,18 +6,6 @@ description: "Les prix des cliniques Vetmint : consultation de 30 minutes de 54
 h1: Nos tarifs
 recherche: tarifs vétérinaires
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, pages Tarifs des huit sites de clinique, relevé du 16 octobre 2026 (grilles valables dès le 29 avril 2025 ; Domdidier dès le 1er avril 2023 ; La Chaux-de-Fonds sans date)
-  - contenu-des-pages.md, vetmint.ch/soins-a-domicile/ et vetmint.ch/toilettage/, relevé du 16 octobre 2026
-  - contenu-des-pages.md, pages Urgences des huit sites de clinique (tarif des numéros de garde), relevé du 16 octobre 2026
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ et pages Plan de prévention des cliniques, relevé du 16 octobre 2026
-a_remplacer:
-  - "Prix toutes taxes comprises pour toute la grille (seules les conditions des abonnements le précisent)"
-  - "Devis remis avant tout soin absent de la grille, en particulier les prises de sang et les radiographies"
-  - "Moyens de paiement à la clinique : carte de débit, carte de crédit et TWINT (la page Soins à domicile actuelle cite les cartes usuelles et TWINT)"
-  - "Prix de l'appel au 0900 022 022 de Médi-Vet, Lac-de-Joux (2 francs la minute)"
-  - "Plan de prévention chiot ou chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
-  - "Une grille commune valable dès le 29 avril 2025 pour les huit cliniques : la page de Domdidier date du 1er avril 2023, celle de La Chaux-de-Fonds n'a pas de date"
 ---
 
 Les tarifs vétérinaires de Vetmint sont publiés pour les huit cliniques, avec ce que chaque prix comprend. La consultation de 30 minutes coûte de 54 à 59 francs selon la clinique. Les opérations courantes ont un prix forfaitaire, anesthésie comprise.

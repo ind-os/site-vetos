@@ -8,19 +8,6 @@ h1: Röntgen in Payerne
 recherche: Röntgen Hund Payerne
 redige_le: 2026-11-03
 resume: Ein digitaler Röntgenraum neben dem Operationssaal; das Bild wird mit Ihnen auf dem Bildschirm besprochen.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (radiologie numérique, clichés officiels des coudes et des hanches, lecture et explication, radiographies des dents) et /cabinet-payerne/ (salle de radiologie reliée à la salle de préparation), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, détartrage, suppléments d'urgence)
-  - pages déjà rédigées de Payerne (accueil, urgences, contact, rendez-vous)
-  - page commune /services/radiographie/ (prix et sédation, eux-mêmes à confirmer)
-a_remplacer:
-  - "Prix : deux clichés lecture comprise 150 CHF, cliché supplémentaire 45 CHF, sédation 60 à 120 CHF (page commune, absents de la grille de Payerne)"
-  - "Prix du dépistage officiel des hanches et des coudes : 390 CHF sur la page commune Radiographie, 320 CHF sur la page commune Conseils aux éleveurs"
-  - "Radiographies des dents facturées en plus du forfait de détartrage de 325 CHF"
-  - "Dépôt de l'animal à 8 h, reprise en fin de journée jusqu'à 18 h (19 h le mardi)"
-  - "Animal sédaté rendu en fin de journée, quand il marche droit"
-  - "Images remises sur demande par e-mail ou par lien de téléchargement"
-  - "Aucun scanner ni IRM à Payerne ; orientation vers une clinique équipée avec le dossier et les radios"
 ---
 
 Die Tierarztpraxis Vetmint Payerne röntgt Hund, Katze, Kaninchen und Nager in ihrem eigenen Röntgenraum. Das Gerät ist digital: Wenige Sekunden nach der Aufnahme erscheint das Bild auf dem Bildschirm. Die Tierärztin oder der Tierarzt vergrössert es, zeigt Ihnen, was sie oder er sieht, und sagt Ihnen noch während desselben Besuchs, wie es weitergeht. Die Praxis macht auch Zahnröntgenbilder und die offiziellen Aufnahmen von Hüften und Ellbogen, die die Rasseclubs verlangen.
@@ -85,5 +72,3 @@ Nach dem 45. Trächtigkeitstag, wenn die Skelette sichtbar sind. Das Röntgen z�
 Der Vetmint-Ratgeber zum Röntgen erklärt, was ein Röntgenbild schlecht zeigt, wann ein Ultraschall es ergänzt und wie sich das Team vor den Strahlen schützt.
 
 [Alles über das Röntgen](/de/leistungen/roentgen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

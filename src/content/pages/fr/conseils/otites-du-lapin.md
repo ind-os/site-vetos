@@ -5,17 +5,10 @@ title: "Otite chez le lapin : signes, causes, traitement | Vetmint"
 description: "Otite chez le lapin : les signes à repérer, pourquoi les lapins béliers sont plus touchés, les examens, le traitement selon l'oreille atteinte et la prévention."
 h1: Otite chez le lapin
 recherche: otite lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 12
 resume: "Otite du lapin : signes, causes, examens, traitement selon la partie de l'oreille touchée et prévention."
-sources:
-  - vetmint.ch/otites-chez-les-lapins/ (article Otites chez les lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation spécialisée et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour l'anatomie de l'oreille, le choix entre urgence et rendez-vous et les gestes à éviter, à valider par le relecteur
 ---
 
 Une otite est une inflammation de l'oreille, souvent compliquée d'une infection. Chez le lapin, elle dure souvent longtemps et fait mal, même quand il n'en montre presque rien. Ses complications sont graves : une otite doit être soignée même sans symptôme évident. Les lapins aux oreilles tombantes, dits béliers, sont les plus exposés.
@@ -100,5 +93,3 @@ La prévention compte d'autant plus que votre lapin a les oreilles tombantes.
 Les otites du lapin se soignent dans les cliniques Vetmint : [médecine des NAC](/services/nac/). La clinique de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/), avec des consultations spécialisées et une hospitalisation adaptée aux lapins. Pour l'habitat, la ration et les vaccins : [la fiche du lapin](/conseils/le-lapin/).
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

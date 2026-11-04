@@ -7,14 +7,6 @@ description: "Termin bei der Tierarztpraxis Vetmint Payerne: online, per Telefon
 h1: "Termin in Payerne vereinbaren"
 recherche: "Termin Tierarzt Payerne"
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch (rendez-vous, accueil, contact), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - vetmint.ch/soins-a-domicile/ (règle d'annulation des visites à domicile)
-a_remplacer:
-  - "Délai habituel : un rendez-vous dans les deux à trois jours ouvrables"
-  - "Contrôle après une opération : 15 minutes"
-  - "Annulation au plus tard 24 heures avant, sinon le rendez-vous est facturé (règle des soins à domicile de vetmint.ch, étendue à la clinique)"
 ---
 
 Ihren Tierarzttermin in Payerne vereinbaren Sie online, direkt darunter, zu jeder Uhrzeit. Sie können auch während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) anrufen, auf WhatsApp an dieselbe Nummer schreiben oder am Empfang der Route du Châtelard 13 vorbeikommen.

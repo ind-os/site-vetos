@@ -7,20 +7,6 @@ description: "Clinique vétérinaire Vetmint Payerne, route du Châtelard 13. Pa
 h1: Nous trouver à Payerne
 recherche: contact vétérinaire Payerne
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch (contact et ses questions fréquentes, accueil, cabinet, urgence), relevé du 16 octobre 2026
-  - vetmint.ch/cabinets/ (WhatsApp), relevé du 16 octobre 2026
-  - carte Google intégrée à payerne.vetmint.ch/contact/
-a_remplacer:
-  - "Horaires : lundi et mercredi à vendredi 8 h à 12 h et 14 h à 18 h, mardi jusqu'à 19 h ; l'accueil actuel dit 8 h à 18 h en continu"
-  - "Places de parc gratuites à proximité"
-  - "Sortie Payerne de l'A1 à cinq minutes en voiture"
-  - "Gare CFF de Payerne à une vingtaine de minutes à pied"
-  - "Salles de consultation et de soins toutes au rez-de-chaussée"
-  - "Communes et temps de trajet : Corcelles-près-Payerne 5 minutes, Grandcour 10, Estavayer 15, Avenches 15, Lucens 20, Moudon 25"
-  - "Réponse aux e-mails dans la journée ouvrable"
-  - "Aide de l'équipe pour porter l'animal depuis la voiture ; animal anxieux reçu directement en salle de consultation"
-  - "Trains depuis Lausanne, Fribourg, Yverdon-les-Bains et Morat"
 ---
 
 La clinique vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de dépose de plain-pied devant l'entrée vous évite les marches avec un animal lourd.

@@ -179,7 +179,7 @@ ${htmlDeLaGarde(payerne, langue)}`;
         </div>
       </Exemple>
 
-      <Exemple titre="Carte de clinique" description="Une clinique : nom, statut, adresse, téléphone, rendez-vous. Le lien mène à ses pages, ou à son site actuel tant qu’elle n’est pas en ligne ici." fichier="composants/CarteClinique.astro" code={`<CarteClinique clinique={clinique} langue={langue} />`} fond="gris">
+      <Exemple titre="Carte de clinique" description="Une clinique : nom, statut, adresse, téléphone, rendez-vous. Le lien mène à ses pages, ou à l’adresse hors ligne de sa fiche tant qu’elle n’est pas en ligne." fichier="composants/CarteClinique.astro" code={`<CarteClinique clinique={clinique} langue={langue} />`} fond="gris">
         <div class="trois">
           <CarteClinique clinique={payerne} langue={langue} />
           <CarteClinique clinique={cliniques[0]} langue={langue} />

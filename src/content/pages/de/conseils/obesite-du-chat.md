@@ -5,21 +5,10 @@ title: "Übergewichtige Katze: erkennen und abnehmen lassen | Vetmint"
 description: "Übergewichtige Katze: erkennen, die Risiken für ihre Gesundheit, das richtige Futter und die Ration, das Tempo der Gewichtsabnahme und Bewegungsideen."
 h1: Übergewicht bei der Katze
 recherche: Katze Übergewicht
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
 resume: Eine zu dicke Katze lebt schlechter und kürzer; sie abnehmen zu lassen dauert Monate, in einem genauen Tempo.
-sources:
-  - contenu-des-pages.md, vetmint.ch/lobesite-chez-le-chat/ (relevé du 16 octobre 2026)
-  - connaissances vétérinaires courantes (charte 5.3) pour le risque de lipidose hépatique quand le chat cesse de manger
-a_remplacer:
-  - "Marques retirées de l'article d'origine : friandises allégées d'une marque d'aliment, distributeurs de croquettes « Catch » et « Pipolino », jouet distributeur de type « Kong ». Choix à valider par Vetmint et le vétérinaire relecteur (charte 7.9)"
-  - "Tableau de l'index de graisse corporelle (image de l'article d'origine) : à remplacer par une image ou un composant du gabarit"
-  - "Critères de l'index de graisse corporelle cités en exemple (côtes, taille vue de dessus, ventre) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Chat en surpoids qui ne mange plus depuis deux jours : délai écrit par la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Übergewicht ist ein Überschuss an Fett im Körper. Bei der Katze schadet das Übergewicht der Gesundheit lange bevor die Kilos auffallen: Eine zu dicke Katze abnehmen zu lassen, hilft ihr immer. Es ist eine chronische Krankheit, die sich nicht in wenigen Tagen erledigt. Die Diät dauert Monate, verlangt Geduld und entmutigt manchmal. Das Ergebnis lohnt sich.
@@ -103,5 +92,3 @@ Eine ältere Katze, die ohne Diät abnimmt, ist nicht in diesem Fall: Sie kann a
 Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu wiegen, ihren Körperfettindex zu notieren und ihre Ration festzulegen. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten. Die Gewichtskontrollen folgen danach im Rhythmus, den Sie mit der Tierärztin oder dem Tierarzt vereinbaren.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

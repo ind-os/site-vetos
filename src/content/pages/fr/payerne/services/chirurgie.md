@@ -8,19 +8,6 @@ h1: Chirurgie à Payerne
 recherche: chirurgie vétérinaire Payerne
 redige_le: 2026-11-03
 resume: "Les opérations des tissus mous, faites sur place par les deux vétérinaires de Payerne, sur devis."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, cabinet, tarifs, urgence, contact), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, domaines, horaires)"
-  - "pages de Payerne du nouveau site (accueil, équipe, urgences)"
-a_remplacer:
-  - "Opérations programmées le matin, du lundi au vendredi ; animal déposé à 8 h et rentré en fin d'après-midi"
-  - "Devis écrit remis après la consultation"
-  - "Biopsies envoyées à un laboratoire externe, résultat en une semaine environ"
-  - "Scanner, IRM et chirurgie des os adressés à une clinique de référence, avec le dossier et les radiographies"
-  - "Hospitalisation de nuit : contrôle le soir à la fermeture et à l'ouverture, sans présence continue"
-  - "Appel du vétérinaire à la fin de l'opération"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
 ---
 
 À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération de la clinique Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y opèrent les chiens, les chats, les lapins et les rongeurs. Ils retirent des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Le prix se fixe sur devis, après une consultation de 30 minutes à 57 francs.
@@ -90,5 +77,3 @@ Montrez-la d'abord en consultation. Le vétérinaire peut prélever quelques cel
 L'anesthésie, la cicatrisation et les soins à la maison sont expliqués sur la page [Tout savoir sur la chirurgie des tissus mous](/services/chirurgie/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

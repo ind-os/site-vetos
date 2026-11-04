@@ -5,19 +5,10 @@ title: "Mycoplasmose du rat : signes, causes, traitement | Vetmint"
 description: "Mycoplasmose du rat : éternuements, souffle bruyant, larmes rouges. Pourquoi presque tous les rats la portent, quand consulter, le traitement et la prévention."
 h1: La mycoplasmose chez le rat
 recherche: mycoplasmose rat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 17
 resume: L'infection respiratoire la plus fréquente du rat, souvent chronique, à soigner dès le premier éternuement.
-sources:
-  - contenu-des-pages.md, vetmint.ch/mycoplasmose-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Signes d'urgence (respiration bouche ouverte, flancs qui se creusent, rat qui ne mange plus) et conseils de transport : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
-  - "Porphyrine produite en plus grande quantité sous l'effet de la maladie ou du stress, et quarantaine d'un rat qui arrive : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 La mycoplasmose est une infection des voies respiratoires du rat. On parle aussi de complexe respiratoire du rat. C'est l'une de ses maladies les plus fréquentes. Elle devient souvent chronique. Un rat qui éternue ou qui maigrit doit voir un vétérinaire tôt, parce que les signes graves arrivent tard.
@@ -95,5 +86,3 @@ La prévention passe par les facteurs de risque : litière peu poussiéreuse et
 Les soins que nous proposons aux rats et aux autres rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). La clinique Vetmint Fribourg Ouest, à Givisiez, reçoit les rongeurs en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

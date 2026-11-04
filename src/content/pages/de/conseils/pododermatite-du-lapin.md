@@ -5,21 +5,10 @@ title: "Pododermatitis beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Pododermatitis beim Kaninchen: die Wunde unter den Pfoten, ihre Ursachen, wann Sie zur Tierärztin gehen und wie sie behandelt wird, vom Boden bis zum Verband."
 h1: "Die Pododermatitis beim Kaninchen"
 recherche: "Pododermatitis Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
 resume: "Eine Wunde unter den Pfoten des Kaninchens, durch Boden, Gewicht und Bewegungsmangel, die zuerst über die Haltung behandelt wird."
-sources:
-  - contenu-des-pages.md, vetmint.ch/pododermatite-chez-le-lapin/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Marques de tapis citées dans l'article d'origine (Drybed, Vetbed), remplacées par « tapis vétérinaire en fibre synthétique » : choix à valider avec le relecteur (charte 7.9)"
-  - "Lien vers le site tiers Medirabbit (chaussettes pour pododermatite) retiré : choix à valider avec le relecteur (charte 7.9)"
-  - "Pied sans coussinet, signes du début (poils clairsemés, peau rose, croûte), description des stades et contrôle des pattes une fois par semaine : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Die Pododermatitis ist eine Entzündung der Fusssohle. Beim Kaninchen beginnt sie oft unter den Fersen der Hinterpfoten und kann als infizierte Wunde enden. Sie betrifft vor allem Kaninchen, die sich wenig bewegen, zu schwer sind oder auf hartem Boden leben. Sie wird zuerst behandelt, indem man ihre Umgebung ändert.
@@ -84,5 +73,3 @@ Kaninchen mit feinem Fell sowie alte oder von Arthrose betroffene Kaninchen brau
 Eine Pododermatitis wird in der Konsultation behandelt, in der Vetmint-Praxis, die Ihnen am nächsten liegt. Die Behandlungen, die wir für Kaninchen und Nager anbieten, sind auf der Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Wenn eine Wunde nicht heilt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
 
 [Praxis wählen](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

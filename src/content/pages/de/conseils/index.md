@@ -6,10 +6,6 @@ description: "Gesundheitsratgeber der Vetmint-Praxen für Hund, Katze, Kaninchen
 h1: "Gesundheitsratgeber"
 recherche: "Gesundheitsratgeber Tiere"
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/informations-sante-animale/, vetmint.ch/chien/, vetmint.ch/chat/ et vetmint.ch/lapin-et-nac/ (relevé du 16 octobre 2026)
-  - charte de rédaction, sections 3.13 et 7.12 (relecture et signature des conseils)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
 ---
 
 Dieser Gesundheitsratgeber erklärt die Krankheiten und Behandlungen, denen die Tierärztinnen und Tierärzte von Vetmint bei Tieren am häufigsten begegnen: bei Hund, Katze, Kaninchen, Nagern und Vögeln. Er stützt sich auf die Artikel, die unsere Tierärztinnen und Tierärzte geschrieben haben.
@@ -20,9 +16,9 @@ Ein Ratgeber beantwortet eine genaue Frage: eine Katze, die abmagert, obwohl sie
 
 Er hilft, das zu verstehen, was die Tierärztin oder der Tierarzt erklärt hat, Ihre Fragen vorzubereiten oder eine in der Konsultation gezeigte Pflege zu Hause zu wiederholen. Er ersetzt die Untersuchung nicht: Was Ihr Tier hat, kann nur beurteilen, wer es untersucht, die Tierärztin oder der Tierarzt.
 
-## Wer ihn schreibt und prüft
+## Woher er stammt
 
-Die Redaktion Vetmint schreibt jeden Ratgeber auf der Grundlage der Artikel unserer Tierärztinnen und Tierärzte. Eine Tierärztin oder ein Tierarzt von Vetmint prüft ihn anschliessend vor der Veröffentlichung. Die Signatur am Ende jedes Ratgebers nennt das Datum dieser Prüfung.
+Jeder Ratgeber stützt sich auf die Artikel der Tierärztinnen und Tierärzte von Vetmint.
 
 ## Wie sie geordnet sind
 

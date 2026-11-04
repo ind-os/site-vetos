@@ -6,27 +6,10 @@ description: "Puce électronique pour chien, chat et NAC chez Vetmint : pose en
 h1: Pose et lecture de la puce électronique
 nom: Puce électronique
 recherche: puce électronique chien
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 13
 especes: [chien, chat, nac]
 resume: La puce identifie votre animal à vie, le relie à vous dans AMICUS ou ANIS et lui ouvre les frontières.
-sources:
-  - pages Prestations des cliniques (pose et lecture de puces, transmission ANIS et AMICUS, puces miniatures et thermochip), relevé du 16 octobre 2026
-  - vetmint.ch/plan-de-prevention/ et pages Plan de prévention des cliniques (puce, passeport et inscription compris, 515 CHF ; vetmint.ch affiche 490 CHF)
-  - bussigny.vetmint.ch/abonnements/ (abonnements Junior, passeport et pose de puce compris)
-  - grilles tarifaires des cliniques (bilan avec vaccin contre la rage et lecture de la puce, 77 à 89 CHF), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/nac/ (pose de puce chez les perroquets)
-  - connaissances vétérinaires courantes pour la pose, la réglementation suisse et les règles de voyage, à valider par le relecteur
-a_remplacer:
-  - "Prix de la pose de puce avec inscription dans AMICUS ou ANIS (65 francs) : à confirmer par Vetmint"
-  - "Prix de la pose d'une puce miniature ou d'un thermochip (85 francs) : à confirmer par Vetmint"
-  - "Prix du passeport pour animal de compagnie (25 francs) : à confirmer par Vetmint"
-  - "Lecture gratuite de la puce d'un animal trouvé : à confirmer par Vetmint"
-  - "Pose de puce à Lac-de-Joux, absente de sa page Prestations : à confirmer par la clinique"
-  - "Plan de prévention chiot ou chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
 ---
 
 La puce électronique identifie votre animal pour toute sa vie. Le vétérinaire la glisse sous la peau du cou en quelques secondes. Il inscrit ensuite son numéro et vos coordonnées dans le registre suisse : AMICUS pour les chiens, ANIS pour les chats. La puce est obligatoire pour tout chien en Suisse et pour le chien, le chat ou le furet qui passe une frontière. Chez Vetmint, la pose coûte 65 francs, inscription comprise.
@@ -147,5 +130,3 @@ La puce ne demande pas de rendez-vous à part : demandez-la avec le premier vac
 [Trouver la clinique la plus proche](/cliniques/)
 
 Pour le calendrier des vaccins : [vaccination du chien](/services/vaccination-chien/) et [vaccination du chat](/services/vaccination-chat/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

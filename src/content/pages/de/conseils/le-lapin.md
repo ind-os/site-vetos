@@ -5,22 +5,10 @@ title: "Heimkaninchen: Haltung, Futter, Pflege | Vetmint"
 description: "Das Heimkaninchen: wie es lebt, wie viel Platz und welchen Boden es braucht, seine Heuration, die Impfungen und die Anzeichen, die zur Tierärztin führen."
 h1: "Das Kaninchen als Heimtier"
 recherche: "Heimkaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 1
 resume: "Leben mit einem Kaninchen: Wesen, Platz, Ration, Impfungen und Warnzeichen."
-sources:
-  - vetmint.ch/le-lapin/ (fiche Le lapin), relevé du 16 octobre 2026
-  - grilles tarifaires des cliniques (bilan de santé annuel avec vaccin pour lapin), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/nac/ (consultation, soins dentaires et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les lapins en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de foin et de granulés (Supreme Science Selective, Oxbow, Versele-Laga) et de vaccin (Filavac) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
-  - "Liens vers des sites tiers de l'article d'origine (ladureviedulapinurbain.com, rabbits.world) retirés : choix à valider (charte 7.9)"
 ---
 
 Ein Heimkaninchen wird 8 bis 12 Jahre alt. Voraussetzung sind genug Platz, ein Artgenosse, Heu in unbegrenzter Menge und einmal im Jahr ein Besuch bei der Tierärztin oder beim Tierarzt. In der Natur ist es ein Beutetier. Es versteckt seine Schmerzen, deshalb gilt ein krankes Kaninchen oft als ruhiges Kaninchen. Besser, Sie kennen die Warnzeichen, bevor Sie sie brauchen.
@@ -138,5 +126,3 @@ Die Vetmint-Praxen empfangen Kaninchen zu einer Konsultation von 30 Minuten, fü
 Die Praxis Fribourg Ouest hat sich auf Heimtiere spezialisiert: Konsultationen, Zahnbehandlungen, Chirurgie und stationäre Betreuung, die auf diese Arten abgestimmt sind. Jede Konsultation endet dort mit einem Dokument, das die Pflege zu Hause zusammenfasst ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

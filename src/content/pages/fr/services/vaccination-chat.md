@@ -6,23 +6,10 @@ description: "Vacciner son chat chez Vetmint : typhus, coryza, leucose et rage,
 h1: Vaccination du chat
 nom: Vaccination du chat
 recherche: vaccination chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 3
 especes: [chat]
 resume: Les vaccins du chaton et du chat adulte selon qu'il sort ou non, faits pendant un bilan de santé de 30 minutes.
-sources:
-  - grilles tarifaires des huit cliniques (bilans avec vaccins du chat d'intérieur et d'extérieur, bilan avec vaccin contre la rage), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (plan chaton, test FIV/FeLV), bussigny.vetmint.ch/abonnements/ (abonnements chat)
-  - pages Prestations et Rendez-vous des huit cliniques (consultation vaccinale, prise de rendez-vous), relevé du 16 octobre 2026
-  - essai vetmint-service-vaccination-chat.md (redaction/essais), repris et complété
-  - connaissances vétérinaires courantes pour les maladies, le calendrier et les suites, à valider par le relecteur
-a_remplacer:
-  - "Rappel envoyé avant l'échéance (SMS, WhatsApp ou e-mail) pour tous les clients : le plan de prévention le prévoit, à confirmer pour les autres clients"
-  - "Plan de prévention chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
-  - "Bilan pédiatrique du chaton d'intérieur à 70 francs à Bussigny alors que l'adulte coûte 98 francs : à confirmer par la clinique"
 ---
 
 Le vaccin protège votre chat contre quatre maladies : le typhus, le coryza, la leucose et la rage. Chez Vetmint, la vaccination du chat se fait pendant le bilan de santé annuel, une consultation de 30 minutes qui comprend l'examen complet de l'animal. Selon la clinique et le mode de vie du chat, ce bilan avec vaccins coûte de 70 à 99 francs.
@@ -144,5 +131,3 @@ Les huit cliniques Vetmint vaccinent les chats pendant le bilan de santé annuel
 Choisissez votre clinique sur la [carte](/cliniques/) ou appelez-la. Pour un chaton, dites son âge au téléphone : la clinique prévoit un bilan pédiatrique. Pour un voyage, dites la date de départ : le vaccin contre la rage doit dater de 21 jours au moins.
 
 Pour aller plus loin : [l'hyperthyroïdie du chat âgé](/conseils/hyperthyroidie-feline/) et [l'obésité du chat](/conseils/obesite-du-chat/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

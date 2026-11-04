@@ -7,9 +7,6 @@ description: "Services vétérinaires à Payerne : chiens, chats, lapins et rong
 h1: Les services à Payerne
 recherche: services vétérinaires Payerne
 redige_le: 2026-11-04
-sources:
-  - fiche src/donnees/cliniques/payerne.json (liste des services, équipe, horaires)
-  - pages de service de Payerne (consultation à 57 francs, mardi jusqu'à 19 h)
 ---
 
 Les services vétérinaires de la clinique Vetmint Payerne se font à la route du Châtelard 13. Chaque soin a sa page. Elle dit comment il se passe ici, qui le pratique et ce qu'il coûte à Payerne.

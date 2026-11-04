@@ -7,19 +7,6 @@ description: "Prix de la clinique Vetmint Payerne : consultation de 30 minutes �
 h1: Les tarifs de la clinique Vetmint Payerne
 recherche: tarif vétérinaire Payerne
 redige_le: 2026-11-03
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/tarifs/ (grille valable dès le 29 avril 2025), relevé du 16 octobre 2026
-  - contenu-des-pages.md, payerne.vetmint.ch/plan-de-prevention/ et payerne.vetmint.ch/urgence/, relevé du 16 octobre 2026
-  - contenu-des-pages.md, vetmint.ch/soins-a-domicile/ et vetmint.ch/toilettage/, relevé du 16 octobre 2026
-  - fiche src/donnees/cliniques/payerne.json (services, garde)
-  - page commune src/content/pages/fr/tarifs.md (fourchette des consultations des huit cliniques)
-a_remplacer:
-  - "Prix toutes taxes comprises (la grille de Payerne ne le dit pas)"
-  - "Prix annoncé avant tout soin absent de la grille : prise de sang, analyses, radiographie, stérilisation de la lapine, opération des petits rongeurs"
-  - "Supplément de 99 CHF pendant les heures d'ouverture : la grille dit de 8 h à 18 h, la clinique ouvre jusqu'à 19 h le mardi"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Toilettage à la clinique : annoncé à Payerne par vetmint.ch/toilettage/, absent des pages actuelles de la clinique et de sa grille"
-  - "Plan de prévention chiot ou chaton à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs"
 ---
 
 Le tarif vétérinaire de la clinique Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte 57 francs. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.

@@ -6,10 +6,6 @@ description: "Les soins des huit cliniques Vetmint pour chiens, chats et NAC : 
 h1: Nos services vétérinaires
 recherche: services vétérinaires
 redige_le: 2026-10-16
-sources:
-  - pages Prestations des huit cliniques (soins pratiqués sur place), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes)
-  - plan des pages de vetmint.ch (19 pages de service)
 ---
 
 Les services vétérinaires des huit cliniques Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe, ce qu'il coûte et quelles cliniques le pratiquent. Tout commence par une consultation de 30 minutes, qui coûte 54 à 59 francs selon la clinique.

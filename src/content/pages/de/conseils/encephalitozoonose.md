@@ -5,20 +5,10 @@ title: "Encephalitozoonose beim Kaninchen: Anzeichen | Vetmint"
 description: "Encephalitozoonose beim Kaninchen: Schiefhaltung des Kopfes, Grauer Star, Nierenschäden. Übertragung des Parasiten, Bluttest, Behandlung und Aussichten."
 h1: Die Encephalitozoonose beim Kaninchen
 recherche: Encephalitozoonose Kaninchen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 15
 resume: Ein häufiger, oft stiller Parasit beim Kaninchen, der Gehirn, Augen oder Nieren befallen kann.
-sources:
-  - contenu-des-pages.md, vetmint.ch/lencephalitozoonose/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Nom commercial de l'antiparasitaire cité dans l'article d'origine (Panacur) retiré, la page dit « un antiparasitaire spécifique » : choix à valider avec le relecteur (charte 7.9)"
-  - "Consignes d'urgence (perte d'équilibre brutale, convulsions, lapin qui ne peut plus manger seul) nourrissage à la seringue et otite profonde comme autre cause de tête penchée : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Die Encephalitozoonose ist eine häufige Parasitenerkrankung beim Kaninchen. Sie wird durch *Encephalitozoon cuniculi* verursacht, einen mikroskopisch kleinen Parasiten aus der Familie der Mikrosporidien. Viele Kaninchen tragen ihn, ohne je zu erkranken. Bei anderen befällt er das Gehirn, die Augen oder die Nieren. Die Behandlung lässt den Parasiten nicht verschwinden, aber sie beruhigt die Krankheit und schützt die anderen Kaninchen.
@@ -82,5 +72,3 @@ Das ist möglich, vor allem bei einer Person mit geschwächter Abwehr. Diese Fä
 Eine Encephalitozoonose wird über mehrere Wochen begleitet. Der Parasit kann auch [Harnwegsprobleme](/de/ratgeber/harngriess/) begünstigen. Unsere Praxen empfangen Kaninchen zur Konsultation; die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) stellt vor, was wir ihnen anbieten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet zudem eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken.
 
 [In einer Praxis einen Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

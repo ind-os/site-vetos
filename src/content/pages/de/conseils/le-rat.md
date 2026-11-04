@@ -5,20 +5,10 @@ title: "Ratte als Heimtier: Käfig, Ernährung, Pflege | Vetmint"
 description: "Die Ratte als Heimtier: Leben in der Gruppe, Voliere, Alleinfutter, Sterilisation, Besuche je nach Alter und die Anzeichen, die einen Tierarztbesuch verlangen."
 h1: "Die Ratte als Heimtier"
 recherche: "Ratte als Heimtier"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 3
 resume: "Leben mit Ratten: Gruppe, Käfig, Ration, Sterilisation, Besuche je nach Alter und Warnzeichen."
-sources:
-  - vetmint.ch/le-rat/ (fiche Le rat), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation, chirurgie et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les rats en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de granulés (Supreme Science Selective, Versele-Laga) et de friandises (Nutri-Berries de Lafeber) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
 ---
 
 Die Ratte als Heimtier wird 2 bis 3 Jahre alt. Neugierig und intelligent, braucht sie Gesellschaft, Platz zum Klettern und immer neue Beschäftigung. Ihr Leben ist kurz: Ab 2 Jahren kommt sie in das Alter der Abnutzungserkrankungen. Ein regelmässiger Besuch bei der Tierärztin oder beim Tierarzt erkennt sie früh.
@@ -129,5 +119,3 @@ Die Vetmint-Praxen empfangen Ratten zu einer Konsultation von 30 Minuten. Die Se
 Die Praxis Fribourg Ouest hat eine Heimtier-Spezialität. Ihre Instrumente und Narkoseprotokolle sind auf kleine Nager abgestimmt, bis hin zur Mikrochirurgie ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

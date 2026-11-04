@@ -6,28 +6,10 @@ description: "Radiographie numérique du chien, du chat et du lapin dans les hui
 h1: Radiographie du chien et du chat
 nom: Radiographie
 recherche: radiographie chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 8
 resume: Ce que montre une radio, son déroulement, la sédation, le dépistage de la dysplasie et les prix.
-sources:
-  - vetmint.ch/radiographie/ (principe, déroulement, zones examinées, exemples de diagnostics), relevé du 16 octobre 2026
-  - pages Prestations des huit cliniques (radiologie numérique, clichés officiels des hanches et des coudes, lecture et explication, radiographies dentaires)
-  - payerne.vetmint.ch/cabinet-payerne/, fribourg.vetmint.ch/cabinet-2/, lacdejoux.vetmint.ch/cabinet-2/, saintlegier.vetmint.ch/cabinet-2/ (salles et appareils)
-  - bussigny.vetmint.ch/abonnements/ (pack de cinq radiographies des abonnements Senior)
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (radiographie du crâne du lapin)
-  - connaissances vétérinaires courantes pour la préparation, la gestation et la radioprotection, à valider par le relecteur
-a_remplacer:
-  - "Prix d'une radiographie de deux clichés, lecture comprise (150 CHF) : à confirmer par la grille Vetmint"
-  - "Prix d'un cliché supplémentaire (45 CHF) : à confirmer par la grille Vetmint"
-  - "Prix d'une sédation légère (60 à 120 CHF selon le poids) : à confirmer par la grille Vetmint"
-  - "Prix du dépistage officiel des hanches et des coudes, sédation et envoi compris (390 CHF) : à confirmer par la grille Vetmint"
-  - "Envoi des images à un radiologue vétérinaire spécialiste pour les cas difficiles : à confirmer par Vetmint"
-  - "Aucun scanner dans les cliniques Vetmint, orientation vers un centre équipé : à confirmer par Vetmint"
-  - "Images remises sur demande par e-mail ou par lien de téléchargement : à confirmer par Vetmint"
 ---
 
 La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes. Les huit cliniques Vetmint ont une radiographie numérique : l'image s'affiche sur l'écran pendant que votre animal est encore sur la table. Le vétérinaire vous l'explique aussitôt. Une radio de deux clichés coûte 150 francs, lecture comprise.
@@ -148,5 +130,3 @@ Les huit cliniques Vetmint ont une radiographie numérique et prennent les clich
 Une radio se décide pendant une consultation. Pour un dépistage de dysplasie, dites-le au téléphone : la clinique prévoit la sédation et vous rappelle de venir à jeun. Après un accident, appelez directement la clinique ou lisez la page [urgences](/urgences/). Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
 
 Pour aller plus loin : [la sablose urinaire](/conseils/sablose-urinaire/) et [l'arthrose des NAC](/conseils/arthrose-des-nac/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

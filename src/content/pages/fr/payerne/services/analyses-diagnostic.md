@@ -8,21 +8,6 @@ h1: Analyses et diagnostic à Payerne
 recherche: analyse de sang chien Payerne
 redige_le: 2026-11-03
 resume: Le laboratoire de la clinique lit la plupart des prises de sang pendant la consultation.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (diagnostic, biopsies) et /cabinet-payerne/ (zone de soins, laboratoire relié à l'ordinateur), relevé du 16 octobre 2026
-  - payerne.vetmint.ch/plan-de-prevention/ (test FIV/FeLV du plan chaton)
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, suppléments d'urgence)
-  - pages déjà rédigées de Payerne (accueil, équipe, rendez-vous, questions fréquentes)
-  - page commune /services/analyses-diagnostic/ (prix et délais, eux-mêmes à confirmer)
-a_remplacer:
-  - "Résultat d'une prise de sang en une demi-heure environ (accueil de Payerne) ; la page commune dit 20 minutes"
-  - "Résultat d'une biopsie en cinq à sept jours ouvrables (page commune) ; l'ancienne page Prestations rédigée disait une semaine environ"
-  - "Résultat d'une culture de teigne en une à trois semaines"
-  - "Appel du vétérinaire dès réception d'un résultat externe"
-  - "Prix : bilan sanguin complet 145 CHF, prise de sang avant anesthésie 85 CHF, urine 45 CHF, selles 40 CHF, cytologie 55 CHF, biopsie 180 à 280 CHF (page commune, absents de la grille de Payerne)"
-  - "Dépôt d'un échantillon d'urine ou de selles au comptoir, sans l'animal, après un appel"
-  - "Résultats remis imprimés ou envoyés par e-mail"
-  - "Calmant léger proposé pour un chat qui ne supporte pas la prise de sang"
 ---
 
 À Payerne, l'analyse de sang du chien et du chat se fait au laboratoire de la clinique, route du Châtelard 13. Ses appareils envoient les valeurs directement à l'ordinateur du vétérinaire. La plupart des prises de sang sont donc lues en une demi-heure environ, avant la fin de la consultation. Le même laboratoire examine l'urine, les selles, la peau et les cellules d'une grosseur, chez les chiens, les chats, les lapins et les rongeurs. Seules les biopsies partent vers un laboratoire externe.
@@ -91,5 +76,3 @@ Pas toujours. Une valeur peut monter après un stress ou un repas. Le vétérina
 Le guide Vetmint des analyses explique ce que cherche chaque examen et l'âge auquel un bilan vaut la peine.
 
 [Tout savoir sur les analyses](/services/analyses-diagnostic/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

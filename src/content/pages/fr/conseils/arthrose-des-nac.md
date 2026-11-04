@@ -5,21 +5,10 @@ title: "Arthrose du lapin et des NAC : signes, traitement | Vetmint"
 description: "Arthrose du lapin et des NAC : raideur, toilette négligée, refus de sauter. Les signes à repérer, les examens et un traitement qui mêle soins, sol et exercice."
 h1: L'arthrose chez le lapin et les NAC
 recherche: arthrose lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 16
 resume: L'usure douloureuse des articulations du lapin et des petits mammifères, qui ne se guérit pas mais se soulage.
-sources:
-  - contenu-des-pages.md, vetmint.ch/larthrose-chez-les-nac/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/douleur/ (consultation douleur, vidéos avant le rendez-vous)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Marques de compléments citées dans l'article d'origine (Rodicare Arthrin, Oxbow Joint Support, Cosequin, Dasuquin) retirées, la page dit « un complément alimentaire » : choix à valider avec le relecteur (charte 7.9)"
-  - "Liste des plantes de l'article d'origine (gingembre, curcuma, harpagophytum, cassis, reine-des-prés, pissenlit, scrofulaire) gardée avec la consigne de ne pas les donner sans avis vétérinaire : à confirmer par le relecteur"
-  - "Espèces citées (cochon d'Inde, rat, furet) et âge d'apparition (animal qui vieillit) : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 L'arthrose est une usure douloureuse des articulations. Elle touche le lapin comme les autres nouveaux animaux de compagnie (NAC) : cochon d'Inde, rat, furet. Elle apparaît surtout chez l'animal qui vieillit. Les lésions ne se réparent pas, mais un traitement adapté soulage la douleur et freine leur évolution.
@@ -85,5 +74,3 @@ Chaque animal réagit différemment. Des bilans réguliers avec le vétérinaire
 La page [Gestion de la douleur](/services/gestion-de-la-douleur/) décrit comment nos vétérinaires évaluent et traitent une douleur chronique. La clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation douleur](/fribourg/services/gestion-de-la-douleur/) et une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les autres soins des lapins et rongeurs sont présentés sur la page [Médecine des NAC](/services/nac/).
 
 [Voir les cliniques Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

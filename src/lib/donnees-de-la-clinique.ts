@@ -9,8 +9,8 @@
 //   - Lundi : 8 h à 12 h et 14 h à 18 h
 //   <!-- /donnees -->
 //
-// Le texte entre les marqueurs est la valeur connue à la rédaction ; la fiche fait foi. Quand
-// les données passeront par l'API, seul ce fichier changera de source.
+// Le texte entre les marqueurs est la valeur connue à la rédaction ; la fiche fait foi. Ce
+// fichier est le seul à lire ces données : changer leur source ne touche que lui.
 
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';

@@ -5,17 +5,10 @@ title: "Ohrenentzündung beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Ohrenentzündung beim Kaninchen: Anzeichen, warum Widderkaninchen häufiger betroffen sind, Untersuchungen, Behandlung je nach betroffenem Ohrteil und Vorsorge."
 h1: "Ohrenentzündung beim Kaninchen"
 recherche: "Ohrenentzündung Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 12
 resume: "Ohrenentzündung beim Kaninchen: Anzeichen, Ursachen, Untersuchungen, Behandlung je nach betroffenem Ohrteil und Vorsorge."
-sources:
-  - vetmint.ch/otites-chez-les-lapins/ (article Otites chez les lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (consultation spécialisée et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour l'anatomie de l'oreille, le choix entre urgence et rendez-vous et les gestes à éviter, à valider par le relecteur
 ---
 
 Eine Ohrenentzündung ist eine Entzündung des Ohrs, oft durch eine Infektion kompliziert. Beim Kaninchen dauert sie häufig lange und tut weh, auch wenn es kaum etwas davon zeigt. Ihre Komplikationen sind schwer: Eine Ohrenentzündung muss auch ohne offensichtliches Symptom behandelt werden. Kaninchen mit hängenden Ohren, sogenannte Widder, sind am stärksten gefährdet.
@@ -100,5 +93,3 @@ Die Vorsorge zählt umso mehr, wenn Ihr Kaninchen hängende Ohren hat.
 Die Ohrenentzündungen des Kaninchens werden in den Vetmint-Praxen behandelt: [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/), mit spezialisierten Konsultationen und einer stationären Betreuung, die auf Kaninchen abgestimmt ist. Zu Lebensraum, Ration und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

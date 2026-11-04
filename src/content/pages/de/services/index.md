@@ -6,10 +6,6 @@ description: "Die Leistungen der acht Vetmint-Praxen für Hunde, Katzen und Heim
 h1: "Unsere tierärztlichen Leistungen"
 recherche: "tierärztliche Leistungen"
 redige_le: 2026-10-16
-sources:
-  - pages Prestations des huit cliniques (soins pratiqués sur place), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes)
-  - plan des pages de vetmint.ch (19 pages de service)
 ---
 
 Die tierärztlichen Leistungen der acht Vetmint-Praxen richten sich an Hunde, Katzen, Kaninchen, Nager und andere Heimtiere. Jede Behandlung hat ihre Referenzseite: wozu sie dient, wie sie abläuft, was sie kostet und welche Praxen sie anbieten. Am Anfang steht eine Konsultation von 30 Minuten, die je nach Praxis 54 bis 59 Franken kostet.

@@ -1,7 +1,7 @@
 {
   "id": "saintlegier",
   "en_ligne": false,
-  "site_actuel": "https://saintlegier.vetmint.ch/",
+  "adresse_hors_ligne": "https://saintlegier.vetmint.ch/",
   "nom": "Vetmint Saint-Légier",
   "lieu": "Saint-Légier",
   "canton": "VD",
@@ -76,17 +76,5 @@
   "rendez_vous": {
     "outil": "vetlink",
     "adresse": "https://www.vetlink.ch/fr/cabinet/vetmint-st-legier-la-chiesaz"
-  },
-  "sources": [
-    "saintlegier.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, urgences, rendez-vous, plan de prévention, abonnements), relevé du 16 octobre 2026",
-    "vetmint.ch/cabinets/ (numéro WhatsApp de Saint-Légier), relevé du 16 octobre 2026",
-    "medias.csv et miroir de saintlegier.vetmint.ch/equipe/ (photos de l'équipe)",
-    "carte Google intégrée à saintlegier.vetmint.ch/contact/ (coordonnées)"
-  ],
-  "a_remplacer": [
-    "Coordonnées 46.4717, 6.8766 : déduites de la carte Google du site actuel, à vérifier sur l'adresse",
-    "Langues parlées (français pour chaque personne) : à confirmer par la clinique",
-    "Transports : halte de Saint-Légier-Gare à 5 minutes à pied, à confirmer par la clinique",
-    "Communes desservies : liste reconstituée d'après la région, à confirmer par la clinique"
-  ]
+  }
 }

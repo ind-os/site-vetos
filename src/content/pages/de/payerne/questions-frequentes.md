@@ -7,14 +7,6 @@ description: "Die Fragen, die unsere Kundschaft in Payerne am häufigsten stellt
 h1: "Ihre Fragen zur Praxis in Payerne"
 recherche: "Fragen Tierarztpraxis Payerne"
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/contact/ (questions fréquentes actuelles), accueil, cabinet, plan de prévention, tarifs, urgence, relevé du 16 octobre 2026
-  - vetmint.ch/soins-a-domicile/ (district de la Broye, forfait, horaire, paiement)
-a_remplacer:
-  - "Dépôt de l'animal dès 8 h, reprise jusqu'à 18 h (19 h le mardi)"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Places de parc gratuites"
-  - "Animal anxieux reçu directement en salle de consultation, sans passer par la salle d'attente"
 ---
 
 Diese Fragen stellen unsere Kundinnen und Kunden am Telefon und am Empfang der Tierarztpraxis Vetmint Payerne am häufigsten. Jede Antwort verweist auf die Seite, die die Einzelheiten nennt.

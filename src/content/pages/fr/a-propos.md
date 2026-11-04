@@ -6,18 +6,6 @@ description: "Vetmint, huit cliniques vétérinaires romandes tenues par des vé
 h1: Le groupe Vetmint
 recherche: groupe Vetmint
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch (accueil, cabinets, passation-veterinaire, 30578-2, remettre-un-cabinet-v2, emploi-v2, pied de page), relevé du 16 octobre 2026
-  - contenu-des-pages.md, pages Équipe de La Chaux-de-Fonds, Fribourg Ouest et Saint-Blaise (Ewen Kerharo, vétérinaire et directeur), relevé du 16 octobre 2026
-  - "contenu-des-pages.md, bussigny.vetmint.ch (accueil et équipe : reprise du cabinet de Pascal Wicki), relevé du 16 octobre 2026"
-  - contenu-des-pages.md, pieds de page des huit sites de clinique (sociétés et années), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025
-a_remplacer:
-  - "Ewen Kerharo, vétérinaire, directeur du groupe (les pages Équipe actuelles le nomment « Vétérinaire et directeur » sans préciser de quoi)"
-  - "Création de Vetmint SA en 2021 (année du pied de page de vetmint.ch)"
-  - "Ordre d'entrée des cliniques dans le groupe : Domdidier et Saint-Légier, puis Payerne et Saint-Blaise, puis La Chaux-de-Fonds, Fribourg Ouest et Lac-de-Joux, puis Bussigny (déduit des listes de cabinets des pages du groupe)"
-  - "Décisions de soins prises par les vétérinaires de chaque clinique, administration et recrutement assurés par le groupe (pages Espace pro et Emploi actuelles)"
-  - "Reprise du cabinet de Bussigny en 2026 (logo de Vetmint Bussigny publié en août 2026)"
 ---
 
 Vetmint est un groupe de huit cliniques vétérinaires en Suisse romande, tenu et géré par des vétérinaires. Le groupe Vetmint compte quatre cliniques dans le canton de Vaud, deux dans le canton de Fribourg et deux dans celui de Neuchâtel. Chaque clinique est une société propre, comme Vetmint Payerne SA ou Vetmint Saint-Blaise SA. Vetmint SA, la société du groupe, a son siège administratif à Fribourg.

@@ -6,14 +6,6 @@ description: "Der Vetmint Newsletter erscheint viermal im Jahr: Vorsorge der Sai
 h1: "Der Vetmint Newsletter"
 recherche: "Vetmint Newsletter"
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/inscription-newsletter/ et pages Inscription newsletter des cliniques, relevé du 16 octobre 2026
-a_remplacer:
-  - "Rythme : quatre lettres par an, en mars, juin, septembre et décembre"
-  - "Adresse d'inscription et de désinscription : newsletter@vetmint.ch (en attendant le formulaire)"
-  - "Données demandées à l'inscription : adresse e-mail et clinique"
-  - "Effacement de l'adresse dans les 7 jours après une désinscription"
-  - "Aucune publicité de marque, aucune transmission des adresses à des tiers"
 ---
 
 Der Vetmint Newsletter ist ein Informationsbrief, der viermal im Jahr zu Beginn jeder Jahreszeit per E-Mail verschickt wird. Er richtet sich an Halterinnen und Halter von Hunden, Katzen, Kaninchen und anderen Heimtieren. Er nennt die Vorsorgemassnahmen der Saison und die Neuigkeiten Ihrer Praxis. Die Anmeldung ist kostenlos und jederzeit kündbar.

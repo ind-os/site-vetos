@@ -6,24 +6,10 @@ description: "Chirurgie vétérinaire chez Vetmint : grosseur, plaie, corps ét
 h1: "Chirurgie des tissus mous : grosseurs, plaies, corps étrangers"
 nom: Chirurgie
 recherche: chirurgie vétérinaire
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 5
 especes: [chien, chat, nac]
 resume: Les opérations de la peau, du ventre et des organes, de la grosseur à retirer au corps étranger avalé.
-sources:
-  - pages Prestations des huit cliniques (chirurgie des tissus mous, biopsies, hospitalisation), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques (consultation, forfaits d'anesthésie détaillés dans les stérilisations, consultation spécialisée en chirurgie de Fribourg Ouest, suppléments d'urgence), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Cabinet de Fribourg Ouest, Lac-de-Joux et Payerne (salles d'opération, laparoscopie, hospitalisation), page Spécialiste de Domdidier (anesthésiste externe), page NAC et page Équipe de Fribourg Ouest
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (bilan avant l'anesthésie), vetmint.ch/peca-pecalbo-2/ (chirurgie de l'oreille du lapin)
-  - bussigny.vetmint.ch/abonnements/ et pages Plan de prévention (réductions sur les actes)
-  - connaissances vétérinaires courantes pour les indications, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Délai du résultat d'analyse d'une grosseur retirée (une à deux semaines, laboratoire externe) : à confirmer par les cliniques"
-  - "Devis écrit remis avant toute opération programmée : à confirmer par Vetmint"
-  - "Contrôles après une opération à deux ou trois jours et vers le dixième jour : à confirmer par les cliniques"
 ---
 
 En chirurgie vétérinaire, les tissus mous désignent la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes retirent une grosseur, referment une plaie, enlèvent un objet avalé ou font naître des petits par césarienne. Les huit cliniques Vetmint pratiquent ces opérations sur les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu. Le prix se fixe sur devis, après une consultation de 30 minutes facturée de 54 à 59 francs selon la clinique.
@@ -161,5 +147,3 @@ Les huit cliniques pratiquent la chirurgie des tissus mous, la césarienne et le
 Pour une opération programmée, réservez une consultation en indiquant le motif. Pour une plaie, un objet avalé ou une mise bas qui ne progresse pas, appelez directement la clinique la plus proche. Le [bilan sanguin](/conseils/bilan-sanguin/) explique à quoi sert la prise de sang avant l'anesthésie ; la fiche [PECA et PECALBO](/conseils/peca-pecalbo/) décrit l'opération de l'oreille du lapin.
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

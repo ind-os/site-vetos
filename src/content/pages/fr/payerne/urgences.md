@@ -7,20 +7,6 @@ description: "Urgence à Payerne : pendant les heures d'ouverture, appelez le 0
 h1: Urgence vétérinaire à Payerne
 recherche: urgence vétérinaire Payerne
 redige_le: 2026-10-16
-sources:
-  - essai payerne-urgences.md du 16 octobre 2026, repris et complété
-  - contenu-des-pages.md, payerne.vetmint.ch (accueil, urgence, prestations, rendez-vous, contact, cabinet), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, suppléments d'urgence)
-  - vetmint.ch/cabinets/ (coordonnées des cliniques voisines)
-  - connaissances vétérinaires courantes pour les signes d'alerte et les gestes d'attente, à valider par un vétérinaire
-a_remplacer:
-  - "Numéro de garde : 0900 904 904 (page Urgences actuelle) ; l'accueil actuel affiche le 026 466 34 35"
-  - "Horaires : lundi et mercredi à vendredi 8 h à 12 h et 14 h à 18 h, mardi jusqu'à 19 h ; l'accueil actuel dit 8 h à 18 h en continu"
-  - "Urgences reçues sans rendez-vous pendant les heures d'ouverture, après un appel"
-  - "Hospitalisation de nuit : contrôle le soir et à l'ouverture, transfert si l'animal demande une surveillance continue"
-  - "Domdidier à une dizaine de minutes en voiture ; Fribourg Ouest à 25 minutes environ"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Signes d'alerte et gestes d'attente : liste à valider par un vétérinaire de la clinique"
 ---
 
 En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal est blessé, respire mal ou ne se comporte plus comme d'habitude. Au téléphone, l'équipe de la clinique Vetmint Payerne vous dit quoi faire pendant le trajet et prépare votre arrivée.

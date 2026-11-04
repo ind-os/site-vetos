@@ -6,17 +6,6 @@ description: "Éditeur des sites Vetmint, sociétés des huit cliniques, héberg
 h1: Mentions légales
 recherche: mentions légales Vetmint
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, pieds de page de vetmint.ch et des huit sites de clinique (raisons sociales, adresses, réseaux sociaux), relevé du 16 octobre 2026
-  - docs/charte-redactionnelle.md, section 2.4 (adresses, téléphones et e-mails des cliniques)
-  - AGENTS.md du dossier de travail d'AVQN (hébergement sur un serveur Infomaniak au nom de Vetmint)
-a_remplacer:
-  - "Numéro IDE de Vetmint SA : CHE-000.000.000 dans la démonstration, à remplacer par le vrai numéro"
-  - "Registre du commerce de Vetmint SA : canton de Fribourg"
-  - "Raisons sociales des cliniques à vérifier au registre du commerce, en particulier Vetmint La Chaux-de-Fonds SA (pied de page actuel : « Vetmint La Chaux de fonds SA ») et Vetmint Lac de Joux SA (graphie du pied de page actuel, gardée telle quelle ; le nom de la clinique s'écrit Lac-de-Joux)"
-  - "Hébergeur : Infomaniak Network SA, Rue Eugène-Marziano 25, 1227 Les Acacias, serveur au nom de Vetmint SA"
-  - "For juridique : Fribourg"
-  - "Sociétés des cliniques, filiales de Vetmint SA"
 ---
 
 Les mentions légales qui suivent valent pour vetmint.ch et pour les sites des huit cliniques Vetmint, tous édités par Vetmint SA. Chaque clinique est exploitée par sa propre société, filiale du groupe.

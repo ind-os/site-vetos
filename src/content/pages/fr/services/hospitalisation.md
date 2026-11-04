@@ -6,30 +6,10 @@ description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perf
 h1: Hospitalisation du chien, du chat et des NAC
 nom: Hospitalisation
 recherche: hospitalisation chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 10
 resume: Pourquoi un animal reste à la clinique, le jour et la nuit, les visites, les appels et le prix.
-sources:
-  - pages Prestations des huit cliniques (hospitalisation des chiens, chats, rongeurs et lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/cabinet-2/ (salle d'hospitalisation, boxes, espace de visite, espaces d'exercice) et fribourg.vetmint.ch/nac/ (hospitalisation des NAC)
-  - fribourg.vetmint.ch/emploi/ (portrait d'un vétérinaire présent le soir et le week-end pour les animaux hospitalisés)
-  - lacdejoux.vetmint.ch/cabinet-2/ et saintlegier.vetmint.ch/cabinet-2/ (salles d'hospitalisation)
-  - vetmint.ch/peca-pecalbo-2/ (hospitalisation du lapin opéré), vetmint.ch/la-pancreatite-chez-le-chien/ (perfusion), vetmint.ch/mycoplasmose-2/ (oxygène)
-  - vetmint.ch/soins-et-hygiene-dentaires/ (retour le jour même après un détartrage)
-  - connaissances vétérinaires courantes pour les soins, la surveillance et le retour à la maison, à valider par le relecteur
-a_remplacer:
-  - "Prix de la journée d'hospitalisation (95 à 140 CHF selon la taille) : à confirmer par la grille Vetmint"
-  - "Prix de l'hospitalisation de jour (60 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la perfusion (65 CHF par jour) : à confirmer par la grille Vetmint"
-  - "Nuit sans présence continue hors Fribourg Ouest, contrôle tard le soir et tôt le matin, transfert vers une clinique de garde si besoin : à confirmer par chaque clinique"
-  - "Appel quotidien du vétérinaire en fin de matinée : à confirmer par Vetmint"
-  - "Visites sur rendez-vous pendant les heures d'ouverture : à confirmer par chaque clinique"
-  - "Devis remis à l'admission et mis à jour si le séjour se prolonge : à confirmer par Vetmint"
-  - "Nourriture habituelle et couverture de la maison acceptées : à confirmer par Vetmint"
 ---
 
 L'hospitalisation du chien et du chat sert à soigner à la clinique un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs. La journée coûte 95 à 140 francs selon la taille de l'animal. Le vétérinaire vous appelle chaque jour.
@@ -143,5 +123,3 @@ Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et le
 Une hospitalisation se décide pendant une consultation, après une opération ou lors d'une urgence. Pour une opération prévue, la clinique vous dit au téléphone la durée probable du séjour. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
 
 Pour aller plus loin : [la pancréatite du chien](/conseils/pancreatite-du-chien/) et [la mycoplasmose du rat](/conseils/mycoplasmose/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

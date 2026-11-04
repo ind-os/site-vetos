@@ -5,21 +5,10 @@ title: "Pododermatite du lapin : signes, causes, soins | Vetmint"
 description: "Pododermatite du lapin : la plaie sous les pattes, ce qui la cause, quand consulter et comment la soigner, du sol au bandage. Par les vétérinaires Vetmint."
 h1: La pododermatite chez le lapin
 recherche: pododermatite lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
 resume: Une plaie sous les pattes du lapin, liée au sol, au poids et au manque d'exercice, qui se soigne d'abord par le mode de vie.
-sources:
-  - contenu-des-pages.md, vetmint.ch/pododermatite-chez-le-lapin/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Marques de tapis citées dans l'article d'origine (Drybed, Vetbed), remplacées par « tapis vétérinaire en fibre synthétique » : choix à valider avec le relecteur (charte 7.9)"
-  - "Lien vers le site tiers Medirabbit (chaussettes pour pododermatite) retiré : choix à valider avec le relecteur (charte 7.9)"
-  - "Pied sans coussinet, signes du début (poils clairsemés, peau rose, croûte), description des stades et contrôle des pattes une fois par semaine : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 La pododermatite est une inflammation de la plante des pieds. Chez le lapin, elle commence souvent sous les talons des pattes arrière et peut finir en plaie infectée. Elle touche surtout les lapins qui bougent peu, qui sont trop lourds ou qui vivent sur un sol dur. Elle se soigne d'abord en changeant leur environnement.
@@ -84,5 +73,3 @@ Les lapins à poil fin et les lapins âgés ou arthrosiques demandent une survei
 Une pododermatite se soigne en consultation, dans la clinique Vetmint la plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). Quand une plaie ne guérit pas, la clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Choisir sa clinique](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

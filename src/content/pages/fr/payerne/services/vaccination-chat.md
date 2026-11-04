@@ -8,16 +8,6 @@ h1: Vaccination du chat à Payerne
 recherche: vaccin chat Payerne
 redige_le: 2026-11-03
 resume: "Le vaccin du chat pendant un bilan de 30 minutes : 70 francs à l'intérieur, 98 francs s'il sort."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, plan de prévention, cabinet, contact, accueil), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, accès)"
-  - "vetmint.ch/soins-a-domicile/ (district de la Broye, forfait de déplacement)"
-a_remplacer:
-  - "Chat anxieux qui attend dans sa caisse couverte et entre directement en salle de consultation"
-  - "Test FIV/FeLV fait sur place, résultat pendant la consultation"
-  - "Rappel de vaccin envoyé par SMS, WhatsApp ou e-mail à tous les clients ; le plan de prévention le prévoit pour ses abonnés"
-  - "Plan de prévention chaton à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs pour le plan de base"
 ---
 
 À Payerne, le vaccin du chat se fait pendant un bilan de santé de 30 minutes, à la clinique Vetmint de la route du Châtelard 13. Le prix dépend de la vie du chat. Il coûte 70 francs pour un chat d'intérieur, vacciné contre le typhus et le coryza. Il coûte 98 francs pour un chat qui sort, vacciné en plus contre la leucose.
@@ -98,5 +88,3 @@ Une puce électronique, un passeport et un vaccin contre la rage fait 21 jours a
 Les maladies, les rappels et les réactions possibles au vaccin sont expliqués sur la page [Tout savoir sur la vaccination du chat](/services/vaccination-chat/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

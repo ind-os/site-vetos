@@ -5,19 +5,10 @@ title: "Mykoplasmose bei der Ratte: Anzeichen, Therapie | Vetmint"
 description: "Mykoplasmose der Ratte: Niesen, Husten, rote Spuren um Augen und Nase, Gewichtsverlust. Erreger, wann Sie anrufen sollten, die Behandlung und die Vorbeugung."
 h1: Mykoplasmose bei der Ratte
 recherche: Mykoplasmose Ratte
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 17
 resume: Eine häufige, oft chronische Atemwegsinfektion der Ratte, die früh behandelt werden muss.
-sources:
-  - contenu-des-pages.md, vetmint.ch/mycoplasmose-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Signes d'urgence (respiration bouche ouverte, flancs qui se creusent, rat qui ne mange plus) et conseils de transport : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
-  - "Porphyrine produite en plus grande quantité sous l'effet de la maladie ou du stress, et quarantaine d'un rat qui arrive : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Die Mykoplasmose ist eine Infektion der Atemwege der Ratte. Man spricht auch vom Atemwegskomplex der Ratte. Es ist eine ihrer häufigsten Krankheiten. Sie wird oft chronisch. Eine Ratte, die niest oder abnimmt, sollte früh zur Tierärztin oder zum Tierarzt, denn die schweren Anzeichen kommen spät.
@@ -95,5 +86,3 @@ Die Vorbeugung setzt bei den Risikofaktoren an: eine staubarme Einstreu, die oft
 Die Behandlungen, die wir Ratten und anderen Nagern anbieten, sind auf der Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Nager in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/), ab 60 Franken.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -6,22 +6,10 @@ description: "Hund impfen bei Vetmint: Staupe, Parvovirose, Hepatitis, Leptospir
 h1: Impfung beim Hund
 nom: Impfung beim Hund
 recherche: Hund impfen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 2
 especes: [chien]
 resume: Die Impfungen des Welpen und die Auffrischungen des erwachsenen Hundes, durchgeführt während eines Gesundheitschecks von 30 Minuten.
-sources:
-  - grilles tarifaires des huit cliniques (bilans de santé avec vaccins pour chien, bilan avec vaccin contre la rage), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (plan chiot, vaccins compris, piroplasmose et leishmaniose exclues)
-  - bussigny.vetmint.ch/abonnements/ (abonnements junior et adulte chien)
-  - pages Prestations et Rendez-vous des huit cliniques (consultations vaccinales, réservation en ligne), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour les maladies, le calendrier, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Rappel envoyé avant l'échéance (SMS, WhatsApp ou e-mail) pour tous les clients : le plan de prévention le prévoit, à confirmer pour les autres clients"
-  - "Plan de prévention chiot à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
 ---
 
 Die Impfung schützt den Hund vor fünf schweren Krankheiten: Staupe, ansteckender Leberentzündung, Parvovirose, Parainfluenza und Leptospirose. Die Tierärztinnen und Tierärzte von Vetmint impfen während des Gesundheitschecks, einer Konsultation von 30 Minuten mit vollständiger Untersuchung des Hundes. Dieser Check mit Impfungen kostet je nach Praxis 86 bis 94 Franken, für einen Welpen gleich viel wie für einen erwachsenen Hund.
@@ -162,5 +150,3 @@ Alle acht Praxen Vetmint impfen Hunde während des Gesundheitschecks, nach Termi
 Reservieren Sie für einen Welpen den ersten Termin in der Woche nach seiner Ankunft und nennen Sie sein Alter: Die Praxis plant einen pädiatrischen Check ein. Für eine Reise reservieren Sie mindestens einen Monat vor der Abreise. Die Seite [Mikrochip](/de/leistungen/mikrochip/) erklärt die Kennzeichnung und den Heimtierausweis; die [Ratgeber für den Hund](/de/ratgeber/hund/) behandeln die übrigen Gesundheitsthemen.
 
 [Eine Praxis Vetmint wählen](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

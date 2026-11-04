@@ -5,20 +5,10 @@ title: "Kastration beim Kaninchen: Alter, Operation, Preis | Vetmint"
 description: "Häsin sterilisieren oder Rammler kastrieren: in welchem Alter, was die Operation verhindert, warum nie nüchtern gesetzt wird, die Zeit danach und die Preise."
 h1: "Kastration und Sterilisation beim Kaninchen"
 recherche: "Kastration Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 10
 resume: "Häsin sterilisieren oder Rammler kastrieren: Alter, Nutzen, Vorbereitung ohne Nüchternheit, Zeit danach und Preise."
-sources:
-  - vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (article Stérilisation des lapins), relevé du 16 octobre 2026
-  - vetmint.ch/le-lapin/ (fiche Le lapin, âge et poids de la stérilisation, tumeurs de l'utérus)
-  - grilles tarifaires des cliniques (ovariohystérectomie lapine, castration lapin), valables dès le 29 avril 2025
-  - connaissances vétérinaires courantes pour la tréponématose, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Retour à la maison le jour même de l'opération : à confirmer par chaque clinique"
 ---
 
 Bei der Sterilisation werden dem Kaninchen die Fortpflanzungsorgane entfernt. Bei der Häsin sind es die Eierstöcke und die Gebärmutter. Beim Rammler sind es die Hoden: Man spricht von Kastration. Wenn Sie keinen Wurf wollen, empfehlen unsere Tierärztinnen und Tierärzte sie für beide Geschlechter, ab 4 Monaten. Sie erspart vor allem der Häsin die Gebärmuttertumoren, die die Mehrheit der nicht sterilisierten Weibchen nach 4 Jahren betreffen. Die Pauschale kostet je nach Praxis 250 bis 380 Franken für eine Häsin und 131 bis 185 Franken für einen Rammler.
@@ -113,5 +103,3 @@ Sie senkt den Energiebedarf ein wenig. Eine Ration mit viel Heu und wenig Pellet
 Die Kastration und Sterilisation bei den anderen Arten: [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/). Die Behandlung von Kaninchen in unseren Praxen: [Heimtiermedizin](/de/leistungen/heimtiere/), mit der [Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). Alles über das Leben des Kaninchens: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

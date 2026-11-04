@@ -5,21 +5,10 @@ title: "Hyperthyroïdie chez le chat : signes et traitement | Vetmint"
 description: "Hyperthyroïdie du chat : il maigrit en mangeant plus, s'agite ou a la diarrhée. Les signes, la prise de sang qui confirme, les traitements et le suivi."
 h1: Hyperthyroïdie chez le chat
 recherche: hyperthyroïdie chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 4
 resume: Le chat de plus de 10 ans qui maigrit en mangeant plus a souvent une thyroïde trop active.
-sources:
-  - contenu-des-pages.md, vetmint.ch/hyperthyroidie-feline/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, bussigny.vetmint.ch/abonnements/ (contenu de l'abonnement senior chat)
-  - connaissances vétérinaires courantes (charte 5.3) pour l'examen du cou, les signes d'urgence, les traitements et le suivi des reins
-a_remplacer:
-  - "Section « Le traitement et le suivi » (médicament, alimentation pauvre en iode, iode radioactif, opération, contrôle des reins) : absente de l'article d'origine, écrite par la rédaction, à valider par le vétérinaire relecteur"
-  - "Signes d'urgence (respiration bouche ouverte, malaise, perte soudaine de la vue) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Pesée mensuelle du chat âgé à la maison : conseil de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Comme l'humain, le chat peut souffrir d'hyperthyroïdie. C'est la maladie hormonale la plus fréquente chez le chat de plus de 10 ans. Sa thyroïde, une petite glande placée dans le cou, fabrique trop d'hormones. Tout l'organisme tourne alors trop vite : le chat mange plus, maigrit et s'agite.
@@ -88,5 +77,3 @@ Le médicament et l'alimentation pauvre en iode agissent tant qu'on les donne. L
 Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour examiner votre chat, faire la prise de sang et parler des traitements possibles. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

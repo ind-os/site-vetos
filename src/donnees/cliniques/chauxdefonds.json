@@ -1,7 +1,7 @@
 {
   "id": "chauxdefonds",
   "en_ligne": false,
-  "site_actuel": "https://chauxdefonds.vetmint.ch/",
+  "adresse_hors_ligne": "https://chauxdefonds.vetmint.ch/",
   "nom": "Vetmint La Chaux-de-Fonds",
   "lieu": "La Chaux-de-Fonds",
   "canton": "NE",
@@ -80,25 +80,5 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintcdf/30min"
-  },
-  "sources": [
-    "chauxdefonds.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, plan de prévention, urgences, rendez-vous, toilettage), relevé du 16 octobre 2026",
-    "miroir/chauxdefonds.vetmint.ch/equipe-devouee-pasionnee/index.html et medias.csv pour les photos",
-    "miroir/chauxdefonds.vetmint.ch/contact/index.html : coordonnées du repère Google Maps de la clinique",
-    "miroir/chauxdefonds.vetmint.ch/rendez-vous/index.html : deux calendriers Calendly (consultation vaccinale, consultation de 30 minutes)"
-  ],
-  "a_remplacer": [
-    "Raison sociale : « Vetmint La Chaux-de-Fonds SA », le pied de page actuel écrit « Vetmint La Chaux de fonds SA »",
-    "Espèces : les furets ne figurent que sur la grille (vaccin contre la rage) ; à confirmer",
-    "Accroche et transports : gare CFF à dix minutes à pied, estimée d'après le repère Google Maps",
-    "Transports : bus transN sur l'avenue Léopold-Robert, arrêt et ligne à confirmer",
-    "Parking : places payantes le long de l'avenue et place de dépose devant l'entrée",
-    "Accessibilité : entrée de plain-pied",
-    "Communes desservies : liste reconstituée d'après la géographie des Montagnes neuchâteloises",
-    "Langues : seul le français est indiqué pour chaque personne",
-    "Domaines de chaque personne : reconstitués d'après les portraits, à confirmer",
-    "Fonction de Lorena Geronazzo : « assistante vétérinaire », formée en France ; titre suisse à confirmer",
-    "Samedi et dimanche : fermé, déduit de l'absence d'horaire le week-end sur le site actuel",
-    "Services : liste de la page Prestations actuelle, commune aux huit sites ; toilettage limité au défeutrage sous anesthésie (seul prix local)"
-  ]
+  }
 }

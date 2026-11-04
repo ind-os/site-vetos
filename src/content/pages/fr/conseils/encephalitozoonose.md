@@ -5,20 +5,10 @@ title: "Encéphalitozoonose du lapin : signes, traitement | Vetmint"
 description: "Encéphalitozoonose du lapin : tête penchée, cataracte, reins touchés. Comment le parasite se transmet, le test, le traitement et ce qu'on peut en attendre."
 h1: L'encéphalitozoonose du lapin
 recherche: encéphalitozoonose lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 15
 resume: Un parasite fréquent chez le lapin, souvent silencieux, qui peut toucher le cerveau, les yeux ou les reins.
-sources:
-  - contenu-des-pages.md, vetmint.ch/lencephalitozoonose/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Nom commercial de l'antiparasitaire cité dans l'article d'origine (Panacur) retiré, la page dit « un antiparasitaire spécifique » : choix à valider avec le relecteur (charte 7.9)"
-  - "Consignes d'urgence (perte d'équilibre brutale, convulsions, lapin qui ne peut plus manger seul) nourrissage à la seringue et otite profonde comme autre cause de tête penchée : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 L'encéphalitozoonose est une maladie parasitaire fréquente chez le lapin. Elle est due à *Encephalitozoon cuniculi*, un parasite microscopique de la famille des microsporidies. Beaucoup de lapins le portent sans jamais tomber malades. Chez d'autres, il atteint le cerveau, les yeux ou les reins. Le traitement ne fait pas disparaître le parasite, mais il calme la maladie et protège les autres lapins.
@@ -82,5 +72,3 @@ C'est possible, surtout chez une personne dont les défenses immunitaires sont a
 Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cliniques reçoivent les lapins en consultation ; la page [Médecine des NAC](/services/nac/) présente ce que nous leur proposons. La clinique Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Prendre rendez-vous dans une clinique](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -5,24 +5,10 @@ title: "Blutuntersuchung bei Hund und Katze: wozu | Vetmint"
 description: "Blutuntersuchung bei Hund, Katze oder Kaninchen: vor einer Narkose, bei kranken oder älteren Tieren, bei Risikorassen. Was sie misst und wie sie abläuft."
 h1: "Blutuntersuchung: wozu eine Blutentnahme dient"
 recherche: Blutuntersuchung Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 5
 resume: Vor einer Operation, bei einem kranken oder älteren Tier zeigt der Bluttest, was die Untersuchung nicht sieht.
-sources:
-  - contenu-des-pages.md, vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, pages Prestations des cliniques (« analyses de sang dans notre laboratoire »)
-  - contenu-des-pages.md, bussigny.vetmint.ch/abonnements/ (test sanguin annuel des abonnements)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (jamais de jeûne pour un lapin)
-  - connaissances vétérinaires courantes (charte 5.3) pour le déroulement de la prise de sang et la préparation
-a_remplacer:
-  - "Résultat des analyses courantes pendant la consultation ou dans l'heure : délai à confirmer par chaque clinique"
-  - "Analyses spéciales envoyées à un laboratoire externe, résultat en deux à trois jours ouvrables : délai à confirmer par Vetmint"
-  - "Jeûne de 8 à 12 heures avant un bilan complet du chien et du chat : à valider par le vétérinaire relecteur"
-  - "Section « Comment se passe la prise de sang » (veine de la patte ou du cou, quelques minutes, petit pansement) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Im Laufe seines Lebens wird Ihr Tier wahrscheinlich ein- oder mehrmals Blut abgenommen bekommen. Die Blutuntersuchung ist eine ergänzende Untersuchung: Sie zeigt, was die Konsultation nicht sieht. Sie informiert die Tierärztin oder den Tierarzt unter anderem über die Arbeit der Organe, die Blutgerinnung, den Blutzuckerspiegel oder das Vorliegen einer Blutarmut. Sie betrifft Hund, Katze und die meisten Heimtiere, Kaninchen eingeschlossen.
@@ -78,5 +64,3 @@ Rufen Sie noch am selben Tag an, wenn es sehr blasses Zahnfleisch hat, zusammenb
 Die [Abonnemente](/de/abonnemente/) von Vetmint für Hunde und Katzen umfassen eine Blutentnahme pro Jahr, mit zwei Konsultationen und der Impfung. Das Senior-Abonnement ab 7 Jahren ergänzt eine Urinanalyse und eine Blutdruckmessung. Die Preise der Analysen ausserhalb des Abonnements stehen auf der Seite [Preise](/de/preise/).
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

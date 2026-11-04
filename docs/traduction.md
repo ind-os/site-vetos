@@ -17,12 +17,11 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 
 1. Copier l'en-tête de la page française et traduire `title`, `description`, `h1`, `nom`, `recherche` et `resume`. `title` garde 60 caractères au plus ; `description` 150 à 160 caractères.
 2. Remplacer `url` par l'adresse allemande de la table ci-dessous.
-3. Garder tels quels `type`, `clinique`, `redige_le`, `especes`, `ordre`, `relecteur`, `relu_le`, `sources` et `a_remplacer`. Ces deux derniers restent en français : ce sont des notes de travail, jamais affichées. `auteur: Rédaction Vetmint` devient `auteur: Redaktion Vetmint`.
+3. Garder tels quels `type`, `clinique`, `redige_le`, `especes` et `ordre`.
 4. Traduire le corps phrase par phrase, sans rien ajouter ni retirer. Les faits, les chiffres, les prix et les noms restent identiques.
 5. Remplacer chaque lien interne par l'adresse allemande de la même page. Les liens `tel:`, `mailto:` et les adresses externes ne changent pas.
 6. Garder les blocs de données et leurs marqueurs `<!-- donnees: horaires -->` et `<!-- /donnees -->` ; traduire les lignes entre les marqueurs.
-7. La dernière ligne des services et des conseils devient : « Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend. »
-8. Vérifier : `python3 -I outils/verifier-page.py src/content/pages/de/<chemin>.md`.
+7. Vérifier : `python3 -I outils/verifier-page.py src/content/pages/de/<chemin>.md`.
 
 ## Le style
 

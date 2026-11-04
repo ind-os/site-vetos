@@ -6,25 +6,10 @@ description: "Détartrage du chien et du chat chez Vetmint : sous anesthésie, 
 h1: Soins dentaires et détartrage du chien et du chat
 nom: Soins dentaires
 recherche: détartrage chien chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 6
 resume: Le détartrage sous anesthésie, les extractions, le brossage à la maison et les prix dans les huit cliniques.
-sources:
-  - vetmint.ch/soins-et-hygiene-dentaires/ et /soins-et-hygiene-dentaires-2/ (déroulement, hygiène, brossage), relevé du 16 octobre 2026
-  - grilles tarifaires des huit cliniques (détartrage et polissage, extractions, extraction totale), valables dès le 29 avril 2025 (Domdidier dès le 1er avril 2023)
-  - bussigny.vetmint.ch/abonnements/ (abonnements Adulte+ et Senior avec détartrage annuel)
-  - pages Prestations des huit cliniques, fribourg.vetmint.ch/nac/ (soins dentaires des NAC), domdidier.vetmint.ch/specialiste/ (médecin-dentiste)
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (parage dentaire du lapin)
-  - connaissances vétérinaires courantes pour la maladie des gencives, les signes et les suites, à valider par le relecteur
-a_remplacer:
-  - "Heure de dépôt le matin du détartrage (entre 7 h 30 et 8 h 30) : à confirmer par chaque clinique"
-  - "Appel au propriétaire avant toute extraction non prévue : à confirmer par Vetmint"
-  - "Contrôle 7 à 10 jours après une extraction : à confirmer par le relecteur"
-  - "Détartrage programmé après une consultation d'examen de la bouche avec devis : à confirmer par Vetmint"
 ---
 
 Le détartrage du chien et du chat se fait sous anesthésie générale, à la clinique, en une matinée. Le vétérinaire contrôle chaque dent, retire le tartre au-dessus et sous la gencive, radiographie les dents douteuses, extrait celles qui ne se sauvent plus, puis polit l'émail. Le forfait coûte 300 à 345 francs selon la clinique, anesthésie comprise. Votre animal rentre à la maison l'après-midi.
@@ -158,5 +143,3 @@ Les huit cliniques Vetmint pratiquent le détartrage aux ultrasons, le polissage
 ## Prendre rendez-vous
 
 Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d'extractions. Dites au téléphone que vous venez pour les dents. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

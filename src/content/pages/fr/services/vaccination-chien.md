@@ -6,22 +6,10 @@ description: "Vacciner son chien chez Vetmint : Carré, parvovirose, hépatite,
 h1: Vaccination du chien
 nom: Vaccination du chien
 recherche: vaccination chien
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 2
 especes: [chien]
 resume: Les vaccins du chiot et les rappels du chien adulte, faits pendant un bilan de santé de 30 minutes.
-sources:
-  - grilles tarifaires des huit cliniques (bilans de santé avec vaccins pour chien, bilan avec vaccin contre la rage), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (plan chiot, vaccins compris, piroplasmose et leishmaniose exclues)
-  - bussigny.vetmint.ch/abonnements/ (abonnements junior et adulte chien)
-  - pages Prestations et Rendez-vous des huit cliniques (consultations vaccinales, réservation en ligne), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour les maladies, le calendrier, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Rappel envoyé avant l'échéance (SMS, WhatsApp ou e-mail) pour tous les clients : le plan de prévention le prévoit, à confirmer pour les autres clients"
-  - "Plan de prévention chiot à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
 ---
 
 La vaccination du chien le protège contre cinq maladies graves : la maladie de Carré, l'hépatite contagieuse, la parvovirose, la parainfluenza et la leptospirose. Les vétérinaires Vetmint vaccinent pendant le bilan de santé, une consultation de 30 minutes qui comprend l'examen complet du chien. Ce bilan avec vaccins coûte de 86 à 94 francs selon la clinique, le même prix pour un chiot et pour un adulte.
@@ -162,5 +150,3 @@ Les huit cliniques Vetmint vaccinent les chiens pendant le bilan de santé, sur 
 Pour un chiot, réservez le premier rendez-vous dans la semaine qui suit son arrivée et dites son âge : la clinique prévoit un bilan pédiatrique. Pour un voyage, réservez au moins un mois avant le départ. La page [Puce électronique](/services/puce-electronique/) explique l'identification et le passeport ; les [conseils pour le chien](/conseils/chien/) abordent les autres sujets de santé.
 
 [Choisir une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

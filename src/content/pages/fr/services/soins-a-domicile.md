@@ -6,27 +6,10 @@ description: "Vétérinaire à domicile chez Vetmint : consultation, vaccins et
 h1: Soins vétérinaires à domicile
 nom: Soins à domicile
 recherche: vétérinaire à domicile
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
 resume: Un vétérinaire vient chez vous pour les soins courants, du lundi au vendredi, avec un forfait de déplacement dès 55 francs.
-sources:
-  - vetmint.ch/soins-a-domicile/ et domdidier.vetmint.ch/soins-a-domicile/ (horaires, forfait de 55 francs pour la Riviera vaudoise et la Broye, annulation, paiement), relevé du 16 octobre 2026
-  - questions fréquentes de vetmint.ch et des accueils de clinique (soins courants à domicile, sur rendez-vous)
-  - pages Urgences, Contact et accueils des cliniques (visites à domicile avec frais de déplacement)
-  - grilles tarifaires des huit cliniques, valables dès le 29 avril 2025 (consultation de 30 minutes)
-  - connaissances vétérinaires courantes pour les soins possibles à domicile et la préparation de la visite, à valider par le relecteur
-a_remplacer:
-  - "Forfait de déplacement autour des cliniques hors de la Riviera vaudoise et de la Broye (55 francs dans un rayon de 15 kilomètres) : à confirmer par Vetmint"
-  - "Prix de la consultation à domicile (prix de la consultation de 30 minutes de la clinique, 54 à 59 francs, plus le déplacement) : à confirmer par Vetmint"
-  - "Un seul forfait de déplacement pour plusieurs animaux du même foyer : à confirmer par Vetmint"
-  - "Fin de vie et euthanasie à domicile proposées par les sept cliniques qui se déplacent : à confirmer par Vetmint"
-  - "Fribourg Ouest absente de la liste : seule sa page Urgences actuelle, copiée de Saint-Blaise, cite les visites à domicile, à confirmer par la clinique"
-  - "Annulation tardive facturée au prix du forfait de déplacement : à confirmer par Vetmint"
-  - "Incinération organisée par la clinique après une euthanasie à domicile : à confirmer par Vetmint"
 ---
 
 Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu du lundi au vendredi, de 7 h 30 à 19 h, sur rendez-vous. Vous payez la consultation au prix de la clinique, plus un forfait de déplacement de 55 francs dans la Riviera vaudoise, la Broye et autour de chaque clinique.
@@ -145,5 +128,3 @@ Sept cliniques Vetmint proposent des visites à domicile, sur rendez-vous, autou
 Pour un animal âgé qui a mal, la page [Gestion de la douleur](/services/gestion-de-la-douleur/) décrit le suivi possible entre deux visites.
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

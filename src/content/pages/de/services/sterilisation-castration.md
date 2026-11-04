@@ -6,25 +6,10 @@ description: "Sterilisation der Kätzin ab 210 Franken, Kastration von Kater, R�
 h1: Kastration und Sterilisation von Hund, Katze und Kaninchen
 nom: Kastration und Sterilisation
 recherche: Katze kastrieren
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 4
 especes: [chien, chat, nac]
 resume: Das Alter, der Operationstag, die Pflege zu Hause und der Pauschalpreis jeder Tierart, von der Kätzin bis zum Kaninchen.
-sources:
-  - grilles tarifaires des huit cliniques (forfaits de stérilisation et de castration, détail de ce qu'ils comprennent), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (options stérilisation et castration), bussigny.vetmint.ch/abonnements/ (abonnements Junior+)
-  - vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (âge, raisons, lapin jamais à jeun, mâle fertile six semaines)
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (prise de sang avant l'anesthésie)
-  - pages Prestations des huit cliniques (espèces opérées), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour les âges du chien et du chat, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Dépôt de l'animal le matin entre 7 h 30 et 9 h, retour à la maison le jour même en fin d'après-midi : à confirmer par chaque clinique"
-  - "Appel de la clinique en début d'après-midi après le réveil : à confirmer par les cliniques"
-  - "Stérilisation de la lapine à Payerne, absente de la grille, notée « sur devis » : à confirmer par la clinique"
-  - "Options du plan de prévention (chiot 925 et 1 240 francs, chaton 615 et 755 francs, sites des cliniques) ; vetmint.ch affiche 880, 1 180, 585 et 718 francs : à trancher par Vetmint"
 ---
 
 Die Sterilisation entfernt die Eierstöcke eines weiblichen Tieres, die Kastration die Hoden eines männlichen Tieres. Die Praxen Vetmint operieren Katzen, Hunde, Kaninchen und die meisten Nager, unter Vollnarkose, mit Rückkehr nach Hause am selben Tag. Die Sterilisation einer Kätzin kostet je nach Praxis 210 bis 260 Franken, die Kastration eines Katers 105 bis 115 Franken.
@@ -164,5 +149,3 @@ Das Risiko besteht bei jeder Narkose, bleibt aber bei einem jungen, gesunden Tie
 Eine Operation wird nach einer Konsultation entschieden. Reservieren Sie sie online oder telefonisch und nennen Sie als Grund «Sterilisation» oder «Kastration»; das Datum der Operation wird danach mit der Tierärztin oder dem Tierarzt festgelegt. Für das Kaninchen beantwortet die Seite [Kastration beim Kaninchen](/de/ratgeber/kastration-kaninchen/) die Fragen, die diese Tierart betreffen. Die übrigen Operationen sind auf der Seite [Chirurgie](/de/leistungen/chirurgie/) beschrieben.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

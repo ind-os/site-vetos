@@ -6,21 +6,10 @@ description: "Ostéopathie pour chien et chat chez Vetmint : raideurs, boiterie
 h1: Ostéopathie du chien et du chat
 nom: Ostéopathie
 recherche: ostéopathie chien
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 12
 especes: [chien, chat]
 resume: Des gestes manuels qui rendent de la mobilité à un chien ou un chat raide, après un examen vétérinaire.
-sources:
-  - domdidier.vetmint.ch/prestations/ (ostéopathie pour chiens et chats), relevé du 16 octobre 2026
-  - grilles tarifaires de Domdidier (consultation d'ostéopathie, 111 CHF) et de Fribourg Ouest (140 CHF, spécialiste en ostéopathie animale), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/douleur/ (ostéopathie parmi les thérapies d'appoint de la consultation douleur)
-  - connaissances vétérinaires courantes pour les indications, les limites, le déroulement et les suites, à valider par le relecteur
-a_remplacer:
-  - "Durée d'une séance d'ostéopathie (45 minutes à une heure) : à confirmer par Domdidier et Fribourg Ouest"
-  - "Délai conseillé entre deux séances (trois à quatre semaines) : à confirmer par les ostéopathes des deux cliniques"
 ---
 
 L'ostéopathie du chien et du chat soigne par des gestes de la main. L'ostéopathe repère les zones raides ou douloureuses, puis les mobilise doucement pour rendre du mouvement aux articulations et aux muscles. Ce soin s'adresse à l'animal qui boite, qui se raidit avec l'âge ou qui récupère d'une opération. Chez Vetmint, une séance coûte 111 à 140 francs selon la clinique et suit toujours un examen vétérinaire.
@@ -126,5 +115,3 @@ Cela dépend du contrat. Certaines assurances pour animaux couvrent les médecin
 Si votre animal n'a pas encore été examiné pour ce problème, demandez d'abord une consultation de 30 minutes dans la clinique la plus proche. Le vétérinaire vous oriente ensuite vers la séance. S'il a déjà été examiné, appelez directement Domdidier ou Fribourg Ouest et dites-le au téléphone.
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

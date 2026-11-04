@@ -20,46 +20,15 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe e
 
 Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils servent à publier le site. `.github/` et `.claude/` te sont fermés.
 
+## Au début de chaque conversation
+
+Vérifie l'ordinateur, sans rien installer : `node --version`, `pnpm --version`, `gh auth status` et `git config user.email`. Si l'une échoue, ou répond vide, suis la skill `preparer-l-ordinateur` avant toute modification.
+
 ## Les gestes
 
-Cinq gestes : préparer l'ordinateur, une fois ; puis, à chaque modification, prévisualiser, modifier, publier, et parfois revenir à une version d'avant.
+Quatre gestes, à chaque modification : prévisualiser, modifier, publier, et parfois revenir à une version d'avant.
 
-### 1. Préparer l'ordinateur
-
-À faire une fois, et chaque fois qu'une commande ci-dessous manque.
-
-1. Vérifie les outils, sans rien installer :
-
-       node --version        # 22.23.4 ou plus récent
-       pnpm --version        # 12 ou plus récent
-       git --version
-       gh --version
-       gh auth status
-       git config user.name
-       git config user.email
-
-2. Dis à la personne, en une courte liste, ce qui manque. S'il ne manque rien, passe à l'étape 6.
-3. Sur un Mac, installe ce qui manque par Homebrew.
-   - Si `brew --version` échoue, Homebrew manque. Donne à la personne cette ligne, à coller dans l'app Terminal :
-
-         /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-     Dis-lui que le Mac va lui demander le mot de passe de sa session, qu'elle le tape elle-même, et que rien ne s'affiche pendant qu'elle tape. À la fin, Homebrew affiche deux ou trois lignes « Next steps » : elle les colle aussi dans le Terminal. Attends qu'elle te dise que c'est fini.
-   - Puis installe toi-même ce qui manque : `brew install node pnpm git gh`. Un outil trop ancien se met à jour par `brew upgrade <outil>`.
-4. Sur Windows, installe ce qui manque par `winget install OpenJS.NodeJS.LTS Git.Git GitHub.cli`, puis `npm install --global pnpm@12`. Si Windows demande une autorisation, c'est la personne qui l'accepte. Rouvre ensuite le terminal pour que les commandes soient trouvées.
-5. Si `gh auth status` dit qu'elle n'est pas connectée, donne-lui cette ligne, à taper dans le Terminal :
-
-       gh auth login --hostname github.com --git-protocol https --web
-
-   Elle répond « Yes » à la question sur Git, puis copie le code affiché dans la page de GitHub qui s'ouvre. Vérifie ensuite par `gh auth status`.
-6. Si `git config user.name` ou `git config user.email` est vide, demande-lui son nom et l'adresse mail de son compte GitHub, puis pose-les :
-
-       git config --global user.name "<son nom>"
-       git config --global user.email "<son adresse>"
-
-7. Installe les dépendances du site : `pnpm install`.
-
-### 2. Prévisualiser
+### 1. Prévisualiser
 
 La personne voit sa modification sur son ordinateur avant de la publier. Le site en ligne ne change pas.
 
@@ -68,9 +37,9 @@ La personne voit sa modification sur son ordinateur avant de la publier. Le site
 3. Donne-lui l'adresse à ouvrir dans son navigateur : `http://localhost:4321`. Chaque fichier enregistré s'y voit aussitôt.
 4. `pnpm astro dev status` dit s'il tourne ; `pnpm astro dev stop` l'arrête.
 
-Fais la modification qu'elle demande (geste 3), puis dis-lui où la regarder.
+Fais la modification qu'elle demande (geste 2), puis dis-lui où la regarder.
 
-### 3. Modifier le site
+### 2. Modifier le site
 
 Chaque modification se fait dans les deux langues : le français d'abord, puis la même chose en allemand. Les règles sont dans `docs/` ; lis le document du cas avant de modifier.
 
@@ -83,7 +52,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 
 Après chaque modification, montre à la personne la page en français et en allemand. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
 
-### 4. Publier
+### 3. Publier
 
 Seulement quand la personne le demande (« publie »), après avoir vu la modification en local.
 
@@ -112,14 +81,14 @@ Seulement quand la personne le demande (« publie »), après avoir vu la modifi
 
 Ne publie qu'une chose à la fois : attends la fin d'une publication avant la suivante.
 
-### 5. Revenir à une version d'avant
+### 4. Revenir à une version d'avant
 
 Quand la personne veut retrouver le site d'avant une modification.
 
 1. Montre les dernières modifications : `git log --oneline -10`. Dis chacune en mots simples, avec sa date (`git log -10 --format="%h %ad %s" --date=short`).
 2. Demande-lui laquelle annuler.
 3. Annule-la par un nouveau commit : `git revert --no-edit <commit>`. Pour en annuler plusieurs, annule-les une par une, de la plus récente à la plus ancienne.
-4. Montre-lui le résultat en local (geste 2), puis publie (geste 4).
+4. Montre-lui le résultat en local (geste 1), puis publie (geste 3).
 
 L'historique ne se réécrit jamais : ni `git reset` sur une modification déjà publiée, ni poussée forcée.
 

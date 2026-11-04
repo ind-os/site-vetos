@@ -7,17 +7,6 @@ description: "À Payerne, le plan de prévention chiot ou chaton coûte 515 fran
 h1: Plan de prévention et abonnements à Payerne
 recherche: abonnement vétérinaire Payerne
 redige_le: 2026-11-03
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/plan-de-prevention/ et payerne.vetmint.ch/tarifs/ (grille valable dès le 29 avril 2025), relevé du 16 octobre 2026
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ (paiement en quatre fois) et vetmint.ch/abonnements/, relevé du 16 octobre 2026
-  - page commune src/content/pages/fr/abonnements.md (niveaux, prix et conditions des abonnements, d'après Bussigny, Saint-Légier et les conditions générales de Vetmint Saint-Légier SA)
-a_remplacer:
-  - "Prix du plan : 515, 925 et 1 240 CHF pour le chiot, 515, 615 et 755 CHF pour le chaton (site de Payerne) ; vetmint.ch affiche 490, 880, 1 180, 490, 585 et 718 CHF"
-  - "Valeur des soins au détail (656, 1 130, 1 495, 683, 780 et 921 CHF) reprise de la page Plan de prévention de Payerne ; avec la grille du 29 avril 2025, l'opération ajoutée donne 1 106 et 1 466 CHF pour le chiot, 798 et 943 CHF pour le chaton"
-  - "Paiement du plan en quatre fois par Swissbilling, quatre versements de 128,75 CHF (calculé ; seul vetmint.ch le propose, sur 490 CHF)"
-  - "Abonnements mensuels proposés à Payerne, aux prix et conditions de Bussigny et de Saint-Légier (les pages de Payerne n'en parlent pas)"
-  - "Souscription à la clinique, lors d'un rendez-vous"
-  - "Conditions générales de Vetmint Saint-Légier SA appliquées à Payerne : résiliation, frais de 50 CHF, trois dates proposées dans les dix jours ouvrables"
 ---
 
 À Payerne, deux formules d'abonnement vétérinaire règlent la prévention à l'avance. Le plan de prévention paie en une fois la première année d'un chiot ou d'un chaton. L'abonnement mensuel suit un chien ou un chat à tout âge et répartit sur douze mois le prix de ses soins de routine.

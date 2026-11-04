@@ -5,21 +5,10 @@ title: "Troubles de la ponte chez l'oiseau : signes, soins | Vetmint"
 description: "Troubles de la ponte chez l'oiseau : œuf bloqué, femelle en boule au fond de la cage, pattes paralysées. Ce qui fait trop pondre, l'urgence et la prévention."
 h1: Les troubles de la ponte chez l'oiseau
 recherche: troubles de la ponte oiseau
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 19
 resume: Œuf bloqué, ponte qui s'arrête, coquille molle, chez la poule, la perruche ou le canari. Souvent une urgence.
-sources:
-  - contenu-des-pages.md, vetmint.ch/troubles-de-la-ponte-chez-loiseau/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ (oiseaux d'ornement et de basse-cour, consultation perroquets)
-  - contenu-des-pages.md, fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-  - charte de rédaction, 2.4 (téléphone de la clinique Vetmint Fribourg Ouest)
-a_remplacer:
-  - "Consignes d'attente (oiseau au chaud, au calme, dans une petite caisse sans perchoir haut) et appel avant de venir pour vérifier que la clinique reçoit les oiseaux : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
-  - "Mesures de prévention détaillées (durée d'éclairage raccourcie, retrait du nid et du miroir, caresses sur le dos et sous les ailes à éviter, œufs factices) : ajout de la rédaction tiré des facteurs de l'article d'origine, à confirmer par le vétérinaire relecteur"
 ---
 
 Les troubles de la ponte touchent l'oiseau femelle, quelle que soit son espèce. L'œuf reste bloqué, la ponte s'arrête net ou les œufs sont mal formés. Poules, perruches, canaris et autres petits passereaux sont les plus exposés, parce qu'ils pondent beaucoup. Un œuf coincé est souvent une urgence.
@@ -82,5 +71,3 @@ Dans certains cas, une [stérilisation](/services/sterilisation-castration/) chi
 La clinique Vetmint Fribourg Ouest, à Givisiez, reçoit les oiseaux d'ornement et de basse-cour. Elle propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les perroquets y ont aussi une première consultation consacrée à leurs conditions de vie. Pour un œuf bloqué, appelez-la au [026 466 84 84](tel:+41264668484). La page [Médecine des NAC](/services/nac/) présente nos soins aux oiseaux, aux lapins et aux rongeurs.
 
 [Les cliniques Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

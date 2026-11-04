@@ -8,18 +8,6 @@ h1: Impfung beim Hund in Payerne
 recherche: Hund impfen Payerne
 redige_le: 2026-11-03
 resume: "Die Impfung des Hundes während eines Checks von 30 Minuten, 94 Franken, Welpe oder erwachsen."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (tarifs, plan de prévention, prestations, rendez-vous), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (rendez-vous, contact, questions fréquentes)"
-a_remplacer:
-  - "Vaccins contre la leishmaniose et la piroplasmose disponibles à Payerne, sur demande, avec un prix annoncé avant"
-  - "Rappel de vaccin envoyé par SMS, WhatsApp ou e-mail à tous les clients ; le plan de prévention le prévoit pour ses abonnés"
-  - "Paiement du plan de prévention en une fois ou en quatre versements (repris de la page commune)"
-  - "Motif « Vaccin et bilan annuel » dans la réservation en ligne : la page actuelle propose un seul type de rendez-vous"
-  - "Chien anxieux reçu directement en salle de consultation, sans passer par la salle d'attente"
-  - "Plan de prévention chiot à 515 francs (site de Payerne) ; vetmint.ch affiche 490 francs"
 ---
 
 In Payerne wird der Hund während eines Gesundheitschecks von 30 Minuten geimpft. Dieser Check kostet 94 Franken, für einen Welpen wie für einen erwachsenen Hund. Die Spritze schützt vor Staupe, ansteckender Leberentzündung, Parvovirose, Parainfluenza und Leptospirose. Für eine Reise kostet der Check mit der Tollwutimpfung 77 Franken.
@@ -99,5 +87,3 @@ Ja. Eine Tierärztin oder ein Tierarzt aus Payerne fährt im ganzen Bezirk Broye
 Die Krankheiten, der vollständige Kalender und die Auffrischungen sind auf der Seite [Alles über die Impfung des Hundes](/de/leistungen/impfung-hund/) erklärt.
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -1,7 +1,7 @@
 {
   "id": "payerne",
   "en_ligne": true,
-  "site_actuel": "https://payerne.vetmint.ch/",
+  "adresse_hors_ligne": "https://payerne.vetmint.ch/",
   "nom": "Vetmint Payerne",
   "lieu": "Payerne",
   "canton": "VD",
@@ -83,22 +83,6 @@
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintpayerne/45min"
   },
-  "sources": [
-    "payerne.vetmint.ch (accueil, cabinet, contact, équipe, prestations, plan de prévention, tarifs, urgence, rendez-vous), relevé du 16 octobre 2026",
-    "vetmint.ch/cabinets/ (WhatsApp), vetmint.ch/soins-a-domicile/ (district de la Broye), vetmint.ch/toilettage/ (toilettage à Payerne)",
-    "medias.csv et miroir de payerne.vetmint.ch/equipe/ (photos)",
-    "carte Google intégrée à payerne.vetmint.ch/contact/ (coordonnées)"
-  ],
-  "a_remplacer": [
-    "Horaires : lundi et mercredi à vendredi 8 h à 12 h et 14 h à 18 h, mardi jusqu'à 19 h (pages Prestations et Urgences) ; l'accueil actuel dit 8 h à 18 h du lundi au vendredi et certains samedis de 8 h 30 à 15 h",
-    "Numéro de garde : 0900 904 904 (page Urgences) ; l'accueil actuel affiche le 026 466 34 35",
-    "Langues de chaque personne : la clinique dit parler français, allemand et anglais, sans préciser qui parle quoi",
-    "Domaines des vétérinaires : consultations et chirurgie, non précisés par les sites actuels",
-    "Communes desservies : liste reconstituée d'après la géographie de la Broye",
-    "Places de parc gratuites ; gare CFF à environ 20 minutes à pied",
-    "Motifs de rendez-vous : reconstitués d'après la grille tarifaire ; la page actuelle propose un seul type de rendez-vous en ligne",
-    "Toilettage : annoncé à Payerne par vetmint.ch, absent des pages de la clinique et de son équipe"
-  ],
   "accroche": {
     "fr": "Route du Châtelard 13, avec une place de dépose de plain-pied devant l'entrée.",
     "de": "Route du Châtelard 13, mit einem ebenerdigen Halteplatz vor dem Eingang."

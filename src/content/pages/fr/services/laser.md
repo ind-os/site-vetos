@@ -6,22 +6,10 @@ description: "Laser vétérinaire chez Vetmint : plaies, cicatrisation, arthros
 h1: Thérapie laser pour chiens, chats et lapins
 nom: Thérapie laser
 recherche: laser vétérinaire
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 11
 especes: [chien, chat, nac]
 resume: Une lumière qui calme la douleur et accélère la cicatrisation, sans incision ni anesthésie, en séances de quelques minutes.
-sources:
-  - pages Prestations de bussigny, chauxdefonds, saintblaise et saintlegier.vetmint.ch (indications du laser), relevé du 16 octobre 2026
-  - grilles tarifaires de Bussigny, Saint-Blaise et Saint-Légier (consultation avec thérapie laser, 62 CHF), valables dès le 29 avril 2025
-  - vetmint.ch/larthrose-chez-les-nac/ et vetmint.ch/pododermatite-chez-le-lapin/ (laser dans le traitement)
-  - connaissances vétérinaires courantes pour le mode d'action, le déroulement, les précautions et le rythme des séances, à valider par le relecteur
-a_remplacer:
-  - "Prix de la consultation avec thérapie laser à La Chaux-de-Fonds (62 francs, comme à Bussigny, Saint-Blaise et Saint-Légier) : à confirmer par la clinique"
-  - "Prix d'une séance de suivi (62 francs, le même que la première séance) : à confirmer par Vetmint"
-  - "Durée d'une séance à la clinique (15 à 20 minutes, rendez-vous compris) : à confirmer par les cliniques"
 ---
 
 Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cliniques Vetmint proposent la thérapie laser, à 62 francs la séance avec la consultation.
@@ -130,5 +118,3 @@ Quatre cliniques ont un appareil de laser thérapeutique. Les autres cliniques V
 Au téléphone, dites ce que le laser doit traiter : une plaie, une arthrose, une cicatrice après une opération faite ailleurs. La clinique prévoit alors une première séance avec l'examen. Si votre animal a été opéré ou soigné ailleurs, apportez le compte rendu.
 
 [Trouver la clinique la plus proche](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

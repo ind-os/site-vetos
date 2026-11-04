@@ -6,10 +6,6 @@ description: "Conseils santé des vétérinaires Vetmint pour le chien, le chat,
 h1: Conseils santé
 recherche: conseils santé animaux
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, vetmint.ch/informations-sante-animale/, vetmint.ch/chien/, vetmint.ch/chat/ et vetmint.ch/lapin-et-nac/ (relevé du 16 octobre 2026)
-  - charte de rédaction, sections 3.13 et 7.12 (relecture et signature des conseils)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
 ---
 
 Ces conseils santé expliquent les maladies et les soins que les vétérinaires Vetmint rencontrent le plus souvent chez les animaux : chien, chat, lapin, rongeurs et oiseaux. Ils s'appuient sur les articles écrits par nos vétérinaires.
@@ -20,9 +16,9 @@ Un conseil répond à une question précise : un chat qui maigrit en mangeant p
 
 Il sert à comprendre ce que le vétérinaire a expliqué, à préparer vos questions ou à refaire chez vous un soin montré en consultation. Il ne remplace pas l'examen : seul le vétérinaire qui voit votre animal sait ce qu'il a.
 
-## Qui les écrit et les relit
+## D'où ils viennent
 
-La rédaction Vetmint écrit chaque conseil à partir des articles de nos vétérinaires. Un vétérinaire Vetmint le relit ensuite avant sa publication. La signature en bas de chaque conseil donne la date de cette relecture.
+Chaque conseil s'appuie sur les articles des vétérinaires Vetmint.
 
 ## Comment ils sont classés
 

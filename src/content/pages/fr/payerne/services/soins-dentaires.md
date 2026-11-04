@@ -8,18 +8,6 @@ h1: Soins dentaires à Payerne
 recherche: détartrage chien Payerne
 redige_le: 2026-11-03
 resume: "Détartrage, radiographie des dents et extractions sur place, avec un forfait de 325 francs."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, tarifs, cabinet, plan de prévention), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (accueil, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Dépôt de l'animal à jeun à 8 h, retour à la maison en fin d'après-midi"
-  - "Radiographies dentaires et médicaments à la maison facturés en plus du forfait"
-  - "Appel du vétérinaire avant une extraction qui n'était pas prévue au devis"
-  - "Contrôle sept à dix jours après une extraction"
-  - "Rendez-vous de détartrage fixé par téléphone après une consultation"
-  - "Parage des dents du lapin sous anesthésie, sur devis"
 ---
 
 À Payerne, le détartrage du chien et du chat se fait sous anesthésie, à la clinique Vetmint de la route du Châtelard 13. Le forfait de 45 minutes coûte 325 francs, anesthésie et surveillance comprises. La clinique radiographie les dents sur place, arrache celles qui ne se sauvent plus et soigne les gencives. Elle traite aussi les dents des lapins et des rongeurs.
@@ -94,5 +82,3 @@ Montrez-la en consultation. Une gencive qui a trop poussé se retire, une grosse
 Les signes à repérer et le brossage à la maison sont expliqués sur la page [Tout savoir sur les soins dentaires](/services/soins-dentaires/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

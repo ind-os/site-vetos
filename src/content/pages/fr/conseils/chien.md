@@ -7,11 +7,6 @@ h1: Conseils santé pour le chien
 recherche: conseils santé chien
 redige_le: 2026-10-16
 especes: [chien]
-sources:
-  - contenu-des-pages.md, vetmint.ch/chien/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, bussigny.vetmint.ch/tarifs/ (vaccins du bilan annuel, valable dès le 29 avril 2025)
-  - contenu-des-pages.md, vetmint.ch/plan-de-prevention/ et bussigny.vetmint.ch/abonnements/ (contenu du plan chiot et des abonnements)
-  - contenu-des-pages.md, vetmint.ch/diabete-chez-le-chien/ (stérilisation et diabète de la chienne)
 ---
 
 Ces conseils répondent aux questions que les propriétaires de chiens posent le plus en consultation. Chacun décrit les signes à surveiller, les examens du vétérinaire, le traitement et le moment où il faut appeler.

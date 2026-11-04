@@ -6,25 +6,10 @@ description: "Stérilisation de la chatte dès 210 francs, castration du chat, d
 h1: Stérilisation et castration du chien, du chat et du lapin
 nom: Stérilisation et castration
 recherche: stérilisation chat
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 4
 especes: [chien, chat, nac]
 resume: L'âge, la journée d'opération, les soins à la maison et le forfait de chaque espèce, de la chatte au lapin.
-sources:
-  - grilles tarifaires des huit cliniques (forfaits de stérilisation et de castration, détail de ce qu'ils comprennent), valables dès le 29 avril 2025, Domdidier dès le 1er avril 2023
-  - pages Plan de prévention des huit cliniques et de vetmint.ch (options stérilisation et castration), bussigny.vetmint.ch/abonnements/ (abonnements Junior+)
-  - vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (âge, raisons, lapin jamais à jeun, mâle fertile six semaines)
-  - vetmint.ch/un-bilan-sanguin-pour-mon-animal-quelle-utilite/ (prise de sang avant l'anesthésie)
-  - pages Prestations des huit cliniques (espèces opérées), relevé du 16 octobre 2026
-  - connaissances vétérinaires courantes pour les âges du chien et du chat, la préparation et les suites, à valider par le relecteur
-a_remplacer:
-  - "Dépôt de l'animal le matin entre 7 h 30 et 9 h, retour à la maison le jour même en fin d'après-midi : à confirmer par chaque clinique"
-  - "Appel de la clinique en début d'après-midi après le réveil : à confirmer par les cliniques"
-  - "Stérilisation de la lapine à Payerne, absente de la grille, notée « sur devis » : à confirmer par la clinique"
-  - "Options du plan de prévention (chiot 925 et 1 240 francs, chaton 615 et 755 francs, sites des cliniques) ; vetmint.ch affiche 880, 1 180, 585 et 718 francs : à trancher par Vetmint"
 ---
 
 La stérilisation retire les ovaires d'une femelle, la castration retire les testicules d'un mâle. Les cliniques Vetmint opèrent les chats, les chiens, les lapins et la plupart des rongeurs, sous anesthésie générale, avec un retour à la maison le jour même. La stérilisation d'une chatte coûte de 210 à 260 francs selon la clinique, la castration d'un chat de 105 à 115 francs.
@@ -164,5 +149,3 @@ Le risque existe pour toute anesthésie, mais il reste faible chez un jeune anim
 Une opération se décide après une consultation. Réservez-la en ligne ou par téléphone en indiquant « stérilisation » ou « castration » comme motif ; la date de l'opération se fixe ensuite avec le vétérinaire. Pour le lapin, la page [Stérilisation du lapin](/conseils/sterilisation-du-lapin/) répond aux questions propres à cette espèce. Les autres opérations sont décrites sur la page [Chirurgie](/services/chirurgie/).
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

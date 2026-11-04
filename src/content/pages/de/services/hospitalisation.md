@@ -6,30 +6,10 @@ description: "Stationäre Betreuung von Hund, Katze und Kaninchen bei Vetmint: I
 h1: Stationäre Betreuung von Hund, Katze und Heimtieren
 nom: Stationäre Betreuung
 recherche: stationäre Betreuung Hund Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 10
 resume: Warum ein Tier in der Praxis bleibt, bei Tag und bei Nacht, die Besuche, die Anrufe und der Preis.
-sources:
-  - pages Prestations des huit cliniques (hospitalisation des chiens, chats, rongeurs et lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/cabinet-2/ (salle d'hospitalisation, boxes, espace de visite, espaces d'exercice) et fribourg.vetmint.ch/nac/ (hospitalisation des NAC)
-  - fribourg.vetmint.ch/emploi/ (portrait d'un vétérinaire présent le soir et le week-end pour les animaux hospitalisés)
-  - lacdejoux.vetmint.ch/cabinet-2/ et saintlegier.vetmint.ch/cabinet-2/ (salles d'hospitalisation)
-  - vetmint.ch/peca-pecalbo-2/ (hospitalisation du lapin opéré), vetmint.ch/la-pancreatite-chez-le-chien/ (perfusion), vetmint.ch/mycoplasmose-2/ (oxygène)
-  - vetmint.ch/soins-et-hygiene-dentaires/ (retour le jour même après un détartrage)
-  - connaissances vétérinaires courantes pour les soins, la surveillance et le retour à la maison, à valider par le relecteur
-a_remplacer:
-  - "Prix de la journée d'hospitalisation (95 à 140 CHF selon la taille) : à confirmer par la grille Vetmint"
-  - "Prix de l'hospitalisation de jour (60 CHF) : à confirmer par la grille Vetmint"
-  - "Prix de la perfusion (65 CHF par jour) : à confirmer par la grille Vetmint"
-  - "Nuit sans présence continue hors Fribourg Ouest, contrôle tard le soir et tôt le matin, transfert vers une clinique de garde si besoin : à confirmer par chaque clinique"
-  - "Appel quotidien du vétérinaire en fin de matinée : à confirmer par Vetmint"
-  - "Visites sur rendez-vous pendant les heures d'ouverture : à confirmer par chaque clinique"
-  - "Devis remis à l'admission et mis à jour si le séjour se prolonge : à confirmer par Vetmint"
-  - "Nourriture habituelle et couverture de la maison acceptées : à confirmer par Vetmint"
 ---
 
 Die stationäre Betreuung von Hund und Katze dient dazu, ein Tier in der Praxis zu behandeln, das zu Hause nicht behandelt werden kann. Es erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär. Der Tag kostet je nach Grösse des Tieres 95 bis 140 Franken. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an.
@@ -143,5 +123,3 @@ Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager station�
 Eine stationäre Betreuung wird während einer Konsultation, nach einer Operation oder bei einem Notfall beschlossen. Bei einer geplanten Operation nennt Ihnen die Praxis am Telefon die voraussichtliche Dauer des Aufenthalts. Wählen Sie Ihre Praxis auf der [Karte der Praxen](/de/praxen/).
 
 Zum Weiterlesen: [Pankreatitis beim Hund](/de/ratgeber/pankreatitis-hund/) und [Mykoplasmose bei der Ratte](/de/ratgeber/mykoplasmose-ratte/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

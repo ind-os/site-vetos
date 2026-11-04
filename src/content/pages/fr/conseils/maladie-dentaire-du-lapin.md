@@ -5,19 +5,10 @@ title: "Maladie dentaire du lapin : signes, causes, soins | Vetmint"
 description: "Maladie dentaire chez le lapin : les causes de la malocclusion, les signes qui doivent alerter, le parage des dents sous anesthésie, la prévention par le foin."
 h1: Maladie dentaire chez le lapin
 recherche: maladie dentaire lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 11
 resume: "Dents du lapin qui poussent de travers : causes, signes, parage sous anesthésie et prévention."
-sources:
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (article Maladie dentaire chez les lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (soins dentaires des NAC)
-  - connaissances vétérinaires courantes pour la croissance des dents et l'examen de la bouche, à valider par le relecteur
-a_remplacer:
-  - "Marques et produits de foin et de friandises de l'article d'origine (Cunipic Dental, Botanical Hay, Fibafirst, Loops Selective) retirés ; « orchard grass » rendu par « foin de dactyle » : choix à valider avec le relecteur (charte 7.9)"
 ---
 
 Les dents du lapin poussent toute sa vie, de 2 à 3 mm par semaine environ. En temps normal, la mastication du foin les use au même rythme. Quand cet équilibre se rompt, les dents s'allongent, se déforment et blessent la bouche : c'est la malocclusion, la maladie dentaire la plus fréquente du lapin. Elle se soigne bien quand elle est prise tôt, mais demande en général un suivi à vie.
@@ -105,5 +96,3 @@ La visite annuelle comprend le contrôle des dents. Chez un lapin nain ou à tê
 Les cliniques Vetmint soignent les dents des lapins et des rongeurs, avec des radiographies numériques de la bouche : [soins dentaires](/services/soins-dentaires/) et [médecine des NAC](/services/nac/). La clinique de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/) : parages, radiographies dentaires, extractions, traitement des abcès et des tumeurs de la bouche chez les lapins et les rongeurs.
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

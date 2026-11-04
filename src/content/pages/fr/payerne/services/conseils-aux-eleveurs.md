@@ -8,20 +8,6 @@ h1: Conseils aux éleveurs à Payerne
 recherche: vétérinaire éleveurs Payerne
 redige_le: 2026-11-03
 resume: De la saillie au départ des petits, ce que la clinique de Payerne fait pour une portée.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (informations aux éleveurs, médecine de la reproduction, néonatalogie, césariennes, clichés officiels des hanches et des coudes, castration et stérilisation des NAC, puces miniatures et thermochip, conseils en nutrition), relevé du 16 octobre 2026
-  - payerne.vetmint.ch/plan-de-prevention/ (plans chiot et chaton, options castration et stérilisation)
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, bilans pédiatriques, vaccin contre la rage, suppléments d'urgence)
-  - vetmint.ch/soins-a-domicile/ (district de la Broye, forfait de déplacement de 55 francs)
-  - pages déjà rédigées de Payerne (accueil, urgences, rendez-vous)
-  - page commune /services/conseils-aux-eleveurs/ (durées de gestation, signes d'alerte, prix de la radiographie de comptage)
-a_remplacer:
-  - "Échographie de gestation : absente des pages de Payerne et de sa fiche ; la page commune l'annonce à Payerne à 50 CHF hors consultation"
-  - "Radiographie de comptage à 90 CHF hors consultation (page commune, absente de la grille de Payerne)"
-  - "Prix du dépistage officiel des hanches et des coudes : 390 CHF sur la page commune Radiographie, 320 CHF sur la page commune Conseils aux éleveurs"
-  - "Césarienne sur devis, selon l'espèce, la taille et l'heure"
-  - "Portée entière vue en un seul rendez-vous allongé, fixé par téléphone"
-  - "Visite à domicile pour une portée : un seul forfait de déplacement pour toute la portée"
 ---
 
 La clinique vétérinaire Vetmint Payerne suit les éleveurs de chiens et de chats, de la saillie au départ des petits. Elle fait le bilan de la future mère et les clichés officiels de dysplasie. Si la mise bas se bloque, elle opère la césarienne ; ensuite, elle fait le premier bilan des chiots et des chatons. Les familles qui attendent une seule portée sont reçues de la même façon, comme les propriétaires de lapines, de cochons d'Inde ou de rattes. Une consultation de 30 minutes coûte 57 francs.
@@ -93,5 +79,3 @@ Seulement si elle a sa première portée entre 5 et 8 mois. Plus tard, son bassi
 Le guide Vetmint pour les éleveurs donne la durée de gestation de chaque espèce et les dépistages par race.
 
 [Tout savoir sur le suivi des élevages](/services/conseils-aux-eleveurs/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

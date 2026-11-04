@@ -8,19 +8,6 @@ h1: Radiographie à Payerne
 recherche: radiographie chien Payerne
 redige_le: 2026-11-03
 resume: Une salle de radio numérique à côté du bloc ; l'image se lit avec vous, sur l'écran.
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch/prestations/ (radiologie numérique, clichés officiels des coudes et des hanches, lecture et explication, radiographies des dents) et /cabinet-payerne/ (salle de radiologie reliée à la salle de préparation), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025 (consultation, détartrage, suppléments d'urgence)
-  - pages déjà rédigées de Payerne (accueil, urgences, contact, rendez-vous)
-  - page commune /services/radiographie/ (prix et sédation, eux-mêmes à confirmer)
-a_remplacer:
-  - "Prix : deux clichés lecture comprise 150 CHF, cliché supplémentaire 45 CHF, sédation 60 à 120 CHF (page commune, absents de la grille de Payerne)"
-  - "Prix du dépistage officiel des hanches et des coudes : 390 CHF sur la page commune Radiographie, 320 CHF sur la page commune Conseils aux éleveurs"
-  - "Radiographies des dents facturées en plus du forfait de détartrage de 325 CHF"
-  - "Dépôt de l'animal à 8 h, reprise en fin de journée jusqu'à 18 h (19 h le mardi)"
-  - "Animal sédaté rendu en fin de journée, quand il marche droit"
-  - "Images remises sur demande par e-mail ou par lien de téléchargement"
-  - "Aucun scanner ni IRM à Payerne ; orientation vers une clinique équipée avec le dossier et les radios"
 ---
 
 La clinique Vetmint Payerne fait la radiographie du chien, du chat, du lapin et des rongeurs dans sa propre salle de radio. L'appareil est numérique : quelques secondes après le cliché, l'image s'affiche sur l'écran. Le vétérinaire l'agrandit, vous montre ce qu'il voit et vous dit la suite pendant la même visite. La clinique prend aussi les radios des dents et les clichés officiels des hanches et des coudes que demandent les clubs de race.
@@ -85,5 +72,3 @@ Après le 45ᵉ jour de gestation, quand les squelettes sont visibles. La radio 
 Le guide Vetmint de la radiographie explique ce qu'une radio montre mal, quand une échographie la complète et comment l'équipe se protège des rayons.
 
 [Tout savoir sur la radiographie](/services/radiographie/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -5,20 +5,10 @@ title: "Schnupfen beim Kaninchen: Anzeichen, Behandlung | Vetmint"
 description: "Schnupfen beim Kaninchen: Niesen, laufende Nase, tränende Augen. Was ihn unterhält, wann Sie zur Tierärztin gehen, Untersuchungen und Behandlung. Von Vetmint."
 h1: "Der Schnupfen beim Kaninchen"
 recherche: "Schnupfen Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 13
 resume: "Ein Kaninchen, das niest und eine laufende Nase hat, hat oft einen Schnupfen, der früh erkannt besser heilt."
-sources:
-  - contenu-des-pages.md, vetmint.ch/rhinite-du-lapin/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Délai de deux jours d'écoulement avant de prendre rendez-vous : à confirmer par le vétérinaire relecteur"
-  - "Contagion entre lapins et séparation pendant le traitement : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Ein Schnupfen ist eine Entzündung im Inneren der Nase. Beim Kaninchen geht er oft mit einer Infektion einher. Er kann ein Kaninchen jedes Alters treffen, vor allem wenn es in trockener, staubiger oder verrauchter Luft lebt. Wird er ab den ersten Anzeichen behandelt, heilt er besser. Ohne Behandlung neigt er dazu, anzuhalten und wiederzukehren.
@@ -87,5 +77,3 @@ Die beteiligten Bakterien können zwischen Kaninchen übertragen werden, die zus
 Unsere Tierärztinnen und Tierärzte empfangen Kaninchen zur Konsultation. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was wir für sie tun. Bei einem Schnupfen, der anhält oder wiederkehrt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
 
 [Vetmint-Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

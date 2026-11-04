@@ -7,11 +7,6 @@ h1: "Gesundheitsratgeber für Kaninchen und Heimtiere"
 recherche: "Gesundheitsratgeber Kaninchen Heimtiere"
 redige_le: 2026-10-16
 especes: [nac]
-sources:
-  - contenu-des-pages.md, vetmint.ch/lapin-et-nac/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ et vetmint.ch/le-rat/ (médecine préventive)
-  - contenu-des-pages.md, vetmint.ch/troubles-de-la-ponte-chez-loiseau/ (signes d'urgence de l'oiseau)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ (espèces reçues)
 ---
 
 Zu den Heimtieren zählen Kaninchen, Nager, Frettchen, Vögel und Reptilien. Es sind vor allem Beutetiere: Sie verbergen ihre Symptome und kommen oft spät zur Tierärztin oder zum Tierarzt. Diese Gesundheitsratgeber helfen, früh zu erkennen, was nicht stimmt.

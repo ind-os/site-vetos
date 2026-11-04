@@ -7,14 +7,6 @@ description: "Rendez-vous à la clinique Vetmint Payerne : en ligne, par télé
 h1: Prendre rendez-vous à Payerne
 recherche: rendez-vous vétérinaire Payerne
 redige_le: 2026-10-16
-sources:
-  - contenu-des-pages.md, payerne.vetmint.ch (rendez-vous, accueil, contact), relevé du 16 octobre 2026
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - vetmint.ch/soins-a-domicile/ (règle d'annulation des visites à domicile)
-a_remplacer:
-  - "Délai habituel : un rendez-vous dans les deux à trois jours ouvrables"
-  - "Contrôle après une opération : 15 minutes"
-  - "Annulation au plus tard 24 heures avant, sinon le rendez-vous est facturé (règle des soins à domicile de vetmint.ch, étendue à la clinique)"
 ---
 
 Votre rendez-vous vétérinaire à Payerne se prend en ligne, juste en dessous, à toute heure. Vous pouvez aussi appeler le [026 660 16 16](tel:+41266601616) pendant les heures d'ouverture, écrire sur WhatsApp au même numéro ou passer au comptoir de la route du Châtelard 13.

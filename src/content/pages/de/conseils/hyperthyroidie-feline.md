@@ -5,21 +5,10 @@ title: "Schilddrüsenüberfunktion bei Katzen: Anzeichen | Vetmint"
 description: "Schilddrüsenüberfunktion der Katze: Sie nimmt trotz mehr Futter ab, ist unruhig oder hat Durchfall. Anzeichen, Bluttest zur Bestätigung, Therapie und Kontrolle."
 h1: Schilddrüsenüberfunktion bei der Katze
 recherche: Schilddrüsenüberfunktion Katze
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 4
 resume: Eine Katze über 10 Jahren, die trotz mehr Futter abnimmt, hat oft eine überaktive Schilddrüse.
-sources:
-  - contenu-des-pages.md, vetmint.ch/hyperthyroidie-feline/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, bussigny.vetmint.ch/abonnements/ (contenu de l'abonnement senior chat)
-  - connaissances vétérinaires courantes (charte 5.3) pour l'examen du cou, les signes d'urgence, les traitements et le suivi des reins
-a_remplacer:
-  - "Section « Le traitement et le suivi » (médicament, alimentation pauvre en iode, iode radioactif, opération, contrôle des reins) : absente de l'article d'origine, écrite par la rédaction, à valider par le vétérinaire relecteur"
-  - "Signes d'urgence (respiration bouche ouverte, malaise, perte soudaine de la vue) : ajout de la rédaction, à valider par le vétérinaire relecteur"
-  - "Pesée mensuelle du chat âgé à la maison : conseil de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Wie der Mensch kann auch die Katze an einer Schilddrüsenüberfunktion erkranken. Es ist die häufigste Hormonerkrankung bei Katzen über 10 Jahren. Ihre Schilddrüse, eine kleine Drüse am Hals, bildet zu viele Hormone. Der ganze Körper läuft dann zu schnell: Die Katze frisst mehr, nimmt ab und wird unruhig.
@@ -88,5 +77,3 @@ Das Medikament und die jodarme Ernährung wirken, solange man sie gibt. Radioakt
 Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu untersuchen, das Blut abzunehmen und die möglichen Behandlungen zu besprechen. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten.
 
 [Eine Praxis Vetmint finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

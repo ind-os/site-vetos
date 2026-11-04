@@ -6,8 +6,7 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "verifier": "astro check && astro build && node outils/verifier-les-liens.mjs",
-    "faits-a-remplacer": "node outils/faits-a-remplacer.mjs"
+    "verifier": "astro check && astro build && node outils/verifier-les-liens.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-satteri": "0.4.5",

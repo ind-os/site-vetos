@@ -8,18 +8,6 @@ h1: Zahnbehandlung in Payerne
 recherche: Zahnsteinentfernung Hund Payerne
 redige_le: 2026-11-03
 resume: "Zahnsteinentfernung, Zahnröntgen und Extraktionen vor Ort, mit einer Pauschale von 325 Franken."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, tarifs, cabinet, plan de prévention), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, horaires, accès)"
-  - "pages de Payerne du nouveau site (accueil, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Dépôt de l'animal à jeun à 8 h, retour à la maison en fin d'après-midi"
-  - "Radiographies dentaires et médicaments à la maison facturés en plus du forfait"
-  - "Appel du vétérinaire avant une extraction qui n'était pas prévue au devis"
-  - "Contrôle sept à dix jours après une extraction"
-  - "Rendez-vous de détartrage fixé par téléphone après une consultation"
-  - "Parage des dents du lapin sous anesthésie, sur devis"
 ---
 
 In Payerne erfolgt die Zahnsteinentfernung bei Hund und Katze unter Narkose, in der Tierarztpraxis Vetmint an der Route du Châtelard 13. Die Pauschale von 45 Minuten kostet 325 Franken, Narkose und Überwachung inbegriffen. Die Praxis röntgt die Zähne vor Ort, zieht Zähne, die nicht mehr zu retten sind, und behandelt das Zahnfleisch. Sie behandelt auch die Zähne von Kaninchen und Nagern.
@@ -94,5 +82,3 @@ Zeigen Sie es in der Konsultation. Zahnfleisch, das zu stark gewachsen ist, wird
 Die Anzeichen, auf die Sie achten sollten, und das Zähneputzen zu Hause sind auf der Seite [Alles über die Zahnbehandlung](/de/leistungen/zahnbehandlung/) erklärt.
 
 [Termin vereinbaren](/de/payerne/termin/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

@@ -5,22 +5,10 @@ title: "PECA et PECALBO : opération de l'otite du lapin | Vetmint"
 description: "PECA et PECALBO, l'opération de l'otite sévère du lapin : ce qui est retiré, l'hospitalisation, les soins de l'oreille à la maison, les complications possibles."
 h1: "Fiche de consultation : PECA et PECALBO"
 recherche: opération otite lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 21
 resume: L'opération de l'otite sévère du lapin, l'hospitalisation qui suit et les soins de l'oreille à faire chez vous.
-sources:
-  - contenu-des-pages.md, vetmint.ch/peca-pecalbo-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/otites-chez-les-lapins/ (localisations de l'otite)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ et vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/ (jamais de jeûne, six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (consultation spécialisée NAC, valable dès le 29 avril 2025)
-a_remplacer:
-  - "Prix de l'opération sur devis, selon l'oreille et l'étendue de l'infection : formule de la rédaction, le prix est absent des sources, à confirmer par Vetmint"
-  - "Foin et légumes habituels à apporter pour l'hospitalisation : conseil de la rédaction, à valider par le vétérinaire relecteur"
-  - "Signes qui doivent faire rappeler après l'opération (plaie qui gonfle, sent mauvais ou saigne, tête penchée qui s'aggrave ou ne diminue pas après quelques jours) : ajout de la rédaction, à valider par le vétérinaire relecteur"
 ---
 
 Votre lapin a une otite sévère et le vétérinaire recommande de l'opérer. Les deux opérations proposées portent des noms anglais abrégés. La PECA (*partial ear canal ablation*) est l'ablation partielle du conduit auditif. La PECALBO y ajoute une ostéotomie latérale de la bulle (*lateral bulla osteotomy*) : l'ouverture, par le côté, de l'os qui abrite l'oreille moyenne. Cette opération de l'otite du lapin donne de bons résultats dans la plupart des cas.
@@ -84,5 +72,3 @@ Une fois la cicatrisation achevée, l'opération apporte au lapin un confort dur
 La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins. La clinique Vetmint Fribourg Ouest, à Givisiez, opère les NAC avec une anesthésie adaptée à chaque espèce et propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le prix de l'opération fait l'objet d'un devis, selon l'oreille et l'étendue de l'infection. Les autres prix sont sur la page [Tarifs](/tarifs/).
 
 [Trouver une clinique Vetmint](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -1,7 +1,7 @@
 {
   "id": "domdidier",
   "en_ligne": false,
-  "site_actuel": "https://domdidier.vetmint.ch/",
+  "adresse_hors_ligne": "https://domdidier.vetmint.ch/",
   "nom": "Vetmint Domdidier",
   "lieu": "Domdidier",
   "canton": "FR",
@@ -83,22 +83,5 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintdomdidier/rendezvous"
-  },
-  "sources": [
-    "domdidier.vetmint.ch (accueil, cabinet, contact, équipe, prestations, tarifs, urgences, rendez-vous, soins à domicile, spécialiste, infos), relevé du 16 octobre 2026",
-    "domdidier.vetmint.ch, pages en allemand (Startseite, Praxis, Kontakt, Notfall, Termin), relevé du 16 octobre 2026",
-    "vetmint.ch/cabinets/ (WhatsApp de la clinique), relevé du 16 octobre 2026",
-    "grille tarifaire de Domdidier, valable dès le 1er avril 2023",
-    "coordonnées : carte Google intégrée à la page Contact (Route de Saint-Aubin 58)"
-  ],
-  "a_remplacer": [
-    "Horaires : jeudi jusqu'à 20 h (pages Prestations, Rendez-vous et Infos ; 19 h sur l'accueil et la page Urgences) ; samedi 8 h 30 à 12 h 30 (8 h 30 à 15 h, pas tous les samedis, sur l'accueil) ; lundi à vendredi avec pause de midi (8 h à 18 h en continu sur l'accueil)",
-    "Garde : 0900 904 904 retenu (page Urgences) ; l'accueil affiche le 026 466 34 35",
-    "Repère : à la sortie de Domdidier en direction de Saint-Aubin",
-    "Transports : gare de Domdidier à 10 minutes à pied",
-    "Communes desservies : liste reconstituée d'après la géographie de la Broye",
-    "Langues de Pascale Bonny : français seul, la page Équipe n'en dit rien",
-    "Espèces : furets d'après le tarif du vaccin contre la rage (chien, chat et furet)",
-    "Motifs de rendez-vous et durées : reconstitués, la page de rendez-vous actuelle n'en liste aucun ; ostéopathie 45 minutes, toilettage 60 minutes, visite à domicile 45 minutes"
-  ]
+  }
 }

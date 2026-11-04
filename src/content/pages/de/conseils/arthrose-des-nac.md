@@ -5,21 +5,10 @@ title: "Arthrose bei Kaninchen und Heimtieren: Therapie | Vetmint"
 description: "Arthrose bei Kaninchen und Heimtieren: Steifheit, mangelnde Fellpflege, Springunlust. Anzeichen, Untersuchungen und Behandlung mit Pflege, Boden und Bewegung."
 h1: Arthrose bei Kaninchen und Heimtieren
 recherche: Arthrose Kaninchen
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 16
 resume: Der schmerzhafte Gelenkverschleiss bei Kaninchen und kleinen Säugetieren, der nicht heilt, sich aber lindern lässt.
-sources:
-  - contenu-des-pages.md, vetmint.ch/larthrose-chez-les-nac/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, fribourg.vetmint.ch/douleur/ (consultation douleur, vidéos avant le rendez-vous)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Marques de compléments citées dans l'article d'origine (Rodicare Arthrin, Oxbow Joint Support, Cosequin, Dasuquin) retirées, la page dit « un complément alimentaire » : choix à valider avec le relecteur (charte 7.9)"
-  - "Liste des plantes de l'article d'origine (gingembre, curcuma, harpagophytum, cassis, reine-des-prés, pissenlit, scrofulaire) gardée avec la consigne de ne pas les donner sans avis vétérinaire : à confirmer par le relecteur"
-  - "Espèces citées (cochon d'Inde, rat, furet) et âge d'apparition (animal qui vieillit) : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 Die Arthrose ist ein schmerzhafter Gelenkverschleiss. Sie betrifft das Kaninchen wie die anderen Heimtiere: Meerschweinchen, Ratte, Frettchen. Sie tritt vor allem bei älter werdenden Tieren auf. Die Schäden bilden sich nicht zurück, aber eine angepasste Behandlung lindert den Schmerz und bremst ihr Fortschreiten.
@@ -85,5 +74,3 @@ Jedes Tier reagiert anders. Regelmässige Kontrollen bei der Tierärztin oder be
 Die Seite [Schmerztherapie](/de/leistungen/schmerztherapie/) beschreibt, wie unsere Tierärztinnen und Tierärzte einen chronischen Schmerz beurteilen und behandeln. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [Schmerzkonsultation](/de/fribourg/leistungen/schmerztherapie/) und eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Die übrigen Behandlungen für Kaninchen und Nager sind auf der Seite [Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt.
 
 [Die Praxen Vetmint ansehen](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

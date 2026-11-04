@@ -5,19 +5,10 @@ title: "Zahnerkrankung beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Zahnerkrankung beim Kaninchen: Ursachen der Malokklusion, Anzeichen, die aufmerksam machen sollen, Zahnkorrektur unter Narkose und Vorsorge durch Heu."
 h1: "Zahnerkrankung beim Kaninchen"
 recherche: "Zahnerkrankung Kaninchen"
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 11
 resume: "Schief wachsende Kaninchenzähne: Ursachen, Anzeichen, Zahnkorrektur unter Narkose und Vorsorge."
-sources:
-  - vetmint.ch/maladie-dentaire-chez-les-lapins/ (article Maladie dentaire chez les lapins), relevé du 16 octobre 2026
-  - fribourg.vetmint.ch/nac/ (soins dentaires des NAC)
-  - connaissances vétérinaires courantes pour la croissance des dents et l'examen de la bouche, à valider par le relecteur
-a_remplacer:
-  - "Marques et produits de foin et de friandises de l'article d'origine (Cunipic Dental, Botanical Hay, Fibafirst, Loops Selective) retirés ; « orchard grass » rendu par « foin de dactyle » : choix à valider avec le relecteur (charte 7.9)"
 ---
 
 Die Zähne des Kaninchens wachsen ein Leben lang, etwa 2 bis 3 mm pro Woche. Normalerweise nutzt das Kauen von Heu sie im gleichen Tempo ab. Wenn dieses Gleichgewicht kippt, werden die Zähne länger, verformen sich und verletzen das Maul: Das ist die Malokklusion, die häufigste Zahnerkrankung des Kaninchens. Sie lässt sich gut behandeln, wenn sie früh erkannt wird, verlangt aber in der Regel eine lebenslange Betreuung.
@@ -105,5 +96,3 @@ Der jährliche Besuch umfasst die Kontrolle der Zähne. Bei einem Zwergkaninchen
 Die Vetmint-Praxen behandeln die Zähne von Kaninchen und Nagern, mit digitalen Röntgenbildern des Mauls: [Zahnbehandlung](/de/leistungen/zahnbehandlung/) und [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/): Zahnkorrekturen, Zahnröntgen, Extraktionen, Behandlung von Abszessen und Tumoren im Maul bei Kaninchen und Nagern.
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

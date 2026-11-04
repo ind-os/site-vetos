@@ -6,27 +6,10 @@ description: "Mikrochip für Hund, Katze und Heimtiere bei Vetmint: Setzen in we
 h1: Setzen und Auslesen des Mikrochips
 nom: Mikrochip
 recherche: Mikrochip Hund
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 13
 especes: [chien, chat, nac]
 resume: Der Mikrochip identifiziert Ihr Tier ein Leben lang, verbindet es in AMICUS oder ANIS mit Ihnen und öffnet ihm die Grenzen.
-sources:
-  - pages Prestations des cliniques (pose et lecture de puces, transmission ANIS et AMICUS, puces miniatures et thermochip), relevé du 16 octobre 2026
-  - vetmint.ch/plan-de-prevention/ et pages Plan de prévention des cliniques (puce, passeport et inscription compris, 515 CHF ; vetmint.ch affiche 490 CHF)
-  - bussigny.vetmint.ch/abonnements/ (abonnements Junior, passeport et pose de puce compris)
-  - grilles tarifaires des cliniques (bilan avec vaccin contre la rage et lecture de la puce, 77 à 89 CHF), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/nac/ (pose de puce chez les perroquets)
-  - connaissances vétérinaires courantes pour la pose, la réglementation suisse et les règles de voyage, à valider par le relecteur
-a_remplacer:
-  - "Prix de la pose de puce avec inscription dans AMICUS ou ANIS (65 francs) : à confirmer par Vetmint"
-  - "Prix de la pose d'une puce miniature ou d'un thermochip (85 francs) : à confirmer par Vetmint"
-  - "Prix du passeport pour animal de compagnie (25 francs) : à confirmer par Vetmint"
-  - "Lecture gratuite de la puce d'un animal trouvé : à confirmer par Vetmint"
-  - "Pose de puce à Lac-de-Joux, absente de sa page Prestations : à confirmer par la clinique"
-  - "Plan de prévention chiot ou chaton à 515 francs (sites des huit cliniques) ; vetmint.ch affiche 490 francs : à trancher par Vetmint"
 ---
 
 Der Mikrochip identifiziert Ihr Tier sein ganzes Leben lang. Die Tierärztin oder der Tierarzt setzt ihn in wenigen Sekunden unter die Haut am Hals. Anschliessend trägt sie oder er die Nummer und Ihre Kontaktdaten im Schweizer Register ein: AMICUS für Hunde, ANIS für Katzen. Der Mikrochip ist in der Schweiz für jeden Hund obligatorisch und für jeden Hund, jede Katze und jedes Frettchen, die eine Grenze überqueren. Bei Vetmint kostet das Setzen 65 Franken, Eintrag inbegriffen.
@@ -147,5 +130,3 @@ Für den Mikrochip braucht es keinen eigenen Termin: Verlangen Sie ihn zusammen 
 [Die nächstgelegene Praxis finden](/de/praxen/)
 
 Den Impfkalender finden Sie hier: [Impfung beim Hund](/de/leistungen/impfung-hund/) und [Impfung bei der Katze](/de/leistungen/impfung-katze/).
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

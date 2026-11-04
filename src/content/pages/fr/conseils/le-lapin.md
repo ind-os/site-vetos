@@ -5,22 +5,10 @@ title: "Lapin de compagnie : habitat, alimentation, soins | Vetmint"
 description: "Le lapin de compagnie : comment il vit, l'espace et le sol qu'il lui faut, sa ration de foin, ses vaccins et les signes qui imposent d'appeler le vétérinaire."
 h1: Le lapin de compagnie
 recherche: lapin de compagnie
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 1
 resume: "Vivre avec un lapin : son caractère, son espace, sa ration, ses vaccins et les signes d'alerte."
-sources:
-  - vetmint.ch/le-lapin/ (fiche Le lapin), relevé du 16 octobre 2026
-  - grilles tarifaires des cliniques (bilan de santé annuel avec vaccin pour lapin), valables dès le 29 avril 2025
-  - fribourg.vetmint.ch/nac/ (consultation, soins dentaires et hospitalisation des NAC)
-  - connaissances vétérinaires courantes pour les signes d'alerte, à valider par le relecteur
-a_remplacer:
-  - "Toutes les cliniques Vetmint reçoivent les lapins en consultation de 30 minutes : à confirmer par chaque clinique"
-  - "Marques de tapis (Drybed, Vetbed), de foin et de granulés (Supreme Science Selective, Oxbow, Versele-Laga) et de vaccin (Filavac) de l'article d'origine retirées : choix à valider avec le relecteur (charte 7.9)"
-  - "Liens vers des sites tiers de l'article d'origine (ladureviedulapinurbain.com, rabbits.world) retirés : choix à valider (charte 7.9)"
 ---
 
 Un lapin de compagnie vit 8 à 12 ans quand il dispose d'espace, d'un congénère, de foin à volonté et d'une visite par an chez le vétérinaire. Dans la nature, c'est une proie. Il cache sa douleur, si bien qu'un lapin malade passe souvent pour un lapin tranquille. Mieux vaut connaître les signes d'alerte avant d'en avoir besoin.
@@ -138,5 +126,3 @@ Les cliniques Vetmint reçoivent les lapins en consultation de 30 minutes, pour 
 La clinique de Fribourg Ouest a fait des NAC sa spécialité : consultations, soins dentaires, chirurgie et hospitalisation adaptées à ces espèces. Chaque consultation s'y termine par un document qui résume les soins à faire à la maison ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
 [Trouver une clinique et prendre rendez-vous](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

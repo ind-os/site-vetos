@@ -6,22 +6,10 @@ description: "Heimtiermedizin bei Vetmint: Kaninchen und Nager in allen acht Pra
 h1: Heimtiermedizin, vom Kaninchen bis zum Reptil
 nom: Heimtiere
 recherche: Tierarzt Heimtiere
-auteur: Redaktion Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 ordre: 15
 especes: [nac]
 resume: Kaninchen und Nager in allen acht Praxen, Vögel, Reptilien und komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
-sources:
-  - fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/equipe/ (espèces reçues, consultations, hospitalisation, dents et chirurgie des NAC, parcours de Léo Munné), relevé du 16 octobre 2026
-  - pages Prestations des huit cliniques (opérations, soins dentaires et hospitalisation des lapins et des rongeurs)
-  - grilles tarifaires des cliniques (bilan avec vaccin du lapin, castration et stérilisation du lapin, castration des rongeurs, consultation spécialisée NAC, vaccin contre la rage du furet), valables dès le 29 avril 2025
-  - vetmint.ch/le-lapin/, vetmint.ch/quelques-informations-sur-la-sterilisation-des-lapins/, vetmint.ch/lencephalitozoonose/ (prévention, jeûne, signes d'urgence)
-  - connaissances vétérinaires courantes pour les signes d'alerte par espèce et le transport, à valider par le relecteur
-a_remplacer:
-  - "Orientation des oiseaux, reptiles, poissons et amphibiens vers Fribourg Ouest par les sept autres cliniques : à confirmer par Vetmint"
-  - "Furets reçus dans les huit cliniques : à confirmer par les cliniques"
 ---
 
 Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen Kaninchen und Nager. Vögel, Reptilien und schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert. Eine Konsultation kostet je nach Praxis 54 bis 59 Franken, eine spezialisierte Konsultation ab 60 Franken.
@@ -155,5 +143,3 @@ Dies ist die Praxis der Gruppe, die alle Heimtiere empfängt. Léo Munné, Tiera
 Nennen Sie am Telefon Art, Alter und Anlass. Bei einem Kaninchen, das nicht mehr frisst, sagen Sie es gleich: Es ist ein Notfall. Für einen Vogel, ein Reptil oder eine zweite Meinung zu einem Fall, der sich hinzieht, rufen Sie Fribourg Ouest an.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)
-
-Verfasst von der Redaktion Vetmint. Tierärztliche Prüfung ausstehend.

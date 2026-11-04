@@ -5,20 +5,10 @@ title: "Sablose urinaire du lapin et du cochon d'Inde | Vetmint"
 description: "Sablose urinaire du lapin et du cochon d'Inde : urine épaisse et blanche, sang, douleur. Le rôle du calcium, les examens, le traitement et l'eau à donner."
 h1: La sablose urinaire chez le lapin et le cochon d'Inde
 recherche: sablose urinaire lapin
-auteur: Rédaction Vetmint
-relecteur: en attente
-relu_le: en attente
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
 resume: Du sable de calcium dans la vessie du lapin ou du cochon d'Inde, que l'eau, l'alimentation et le mouvement aident à éviter.
-sources:
-  - contenu-des-pages.md, vetmint.ch/sablose-urinaire-2/ (relevé du 16 octobre 2026)
-  - contenu-des-pages.md, vetmint.ch/le-lapin/ (délai de six heures sans manger)
-  - contenu-des-pages.md, fribourg.vetmint.ch/nac/ et fribourg.vetmint.ch/tarifs/ (valable dès le 29 avril 2025)
-a_remplacer:
-  - "Lien vers le site tiers « La dure vie du lapin urbain » (liste des végétaux riches en calcium) retiré : choix à valider avec le relecteur (charte 7.9)"
-  - "Signes d'urgence (efforts pour uriner sans résultat, cochon d'Inde qui cesse de manger) et question sur l'urine orange ou rouge : ajout de la rédaction, à confirmer par le vétérinaire relecteur"
 ---
 
 La sablose urinaire est la présence d'un sable de cristaux de calcium dans la vessie. Elle touche surtout le lapin et le cochon d'Inde, dont les troubles urinaires sont fréquents. Leur façon d'absorber le calcium les y prédispose. Certaines conditions de vie aggravent le risque. Reconnue tôt, elle se soigne bien, mais elle revient souvent.
@@ -97,5 +87,3 @@ Le vétérinaire adapte la ration à votre animal. La fiche [Alimentation du lap
 Les examens et les soins des lapins et des cochons d'Inde sont présentés sur la page [Médecine des NAC](/services/nac/). La clinique Vetmint Fribourg Ouest, à Givisiez, les reçoit aussi en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Trouver votre clinique](/cliniques/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.

@@ -8,19 +8,17 @@ de forme (en-tête, title, description, titres, volume, liens d'appel, texte com
 de style, propres au français, ne s'appliquent pas.
 
 Options :
-  --essais DOSSIER    dossier des autres pages à comparer (défaut : les pages de la même langue)
-  --contenu FICHIER   contenu des anciens sites (défaut : ../websites/contenu/contenu-des-pages.md, s'il existe)
+  --comparer DOSSIER  dossier des autres pages à comparer (défaut : les pages de la même langue)
   --seuil N           part de texte commun tolérée, en pour cent (défaut : 20)
   --sans-doublons     ne pas mesurer le texte commun (plus rapide)
 
 Contrôles : volume du corps selon le type de page, title, description, H1 unique,
 niveaux de titres, orthographe de « vétérinaire », liens obligatoires, mots et
-tournures interdits, phrases longues, passages sans intertitre, marqueurs
-« [à préciser » et part de texte commune (bardeaux de six mots) avec chaque autre
-page des essais et avec chaque page du contenu actuel.
+tournures interdits, phrases longues, passages sans intertitre, fait laissé
+« [à préciser » dans le texte et part de texte commune (groupes de six mots) avec chaque autre
+page de la même langue.
 
-Code de sortie : 0 si aucune erreur, 1 sinon. Les alertes et les marqueurs
-« [à préciser » ne comptent pas comme des erreurs.
+Code de sortie : 0 si aucune erreur, 1 sinon. Les alertes ne comptent pas comme des erreurs.
 
 Python 3 standard, sans dépendance.
 """
@@ -33,10 +31,9 @@ from pathlib import Path
 
 ICI = Path(__file__).resolve().parent
 PAGES = ICI.parent / "src" / "content" / "pages"
-CONTENU_DEFAUT = ICI.parent.parent / "websites" / "contenu" / "contenu-des-pages.md"
 TAILLE_BARDEAU = 6
 
-# Fourchettes de mots par type de page (charte, section 3).
+# Fourchettes de mots par type de page.
 VOLUMES = {
   "accueil-clinique": (900, 1400),
   "services-clinique": (70, 400),
@@ -60,7 +57,6 @@ VOLUMES = {
 }
 # Les types de page d'une clinique : le fichier est dans <langue>/<clinique>/.
 TYPES_CLINIQUE = {"accueil-clinique", "services-clinique", "equipe", "urgences", "contact", "rendez-vous", "questions-frequentes", "tarifs", "abonnements", "service-clinique"}
-TYPES_SIGNES = {"service", "conseil"}
 
 CLINIQUES = {
   "bussigny": "Bussigny",
@@ -110,7 +106,7 @@ INTERDITS = [
   ("« permet de »", r"\bpermet(?:tent|tant|tra|trait)?\s+(?:de|d')\b"),
   ("point d'exclamation", r"!"),
 ]
-# Mots et tournures à éviter (charte 2.3) : alerte.
+# Mots et tournures à éviter (charte, section 2.3) : alerte.
 A_EVITER = [
   ("méta-texte", r"\b(?:ci-dessous|ci-dessus|voici|voilà|cliquez|n'hésitez pas|découvrez|retrouvez|sur cette page|en trois points)\b"),
   ("connecteur soutenu", r"\b(?:néanmoins|toutefois|en outre|par ailleurs|il convient|force est de|notons que)\b"),
@@ -127,7 +123,6 @@ SIGLES = {"NAC", "CHF", "FIV", "FELV", "ANIS", "AMICUS", "CFF", "GST", "SVS", "P
 MOTIF_VETERINAIRE = re.compile(r"\b(v[eéè]t[eéè]rr?in+aires?)\b", re.IGNORECASE)
 MOTIF_MARQUE = re.compile(r"\bVetMint\b|\bVETMINT\b|\bvetMint\b")
 MOTIF_PRECISER = re.compile(r"\[(?:à|a|À|A) préciser[^\]]*\]")
-MOTIF_PRECISER_MALFORME = re.compile(r"\[(?:a|À|A) préciser|\[à preciser|\[à préciser(?!\s*:)")
 MOTIF_LIEN = re.compile(r"(?<!!)\[([^\]]*)\]\(([^)\"]+?)(?:\s+\"[^\"]*\")?\)")
 MOTIF_IMAGE = re.compile(r"!\[([^\]]*)\]\(([^)\s]+)(?:\s+\"[^\"]*\")?\)")
 MOTIF_TITRE = re.compile(r"^(#{1,6})\s+(.*?)\s*#*\s*$")
@@ -140,13 +135,12 @@ VILLES = [
 
 
 class Rapport:
-  """Accumule erreurs, alertes, marqueurs et informations d'une page."""
+  """Accumule erreurs, alertes et informations d'une page."""
 
   def __init__(self, chemin):
     self.chemin = chemin
     self.erreurs = []
     self.alertes = []
-    self.preciser = []
     self.infos = []
 
   def erreur(self, texte):
@@ -166,12 +160,8 @@ class Rapport:
       print(f"  A  {ligne}")
     for ligne in self.erreurs:
       print(f"  E  {ligne}")
-    if self.preciser:
-      print(f"  ?  {len(self.preciser)} fait(s) à préciser :")
-      for ligne in self.preciser:
-        print(f"       {ligne}")
     etat = "ERREURS" if self.erreurs else "PASSE"
-    detail = f"{len(self.erreurs)} erreur(s), {len(self.alertes)} alerte(s), {len(self.preciser)} à préciser"
+    detail = f"{len(self.erreurs)} erreur(s), {len(self.alertes)} alerte(s)"
     print(f"  => {etat} ({detail})")
 
 
@@ -262,37 +252,6 @@ def bardeaux(mots, taille=TAILLE_BARDEAU):
   return {" ".join(mots[i:i + taille]) for i in range(max(0, len(mots) - taille + 1))}
 
 
-def pages_du_contenu(chemin):
-  """Découpe contenu-des-pages.md en pages : {identifiant: texte}."""
-  if not chemin.exists():
-    return {}
-  pages = {}
-  courante = None
-  lignes = []
-  for ligne in chemin.read_text(encoding="utf-8").split("\n"):
-    if ligne.startswith("## "):
-      if courante:
-        pages[courante] = "\n".join(lignes)
-      titre = ligne[3:].strip()
-      courante = titre if "vetmint.ch" in titre else None
-      lignes = []
-      continue
-    if ligne.startswith("# "):
-      if courante:
-        pages[courante] = "\n".join(lignes)
-      courante = None
-      lignes = []
-      continue
-    if courante is None:
-      continue
-    if re.match(r"^- (?:URL|Titre|Meta description|H1|Robots|Langue|Copie locale|Canonical) :", ligne):
-      continue
-    lignes.append(ligne)
-  if courante:
-    pages[courante] = "\n".join(lignes)
-  return {k: v for k, v in pages.items() if v.strip()}
-
-
 def phrases(texte):
   """Découpe en phrases, ligne par ligne, en protégeant quelques abréviations."""
   resultat = []
@@ -314,7 +273,7 @@ def hrefs_normalises(corps):
   return [m.group(2).strip() for m in MOTIF_LIEN.finditer(corps)]
 
 
-def verifier(chemin, autres_essais, pages_contenu, seuil, mesurer_doublons):
+def verifier(chemin, autres_pages, seuil, mesurer_doublons):
   rapport = Rapport(chemin)
   try:
     texte = chemin.read_text(encoding="utf-8")
@@ -347,20 +306,9 @@ def verifier(chemin, autres_essais, pages_contenu, seuil, mesurer_doublons):
     rapport.erreur(f"champ clinique absent ou inconnu : {clinique!r} (attendu : {', '.join(CLINIQUES)})")
   if not est_clinique and clinique:
     rapport.alerte(f"champ clinique renseigné ({clinique}) sur une page commune")
-  for champ in ("url", "title", "description", "recherche", "redige_le", "sources"):
+  for champ in ("url", "title", "description", "recherche", "redige_le"):
     if not fm.get(champ):
       rapport.erreur(f"champ {champ} absent du frontmatter")
-  if type_page in TYPES_SIGNES:
-    for champ in ("auteur", "relecteur", "relu_le"):
-      if not fm.get(champ):
-        rapport.erreur(f"champ {champ} absent (obligatoire pour une page {type_page})")
-    if allemand:
-      pass
-    elif fm.get("relecteur") == "en attente":
-      if "Relecture vétérinaire en attente" not in corps:
-        rapport.alerte("ligne de signature « Relecture vétérinaire en attente. » absente du corps")
-    elif "Relu par" not in corps:
-      rapport.alerte("ligne de signature « Relu par … » absente du corps")
 
   title = fm.get("title") or ""
   description = fm.get("description") or ""
@@ -473,12 +421,9 @@ def verifier(chemin, autres_essais, pages_contenu, seuil, mesurer_doublons):
   if capitales and not allemand:
     rapport.alerte(f"mots en capitales (sigles exceptés) : {', '.join(capitales[:10])}")
 
-  # Marqueurs à préciser
+  # Faits laissés en blanc
   for m in MOTIF_PRECISER.finditer(tout):
-    rapport.preciser.append(m.group(0))
-  malformes = MOTIF_PRECISER_MALFORME.findall(tout)
-  if malformes:
-    rapport.alerte(f"marqueur mal formé (attendu « [à préciser : … ] ») : {len(malformes)}")
+    rapport.erreur(f"fait laissé en blanc : {m.group(0)} ; demande-le à la personne ou retire la phrase")
 
   # Recherche visée
   recherche = (fm.get("recherche") or "").strip()
@@ -531,21 +476,11 @@ def verifier(chemin, autres_essais, pages_contenu, seuil, mesurer_doublons):
       rapport.alerte("page trop courte pour mesurer le texte commun")
     else:
       resultats = []
-      for nom, texte_autre in autres_essais.items():
+      for nom, texte_autre in autres_pages.items():
         b_autre = bardeaux(normaliser(texte_autre))
         commun = b_page & b_autre
-        resultats.append((len(commun) / len(b_page) * 100, f"essai {nom}", commun))
-      union_contenu = set()
-      for nom, texte_autre in pages_contenu.items():
-        b_autre = bardeaux(normaliser(texte_visible(texte_autre)))
-        union_contenu |= b_autre
-        commun = b_page & b_autre
-        if commun:
-          resultats.append((len(commun) / len(b_page) * 100, f"page actuelle {nom}", commun))
+        resultats.append((len(commun) / len(b_page) * 100, nom, commun))
       resultats.sort(key=lambda r: -r[0])
-      if pages_contenu:
-        part_globale = len(b_page & union_contenu) / len(b_page) * 100
-        rapport.info(f"{part_globale:.1f} % des groupes de six mots existent déjà quelque part dans le contenu actuel")
       for part, nom, commun in resultats[:5]:
         if part <= 0:
           continue
@@ -574,30 +509,27 @@ def extraits(texte, motif, drapeaux=0):
 def main():
   analyseur = argparse.ArgumentParser(description="Vérifie une page Markdown du site Vetmint contre la charte.")
   analyseur.add_argument("pages", nargs="+", type=Path)
-  analyseur.add_argument("--essais", type=Path, default=None)
-  analyseur.add_argument("--contenu", type=Path, default=CONTENU_DEFAUT)
+  analyseur.add_argument("--comparer", type=Path, default=None)
   analyseur.add_argument("--seuil", type=float, default=20.0)
   analyseur.add_argument("--sans-doublons", action="store_true")
   args = analyseur.parse_args()
 
-  pages_contenu = {} if args.sans_doublons else pages_du_contenu(args.contenu)
-
-  def essais_de(page):
+  def autres_pages_de(page):
     """Les autres pages de la même langue, par leur chemin relatif."""
-    dossier = args.essais or PAGES / ("de" if "/de/" in page.resolve().as_posix() else "fr")
-    essais = {}
+    dossier = args.comparer or PAGES / ("de" if "/de/" in page.resolve().as_posix() else "fr")
+    autres = {}
     if not args.sans_doublons and dossier.is_dir():
       for f in sorted(dossier.rglob("*.md")):
         if f.resolve() == page.resolve():
           continue
         fm, corps = lire_frontmatter(f.read_text(encoding="utf-8"))
-        essais[f.relative_to(dossier).as_posix()] = texte_visible(enlever_commentaires(corps))
-    return essais
+        autres[f.relative_to(dossier).as_posix()] = texte_visible(enlever_commentaires(corps))
+    return autres
 
   code = 0
   for page in args.pages:
-    autres = essais_de(page)
-    rapport = verifier(page.resolve(), autres, pages_contenu, args.seuil, not args.sans_doublons)
+    autres = autres_pages_de(page)
+    rapport = verifier(page.resolve(), autres, args.seuil, not args.sans_doublons)
     rapport.imprimer()
     if rapport.erreurs:
       code = 1

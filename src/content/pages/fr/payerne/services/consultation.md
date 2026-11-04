@@ -8,19 +8,6 @@ h1: Consultation vétérinaire à Payerne
 recherche: consultation vétérinaire Payerne
 redige_le: 2026-11-03
 resume: "Trente minutes avec Claire-Lise Tinguely ou Tiago Capelo, pour 57 francs, route du Châtelard 13."
-sources:
-  - "contenu-des-pages.md, payerne.vetmint.ch (prestations, cabinet, contact, tarifs, plan de prévention, accueil), relevé du 16 octobre 2026"
-  - grille tarifaire de Payerne, valable dès le 29 avril 2025
-  - "fiche src/donnees/cliniques/payerne.json (équipe, langues, horaires, accès)"
-  - "pages de Payerne du nouveau site (accueil, équipe, contact, rendez-vous, questions fréquentes)"
-a_remplacer:
-  - "Résultats de la plupart des prises de sang en une demi-heure environ, pendant la consultation"
-  - "Biopsies et cultures envoyées à un laboratoire externe, résultat en une semaine environ"
-  - "Radiographie faite pendant la même visite quand la salle est libre"
-  - "Moyens de paiement : cartes et TWINT (repris de la page Soins à domicile de vetmint.ch)"
-  - "Langues : l'accueil actuel dit « français, allemand et anglais » ; la fiche donne l'allemand à Claire-Lise Tinguely et à Jessy Dizerens, l'anglais à personne"
-  - "Choix du vétérinaire possible à la prise de rendez-vous, selon l'agenda"
-  - "Samedis d'ouverture de 8 h 30 à 15 h, annoncés dans le bandeau du site"
 ---
 
 À Payerne, une consultation vétérinaire dure 30 minutes et coûte 57 francs. Claire-Lise Tinguely et Tiago Capelo, les deux vétérinaires de la clinique Vetmint, y reçoivent les chiens, les chats, les lapins et les rongeurs, du cochon d'Inde au hamster. Les rendez-vous ont lieu route du Châtelard 13, du lundi au vendredi. Le mardi, ils continuent jusqu'à 19 h.
@@ -95,5 +82,3 @@ Non. Appelez le [026 660 16 16](tel:+41266601616) : pendant les heures d'ouvert
 La consultation de 30 minutes et son déroulement sont expliqués en détail sur la page [Tout savoir sur la consultation vétérinaire](/services/consultation/). Les vaccins se font pendant la même visite : voir [la vaccination du chien à Payerne](/payerne/services/vaccination-chien/) et [la vaccination du chat à Payerne](/payerne/services/vaccination-chat/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
-
-Rédigé par la rédaction Vetmint. Relecture vétérinaire en attente.
