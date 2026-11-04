@@ -44,7 +44,7 @@
   /* Couleurs de la charte */
   --marine: #0A4675;          /* titres, navigation, pied de page */
   --menthe: #009C8C;          /* le « mint » du logo, décor ; jamais pour du texte */
-  --menthe-texte: #00857A;    /* boutons et liens sur fond blanc ou gris (contraste 4,5:1) */
+  --menthe-texte: #007A70;    /* boutons et liens sur fond blanc, gris ou menthe pâle (contraste 4,5:1 au moins) */
   --menthe-fonce: #006B62;    /* survol des boutons et des liens */
   --menthe-pale: #E6F4F2;     /* fond d'une pastille de service */
   --gris-bleute: #F2F6F8;     /* fond des sections alternées */

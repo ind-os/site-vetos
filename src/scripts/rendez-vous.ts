@@ -1,7 +1,7 @@
 // Le bouton « Prendre rendez-vous » ouvre l'agenda Calendly dans un panneau pleine hauteur,
-// à droite. Le code de Calendly n'est pas dans le premier affichage : il se charge quand le
-// navigateur est libre, ou dès qu'on approche le bouton. Sans JavaScript, ou si Calendly ne
-// répond pas, le lien ouvre l'agenda dans un onglet. VetLink n'est pas concerné.
+// à droite. Le code de Calendly, et ses cookies, n'arrivent que quand le visiteur approche le
+// bouton (survol, focus clavier, toucher). Sans JavaScript, ou si Calendly ne répond pas, le
+// lien ouvre l'agenda dans un onglet. VetLink n'est pas concerné.
 
 export {};
 
@@ -36,18 +36,6 @@ function chargerCalendly(): Promise<void> {
     document.head.append(script);
   });
   return chargement;
-}
-
-/** Après l'affichage de la page, quand le navigateur n'a plus rien d'urgent. */
-function quandLeNavigateurEstLibre(action: () => void) {
-  const lancer = () => {
-    // requestIdleCallback manque sur de vieux navigateurs : on le traite comme facultatif.
-    const idle = (window as Window & { requestIdleCallback?: Window['requestIdleCallback'] }).requestIdleCallback;
-    if (idle) idle(() => action(), { timeout: 2500 });
-    else window.setTimeout(action, 1200);
-  };
-  if (document.readyState === 'complete') lancer();
-  else window.addEventListener('load', lancer, { once: true });
 }
 
 function preparer() {
@@ -135,8 +123,6 @@ function ouvrir(lien: HTMLAnchorElement) {
       etat.hidden = false;
     });
 }
-
-quandLeNavigateurEstLibre(preparer);
 
 document.addEventListener('pointerover', (evenement) => {
   if ((evenement.target as HTMLElement).closest?.('a[data-rendez-vous="calendly"]')) preparer();

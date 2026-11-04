@@ -11,6 +11,7 @@ import EnTete from '../composants/EnTete.astro';
 import PiedDePage from '../composants/PiedDePage.astro';
 import TeteHtml from '../composants/TeteHtml.astro';
 import { lesCliniques, lienDeLaClinique, type Clinique } from '../lib/cliniques.ts';
+import { premierePhoto } from '../lib/images.ts';
 import { adresse } from '../lib/pages.ts';
 
 interface Props {
@@ -31,6 +32,8 @@ const t = textes(langue);
 const n = t.navigation;
 const autreLangue = langue === 'fr' ? 'de' : 'fr';
 const lien = (cle: string) => adresse(langue, cle);
+// Une page sans photo se partage avec la photo d'accueil de sa clinique, sinon celle du réseau.
+const imageDePartage = image ?? premierePhoto(clinique ? [`${clinique.id}:accueil`, 'accueil'] : ['accueil'], langue)?.src;
 
 const cliniques = await lesCliniques();
 const liensDesCliniques = await Promise.all(
@@ -96,7 +99,7 @@ if (clinique) {
 <!doctype html>
 <html lang={CODES_DE_LANGUE[langue]}>
   <head>
-    <TeteHtml langue={langue} titre={titre} description={description} adresses={adresses} image={image} balisage={balisage} noindex={noindex} />
+    <TeteHtml langue={langue} titre={titre} description={description} adresses={adresses} image={imageDePartage} balisage={balisage} noindex={noindex} />
   </head>
   <body>
     <a class="lien-evitement" href="#contenu">{n.allerAuContenu}</a>

@@ -9,7 +9,7 @@ Chaque bloc est rendu, avec ses variantes et la façon de l'écrire, sur la page
 | Couleur | Valeur | Variable | Sens |
 |---|---|---|---|
 | Marine | `#0A4675` | `--marine` | titres, navigation, pied de page |
-| Menthe | `#00857A` | `--menthe-texte` | ce qui s'active : boutons et liens |
+| Menthe | `#007A70` | `--menthe-texte` | ce qui s'active : boutons et liens ; lisible sur blanc, gris bleuté et menthe pâle |
 | Menthe foncé | `#006B62` | `--menthe-fonce` | survol des boutons et des liens |
 | Menthe du logo | `#009C8C` | `--menthe` | décor seulement ; trop clair pour du texte |
 | Gris bleuté | `#F2F6F8` | `--gris-bleute` | fond des sections alternées et des en-têtes de page |
