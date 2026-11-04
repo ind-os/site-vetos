@@ -56,7 +56,7 @@ Ausserhalb der Öffnungszeiten arbeitet jede Praxis mit einem Notfalldienst ihre
 
 ## Die acht Praxen
 
-Unsere Praxen sind in Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest (Givisiez), Lac-de-Joux (L'Abbaye), Payerne, Saint-Blaise und Saint-Légier. Jede stellt ihr Team auf ihrer Website vor:
+Unsere Praxen sind in Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest (Givisiez), Lac-de-Joux (L'Abbaye), Payerne, Saint-Blaise und Saint-Légier. Jede stellt ihr Team vor:
 
 - [Das Team von Bussigny](/de/bussigny/team/)
 - [Das Team von La Chaux-de-Fonds](/de/chauxdefonds/team/)

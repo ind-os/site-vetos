@@ -19,7 +19,7 @@ Les prix sont en francs suisses, toutes taxes comprises. Ils valent dès le 29 a
 | Prestation | Ce qui est compris | Prix |
 |---|---|---|
 | Consultation sur rendez-vous | 30 minutes : examen complet, questions sur l'appétit, le poids et le comportement, réponses à vos questions | 54 à 59 CHF |
-| Consultation avec thérapie laser | consultation et séance de laser, une lumière qui soulage la douleur et aide la cicatrisation (Bussigny, Saint-Blaise, Saint-Légier) | 62 CHF |
+| Consultation avec thérapie laser | consultation et séance de laser, une lumière qui soulage la douleur et aide la cicatrisation (Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier) | 62 CHF |
 | Consultation d'ostéopathie | consultation et traitement (Domdidier à 111 CHF ; Fribourg Ouest à 140 CHF) | 111 à 140 CHF |
 | Consultation des NAC | lapins, rongeurs, oiseaux, reptiles (Fribourg Ouest) | dès 60 CHF |
 | Consultation de chirurgie | examen par une vétérinaire spécialisée en chirurgie, devis si une opération est nécessaire (Fribourg Ouest) | 120 CHF |

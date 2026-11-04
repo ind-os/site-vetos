@@ -1,24 +1,24 @@
 ---
 type: simple
 url: /confidentialite/
-title: "Politique de confidentialité des sites Vetmint"
-description: "Quelles données les sites Vetmint traitent, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, lettre d'information, mesure d'audience."
+title: "Politique de confidentialité du site Vetmint"
+description: "Quelles données le site Vetmint traite, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, lettre d'information, mesure d'audience."
 h1: Politique de confidentialité
 recherche: politique de confidentialité Vetmint
 redige_le: 2026-10-16
 ---
 
-Vetmint traite peu de données personnelles sur ses sites. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par trois voies : le module de rendez-vous, les e-mails que vous nous envoyez et l'inscription à la lettre d'information. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).
+Vetmint traite peu de données personnelles sur vetmint.ch. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par trois voies : le module de rendez-vous, les e-mails que vous nous envoyez et l'inscription à la lettre d'information. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).
 
 ## Qui est responsable
 
-Le responsable des traitements est Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Il répond de vetmint.ch et des sites des huit cliniques (bussigny.vetmint.ch, chauxdefonds.vetmint.ch, domdidier.vetmint.ch, fribourg.vetmint.ch, lacdejoux.vetmint.ch, payerne.vetmint.ch, saintblaise.vetmint.ch, saintlegier.vetmint.ch).
+Le responsable des traitements est Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Il répond de tout le site vetmint.ch, y compris les pages des huit cliniques, par exemple vetmint.ch/payerne/.
 
 La clinique où vous prenez rendez-vous est responsable des données de ce rendez-vous et du dossier de votre animal. Chaque clinique est une société, par exemple Vetmint Payerne SA. Les raisons sociales et les adresses des cliniques sont dans les [mentions légales](/mentions-legales/).
 
 Pour toute question ou demande, écrivez à [ek@vetmint.ch](mailto:ek@vetmint.ch).
 
-## Ce que nous recevons quand vous consultez un site
+## Ce que nous recevons quand vous consultez le site
 
 ### Les journaux du serveur
 
@@ -30,7 +30,7 @@ Nous comptons les visites avec un outil de mesure d'audience installé sur notre
 
 ### Les cookies
 
-Les sites ne déposent aucun cookie de suivi ni de publicité. Le module de rendez-vous utilise un cookie technique le temps de la réservation, puis il expire. Aucun bandeau de consentement n'est donc nécessaire.
+Le site ne dépose aucun cookie de suivi ni de publicité. Le module de rendez-vous utilise un cookie technique le temps de la réservation, puis il expire. Aucun bandeau de consentement n'est donc nécessaire.
 
 ### Les horaires, les fermetures et la garde
 
@@ -52,17 +52,17 @@ Votre adresse e-mail et la clinique que vous indiquez servent seulement à l'env
 
 ## Où sont vos données
 
-Les sites, la base des horaires et la mesure d'audience sont hébergés en Suisse, sur un serveur loué au nom de Vetmint chez Infomaniak. Les sites ne transfèrent aucune donnée personnelle à l'étranger.
+Le site, la base des horaires et la mesure d'audience sont hébergés en Suisse, sur un serveur loué au nom de Vetmint chez Infomaniak. Le site ne transfère aucune donnée personnelle à l'étranger.
 
-Certains liens mènent vers un service tiers : un itinéraire sur une carte, WhatsApp, les réseaux sociaux de Vetmint. En les suivant, vous quittez nos sites ; la politique de confidentialité de ce tiers s'applique alors.
+Certains liens mènent vers un service tiers : un itinéraire sur une carte, WhatsApp, les réseaux sociaux de Vetmint. En les suivant, vous quittez vetmint.ch ; la politique de confidentialité de ce tiers s'applique alors.
 
 ## Qui y a accès
 
-L'équipe de la clinique voit les rendez-vous pris chez elle. Vetmint SA administre les sites. L'hébergeur et le prestataire qui entretient les sites agissent comme sous-traitants : ils n'utilisent les données que pour faire fonctionner les sites. Nous ne vendons aucune donnée.
+L'équipe de la clinique voit les rendez-vous pris chez elle. Vetmint SA administre le site. L'hébergeur et le prestataire qui entretient le site agissent comme sous-traitants : ils n'utilisent les données que pour faire fonctionner le site. Nous ne vendons aucune donnée.
 
 ## Sécurité
 
-Toutes les pages sont servies de façon chiffrée (HTTPS). L'administration des sites et de la base des horaires demande un mot de passe. Les sauvegardes sont chiffrées et restent en Suisse.
+Toutes les pages sont servies de façon chiffrée (HTTPS). L'administration du site et de la base des horaires demande un mot de passe. Les sauvegardes sont chiffrées et restent en Suisse.
 
 ## Vos droits
 

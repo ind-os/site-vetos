@@ -35,7 +35,7 @@ Une urgence reçue pendant les heures d'ouverture coûte la consultation, 57 fra
 
 ## En dehors des heures d'ouverture
 
-Le 0900 904 904 est le numéro du service de garde que les cabinets vétérinaires pour petits animaux de la région tiennent ensemble. Le vétérinaire de garde répond, évalue la situation avec vous et vous dit où amener votre animal. Ce sera Payerne si l'équipe Vetmint est de garde, sinon le cabinet du vétérinaire de garde, dont il vous donne l'adresse. L'appel coûte 1,70 franc la minute. Le supplément d'urgence en dehors des heures d'ouverture est de 176 francs, en plus des soins.
+Appelez le numéro de garde donné sous « Que faire maintenant ». Ce service de garde est tenu ensemble par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde répond, évalue la situation avec vous et vous dit où amener votre animal. Ce sera Payerne si l'équipe Vetmint est de garde, sinon le cabinet du vétérinaire de garde, dont il vous donne l'adresse. L'appel est surtaxé. Le supplément d'urgence en dehors des heures d'ouverture est de 176 francs, en plus des soins.
 
 ## Les signes qui imposent d'appeler
 
@@ -50,7 +50,7 @@ Pour un chien ou un chat, appelez sans attendre le lendemain si vous voyez l'un 
 - il vomit ou a la diarrhée plusieurs fois de suite, avec du sang ou en restant prostré ;
 - il a mangé du chocolat, du poison contre les souris, de l'antigel, un de vos médicaments ou, pour un chat, du lys ;
 - un œil reste fermé, gonfle ou change de couleur ;
-- une chienne ou une chatte pousse depuis deux heures sans qu'un petit sorte ;
+- une chienne ou une chatte pousse depuis trente minutes sans qu'un petit sorte ;
 - il a eu trop chaud après un effort ou dans une voiture au soleil.
 
 Un lapin, un cochon d'Inde ou un petit rongeur qui ne mange plus et ne fait plus de crottes depuis six heures doit être vu le jour même. Appelez aussi s'il penche la tête, tombe sur le côté, respire bouche ouverte ou a des selles liquides.
@@ -74,4 +74,4 @@ Au comptoir de la route du Châtelard, vous réglez les soins avant de repartir,
 
 ## Pour ce qui n'est pas urgent
 
-Votre chien boite un peu depuis hier, votre chat a une petite boule sous la peau, il tousse sans peiner à respirer : cela relève d'une consultation de 30 minutes. [Réservez un créneau](/payerne/rendez-vous/) dans la semaine. Le chemin et le parking sont décrits sur la page [Contact](/payerne/contact/).
+Votre chien boite un peu depuis hier, votre chat a une petite boule sous la peau, il tousse sans peiner à respirer : cela relève d'une consultation de 30 minutes. [Prenez rendez-vous](/payerne/rendez-vous/) dans la semaine. Le chemin et le parking sont décrits sur la page [Contact](/payerne/contact/).

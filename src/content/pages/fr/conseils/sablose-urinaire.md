@@ -8,7 +8,7 @@ recherche: sablose urinaire lapin
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
-resume: Du sable de calcium dans la vessie du lapin ou du cochon d'Inde, que l'eau, l'alimentation et le mouvement aident à éviter.
+resume: Du sable de calcium dans la vessie du lapin ou du cochon d'Inde, prévenu par l'eau, l'alimentation et le mouvement.
 ---
 
 La sablose urinaire est la présence d'un sable de cristaux de calcium dans la vessie. Elle touche surtout le lapin et le cochon d'Inde, dont les troubles urinaires sont fréquents. Leur façon d'absorber le calcium les y prédispose. Certaines conditions de vie aggravent le risque. Reconnue tôt, elle se soigne bien, mais elle revient souvent.

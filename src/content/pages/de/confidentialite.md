@@ -1,24 +1,24 @@
 ---
 type: simple
 url: /de/datenschutz/
-title: "Datenschutzerklärung der Vetmint-Websites"
-description: "Welche Daten die Vetmint-Websites verarbeiten, warum, wo sie gespeichert sind und wie lange: Termine, E-Mails, Newsletter, Besucherstatistik und Ihre Rechte."
+title: "Datenschutzerklärung der Vetmint-Website"
+description: "Welche Daten die Vetmint-Website verarbeitet, warum, wo sie gespeichert sind und wie lange: Termine, E-Mails, Newsletter, Besucherstatistik und Ihre Rechte."
 h1: "Datenschutzerklärung"
 recherche: "Datenschutzerklärung Vetmint"
 redige_le: 2026-10-16
 ---
 
-Vetmint verarbeitet auf seinen Websites wenig personenbezogene Daten. Die Seiten sind statisch: Sie werden ohne Konto, ohne Anmeldung und ohne Werbe-Cookie angezeigt. Personenbezogene Daten gelangen auf drei Wegen zu uns: über das Terminmodul, über E-Mails, die Sie uns senden, und über die Anmeldung zum Newsletter. Unsere Datenschutzerklärung beschreibt diese Verarbeitungen nach dem Bundesgesetz über den Datenschutz (DSG).
+Vetmint verarbeitet auf vetmint.ch wenig personenbezogene Daten. Die Seiten sind statisch: Sie werden ohne Konto, ohne Anmeldung und ohne Werbe-Cookie angezeigt. Personenbezogene Daten gelangen auf drei Wegen zu uns: über das Terminmodul, über E-Mails, die Sie uns senden, und über die Anmeldung zum Newsletter. Unsere Datenschutzerklärung beschreibt diese Verarbeitungen nach dem Bundesgesetz über den Datenschutz (DSG).
 
 ## Wer verantwortlich ist
 
-Verantwortlich für die Verarbeitungen ist die Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Sie verantwortet vetmint.ch und die Websites der acht Praxen (bussigny.vetmint.ch, chauxdefonds.vetmint.ch, domdidier.vetmint.ch, fribourg.vetmint.ch, lacdejoux.vetmint.ch, payerne.vetmint.ch, saintblaise.vetmint.ch, saintlegier.vetmint.ch).
+Verantwortlich für die Verarbeitungen ist die Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Sie verantwortet die ganze Website vetmint.ch, einschliesslich der Seiten der acht Praxen, zum Beispiel vetmint.ch/de/payerne/.
 
 Die Praxis, bei der Sie einen Termin vereinbaren, ist für die Daten dieses Termins und für die Patientenakte Ihres Tieres verantwortlich. Jede Praxis ist eine Gesellschaft, zum Beispiel die Vetmint Payerne SA. Die Firmennamen und die Adressen der Praxen stehen im [Impressum](/de/impressum/).
 
 Bei Fragen oder Anliegen schreiben Sie an [ek@vetmint.ch](mailto:ek@vetmint.ch).
 
-## Was wir erhalten, wenn Sie eine Website besuchen
+## Was wir erhalten, wenn Sie die Website besuchen
 
 ### Die Server-Protokolle
 
@@ -30,7 +30,7 @@ Wir zählen die Besuche mit einem Statistikwerkzeug, das auf unserem eigenen Ser
 
 ### Die Cookies
 
-Die Websites setzen keine Tracking- und keine Werbe-Cookies. Das Terminmodul verwendet für die Dauer der Buchung ein technisches Cookie, das danach abläuft. Ein Einwilligungsbanner ist deshalb nicht nötig.
+Die Website setzt keine Tracking- und keine Werbe-Cookies. Das Terminmodul verwendet für die Dauer der Buchung ein technisches Cookie, das danach abläuft. Ein Einwilligungsbanner ist deshalb nicht nötig.
 
 ### Öffnungszeiten, Schliessungen und Notfalldienst
 
@@ -52,17 +52,17 @@ Ihre E-Mail-Adresse und die Praxis, die Sie angeben, dienen allein dem Versand d
 
 ## Wo Ihre Daten sind
 
-Die Websites, die Datenbank der Öffnungszeiten und die Besucherstatistik werden in der Schweiz gehostet, auf einem Server, der im Namen von Vetmint bei Infomaniak gemietet ist. Die Websites übermitteln keine personenbezogenen Daten ins Ausland.
+Die Website, die Datenbank der Öffnungszeiten und die Besucherstatistik werden in der Schweiz gehostet, auf einem Server, der im Namen von Vetmint bei Infomaniak gemietet ist. Die Website übermittelt keine personenbezogenen Daten ins Ausland.
 
-Einzelne Links führen zu einem Dienst Dritter: eine Route auf einer Karte, WhatsApp, die sozialen Netzwerke von Vetmint. Mit dem Klick verlassen Sie unsere Websites; es gilt dann die Datenschutzerklärung dieses Dritten.
+Einzelne Links führen zu einem Dienst Dritter: eine Route auf einer Karte, WhatsApp, die sozialen Netzwerke von Vetmint. Mit dem Klick verlassen Sie vetmint.ch; es gilt dann die Datenschutzerklärung dieses Dritten.
 
 ## Wer Zugriff hat
 
-Das Praxisteam sieht die Termine, die bei ihm vereinbart wurden. Die Vetmint SA verwaltet die Websites. Der Hosting-Anbieter und der Dienstleister, der die Websites pflegt, handeln als Auftragsverarbeiter: Sie verwenden die Daten nur, um die Websites zu betreiben. Wir verkaufen keine Daten.
+Das Praxisteam sieht die Termine, die bei ihm vereinbart wurden. Die Vetmint SA verwaltet die Website. Der Hosting-Anbieter und der Dienstleister, der die Website pflegt, handeln als Auftragsverarbeiter: Sie verwenden die Daten nur, um die Website zu betreiben. Wir verkaufen keine Daten.
 
 ## Sicherheit
 
-Alle Seiten werden verschlüsselt ausgeliefert (HTTPS). Die Verwaltung der Websites und der Datenbank der Öffnungszeiten ist passwortgeschützt. Die Sicherungskopien sind verschlüsselt und bleiben in der Schweiz.
+Alle Seiten werden verschlüsselt ausgeliefert (HTTPS). Die Verwaltung der Website und der Datenbank der Öffnungszeiten ist passwortgeschützt. Die Sicherungskopien sind verschlüsselt und bleiben in der Schweiz.
 
 ## Ihre Rechte
 

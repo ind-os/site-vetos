@@ -90,9 +90,9 @@ Une portée entière peut être vue à la clinique ou chez vous. La visite à do
 | Échographie de gestation | examen de l'utérus, battements cardiaques des fœtus | 50 CHF hors consultation, 130 CHF avec la consultation au Lac-de-Joux |
 | Radiographie de comptage | une radiographie du ventre après le 45ᵉ jour | 90 CHF hors consultation |
 | Radiographies officielles des hanches et des coudes | sédation, clichés, envoi à l'organisme de lecture | 320 CHF |
-| Bilan pédiatrique avec vaccins, chiot | consultation de 30 minutes et premier vaccin | 93 CHF |
+| Bilan pédiatrique avec vaccins, chiot | consultation de 30 minutes et premier vaccin | 86 à 94 CHF selon la clinique |
 | Bilan pédiatrique avec vaccins, chaton | consultation de 30 minutes et premier vaccin | 70 à 98 CHF selon le mode de vie |
-| Bilan avec vaccin contre la rage | consultation, vaccin, passeport, lecture de la puce | 77 CHF |
+| Bilan avec vaccin contre la rage | consultation, vaccin, passeport, lecture de la puce | 77 à 89 CHF selon la clinique |
 
 Une césarienne se facture sur devis, selon l'espèce, la taille et l'heure. Tous les prix sont sur la page [Tarifs](/tarifs/). L'acheteur d'un chiot ou d'un chaton peut ensuite souscrire le [plan de prévention](/abonnements/) de sa première année.
 

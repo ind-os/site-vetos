@@ -9,7 +9,7 @@ recherche: consultation vétérinaire
 redige_le: 2026-10-16
 ordre: 1
 especes: [chien, chat, nac]
-resume: Trente minutes pour examiner votre animal en entier, comprendre ce qui ne va pas et décider de la suite avec vous.
+resume: Trente minutes pour examiner votre animal, comprendre ce qui ne va pas et décider de la suite avec vous.
 ---
 
 Une consultation vétérinaire chez Vetmint dure 30 minutes, pour un chien, un chat, un lapin ou un autre petit animal. Ce temps sert à écouter ce que vous avez remarqué, à examiner l'animal en entier et à décider ensemble de la suite. Elle coûte de 54 à 59 francs selon la clinique, examens complémentaires en plus.
@@ -103,7 +103,7 @@ Certaines consultations demandent un savoir-faire ou un appareil particulier. Le
 
 | Consultation | Cliniques | Prix |
 |---|---|---|
-| Consultation avec thérapie laser | Bussigny, Saint-Blaise, Saint-Légier | 62 CHF |
+| Consultation avec thérapie laser | Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier | 62 CHF |
 | Consultation spécialisée NAC | Fribourg Ouest | dès 60 CHF |
 | Consultation d'ostéopathie | Domdidier | 111 CHF |
 | Consultation d'ostéopathie | Fribourg Ouest | 140 CHF |
@@ -143,7 +143,7 @@ Cela dépend de votre contrat. La clinique vous remet une facture détaillée, �
 
 ## Les cliniques qui consultent
 
-Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires de chaque clinique figurent sur son site.
+Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires de chaque clinique figurent sur sa page.
 
 - [Bussigny](/bussigny/services/) : la réservation en ligne propose la consultation, le vaccin, la première visite du chiot ou du chaton et la séance de laser. [Prendre rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation la moins chère du groupe, à 54 francs. La consultation de santé se réserve en ligne. [Prendre rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)

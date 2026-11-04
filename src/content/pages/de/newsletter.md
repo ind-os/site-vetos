@@ -21,7 +21,7 @@ Der Newsletter enthält weder Markenwerbung noch Mitteilungen anderer Unternehme
 
 ## Wie oft
 
-Vier Ausgaben pro Jahr, im März, Juni, September und Dezember. Eine zusätzliche Ausgabe erscheint nur, wenn eine Praxis ihre Adresse oder ihre Öffnungszeiten für längere Zeit ändert. Eine eintägige Schliessung kündigt die Praxis auf ihrer Website an.
+Vier Ausgaben pro Jahr, im März, Juni, September und Dezember. Eine zusätzliche Ausgabe erscheint nur, wenn eine Praxis ihre Adresse oder ihre Öffnungszeiten für längere Zeit ändert. Eine eintägige Schliessung kündigt die Praxis auf ihren Seiten an.
 
 ## Anmelden
 

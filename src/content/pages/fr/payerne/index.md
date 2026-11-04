@@ -16,7 +16,7 @@ La clinique vétérinaire Vetmint Payerne reçoit les chiens, les chats, les lap
 
 ## Rendez-vous et horaires
 
-Appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le module de réservation en ligne montre les créneaux libres de la semaine. Une question qui peut attendre passe par [payerne@vetmint.ch](mailto:payerne@vetmint.ch) : l'équipe répond pendant les heures d'ouverture.
+Appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le module de réservation en ligne montre les heures libres de la semaine. Une question qui peut attendre passe par [payerne@vetmint.ch](mailto:payerne@vetmint.ch) : l'équipe répond pendant les heures d'ouverture.
 
 <!-- donnees: horaires -->
 - Lundi : 8 h à 12 h et 14 h à 18 h
@@ -60,7 +60,7 @@ Les temps de trajet depuis la Broye et les liens d'itinéraire figurent sur la p
 
 ## En cas d'urgence
 
-Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue entre 8 h et 18 h coûte 99 francs de supplément, en plus de la consultation et des soins.
+Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue pendant les heures d'ouverture coûte 99 francs de supplément, en plus de la consultation et des soins.
 
 En dehors des heures d'ouverture, appelez le numéro de garde que les cabinets vétérinaires pour petits animaux de la région tiennent en commun. Le vétérinaire de garde vous dit où amener votre animal ; le supplément de nuit et de week-end est de 176 francs.
 

@@ -9,7 +9,7 @@ recherche: vaccination chat
 redige_le: 2026-10-16
 ordre: 3
 especes: [chat]
-resume: Les vaccins du chaton et du chat adulte selon qu'il sort ou non, faits pendant un bilan de santé de 30 minutes.
+resume: Les vaccins du chaton et du chat adulte, d'intérieur ou d'extérieur, pendant un bilan de santé de 30 minutes.
 ---
 
 Le vaccin protège votre chat contre quatre maladies : le typhus, le coryza, la leucose et la rage. Chez Vetmint, la vaccination du chat se fait pendant le bilan de santé annuel, une consultation de 30 minutes qui comprend l'examen complet de l'animal. Selon la clinique et le mode de vie du chat, ce bilan avec vaccins coûte de 70 à 99 francs.

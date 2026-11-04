@@ -47,7 +47,7 @@ Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, von Montag bis Freitag. Ein
 
 ### Was tun bei einem Notfall in der Nacht?
 
-Rufen Sie die [0900 904 904](tel:0900904904) an, 1.70 Franken pro Minute. Diese Notfallnummer betreiben die Kleintierpraxen der Region. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Tagsüber rufen Sie die Praxis unter [026 660 16 16](tel:+41266601616) an. Die Anzeichen, auf die Sie achten sollten, stehen auf der Seite [Notfall](/de/payerne/notfall/).
+Rufen Sie die Notfallnummer an. Sie wird von den Kleintierpraxen der Region betrieben. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Tagsüber rufen Sie die Praxis unter [026 660 16 16](tel:+41266601616) an. Die Notfallnummer und die Anzeichen, auf die Sie achten sollten, stehen auf der Seite [Notfall](/de/payerne/notfall/).
 
 ### Meine Katze ist beim Tierarzt sehr gestresst. Was tun Sie für sie?
 

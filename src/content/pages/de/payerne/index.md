@@ -60,7 +60,7 @@ Die Fahrzeiten aus der Broye und die Links zur Route stehen auf der Seite [Konta
 
 ## Im Notfall
 
-Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der zwischen 8 und 18 Uhr empfangen wird, kostet 99 Franken Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
+Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet 99 Franken Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
 
 Ausserhalb der Öffnungszeiten rufen Sie die Notfallnummer an, die die Kleintierpraxen der Region gemeinsam betreiben. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen; der Zuschlag für Nacht und Wochenende beträgt 176 Franken.
 

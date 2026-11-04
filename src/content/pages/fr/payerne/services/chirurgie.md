@@ -48,7 +48,7 @@ Chaque opération des tissus mous se paie sur devis. Après la consultation, le 
 |---|---|
 | Consultation de 30 minutes avant l'opération | 57 CHF |
 | Anesthésie gazeuse avec cathéter, perfusion, surveillance et traitement de la douleur | 155 CHF dans le forfait de la chatte, 260 CHF dans celui de la chienne |
-| Supplément d'urgence pendant les heures d'ouverture, de 8 h à 18 h | 99 CHF |
+| Supplément d'urgence pendant les heures d'ouverture | 99 CHF |
 | Supplément d'urgence en dehors des heures d'ouverture | 176 CHF |
 | Opération, analyses, hospitalisation, médicaments | selon le devis |
 

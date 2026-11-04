@@ -56,7 +56,7 @@ En dehors des heures d'ouverture, chaque clinique collabore avec un service de g
 
 ## Les huit cliniques
 
-Nos cliniques sont à Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest (Givisiez), Lac-de-Joux (L'Abbaye), Payerne, Saint-Blaise et Saint-Légier. Chacune présente son équipe sur son site :
+Nos cliniques sont à Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest (Givisiez), Lac-de-Joux (L'Abbaye), Payerne, Saint-Blaise et Saint-Légier. Chacune présente son équipe :
 
 - [L'équipe de Bussigny](/bussigny/equipe/)
 - [L'équipe de La Chaux-de-Fonds](/chauxdefonds/equipe/)

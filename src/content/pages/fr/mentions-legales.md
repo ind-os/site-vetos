@@ -1,14 +1,14 @@
 ---
 type: simple
 url: /mentions-legales/
-title: "Mentions légales des sites Vetmint"
-description: "Éditeur des sites Vetmint, sociétés des huit cliniques, hébergement en Suisse, droits sur les textes et les images, droit applicable. Contact : ek@vetmint.ch."
+title: "Mentions légales du site Vetmint"
+description: "Éditeur du site Vetmint, sociétés des huit cliniques, hébergement en Suisse, droits sur les textes et les images, droit applicable. Contact : ek@vetmint.ch."
 h1: Mentions légales
 recherche: mentions légales Vetmint
 redige_le: 2026-10-16
 ---
 
-Les mentions légales qui suivent valent pour vetmint.ch et pour les sites des huit cliniques Vetmint, tous édités par Vetmint SA. Chaque clinique est exploitée par sa propre société, filiale du groupe.
+Les mentions légales qui suivent valent pour tout le site vetmint.ch, pages des huit cliniques comprises. Le site est édité par Vetmint SA. Chaque clinique est exploitée par sa propre société, filiale du groupe.
 
 ## Éditeur
 
@@ -18,7 +18,7 @@ Numéro IDE : CHE-000.000.000. Registre du commerce du canton de Fribourg.
 
 E-mail : [ek@vetmint.ch](mailto:ek@vetmint.ch)
 
-Vetmint SA est responsable du contenu de vetmint.ch et des sites des cliniques.
+Vetmint SA est responsable du contenu de vetmint.ch, pages des cliniques comprises.
 
 ## Les sociétés des cliniques
 
@@ -37,11 +37,11 @@ Les numéros IDE des sociétés figurent au registre du commerce.
 
 ## Hébergement
 
-Les sites sont hébergés en Suisse, sur un serveur loué au nom de Vetmint SA chez Infomaniak Network SA, Rue Eugène-Marziano 25, 1227 Les Acacias.
+Le site est hébergé en Suisse, sur un serveur loué au nom de Vetmint SA chez Infomaniak Network SA, Rue Eugène-Marziano 25, 1227 Les Acacias.
 
 ## Ce que valent les informations publiées
 
-Les textes des sites informent les propriétaires d'animaux. Un conseil santé ne remplace pas l'examen de votre animal par un vétérinaire. En cas de doute, appelez votre clinique ; en urgence, suivez les indications de la page Urgences de son site.
+Les textes du site informent les propriétaires d'animaux. Un conseil santé ne remplace pas l'examen de votre animal par un vétérinaire. En cas de doute, appelez votre clinique ; en urgence, suivez les indications de sa page Urgences.
 
 Les prix sont donnés en francs suisses, TVA comprise. La grille en vigueur dans la clinique fait foi.
 
@@ -49,11 +49,11 @@ Les horaires, les fermetures et le numéro de garde viennent de la base de donn�
 
 ## Liens vers d'autres sites
 
-Les sites Vetmint renvoient parfois vers des sites tiers : registres d'identification, cartes, réseaux sociaux. Vetmint ne contrôle pas leur contenu et n'en répond pas.
+Le site Vetmint renvoie parfois vers des sites tiers : registres d'identification, cartes, réseaux sociaux. Vetmint ne contrôle pas leur contenu et n'en répond pas.
 
 ## Textes, photos et logos
 
-Les textes, les photos, les logos et la charte graphique des sites appartiennent à Vetmint SA ou sont utilisés avec l'accord de leurs auteurs. Leur reproduction demande l'accord écrit de Vetmint SA. Une citation courte, avec le lien vers la page d'origine, reste libre.
+Les textes, les photos, les logos et la charte graphique du site appartiennent à Vetmint SA ou sont utilisés avec l'accord de leurs auteurs. Leur reproduction demande l'accord écrit de Vetmint SA. Une citation courte, avec le lien vers la page d'origine, reste libre.
 
 ## Réseaux sociaux
 
@@ -61,8 +61,8 @@ Vetmint publie sur [Facebook](https://www.facebook.com/cabinetsvetmint), [Instag
 
 ## Protection des données
 
-Les données traitées par les sites, leur durée de conservation et vos droits sont décrits dans la [politique de confidentialité](/confidentialite/).
+Les données traitées par le site, leur durée de conservation et vos droits sont décrits dans la [politique de confidentialité](/confidentialite/).
 
 ## Droit applicable
 
-Les sites et leur utilisation sont soumis au droit suisse. Le for juridique est à Fribourg.
+Le site et son utilisation sont soumis au droit suisse. Le for juridique est à Fribourg.

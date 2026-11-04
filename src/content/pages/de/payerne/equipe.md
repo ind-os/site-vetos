@@ -5,7 +5,7 @@ url: /de/payerne/team/
 title: "Das Tierärzteteam von Vetmint Payerne"
 description: "Tierärztin und Tierarzt in Payerne, Claire-Lise Tinguely und Tiago Capelo, mit zwei Assistentinnen und zwei Lernenden. Wer was macht, in welcher Sprache."
 h1: "Das Team von Vetmint Payerne"
-recherche: "Tierarzt Payerne"
+recherche: "Tierärzteteam Payerne"
 redige_le: 2026-10-16
 resume: "Eine Tierärztin, ein Tierarzt, zwei Assistentinnen, ein Lernender und eine Vorlernende, Route du Châtelard 13."
 ---

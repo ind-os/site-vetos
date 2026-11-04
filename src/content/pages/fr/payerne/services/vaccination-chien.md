@@ -16,7 +16,7 @@ resume: "Le vaccin du chien pendant un bilan de 30 minutes, 94 francs, chiot ou 
 
 ## Le rendez-vous de vaccin à la clinique
 
-Réservez en ligne le motif « Vaccin et bilan annuel », appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le créneau dure 30 minutes, comme toute consultation à Payerne.
+Réservez en ligne le motif « Vaccin et bilan annuel », appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le rendez-vous dure 30 minutes, comme toute consultation à Payerne.
 
 Votre chien attend avec vous dans la salle d'attente, où des diffuseurs de phéromones l'aident à se détendre. S'il supporte mal les autres chiens, dites-le en arrivant : il peut entrer directement dans une des deux salles de consultation.
 
@@ -78,7 +78,7 @@ Le vaccin de base contient la leptospirose. Cette bactérie vit dans l'eau souil
 
 ### Puis-je faire vacciner deux chiens au même rendez-vous ?
 
-Chaque chien a son bilan de 30 minutes. Demandez deux créneaux qui se suivent : vous ne faites qu'un trajet jusqu'à la route du Châtelard.
+Chaque chien a son bilan de 30 minutes. Demandez deux rendez-vous qui se suivent : vous ne faites qu'un trajet jusqu'à la route du Châtelard.
 
 ### Mon chien a peur en voiture. Le vétérinaire peut-il venir chez moi ?
 

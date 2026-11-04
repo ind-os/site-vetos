@@ -9,7 +9,7 @@ recherche: vétérinaire à domicile
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
-resume: Un vétérinaire vient chez vous pour les soins courants, du lundi au vendredi, avec un forfait de déplacement dès 55 francs.
+resume: Un vétérinaire vient chez vous du lundi au vendredi pour les soins courants, déplacement dès 55 francs.
 ---
 
 Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu du lundi au vendredi, de 7 h 30 à 19 h, sur rendez-vous. Vous payez la consultation au prix de la clinique, plus un forfait de déplacement de 55 francs dans la Riviera vaudoise, la Broye et autour de chaque clinique.

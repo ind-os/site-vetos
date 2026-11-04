@@ -12,7 +12,7 @@ Vetmint réunit huit cliniques vétérinaires en Suisse romande, dans les canton
 
 ## Trouver votre clinique
 
-Chaque clinique a son site, avec son équipe, ses horaires et la prise de rendez-vous : [Bussigny](/bussigny/), [La Chaux-de-Fonds](/chauxdefonds/), [Domdidier](/domdidier/), [Fribourg Ouest](/fribourg/) à Givisiez, [Lac-de-Joux](/lacdejoux/) à L'Abbaye, [Payerne](/payerne/), [Saint-Blaise](/saintblaise/) et [Saint-Légier](/saintlegier/). Quatre cliniques sont dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel.
+Chaque clinique a ses pages, avec son équipe, ses horaires et la prise de rendez-vous : [Bussigny](/bussigny/), [La Chaux-de-Fonds](/chauxdefonds/), [Domdidier](/domdidier/), [Fribourg Ouest](/fribourg/) à Givisiez, [Lac-de-Joux](/lacdejoux/) à L'Abbaye, [Payerne](/payerne/), [Saint-Blaise](/saintblaise/) et [Saint-Légier](/saintlegier/). Quatre cliniques sont dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel.
 
 Certaines cliniques proposent un soin que les autres n'ont pas. Fribourg Ouest tient une consultation pour les NAC et une consultation de la douleur. L'ostéopathie se pratique à Domdidier et à Fribourg Ouest. La thérapie laser est proposée à Bussigny, La Chaux-de-Fonds, Saint-Blaise et Saint-Légier. Le toilettage se fait à Payerne et à Domdidier. Lac-de-Joux opère par laparoscopie, avec de petites incisions et une caméra.
 

@@ -9,7 +9,7 @@ recherche: Mikrochip Hund
 redige_le: 2026-10-16
 ordre: 13
 especes: [chien, chat, nac]
-resume: Der Mikrochip identifiziert Ihr Tier ein Leben lang, verbindet es in AMICUS oder ANIS mit Ihnen und öffnet ihm die Grenzen.
+resume: Der Mikrochip identifiziert Ihr Tier lebenslang, verbindet es in AMICUS oder ANIS mit Ihnen und öffnet ihm die Grenzen.
 ---
 
 Der Mikrochip identifiziert Ihr Tier sein ganzes Leben lang. Die Tierärztin oder der Tierarzt setzt ihn in wenigen Sekunden unter die Haut am Hals. Anschliessend trägt sie oder er die Nummer und Ihre Kontaktdaten im Schweizer Register ein: AMICUS für Hunde, ANIS für Katzen. Der Mikrochip ist in der Schweiz für jeden Hund obligatorisch und für jeden Hund, jede Katze und jedes Frettchen, die eine Grenze überqueren. Bei Vetmint kostet das Setzen 65 Franken, Eintrag inbegriffen.

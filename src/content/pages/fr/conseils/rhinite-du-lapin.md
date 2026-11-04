@@ -8,7 +8,7 @@ recherche: rhinite lapin
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 13
-resume: Un lapin qui éternue et dont le nez coule a souvent une rhinite, qui se soigne mieux quand elle est prise tôt.
+resume: "Un lapin qui éternue et dont le nez coule a souvent une rhinite : prise tôt, elle se soigne mieux."
 ---
 
 Une rhinite est une inflammation de l'intérieur du nez. Chez le lapin, elle va souvent de pair avec une infection. Elle peut toucher un lapin de tout âge, surtout s'il vit dans un air sec, poussiéreux ou enfumé. Soignée dès les premiers signes, elle guérit mieux. Laissée sans traitement, elle a tendance à durer et à revenir.

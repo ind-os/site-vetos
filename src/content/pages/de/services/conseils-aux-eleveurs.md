@@ -90,9 +90,9 @@ Ein ganzer Wurf kann in der Praxis oder bei Ihnen zu Hause untersucht werden. De
 | Trächtigkeitsultraschall | Untersuchung der Gebärmutter, Herzschläge der Föten | CHF 50.– ohne Konsultation, CHF 130.– mit Konsultation in Lac-de-Joux |
 | Röntgenaufnahme zum Zählen | eine Röntgenaufnahme des Bauches nach dem 45. Tag | CHF 90.– ohne Konsultation |
 | Offizielle Röntgenaufnahmen von Hüften und Ellbogen | Sedierung, Aufnahmen, Versand an die Auswertungsstelle | CHF 320.– |
-| Jungtier-Gesundheitscheck mit Impfungen, Welpe | Konsultation von 30 Minuten und erste Impfung | CHF 93.– |
+| Jungtier-Gesundheitscheck mit Impfungen, Welpe | Konsultation von 30 Minuten und erste Impfung | CHF 86.– bis 94.– je nach Praxis |
 | Jungtier-Gesundheitscheck mit Impfungen, Kätzchen | Konsultation von 30 Minuten und erste Impfung | CHF 70.– bis 98.– je nach Lebensweise |
-| Gesundheitscheck mit Tollwutimpfung | Konsultation, Impfung, Heimtierausweis, Auslesen des Mikrochips | CHF 77.– |
+| Gesundheitscheck mit Tollwutimpfung | Konsultation, Impfung, Heimtierausweis, Auslesen des Mikrochips | CHF 77.– bis 89.– je nach Praxis |
 
 Ein Kaiserschnitt wird nach Kostenvoranschlag berechnet, je nach Art, Grösse und Uhrzeit. Alle Preise finden Sie auf der Seite [Preise](/de/preise/). Die Käuferin oder der Käufer eines Welpen oder Kätzchens kann anschliessend den [Präventionsplan](/de/abonnemente/) für das erste Jahr abschliessen.
 

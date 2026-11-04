@@ -65,7 +65,7 @@ En repartant, vous savez quel traitement donner et à quelle heure. Le vétérin
 
 ### Puis-je choisir mon vétérinaire ?
 
-Oui, en le disant au moment de réserver. L'équipe vous propose un créneau avec Claire-Lise Tinguely ou avec Tiago Capelo quand l'agenda le permet. Pour un animal suivi pour une maladie longue, revoir la même personne évite de tout réexpliquer.
+Oui, en le disant au moment de réserver. L'équipe vous propose un rendez-vous avec Claire-Lise Tinguely ou avec Tiago Capelo quand l'agenda le permet. Pour un animal suivi pour une maladie longue, revoir la même personne évite de tout réexpliquer.
 
 ### Puis-je venir après le travail ?
 

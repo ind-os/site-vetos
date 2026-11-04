@@ -8,7 +8,7 @@ recherche: Harngriess Kaninchen
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
-resume: Kalziumgriess in der Blase von Kaninchen oder Meerschweinchen, den Wasser, Ernährung und Bewegung vermeiden helfen.
+resume: Kalziumgriess in der Blase von Kaninchen oder Meerschweinchen, dem Wasser, Ernährung und Bewegung vorbeugen.
 ---
 
 Der Harngriess ist das Vorhandensein von Kalziumkristallen als Griess in der Blase. Er betrifft vor allem Kaninchen und Meerschweinchen, bei denen Harnprobleme häufig sind. Ihre Art, Kalzium aufzunehmen, macht sie dafür anfällig. Gewisse Lebensbedingungen erhöhen das Risiko. Früh erkannt, lässt er sich gut behandeln, kehrt aber oft zurück.

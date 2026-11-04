@@ -28,7 +28,7 @@ Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour f�
 | [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
 | [Saint-Légier](/saintlegier/urgences/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), garde de la Riviera | 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h |
 
-Le nom de chaque clinique mène à sa page Urgences : horaires du jour, adresse, accès et consignes propres à la clinique. Les horaires et le numéro de garde du jour s'y mettent à jour seuls.
+Le nom de chaque clinique mène à sa page Urgences : numéro de garde, adresse, accès et consignes propres à la clinique.
 
 ## Comment fonctionne la garde
 
@@ -126,7 +126,7 @@ Il est hospitalisé, sous perfusion si besoin. Le jour, les huit cliniques hospi
 
 ## Les soins d'urgence dans les cliniques
 
-Pendant les heures d'ouverture, chaque clinique fait sur place les analyses de sang et les radiographies dont une urgence a besoin, puis opère ou hospitalise. L'équipement de chacune est décrit sur sa page Prestations : [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Domdidier](/domdidier/services/), [Fribourg Ouest](/fribourg/services/), [Lac-de-Joux](/lacdejoux/services/), [Payerne](/payerne/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/).
+Pendant les heures d'ouverture, chaque clinique fait sur place les analyses de sang et les radiographies dont une urgence a besoin, puis opère ou hospitalise. L'équipement de chacune est décrit sur sa page Services : [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Domdidier](/domdidier/services/), [Fribourg Ouest](/fribourg/services/), [Lac-de-Joux](/lacdejoux/services/), [Payerne](/payerne/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/).
 
 Quand une urgence mène à une opération, les pages [Chirurgie](/services/chirurgie/) et [Hospitalisation](/services/hospitalisation/) décrivent la suite.
 

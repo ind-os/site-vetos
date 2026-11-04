@@ -19,7 +19,7 @@ Die Preise sind in Schweizer Franken, inklusive aller Steuern. Sie gelten ab dem
 | Leistung | Enthalten | Preis |
 |---|---|---|
 | Konsultation nach Terminvereinbarung | 30 Minuten: vollständige Untersuchung, Fragen zu Appetit, Gewicht und Verhalten, Antworten auf Ihre Fragen | CHF 54–59 |
-| Konsultation mit Lasertherapie | Konsultation und Lasersitzung, ein Licht, das den Schmerz lindert und die Heilung unterstützt (Bussigny, Saint-Blaise, Saint-Légier) | CHF 62.– |
+| Konsultation mit Lasertherapie | Konsultation und Lasersitzung, ein Licht, das den Schmerz lindert und die Heilung unterstützt (Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier) | CHF 62.– |
 | Osteopathie-Konsultation | Konsultation und Behandlung (Domdidier CHF 111.–; Fribourg Ouest CHF 140.–) | CHF 111–140 |
 | Heimtierkonsultation | Kaninchen, Nager, Vögel, Reptilien (Fribourg Ouest) | ab CHF 60.– |
 | Chirurgiekonsultation | Untersuchung durch eine auf Chirurgie spezialisierte Tierärztin, Kostenvoranschlag, falls eine Operation nötig ist (Fribourg Ouest) | CHF 120.– |

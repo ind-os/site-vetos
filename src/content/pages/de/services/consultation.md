@@ -9,7 +9,7 @@ recherche: Tierarzt Konsultation
 redige_le: 2026-10-16
 ordre: 1
 especes: [chien, chat, nac]
-resume: Dreissig Minuten, um Ihr Tier gründlich zu untersuchen, die Ursache zu verstehen und das weitere Vorgehen gemeinsam mit Ihnen festzulegen.
+resume: Dreissig Minuten, um Ihr Tier zu untersuchen, die Ursache zu verstehen und das weitere Vorgehen mit Ihnen festzulegen.
 ---
 
 Eine tierärztliche Konsultation bei Vetmint dauert 30 Minuten, für einen Hund, eine Katze, ein Kaninchen oder ein anderes kleines Heimtier. Diese Zeit dient dazu, zuzuhören, was Ihnen aufgefallen ist, das Tier gründlich zu untersuchen und gemeinsam über das weitere Vorgehen zu entscheiden. Sie kostet 54 bis 59 Franken je nach Praxis, zusätzliche Untersuchungen nicht eingerechnet.
@@ -103,7 +103,7 @@ Manche Konsultationen erfordern besondere Fachkenntnisse oder ein besonderes Ger
 
 | Konsultation | Praxen | Preis |
 |---|---|---|
-| Konsultation mit Lasertherapie | Bussigny, Saint-Blaise, Saint-Légier | CHF 62.– |
+| Konsultation mit Lasertherapie | Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier | CHF 62.– |
 | Spezialisierte Heimtier-Konsultation | Fribourg Ouest | ab CHF 60.– |
 | Osteopathie-Konsultation | Domdidier | CHF 111.– |
 | Osteopathie-Konsultation | Fribourg Ouest | CHF 140.– |

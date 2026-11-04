@@ -28,7 +28,7 @@ In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende u
 | [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
 | [Saint-Légier](/de/saintlegier/notfall/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), Notfalldienst der Riviera | CHF 2.– pro Minute von 8 bis 22 Uhr, CHF 5.– von 22 bis 8 Uhr |
 
-Der Name jeder Praxis führt zu ihrer Seite Notfall: Öffnungszeiten des Tages, Adresse, Anfahrt und Hinweise, die für die Praxis gelten. Die Öffnungszeiten und die Notfallnummer des Tages werden dort automatisch aktualisiert.
+Der Name jeder Praxis führt zu ihrer Seite Notfall: Notfallnummer, Adresse, Anfahrt und Hinweise, die für die Praxis gelten.
 
 ## Wie der Notfalldienst funktioniert
 

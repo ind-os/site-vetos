@@ -8,7 +8,7 @@ recherche: "Pododermatitis Kaninchen"
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
-resume: "Eine Wunde unter den Pfoten des Kaninchens, durch Boden, Gewicht und Bewegungsmangel, die zuerst über die Haltung behandelt wird."
+resume: "Eine Wunde unter den Pfoten des Kaninchens, die zuerst über Boden, Gewicht und Bewegung behandelt wird."
 ---
 
 Die Pododermatitis ist eine Entzündung der Fusssohle. Beim Kaninchen beginnt sie oft unter den Fersen der Hinterpfoten und kann als infizierte Wunde enden. Sie betrifft vor allem Kaninchen, die sich wenig bewegen, zu schwer sind oder auf hartem Boden leben. Sie wird zuerst behandelt, indem man ihre Umgebung ändert.

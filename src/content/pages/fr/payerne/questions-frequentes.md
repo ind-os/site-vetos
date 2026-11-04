@@ -15,7 +15,7 @@ Ces questions sont celles que nos clients posent le plus souvent au téléphone 
 
 ### La clinique est-elle ouverte le samedi ?
 
-Pas chaque samedi. La clinique ouvre du lundi au vendredi, jusqu'à 19 h le mardi. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les créneaux libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
+Pas chaque samedi. La clinique ouvre du lundi au vendredi, jusqu'à 19 h le mardi. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
 
 ### Puis-je déposer mon animal le matin et le reprendre le soir ?
 
@@ -39,7 +39,7 @@ Le plan coûte 515 francs pour un an. Il comprend les consultations sur rendez-v
 
 ### Quels animaux soignez-vous ?
 
-Les chiens, les chats, les lapins et les rongeurs : cochons d'Inde, rats, chinchillas, hamsters, gerbilles et dègues. Nous les opérons aussi, y compris pour la castration et les soins des dents. La page [Prestations](/payerne/services/) dit ce qui se fait sur place.
+Les chiens, les chats, les lapins et les rongeurs : cochons d'Inde, rats, chinchillas, hamsters, gerbilles et dègues. Nous les opérons aussi, y compris pour la castration et les soins des dents. La page [Services](/payerne/services/) dit ce qui se fait sur place.
 
 ### Vous déplacez-vous à domicile ?
 
@@ -47,7 +47,7 @@ Oui, sur rendez-vous, dans tout le district de la Broye, du lundi au vendredi. U
 
 ### Que faire en cas d'urgence la nuit ?
 
-Appelez le [0900 904 904](tel:0900904904), 1,70 franc la minute. Ce numéro de garde est tenu par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde vous dit où amener votre animal. Pendant la journée, appelez la clinique au [026 660 16 16](tel:+41266601616). Les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
+Appelez le numéro de garde. Il est tenu par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde vous dit où amener votre animal. Pendant la journée, appelez la clinique au [026 660 16 16](tel:+41266601616). Le numéro de garde et les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
 
 ### Mon chat est très stressé chez le vétérinaire. Que faites-vous pour lui ?
 

@@ -8,7 +8,7 @@ recherche: Katze Übergewicht
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
-resume: Eine zu dicke Katze lebt schlechter und kürzer; sie abnehmen zu lassen dauert Monate, in einem genauen Tempo.
+resume: Eine zu dicke Katze lebt kürzer; das Abnehmen dauert Monate, in einem genauen Tempo.
 ---
 
 Übergewicht ist ein Überschuss an Fett im Körper. Bei der Katze schadet das Übergewicht der Gesundheit lange bevor die Kilos auffallen: Eine zu dicke Katze abnehmen zu lassen, hilft ihr immer. Es ist eine chronische Krankheit, die sich nicht in wenigen Tagen erledigt. Die Diät dauert Monate, verlangt Geduld und entmutigt manchmal. Das Ergebnis lohnt sich.

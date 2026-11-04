@@ -18,11 +18,11 @@ Dans chaque clinique, ce sont les vétérinaires qui décident des soins. Le gro
 
 ## Comment le groupe s'est formé
 
-Vetmint SA naît en 2021. Ses premières pages présentent deux cabinets, Domdidier et Saint-Légier. Payerne et Saint-Blaise les rejoignent, puis La Chaux-de-Fonds, Fribourg Ouest à Givisiez et Lac-de-Joux à L'Abbaye.
+Vetmint SA naît en 2021. Ses premières pages présentent deux cliniques, Domdidier et Saint-Légier. Payerne et Saint-Blaise les rejoignent, puis La Chaux-de-Fonds, Fribourg Ouest à Givisiez et Lac-de-Joux à L'Abbaye.
 
 Le groupe s'agrandit en reprenant des cabinets existants. Le vétérinaire qui remet son cabinet discute avec un vétérinaire de Vetmint, sans intermédiaire. Il choisit la forme de la reprise, son rôle ensuite et l'avenir de son équipe.
 
-Bussigny est la dernière clinique entrée dans le groupe. Pascal Wicki y soigne les animaux depuis 2000. Vetmint a repris son cabinet, dans les mêmes locaux, à côté de la Migros. Il continue d'y consulter, aux côtés de Philippe Boudaroua.
+Bussigny est la dernière clinique entrée dans le groupe. Pascal Wicki y soigne les animaux depuis 2000. Vetmint a repris sa clinique, dans les mêmes locaux, à côté de la Migros. Il continue d'y consulter, aux côtés de Philippe Boudaroua.
 
 Au fil des années, le groupe a ajouté des services communs. Le plan de prévention du chiot et du chaton, les abonnements mensuels et une grille de tarifs publiée pour les huit cliniques en font partie. Payerne propose le toilettage depuis juillet 2023, avec une assistante en médecine vétérinaire formée comme toiletteuse.
 

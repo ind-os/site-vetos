@@ -15,6 +15,6 @@ Claire-Lise Tinguely et Tiago Capelo se partagent les consultations et les opér
 
 ## Rendez-vous et tarifs
 
-Appelez le [026 660 16 16](tel:+41266601616) ou réservez un créneau en ligne. Les prix de la clinique sont sur la page [Tarifs](/payerne/tarifs/). Le [plan de prévention et les abonnements](/payerne/abonnements/) comprennent des consultations et des vaccins.
+Appelez le [026 660 16 16](tel:+41266601616) ou prenez rendez-vous en ligne. Les prix de la clinique sont sur la page [Tarifs](/payerne/tarifs/). Le [plan de prévention et les abonnements](/payerne/abonnements/) comprennent des consultations et des vaccins.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

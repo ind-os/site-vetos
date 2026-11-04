@@ -33,8 +33,8 @@ Avant une opération, ne donnez plus à manger à votre chien ou à votre chat a
 
 ## Délai et annulation
 
-Comptez en général deux à trois jours ouvrables pour obtenir un créneau. Le mardi, les consultations continuent jusqu'à 19 h, pour venir après le travail. Quand Payerne est complet, la clinique Vetmint de Domdidier, à une dizaine de minutes, a peut-être un créneau. Un empêchement ? Prévenez-nous 24 heures avant au moins, par téléphone ou par e-mail. Une absence non annoncée est facturée.
+Comptez en général deux à trois jours ouvrables pour obtenir un rendez-vous. Le mardi, les consultations continuent jusqu'à 19 h, pour venir après le travail. Quand Payerne est complet, la clinique Vetmint de Domdidier, à une dizaine de minutes, a peut-être une heure libre. Un empêchement ? Prévenez-nous 24 heures avant au moins, par téléphone ou par e-mail. Une absence non annoncée est facturée.
 
 ## Pour une urgence
 
-Un animal qui va mal n'attend pas un créneau. Les numéros à appeler, de jour comme de nuit, sont sur la page [Urgences](/payerne/urgences/) ; le parking et la place de dépose, sur la page [Contact](/payerne/contact/).
+Un animal qui va mal n'attend pas un rendez-vous. Les numéros à appeler, de jour comme de nuit, sont sur la page [Urgences](/payerne/urgences/) ; le parking et la place de dépose, sur la page [Contact](/payerne/contact/).

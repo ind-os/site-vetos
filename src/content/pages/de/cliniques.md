@@ -28,7 +28,7 @@ Telefon [021 703 25 30](tel:+41217032530), E-Mail [bussigny@vetmint.ch](mailto:b
 
 Hunde, Katzen, Kaninchen und Nager. Lasertherapie und Ultraschall vor Ort.
 
-[Die Website von Vetmint Bussigny](/de/bussigny/)
+[Die Praxis Vetmint Bussigny](/de/bussigny/)
 
 ## Vetmint La Chaux-de-Fonds
 
@@ -46,7 +46,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Telefon [032 914 03 48](tel:+
 
 Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten, Hamster, Rennmäuse und Degus. Miniatur-Mikrochips und Thermochips (Chips, die auch die Temperatur messen). Entfilzen von Katzen unter Narkose.
 
-[Die Website von Vetmint La Chaux-de-Fonds](/de/chauxdefonds/)
+[Die Praxis Vetmint La Chaux-de-Fonds](/de/chauxdefonds/)
 
 ## Vetmint Domdidier
 
@@ -65,7 +65,7 @@ Route de Saint-Aubin 58, 1564 Domdidier. Parkplätze in der Nähe. Telefon und W
 
 Hunde, Katzen, Kaninchen und Nager. Osteopathie für Hunde und Katzen, Fellpflege, Hausbesuche. Konsultationen auf Französisch, Portugiesisch und Englisch.
 
-[Die Website von Vetmint Domdidier](/de/domdidier/)
+[Die Praxis Vetmint Domdidier](/de/domdidier/)
 
 ## Vetmint Fribourg Ouest
 
@@ -82,7 +82,7 @@ Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freib
 
 Hunde und Katzen, Kaninchen, Nager, Vögel und Reptilien. Heimtierkonsultation, Schmerzkonsultation, Osteopathie und Chirurgiekonsultation.
 
-[Die Website von Vetmint Fribourg Ouest](/de/fribourg/)
+[Die Praxis Vetmint Fribourg Ouest](/de/fribourg/)
 
 ## Vetmint Lac-de-Joux
 
@@ -99,7 +99,7 @@ Route de l'Hôtel-de-Ville 11, 1344 L'Abbaye, am Lac de Joux. Telefon [021 357 8
 
 Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten und Degus. Operationen mit Laparoskopie (kleine Schnitte und Kamera), Ultraschall vor Ort. Notfälle werden während der Öffnungszeiten empfangen.
 
-[Die Website von Vetmint Lac-de-Joux](/de/lacdejoux/)
+[Die Praxis Vetmint Lac-de-Joux](/de/lacdejoux/)
 
 ## Vetmint Payerne
 
@@ -118,7 +118,7 @@ Route du Châtelard 13, 1530 Payerne. Telefon und WhatsApp [026 660 16 16](tel:+
 
 Hunde, Katzen, Kaninchen und Nager. Fellpflege durch eine Tiermedizinische Praxisassistentin mit Zusatzausbildung in Fellpflege. Das Team spricht Französisch und Deutsch.
 
-[Die Website von Vetmint Payerne](/de/payerne/)
+[Die Praxis Vetmint Payerne](/de/payerne/)
 
 ## Vetmint Saint-Blaise
 
@@ -135,11 +135,11 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Telefon [032 753 11 22](tel:+413275
 
 Hunde, Katzen, Kaninchen und Nager. Lasertherapie und Trächtigkeitsultraschall.
 
-[Die Website von Vetmint Saint-Blaise](/de/saintblaise/)
+[Die Praxis Vetmint Saint-Blaise](/de/saintblaise/)
 
 ## Vetmint Saint-Légier
 
-Route des Deux-Villages 21, 1806 Saint-Légier. Telefon [021 683 10 10](tel:+41216831010), WhatsApp [079 388 16 44](https://wa.me/41793881644), E-Mail [st-legier@vetmint.ch](mailto:st-legier@vetmint.ch).
+Route des Deux-Villages 21, 1806 Saint-Légier-La Chiésaz. Telefon [021 683 10 10](tel:+41216831010), WhatsApp [079 388 16 44](https://wa.me/41793881644), E-Mail [st-legier@vetmint.ch](mailto:st-legier@vetmint.ch).
 
 <!-- donnees: horaires -->
 - Montag bis Freitag: 8–18 Uhr
@@ -152,4 +152,4 @@ Route des Deux-Villages 21, 1806 Saint-Légier. Telefon [021 683 10 10](tel:+412
 
 Hunde, Katzen, Kaninchen und Nager. Ultraschall von Bauch und Herz, Lasertherapie.
 
-[Die Website von Vetmint Saint-Légier](/de/saintlegier/)
+[Die Praxis Vetmint Saint-Légier](/de/saintlegier/)

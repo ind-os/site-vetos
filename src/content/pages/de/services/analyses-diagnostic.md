@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/labor-diagnostik/
-title: "Blutuntersuchung bei Hund und Katze: Dauer, Preise | Vetmint"
+title: "Blutanalyse bei Hund und Katze: Dauer, Preise | Vetmint"
 description: "Blut-, Urin-, Kot- und Hautuntersuchungen bei Vetmint: die meisten Resultate noch während der Konsultation, Biopsien im externen Labor. Alle Preise im Detail."
 h1: "Labor und Diagnostik: Blut, Urin, Haut und Biopsien"
 nom: Labor und Diagnostik
-recherche: Blutuntersuchung Hund Katze
+recherche: Blutanalyse Hund Katze
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 7
 resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht, die Wartezeiten und die Preise.
 ---
 
-Eine Blutuntersuchung beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Ein grosses Blutbild kostet 145 Franken; Biopsien gehen an ein externes Labor.
+Eine Blutanalyse beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Ein grosses Blutbild kostet 145 Franken; Biopsien gehen an ein externes Labor.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 

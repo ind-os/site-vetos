@@ -8,7 +8,7 @@ recherche: chat en surpoids
 redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
-resume: Un chat trop gros vit moins bien et moins longtemps ; le faire maigrir prend des mois, à un rythme précis.
+resume: Un chat trop gros vit moins longtemps ; le faire maigrir prend des mois, à un rythme précis.
 ---
 
 L'obésité est un excès de graisse dans le corps. Chez le chat, le surpoids nuit à la santé bien avant les kilos spectaculaires : faire maigrir un chat trop gros lui rend toujours service. C'est une maladie chronique, qui ne se règle pas en quelques jours. Le régime dure des mois, demande de la patience et décourage parfois. Le résultat en vaut la peine.

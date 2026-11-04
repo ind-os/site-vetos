@@ -9,7 +9,7 @@ recherche: Tierarzt Hausbesuch
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
-resume: Eine Tierärztin oder ein Tierarzt kommt für Routinebehandlungen zu Ihnen nach Hause, von Montag bis Freitag, mit einer Anfahrtspauschale ab 55 Franken.
+resume: Eine Tierärztin oder ein Tierarzt kommt von Montag bis Freitag für Routinebehandlungen zu Ihnen, Anfahrt ab 55 Franken.
 ---
 
 Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden von Montag bis Freitag, von 7.30 bis 19 Uhr, nach Vereinbarung statt. Sie bezahlen die Konsultation zum Preis der Praxis, dazu eine Anfahrtspauschale von 55 Franken an der Waadtländer Riviera, in der Broye und rund um jede Praxis.

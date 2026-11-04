@@ -28,7 +28,7 @@ Téléphone [021 703 25 30](tel:+41217032530), e-mail [bussigny@vetmint.ch](mail
 
 Chiens, chats, lapins et rongeurs. Thérapie laser et échographie sur place.
 
-[Le site de Vetmint Bussigny](/bussigny/)
+[La clinique Vetmint Bussigny](/bussigny/)
 
 ## Vetmint La Chaux-de-Fonds
 
@@ -46,7 +46,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Téléphone [032 914 03 48](t
 
 Chiens, chats, lapins, cochons d'Inde, chinchillas, rats, hamsters, gerbilles et dègues. Puces électroniques miniatures et thermochips (puces qui mesurent aussi la température). Défeutrage des chats sous anesthésie.
 
-[Le site de Vetmint La Chaux-de-Fonds](/chauxdefonds/)
+[La clinique Vetmint La Chaux-de-Fonds](/chauxdefonds/)
 
 ## Vetmint Domdidier
 
@@ -65,7 +65,7 @@ Route de Saint-Aubin 58, 1564 Domdidier. Places de parc à proximité. Télépho
 
 Chiens, chats, lapins et rongeurs. Ostéopathie pour chiens et chats, toilettage, soins à domicile. Consultations en français, en portugais et en anglais.
 
-[Le site de Vetmint Domdidier](/domdidier/)
+[La clinique Vetmint Domdidier](/domdidier/)
 
 ## Vetmint Fribourg Ouest
 
@@ -82,7 +82,7 @@ Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entr
 
 Chiens et chats, lapins, rongeurs, oiseaux et reptiles. Consultation des NAC, consultation de la douleur, ostéopathie et consultation de chirurgie.
 
-[Le site de Vetmint Fribourg Ouest](/fribourg/)
+[La clinique Vetmint Fribourg Ouest](/fribourg/)
 
 ## Vetmint Lac-de-Joux
 
@@ -99,7 +99,7 @@ Route de l'Hôtel-de-Ville 11, 1344 L'Abbaye, près du lac de Joux. Téléphone 
 
 Chiens, chats, lapins, cochons d'Inde, chinchillas, rats et dègues. Opérations par laparoscopie (petites incisions et caméra), échographie sur place. Les urgences sont reçues pendant les heures d'ouverture.
 
-[Le site de Vetmint Lac-de-Joux](/lacdejoux/)
+[La clinique Vetmint Lac-de-Joux](/lacdejoux/)
 
 ## Vetmint Payerne
 
@@ -118,7 +118,7 @@ Route du Châtelard 13, 1530 Payerne. Téléphone et WhatsApp [026 660 16 16](te
 
 Chiens, chats, lapins et rongeurs. Toilettage par une assistante en médecine vétérinaire toiletteuse. L'équipe parle français et allemand.
 
-[Le site de Vetmint Payerne](/payerne/)
+[La clinique Vetmint Payerne](/payerne/)
 
 ## Vetmint Saint-Blaise
 
@@ -135,11 +135,11 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Téléphone [032 753 11 22](tel:+41
 
 Chiens, chats, lapins et rongeurs. Thérapie laser et échographie de gestation.
 
-[Le site de Vetmint Saint-Blaise](/saintblaise/)
+[La clinique Vetmint Saint-Blaise](/saintblaise/)
 
 ## Vetmint Saint-Légier
 
-Route des Deux-Villages 21, 1806 Saint-Légier. Téléphone [021 683 10 10](tel:+41216831010), WhatsApp [079 388 16 44](https://wa.me/41793881644), e-mail [st-legier@vetmint.ch](mailto:st-legier@vetmint.ch).
+Route des Deux-Villages 21, 1806 Saint-Légier-La Chiésaz. Téléphone [021 683 10 10](tel:+41216831010), WhatsApp [079 388 16 44](https://wa.me/41793881644), e-mail [st-legier@vetmint.ch](mailto:st-legier@vetmint.ch).
 
 <!-- donnees: horaires -->
 - Lundi à vendredi : 8 h à 18 h
@@ -152,4 +152,4 @@ Route des Deux-Villages 21, 1806 Saint-Légier. Téléphone [021 683 10 10](tel:
 
 Chiens, chats, lapins et rongeurs. Échographie du ventre et du cœur, thérapie laser.
 
-[Le site de Vetmint Saint-Légier](/saintlegier/)
+[La clinique Vetmint Saint-Légier](/saintlegier/)

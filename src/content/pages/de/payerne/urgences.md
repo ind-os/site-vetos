@@ -35,7 +35,7 @@ Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet die Konsult
 
 ## Ausserhalb der Öffnungszeiten
 
-Die 0900 904 904 ist die Nummer des Notfalldienstes, den die Kleintierpraxen der Region gemeinsam betreiben. Die diensthabende Tierärztin oder der diensthabende Tierarzt antwortet, beurteilt die Lage mit Ihnen und sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Das ist Payerne, wenn das Vetmint-Team Dienst hat, sonst die Praxis der diensthabenden Tierärztin oder des diensthabenden Tierarztes, deren Adresse sie oder er Ihnen gibt. Der Anruf kostet 1.70 Franken pro Minute. Der Notfallzuschlag ausserhalb der Öffnungszeiten beträgt 176 Franken, zusätzlich zu den Behandlungen.
+Rufen Sie die Notfallnummer an, die unter «Was jetzt zu tun ist» steht. Diesen Notfalldienst betreiben die Kleintierpraxen der Region gemeinsam. Die diensthabende Tierärztin oder der diensthabende Tierarzt antwortet, beurteilt die Lage mit Ihnen und sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Das ist Payerne, wenn das Vetmint-Team Dienst hat, sonst die Praxis der diensthabenden Tierärztin oder des diensthabenden Tierarztes, deren Adresse sie oder er Ihnen gibt. Der Anruf ist kostenpflichtig. Der Notfallzuschlag ausserhalb der Öffnungszeiten beträgt 176 Franken, zusätzlich zu den Behandlungen.
 
 ## Die Anzeichen, bei denen Sie anrufen müssen
 
@@ -50,7 +50,7 @@ Bei einem Hund oder einer Katze rufen Sie ohne Warten auf den nächsten Tag an, 
 - es erbricht oder hat mehrmals hintereinander Durchfall, mit Blut oder apathisch;
 - es hat Schokolade, Mäusegift, Frostschutzmittel, eines Ihrer Medikamente oder, bei einer Katze, Lilien gefressen;
 - ein Auge bleibt geschlossen, schwillt an oder verändert die Farbe;
-- eine Hündin oder Katze presst seit zwei Stunden, ohne dass ein Junges kommt;
+- eine Hündin oder Katze presst seit dreissig Minuten, ohne dass ein Junges kommt;
 - es hatte zu heiss nach einer Anstrengung oder in einem Auto in der Sonne.
 
 Kaninchen, Meerschweinchen und kleine Nager, die nicht mehr fressen und seit sechs Stunden keinen Kot mehr absetzen, müssen noch am selben Tag gesehen werden. Rufen Sie auch an, wenn sie den Kopf schief halten, zur Seite fallen, mit offenem Maul atmen oder flüssigen Kot haben.

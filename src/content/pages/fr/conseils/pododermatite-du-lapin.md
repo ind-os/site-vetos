@@ -8,7 +8,7 @@ recherche: pododermatite lapin
 redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
-resume: Une plaie sous les pattes du lapin, liée au sol, au poids et au manque d'exercice, qui se soigne d'abord par le mode de vie.
+resume: Une plaie sous les pattes du lapin, qui se soigne d'abord par le sol, le poids et l'exercice.
 ---
 
 La pododermatite est une inflammation de la plante des pieds. Chez le lapin, elle commence souvent sous les talons des pattes arrière et peut finir en plaie infectée. Elle touche surtout les lapins qui bougent peu, qui sont trop lourds ou qui vivent sur un sol dur. Elle se soigne d'abord en changeant leur environnement.

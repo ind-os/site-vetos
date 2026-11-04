@@ -5,7 +5,7 @@ url: /payerne/equipe/
 title: L'équipe vétérinaire de Vetmint Payerne
 description: "Deux vétérinaires à Payerne, Claire-Lise Tinguely et Tiago Capelo, avec deux assistantes et deux jeunes en formation. Qui fait quoi, en quelle langue."
 h1: L'équipe de Vetmint Payerne
-recherche: vétérinaire Payerne
+recherche: équipe vétérinaire Payerne
 redige_le: 2026-10-16
 resume: Deux vétérinaires, deux assistantes, un apprenti et une préapprentie, route du Châtelard 13.
 ---
@@ -30,7 +30,7 @@ Tiago Capelo est le second vétérinaire de la clinique de Payerne. Il reçoit e
 
 ### Voir le même vétérinaire d'une visite à l'autre
 
-Un animal suivi pour une maladie longue, comme une insuffisance rénale ou une arthrose (usure douloureuse des articulations), gagne à revoir la même personne. Elle connaît son dossier, ses habitudes et ses réactions à l'examen. Au téléphone ou au comptoir, demandez le vétérinaire qui le suit : l'équipe cherche un créneau avec lui quand l'agenda le permet. Pour une urgence, c'est le vétérinaire présent qui reçoit votre animal ; il lit le dossier avant de l'examiner.
+Un animal suivi pour une maladie longue, comme une insuffisance rénale ou une arthrose (usure douloureuse des articulations), gagne à revoir la même personne. Elle connaît son dossier, ses habitudes et ses réactions à l'examen. Au téléphone ou au comptoir, demandez le vétérinaire qui le suit : l'équipe cherche un rendez-vous avec lui quand l'agenda le permet. Pour une urgence, c'est le vétérinaire présent qui reçoit votre animal ; il lit le dossier avant de l'examiner.
 
 ## Les assistantes en médecine vétérinaire
 
@@ -68,9 +68,9 @@ La consultation dure 30 minutes. Le vétérinaire examine votre animal de la tê
 
 ### Le jour d'une opération
 
-Vous déposez votre animal le matin et vous le reprenez en fin de journée. L'assistante prépare la salle d'opération et le matériel d'anesthésie. Le vétérinaire examine l'animal avant de l'endormir, l'opère, puis l'assistante surveille son réveil. Le vétérinaire vous téléphone quand l'opération est finie. Le détail des soins et des examens faits sur place est sur la page [Prestations](/payerne/services/).
+Vous déposez votre animal le matin et vous le reprenez en fin de journée. L'assistante prépare la salle d'opération et le matériel d'anesthésie. Le vétérinaire examine l'animal avant de l'endormir, l'opère, puis l'assistante surveille son réveil. Le vétérinaire vous téléphone quand l'opération est finie. Le détail des soins et des examens faits sur place est sur la page [Services](/payerne/services/).
 
-Pour voir l'un des deux vétérinaires, appelez le [026 660 16 16](tel:+41266601616) ou choisissez un créneau en ligne.
+Pour voir l'un des deux vétérinaires, appelez le [026 660 16 16](tel:+41266601616) ou prenez rendez-vous en ligne.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 

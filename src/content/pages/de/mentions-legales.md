@@ -1,14 +1,14 @@
 ---
 type: simple
 url: /de/impressum/
-title: "Impressum der Vetmint-Websites"
-description: "Herausgeberin der Vetmint-Websites, Gesellschaften der acht Praxen, Hosting in der Schweiz, Urheberrechte und anwendbares Recht. Kontakt: ek@vetmint.ch."
+title: "Impressum der Vetmint-Website"
+description: "Herausgeberin der Vetmint-Website, Gesellschaften der acht Praxen, Hosting in der Schweiz, Urheberrechte und anwendbares Recht. Kontakt: ek@vetmint.ch."
 h1: "Impressum"
 recherche: "Impressum Vetmint"
 redige_le: 2026-10-16
 ---
 
-Das nachstehende Impressum gilt für vetmint.ch und für die Websites der acht Vetmint-Praxen, die alle von der Vetmint SA herausgegeben werden. Jede Praxis wird von einer eigenen Gesellschaft betrieben, einer Tochtergesellschaft der Gruppe.
+Das nachstehende Impressum gilt für die ganze Website vetmint.ch, einschliesslich der Seiten der acht Praxen. Die Website wird von der Vetmint SA herausgegeben. Jede Praxis wird von einer eigenen Gesellschaft betrieben, einer Tochtergesellschaft der Gruppe.
 
 ## Herausgeberin
 
@@ -18,7 +18,7 @@ UID-Nummer: CHE-000.000.000. Handelsregister des Kantons Freiburg.
 
 E-Mail: [ek@vetmint.ch](mailto:ek@vetmint.ch)
 
-Die Vetmint SA ist für den Inhalt von vetmint.ch und der Websites der Praxen verantwortlich.
+Die Vetmint SA ist für den Inhalt von vetmint.ch verantwortlich, einschliesslich der Seiten der Praxen.
 
 ## Die Gesellschaften der Praxen
 
@@ -37,11 +37,11 @@ Die UID-Nummern der Gesellschaften stehen im Handelsregister.
 
 ## Hosting
 
-Die Websites werden in der Schweiz gehostet, auf einem Server, der im Namen der Vetmint SA bei der Infomaniak Network SA, Rue Eugène-Marziano 25, 1227 Les Acacias, gemietet ist.
+Die Website wird in der Schweiz gehostet, auf einem Server, der im Namen der Vetmint SA bei der Infomaniak Network SA, Rue Eugène-Marziano 25, 1227 Les Acacias, gemietet ist.
 
 ## Was die veröffentlichten Informationen gelten
 
-Die Texte der Websites informieren Tierhalterinnen und Tierhalter. Ein Gesundheitsratgeber ersetzt die Untersuchung Ihres Tieres durch eine Tierärztin oder einen Tierarzt nicht. Im Zweifel rufen Sie Ihre Praxis an; im Notfall befolgen Sie die Hinweise auf der Notfallseite ihrer Website.
+Die Texte der Website informieren Tierhalterinnen und Tierhalter. Ein Gesundheitsratgeber ersetzt die Untersuchung Ihres Tieres durch eine Tierärztin oder einen Tierarzt nicht. Im Zweifel rufen Sie Ihre Praxis an; im Notfall befolgen Sie die Hinweise auf ihrer Notfallseite.
 
 Die Preise sind in Schweizer Franken inklusive Mehrwertsteuer angegeben. Es gilt die Preisliste, die in der Praxis in Kraft ist.
 
@@ -49,11 +49,11 @@ Die Öffnungszeiten, die Schliessungen und die Notfallnummer stammen aus der Dat
 
 ## Links zu anderen Websites
 
-Die Vetmint-Websites verweisen manchmal auf Websites Dritter: Identifikationsregister, Karten, soziale Netzwerke. Vetmint hat keine Kontrolle über deren Inhalt und haftet nicht dafür.
+Die Vetmint-Website verweist manchmal auf Websites Dritter: Identifikationsregister, Karten, soziale Netzwerke. Vetmint hat keine Kontrolle über deren Inhalt und haftet nicht dafür.
 
 ## Texte, Fotos und Logos
 
-Die Texte, die Fotos, die Logos und das grafische Erscheinungsbild der Websites gehören der Vetmint SA oder werden mit Zustimmung ihrer Urheber verwendet. Für ihre Vervielfältigung ist die schriftliche Zustimmung der Vetmint SA nötig. Ein kurzes Zitat mit dem Link zur Originalseite bleibt frei.
+Die Texte, die Fotos, die Logos und das grafische Erscheinungsbild der Website gehören der Vetmint SA oder werden mit Zustimmung ihrer Urheber verwendet. Für ihre Vervielfältigung ist die schriftliche Zustimmung der Vetmint SA nötig. Ein kurzes Zitat mit dem Link zur Originalseite bleibt frei.
 
 ## Soziale Netzwerke
 
@@ -61,8 +61,8 @@ Vetmint veröffentlicht auf [Facebook](https://www.facebook.com/cabinetsvetmint)
 
 ## Datenschutz
 
-Die von den Websites verarbeiteten Daten, ihre Aufbewahrungsdauer und Ihre Rechte sind in der [Datenschutzerklärung](/de/datenschutz/) beschrieben.
+Die von der Website verarbeiteten Daten, ihre Aufbewahrungsdauer und Ihre Rechte sind in der [Datenschutzerklärung](/de/datenschutz/) beschrieben.
 
 ## Anwendbares Recht
 
-Die Websites und ihre Nutzung unterstehen dem Schweizer Recht. Gerichtsstand ist Freiburg.
+Die Website und ihre Nutzung unterstehen dem Schweizer Recht. Gerichtsstand ist Freiburg.

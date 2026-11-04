@@ -48,7 +48,7 @@ Jede Weichteiloperation wird per Offerte bezahlt. Nach der Konsultation übergib
 |---|---|
 | Konsultation von 30 Minuten vor der Operation | CHF 57.– |
 | Gasnarkose mit Katheter, Infusion, Überwachung und Schmerzbehandlung | CHF 155.– in der Pauschale der Kätzin, CHF 260.– in der Pauschale der Hündin |
-| Notfallzuschlag während der Öffnungszeiten, von 8 bis 18 Uhr | CHF 99.– |
+| Notfallzuschlag während der Öffnungszeiten | CHF 99.– |
 | Notfallzuschlag ausserhalb der Öffnungszeiten | CHF 176.– |
 | Operation, Analysen, stationäre Betreuung, Medikamente | gemäss Offerte |
 

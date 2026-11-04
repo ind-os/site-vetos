@@ -21,7 +21,7 @@ La lettre ne contient aucune publicité de marque et aucun message d'une autre e
 
 ## À quel rythme
 
-Quatre lettres par an, en mars, juin, septembre et décembre. Une lettre de plus part seulement quand une clinique change d'adresse ou d'horaires pour longtemps. Pour une fermeture d'un jour, la clinique l'annonce sur son site.
+Quatre lettres par an, en mars, juin, septembre et décembre. Une lettre de plus part seulement quand une clinique change d'adresse ou d'horaires pour longtemps. Pour une fermeture d'un jour, la clinique l'annonce sur ses pages.
 
 ## S'inscrire
 

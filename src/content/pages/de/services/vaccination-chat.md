@@ -9,7 +9,7 @@ recherche: Katze impfen
 redige_le: 2026-10-16
 ordre: 3
 especes: [chat]
-resume: Die Impfungen des Kätzchens und der erwachsenen Katze, je nachdem ob sie hinausgeht oder nicht, durchgeführt während eines Gesundheitschecks von 30 Minuten.
+resume: Die Impfungen von Kätzchen und erwachsener Katze, ob Wohnungs- oder Freigängerkatze, während eines Gesundheitschecks von 30 Minuten.
 ---
 
 Die Impfung schützt Ihre Katze vor vier Krankheiten: Katzenseuche, Katzenschnupfen, Leukose und Tollwut. Bei Vetmint erfolgt die Impfung der Katze während des jährlichen Gesundheitschecks, einer Konsultation von 30 Minuten mit vollständiger Untersuchung des Tieres. Je nach Praxis und Lebensweise der Katze kostet dieser Check mit Impfungen 70 bis 99 Franken.
