@@ -80,4 +80,5 @@ paquet naît privé.
 
 - `CLAUDE.md` : les gestes de Seb, pour Claude Code : vérifier l'ordinateur, prévisualiser, modifier le site, publier, revenir à une version d'avant ; et les deux niveaux de règles, ce que le site refuse et ce qui est convention.
 - `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, mettre une clinique en ligne, modifier la mise en page, auditer le site de temps en temps, confirmer les faits du site une seule fois.
+- `.claude/launch.json` : le volet navigateur de l'app Claude s'attache au serveur de `pnpm dev`, sur `http://localhost:4321`, sans le démarrer lui-même.
 - `.claude/settings.json` : Claude ne modifie ni `.github/`, ni `.claude/`, ni `Dockerfile`, `nginx.conf` et la sonde `src/pages/healthz.json.ts`, ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.

@@ -5,9 +5,10 @@
 //   node outils/verifier-les-liens.mjs
 
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
-import { join, relative } from 'node:path';
+import { join, relative, sep } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const DIST = new URL('../dist/', import.meta.url).pathname;
+const DIST = fileURLToPath(new URL('../dist/', import.meta.url));
 
 /** Les fichiers HTML de dist/. */
 function pagesHtml(dossier) {
@@ -28,7 +29,7 @@ function existe(adresse) {
 
 const problemes = [];
 for (const fichier of pagesHtml(DIST)) {
-  const page = `/${relative(DIST, fichier).replace(/index\.html$/, '')}`;
+  const page = `/${relative(DIST, fichier).split(sep).join('/').replace(/index\.html$/, '')}`;
   if (page.startsWith('/404')) continue;
   const html = readFileSync(fichier, 'utf8');
   for (const [, href] of html.matchAll(/<a\s[^>]*href="([^"]+)"/g)) {

@@ -30,7 +30,11 @@ Dis à la personne, en une courte liste, ce qui manque. S'il ne manque qu'une co
    Dis-lui que le Mac va lui demander le mot de passe de sa session, qu'elle le tape elle-même, et que rien ne s'affiche pendant qu'elle tape. À la fin, Homebrew affiche deux ou trois lignes « Next steps » : elle les colle aussi dans le Terminal. Attends qu'elle te dise que c'est fini.
 2. Installe toi-même ce qui manque : `brew install node pnpm git gh`. Un outil trop ancien se met à jour par `brew upgrade <outil>`.
 
-**Sur Windows** : `winget install OpenJS.NodeJS.LTS Git.Git GitHub.cli`, puis `npm install --global pnpm@12`. Si Windows demande une autorisation, c'est la personne qui l'accepte. Rouvre ensuite le terminal pour que les commandes soient trouvées.
+**Sur Windows** :
+
+1. Installe toi-même ce qui manque : `winget install --exact --accept-package-agreements --accept-source-agreements OpenJS.NodeJS.LTS Git.Git GitHub.cli`. Si Windows demande une autorisation, c'est la personne qui l'accepte.
+2. L'app Claude ne voit un outil installé qu'après avoir été relancée. Demande à la personne de quitter complètement l'app Claude (clic droit sur son icône près de l'horloge, puis « Quitter »), de la rouvrir et de revenir dans cette conversation.
+3. Installe pnpm : `npm install --global pnpm@12`.
 
 ## 3. Connecter GitHub et Git
 
