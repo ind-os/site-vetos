@@ -63,6 +63,8 @@
   --menthe-trait: #BFE3DE;    /* filet d'une pastille de service */
   --gris-bleute: #F2F6F8;     /* fond des sections alternées */
   --lac: #D6E5EE;             /* les lacs de la carte des cliniques */
+  --autoroute: #E2A24A;       /* les autoroutes de la carte des cliniques */
+  --autoroute-plaque: #9B3B26; /* la plaque d'une autoroute sur la carte (texte blanc, 7:1) */
   --urgence: #C8102E;         /* croix suisse et urgence, rien d'autre */
   --urgence-pale: #FDF1F2;    /* fond du rappel d'urgence */
   --encre: #1D3448;           /* texte courant */

@@ -23,6 +23,7 @@ Toute couleur est un jeton de `src/styles/charte.css`, avec son sens en commenta
 
 - `--trait` `#DCE5EA`, le filet des cartes ; `--trait-leger`, les filets de séparation ; `--menthe-trait` `#BFE3DE`, le filet d'une pastille de service ; `--menthe-pale`, le fond d'une pastille ; `--urgence-pale`, le fond du rappel d'urgence.
 - `--lac` `#D6E5EE`, les lacs de la carte des cliniques.
+- `--autoroute` `#E2A24A` et `--autoroute-plaque` `#9B3B26`, les autoroutes de la carte des cliniques et leur plaque. Un repère pour venir à la clinique, rien d'autre ; la plaque n'est pas le rouge de l'urgence.
 - Sur le fond marine : `--sur-marine` et `--sur-marine-lien` pour le texte et les liens, `--sur-marine-filet` pour les filets du pied de page et des horaires, `--sur-marine-fond` pour un encadré, les fermetures.
 - `--voile`, la page derrière le panneau de rendez-vous, voilée de marine ; `--ombre-panneau`, l'ombre de ce panneau.
 
