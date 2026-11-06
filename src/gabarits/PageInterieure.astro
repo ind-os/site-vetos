@@ -2,6 +2,7 @@
 // La mise en page d'une page intérieure : l'en-tête gris bleuté (fil d'Ariane, titre, photo),
 // puis le corps. Sur ordinateur, une colonne à droite reste visible : sur les pages d'une
 // clinique, sa carte et le bouton de rendez-vous ; ailleurs, ce que la page met dans « cote ».
+// Ce que la page met dans « haut » précède le corps, sur toute la largeur, sans la colonne.
 import type { Contexte } from '../lib/contexte.ts';
 import type { Photo } from '../lib/images.ts';
 import { balisageDeLaClinique, balisageDuFil, balisageDuGroupe } from '../lib/balisage.ts';
@@ -33,21 +34,25 @@ const graphe = [
 
 <Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photo?.src} balisage={graphe}>
   <TeteDePage titre={titre} fil={fil} etiquetteDuFil={t.navigation.filDAriane} surtitre={surtitre} photo={photo} />
-  <div class:list={['conteneur', 'page', { 'avec-cote': avecCote }]}>
-    <div class="page__corps"><slot /></div>
-    {
-      avecCote && (
-        <aside class="page__cote avec-cote__cote">
-          <slot name="cote">{clinique && <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />}</slot>
-        </aside>
-      )
-    }
+  <div class="conteneur page">
+    {Astro.slots.has('haut') && <div class="page__haut"><slot name="haut" /></div>}
+    <div class:list={['page__grille', { 'avec-cote': avecCote }]}>
+      <div class="page__corps"><slot /></div>
+      {
+        avecCote && (
+          <aside class="page__cote avec-cote__cote">
+            <slot name="cote">{clinique && <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />}</slot>
+          </aside>
+        )
+      }
+    </div>
   </div>
 </Base>
 
 <style>
   /* La grille du corps et de la colonne est la classe .avec-cote de src/styles/charte.css. */
-  .page { display: grid; padding-block: var(--section-y) var(--espace-8); }
+  .page { display: grid; gap: var(--espace-6); padding-block: var(--section-y) var(--espace-8); }
+  .page__grille { display: grid; }
   .page__corps { display: grid; gap: var(--espace-6); align-content: start; min-width: 0; }
   .page__cote { display: grid; gap: var(--espace-4); align-content: start; }
 </style>

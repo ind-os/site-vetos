@@ -1,8 +1,8 @@
 ---
 // La page des cliniques : la carte et les huit cliniques, chacune avec son bouton de
 // rendez-vous (ancre #rendez-vous du bouton de l'en-tête), puis le texte : son introduction, et une
-// carte par clinique, deux par ligne. À côté, le rendez-vous et le lien vers la page de chaque
-// clinique, visibles pendant toute la lecture.
+// carte par clinique, deux par ligne. À côté du texte, le rendez-vous et le lien vers la page de
+// chaque clinique, visibles pendant toute la lecture.
 import type { Contexte } from '../lib/contexte.ts';
 import { lesCliniques, lienDeLaClinique } from '../lib/cliniques.ts';
 import { sections } from '../lib/html.ts';
@@ -24,7 +24,7 @@ const liens = await Promise.all(cliniques.map(async (c) => ({ lieu: c.lieu, href
 ---
 
 <PageInterieure contexte={contexte}>
-  <ReseauDesCliniques cliniques={cliniques} langue={langue} niveau={2} id="rendez-vous" />
+  <ReseauDesCliniques slot="haut" cliniques={cliniques} langue={langue} niveau={2} id="rendez-vous" />
   <Prose html={texte.introduction} chapeau />
   <SectionsEnCartes sections={texte.sections} />
   <Fragment slot="cote">
