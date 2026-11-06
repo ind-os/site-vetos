@@ -46,6 +46,7 @@ export const de: Catalogue = {
     huitCliniques: 'In einer der acht Vetmint-Praxen.',
     fermer: 'Schliessen',
     nouvelOnglet: 'Der Kalender öffnet sich in einem neuen Tab.',
+    chargement: 'Der Kalender wird geöffnet …',
   },
 
   telephone: {
@@ -135,6 +136,7 @@ export const de: Catalogue = {
 
   cliniques: {
     trouver: 'Praxis finden',
+    pages: 'Die Seite jeder Praxis',
     carte: 'Karte der acht Vetmint-Praxen in der Westschweiz',
   },
 

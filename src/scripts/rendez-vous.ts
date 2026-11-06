@@ -1,7 +1,8 @@
 // Le bouton « Prendre rendez-vous » ouvre l'agenda Calendly dans un panneau pleine hauteur,
 // à droite. Le code de Calendly, et ses cookies, n'arrivent que quand le visiteur approche le
 // bouton (survol, focus clavier, toucher). Sans JavaScript, ou si Calendly ne répond pas, le
-// lien ouvre l'agenda dans un onglet. VetLink n'est pas concerné.
+// lien ouvre l'agenda dans un onglet. VetLink n'est pas concerné. Pendant le chargement, le panneau
+// affiche « Ouverture de l'agenda… », jusqu'à ce que l'agenda de Calendly soit affiché.
 
 export {};
 
@@ -13,10 +14,14 @@ declare global {
 
 const SCRIPT = 'https://assets.calendly.com/assets/external/widget.js';
 const STYLE = 'https://assets.calendly.com/assets/external/widget.css';
+const ORIGINE_CALENDLY = /^https:\/\/([a-z0-9-]+\.)?calendly\.com$/;
+/** Au-delà, le message d'attente s'efface, même si l'agenda n'a rien dit. */
+const ATTENTE_MAX = 10_000;
 
 let chargement: Promise<void> | undefined;
 let tiroir: HTMLElement | undefined;
 let lienOuvert: HTMLAnchorElement | undefined;
+let minuterieAttente: number | undefined;
 
 /** Charge le script et la feuille de style de Calendly, une seule fois. */
 function chargerCalendly(): Promise<void> {
@@ -58,6 +63,10 @@ function leTiroir(): HTMLElement {
         </button>
       </div>
       <div class="tiroir__cadre">
+        <div class="tiroir__attente" role="status" hidden>
+          <span class="tiroir__points" aria-hidden="true"><span></span><span></span><span></span></span>
+          <span class="tiroir__attente-texte"></span>
+        </div>
         <p class="tiroir__etat" hidden></p>
         <div class="tiroir__widget"></div>
       </div>
@@ -69,12 +78,21 @@ function leTiroir(): HTMLElement {
   return tiroir;
 }
 
+/** Retire le message d'attente du panneau. */
+function finirAttente() {
+  window.clearTimeout(minuterieAttente);
+  minuterieAttente = undefined;
+  const attente = tiroir?.querySelector<HTMLElement>('.tiroir__attente');
+  if (attente) attente.hidden = true;
+}
+
 function ouvert(): boolean {
   return Boolean(tiroir?.hasAttribute('data-ouvert'));
 }
 
 function fermer() {
   if (!tiroir || !ouvert()) return;
+  finirAttente();
   tiroir.removeAttribute('data-ouvert');
   tiroir.inert = true;
   tiroir.setAttribute('aria-hidden', 'true');
@@ -94,6 +112,11 @@ function ouvrir(lien: HTMLAnchorElement) {
   const fermerBouton = panneau.querySelector<HTMLButtonElement>('.tiroir__fermer')!;
   const etat = panneau.querySelector<HTMLElement>('.tiroir__etat')!;
   const widget = panneau.querySelector<HTMLElement>('.tiroir__widget')!;
+  const attente = panneau.querySelector<HTMLElement>('.tiroir__attente')!;
+  attente.querySelector('.tiroir__attente-texte')!.textContent = lien.dataset.chargement ?? '';
+  attente.hidden = false;
+  window.clearTimeout(minuterieAttente);
+  minuterieAttente = window.setTimeout(finirAttente, ATTENTE_MAX);
   titre.textContent = lien.dataset.titre ?? '';
   fermerBouton.setAttribute('aria-label', lien.dataset.fermer ?? '');
   panneau.querySelector('.tiroir__panneau')?.setAttribute('aria-label', lien.dataset.titre ?? '');
@@ -114,6 +137,7 @@ function ouvrir(lien: HTMLAnchorElement) {
     })
     .catch(() => {
       if (lienOuvert !== lien) return;
+      finirAttente();
       const suite = document.createElement('a');
       suite.href = lien.href;
       suite.target = '_blank';
@@ -123,6 +147,14 @@ function ouvrir(lien: HTMLAnchorElement) {
       etat.hidden = false;
     });
 }
+
+// L'agenda de Calendly prévient la page quand il affiche un type de rendez-vous ou la page de
+// la clinique.
+window.addEventListener('message', (evenement) => {
+  if (!ORIGINE_CALENDLY.test(evenement.origin)) return;
+  const nom = (evenement.data as { event?: unknown } | null)?.event;
+  if (nom === 'calendly.event_type_viewed' || nom === 'calendly.profile_page_viewed') finirAttente();
+});
 
 document.addEventListener('pointerover', (evenement) => {
   if ((evenement.target as HTMLElement).closest?.('a[data-rendez-vous="calendly"]')) preparer();

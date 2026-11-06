@@ -403,6 +403,12 @@ button { cursor: pointer; }
 }
 .lien-fort:hover { color: var(--lien-survol); text-decoration: underline; }
 
+.liste-des-cliniques { gap: var(--espace-3); }
+.liste-des-cliniques ul { list-style: none; margin: 0; padding: 0; display: grid; }
+.liste-des-cliniques li + li { border-top: 1px solid var(--trait-leger); }
+.liste-des-cliniques a { display: flex; align-items: center; min-height: var(--cible); font-weight: 700; text-decoration: none; }
+.liste-des-cliniques a:hover { text-decoration: underline; }
+
 .visuellement-cache {
   position: absolute !important;
   width: 1px;

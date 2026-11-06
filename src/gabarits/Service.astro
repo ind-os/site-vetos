@@ -29,7 +29,7 @@ const cliniques = await Promise.all(
     <AppelRendezVous langue={langue} />
     {
       cliniques.length > 0 && (
-        <nav class="carte bloc cliniques" aria-labelledby="dans-quelles-cliniques">
+        <nav class="carte bloc liste-des-cliniques" aria-labelledby="dans-quelles-cliniques">
           <h2 id="dans-quelles-cliniques">{t.services.dansQuellesCliniques}</h2>
           <ul>{cliniques.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
         </nav>
@@ -38,10 +38,3 @@ const cliniques = await Promise.all(
   </Fragment>
 </PageInterieure>
 
-<style>
-  .cliniques { gap: var(--espace-3); }
-  .cliniques ul { list-style: none; margin: 0; padding: 0; display: grid; }
-  .cliniques li + li { border-top: 1px solid var(--trait-leger); }
-  .cliniques a { display: flex; align-items: center; min-height: var(--cible); font-weight: 700; text-decoration: none; }
-  .cliniques a:hover { text-decoration: underline; }
-</style>

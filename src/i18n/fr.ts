@@ -47,6 +47,7 @@ export const fr = {
     huitCliniques: 'Dans l’une des huit cliniques Vetmint.',
     fermer: 'Fermer',
     nouvelOnglet: 'L’agenda s’ouvre dans un nouvel onglet.',
+    chargement: 'Ouverture de l’agenda…',
   },
 
   telephone: {
@@ -136,6 +137,7 @@ export const fr = {
 
   cliniques: {
     trouver: 'Trouver sa clinique',
+    pages: 'La page de chaque clinique',
     carte: 'Carte des huit cliniques Vetmint en Suisse romande',
   },
 

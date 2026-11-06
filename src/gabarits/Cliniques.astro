@@ -1,10 +1,12 @@
 ---
 // La page des cliniques : la carte et les huit cliniques, chacune avec son bouton de
 // rendez-vous (ancre #rendez-vous du bouton de l'en-tête), puis le texte : son introduction, et une
-// carte par clinique, deux par ligne.
+// carte par clinique, deux par ligne. À côté, le rendez-vous et le lien vers la page de chaque
+// clinique, visibles pendant toute la lecture.
 import type { Contexte } from '../lib/contexte.ts';
-import { lesCliniques } from '../lib/cliniques.ts';
+import { lesCliniques, lienDeLaClinique } from '../lib/cliniques.ts';
 import { sections } from '../lib/html.ts';
+import AppelRendezVous from '../composants/AppelRendezVous.astro';
 import ReseauDesCliniques from '../composants/ReseauDesCliniques.astro';
 import Prose from '../composants/Prose.astro';
 import SectionsEnCartes from '../composants/SectionsEnCartes.astro';
@@ -15,13 +17,21 @@ interface Props {
 }
 
 const { contexte } = Astro.props;
-const { langue, html } = contexte;
+const { langue, t, html } = contexte;
 const cliniques = await lesCliniques();
 const texte = sections(html, 2);
+const liens = await Promise.all(cliniques.map(async (c) => ({ lieu: c.lieu, href: await lienDeLaClinique(c, langue) })));
 ---
 
-<PageInterieure contexte={contexte} cote={false}>
+<PageInterieure contexte={contexte}>
   <ReseauDesCliniques cliniques={cliniques} langue={langue} niveau={2} id="rendez-vous" />
   <Prose html={texte.introduction} chapeau />
   <SectionsEnCartes sections={texte.sections} />
+  <Fragment slot="cote">
+    <AppelRendezVous langue={langue} />
+    <nav class="carte bloc liste-des-cliniques" aria-labelledby="pages-des-cliniques">
+      <h2 id="pages-des-cliniques">{t.cliniques.pages}</h2>
+      <ul>{liens.map((c) => <li><a href={c.href}>{c.lieu}</a></li>)}</ul>
+    </nav>
+  </Fragment>
 </PageInterieure>
