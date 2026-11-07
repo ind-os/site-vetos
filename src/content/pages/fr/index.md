@@ -1,7 +1,7 @@
 ---
 type: accueil-groupe
 url: /
-title: "🧪 Vetmint : huit cliniques vétérinaires en Suisse romande"
+title: "Vetmint : huit cliniques vétérinaires en Suisse romande"
 description: "Huit cliniques vétérinaires Vetmint dans les cantons de Vaud, Fribourg et Neuchâtel. Consultations de 30 minutes, tarifs publiés, garde. Trouvez votre clinique."
 h1: Vetmint, cliniques vétérinaires en Suisse romande
 recherche: cliniques vétérinaires Suisse romande
