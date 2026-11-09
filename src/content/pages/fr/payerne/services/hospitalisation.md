@@ -10,7 +10,7 @@ redige_le: 2026-11-03
 resume: Chiens, chats, lapins et rongeurs restent la journée ou la nuit, avec un appel du vétérinaire.
 ---
 
-La clinique Vetmint Payerne garde en hospitalisation votre chien, votre chat, votre lapin ou votre rongeur quand il a besoin de soins suivis. La plupart des patients restent une journée : déposés le matin, ils repartent le soir après une perfusion, une observation ou le réveil d'une opération. Chaque animal a une cage choisie selon sa taille et la durée de son séjour. La nuit, l'équipe ne reste pas sur place : elle contrôle les patients à la fermeture puis dès l'ouverture.
+Le cabinet Vetmint Payerne garde en hospitalisation votre chien, votre chat, votre lapin ou votre rongeur quand il a besoin de soins suivis. La plupart des patients restent une journée : déposés le matin, ils repartent le soir après une perfusion, une observation ou le réveil d'une opération. Chaque animal a une cage choisie selon sa taille et la durée de son séjour. La nuit, l'équipe ne reste pas sur place : elle contrôle les patients à la fermeture puis dès l'ouverture.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -26,12 +26,12 @@ Vous reprenez votre animal en fin de journée, jusqu'à 18 h, ou 19 h le mardi
 
 - **Le réveil d'une opération** : une stérilisation, une castration ou l'ablation d'une grosseur. L'assistante surveille la respiration et le cœur jusqu'à ce que l'animal relève la tête. Le détail est sur la page [stérilisation et castration à Payerne](/payerne/services/sterilisation-castration/).
 - **La déshydratation** : après des vomissements ou une diarrhée, la perfusion remplace l'eau perdue.
-- **Des résultats d'analyse inquiétants** : des reins qui filtrent mal ou un diabète déséquilibré demandent une perfusion et des contrôles répétés. Les prises de sang se font au [laboratoire de la clinique](/payerne/services/analyses-diagnostic/).
+- **Des résultats d'analyse inquiétants** : des reins qui filtrent mal ou un diabète déséquilibré demandent une perfusion et des contrôles répétés. Les prises de sang se font au [laboratoire du cabinet](/payerne/services/analyses-diagnostic/).
 - **Une observation** : après une chute, le vétérinaire garde l'animal quelques heures pour voir si son état change.
 
 ## La nuit à Payerne
 
-Quand votre animal doit rester la nuit, l'équipe fait un dernier tour à la fermeture : perfusion, douleur, appétit. Elle revient à l'ouverture et vous appelle si quelque chose a changé. Personne ne dort à la clinique. Si votre animal demande une surveillance continue, le vétérinaire vous propose avant le soir un transfert vers une clinique de garde ouverte toute la nuit, avec son dossier.
+Quand votre animal doit rester la nuit, l'équipe fait un dernier tour à la fermeture : perfusion, douleur, appétit. Elle revient à l'ouverture et vous appelle si quelque chose a changé. Personne ne dort au cabinet. Si votre animal demande une surveillance continue, le vétérinaire vous propose avant le soir un transfert vers un cabinet de garde ouvert toute la nuit, avec son dossier.
 
 Si vous êtes inquiet après le retour à la maison, la nuit ou le week-end, appelez le service de garde de la région :
 
@@ -53,7 +53,7 @@ Le prix dépend de la durée et des soins :
 | Journée avec nuit | cage, repas, soins de base, contrôles du soir et du matin | 95 à 140 CHF selon la taille |
 | Perfusion | cathéter, poche et réglage du débit, par jour | 65 CHF |
 
-Les médicaments, les analyses et la radiographie s'ajoutent. Pour une stérilisation ou une castration, le réveil surveillé fait partie du forfait : 260 francs pour une chatte, 810 francs pour une chienne. Une admission en urgence pendant les heures d'ouverture coûte 99 francs de supplément, 176 francs en dehors. Vous payez au départ, par carte ou par TWINT. Les autres prix de la clinique sont sur la page [Tarifs](/payerne/tarifs/).
+Les médicaments, les analyses et la radiographie s'ajoutent. Pour une stérilisation ou une castration, le réveil surveillé fait partie du forfait : 260 francs pour une chatte, 810 francs pour une chienne. Une admission en urgence pendant les heures d'ouverture coûte 99 francs de supplément, 176 francs en dehors. Vous payez au départ, par carte ou par TWINT. Les autres prix du cabinet sont sur la page [Tarifs](/payerne/tarifs/).
 
 ## Préparer le séjour
 
@@ -68,7 +68,7 @@ Au départ, le vétérinaire vous explique les médicaments, les repas des jours
 
 ## Les questions qu'on nous pose au comptoir
 
-### Puis-je appeler la clinique pendant son séjour ?
+### Puis-je appeler le cabinet pendant son séjour ?
 
 Oui, au [026 660 16 16](tel:+41266601616). L'assistante vous renseigne sur l'essentiel ; le vétérinaire vous rappelle s'il y a une décision à prendre.
 

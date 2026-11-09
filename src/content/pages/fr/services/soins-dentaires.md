@@ -9,12 +9,12 @@ recherche: détartrage chien chat
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 6
-resume: Le détartrage sous anesthésie, les extractions, le brossage à la maison et les prix dans les huit cliniques.
+resume: Le détartrage sous anesthésie, les extractions, le brossage à la maison et les prix dans les huit cabinets.
 ---
 
-Le détartrage du chien et du chat se fait sous anesthésie générale, à la clinique, en une matinée. Le vétérinaire contrôle chaque dent, retire le tartre au-dessus et sous la gencive, radiographie les dents douteuses, extrait celles qui ne se sauvent plus, puis polit l'émail. Le forfait coûte 300 à 345 francs selon la clinique, anesthésie comprise. Votre animal rentre à la maison l'après-midi.
+Le détartrage du chien et du chat se fait sous anesthésie générale, au cabinet, en une matinée. Le vétérinaire contrôle chaque dent, retire le tartre au-dessus et sous la gencive, radiographie les dents douteuses, extrait celles qui ne se sauvent plus, puis polit l'émail. Le forfait coûte 300 à 345 francs selon le cabinet, anesthésie comprise. Votre animal rentre à la maison l'après-midi.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Quels animaux et à quel moment
 
@@ -63,7 +63,7 @@ Le forfait compte 45 minutes de soin. Chaque extraction allonge l'anesthésie, d
 ## La préparation
 
 - Pas de repas après le souper de la veille. L'eau reste permise jusqu'au matin.
-- Ne mettez jamais un lapin ou un rongeur à jeun : il mange et boit jusqu'au départ pour la clinique.
+- Ne mettez jamais un lapin ou un rongeur à jeun : il mange et boit jusqu'au départ pour le cabinet.
 - Apportez la liste des médicaments en cours et dites si votre animal a toussé, vomi ou été malade dans la semaine.
 - Pour un animal de plus de 7 ans, le vétérinaire propose une prise de sang avant l'anesthésie. Elle vérifie les reins et le foie, qui éliminent les médicaments. La page [analyses et diagnostic](/services/analyses-diagnostic/) l'explique.
 - Le chat voyage dans une caisse de transport fermée, le chien en laisse.
@@ -74,7 +74,7 @@ Le soir, votre animal est encore somnolent. Proposez-lui de l'eau et un petit re
 
 Un contrôle a lieu 7 à 10 jours après une extraction, pour vérifier que la gencive se referme.
 
-Appelez la clinique si votre animal ne mange pas le lendemain soir ou si la bouche saigne encore après quelques heures. Appelez aussi si la joue gonfle ou s'il se frotte sans cesse le museau.
+Appelez le cabinet si votre animal ne mange pas le lendemain soir ou si la bouche saigne encore après quelques heures. Appelez aussi si la joue gonfle ou s'il se frotte sans cesse le museau.
 
 ## Garder des dents propres à la maison
 
@@ -97,7 +97,7 @@ Une récompense après chaque séance installe l'habitude. Le vétérinaire vous
 | Extraction d'une dent | selon la dent et le temps nécessaire, sur devis | 25 à 200 CHF |
 | Extraction de toutes les dents, forfait | examen avant l'anesthésie, anesthésie complète et surveillance | 1 400 CHF |
 
-Le forfait de détartrage ne comprend pas les radiographies dentaires, les extractions ni les médicaments donnés à la maison. Il coûte 300 francs à Lac-de-Joux, 320 francs à Bussigny, à La Chaux-de-Fonds et à Saint-Blaise, 325 francs à Payerne, 345 francs à Domdidier, à Fribourg Ouest et à Saint-Légier. Le forfait d'extraction totale figure sur les grilles de La Chaux-de-Fonds, de Lac-de-Joux et de Saint-Blaise. La page [Tarifs](/tarifs/) détaille les prix par clinique.
+Le forfait de détartrage ne comprend pas les radiographies dentaires, les extractions ni les médicaments donnés à la maison. Il coûte 300 francs à Lac-de-Joux, 320 francs à Bussigny, à La Chaux-de-Fonds et à Saint-Blaise, 325 francs à Payerne, 345 francs à Domdidier, à Fribourg Ouest et à Saint-Légier. Le forfait d'extraction totale figure sur les grilles de La Chaux-de-Fonds, de Lac-de-Joux et de Saint-Blaise. La page [Tarifs](/tarifs/) détaille les prix par cabinet.
 
 Les [abonnements](/abonnements/) Adulte+ et Senior comprennent un détartrage par an. L'abonnement Adulte+ coûte 106 francs par mois pour un chien et 103 francs pour un chat.
 
@@ -127,9 +127,9 @@ Oui. Un chien ou un chat mange très bien après des extractions, croquettes com
 
 C'est une malocclusion : les dents ne s'usent plus et blessent la joue ou la langue. Le vétérinaire les raccourcit sous anesthésie gazeuse, souvent tous les trois à quatre mois. Plus de foin et moins de granulés usent mieux les dents.
 
-## Les cliniques qui soignent les dents
+## Les cabinets qui soignent les dents
 
-Les huit cliniques Vetmint pratiquent le détartrage aux ultrasons, le polissage, les radiographies dentaires et les extractions.
+Les huit cabinets Vetmint pratiquent le détartrage aux ultrasons, le polissage, les radiographies dentaires et les extractions.
 
 - [Bussigny](/bussigny/services/) : le laser complète le traitement des gencives enflammées du chat. [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : forfait d'extraction totale, laser pour les gencives. [Rendez-vous](/chauxdefonds/rendez-vous/)
@@ -142,4 +142,4 @@ Les huit cliniques Vetmint pratiquent le détartrage aux ultrasons, le polissage
 
 ## Prendre rendez-vous
 
-Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d'extractions. Dites au téléphone que vous venez pour les dents. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
+Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d'extractions. Dites au téléphone que vous venez pour les dents. Choisissez votre cabinet sur la [carte des cabinets](/cabinets/).

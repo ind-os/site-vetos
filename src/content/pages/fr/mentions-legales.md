@@ -2,13 +2,13 @@
 type: simple
 url: /mentions-legales/
 title: "Mentions légales du site Vetmint"
-description: "Éditeur du site Vetmint, sociétés des huit cliniques, hébergement en Suisse, droits sur les textes et les images, droit applicable. Contact : ek@vetmint.ch."
+description: "Éditeur du site Vetmint, sociétés des huit cabinets, hébergement en Suisse, droits sur les textes et les images, droit applicable. Contact : ek@vetmint.ch."
 h1: Mentions légales
 recherche: mentions légales Vetmint
 redige_le: 2026-10-16
 ---
 
-Les mentions légales qui suivent valent pour tout le site vetmint.ch, pages des huit cliniques comprises. Le site est édité par Vetmint SA. Chaque clinique est exploitée par sa propre société, filiale du groupe.
+Les mentions légales qui suivent valent pour tout le site vetmint.ch, pages des huit cabinets compris. Le site est édité par Vetmint SA. Chaque cabinet est exploité par sa propre société, filiale du groupe.
 
 ## Éditeur
 
@@ -18,11 +18,11 @@ Numéro IDE : CHE-000.000.000. Registre du commerce du canton de Fribourg.
 
 E-mail : [ek@vetmint.ch](mailto:ek@vetmint.ch)
 
-Vetmint SA est responsable du contenu de vetmint.ch, pages des cliniques comprises.
+Vetmint SA est responsable du contenu de vetmint.ch, pages des cabinets compris.
 
-## Les sociétés des cliniques
+## Les sociétés des cabinets
 
-| Clinique | Société | Adresse | Téléphone |
+| Cabinet | Société | Adresse | Téléphone |
 |---|---|---|---|
 | [Bussigny](/bussigny/) | Vetmint Bussigny SA | Rue de l'Industrie 8, 1030 Bussigny | [021 703 25 30](tel:+41217032530) |
 | [La Chaux-de-Fonds](/chauxdefonds/) | Vetmint La Chaux-de-Fonds SA | Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds | [032 914 03 48](tel:+41329140348) |
@@ -41,11 +41,11 @@ Le site est hébergé en Suisse, sur un serveur loué au nom de Vetmint SA chez 
 
 ## Ce que valent les informations publiées
 
-Les textes du site informent les propriétaires d'animaux. Un conseil santé ne remplace pas l'examen de votre animal par un vétérinaire. En cas de doute, appelez votre clinique ; en urgence, suivez les indications de sa page Urgences.
+Les textes du site informent les propriétaires d'animaux. Un conseil santé ne remplace pas l'examen de votre animal par un vétérinaire. En cas de doute, appelez votre cabinet ; en urgence, suivez les indications de sa page Urgences.
 
-Les prix sont donnés en francs suisses, TVA comprise. La grille en vigueur dans la clinique fait foi.
+Les prix sont donnés en francs suisses, TVA comprise. La grille en vigueur dans le cabinet fait foi.
 
-Les horaires, les fermetures et le numéro de garde viennent de la base de données des cliniques et peuvent changer le jour même. Vetmint vérifie ce qu'il publie mais ne peut pas garantir l'absence d'erreur.
+Les horaires, les fermetures et le numéro de garde viennent de la base de données des cabinets et peuvent changer le jour même. Vetmint vérifie ce qu'il publie mais ne peut pas garantir l'absence d'erreur.
 
 ## Liens vers d'autres sites
 

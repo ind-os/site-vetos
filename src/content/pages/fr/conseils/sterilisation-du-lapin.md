@@ -11,9 +11,9 @@ ordre: 10
 resume: "Stériliser une lapine ou castrer un lapin : âge, bénéfices, préparation sans jeûne, suites et prix."
 ---
 
-La stérilisation retire au lapin ses organes reproducteurs. Chez la femelle, ce sont les ovaires et l'utérus. Chez le mâle, ce sont les testicules : on parle de castration. Si vous ne voulez pas de portée, nos vétérinaires la conseillent pour les deux sexes, dès 4 mois. Elle évite surtout à la lapine les tumeurs de l'utérus, qui touchent la majorité des femelles non stérilisées après 4 ans. Le forfait coûte 250 à 380 francs pour une lapine et 131 à 185 francs pour un mâle, selon la clinique.
+La stérilisation retire au lapin ses organes reproducteurs. Chez la femelle, ce sont les ovaires et l'utérus. Chez le mâle, ce sont les testicules : on parle de castration. Si vous ne voulez pas de portée, nos vétérinaires la conseillent pour les deux sexes, dès 4 mois. Elle évite surtout à la lapine les tumeurs de l'utérus, qui touchent la majorité des femelles non stérilisées après 4 ans. Le forfait coûte 250 à 380 francs pour une lapine et 131 à 185 francs pour un mâle, selon le cabinet.
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)
 
 ## À quel âge
 
@@ -67,7 +67,7 @@ En général, le lapin rentre chez vous le jour même, quand il est bien réveil
 
 Le soir de l'opération, votre lapin doit manger du foin et faire des crottes, même en petite quantité. Gardez-le au calme, au chaud, sur un sol propre et doux. Vérifiez la plaie chaque jour : elle doit rester sèche et peu gonflée. Deux consultations de contrôle sont comprises dans le forfait.
 
-Appelez la clinique sans attendre :
+Appelez le cabinet sans attendre :
 
 - s'il ne mange rien ou ne fait aucune crotte depuis six heures ;
 - s'il reste prostré, le dos voûté, ou grince des dents (signe de douleur) ;
@@ -79,10 +79,10 @@ Comme toute opération, la stérilisation comporte des risques : anesthésie, i
 
 | Opération | Ce qui est compris | Prix |
 |---|---|---|
-| Stérilisation de la lapine | examen, anesthésie gazeuse surveillée, opération, antidouleur, anti-inflammatoire, deux contrôles | 250 à 380 CHF selon la clinique, 353 CHF dans la plupart |
-| Castration du lapin | les mêmes étapes | 131 à 185 CHF selon la clinique, 131 CHF dans la plupart |
+| Stérilisation de la lapine | examen, anesthésie gazeuse surveillée, opération, antidouleur, anti-inflammatoire, deux contrôles | 250 à 380 CHF selon le cabinet, 353 CHF dans la plupart |
+| Castration du lapin | les mêmes étapes | 131 à 185 CHF selon le cabinet, 131 CHF dans la plupart |
 
-Les autres traitements éventuels s'ajoutent au forfait. Le détail par clinique : [nos tarifs](/tarifs/).
+Les autres traitements éventuels s'ajoutent au forfait. Le détail par cabinet : [nos tarifs](/tarifs/).
 
 ## Questions fréquentes
 
@@ -100,6 +100,6 @@ Elle réduit un peu les besoins en énergie. Une ration riche en foin et pauvre 
 
 ## Pour aller plus loin
 
-La stérilisation et la castration des autres espèces : [stérilisation et castration](/services/sterilisation-castration/). Les soins aux lapins dans nos cliniques : [médecine des NAC](/services/nac/), avec la [spécialité NAC de Fribourg Ouest](/fribourg/services/nac/). Tout sur la vie du lapin : [la fiche du lapin](/conseils/le-lapin/).
+La stérilisation et la castration des autres espèces : [stérilisation et castration](/services/sterilisation-castration/). Les soins aux lapins dans nos cabinets : [médecine des NAC](/services/nac/), avec la [spécialité NAC de Fribourg Ouest](/fribourg/services/nac/). Tout sur la vie du lapin : [la fiche du lapin](/conseils/le-lapin/).
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)

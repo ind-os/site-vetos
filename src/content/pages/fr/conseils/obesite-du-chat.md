@@ -61,7 +61,7 @@ Couper brutalement la ration est une mauvaise idée, pour trois raisons :
 - un régime trop sévère fait fondre le muscle en même temps que la graisse ;
 - la bonne ration se calcule sur le poids à atteindre, pas sur le poids actuel.
 
-Estimer ce poids à atteindre n'est pas simple. La clinique le calcule avec vous.
+Estimer ce poids à atteindre n'est pas simple. Le cabinet le calcule avec vous.
 
 ## Le rythme à viser
 
@@ -87,8 +87,8 @@ Faire maigrir un chat est long et demande l'aide de toute la famille. Le succès
 
 Un chat âgé qui maigrit sans régime n'est pas dans ce cas : il peut souffrir d'[hyperthyroïdie](/conseils/hyperthyroidie-feline/). Montrez-le au vétérinaire.
 
-## Consulter dans une clinique Vetmint
+## Consulter dans un cabinet Vetmint
 
 Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour peser votre chat, noter son index de graisse corporelle et établir sa ration. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail. Les contrôles de poids suivent ensuite au rythme convenu avec le vétérinaire.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

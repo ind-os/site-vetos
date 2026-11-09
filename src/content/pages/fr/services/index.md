@@ -1,14 +1,14 @@
 ---
 type: service-index
 url: /services/
-title: "Services vétérinaires des cliniques Vetmint"
-description: "Les soins des huit cliniques Vetmint pour chiens, chats et NAC : prévention, chirurgie, imagerie, soins spécialisés, visites à domicile, urgences et prix."
+title: "Services vétérinaires des cabinets Vetmint"
+description: "Les soins des huit cabinets Vetmint pour chiens, chats et NAC : prévention, chirurgie, imagerie, soins spécialisés, visites à domicile, urgences et prix."
 h1: Nos services vétérinaires
 recherche: services vétérinaires
 redige_le: 2026-10-16
 ---
 
-Les services vétérinaires des huit cliniques Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe, ce qu'il coûte et quelles cliniques le pratiquent. Tout commence par une consultation de 30 minutes, qui coûte 54 à 59 francs selon la clinique.
+Les services vétérinaires des huit cabinets Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe, ce qu'il coûte et quels cabinets le pratiquent. Tout commence par une consultation de 30 minutes, qui coûte 54 à 59 francs selon le cabinet.
 
 ## Prévention
 
@@ -32,13 +32,13 @@ Les opérations se font sous anesthésie gazeuse surveillée, avec le traitement
 
 La plupart des résultats sont connus pendant la consultation ou dans la journée.
 
-- [Analyses et diagnostic](/services/analyses-diagnostic/) : prises de sang au laboratoire de la clinique, urines, selles, biopsies.
+- [Analyses et diagnostic](/services/analyses-diagnostic/) : prises de sang au laboratoire du cabinet, urines, selles, biopsies.
 - [Radiographie](/services/radiographie/) : os, poumons, ventre et dépistage officiel de la dysplasie.
 - [Échographie](/services/echographie/) : le ventre, le cœur et la gestation.
 
 ## Soins spécialisés
 
-Certains de ces soins ne se pratiquent que dans quelques cliniques. Chaque page dit lesquelles.
+Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page dit lesquelles.
 
 - [Médecine des NAC](/services/nac/) : lapins, rongeurs, furets, oiseaux et reptiles.
 - [Gestion de la douleur](/services/gestion-de-la-douleur/) : après une opération comme en cas d'arthrose.
@@ -50,10 +50,10 @@ Certains de ces soins ne se pratiquent que dans quelques cliniques. Chaque page 
 ## À domicile et en urgence
 
 - [Soins à domicile](/services/soins-a-domicile/) : un vétérinaire vient chez vous pour les soins courants, en semaine.
-- [Urgences de jour et de nuit](/urgences/) : le numéro à appeler selon l'heure et la clinique.
+- [Urgences de jour et de nuit](/urgences/) : le numéro à appeler selon l'heure et le cabinet.
 
 ## Prix et rendez-vous
 
-Les prix de chaque soin, clinique par clinique, sont sur la page [Tarifs](/tarifs/). Pour un rendez-vous, choisissez votre clinique sur la carte des cliniques.
+Les prix de chaque soin, cabinet par cabinet, sont sur la page [Tarifs](/tarifs/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)

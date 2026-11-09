@@ -12,7 +12,7 @@ especes: [chien, chat]
 resume: Des gestes manuels qui rendent de la mobilité à un chien ou un chat raide, après un examen vétérinaire.
 ---
 
-L'ostéopathie du chien et du chat soigne par des gestes de la main. L'ostéopathe repère les zones raides ou douloureuses, puis les mobilise doucement pour rendre du mouvement aux articulations et aux muscles. Ce soin s'adresse à l'animal qui boite, qui se raidit avec l'âge ou qui récupère d'une opération. Chez Vetmint, une séance coûte 111 à 140 francs selon la clinique et suit toujours un examen vétérinaire.
+L'ostéopathie du chien et du chat soigne par des gestes de la main. L'ostéopathe repère les zones raides ou douloureuses, puis les mobilise doucement pour rendre du mouvement aux articulations et aux muscles. Ce soin s'adresse à l'animal qui boite, qui se raidit avec l'âge ou qui récupère d'une opération. Chez Vetmint, une séance coûte 111 à 140 francs selon le cabinet et suit toujours un examen vétérinaire.
 
 [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
 
@@ -55,7 +55,7 @@ Beaucoup d'animaux se détendent pendant la séance, bâillent ou s'endorment. U
 
 ## La préparation
 
-- Filmez la boiterie ou la raideur à la maison, si possible le matin au lever : elle se voit parfois moins à la clinique.
+- Filmez la boiterie ou la raideur à la maison, si possible le matin au lever : elle se voit parfois moins au cabinet.
 - Apportez les radios, les comptes rendus d'opération et la liste des médicaments en cours.
 - Donnez un repas léger, deux heures avant au moins, plutôt qu'un repas copieux juste avant de partir.
 - Pas d'effort intense le jour de la séance : une balade calme suffit.
@@ -65,18 +65,18 @@ Beaucoup d'animaux se détendent pendant la séance, bâillent ou s'endorment. U
 
 Dans les 24 à 48 heures, l'animal peut être fatigué, dormir davantage ou paraître courbaturé. Ces réactions sont normales et passent seules. Pendant deux à trois jours, préférez des promenades en laisse, sans course, sans saut et sans jeu de balle. Laissez de l'eau à disposition.
 
-L'effet se juge après trois à sept jours. Notez ce qui change : le lever, l'escalier, la longueur des balades, les sauts du chat. Rappelez la clinique si l'animal boite plus qu'avant la séance au-delà de trois jours, s'il a de la fièvre ou s'il ne mange plus.
+L'effet se juge après trois à sept jours. Notez ce qui change : le lever, l'escalier, la longueur des balades, les sauts du chat. Rappelez le cabinet si l'animal boite plus qu'avant la séance au-delà de trois jours, s'il a de la fièvre ou s'il ne mange plus.
 
 Un problème récent se règle souvent en une ou deux séances. Un problème ancien ou une arthrose en demandent deux ou trois, espacées de trois à quatre semaines, puis des séances d'entretien deux à quatre fois par an.
 
 ## Le prix
 
-| Clinique | Ce qui est compris | Prix |
+| Cabinet | Ce qui est compris | Prix |
 |---|---|---|
 | Domdidier | questions, observation de la marche, palpation, traitement, conseils | 111 CHF |
 | Fribourg Ouest, à Givisiez | même contenu, séance assurée par une spécialiste en ostéopathie animale | 140 CHF |
 
-L'examen vétérinaire préalable se paie au prix d'une consultation de 30 minutes. Les radios et les médicaments se paient à part. Les prix sont ceux de la grille en vigueur depuis le 29 avril 2025 ; la page [Tarifs](/tarifs/) détaille chaque clinique.
+L'examen vétérinaire préalable se paie au prix d'une consultation de 30 minutes. Les radios et les médicaments se paient à part. Les prix sont ceux de la grille en vigueur depuis le 29 avril 2025 ; la page [Tarifs](/tarifs/) détaille chaque cabinet.
 
 ## Questions fréquentes
 
@@ -102,16 +102,16 @@ Oui, avec l'accord du vétérinaire qui a opéré, une fois la cicatrice fermée
 
 ### Mon assurance rembourse-t-elle la séance ?
 
-Cela dépend du contrat. Certaines assurances pour animaux couvrent les médecines complémentaires, d'autres non. Demandez une facture détaillée à la clinique et envoyez-la à votre assurance.
+Cela dépend du contrat. Certaines assurances pour animaux couvrent les médecines complémentaires, d'autres non. Demandez une facture détaillée au cabinet et envoyez-la à votre assurance.
 
-## Les cliniques qui pratiquent l'ostéopathie
+## Les cabinets qui pratiquent l'ostéopathie
 
-**[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise, reçoit chiens et chats en ostéopathie. La clinique détaille cette consultation sur sa page [l'ostéopathie à Domdidier](/domdidier/services/osteopathie/). [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+**[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise, reçoit chiens et chats en ostéopathie. Le cabinet détaille cette consultation sur sa page [l'ostéopathie à Domdidier](/domdidier/services/osteopathie/). [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
 
-**[Fribourg Ouest](/fribourg/services/)**, à Givisiez, propose l'ostéopathie avec une spécialiste en ostéopathie animale. L'ostéopathie fait aussi partie de la [consultation douleur](/fribourg/services/gestion-de-la-douleur/) de la clinique, pour les animaux qui souffrent depuis longtemps. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+**[Fribourg Ouest](/fribourg/services/)**, à Givisiez, propose l'ostéopathie avec une spécialiste en ostéopathie animale. L'ostéopathie fait aussi partie de la [consultation douleur](/fribourg/services/gestion-de-la-douleur/) du cabinet, pour les animaux qui souffrent depuis longtemps. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 
 ## Prendre rendez-vous
 
-Si votre animal n'a pas encore été examiné pour ce problème, demandez d'abord une consultation de 30 minutes dans la clinique la plus proche. Le vétérinaire vous oriente ensuite vers la séance. S'il a déjà été examiné, appelez directement Domdidier ou Fribourg Ouest et dites-le au téléphone.
+Si votre animal n'a pas encore été examiné pour ce problème, demandez d'abord une consultation de 30 minutes dans le cabinet le plus proche. Le vétérinaire vous oriente ensuite vers la séance. S'il a déjà été examiné, appelez directement Domdidier ou Fribourg Ouest et dites-le au téléphone.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

@@ -10,7 +10,7 @@ redige_le: 2026-11-03
 resume: "Le vaccin du chat pendant un bilan de 30 minutes : 70 francs à l'intérieur, 98 francs s'il sort."
 ---
 
-À Payerne, le vaccin du chat se fait pendant un bilan de santé de 30 minutes, à la clinique Vetmint de la route du Châtelard 13. Le prix dépend de la vie du chat. Il coûte 70 francs pour un chat d'intérieur, vacciné contre le typhus et le coryza. Il coûte 98 francs pour un chat qui sort, vacciné en plus contre la leucose.
+À Payerne, le vaccin du chat se fait pendant un bilan de santé de 30 minutes, au cabinet Vetmint de la route du Châtelard 13. Le prix dépend de la vie du chat. Il coûte 70 francs pour un chat d'intérieur, vacciné contre le typhus et le coryza. Il coûte 98 francs pour un chat qui sort, vacciné en plus contre la leucose.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -23,13 +23,13 @@ La grille de Payerne distingue deux chats :
 
 Un chat qui sort dans un jardin de Payerne ou dans la campagne broyarde rencontre presque toujours d'autres chats. Il compte donc comme un chat d'extérieur. Au moindre doute, décrivez sa journée au vétérinaire : il choisit le vaccin avec vous.
 
-## La visite à la clinique
+## La visite au cabinet
 
 Amenez votre chat dans une caisse fermée. À l'arrivée, la réception ouvre sur la salle d'attente, où des diffuseurs de phéromones l'apaisent. Si votre chat panique, il peut rester dans sa caisse, couverte d'un linge, puis entrer en salle sans croiser de chien. Les deux salles de consultation sont isolées par des portes insonorisées.
 
 Le vétérinaire laisse le chat sortir de la caisse à son rythme. Il le pèse et note le poids dans son dossier, pour le comparer d'une année à l'autre. Il regarde les dents, les gencives, les yeux et les oreilles, écoute le cœur, palpe le ventre. Puis il fait l'injection sous la peau et colle l'étiquette dans le carnet ou le passeport.
 
-Une prise de sang peut compléter le bilan d'un chat âgé. Le laboratoire de la clinique la lit pendant la visite, dans la plupart des cas. Voir la page [Analyses et diagnostic à Payerne](/payerne/services/analyses-diagnostic/).
+Une prise de sang peut compléter le bilan d'un chat âgé. Le laboratoire du cabinet la lit pendant la visite, dans la plupart des cas. Voir la page [Analyses et diagnostic à Payerne](/payerne/services/analyses-diagnostic/).
 
 ## Le chaton à Payerne
 

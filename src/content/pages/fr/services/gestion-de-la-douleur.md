@@ -12,15 +12,15 @@ especes: [chien, chat, nac]
 resume: Repérer la douleur de votre animal, la soulager après une opération ou au long cours, et suivre l'effet du traitement.
 ---
 
-Un animal qui a mal le montre rarement par des cris. Le chien boite ou ne saute plus dans la voiture, le chat ne monte plus sur le lit, le lapin se tasse dans un coin et cesse de manger. Les vétérinaires Vetmint repèrent la douleur, en cherchent la cause et la traitent, après une opération comme au long cours. Une consultation de 30 minutes coûte 54 à 59 francs selon la clinique. Fribourg Ouest propose en plus une consultation consacrée à la douleur chronique.
+Un animal qui a mal le montre rarement par des cris. Le chien boite ou ne saute plus dans la voiture, le chat ne monte plus sur le lit, le lapin se tasse dans un coin et cesse de manger. Les vétérinaires Vetmint repèrent la douleur, en cherchent la cause et la traitent, après une opération comme au long cours. Une consultation de 30 minutes coûte 54 à 59 francs selon le cabinet. Fribourg Ouest propose en plus une consultation consacrée à la douleur chronique.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Pour quels animaux et dans quelles situations
 
 Chiens, chats, lapins, rongeurs et oiseaux ressentent la douleur comme nous. Elle prend deux formes, soignées différemment.
 
-| Douleur | Situations fréquentes | Ce que fait la clinique |
+| Douleur | Situations fréquentes | Ce que fait le cabinet |
 |---|---|---|
 | Aiguë, de quelques jours | opération, accident, fracture, plaie, dent cassée ou infectée, otite | antidouleurs pendant et après l'acte, puis contrôle |
 | Chronique, de plusieurs semaines ou plus | arthrose, dysplasie, douleurs des tendons, des muscles ou des nerfs, cancer, fin de vie | bilan, plan de traitement combiné, suivi régulier |
@@ -61,7 +61,7 @@ Le traitement ne guérit pas toujours la cause. Une articulation usée par l'art
 
 ### Pendant et après une opération
 
-Chaque opération faite dans une clinique Vetmint comprend le traitement de la douleur dans le forfait d'anesthésie. Le vétérinaire donne un antidouleur avant l'incision, une anesthésie locale quand l'acte s'y prête, puis un anti-inflammatoire. Vous repartez avec les médicaments des jours suivants et la date du contrôle. Un lapin opéré reste en général 24 à 48 heures à la clinique, le temps de diminuer peu à peu les antidouleurs.
+Chaque opération faite dans un cabinet Vetmint comprend le traitement de la douleur dans le forfait d'anesthésie. Le vétérinaire donne un antidouleur avant l'incision, une anesthésie locale quand l'acte s'y prête, puis un anti-inflammatoire. Vous repartez avec les médicaments des jours suivants et la date du contrôle. Un lapin opéré reste en général 24 à 48 heures au cabinet, le temps de diminuer peu à peu les antidouleurs.
 
 ### Pour une douleur qui dure
 
@@ -77,12 +77,12 @@ Le traitement combine plusieurs moyens, choisis selon la cause et l'animal :
 
 ### La consultation douleur de Fribourg Ouest
 
-La clinique de Fribourg Ouest, à Givisiez, consacre une consultation à la douleur chronique et aux douleurs aiguës difficiles à calmer. Elle peut poser des patchs, faire des infiltrations ou des blocs nerveux. Elle coordonne le traitement avec les physiothérapeutes et les ostéopathes qui suivent l'animal. Le déroulement complet est décrit sur sa page [Gestion de la douleur](/fribourg/services/gestion-de-la-douleur/).
+Le cabinet de Fribourg Ouest, à Givisiez, consacre une consultation à la douleur chronique et aux douleurs aiguës difficiles à calmer. Il peut poser des patchs, faire des infiltrations ou des blocs nerveux. Elle coordonne le traitement avec les physiothérapeutes et les ostéopathes qui suivent l'animal. Le déroulement complet est décrit sur sa page [Gestion de la douleur](/fribourg/services/gestion-de-la-douleur/).
 
 ## La préparation
 
 - Filmez votre animal la semaine avant le rendez-vous quand il boite, se lève ou refuse un saut : le vétérinaire voit rarement ces gestes sur la table d'examen.
-- Faites envoyer à la clinique les anciennes radiographies et prises de sang.
+- Faites envoyer au cabinet les anciennes radiographies et prises de sang.
 - Apportez la liste des médicaments et des compléments donnés, avec les doses.
 - Ne donnez aucun antidouleur humain : le paracétamol est mortel pour le chat, l'ibuprofène abîme l'estomac et les reins du chien.
 - Ne mettez jamais un lapin ou un cochon d'Inde à jeun.
@@ -91,13 +91,13 @@ La clinique de Fribourg Ouest, à Givisiez, consacre une consultation à la doul
 
 Le premier contrôle a lieu en général deux semaines à un mois après le début du traitement. Le vétérinaire compare l'animal à la première visite, sur la même grille, puis ajuste les doses. Un traitement de plusieurs mois demande des prises de sang régulières pour surveiller les reins et le foie.
 
-Appelez la clinique si votre animal vomit, a des selles noires, ne mange plus ou semble très abattu sous traitement. Ces signes peuvent venir d'un anti-inflammatoire mal toléré. Appelez aussi si la douleur revient entre deux contrôles : le plan se modifie sans attendre la date prévue.
+Appelez le cabinet si votre animal vomit, a des selles noires, ne mange plus ou semble très abattu sous traitement. Ces signes peuvent venir d'un anti-inflammatoire mal toléré. Appelez aussi si la douleur revient entre deux contrôles : le plan se modifie sans attendre la date prévue.
 
 ## Le prix
 
 | Prestation | Ce qui est compris | Prix |
 |---|---|---|
-| Consultation de 30 minutes | examen, évaluation de la douleur, plan de traitement | 54 à 59 CHF selon la clinique |
+| Consultation de 30 minutes | examen, évaluation de la douleur, plan de traitement | 54 à 59 CHF selon le cabinet |
 | Traitement de la douleur lors d'une opération | compris dans le forfait d'anesthésie de chaque stérilisation, castration ou détartrage | inclus |
 | Consultation avec thérapie laser | consultation et séance de laser | 62 CHF |
 | Consultation d'ostéopathie | consultation et traitement | 111 CHF, 140 CHF à Fribourg Ouest |
@@ -114,7 +114,7 @@ Un chien âgé ralentit, mais un chien qui hésite à se lever ou à monter un e
 
 ### Puis-je lui donner un antidouleur de notre pharmacie ?
 
-Non. Les antidouleurs humains sont dangereux pour les animaux, même à petite dose. Le chat ne sait pas éliminer le paracétamol. Appelez la clinique : elle vous dit quoi faire d'ici le rendez-vous.
+Non. Les antidouleurs humains sont dangereux pour les animaux, même à petite dose. Le chat ne sait pas éliminer le paracétamol. Appelez le cabinet : elle vous dit quoi faire d'ici le rendez-vous.
 
 ### Les anti-inflammatoires peuvent-ils se donner à vie ?
 
@@ -128,11 +128,11 @@ Rarement seuls. Ils complètent les médicaments et l'exercice adapté. Ils réd
 
 Placez une marche devant ses endroits préférés, une litière à bord bas et l'eau à hauteur. Gardez-le à un poids correct : chaque kilo en trop pèse sur les articulations.
 
-## Les cliniques qui soignent la douleur
+## Les cabinets qui soignent la douleur
 
 La consultation douleur se fait à [Fribourg Ouest](/fribourg/services/), à Givisiez. Elle reçoit l'animal qui a mal depuis longtemps ou dont la douleur résiste au traitement habituel, avec un premier rendez-vous d'une heure.
 
-Dans toutes les cliniques Vetmint, le traitement de la douleur fait partie de chaque opération et une douleur qui dure se suit en consultation de 30 minutes. Deux soins complémentaires se pratiquent dans certaines d'entre elles :
+Dans tous les cabinets Vetmint, le traitement de la douleur fait partie de chaque opération et une douleur qui dure se suit en consultation de 30 minutes. Deux soins complémentaires se pratiquent dans certaines d'entre elles :
 
 - la [thérapie laser](/services/laser/) à [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/) ;
 - l'[ostéopathie](/services/osteopathie/) à [Domdidier](/domdidier/services/) et à Fribourg Ouest.
@@ -141,6 +141,6 @@ Pour un lapin ou un rongeur, le conseil [l'arthrose des NAC](/conseils/arthrose-
 
 ## Prendre rendez-vous
 
-Prenez rendez-vous dans votre clinique, en ligne ou par téléphone. Indiquez « douleur » ou « boiterie » comme motif. Pour la consultation douleur, appelez Fribourg Ouest au [026 466 84 84](tel:+41264668484) ou réservez [en ligne](/fribourg/rendez-vous/).
+Prenez rendez-vous dans votre cabinet, en ligne ou par téléphone. Indiquez « douleur » ou « boiterie » comme motif. Pour la consultation douleur, appelez Fribourg Ouest au [026 466 84 84](tel:+41264668484) ou réservez [en ligne](/fribourg/rendez-vous/).
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)

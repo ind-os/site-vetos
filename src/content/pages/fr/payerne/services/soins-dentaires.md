@@ -10,7 +10,7 @@ redige_le: 2026-11-03
 resume: "Détartrage, radiographie des dents et extractions sur place, avec un forfait de 325 francs."
 ---
 
-À Payerne, le détartrage du chien et du chat se fait sous anesthésie, à la clinique Vetmint de la route du Châtelard 13. Le forfait de 45 minutes coûte 325 francs, anesthésie et surveillance comprises. La clinique radiographie les dents sur place, arrache celles qui ne se sauvent plus et soigne les gencives. Elle traite aussi les dents des lapins et des rongeurs.
+À Payerne, le détartrage du chien et du chat se fait sous anesthésie, au cabinet Vetmint de la route du Châtelard 13. Le forfait de 45 minutes coûte 325 francs, anesthésie et surveillance comprises. Le cabinet radiographie les dents sur place, arrache celles qui ne se sauvent plus et soigne les gencives. Il traite aussi les dents des lapins et des rongeurs.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -42,9 +42,9 @@ Les extractions se paient en plus, sur devis, de 25 à 200 francs par dent selon
 | Extraction d'une dent | selon la dent, sur devis | 25 à 200 CHF |
 | Consultation avant le détartrage | examen de la bouche et devis | 57 CHF |
 
-Le plan de prévention du chiot et du chaton ne comprend pas de détartrage. Il donne 5 % de réduction sur les autres soins de la clinique pendant l'année. Toute la grille est sur la page [Tarifs de Payerne](/payerne/tarifs/).
+Le plan de prévention du chiot et du chaton ne comprend pas de détartrage. Il donne 5 % de réduction sur les autres soins du cabinet pendant l'année. Toute la grille est sur la page [Tarifs de Payerne](/payerne/tarifs/).
 
-## La journée du détartrage à la clinique
+## La journée du détartrage au cabinet
 
 Le détartrage se décide pendant une consultation : le vétérinaire regarde la bouche et vous remet le devis. Vous fixez ensuite la date par téléphone, au [026 660 16 16](tel:+41266601616).
 
@@ -55,11 +55,11 @@ Claire-Lise Tinguely ou Tiago Capelo détartre, sonde chaque dent et décide des
 ## Préparer la visite et le retour à la maison
 
 - **Chien et chat** : plus de nourriture après le repas du soir. Laissez l'eau jusqu'au départ.
-- **Lapin, cochon d'Inde, chinchilla** : jamais à jeun. Il mange jusqu'à la clinique ; apportez du foin.
-- **Animal de plus de 7 ans** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire de la clinique la lit en général pendant la consultation. Voir la page [Analyses et diagnostic à Payerne](/payerne/services/analyses-diagnostic/).
+- **Lapin, cochon d'Inde, chinchilla** : jamais à jeun. Il mange jusqu'au cabinet ; apportez du foin.
+- **Animal de plus de 7 ans** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire du cabinet la lit en général pendant la consultation. Voir la page [Analyses et diagnostic à Payerne](/payerne/services/analyses-diagnostic/).
 - **Au retour** : de l'eau et une petite ration le soir. Après des extractions, de la nourriture molle pendant une semaine.
 
-Un contrôle a lieu sept à dix jours après une extraction. Si la bouche saigne encore le soir ou si votre animal refuse de manger le lendemain, appelez la clinique.
+Un contrôle a lieu sept à dix jours après une extraction. Si la bouche saigne encore le soir ou si votre animal refuse de manger le lendemain, appelez le cabinet.
 
 ## Les dents du lapin et des rongeurs
 
@@ -69,7 +69,7 @@ Les incisives et les molaires du lapin, du cochon d'Inde et du chinchilla pousse
 
 ### Combien de temps dure le détartrage ?
 
-Le forfait compte 45 minutes de soins. Chaque extraction allonge l'anesthésie. Votre animal reste à la clinique toute la journée, le temps de se réveiller et de remarcher normalement.
+Le forfait compte 45 minutes de soins. Chaque extraction allonge l'anesthésie. Votre animal reste au cabinet toute la journée, le temps de se réveiller et de remarcher normalement.
 
 ### Mon chien a mauvaise haleine. Faut-il un détartrage ?
 

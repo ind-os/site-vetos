@@ -12,9 +12,9 @@ especes: [chat]
 resume: Les vaccins du chaton et du chat adulte, d'intérieur ou d'extérieur, pendant un bilan de santé de 30 minutes.
 ---
 
-Le vaccin protège votre chat contre quatre maladies : le typhus, le coryza, la leucose et la rage. Chez Vetmint, la vaccination du chat se fait pendant le bilan de santé annuel, une consultation de 30 minutes qui comprend l'examen complet de l'animal. Selon la clinique et le mode de vie du chat, ce bilan avec vaccins coûte de 70 à 99 francs.
+Le vaccin protège votre chat contre quatre maladies : le typhus, le coryza, la leucose et la rage. Chez Vetmint, la vaccination du chat se fait pendant le bilan de santé annuel, une consultation de 30 minutes qui comprend l'examen complet de l'animal. Selon le cabinet et le mode de vie du chat, ce bilan avec vaccins coûte de 70 à 99 francs.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Quels vaccins pour quel chat
 
@@ -42,7 +42,7 @@ Un chat d'intérieur n'a aucun contact avec des chats d'extérieur ou des chats 
 
 Un chaton reçoit sa première injection vers 8 semaines, puis une deuxième trois à quatre semaines plus tard. Une troisième injection vers 16 semaines est fréquente : les anticorps transmis par la mère peuvent neutraliser les premières doses. Un rappel suit un an plus tard.
 
-Ensuite, le rythme dépend du vaccin et du mode de vie, selon le protocole choisi par le vétérinaire. Un chat qui sort reçoit en général chaque année le vaccin contre le coryza et la leucose. Le typhus se rappelle tous les un à trois ans. La clinique vous envoie un rappel avant l'échéance, par SMS, WhatsApp ou e-mail.
+Ensuite, le rythme dépend du vaccin et du mode de vie, selon le protocole choisi par le vétérinaire. Un chat qui sort reçoit en général chaque année le vaccin contre le coryza et la leucose. Le typhus se rappelle tous les un à trois ans. Le cabinet vous envoie un rappel avant l'échéance, par SMS, WhatsApp ou e-mail.
 
 Un chat adulte jamais vacciné, ou dont le dernier rappel est trop ancien, reprend avec deux injections à un mois d'intervalle. Un chat âgé continue ses rappels, parce que ses défenses baissent avec l'âge.
 
@@ -66,13 +66,13 @@ Chez le chaton, le bilan pédiatrique cherche en plus une malformation ou une ma
 
 La plupart des chats ne montrent rien. Certains dorment plus et mangent moins pendant 24 à 48 heures, ou gardent une petite bosse au point d'injection pendant quelques semaines. Ces réactions passent seules.
 
-Appelez la clinique si le chat vomit, a la face gonflée ou respire mal dans les heures qui suivent : c'est une réaction allergique, rare, qui se traite vite. Appelez aussi si la fatigue dure plus de deux jours. Une bosse au point d'injection qui grossit, dépasse deux centimètres ou reste plus de trois mois doit être examinée : chez le chat, elle se surveille de près.
+Appelez le cabinet si le chat vomit, a la face gonflée ou respire mal dans les heures qui suivent : c'est une réaction allergique, rare, qui se traite vite. Appelez aussi si la fatigue dure plus de deux jours. Une bosse au point d'injection qui grossit, dépasse deux centimètres ou reste plus de trois mois doit être examinée : chez le chat, elle se surveille de près.
 
 ## Le prix
 
 Le bilan avec vaccins comprend la consultation de 30 minutes et le vaccin adapté au mode de vie du chat. Le bilan avec vaccin contre la rage comprend la consultation, le vaccin, l'inscription dans le passeport et la lecture de la puce.
 
-| Clinique | Chat d'intérieur | Chat d'extérieur ou en pension | Rage |
+| Cabinet | Chat d'intérieur | Chat d'extérieur ou en pension | Rage |
 |---|---|---|---|
 | Bussigny | 98 CHF (70 CHF pour un chaton) | 98 CHF | 77 CHF |
 | La Chaux-de-Fonds | 94 CHF | 94 CHF | 89 CHF |
@@ -113,9 +113,9 @@ Non. Un chat de douze ans qui sort reste exposé à la leucose et au coryza, ave
 
 Le vétérinaire évite en général les vaccins pendant la gestation et en discute avec vous. Mettez les vaccins de la chatte à jour avant une portée prévue.
 
-## Les cliniques qui vaccinent les chats
+## Les cabinets qui vaccinent les chats
 
-Les huit cliniques Vetmint vaccinent les chats pendant le bilan de santé annuel, sur rendez-vous.
+Les huit cabinets Vetmint vaccinent les chats pendant le bilan de santé annuel, sur rendez-vous.
 
 - [Bussigny](/bussigny/services/) : [021 703 25 30](tel:+41217032530) ou [rendez-vous en ligne](/bussigny/rendez-vous/), avec un calendrier propre aux vaccins
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [032 914 03 48](tel:+41329140348) ou [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
@@ -128,6 +128,6 @@ Les huit cliniques Vetmint vaccinent les chats pendant le bilan de santé annuel
 
 ## Prendre rendez-vous
 
-Choisissez votre clinique sur la [carte](/cliniques/) ou appelez-la. Pour un chaton, dites son âge au téléphone : la clinique prévoit un bilan pédiatrique. Pour un voyage, dites la date de départ : le vaccin contre la rage doit dater de 21 jours au moins.
+Choisissez votre cabinet sur la [carte](/cabinets/) ou appelez-la. Pour un chaton, dites son âge au téléphone : le cabinet prévoit un bilan pédiatrique. Pour un voyage, dites la date de départ : le vaccin contre la rage doit dater de 21 jours au moins.
 
 Pour aller plus loin : [l'hyperthyroïdie du chat âgé](/conseils/hyperthyroidie-feline/) et [l'obésité du chat](/conseils/obesite-du-chat/).

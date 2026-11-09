@@ -19,7 +19,7 @@ Trois fiches présentent [le lapin](/conseils/le-lapin/), [le cochon d'Inde](/co
 
 Le lapin se vaccine contre la maladie hémorragique virale (VHD), presque toujours mortelle, dès 10 semaines puis chaque année. Aucun vaccin contre la myxomatose, une autre maladie virale du lapin, n'est autorisé en Suisse. Le foin, au moins 80 % de sa ration, use ses dents. La lapine se [stérilise](/services/sterilisation-castration/) dès 5 mois ou 1 kg : l'opération évite les tumeurs de l'utérus. Une visite par an contrôle les dents et les oreilles.
 
-Le rat se montre au vétérinaire avant 6 mois, puis vers un an et demi, puis régulièrement dès 2 ans. La page [Médecine des NAC](/services/nac/) décrit nos soins pour ces espèces. La clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/) pour les cas qui durent.
+Le rat se montre au vétérinaire avant 6 mois, puis vers un an et demi, puis régulièrement dès 2 ans. La page [Médecine des NAC](/services/nac/) décrit nos soins pour ces espèces. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/) pour les cas qui durent.
 
 ## Quand appeler plutôt que lire
 

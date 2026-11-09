@@ -35,7 +35,7 @@ Souvent, aucune cause précise ne ressort. Certaines situations reviennent pourt
 
 ## Quand consulter
 
-Appelez une clinique le jour même si votre chien vomit plusieurs fois, vomit du sang, refuse de manger ou paraît abattu avec un ventre douloureux. La perte d'eau et de sels par les vomissements et la diarrhée peut mettre sa vie en danger. En dehors des heures d'ouverture, la page [Urgences et garde](/urgences/) dit qui joindre.
+Appelez un cabinet le jour même si votre chien vomit plusieurs fois, vomit du sang, refuse de manger ou paraît abattu avec un ventre douloureux. La perte d'eau et de sels par les vomissements et la diarrhée peut mettre sa vie en danger. En dehors des heures d'ouverture, la page [Urgences et garde](/urgences/) dit qui joindre.
 
 Prenez rendez-vous dans la semaine pour des selles molles ou un appétit capricieux qui reviennent après un écart alimentaire. Ce sont parfois les signes d'une pancréatite chronique.
 
@@ -47,7 +47,7 @@ L'examen et la palpation du ventre orientent le vétérinaire. Une prise de sang
 
 Il n'existe pas de médicament qui éteigne l'inflammation du pancréas. Le traitement soutient le chien pendant que la crise passe. Le vétérinaire l'adapte à la gravité, aux complications et aux autres maladies du chien.
 
-Le plus important est de rendre au chien l'eau et les sels perdus. Comme cette perte peut être grave, le chien reste souvent hospitalisé, sous perfusion. La page [Hospitalisation](/services/hospitalisation/) décrit ces journées à la clinique.
+Le plus important est de rendre au chien l'eau et les sels perdus. Comme cette perte peut être grave, le chien reste souvent hospitalisé, sous perfusion. La page [Hospitalisation](/services/hospitalisation/) décrit ces journées au cabinet.
 
 Les antidouleurs font partie du traitement de base. La pancréatite fait souffrir, même un chien qui ne le montre pas : beaucoup de chiens qui semblaient calmes vont nettement mieux une fois soulagés. Selon les cas, le vétérinaire ajoute un médicament contre les vomissements.
 
@@ -70,8 +70,8 @@ Lisez l'étiquette avec soin. Beaucoup d'emballages donnent la teneur en graisse
 
 Une pancréatite peut revenir. Chaque crise abîme un peu plus le pancréas, qui peut alors fabriquer moins d'insuline : un [diabète](/conseils/diabete-du-chien/) apparaît parfois après des pancréatites répétées. Garder votre chien à son poids de forme et à son régime réduit ce risque.
 
-## Consulter dans une clinique Vetmint
+## Consulter dans un cabinet Vetmint
 
 Une consultation dure 30 minutes chez Vetmint. Le vétérinaire examine votre chien, fait les analyses sur place et prépare avec vous le plan des repas. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

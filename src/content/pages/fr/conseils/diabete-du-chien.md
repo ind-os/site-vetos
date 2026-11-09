@@ -49,7 +49,7 @@ Appelez le jour même s'il vomit, refuse de manger, respire vite ou paraît trè
 
 ## Comment le vétérinaire pose le diagnostic
 
-Après l'examen, le vétérinaire mesure le sucre dans le sang (la glycémie). Il dose aussi la fructosamine, qui reflète le taux de sucre des deux à trois dernières semaines. L'analyse d'urine cherche du sucre et des signes d'infection. Ces mesures se font dans le laboratoire de la clinique : la page [Analyses et diagnostic](/services/analyses-diagnostic/) en donne le détail. Le [bilan sanguin](/conseils/bilan-sanguin/) complet vérifie en même temps les reins et le foie.
+Après l'examen, le vétérinaire mesure le sucre dans le sang (la glycémie). Il dose aussi la fructosamine, qui reflète le taux de sucre des deux à trois dernières semaines. L'analyse d'urine cherche du sucre et des signes d'infection. Ces mesures se font dans le laboratoire du cabinet : la page [Analyses et diagnostic](/services/analyses-diagnostic/) en donne le détail. Le [bilan sanguin](/conseils/bilan-sanguin/) complet vérifie en même temps les reins et le foie.
 
 ## Le diabète est-il réversible ?
 
@@ -67,14 +67,14 @@ Le traitement repose sur trois piliers, qui se renforcent l'un l'autre.
 
 Les premières semaines, le vétérinaire ajuste la dose d'insuline. Il s'appuie sur des courbes de glycémie : plusieurs mesures du sucre sur une journée. Une fois le chien stable, un contrôle espacé de quelques mois suffit en général.
 
-Une dose trop forte fait chuter le sucre. Le chien tremble, titube, puis peut convulser. Le vétérinaire vous explique quoi faire en attendant les secours, souvent frotter un peu de sucre ou de miel sur ses gencives. Appelez ensuite une clinique sans attendre.
+Une dose trop forte fait chuter le sucre. Le chien tremble, titube, puis peut convulser. Le vétérinaire vous explique quoi faire en attendant les secours, souvent frotter un peu de sucre ou de miel sur ses gencives. Appelez ensuite un cabinet sans attendre.
 
 ## La prévention
 
 Garder votre chien à son poids de forme réduit le risque. La stérilisation de la chienne le réduit aussi : la page [Stérilisation et castration](/services/sterilisation-castration/) en explique le déroulement. Dès 7 ans, une prise de sang annuelle repère un diabète avant les premiers signes. Une [pancréatite](/conseils/pancreatite-du-chien/) répétée peut abîmer le pancréas : elle se soigne aussi pour cette raison.
 
-## Consulter dans une clinique Vetmint
+## Consulter dans un cabinet Vetmint
 
 Une consultation dure 30 minutes chez Vetmint. Le premier rendez-vous pour un chien diabétique laisse le temps d'apprendre les piqûres et de poser toutes vos questions. La page [Consultation et bilan de santé](/services/consultation/) décrit ce qui s'y fait.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

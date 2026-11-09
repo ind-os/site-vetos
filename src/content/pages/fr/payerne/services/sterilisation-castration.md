@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /payerne/services/sterilisation-castration/
 title: "Stérilisation et castration à Payerne : chat, chien, lapin"
-description: "Stérilisation chat à Payerne : chatte 260 francs, chat 115, chienne 810, chien 450, lapin 131. Ce que comprend chaque forfait, la journée à la clinique Vetmint."
+description: "Stérilisation chat à Payerne : chatte 260 francs, chat 115, chienne 810, chien 450, lapin 131. Ce que comprend chaque forfait, la journée au cabinet Vetmint."
 h1: Stérilisation et castration à Payerne
 recherche: stérilisation chat Payerne
 redige_le: 2026-11-03
 resume: "Chats, chiens, lapins et rongeurs opérés sur place, avec des forfaits de 115 à 810 francs."
 ---
 
-La clinique Vetmint de Payerne stérilise et castre les chats, les chiens et les lapins dans sa salle d'opération de la route du Châtelard 13. Elle opère aussi les cochons d'Inde, les rats, les chinchillas, les hamsters, les gerbilles et les dègues. À Payerne, la stérilisation d'une chatte coûte 260 francs et la castration d'un chat 115 francs. Votre animal rentre avec vous le soir même.
+Le cabinet Vetmint de Payerne stérilise et castre les chats, les chiens et les lapins dans sa salle d'opération de la route du Châtelard 13. Il opère aussi les cochons d'Inde, les rats, les chinchillas, les hamsters, les gerbilles et les dègues. À Payerne, la stérilisation d'une chatte coûte 260 francs et la castration d'un chat 115 francs. Votre animal rentre avec vous le soir même.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -32,13 +32,13 @@ La chienne, le chien et le lapin ont deux consultations de contrôle comprises d
 
 La lapine et les rongeurs n'ont pas de forfait dans la grille de Payerne. Le vétérinaire établit un devis à la consultation qui précède l'opération.
 
-## La journée de l'opération à la clinique
+## La journée de l'opération au cabinet
 
 Les opérations programmées ont lieu le matin, du lundi au vendredi. Vous amenez votre animal à 8 h, à l'ouverture. Une assistante en médecine vétérinaire le pèse et vérifie avec vous qu'il est à jeun, si son espèce le demande.
 
 L'animal passe ensuite dans la salle de préparation, qui donne directement sur la salle d'opération. Claire-Lise Tinguely ou Tiago Capelo l'examine, puis l'endort. Jessy Dizerens ou Sandra Maeder surveille sa respiration et son cœur pendant l'opération, puis pendant le réveil.
 
-Le vétérinaire vous téléphone quand l'opération est finie. Vous reprenez votre animal en fin d'après-midi, entre 16 h et 18 h, ou jusqu'à 19 h le mardi. Au comptoir, l'assistante vous remet les médicaments contre la douleur et vous explique comment les donner. Le lendemain, la clinique vous appelle pour savoir comment s'est passée la nuit.
+Le vétérinaire vous téléphone quand l'opération est finie. Vous reprenez votre animal en fin d'après-midi, entre 16 h et 18 h, ou jusqu'à 19 h le mardi. Au comptoir, l'assistante vous remet les médicaments contre la douleur et vous explique comment les donner. Le lendemain, le cabinet vous appelle pour savoir comment s'est passée la nuit.
 
 ## Préparer l'opération
 

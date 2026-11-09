@@ -59,7 +59,7 @@ Les horaires, les fermetures et le numéro de garde viennent de la fiche de la c
 
 Blocs : `horaires`, `fermetures`, `garde`. Le texte autour reste vrai quelle que soit la valeur du jour : il dit quand appeler la garde, sans redonner le numéro.
 
-Un bloc appartient à la clinique du champ `clinique`. Sur une page qui présente plusieurs cliniques (`/cliniques/`), il appartient à la clinique que nomme le titre `##` qui le précède (« ## Vetmint Payerne »).
+Un bloc appartient à la clinique du champ `clinique`. Sur une page qui présente plusieurs cliniques (`/cabinets/`), il appartient à la clinique que nomme le titre `##` qui le précède (« ## Vetmint Payerne »).
 
 ## Vérifier une page
 

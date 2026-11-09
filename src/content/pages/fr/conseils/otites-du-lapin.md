@@ -51,7 +51,7 @@ Une otite externe non soignée gagne souvent l'oreille moyenne. De là, l'infect
 
 ## Quand consulter
 
-Appelez la clinique le jour même si votre lapin penche brusquement la tête, roule sur lui-même, perd l'équilibre ou cesse de manger. Sans nourriture pendant six heures, son intestin risque de s'arrêter. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
+Appelez le cabinet le jour même si votre lapin penche brusquement la tête, roule sur lui-même, perd l'équilibre ou cesse de manger. Sans nourriture pendant six heures, son intestin risque de s'arrêter. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
 
 Pour une oreille qui gratte, un lapin qui secoue la tête ou un gonflement à la base de l'oreille, prenez rendez-vous dans la semaine. N'attendez pas que les signes passent : chez le lapin, ils reviennent.
 
@@ -90,6 +90,6 @@ La prévention compte d'autant plus que votre lapin a les oreilles tombantes.
 
 ## Faire soigner votre lapin
 
-Les otites du lapin se soignent dans les cliniques Vetmint : [médecine des NAC](/services/nac/). La clinique de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/), avec des consultations spécialisées et une hospitalisation adaptée aux lapins. Pour l'habitat, la ration et les vaccins : [la fiche du lapin](/conseils/le-lapin/).
+Les otites du lapin se soignent dans les cabinets Vetmint : [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/), avec des consultations spécialisées et une hospitalisation adaptée aux lapins. Pour l'habitat, la ration et les vaccins : [la fiche du lapin](/conseils/le-lapin/).
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)

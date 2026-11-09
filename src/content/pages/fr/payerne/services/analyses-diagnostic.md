@@ -7,10 +7,10 @@ description: "Analyse de sang du chien et du chat à Payerne : laboratoire sur 
 h1: Analyses et diagnostic à Payerne
 recherche: analyse de sang chien Payerne
 redige_le: 2026-11-03
-resume: Le laboratoire de la clinique lit la plupart des prises de sang pendant la consultation.
+resume: Le laboratoire du cabinet lit la plupart des prises de sang pendant la consultation.
 ---
 
-À Payerne, l'analyse de sang du chien et du chat se fait au laboratoire de la clinique, route du Châtelard 13. Ses appareils envoient les valeurs directement à l'ordinateur du vétérinaire. La plupart des prises de sang sont donc lues en une demi-heure environ, avant la fin de la consultation. Le même laboratoire examine l'urine, les selles, la peau et les cellules d'une grosseur, chez les chiens, les chats, les lapins et les rongeurs. Seules les biopsies partent vers un laboratoire externe.
+À Payerne, l'analyse de sang du chien et du chat se fait au laboratoire du cabinet, route du Châtelard 13. Ses appareils envoient les valeurs directement à l'ordinateur du vétérinaire. La plupart des prises de sang sont donc lues en une demi-heure environ, avant la fin de la consultation. Le même laboratoire examine l'urine, les selles, la peau et les cellules d'une grosseur, chez les chiens, les chats, les lapins et les rongeurs. Seules les biopsies partent vers un laboratoire externe.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -28,11 +28,11 @@ Le prélèvement se fait en salle de consultation. Claire-Lise Tinguely ou Tiago
 - **La peau** : un raclage montre les acariens de la gale ; une culture cherche la teigne, un champignon qui se transmet à l'humain. La culture pousse en une à trois semaines.
 - **Les cellules** : une ponction à l'aiguille fine dans une grosseur donne une lame que le vétérinaire lit au microscope, souvent le jour même. C'est la cytologie.
 
-Le plan de prévention chaton de la clinique comprend un test de dépistage de la leucose (FeLV) et du virus de l'immunodéficience du chat (FIV). Il se fait au laboratoire, avec quelques gouttes de sang.
+Le plan de prévention chaton du cabinet comprend un test de dépistage de la leucose (FeLV) et du virus de l'immunodéficience du chat (FIV). Il se fait au laboratoire, avec quelques gouttes de sang.
 
 ## Ce qui part au laboratoire externe
 
-Une biopsie est un petit morceau de tissu prélevé sous anesthésie ou sous calmant. Le vétérinaire de Payerne le prépare et l'envoie à un pathologiste, qui dit si la grosseur est bénigne ou maligne. Le rapport revient en cinq à sept jours ouvrables. Dès qu'il arrive, le vétérinaire vous appelle pour l'expliquer et proposer la suite, par exemple une [opération à la clinique](/payerne/services/chirurgie/).
+Une biopsie est un petit morceau de tissu prélevé sous anesthésie ou sous calmant. Le vétérinaire de Payerne le prépare et l'envoie à un pathologiste, qui dit si la grosseur est bénigne ou maligne. Le rapport revient en cinq à sept jours ouvrables. Dès qu'il arrive, le vétérinaire vous appelle pour l'expliquer et proposer la suite, par exemple une [opération au cabinet](/payerne/services/chirurgie/).
 
 ## Le prix à Payerne
 
@@ -42,10 +42,10 @@ Une analyse se fait pendant une consultation de 30 minutes, qui coûte 57 franc
 - la prise de sang avant une anesthésie, 85 francs ;
 - une analyse d'urine, 45 francs ;
 - une analyse de selles, 40 francs ;
-- une cytologie lue à la clinique, 55 francs ;
+- une cytologie lue au cabinet, 55 francs ;
 - une biopsie avec le rapport du pathologiste, de 180 à 280 francs, hors anesthésie.
 
-Si votre animal arrive en urgence pendant les heures d'ouverture, un supplément de 99 francs s'ajoute. Vous réglez au comptoir avant de repartir. Tous les prix de la clinique sont sur la page [Tarifs](/payerne/tarifs/).
+Si votre animal arrive en urgence pendant les heures d'ouverture, un supplément de 99 francs s'ajoute. Vous réglez au comptoir avant de repartir. Tous les prix du cabinet sont sur la page [Tarifs](/payerne/tarifs/).
 
 ## Préparer la visite
 
@@ -55,13 +55,13 @@ Si votre animal arrive en urgence pendant les heures d'ouverture, un supplément
 - **Les selles** : un échantillon frais, de la taille d'une noisette, dans un sachet fermé.
 - **Les médicaments** : notez lesquels votre animal reçoit et à quelle heure il a eu la dernière prise.
 
-Un échantillon d'urine ou de selles peut se déposer au comptoir sans l'animal, après un appel au [026 660 16 16](tel:+41266601616). Le mardi, la clinique reste ouverte jusqu'à 19 h : vous pouvez passer après le travail. Pour un grand chien qui marche mal, la place de dépose de plain-pied est juste devant l'entrée.
+Un échantillon d'urine ou de selles peut se déposer au comptoir sans l'animal, après un appel au [026 660 16 16](tel:+41266601616). Le mardi, le cabinet reste ouvert jusqu'à 19 h : vous pouvez passer après le travail. Pour un grand chien qui marche mal, la place de dépose de plain-pied est juste devant l'entrée.
 
 Les résultats vous sont remis imprimés ou envoyés par e-mail. Gardez-les : d'une année à l'autre, la comparaison des valeurs en dit souvent plus qu'une seule prise de sang.
 
 ## Les questions qu'on nous pose au comptoir
 
-### Puis-je attendre le résultat à la clinique ?
+### Puis-je attendre le résultat au cabinet ?
 
 Oui, pour une prise de sang, une analyse d'urine ou de selles. Le résultat arrive en général pendant votre consultation. Si le vétérinaire demande une radio en plus, elle se fait dans la foulée, à côté du laboratoire : voir la [radiographie à Payerne](/payerne/services/radiographie/).
 
@@ -69,7 +69,7 @@ Oui, pour une prise de sang, une analyse d'urine ou de selles. Le résultat arri
 
 Signalez-le en prenant rendez-vous. Il peut attendre dans sa caisse couverte d'un linge et entrer directement en salle. Les deux salles de consultation sont séparées par des portes insonorisées. Si le prélèvement reste impossible, le vétérinaire propose un calmant léger.
 
-### Les résultats sont mauvais. Mon animal doit-il rester à la clinique ?
+### Les résultats sont mauvais. Mon animal doit-il rester au cabinet ?
 
 Pas toujours. Une valeur peut monter après un stress ou un repas. Le vétérinaire décide parfois de refaire l'analyse quelques semaines plus tard. Si les reins ou le sucre demandent une perfusion, votre animal reste la journée : voir l'[hospitalisation à Payerne](/payerne/services/hospitalisation/).
 

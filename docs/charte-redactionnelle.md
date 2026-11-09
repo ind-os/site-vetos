@@ -113,7 +113,7 @@ Le mot de gauche est celui du texte courant, des titres et des questions. Le ter
 
 ### 2.2 Les termes médicaux à expliquer
 
-Ces termes restent, parce que le propriétaire les entend à la clinique. Ils sont expliqués en quelques mots à leur première apparition sur la page, entre parenthèses ou dans la phrase suivante : « le typhus (une gastro-entérite virale, souvent mortelle chez le chaton) ».
+Ces termes restent, parce que le propriétaire les entend au cabinet. Ils sont expliqués en quelques mots à leur première apparition sur la page, entre parenthèses ou dans la phrase suivante : « le typhus (une gastro-entérite virale, souvent mortelle chez le chaton) ».
 
 | Terme | Explication type |
 |---|---|
@@ -168,6 +168,7 @@ Le script `outils/verifier-les-pages.mjs` signale la plupart d'entre eux.
 ### 2.4 Les orthographes de référence
 
 - vétérinaire, vétérinaires (jamais « véterinaire », « veterinaire ») ; assistante en médecine vétérinaire (AMV)
+- cabinet, cabinet vétérinaire, pour chaque lieu Vetmint ; en allemand Praxis, Tierarztpraxis. Jamais « clinique » ni « Klinik » pour un lieu Vetmint : l'appellation est protégée. Le mot reste pour un autre établissement (« une clinique de référence ») et pour l'adjectif médical (« l'examen clinique »). Attention aux accords : « le cabinet est ouvert », « il vous rappelle ». L'adresse de la liste des cabinets est `/cabinets/`.
 - Vetmint (jamais « VetMint », « VETMINT ») ; les raisons sociales « Vetmint Bussigny SA », « Vetmint Payerne SA » restent dans le pied de page et les mentions légales
 - coryza, typhus, leucose, parvovirose, leptospirose, maladie de Carré, hépatite contagieuse, rage
 - rez-de-chaussée, hospitalisation, annulation, e-mail, WhatsApp, TWINT

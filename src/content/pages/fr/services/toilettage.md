@@ -1,7 +1,7 @@
 ---
 type: service
 url: /services/toilettage/
-title: "Toilettage du chien et du chat en clinique : prix | Vetmint"
+title: "Toilettage du chien et du chat au cabinet : prix | Vetmint"
 description: "Toilettage chien et chat chez Vetmint : bain, coupe, griffes, défeutrage, sédation possible par un vétérinaire. Petit chien dès 81 francs, chat dès 91."
 h1: Toilettage et défeutrage du chien et du chat
 nom: Toilettage
@@ -12,7 +12,7 @@ especes: [chien, chat]
 resume: Bain, coupe et défeutrage par une assistante en médecine vétérinaire toiletteuse, avec un vétérinaire sur place si besoin.
 ---
 
-Le toilettage chez Vetmint se fait dans la clinique, par une assistante en médecine vétérinaire diplômée en toilettage. Elle lave, sèche, démêle et coupe le pelage des chiens et des chats, taille les griffes et nettoie les oreilles. Si l'animal est trop anxieux ou trop emmêlé, un vétérinaire de la clinique pratique une sédation et reste sur place. Le toilettage d'un petit chien coûte dès 81 francs, celui d'un chat dès 91 francs.
+Le toilettage chez Vetmint se fait dans le cabinet, par une assistante en médecine vétérinaire diplômée en toilettage. Elle lave, sèche, démêle et coupe le pelage des chiens et des chats, taille les griffes et nettoie les oreilles. Si l'animal est trop anxieux ou trop emmêlé, un vétérinaire du cabinet pratique une sédation et reste sur place. Le toilettage d'un petit chien coûte dès 81 francs, celui d'un chat dès 91 francs.
 
 [Écrire à toilettage@vetmint.ch](mailto:toilettage@vetmint.ch)
 
@@ -28,11 +28,11 @@ Le toilettage s'adresse aux chiens de toutes tailles et aux chats. Il sert surto
 
 Un chiot peut venir dès que ses vaccins sont faits. Les premières séances sont courtes : il apprend le bruit de la tondeuse et du séchoir avant une coupe complète.
 
-## Pourquoi un toilettage dans une clinique
+## Pourquoi un toilettage dans un cabinet
 
-La toiletteuse est aussi assistante en médecine vétérinaire. En lavant et en coupant, elle voit la peau de près. Elle repère une grosseur, des puces, une rougeur, une oreille qui sent mauvais ou une griffe incarnée. Elle le signale au vétérinaire de la clinique, qui examine l'animal le jour même si c'est nécessaire.
+La toiletteuse est aussi assistante en médecine vétérinaire. En lavant et en coupant, elle voit la peau de près. Elle repère une grosseur, des puces, une rougeur, une oreille qui sent mauvais ou une griffe incarnée. Elle le signale au vétérinaire du cabinet, qui examine l'animal le jour même si c'est nécessaire.
 
-Le deuxième avantage tient à la sédation. Un chien qui mord dès qu'on touche ses pattes ne se toilette pas éveillé sans danger. Un chat couvert de nœuds collés à la peau ne se laisse pas tondre sans douleur. À la clinique, un vétérinaire examine l'animal, lui donne un calmant adapté à son poids et à sa santé, puis le surveille jusqu'au réveil. La toiletteuse travaille pendant ce temps.
+Le deuxième avantage tient à la sédation. Un chien qui mord dès qu'on touche ses pattes ne se toilette pas éveillé sans danger. Un chat couvert de nœuds collés à la peau ne se laisse pas tondre sans douleur. Au cabinet, un vétérinaire examine l'animal, lui donne un calmant adapté à son poids et à sa santé, puis le surveille jusqu'au réveil. La toiletteuse travaille pendant ce temps.
 
 Un animal âgé, malade du cœur ou sous traitement passe d'abord par le vétérinaire. Celui-ci décide s'il supporte le bain, le séchage ou la sédation.
 
@@ -66,9 +66,9 @@ Après un défeutrage, le pelage repousse en deux à quatre mois. La peau peut �
 
 ## Après la séance
 
-La plupart des animaux rentrent fatigués et dorment. Une rougeur après la tonte, surtout sur le ventre ou après un défeutrage, passe en quelques jours. Empêchez l'animal de se lécher ou de se gratter la zone et rappelez la clinique si une plaie apparaît.
+La plupart des animaux rentrent fatigués et dorment. Une rougeur après la tonte, surtout sur le ventre ou après un défeutrage, passe en quelques jours. Empêchez l'animal de se lécher ou de se gratter la zone et rappelez le cabinet si une plaie apparaît.
 
-Après une sédation, l'animal reste somnolent quelques heures. Gardez-le au calme et à l'intérieur jusqu'au lendemain. Donnez-lui un petit repas le soir. Appelez la clinique s'il ne tient pas debout le soir ou s'il vomit plusieurs fois.
+Après une sédation, l'animal reste somnolent quelques heures. Gardez-le au calme et à l'intérieur jusqu'au lendemain. Donnez-lui un petit repas le soir. Appelez le cabinet s'il ne tient pas debout le soir ou s'il vomit plusieurs fois.
 
 Le rythme dépend du pelage. Un caniche ou un bichon revient toutes les six à huit semaines. Un chien à double poil vient à la mue, deux fois par an. Un chat à poil long brossé chaque jour à la maison n'a besoin que de deux ou trois séances par an.
 
@@ -89,7 +89,7 @@ Après cinq séances, la sixième est à moitié prix. La sédation se paie en p
 
 ### Puis-je rester pendant le toilettage ?
 
-En général non. Beaucoup d'animaux s'agitent davantage en présence de leur propriétaire. Vous déposez votre animal et la clinique vous appelle quand il est prêt.
+En général non. Beaucoup d'animaux s'agitent davantage en présence de leur propriétaire. Vous déposez votre animal et le cabinet vous appelle quand il est prêt.
 
 ### Mon chien a peur du séchoir, que se passe-t-il ?
 
@@ -107,19 +107,19 @@ Non. Leur sous-poil les isole de la chaleur comme du froid. Tondu, le chien a pl
 
 Le bain élimine une partie des puces, pas leurs œufs dans la maison. La toiletteuse signale les puces au vétérinaire, qui prescrit un traitement pour l'animal et ses congénères.
 
-## Les cliniques qui proposent le toilettage
+## Les cabinets qui proposent le toilettage
 
-Le toilettage, le défeutrage et la sédation se font dans deux cliniques de la Broye, avec la même grille de prix :
+Le toilettage, le défeutrage et la sédation se font dans deux cabinets de la Broye, avec la même grille de prix :
 
 - [Payerne](/payerne/services/), route du Châtelard 13 ([rendez-vous](/payerne/rendez-vous/))
 - [Domdidier](/domdidier/services/), route de Saint-Aubin 58 ([rendez-vous](/domdidier/rendez-vous/))
 
-Les autres [cliniques Vetmint](/cliniques/) vous orientent vers l'une des deux.
+Les autres [cabinets Vetmint](/cabinets/) vous orientent vers l'un des deux.
 
 [La Chaux-de-Fonds](/chauxdefonds/services/) pratique le défeutrage des chats sous anesthésie, dès 200 francs ([rendez-vous](/chauxdefonds/rendez-vous/)).
 
 ## Prendre rendez-vous
 
-Écrivez à la toiletteuse en indiquant la race, le poids, l'état du pelage et la clinique qui vous arrange. Une photo du pelage l'aide à prévoir le temps nécessaire. Elle répond sous deux jours ouvrables avec une date. Vous pouvez aussi appeler votre clinique.
+Écrivez à la toiletteuse en indiquant la race, le poids, l'état du pelage et le cabinet qui vous arrange. Une photo du pelage l'aide à prévoir le temps nécessaire. Elle répond sous deux jours ouvrables avec une date. Vous pouvez aussi appeler votre cabinet.
 
 [Écrire à toilettage@vetmint.ch](mailto:toilettage@vetmint.ch)

@@ -2,7 +2,7 @@
 type: service
 url: /services/radiographie/
 title: "Radiographie du chien et du chat : sédation, prix | Vetmint"
-description: "Radiographie numérique du chien, du chat et du lapin dans les huit cliniques Vetmint : poumons, ventre, os, dents, dysplasie. Lecture expliquée sur place, prix."
+description: "Radiographie numérique du chien, du chat et du lapin dans les huit cabinets Vetmint : poumons, ventre, os, dents, dysplasie. Lecture expliquée sur place, prix."
 h1: Radiographie du chien et du chat
 nom: Radiographie
 recherche: radiographie chien chat
@@ -12,9 +12,9 @@ ordre: 8
 resume: Ce que montre une radio, son déroulement, la sédation, le dépistage de la dysplasie et les prix.
 ---
 
-La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes. Les huit cliniques Vetmint ont une radiographie numérique : l'image s'affiche sur l'écran pendant que votre animal est encore sur la table. Le vétérinaire vous l'explique aussitôt. Une radio de deux clichés coûte 150 francs, lecture comprise.
+La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes. Les huit cabinets Vetmint ont une radiographie numérique : l'image s'affiche sur l'écran pendant que votre animal est encore sur la table. Le vétérinaire vous l'explique aussitôt. Une radio de deux clichés coûte 150 francs, lecture comprise.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Ce que montre une radio
 
@@ -32,19 +32,19 @@ La radio est une image à plat. Pour situer une lésion en profondeur, le vété
 | Dents | dent cassée, gencive gonflée, avant une extraction | racine infectée, abcès, résorption de la dent |
 | Crâne du lapin | perte d'appétit, bave, œil qui coule | racines dentaires trop longues, abcès de la mâchoire |
 
-Quelques cas vus dans les cliniques montrent l'éventail. Sur une chatte gestante, la radio a compté les petits. Chez un chien, elle a montré des ailes de poulet restées dans l'estomac. Chez un chat essoufflé, elle a révélé du liquide dans le thorax. Chez un autre, elle a confirmé un fémur cassé après une chute.
+Quelques cas vus dans les cabinets montrent l'éventail. Sur une chatte gestante, la radio a compté les petits. Chez un chien, elle a montré des ailes de poulet restées dans l'estomac. Chez un chat essoufflé, elle a révélé du liquide dans le thorax. Chez un autre, elle a confirmé un fémur cassé après une chute.
 
 Chez le lapin et les rongeurs, la radio du crâne repère une maladie dentaire avant les premiers signes. Elle sert ensuite à suivre son évolution d'une année à l'autre.
 
 ## Pourquoi une radio plutôt qu'un autre examen
 
-La radio répond vite à une question précise : y a-t-il une fracture, un corps étranger, du liquide dans le thorax ? Elle montre bien les os et les poumons, qui contiennent de l'air. Elle montre moins bien l'intérieur des organes pleins, comme le foie ou les reins. Pour ceux-là, le vétérinaire complète souvent par une [échographie](/services/echographie/). Aucune clinique Vetmint n'a de scanner, l'appareil qui donne des images en coupes. Quand il est nécessaire, le vétérinaire vous adresse à un centre équipé.
+La radio répond vite à une question précise : y a-t-il une fracture, un corps étranger, du liquide dans le thorax ? Elle montre bien les os et les poumons, qui contiennent de l'air. Elle montre moins bien l'intérieur des organes pleins, comme le foie ou les reins. Pour ceux-là, le vétérinaire complète souvent par une [échographie](/services/echographie/). Aucun cabinet Vetmint n'a de scanner, l'appareil qui donne des images en coupes. Quand il est nécessaire, le vétérinaire vous adresse à un centre équipé.
 
 ## Le dépistage officiel de la dysplasie
 
 La dysplasie est une articulation mal formée, à la hanche ou au coude. Elle mène à l'arthrose et à la boiterie. Beaucoup de clubs de race demandent un dépistage officiel avant de faire reproduire un chien.
 
-Les cliniques Vetmint prennent les clichés officiels des hanches et des coudes. Le chien doit avoir l'âge minimal fixé par son club, souvent un an. Sa puce électronique est lue avant le cliché. Il reçoit une sédation, parce que la position exigée, pattes arrière tendues, est impossible à tenir pour un chien éveillé. Les images partent ensuite vers l'organisme de lecture reconnu par le club, qui envoie le résultat officiel.
+Les cabinets Vetmint prennent les clichés officiels des hanches et des coudes. Le chien doit avoir l'âge minimal fixé par son club, souvent un an. Sa puce électronique est lue avant le cliché. Il reçoit une sédation, parce que la position exigée, pattes arrière tendues, est impossible à tenir pour un chien éveillé. Les images partent ensuite vers l'organisme de lecture reconnu par le club, qui envoie le résultat officiel.
 
 ## Le déroulement
 
@@ -69,9 +69,9 @@ Pour un cas difficile, le vétérinaire peut envoyer les images à un radiologue
 
 ## Les suites
 
-Sans sédation, votre animal rentre avec vous juste après. Avec une sédation, il reste à la clinique jusqu'à ce qu'il marche droit. Le soir, donnez-lui un petit repas et laissez-le se reposer au calme.
+Sans sédation, votre animal rentre avec vous juste après. Avec une sédation, il reste au cabinet jusqu'à ce qu'il marche droit. Le soir, donnez-lui un petit repas et laissez-le se reposer au calme.
 
-Les images restent dans le dossier de votre animal. Elles servent de comparaison au prochain contrôle. Sur demande, la clinique vous les remet par e-mail ou par un lien de téléchargement, pour un autre vétérinaire ou pour le club de race.
+Les images restent dans le dossier de votre animal. Elles servent de comparaison au prochain contrôle. Sur demande, le cabinet vous les remet par e-mail ou par un lien de téléchargement, pour un autre vétérinaire ou pour le club de race.
 
 ## Le prix
 
@@ -82,7 +82,7 @@ Les images restent dans le dossier de votre animal. Elles servent de comparaison
 | Sédation légère | calmant, surveillance jusqu'au réveil | 60 à 120 CHF selon le poids |
 | Dépistage officiel hanches et coudes | lecture de la puce, sédation, clichés officiels, envoi pour la lecture | 390 CHF |
 
-Ces prix s'ajoutent à la consultation de 30 minutes. Les radiographies dentaires faites pendant un détartrage sont facturées en plus du forfait, voir [soins dentaires](/services/soins-dentaires/). La page [Tarifs](/tarifs/) donne les prix par clinique.
+Ces prix s'ajoutent à la consultation de 30 minutes. Les radiographies dentaires faites pendant un détartrage sont facturées en plus du forfait, voir [soins dentaires](/services/soins-dentaires/). La page [Tarifs](/tarifs/) donne les prix par cabinet.
 
 Les [abonnements](/abonnements/) Senior pour chien et chat, dès 7 ans, comprennent un pack de cinq radiographies par an. Ils coûtent 129 francs par mois pour un chien et 124 francs pour un chat.
 
@@ -110,11 +110,11 @@ Vous restez pendant l'examen et la lecture, pas pendant le cliché. L'équipe li
 
 ### Mon lapin doit-il être endormi pour une radio du crâne ?
 
-Souvent oui, avec une sédation courte : la tête doit rester parfaitement droite. Il mange normalement jusqu'au départ pour la clinique.
+Souvent oui, avec une sédation courte : la tête doit rester parfaitement droite. Il mange normalement jusqu'au départ pour le cabinet.
 
-## Les cliniques qui radiographient
+## Les cabinets qui radiographient
 
-Les huit cliniques Vetmint ont une radiographie numérique et prennent les clichés officiels de dysplasie.
+Les huit cabinets Vetmint ont une radiographie numérique et prennent les clichés officiels de dysplasie.
 
 - [Bussigny](/bussigny/services/) : pack de cinq radiographies dans l'abonnement Senior. [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : radiographies dentaires des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
@@ -127,6 +127,6 @@ Les huit cliniques Vetmint ont une radiographie numérique et prennent les clich
 
 ## Prendre rendez-vous
 
-Une radio se décide pendant une consultation. Pour un dépistage de dysplasie, dites-le au téléphone : la clinique prévoit la sédation et vous rappelle de venir à jeun. Après un accident, appelez directement la clinique ou lisez la page [urgences](/urgences/). Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
+Une radio se décide pendant une consultation. Pour un dépistage de dysplasie, dites-le au téléphone : le cabinet prévoit la sédation et vous rappelle de venir à jeun. Après un accident, appelez directement le cabinet ou lisez la page [urgences](/urgences/). Choisissez votre cabinet sur la [carte des cabinets](/cabinets/).
 
 Pour aller plus loin : [la sablose urinaire](/conseils/sablose-urinaire/) et [l'arthrose des NAC](/conseils/arthrose-des-nac/).

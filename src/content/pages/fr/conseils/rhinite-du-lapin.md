@@ -35,7 +35,7 @@ Le nez coule. L'écoulement peut être clair ou épais, parfois mêlé de pus. L
 
 Prenez rendez-vous si l'écoulement dure plus de deux jours, s'il s'épaissit ou si les yeux coulent aussi. Un traitement commencé tôt raccourcit la maladie.
 
-Appelez la clinique le jour même si votre lapin respire la bouche ouverte, si ses flancs se creusent à chaque respiration ou s'il mange moins. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. La nuit et le week-end, suivez les consignes de la page [Urgences](/urgences/).
+Appelez le cabinet le jour même si votre lapin respire la bouche ouverte, si ses flancs se creusent à chaque respiration ou s'il mange moins. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. La nuit et le week-end, suivez les consignes de la page [Urgences](/urgences/).
 
 ## Ce que fait le vétérinaire
 
@@ -74,6 +74,6 @@ Les bactéries en cause peuvent se transmettre entre lapins qui vivent ensemble.
 
 ## Faire soigner votre lapin
 
-Nos vétérinaires reçoivent les lapins en consultation. La page [Médecine des NAC](/services/nac/) décrit ce que nous faisons pour eux. Pour une rhinite qui dure ou revient, la clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Nos vétérinaires reçoivent les lapins en consultation. La page [Médecine des NAC](/services/nac/) décrit ce que nous faisons pour eux. Pour une rhinite qui dure ou revient, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

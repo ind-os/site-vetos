@@ -82,9 +82,9 @@ const LIENS_OBLIGATOIRES = {
   'service-clinique': [
     ['page commune du service', '^/services/[a-z-]+/$'], ['rendez-vous', '^/{c}/rendez-vous/$'], ['tarifs', '^/{c}/tarifs/$'],
   ],
-  'service': [['cliniques', '^/cliniques/$'], ['tarifs', '^/tarifs/$']],
-  'accueil-groupe': [['cliniques', '^/cliniques/$'], ['conseils', '^/conseils/'], ['emploi', '^/emploi/$']],
-  'conseil': [['une page de service', '^/services/'], ['rendez-vous ou cliniques', '^(/[a-z]+/rendez-vous/|/cliniques/)$'], ['un autre conseil', '^/conseils/']],
+  'service': [['cabinets', '^/cabinets/$'], ['tarifs', '^/tarifs/$']],
+  'accueil-groupe': [['cabinets', '^/cabinets/$'], ['conseils', '^/conseils/'], ['emploi', '^/emploi/$']],
+  'conseil': [['une page de service', '^/services/'], ['rendez-vous ou cabinets', '^(/[a-z]+/rendez-vous/|/cabinets/)$'], ['un autre conseil', '^/conseils/']],
 };
 
 // Tournures interdites par les règles d'écriture : erreur.

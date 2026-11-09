@@ -12,9 +12,9 @@ especes: [chien, chat, nac]
 resume: Les opérations de la peau, du ventre et des organes, de la grosseur à retirer au corps étranger avalé.
 ---
 
-En chirurgie vétérinaire, les tissus mous désignent la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes retirent une grosseur, referment une plaie, enlèvent un objet avalé ou font naître des petits par césarienne. Les huit cliniques Vetmint pratiquent ces opérations sur les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu. Le prix se fixe sur devis, après une consultation de 30 minutes facturée de 54 à 59 francs selon la clinique.
+En chirurgie vétérinaire, les tissus mous désignent la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes retirent une grosseur, referment une plaie, enlèvent un objet avalé ou font naître des petits par césarienne. Les huit cabinets Vetmint pratiquent ces opérations sur les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu. Le prix se fixe sur devis, après une consultation de 30 minutes facturée de 54 à 59 francs selon le cabinet.
 
-[Choisir une clinique pour une consultation](/cliniques/)
+[Choisir un cabinet pour une consultation](/cabinets/)
 
 ## Pour quels animaux et dans quelles situations
 
@@ -51,7 +51,7 @@ Le vétérinaire examine l'animal, cherche la cause et décide si une opération
 - une radiographie ou une échographie, pour voir un objet avalé ou vérifier qu'une grosseur ne s'est pas étendue ;
 - une cytologie de la grosseur.
 
-Vous recevez ensuite un devis écrit, qui détaille l'anesthésie, l'opération, l'hospitalisation éventuelle, les analyses et les médicaments. La date se fixe avec la clinique. Pour une urgence, ces étapes se font le jour même, en quelques heures.
+Vous recevez ensuite un devis écrit, qui détaille l'anesthésie, l'opération, l'hospitalisation éventuelle, les analyses et les médicaments. La date se fixe avec le cabinet. Pour une urgence, ces étapes se font le jour même, en quelques heures.
 
 ### Le jour de l'opération
 
@@ -67,16 +67,16 @@ Une grosseur retirée part au laboratoire. Le résultat arrive en général en u
 
 ### La laparoscopie
 
-À la clinique du Lac-de-Joux, certaines opérations du ventre se font par laparoscopie : par de petites incisions, avec une caméra. La cicatrice est plus courte et la douleur plus faible. Le vétérinaire dit pendant la consultation si cette technique convient à l'opération prévue.
+Au cabinet du Lac-de-Joux, certaines opérations du ventre se font par laparoscopie : par de petites incisions, avec une caméra. La cicatrice est plus courte et la douleur plus faible. Le vétérinaire dit pendant la consultation si cette technique convient à l'opération prévue.
 
 ## La préparation
 
-- Un chien ou un chat reste à jeun depuis le repas du soir de la veille. L'eau reste disponible jusqu'au matin, sauf consigne contraire de la clinique.
+- Un chien ou un chat reste à jeun depuis le repas du soir de la veille. L'eau reste disponible jusqu'au matin, sauf consigne contraire du cabinet.
 - Un lapin ou un rongeur n'est jamais mis à jeun : il mange et boit jusqu'au moment de l'anesthésie.
 - Donnez les médicaments habituels seulement si le vétérinaire vous l'a dit.
 - Apportez la liste des traitements en cours et le résultat d'examens faits ailleurs.
 - Retirez le collier à l'arrivée et laissez votre numéro de téléphone joignable toute la journée.
-- Pour une urgence, appelez la clinique avant de partir : elle prépare la salle d'opération pendant votre trajet.
+- Pour une urgence, appelez le cabinet avant de partir : elle prépare la salle d'opération pendant votre trajet.
 
 ## Les suites
 
@@ -85,12 +85,12 @@ Une grosseur retirée part au laboratoire. Le résultat arrive en général en u
 Pendant la cicatrisation :
 
 - l'animal porte une collerette ou un body pour ne pas lécher la plaie ;
-- un pansement reste propre et sec ; un pansement mouillé ou qui sent mauvais se change à la clinique ;
+- un pansement reste propre et sec ; un pansement mouillé ou qui sent mauvais se change au cabinet ;
 - le chien sort en laisse, sans sauter ni courir, le temps fixé par le vétérinaire.
 
 Un premier contrôle a lieu en général deux ou trois jours après l'opération, un second vers le dixième jour pour retirer les fils.
 
-Appelez la clinique si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vomit, ne mange plus ou reste abattu, ou s'il a mal malgré les médicaments. Pour un lapin, une journée sans manger est déjà une urgence.
+Appelez le cabinet si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vomit, ne mange plus ou reste abattu, ou s'il a mal malgré les médicaments. Pour un lapin, une journée sans manger est déjà une urgence.
 
 ## Le prix
 
@@ -98,12 +98,12 @@ Une opération des tissus mous se paie sur devis, parce qu'elle varie d'un anima
 
 | Élément | Repère |
 |---|---|
-| Consultation de 30 minutes | 54 à 59 CHF selon la clinique |
+| Consultation de 30 minutes | 54 à 59 CHF selon le cabinet |
 | Consultation spécialisée en chirurgie, Fribourg Ouest | 120 CHF |
 | Anesthésie gazeuse avec cathéter, perfusion, surveillance et traitement de la douleur | 155 CHF pour une chatte, 260 CHF pour une chienne, dans les forfaits de stérilisation de Bussigny |
 | Opération, examens, analyses de laboratoire, hospitalisation, médicaments | selon le devis |
-| Supplément d'urgence pendant les heures d'ouverture | 40 à 99 CHF selon la clinique |
-| Supplément d'urgence la nuit, le dimanche et les jours fériés | 85 à 176 CHF selon la clinique |
+| Supplément d'urgence pendant les heures d'ouverture | 40 à 99 CHF selon le cabinet |
+| Supplément d'urgence la nuit, le dimanche et les jours fériés | 85 à 176 CHF selon le cabinet |
 
 Les abonnements de Bussigny et de Saint-Légier donnent une réduction de 5 à 20 % sur tous les actes, opérations comprises, selon la formule. Le plan de prévention du chiot ou du chaton donne 5 % de réduction sur les actes. Les prix publiés sont sur la page [Tarifs](/tarifs/).
 
@@ -123,19 +123,19 @@ Après le retrait d'une petite grosseur, l'animal rentre en général le soir m�
 
 ### Puis-je lui rendre visite ?
 
-Oui, en accord avec la clinique. À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires d'animaux hospitalisés.
+Oui, en accord avec le cabinet. À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires d'animaux hospitalisés.
 
 ### Mon chat a avalé un fil. Que faire ?
 
-Ne tirez jamais sur un fil qui dépasse de la bouche ou de l'anus : vous pourriez déchirer l'intestin. Appelez la clinique tout de suite. En dehors des heures d'ouverture, la page [Urgences](/urgences/) dit qui appeler.
+Ne tirez jamais sur un fil qui dépasse de la bouche ou de l'anus : vous pourriez déchirer l'intestin. Appelez le cabinet tout de suite. En dehors des heures d'ouverture, la page [Urgences](/urgences/) dit qui appeler.
 
-## Les cliniques qui opèrent
+## Les cabinets qui opèrent
 
-Les huit cliniques pratiquent la chirurgie des tissus mous, la césarienne et le retrait de corps étrangers, avec une salle d'opération et une hospitalisation sur place.
+Les huit cabinets pratiquent la chirurgie des tissus mous, la césarienne et le retrait de corps étrangers, avec une salle d'opération et une hospitalisation sur place.
 
 - [Bussigny](/bussigny/services/) : chirurgie des tissus mous, avec le laser pour la cicatrisation après l'opération. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : chirurgie des tissus mous, opérations des lapins et de nombreux rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : un anesthésiste externe vient à la clinique pour les opérations importantes qui demandent une anesthésie complexe. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Domdidier](/domdidier/services/) : un anesthésiste externe vient au cabinet pour les opérations importantes qui demandent une anesthésie complexe. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. Les boxes d'hospitalisation sont séparés par espèce ; un vétérinaire suit les animaux hospitalisés les soirs et les week-ends. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la salle de radiographie. [Rendez-vous à Payerne](/payerne/rendez-vous/)
@@ -144,6 +144,6 @@ Les huit cliniques pratiquent la chirurgie des tissus mous, la césarienne et le
 
 ## Prendre rendez-vous
 
-Pour une opération programmée, réservez une consultation en indiquant le motif. Pour une plaie, un objet avalé ou une mise bas qui ne progresse pas, appelez directement la clinique la plus proche. Le [bilan sanguin](/conseils/bilan-sanguin/) explique à quoi sert la prise de sang avant l'anesthésie ; la fiche [PECA et PECALBO](/conseils/peca-pecalbo/) décrit l'opération de l'oreille du lapin.
+Pour une opération programmée, réservez une consultation en indiquant le motif. Pour une plaie, un objet avalé ou une mise bas qui ne progresse pas, appelez directement le cabinet le plus proche. Le [bilan sanguin](/conseils/bilan-sanguin/) explique à quoi sert la prise de sang avant l'anesthésie ; la fiche [PECA et PECALBO](/conseils/peca-pecalbo/) décrit l'opération de l'oreille du lapin.
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)

@@ -2,25 +2,25 @@
 type: service
 url: /services/hospitalisation/
 title: "Hospitalisation du chien et du chat : nuit, prix | Vetmint"
-description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perfusion, surveillance, appel quotidien, visites. Dès 95 francs la journée, huit cliniques."
+description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perfusion, surveillance, appel quotidien, visites. Dès 95 francs la journée, huit cabinets."
 h1: Hospitalisation du chien, du chat et des NAC
 nom: Hospitalisation
 recherche: hospitalisation chien chat
 redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 10
-resume: Pourquoi un animal reste à la clinique, le jour et la nuit, les visites, les appels et le prix.
+resume: Pourquoi un animal reste au cabinet, le jour et la nuit, les visites, les appels et le prix.
 ---
 
-L'hospitalisation du chien et du chat sert à soigner à la clinique un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs. La journée coûte 95 à 140 francs selon la taille de l'animal. Le vétérinaire vous appelle chaque jour.
+L'hospitalisation du chien et du chat sert à soigner au cabinet un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cabinets Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs. La journée coûte 95 à 140 francs selon la taille de l'animal. Le vétérinaire vous appelle chaque jour.
 
-[Choisir une clinique](/cliniques/)
+[Choisir un cabinet](/cabinets/)
 
-## Quand un animal reste à la clinique
+## Quand un animal reste au cabinet
 
 Le vétérinaire propose une hospitalisation quand l'état de l'animal demande des soins plus fréquents ou plus techniques que ce que vous pouvez faire chez vous.
 
-| Situation | Ce qui se fait à la clinique | Durée habituelle |
+| Situation | Ce qui se fait au cabinet | Durée habituelle |
 |---|---|---|
 | Après un détartrage ou une petite opération | réveil sous surveillance | quelques heures, retour le jour même |
 | Après une opération du ventre ou des os | traitement de la douleur par la veine, contrôle de la plaie | un à trois jours |
@@ -51,11 +51,11 @@ Chaque animal a sa cage ou son box. Les chats sont séparés des chiens autant q
 
 À Fribourg Ouest, un vétérinaire travaille le soir et le week-end pour suivre les animaux hospitalisés et recevoir les urgences.
 
-Dans les autres cliniques, l'équipe ne reste pas la nuit. Le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers une clinique de garde ouverte toute la nuit. Le vétérinaire vous explique ce choix avant de le faire. La page [urgences](/urgences/) dit qui appeler la nuit.
+Dans les autres cabinets, l'équipe ne reste pas la nuit. Le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers un cabinet de garde ouvert toute la nuit. Le vétérinaire vous explique ce choix avant de le faire. La page [urgences](/urgences/) dit qui appeler la nuit.
 
 ## Les lapins, les rongeurs et les oiseaux
 
-Les lapins, les rongeurs et les oiseaux sont des proies dans la nature. Ils cachent leurs signes de maladie et arrivent souvent à la clinique déjà très faibles. Leur hospitalisation suit des règles propres. Ils restent dans un local calme, loin de l'odeur et du bruit des chiens et des chats. Une source de chaleur les protège du froid. L'équipe contrôle leur hydratation et leur douleur.
+Les lapins, les rongeurs et les oiseaux sont des proies dans la nature. Ils cachent leurs signes de maladie et arrivent souvent au cabinet déjà très faibles. Leur hospitalisation suit des règles propres. Ils restent dans un local calme, loin de l'odeur et du bruit des chiens et des chats. Une source de chaleur les protège du froid. L'équipe contrôle leur hydratation et leur douleur.
 
 Un lapin doit manger chaque jour. S'il refuse, l'équipe le nourrit plusieurs fois par jour à la seringue avec une bouillie de fibres. Elle surveille aussi ses crottes. Un lapin opéré de l'oreille reste en moyenne 24 à 48 heures, le temps de diminuer pas à pas les anti-douleurs. La page [médecine des NAC](/services/nac/) détaille le suivi de ces espèces.
 
@@ -71,7 +71,7 @@ Vous pouvez apporter la nourriture habituelle de votre animal et une couverture 
 
 Le vétérinaire fixe l'heure du retour avec vous. Il vous explique les médicaments à donner, l'alimentation des jours suivants, la façon de surveiller la plaie et la date du contrôle. Une feuille écrite reprend ces consignes.
 
-Les premiers jours, gardez votre animal au calme. Appelez la clinique s'il ne mange pas le lendemain, vomit, respire vite ou si la plaie coule.
+Les premiers jours, gardez votre animal au calme. Appelez le cabinet s'il ne mange pas le lendemain, vomit, respire vite ou si la plaie coule.
 
 ## Le prix
 
@@ -81,7 +81,7 @@ Les premiers jours, gardez votre animal au calme. Appelez la clinique s'il ne ma
 | Hospitalisation de jour | quelques heures de surveillance, retour le soir | 60 CHF |
 | Perfusion | cathéter, poche de perfusion, réglage du débit, par jour | 65 CHF |
 
-Les médicaments, les analyses, l'imagerie et les opérations s'ajoutent à ces prix. Avant l'hospitalisation, le vétérinaire vous remet un devis. Il le met à jour si le séjour se prolonge et vous en parle au téléphone. Une admission en urgence le soir, le dimanche ou un jour férié s'accompagne du supplément d'urgence de la clinique. La page [Tarifs](/tarifs/) donne les prix par clinique.
+Les médicaments, les analyses, l'imagerie et les opérations s'ajoutent à ces prix. Avant l'hospitalisation, le vétérinaire vous remet un devis. Il le met à jour si le séjour se prolonge et vous en parle au téléphone. Une admission en urgence le soir, le dimanche ou un jour férié s'accompagne du supplément d'urgence du cabinet. La page [Tarifs](/tarifs/) donne les prix par cabinet.
 
 ## Questions fréquentes
 
@@ -89,7 +89,7 @@ Les médicaments, les analyses, l'imagerie et les opérations s'ajoutent à ces 
 
 Les premières heures, beaucoup d'animaux sont inquiets. La plupart se calment vite, surtout s'ils reconnaissent l'odeur de leur couverture. L'équipe les manipule souvent et leur parle.
 
-### Puis-je appeler moi-même la clinique ?
+### Puis-je appeler moi-même le cabinet ?
 
 Oui. Le vétérinaire vous appelle chaque jour. Entre deux appels, l'assistante vous renseigne sur l'essentiel.
 
@@ -99,15 +99,15 @@ Un chat stressé peut bouder un ou deux repas. Au-delà, l'équipe le nourrit à
 
 ### Peut-on hospitaliser un animal à la maison ?
 
-Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. La clinique de Domdidier propose des [soins à domicile](/services/soins-a-domicile/). Une perfusion par la veine ou une surveillance rapprochée demandent la clinique.
+Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. Le cabinet de Domdidier propose des [soins à domicile](/services/soins-a-domicile/). Une perfusion par la veine ou une surveillance rapprochée demandent le cabinet.
 
 ### Que se passe-t-il si l'état de mon animal s'aggrave ?
 
 Le vétérinaire vous appelle dès qu'il le constate. Il vous explique ce qui change et les choix possibles, avec leur coût.
 
-## Les cliniques qui hospitalisent
+## Les cabinets qui hospitalisent
 
-Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs.
+Les huit cabinets Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs.
 
 - [Bussigny](/bussigny/services/) : hospitalisation après les opérations et pour les soins par perfusion. [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : hospitalisation des chiens, des chats, des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
@@ -120,6 +120,6 @@ Les huit cliniques Vetmint hospitalisent les chiens, les chats, les lapins et le
 
 ## Prendre rendez-vous
 
-Une hospitalisation se décide pendant une consultation, après une opération ou lors d'une urgence. Pour une opération prévue, la clinique vous dit au téléphone la durée probable du séjour. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
+Une hospitalisation se décide pendant une consultation, après une opération ou lors d'une urgence. Pour une opération prévue, le cabinet vous dit au téléphone la durée probable du séjour. Choisissez votre cabinet sur la [carte des cabinets](/cabinets/).
 
 Pour aller plus loin : [la pancréatite du chien](/conseils/pancreatite-du-chien/) et [la mycoplasmose du rat](/conseils/mycoplasmose/).

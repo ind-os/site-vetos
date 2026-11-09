@@ -39,7 +39,7 @@ Le lapin boit et urine beaucoup plus qu'avant. Des dépôts de calcium peuvent s
 
 ## Quand consulter
 
-Appelez la clinique le jour même si votre lapin penche brusquement la tête, roule sur lui-même, ne tient plus debout ou fait une crise. Un lapin qui perd l'équilibre a souvent du mal à manger seul. Or un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. En dehors des heures d'ouverture, la page [Urgences](/urgences/) indique qui appeler.
+Appelez le cabinet le jour même si votre lapin penche brusquement la tête, roule sur lui-même, ne tient plus debout ou fait une crise. Un lapin qui perd l'équilibre a souvent du mal à manger seul. Or un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. En dehors des heures d'ouverture, la page [Urgences](/urgences/) indique qui appeler.
 
 Prenez un rendez-vous rapide si l'œil de votre lapin blanchit, si son iris change de couleur, s'il boit nettement plus ou s'il maigrit.
 
@@ -69,6 +69,6 @@ C'est possible, surtout chez une personne dont les défenses immunitaires sont a
 
 ## Faire suivre votre lapin
 
-Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cliniques reçoivent les lapins en consultation ; la page [Médecine des NAC](/services/nac/) présente ce que nous leur proposons. La clinique Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cabinets reçoivent les lapins en consultation ; la page [Médecine des NAC](/services/nac/) présente ce que nous leur proposons. Le cabinet Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
-[Prendre rendez-vous dans une clinique](/cliniques/)
+[Prendre rendez-vous dans un cabinet](/cabinets/)

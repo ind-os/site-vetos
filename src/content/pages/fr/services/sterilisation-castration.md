@@ -12,9 +12,9 @@ especes: [chien, chat, nac]
 resume: L'âge, la journée d'opération, les soins à la maison et le forfait de chaque espèce, de la chatte au lapin.
 ---
 
-La stérilisation retire les ovaires d'une femelle, la castration retire les testicules d'un mâle. Les cliniques Vetmint opèrent les chats, les chiens, les lapins et la plupart des rongeurs, sous anesthésie générale, avec un retour à la maison le jour même. La stérilisation d'une chatte coûte de 210 à 260 francs selon la clinique, la castration d'un chat de 105 à 115 francs.
+La stérilisation retire les ovaires d'une femelle, la castration retire les testicules d'un mâle. Les cabinets Vetmint opèrent les chats, les chiens, les lapins et la plupart des rongeurs, sous anesthésie générale, avec un retour à la maison le jour même. La stérilisation d'une chatte coûte de 210 à 260 francs selon le cabinet, la castration d'un chat de 105 à 115 francs.
 
-[Choisir une clinique pour une première consultation](/cliniques/)
+[Choisir un cabinet pour une première consultation](/cabinets/)
 
 ## Pour quels animaux et à quel âge
 
@@ -55,7 +55,7 @@ Le vétérinaire examine d'abord l'animal, en général lors d'une consultation 
 
 ### Le matin
 
-Vous déposez l'animal à la clinique entre 7 h 30 et 9 h. L'équipe le pèse, vérifie qu'il est à jeun quand il doit l'être et note votre numéro de téléphone pour la journée. L'examen avant l'anesthésie a lieu à ce moment s'il n'a pas eu lieu avant.
+Vous déposez l'animal au cabinet entre 7 h 30 et 9 h. L'équipe le pèse, vérifie qu'il est à jeun quand il doit l'être et note votre numéro de téléphone pour la journée. L'examen avant l'anesthésie a lieu à ce moment s'il n'a pas eu lieu avant.
 
 ### L'anesthésie et l'opération
 
@@ -65,15 +65,15 @@ La castration d'un chat dure en général quelques minutes, par deux petites inc
 
 ### Le réveil et le retour
 
-L'animal se réveille sous surveillance, au chaud. La clinique vous appelle en début d'après-midi pour vous dire comment s'est passé le réveil. Vous le reprenez en fin d'après-midi, avec les médicaments contre la douleur et les consignes pour les jours suivants.
+L'animal se réveille sous surveillance, au chaud. Le cabinet vous appelle en début d'après-midi pour vous dire comment s'est passé le réveil. Vous le reprenez en fin d'après-midi, avec les médicaments contre la douleur et les consignes pour les jours suivants.
 
 ## La préparation
 
-- **Chien et chat** : dernier repas la veille au soir, puis plus rien à manger. L'eau reste disponible jusqu'au matin. La clinique vous donne l'heure exacte.
+- **Chien et chat** : dernier repas la veille au soir, puis plus rien à manger. L'eau reste disponible jusqu'au matin. Le cabinet vous donne l'heure exacte.
 - **Lapin, cochon d'Inde et autres rongeurs** : jamais à jeun. Un arrêt du transit met leur vie en danger : ils mangent et boivent jusqu'au moment de l'anesthésie. Apportez du foin et leurs légumes pour la journée.
 - **Chienne** : vérifiez qu'elle n'est pas en chaleurs et notez la date des dernières.
 - Prévoyez une caisse de transport propre pour le retour et une couverture.
-- Préparez une collerette ou un body de protection, que la clinique peut vous conseiller.
+- Préparez une collerette ou un body de protection, que le cabinet peut vous conseiller.
 - Signalez tout médicament, toute toux ou diarrhée des derniers jours.
 
 ## Les suites
@@ -90,13 +90,13 @@ Les forfaits du chien, de la chienne et des lapins comprennent deux consultation
 
 Un mâle castré reste fertile quelques semaines : un lapin mâle peut encore féconder une femelle pendant six semaines après l'opération. Gardez-le séparé des femelles non opérées pendant ce temps.
 
-Appelez la clinique si la plaie saigne, s'ouvre, coule ou gonfle, si l'animal vomit, reste abattu le lendemain ou ne mange pas. Pour un lapin, l'alerte est plus courte : un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures doit être vu sans attendre.
+Appelez le cabinet si la plaie saigne, s'ouvre, coule ou gonfle, si l'animal vomit, reste abattu le lendemain ou ne mange pas. Pour un lapin, l'alerte est plus courte : un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures doit être vu sans attendre.
 
 ## Le prix
 
 Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie, l'opération, l'anti-inflammatoire et le traitement de la douleur. L'anesthésie de la chatte, de la chienne et du chien se fait au gaz, avec cathéter, perfusion et surveillance continue. Pour la chienne, le chien et les lapins, deux consultations de contrôle sont comprises. Les traitements imprévus s'ajoutent.
 
-| Clinique | Chatte | Chat | Chienne | Chien | Lapine | Lapin |
+| Cabinet | Chatte | Chat | Chienne | Chien | Lapine | Lapin |
 |---|---|---|---|---|---|---|
 | Bussigny | 260 | 115 | 750 à 850 | 380 à 480 | 353 | 131 |
 | La Chaux-de-Fonds | 210 | 105 | 678 | 535 | 380 | 185 |
@@ -107,7 +107,7 @@ Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie, l'opératio
 | Saint-Blaise | 260 | 115 | 750 à 850 | 380 à 480 | 353 | 131 |
 | Saint-Légier | 260 | 115 | 810 | 450 | 353 | 131 |
 
-Prix en CHF. Quand le prix du chien ou de la chienne est une fourchette, il dépend du poids de l'animal. À Fribourg Ouest, le forfait de 150 francs vaut pour le lapin et pour les rongeurs mâles. Pour les autres rongeurs, la clinique établit un devis. Tous les prix figurent sur la page [Tarifs](/tarifs/).
+Prix en CHF. Quand le prix du chien ou de la chienne est une fourchette, il dépend du poids de l'animal. À Fribourg Ouest, le forfait de 150 francs vaut pour le lapin et pour les rongeurs mâles. Pour les autres rongeurs, le cabinet établit un devis. Tous les prix figurent sur la page [Tarifs](/tarifs/).
 
 Le [plan de prévention](/abonnements/) du chiot et du chaton existe avec l'opération comprise. Avec la castration, il coûte 925 francs pour un chiot et 615 francs pour un chaton. Avec la stérilisation, il coûte 1 240 francs pour une chienne et 755 francs pour une chatte. À Bussigny et à Saint-Légier, les abonnements Junior+ comprennent l'opération : de 83 à 100 francs par mois selon l'espèce et le sexe.
 
@@ -133,7 +133,7 @@ Pour le chien mâle et certains rongeurs, un implant hormonal posé sous la peau
 
 Le risque existe pour toute anesthésie, mais il reste faible chez un jeune animal en bonne santé. L'examen avant l'opération, la perfusion et la surveillance continue le réduisent encore.
 
-## Les cliniques qui stérilisent et castrent
+## Les cabinets qui stérilisent et castrent
 
 - [Bussigny](/bussigny/services/) : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : chiens, chats, lapins et rongeurs (cochons d'Inde, rats, chinchillas, hamsters, gerbilles, dègues). Stérilisation de la chatte à 210 francs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
@@ -148,4 +148,4 @@ Le risque existe pour toute anesthésie, mais il reste faible chez un jeune anim
 
 Une opération se décide après une consultation. Réservez-la en ligne ou par téléphone en indiquant « stérilisation » ou « castration » comme motif ; la date de l'opération se fixe ensuite avec le vétérinaire. Pour le lapin, la page [Stérilisation du lapin](/conseils/sterilisation-du-lapin/) répond aux questions propres à cette espèce. Les autres opérations sont décrites sur la page [Chirurgie](/services/chirurgie/).
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

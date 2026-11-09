@@ -2,19 +2,19 @@
 type: service
 url: /services/echographie/
 title: "Échographie du chien et du chat : durée, prix | Vetmint"
-description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 15 à 25 minutes, à jeun 12 heures, souvent sans sédation. Dès 50 francs. Six cliniques équipées."
+description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 15 à 25 minutes, à jeun 12 heures, souvent sans sédation. Dès 50 francs. Six cabinets équipés."
 h1: Échographie du chien et du chat
 nom: Échographie
 recherche: échographie chien chat
 redige_le: 2026-10-16
 especes: [chien, chat]
 ordre: 9
-resume: L'échographie du ventre, du cœur et de gestation, sa préparation, sa durée, ses prix et les cliniques équipées.
+resume: L'échographie du ventre, du cœur et de gestation, sa préparation, sa durée, ses prix et les cabinets équipés.
 ---
 
-L'échographie du chien et du chat montre l'intérieur du ventre et le cœur en images qui bougent, sans rayons X et sans douleur. L'examen dure 15 à 25 minutes, sur un animal le plus souvent éveillé. Pour le ventre, il doit être à jeun depuis 12 heures. Une échographie de gestation coûte 50 francs, une échographie complète du ventre 221 francs. Six cliniques Vetmint ont un échographe.
+L'échographie du chien et du chat montre l'intérieur du ventre et le cœur en images qui bougent, sans rayons X et sans douleur. L'examen dure 15 à 25 minutes, sur un animal le plus souvent éveillé. Pour le ventre, il doit être à jeun depuis 12 heures. Une échographie de gestation coûte 50 francs, une échographie complète du ventre 221 francs. Six cabinets Vetmint ont un échographe.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Comment l'échographe forme une image
 
@@ -53,7 +53,7 @@ L'échographie guide aussi certains prélèvements. Le vétérinaire voit la poi
 2. **La tonte.** Les poils arrêtent les ultrasons. Le vétérinaire tond la zone examinée : tout le ventre pour un examen complet, une petite fenêtre sur le thorax pour le cœur.
 3. **Le gel.** Un gel est appliqué sur la peau pour que la sonde glisse sans bulle d'air.
 4. **L'examen.** Le vétérinaire déplace la sonde d'un organe à l'autre et enregistre les images utiles. Il vous montre l'écran et commente ce qu'il voit.
-5. **La conclusion.** Il vous explique le résultat dans la foulée. Les images et un compte rendu écrit rejoignent le dossier. Sur demande, la clinique vous les envoie par e-mail.
+5. **La conclusion.** Il vous explique le résultat dans la foulée. Les images et un compte rendu écrit rejoignent le dossier. Sur demande, le cabinet vous les envoie par e-mail.
 
 La plupart des chiens et des chats restent calmes pendant l'examen. Une sédation légère devient utile pour un chat difficile à tenir, un chien très agité ou un animal qui a mal au ventre. Elle détend l'animal sans l'endormir complètement.
 
@@ -63,7 +63,7 @@ La plupart des chiens et des chats restent calmes pendant l'examen. Une sédatio
 - **Une vessie pleine se lit mieux.** Évitez de promener votre chien ou de le laisser uriner dans l'heure qui précède le rendez-vous.
 - **Pour une échographie du cœur**, pas besoin d'être à jeun.
 - **Pour une gestation**, notez la date de la saillie ou des saillies.
-- Apportez les résultats des analyses récentes, surtout s'ils viennent d'une autre clinique.
+- Apportez les résultats des analyses récentes, surtout s'ils viennent d'un autre vétérinaire.
 
 ## Les suites
 
@@ -80,7 +80,7 @@ Si l'échographie montre une lésion, le vétérinaire propose la suite : un pr
 | Échographie complète du ventre | tonte, examen de tous les organes du ventre, compte rendu, hors consultation | 221 CHF |
 | Échocardiographie | tonte, examen du cœur, mesures, compte rendu, hors consultation | 260 CHF |
 
-La sédation et les prélèvements guidés s'ajoutent à ces prix quand ils sont nécessaires. La page [Tarifs](/tarifs/) donne les prix par clinique.
+La sédation et les prélèvements guidés s'ajoutent à ces prix quand ils sont nécessaires. La page [Tarifs](/tarifs/) donne les prix par cabinet.
 
 ## Questions fréquentes
 
@@ -108,19 +108,19 @@ Elle est le seul examen qui dit d'où vient le souffle. Chez le chat, un souffle
 
 Oui pour l'essentiel : le vétérinaire voit les organes en direct et vous explique ce qu'il observe. Un prélèvement fait pendant l'examen demande en plus le délai de son analyse.
 
-## Les cliniques qui font l'échographie
+## Les cabinets qui font l'échographie
 
 - [Bussigny](/bussigny/services/) : échographie du ventre, de gestation et du cœur. [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : échographie de gestation à 50 francs. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans la même clinique. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : échographe à la clinique, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans le même cabinet. [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : échographe au cabinet, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : échographie de gestation à 50 francs. [Rendez-vous](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/) : échographie complète du ventre, de gestation et du cœur. [Rendez-vous](/saintlegier/rendez-vous/)
 
-Les cliniques de [Domdidier](/domdidier/services/) et de [Payerne](/payerne/services/) adressent leurs patients à la clinique de Fribourg Ouest pour l'échographie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
+Les cabinets de [Domdidier](/domdidier/services/) et de [Payerne](/payerne/services/) adressent leurs patients au cabinet de Fribourg Ouest pour l'échographie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
 
 ## Prendre rendez-vous
 
-Une échographie se décide pendant une consultation ou sur demande de votre vétérinaire. Prenez un rendez-vous le matin pour que le jeûne de la nuit suffise. Choisissez votre clinique sur la [carte des cliniques](/cliniques/).
+Une échographie se décide pendant une consultation ou sur demande de votre vétérinaire. Prenez un rendez-vous le matin pour que le jeûne de la nuit suffise. Choisissez votre cabinet sur la [carte des cabinets](/cabinets/).
 
 Pour aller plus loin : [la pancréatite du chien](/conseils/pancreatite-du-chien/) et [la sablose urinaire](/conseils/sablose-urinaire/).

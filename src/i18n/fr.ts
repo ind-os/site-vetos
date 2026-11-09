@@ -14,9 +14,9 @@ export const fr = {
     nom: 'Vetmint',
     signature: 'Bons soins vétérinaires',
     logo: 'Vetmint, bons soins vétérinaires',
-    accueilDuLieu: (lieu: string) => `Accueil de la clinique de ${lieu}`,
+    accueilDuLieu: (lieu: string) => `Accueil du cabinet de ${lieu}`,
     reseau: 'Le réseau Vetmint',
-    descriptionDuReseau: 'Huit cliniques vétérinaires en Suisse romande',
+    descriptionDuReseau: 'Huit cabinets vétérinaires en Suisse romande',
   },
 
   navigation: {
@@ -25,7 +25,7 @@ export const fr = {
     allerAuContenu: 'Aller au contenu',
     accueil: 'Accueil',
     filDAriane: 'Vous êtes ici',
-    cliniques: 'Nos cliniques',
+    cliniques: 'Nos cabinets',
     services: 'Services',
     urgences: 'Urgences',
     conseils: 'Conseils santé',
@@ -44,7 +44,7 @@ export const fr = {
 
   rendezVous: {
     bouton: 'Prendre rendez-vous',
-    huitCliniques: 'Dans l’une des huit cliniques Vetmint.',
+    huitCliniques: 'Dans l’un des huit cabinets Vetmint.',
     fermer: 'Fermer',
     nouvelOnglet: 'L’agenda s’ouvre dans un nouvel onglet.',
     chargement: 'Ouverture de l’agenda…',
@@ -85,22 +85,22 @@ export const fr = {
   },
 
   clinique: {
-    surtitre: (lieu: string, canton: string) => `Clinique vétérinaire · ${lieu} (${canton})`,
-    venir: 'Venir à la clinique',
+    surtitre: (lieu: string, canton: string) => `Cabinet vétérinaire · ${lieu} (${canton})`,
+    venir: 'Venir au cabinet',
     nousJoindre: 'Nous joindre',
     itineraire: 'Itinéraire',
     itineraireGoogle: 'Itinéraire avec Google Maps',
     itineraireOsm: 'Itinéraire avec OpenStreetMap',
     adresse: 'Adresse',
-    services: 'Les soins de la clinique',
-    voirLaClinique: 'Voir la clinique',
-    siteActuel: 'Site de la clinique',
+    services: 'Les soins du cabinet',
+    voirLaClinique: 'Voir le cabinet',
+    siteActuel: 'Site du cabinet',
     equipe: 'L’équipe',
     touteLEquipe: 'Toute l’équipe',
     langues: (liste: string) => `Langues\u00a0: ${liste}`,
     especes: (liste: string) => `Animaux reçus\u00a0: ${liste}`,
-    autresCliniques: 'Les autres cliniques Vetmint',
-    pagesDeLaClinique: 'La clinique',
+    autresCliniques: 'Les autres cabinets Vetmint',
+    pagesDeLaClinique: 'Le cabinet',
   },
 
   especes: {
@@ -123,10 +123,10 @@ export const fr = {
 
   services: {
     voir: 'Voir le service',
-    dansQuellesCliniques: 'Dans quelles cliniques',
+    dansQuellesCliniques: 'Dans quels cabinets',
     pratiqueA: (lieu: string) => `Ce soin à ${lieu}`,
     pageGenerale: 'Tout savoir sur ce soin',
-    autresServices: 'Les autres soins de la clinique',
+    autresServices: 'Les autres soins du cabinet',
   },
 
   conseils: {
@@ -136,9 +136,9 @@ export const fr = {
   },
 
   cliniques: {
-    trouver: 'Trouver sa clinique',
-    pages: 'La page de chaque clinique',
-    carte: 'Carte des huit cliniques Vetmint en Suisse romande',
+    trouver: 'Trouver son cabinet',
+    pages: 'La page de chaque cabinet',
+    carte: 'Carte des huit cabinets Vetmint en Suisse romande',
   },
 
   erreur: {

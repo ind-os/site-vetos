@@ -46,7 +46,7 @@ Un rat en bonne santé mange et fait des crottes tout au long de la journée. Pr
 - une grosseur apparaît sous la peau, souvent sur le ventre ou les flancs ;
 - il maigrit, bouge moins ou peine à grimper ([arthrose](/conseils/arthrose-des-nac/)).
 
-En dehors des heures d'ouverture, le numéro de garde de votre clinique figure sur la page [urgences](/urgences/).
+En dehors des heures d'ouverture, le numéro de garde de votre cabinet figure sur la page [urgences](/urgences/).
 
 ## Sa cage
 
@@ -114,8 +114,8 @@ Elle se fait dès 4 à 5 mois. Elle peut être chirurgicale, ou hormonale par un
 
 ## Où le faire soigner
 
-Les cliniques Vetmint reçoivent les rats en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) détaille les soins aux rongeurs. Pour les autres rongeurs, voir aussi [le cochon d'Inde](/conseils/le-cochon-d-inde/).
+Les cabinets Vetmint reçoivent les rats en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) détaille les soins aux rongeurs. Pour les autres rongeurs, voir aussi [le cochon d'Inde](/conseils/le-cochon-d-inde/).
 
-La clinique de Fribourg Ouest a une spécialité NAC. Ses instruments et ses protocoles d'anesthésie sont adaptés aux petits rongeurs, jusqu'à la microchirurgie ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+Le cabinet de Fribourg Ouest a une spécialité NAC. Ses instruments et ses protocoles d'anesthésie sont adaptés aux petits rongeurs, jusqu'à la microchirurgie ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)

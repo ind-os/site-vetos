@@ -100,9 +100,9 @@ L'alimentation reste hors des réductions. Une visite de contrôle qui dépasse 
 
 L'abonnement se règle chaque mois par carte de crédit, en ligne, ou par facture mensuelle. Payé pour l'année d'un coup, il coûte 2 % de moins. Il vaut pour un seul animal et ne se transfère pas.
 
-Pour un soin compris, appelez la clinique : elle vous propose trois dates dans les dix jours ouvrables.
+Pour un soin compris, appelez le cabinet : elle vous propose trois dates dans les dix jours ouvrables.
 
-Pour résilier, écrivez à votre clinique par e-mail ou par courrier :
+Pour résilier, écrivez à votre cabinet par e-mail ou par courrier :
 
 - au moins deux mois avant la date anniversaire : sans frais ;
 - moins de deux mois avant : 50 CHF de frais ;
@@ -119,7 +119,7 @@ Le plan coûte 515 francs pour l'année et comprend des consultations sans limit
 
 ### Que se passe-t-il quand mon chat passe dans la tranche d'âge suivante ?
 
-Il garde son abonnement jusqu'au bout des douze mois. La clinique vous propose ensuite celui de son âge.
+Il garde son abonnement jusqu'au bout des douze mois. Le cabinet vous propose ensuite celui de son âge.
 
 ### Puis-je souscrire pour deux animaux ?
 
@@ -127,6 +127,6 @@ Oui, avec un abonnement par animal.
 
 ## Où souscrire
 
-Le plan de prévention et les abonnements se souscrivent dans les huit cliniques Vetmint. Le prix de chaque soin figure dans nos [tarifs](/tarifs/). Les soins compris sont expliqués aux pages [vaccination du chien](/services/vaccination-chien/), [vaccination du chat](/services/vaccination-chat/), [stérilisation et castration](/services/sterilisation-castration/), [puce électronique](/services/puce-electronique/) et [soins dentaires](/services/soins-dentaires/).
+Le plan de prévention et les abonnements se souscrivent dans les huit cabinets Vetmint. Le prix de chaque soin figure dans nos [tarifs](/tarifs/). Les soins compris sont expliqués aux pages [vaccination du chien](/services/vaccination-chien/), [vaccination du chat](/services/vaccination-chat/), [stérilisation et castration](/services/sterilisation-castration/), [puce électronique](/services/puce-electronique/) et [soins dentaires](/services/soins-dentaires/).
 
-[Choisir une clinique](/cliniques/)
+[Choisir un cabinet](/cabinets/)

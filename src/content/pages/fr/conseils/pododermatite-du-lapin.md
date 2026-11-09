@@ -39,7 +39,7 @@ Regardez les pattes arrière de votre lapin quand vous le prenez dans les bras, 
 
 Prenez rendez-vous dès que vous voyez une zone sans poils ou une rougeur sous un pied. À ce stade, quelques changements suffisent souvent.
 
-Consultez sans tarder si vous voyez une croûte, une plaie, un gonflement ou du pus, ou si votre lapin boite. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence : appelez la clinique sans attendre le lendemain.
+Consultez sans tarder si vous voyez une croûte, une plaie, un gonflement ou du pus, ou si votre lapin boite. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence : appelez le cabinet sans attendre le lendemain.
 
 ## Ce que fait le vétérinaire
 
@@ -70,6 +70,6 @@ Les lapins à poil fin et les lapins âgés ou arthrosiques demandent une survei
 
 ## Faire soigner votre lapin
 
-Une pododermatite se soigne en consultation, dans la clinique Vetmint la plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). Quand une plaie ne guérit pas, la clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Une pododermatite se soigne en consultation, dans le cabinet Vetmint le plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). Quand une plaie ne guérit pas, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
-[Choisir sa clinique](/cliniques/)
+[Choisir son cabinet](/cabinets/)

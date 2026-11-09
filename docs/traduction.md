@@ -65,7 +65,7 @@ L'adresse allemande d'une page est l'adresse française précédée de `/de/`, a
 | Français | Allemand |
 |---|---|
 | `/` | `/de/` |
-| `/cliniques/` | `/de/praxen/` |
+| `/cabinets/` | `/de/praxen/` |
 | `/urgences/` | `/de/notfall/` |
 | `/tarifs/` | `/de/preise/` |
 | `/abonnements/` | `/de/abonnemente/` |

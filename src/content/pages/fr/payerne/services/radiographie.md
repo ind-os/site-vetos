@@ -10,7 +10,7 @@ redige_le: 2026-11-03
 resume: Une salle de radio numérique à côté du bloc ; l'image se lit avec vous, sur l'écran.
 ---
 
-La clinique Vetmint Payerne fait la radiographie du chien, du chat, du lapin et des rongeurs dans sa propre salle de radio. L'appareil est numérique : quelques secondes après le cliché, l'image s'affiche sur l'écran. Le vétérinaire l'agrandit, vous montre ce qu'il voit et vous dit la suite pendant la même visite. La clinique prend aussi les radios des dents et les clichés officiels des hanches et des coudes que demandent les clubs de race.
+Le cabinet Vetmint Payerne fait la radiographie du chien, du chat, du lapin et des rongeurs dans sa propre salle de radio. L'appareil est numérique : quelques secondes après le cliché, l'image s'affiche sur l'écran. Le vétérinaire l'agrandit, vous montre ce qu'il voit et vous dit la suite pendant la même visite. Le cabinet prend aussi les radios des dents et les clichés officiels des hanches et des coudes que demandent les clubs de race.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -53,7 +53,7 @@ Après un accident, appelez le [026 660 16 16](tel:+41266601616) avant de prend
 
 ## Le retour à la maison
 
-Sans calmant, votre animal repart avec vous après la lecture. Avec un calmant, il reste à la clinique jusqu'à ce qu'il marche droit. Vous le reprenez en fin de journée, avant 18 h, ou 19 h le mardi. Le soir, offrez-lui un petit repas et laissez-le dormir au calme.
+Sans calmant, votre animal repart avec vous après la lecture. Avec un calmant, il reste au cabinet jusqu'à ce qu'il marche droit. Vous le reprenez en fin de journée, avant 18 h, ou 19 h le mardi. Le soir, offrez-lui un petit repas et laissez-le dormir au calme.
 
 ## Les questions qu'on nous pose au comptoir
 
@@ -61,9 +61,9 @@ Sans calmant, votre animal repart avec vous après la lecture. Avec un calmant, 
 
 Elles restent dans le dossier de votre animal, pour comparer au prochain contrôle. Sur demande, l'équipe vous les envoie par e-mail ou par un lien de téléchargement, pour votre club ou pour un autre vétérinaire.
 
-### La clinique fait-elle des scanners ?
+### Le cabinet fait-il des scanners ?
 
-Non. Payerne n'a ni scanner ni IRM. Quand la radio ne suffit pas, le vétérinaire vous adresse à une clinique équipée et lui transmet le dossier avec les clichés.
+Non. Payerne n'a ni scanner ni IRM. Quand la radio ne suffit pas, le vétérinaire vous adresse à un cabinet équipé et lui transmet le dossier avec les clichés.
 
 ### Ma chienne attend des petits. Quand faire la radio ?
 

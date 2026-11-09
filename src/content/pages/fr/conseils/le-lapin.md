@@ -47,7 +47,7 @@ Un lapin en bonne santé mange, fait des crottes, explore, se toilette, dort par
 
 ## Les signes qui imposent d'appeler
 
-Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Son intestin peut s'arrêter. Cet arrêt du transit met sa vie en jeu. Appelez votre clinique sans attendre le lendemain. En dehors des heures d'ouverture, composez le numéro de garde de la clinique, indiqué sur la page [urgences](/urgences/).
+Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Son intestin peut s'arrêter. Cet arrêt du transit met sa vie en jeu. Appelez votre cabinet sans attendre le lendemain. En dehors des heures d'ouverture, composez le numéro de garde du cabinet, indiqué sur la page [urgences](/urgences/).
 
 Prenez rendez-vous dans la semaine si vous remarquez :
 
@@ -99,7 +99,7 @@ La ration en détail, avec les légumes classés selon leur calcium : [l'alimen
 
 La maladie hémorragique virale (VHD ou RHD) tue presque tous les lapins qu'elle touche. Le virus passe d'un lapin malade à un autre, mais aussi par la nourriture ou un environnement contaminés : un lapin d'appartement n'est pas à l'abri. Le premier vaccin se fait dès 10 semaines, puis chaque année. Pendant une épidémie, le vétérinaire peut conseiller deux injections par an.
 
-Chez Vetmint, le bilan de santé annuel du lapin comprend la consultation de 30 minutes et ce vaccin. Il coûte 63 à 76 francs selon la clinique ([tarifs](/tarifs/)).
+Chez Vetmint, le bilan de santé annuel du lapin comprend la consultation de 30 minutes et ce vaccin. Il coûte 63 à 76 francs selon le cabinet ([tarifs](/tarifs/)).
 
 Contre la myxomatose, une autre maladie virale du lapin, des vaccins existent mais aucun n'est autorisé en Suisse.
 
@@ -121,8 +121,8 @@ Une visite par an suffit pour un lapin en bonne santé. Elle sert au vaccin et a
 
 ## Où faire soigner votre lapin
 
-Les cliniques Vetmint reçoivent les lapins en consultation de 30 minutes, pour le bilan annuel comme pour un problème de santé. La page [médecine des NAC](/services/nac/) décrit ce que nous faisons pour les lapins et les rongeurs.
+Les cabinets Vetmint reçoivent les lapins en consultation de 30 minutes, pour le bilan annuel comme pour un problème de santé. La page [médecine des NAC](/services/nac/) décrit ce que nous faisons pour les lapins et les rongeurs.
 
-La clinique de Fribourg Ouest a fait des NAC sa spécialité : consultations, soins dentaires, chirurgie et hospitalisation adaptées à ces espèces. Chaque consultation s'y termine par un document qui résume les soins à faire à la maison ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+Le cabinet de Fribourg Ouest a fait des NAC sa spécialité : consultations, soins dentaires, chirurgie et hospitalisation adaptées à ces espèces. Chaque consultation s'y termine par un document qui résume les soins à faire à la maison ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)

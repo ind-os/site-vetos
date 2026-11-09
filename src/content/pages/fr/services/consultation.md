@@ -2,7 +2,7 @@
 type: service
 url: /services/consultation/
 title: "Consultation vétérinaire de 30 minutes : prix | Vetmint"
-description: "Consultation vétérinaire de 30 minutes chez Vetmint : vos questions, l'examen de la tête à la queue, la décision commune. De 54 à 59 francs selon la clinique."
+description: "Consultation vétérinaire de 30 minutes chez Vetmint : vos questions, l'examen de la tête à la queue, la décision commune. De 54 à 59 francs selon le cabinet."
 h1: Consultation vétérinaire de 30 minutes
 nom: Consultation
 recherche: consultation vétérinaire
@@ -12,13 +12,13 @@ especes: [chien, chat, nac]
 resume: Trente minutes pour examiner votre animal, comprendre ce qui ne va pas et décider de la suite avec vous.
 ---
 
-Une consultation vétérinaire chez Vetmint dure 30 minutes, pour un chien, un chat, un lapin ou un autre petit animal. Ce temps sert à écouter ce que vous avez remarqué, à examiner l'animal en entier et à décider ensemble de la suite. Elle coûte de 54 à 59 francs selon la clinique, examens complémentaires en plus.
+Une consultation vétérinaire chez Vetmint dure 30 minutes, pour un chien, un chat, un lapin ou un autre petit animal. Ce temps sert à écouter ce que vous avez remarqué, à examiner l'animal en entier et à décider ensemble de la suite. Elle coûte de 54 à 59 francs selon le cabinet, examens complémentaires en plus.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Pour quels animaux et dans quelles situations
 
-Les huit cliniques reçoivent les chiens, les chats, les lapins et les rongeurs. La clinique de Fribourg Ouest, à Givisiez, reçoit aussi les furets, les oiseaux et les reptiles dans une consultation spécialisée pour les nouveaux animaux de compagnie (NAC).
+Les huit cabinets reçoivent les chiens, les chats, les lapins et les rongeurs. Le cabinet de Fribourg Ouest, à Givisiez, reçoit aussi les furets, les oiseaux et les reptiles dans une consultation spécialisée pour les nouveaux animaux de compagnie (NAC).
 
 | Situation | Ce que la consultation apporte | À quel rythme |
 |---|---|---|
@@ -66,7 +66,7 @@ Chez un lapin ou un cochon d'Inde, l'examen des dents du fond de la bouche et de
 
 ### Les examens complémentaires
 
-Si l'examen ne suffit pas, le vétérinaire propose un examen complémentaire et en donne le prix avant de le faire. Les cliniques ont un laboratoire sur place. Une prise de sang, une analyse d'urine ou de selles, un examen de peau au microscope donnent souvent leur résultat pendant la consultation. Les radiographies se font aussi sur place. Une échographie, une biopsie ou une analyse envoyée à un laboratoire externe se programment selon la clinique.
+Si l'examen ne suffit pas, le vétérinaire propose un examen complémentaire et en donne le prix avant de le faire. Les cabinets ont un laboratoire sur place. Une prise de sang, une analyse d'urine ou de selles, un examen de peau au microscope donnent souvent leur résultat pendant la consultation. Les radiographies se font aussi sur place. Une échographie, une biopsie ou une analyse envoyée à un laboratoire externe se programment selon le cabinet.
 
 ### La conclusion
 
@@ -76,23 +76,23 @@ Avant de vous laisser partir, le vétérinaire résume : ce qu'il a trouvé, le
 
 - Apportez le carnet de vaccination ou le passeport, surtout pour un premier rendez-vous.
 - Notez la liste des médicaments et des aliments que reçoit l'animal, ou prenez les boîtes en photo.
-- Filmez le problème quand il ne se voit pas à la clinique : une toux, une boiterie, une crise, une respiration bruyante.
+- Filmez le problème quand il ne se voit pas au cabinet : une toux, une boiterie, une crise, une respiration bruyante.
 - Pour un problème digestif ou urinaire, apportez un échantillon frais de selles ou d'urine dans un pot propre.
-- Ne nourrissez pas un chien ou un chat dans les heures qui précèdent si une prise de sang est prévue : la clinique vous le dit au téléphone.
+- Ne nourrissez pas un chien ou un chat dans les heures qui précèdent si une prise de sang est prévue : le cabinet vous le dit au téléphone.
 - Ne mettez jamais un lapin ou un rongeur à jeun. Apportez-le dans sa cage de transport avec du foin.
 - Un chat voyage dans une caisse fermée, un chien tenu en laisse, avec une muselière s'il mord quand il a peur.
 
 ## Après la consultation
 
-Le traitement commence le jour même. Si des analyses partent à un laboratoire externe, la clinique vous appelle quand les résultats arrivent, en général dans un délai de 2 à 5 jours ouvrables.
+Le traitement commence le jour même. Si des analyses partent à un laboratoire externe, le cabinet vous appelle quand les résultats arrivent, en général dans un délai de 2 à 5 jours ouvrables.
 
-Appelez la clinique si l'animal va moins bien, s'il refuse le médicament ou s'il montre un autre signe. Un contrôle se fait au prix d'une consultation, sauf s'il est compris dans un forfait, par exemple après une opération.
+Appelez le cabinet si l'animal va moins bien, s'il refuse le médicament ou s'il montre un autre signe. Un contrôle se fait au prix d'une consultation, sauf s'il est compris dans un forfait, par exemple après une opération.
 
 ## Le prix
 
-La consultation de 30 minutes coûte de 54 à 59 francs selon la clinique. Les médicaments et les examens complémentaires s'ajoutent, avec un prix annoncé avant.
+La consultation de 30 minutes coûte de 54 à 59 francs selon le cabinet. Les médicaments et les examens complémentaires s'ajoutent, avec un prix annoncé avant.
 
-| Clinique | Consultation de 30 minutes |
+| Cabinet | Consultation de 30 minutes |
 |---|---|
 | La Chaux-de-Fonds | 54 CHF |
 | Payerne | 57 CHF |
@@ -101,7 +101,7 @@ La consultation de 30 minutes coûte de 54 à 59 francs selon la clinique. Les m
 
 Certaines consultations demandent un savoir-faire ou un appareil particulier. Leur prix comprend le temps de consultation.
 
-| Consultation | Cliniques | Prix |
+| Consultation | Cabinets | Prix |
 |---|---|---|
 | Consultation avec thérapie laser | Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier | 62 CHF |
 | Consultation spécialisée NAC | Fribourg Ouest | dès 60 CHF |
@@ -109,7 +109,7 @@ Certaines consultations demandent un savoir-faire ou un appareil particulier. Le
 | Consultation d'ostéopathie | Fribourg Ouest | 140 CHF |
 | Consultation spécialisée en chirurgie | Fribourg Ouest | 120 CHF |
 
-Un animal reçu en urgence pendant les heures d'ouverture paie un supplément de 40 à 99 francs selon la clinique.
+Un animal reçu en urgence pendant les heures d'ouverture paie un supplément de 40 à 99 francs selon le cabinet.
 
 Deux formules comprennent des consultations. Le [plan de prévention](/abonnements/) du chiot ou du chaton comprend les consultations sur rendez-vous pendant un an. Les abonnements mensuels de Bussigny et de Saint-Légier comprennent deux ou trois consultations par an selon l'âge de l'animal. Tous les prix figurent sur la page [Tarifs](/tarifs/).
 
@@ -123,7 +123,7 @@ Oui, les consultations se donnent sur rendez-vous, pour que chaque animal ait se
 
 ### Puis-je faire examiner deux animaux pendant le même rendez-vous ?
 
-Chaque animal a sa propre consultation. Pour deux chats de la même maison, demandez deux rendez-vous à la suite : la clinique réserve une plage double.
+Chaque animal a sa propre consultation. Pour deux chats de la même maison, demandez deux rendez-vous à la suite : le cabinet réserve une plage double.
 
 ### Mon animal a très peur chez le vétérinaire. Que faire ?
 
@@ -131,7 +131,7 @@ Habituez-le à la caisse de transport quelques jours avant, en y laissant une co
 
 ### Le vétérinaire peut-il voir mon lapin ou mon cochon d'Inde ?
 
-Oui, dans les huit cliniques. Pour un oiseau, un reptile ou un furet, la clinique de Fribourg Ouest propose une consultation spécialisée. La page [Médecine des NAC](/services/nac/) détaille ce suivi.
+Oui, dans les huit cabinets. Pour un oiseau, un reptile ou un furet, le cabinet de Fribourg Ouest propose une consultation spécialisée. La page [Médecine des NAC](/services/nac/) détaille ce suivi.
 
 ### Pourquoi faire un bilan quand mon chien va bien ?
 
@@ -139,15 +139,15 @@ Parce que plusieurs maladies ne se voient pas au début. Le bilan annuel compare
 
 ### Mon assurance rembourse-t-elle la consultation ?
 
-Cela dépend de votre contrat. La clinique vous remet une facture détaillée, à transmettre à votre assureur.
+Cela dépend de votre contrat. Le cabinet vous remet une facture détaillée, à transmettre à votre assureur.
 
-## Les cliniques qui consultent
+## Les cabinets qui consultent
 
-Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires de chaque clinique figurent sur sa page.
+Les huit cabinets Vetmint donnent des consultations de 30 minutes. Les horaires de chaque cabinet figurent sur sa page.
 
 - [Bussigny](/bussigny/services/) : la réservation en ligne propose la consultation, le vaccin, la première visite du chiot ou du chaton et la séance de laser. [Prendre rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation la moins chère du groupe, à 54 francs. La consultation de santé se réserve en ligne. [Prendre rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : des consultations d'ostéopathie pour chiens et chats. La clinique de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Domdidier](/domdidier/services/) : des consultations d'ostéopathie pour chiens et chats. Le cabinet de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : deux salles de consultation insonorisées, une consultation NAC et une consultation spécialisée en chirurgie. [Prendre rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : deux salles de consultation et un laboratoire d'analyses sur place. [Prendre rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : deux salles de consultation et un laboratoire relié à un ordinateur qui transmet directement les résultats. [Prendre rendez-vous à Payerne](/payerne/rendez-vous/)
@@ -156,6 +156,6 @@ Les huit cliniques Vetmint donnent des consultations de 30 minutes. Les horaires
 
 ## Prendre rendez-vous
 
-Choisissez la clinique la plus proche sur la carte des cliniques, puis réservez en ligne ou par téléphone. Dites en quelques mots le motif de la visite : la clinique prévoit le bon matériel et, si besoin, vous demande d'apporter un échantillon.
+Choisissez le cabinet le plus proche sur la carte des cabinets, puis réservez en ligne ou par téléphone. Dites en quelques mots le motif de la visite : le cabinet prévoit le bon matériel et, si besoin, vous demande d'apporter un échantillon.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

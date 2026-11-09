@@ -3,13 +3,13 @@ type: contact
 clinique: payerne
 url: /payerne/contact/
 title: "Contact, accès et parking : vétérinaire Vetmint Payerne"
-description: "Clinique vétérinaire Vetmint Payerne, route du Châtelard 13. Parking gratuit, dépose de plain-pied, gare CFF à 20 minutes à pied. 026 660 16 16. Toute la Broye."
+description: "Cabinet vétérinaire Vetmint Payerne, route du Châtelard 13. Parking gratuit, dépose de plain-pied, gare CFF à 20 minutes à pied. 026 660 16 16. Toute la Broye."
 h1: Nous trouver à Payerne
 recherche: contact vétérinaire Payerne
 redige_le: 2026-10-16
 ---
 
-La clinique vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de dépose de plain-pied devant l'entrée vous évite les marches avec un animal lourd.
+Le cabinet vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de dépose de plain-pied devant l'entrée vous évite les marches avec un animal lourd.
 
 ## Coordonnées
 
@@ -33,11 +33,11 @@ Sur WhatsApp, une photo de la plaie ou de la grosseur aide le vétérinaire à j
 - Aucune fermeture prévue
 <!-- /donnees -->
 
-La clinique est ouverte toute l'année. Certains samedis, elle ouvre de 8 h 30 à 15 h : téléphonez avant de venir.
+Le cabinet est ouvert toute l'année. Certains samedis, elle ouvre de 8 h 30 à 15 h : téléphonez avant de venir.
 
 ## En voiture
 
-Depuis l'autoroute A1, prenez la sortie Payerne : la clinique est à cinq minutes. Des places de parc gratuites se trouvent à proximité de l'entrée. Si votre animal ne peut pas marcher ou voyage dans une grande caisse, arrêtez-vous sur la place de dépose, devant la porte. Une personne de l'équipe vient vous aider à le porter si vous le demandez en appelant depuis la voiture.
+Depuis l'autoroute A1, prenez la sortie Payerne : le cabinet est à cinq minutes. Des places de parc gratuites se trouvent à proximité de l'entrée. Si votre animal ne peut pas marcher ou voyage dans une grande caisse, arrêtez-vous sur la place de dépose, devant la porte. Une personne de l'équipe vient vous aider à le porter si vous le demandez en appelant depuis la voiture.
 
 ## En transports publics
 
@@ -53,7 +53,7 @@ Nos clients viennent de Payerne et de toute la Broye, vaudoise comme fribourgeoi
 
 ## Itinéraire
 
-La clinique est au sud-ouest du centre de Payerne. Les liens OpenStreetMap et Google Maps donnent le trajet depuis chez vous. Sur Google, la fiche « Vetmint Payerne » donne aussi les avis de nos clients.
+Le cabinet est au sud-ouest du centre de Payerne. Les liens OpenStreetMap et Google Maps donnent le trajet depuis chez vous. Sur Google, la fiche « Vetmint Payerne » donne aussi les avis de nos clients.
 
 [Itinéraire vers la route du Châtelard 13](https://www.google.com/maps/dir/?api=1&destination=Route+du+Ch%C3%A2telard+13%2C+1530+Payerne)
 

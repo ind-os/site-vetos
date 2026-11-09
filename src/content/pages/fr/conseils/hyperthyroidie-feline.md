@@ -31,7 +31,7 @@ Ces signes n'arrivent pas tous ensemble. Chez certains chats, une diarrhée ou u
 
 Prenez rendez-vous si votre chat âgé maigrit, réclame plus à manger ou change de caractère. Quelques jours d'attente ne changent rien. Plusieurs mois laissent à la maladie le temps de fatiguer le cœur et de faire monter la tension.
 
-Appelez une clinique le jour même si votre chat respire la bouche ouverte, s'effondre ou semble soudain ne plus voir. Ces signes peuvent venir d'une complication du cœur ou de la tension. En dehors des heures d'ouverture, suivez les consignes de la page [Urgences et garde](/urgences/).
+Appelez un cabinet le jour même si votre chat respire la bouche ouverte, s'effondre ou semble soudain ne plus voir. Ces signes peuvent venir d'une complication du cœur ou de la tension. En dehors des heures d'ouverture, suivez les consignes de la page [Urgences et garde](/urgences/).
 
 ## Comment le vétérinaire confirme la maladie
 
@@ -72,8 +72,8 @@ Non. Le diabète et certaines maladies de l'intestin donnent le même tableau. S
 
 Le médicament et l'alimentation pauvre en iode agissent tant qu'on les donne. L'iode radioactif et l'opération peuvent régler le problème en une fois.
 
-## Consulter dans une clinique Vetmint
+## Consulter dans un cabinet Vetmint
 
 Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour examiner votre chat, faire la prise de sang et parler des traitements possibles. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

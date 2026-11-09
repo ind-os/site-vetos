@@ -28,8 +28,8 @@ Trois sortes de contenus se côtoient. Les fiches d'espèce présentent les beso
 
 ## Quand appeler plutôt que lire
 
-Certains signes ne laissent pas le temps de lire. Un animal qui respire avec peine, s'effondre, saigne beaucoup, vomit à répétition ou a avalé un produit toxique doit être vu sans attendre. Un lapin qui ne mange plus depuis six heures aussi. Appelez votre clinique pendant les heures d'ouverture. La nuit et le week-end, la page [Urgences et garde](/urgences/) donne le numéro à composer.
+Certains signes ne laissent pas le temps de lire. Un animal qui respire avec peine, s'effondre, saigne beaucoup, vomit à répétition ou a avalé un produit toxique doit être vu sans attendre. Un lapin qui ne mange plus depuis six heures aussi. Appelez votre cabinet pendant les heures d'ouverture. La nuit et le week-end, la page [Urgences et garde](/urgences/) donne le numéro à composer.
 
 Pour une question qui peut attendre quelques jours, une [consultation de 30 minutes](/services/consultation/) laisse le temps d'en parler.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

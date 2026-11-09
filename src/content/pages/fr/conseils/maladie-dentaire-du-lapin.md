@@ -49,7 +49,7 @@ Ces signes indiquent une maladie dentaire, ou un parage à prévoir bientôt che
 
 ## Quand consulter
 
-Si votre lapin ne mange plus ou ne fait plus de crottes depuis six heures, appelez la clinique le jour même. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
+Si votre lapin ne mange plus ou ne fait plus de crottes depuis six heures, appelez le cabinet le jour même. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
 
 Pour les autres signes de la liste, prenez rendez-vous dans les jours qui suivent. Une dent qui commence à dévier se corrige plus facilement qu'une dent qui a déjà blessé la langue ou formé un abcès.
 
@@ -93,6 +93,6 @@ La visite annuelle comprend le contrôle des dents. Chez un lapin nain ou à tê
 
 ## Où faire soigner les dents de votre lapin
 
-Les cliniques Vetmint soignent les dents des lapins et des rongeurs, avec des radiographies numériques de la bouche : [soins dentaires](/services/soins-dentaires/) et [médecine des NAC](/services/nac/). La clinique de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/) : parages, radiographies dentaires, extractions, traitement des abcès et des tumeurs de la bouche chez les lapins et les rongeurs.
+Les cabinets Vetmint soignent les dents des lapins et des rongeurs, avec des radiographies numériques de la bouche : [soins dentaires](/services/soins-dentaires/) et [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/) : parages, radiographies dentaires, extractions, traitement des abcès et des tumeurs de la bouche chez les lapins et les rongeurs.
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)

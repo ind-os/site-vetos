@@ -28,7 +28,7 @@ Une nébulisation est une forme d'inhalation. Un appareil transforme un liquide 
 
 ### Quel appareil choisir
 
-Les nébuliseurs existent à des prix et des qualités très variables. Ils se louent en pharmacie ou s'achètent en ligne. Les plus efficaces fonctionnent avec un compresseur et produisent des gouttelettes de 5 micromètres ou moins. Le vétérinaire vous indique le modèle utilisé à la clinique, testé chez les lapins, les rongeurs et les oiseaux.
+Les nébuliseurs existent à des prix et des qualités très variables. Ils se louent en pharmacie ou s'achètent en ligne. Les plus efficaces fonctionnent avec un compresseur et produisent des gouttelettes de 5 micromètres ou moins. Le vétérinaire vous indique le modèle utilisé au cabinet, testé chez les lapins, les rongeurs et les oiseaux.
 
 ### Faire la nébulisation, pas à pas
 
@@ -62,7 +62,7 @@ Pour un très petit animal (rat, souris, hamster, perruche), une bouteille de so
 
 Donnez le nombre de pressions prescrit par le vétérinaire. Entre deux pressions, laissez passer une dizaine de respirations. La durée et la fréquence du traitement dépendent de la gravité, de l'ancienneté de la maladie et de la réponse de l'animal. Elles se réévaluent aux contrôles.
 
-## Quand rappeler la clinique
+## Quand rappeler le cabinet
 
 Arrêtez la séance et appelez si votre animal panique dans la boîte ou la caisse, ou s'il respire la bouche ouverte. Un lapin respire normalement par le nez : la bouche ouverte est un signe d'urgence. Appelez aussi si les écoulements augmentent malgré le traitement. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures doit être vu le jour même. En dehors des heures d'ouverture, la page [Urgences et garde](/urgences/) dit qui joindre.
 
@@ -72,6 +72,6 @@ Ces soins font partie du traitement de plusieurs maladies décrites dans nos con
 
 ## Le suivi des NAC chez Vetmint
 
-La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins, les rongeurs et les oiseaux. La clinique Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le vétérinaire y remet des fiches écrites pour chaque soin à faire à la maison.
+La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins, les rongeurs et les oiseaux. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le vétérinaire y remet des fiches écrites pour chaque soin à faire à la maison.
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

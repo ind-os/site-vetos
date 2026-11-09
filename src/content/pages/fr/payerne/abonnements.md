@@ -28,7 +28,7 @@ Votre chiot ou votre chaton vient d'arriver à la maison : le plan de préventi
 - La [puce électronique](/payerne/services/puce-electronique/), le passeport et l'inscription au registre : AMICUS pour le chien, ANIS pour le chat.
 - Un rappel par SMS, WhatsApp ou e-mail avant chaque soin prévu.
 - 10 % de rabais sur les anti-puces et les anti-tiques, hors offres de saison.
-- 5 % de rabais sur les autres soins et produits de la clinique.
+- 5 % de rabais sur les autres soins et produits du cabinet.
 
 ### Ce qu'il coûte
 
@@ -78,11 +78,11 @@ Les rabais ne portent pas sur l'alimentation. Une visite de contrôle de plus de
 
 ## Souscrire, payer, arrêter
 
-Le plan et l'abonnement se prennent à la clinique, pendant un rendez-vous. L'abonnement se paie chaque mois par carte de crédit ou sur facture. Réglé pour l'année en une fois, il coûte 2 % de moins. Il ne passe pas d'un animal à un autre.
+Le plan et l'abonnement se prennent au cabinet, pendant un rendez-vous. L'abonnement se paie chaque mois par carte de crédit ou sur facture. Réglé pour l'année en une fois, il coûte 2 % de moins. Il ne passe pas d'un animal à un autre.
 
 Pour un soin compris, téléphonez au [026 660 16 16](tel:+41266601616). L'équipe vous propose trois dates dans les dix jours ouvrables.
 
-Pour arrêter l'abonnement, écrivez à [payerne@vetmint.ch](mailto:payerne@vetmint.ch) ou par courrier à la clinique. La résiliation est gratuite deux mois avant la date anniversaire, ou au décès de l'animal. Plus tard, elle coûte 50 francs. Pour un arrêt immédiat, s'ajoute la différence entre le prix normal des soins reçus et vos mensualités.
+Pour arrêter l'abonnement, écrivez à [payerne@vetmint.ch](mailto:payerne@vetmint.ch) ou par courrier au cabinet. La résiliation est gratuite deux mois avant la date anniversaire, ou au décès de l'animal. Plus tard, elle coûte 50 francs. Pour un arrêt immédiat, s'ajoute la différence entre le prix normal des soins reçus et vos mensualités.
 
 ## Vos questions
 
@@ -90,8 +90,8 @@ Pour arrêter l'abonnement, écrivez à [payerne@vetmint.ch](mailto:payerne@vetm
 
 À Payerne, le plan se paie 515 francs pour l'année, avec des consultations sans limite. L'abonnement Junior revient à 660 francs en douze mensualités de 55 francs, avec trois consultations et les visites de contrôle.
 
-### Les autres cliniques ont-elles les mêmes prix ?
+### Les autres cabinets ont-ils les mêmes prix ?
 
-Le plan de base coûte 515 francs dans toutes les cliniques Vetmint ; le prix de certaines options change d'une clinique à l'autre. La page [plan de prévention et abonnements de Vetmint](/abonnements/) les compare.
+Le plan de base coûte 515 francs dans tous les cabinets Vetmint ; le prix de certaines options change d'un cabinet à l'autre. La page [plan de prévention et abonnements de Vetmint](/abonnements/) les compare.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

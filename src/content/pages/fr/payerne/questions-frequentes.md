@@ -2,20 +2,20 @@
 type: questions-frequentes
 clinique: payerne
 url: /payerne/questions-frequentes/
-title: "Questions fréquentes : clinique vétérinaire Vetmint Payerne"
+title: "Questions fréquentes : cabinet vétérinaire Vetmint Payerne"
 description: "Les questions que nos clients de Payerne posent le plus : déposer son animal le matin, prix d'une consultation, visite à domicile. Les réponses de l'équipe."
-h1: Vos questions sur la clinique de Payerne
-recherche: questions clinique vétérinaire Payerne
+h1: Vos questions sur le cabinet de Payerne
+recherche: questions cabinet vétérinaire Payerne
 redige_le: 2026-10-16
 ---
 
-Ces questions sont celles que nos clients posent le plus souvent au téléphone et au comptoir de la clinique vétérinaire Vetmint Payerne. Chaque réponse renvoie à la page qui donne le détail.
+Ces questions sont celles que nos clients posent le plus souvent au téléphone et au comptoir du cabinet vétérinaire Vetmint Payerne. Chaque réponse renvoie à la page qui donne le détail.
 
 ## Rendez-vous et horaires
 
-### La clinique est-elle ouverte le samedi ?
+### Le cabinet est-il ouvert le samedi ?
 
-Pas chaque samedi. La clinique ouvre du lundi au vendredi, jusqu'à 19 h le mardi. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
+Pas chaque samedi. Le cabinet ouvre du lundi au vendredi, jusqu'à 19 h le mardi. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
 
 ### Puis-je déposer mon animal le matin et le reprendre le soir ?
 
@@ -47,7 +47,7 @@ Oui, sur rendez-vous, dans tout le district de la Broye, du lundi au vendredi. U
 
 ### Que faire en cas d'urgence la nuit ?
 
-Appelez le numéro de garde. Il est tenu par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde vous dit où amener votre animal. Pendant la journée, appelez la clinique au [026 660 16 16](tel:+41266601616). Le numéro de garde et les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
+Appelez le numéro de garde. Il est tenu par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde vous dit où amener votre animal. Pendant la journée, appelez le cabinet au [026 660 16 16](tel:+41266601616). Le numéro de garde et les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
 
 ### Mon chat est très stressé chez le vétérinaire. Que faites-vous pour lui ?
 
@@ -55,6 +55,6 @@ Les deux salles de consultation sont séparées par des portes insonorisées. De
 
 ## Accès
 
-### Peut-on se garer près de la clinique ?
+### Peut-on se garer près du cabinet ?
 
 Oui. Des places de parc gratuites se trouvent à proximité de la route du Châtelard 13. Une place de dépose de plain-pied, devant l'entrée, donne un accès direct : pratique pour un grand chien qui marche mal ou une caisse lourde. L'itinéraire et l'accès en train sont sur la page [Contact](/payerne/contact/).

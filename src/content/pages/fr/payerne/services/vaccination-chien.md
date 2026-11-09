@@ -3,7 +3,7 @@ type: service-clinique
 clinique: payerne
 url: /payerne/services/vaccination-chien/
 title: "Vaccin du chien à Payerne : bilan avec vaccins, 94 francs"
-description: "Vaccin chien à Payerne : bilan de 30 minutes avec vaccins à 94 francs, chiot ou adulte, rage à 77 francs. Plan chiot à 515 francs. Clinique Vetmint, Broye."
+description: "Vaccin chien à Payerne : bilan de 30 minutes avec vaccins à 94 francs, chiot ou adulte, rage à 77 francs. Plan chiot à 515 francs. Cabinet Vetmint, Broye."
 h1: Vaccination du chien à Payerne
 recherche: vaccin chien Payerne
 redige_le: 2026-11-03
@@ -14,7 +14,7 @@ resume: "Le vaccin du chien pendant un bilan de 30 minutes, 94 francs, chiot ou 
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
-## Le rendez-vous de vaccin à la clinique
+## Le rendez-vous de vaccin au cabinet
 
 Réservez en ligne le motif « Vaccin et bilan annuel », appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le rendez-vous dure 30 minutes, comme toute consultation à Payerne.
 
@@ -39,7 +39,7 @@ Le plan de prévention chiot coûte 515 francs pour un an, contre 656 francs pou
 - les vermifuges adaptés au chiot ;
 - le suivi de croissance, avec 10 % de rabais sur l'alimentation conseillée ;
 - 10 % de remise sur les anti-puces et anti-tiques ;
-- 5 % de réduction sur les autres soins et produits de la clinique ;
+- 5 % de réduction sur les autres soins et produits du cabinet ;
 - le passeport, la puce et l'inscription AMICUS, offerts ;
 - les rappels par SMS, WhatsApp ou e-mail.
 
@@ -68,7 +68,7 @@ Chaque rappel se paie au prix du bilan, l'examen faisant partie de la visite. To
 
 Promenez votre chien avant de venir : il sera plus calme en salle. Il n'a pas besoin d'être à jeun. S'il est malade ou sous traitement, prévenez au téléphone, le vaccin peut attendre quelques jours.
 
-Le soir, un chien peut être un peu fatigué ou sensible à l'endroit de la piqûre. Si son museau gonfle, s'il vomit ou respire mal dans les heures qui suivent, appelez la clinique. En dehors des heures d'ouverture, la page [Urgences à Payerne](/payerne/urgences/) donne le numéro de garde.
+Le soir, un chien peut être un peu fatigué ou sensible à l'endroit de la piqûre. Si son museau gonfle, s'il vomit ou respire mal dans les heures qui suivent, appelez le cabinet. En dehors des heures d'ouverture, la page [Urgences à Payerne](/payerne/urgences/) donne le numéro de garde.
 
 ## Vos questions sur le vaccin du chien à Payerne
 

@@ -146,7 +146,7 @@
     "fichier": "service-analyses-laboratoire.jpg",
     "sujet": "service:analyses-diagnostic",
     "alt": {
-      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "fr": "Le laboratoire du cabinet de Payerne, avec ses microscopes et ses analyseurs",
       "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
     },
     "point_focal": {
@@ -458,7 +458,7 @@
     "fichier": "domdidier-locaux-facade.jpg",
     "sujet": "domdidier:locaux",
     "alt": {
-      "fr": "L'entrée de la clinique de Domdidier, façade blanche, auvent et plaque Vetmint",
+      "fr": "L'entrée du cabinet de Domdidier, façade blanche, auvent et plaque Vetmint",
       "de": "Der Eingang der Praxis Domdidier mit weisser Fassade, Vordach und Vetmint-Schild"
     },
     "point_focal": {
@@ -471,7 +471,7 @@
     "fichier": "saintlegier-locaux-facade.jpg",
     "sujet": "saintlegier:locaux",
     "alt": {
-      "fr": "La façade ocre de la clinique de Saint-Légier, avec sa croix bleue et ses vitrines Vetmint",
+      "fr": "La façade ocre du cabinet de Saint-Légier, avec sa croix bleue et ses vitrines Vetmint",
       "de": "Die ockerfarbene Fassade der Praxis Saint-Légier mit blauem Kreuz und den Vetmint-Schaufenstern"
     },
     "point_focal": {
@@ -588,7 +588,7 @@
     "fichier": "payerne-locaux-entree.jpg",
     "sujet": "payerne:locaux",
     "alt": {
-      "fr": "La porte vitrée de la clinique de Payerne, ornée de silhouettes d'animaux et du logo Vetmint",
+      "fr": "La porte vitrée du cabinet de Payerne, ornée de silhouettes d'animaux et du logo Vetmint",
       "de": "Die Glastür der Praxis Payerne, verziert mit Tierumrissen und dem Vetmint-Logo"
     },
     "point_focal": {
@@ -601,7 +601,7 @@
     "fichier": "payerne-locaux-reception.jpg",
     "sujet": "payerne:locaux",
     "alt": {
-      "fr": "La réception de la clinique de Payerne, son comptoir en bois et les portes des salles de consultation",
+      "fr": "La réception du cabinet de Payerne, son comptoir en bois et les portes des salles de consultation",
       "de": "Der Empfang der Praxis Payerne mit Holztheke und den Türen der Sprechzimmer"
     },
     "point_focal": {
@@ -614,7 +614,7 @@
     "fichier": "payerne-locaux-zone-de-soins.jpg",
     "sujet": "payerne:locaux",
     "alt": {
-      "fr": "La zone de soins de la clinique de Payerne, entre la salle de chirurgie et la salle de radiologie",
+      "fr": "La zone de soins du cabinet de Payerne, entre la salle de chirurgie et la salle de radiologie",
       "de": "Der Behandlungsbereich der Praxis Payerne zwischen dem Operationssaal und dem Röntgenraum"
     },
     "point_focal": {
@@ -627,7 +627,7 @@
     "fichier": "payerne-locaux-laboratoire.jpg",
     "sujet": "payerne:locaux",
     "alt": {
-      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "fr": "Le laboratoire du cabinet de Payerne, avec ses microscopes et ses analyseurs",
       "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
     },
     "point_focal": {
@@ -640,7 +640,7 @@
     "fichier": "payerne-locaux-laboratoire.jpg",
     "sujet": "payerne:service:analyses-diagnostic",
     "alt": {
-      "fr": "Le laboratoire de la clinique de Payerne, avec ses microscopes et ses analyseurs",
+      "fr": "Le laboratoire du cabinet de Payerne, avec ses microscopes et ses analyseurs",
       "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
     },
     "point_focal": {

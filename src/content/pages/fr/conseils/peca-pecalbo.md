@@ -35,7 +35,7 @@ Ne mettez jamais votre lapin à jeun. Un arrêt du transit met sa vie en danger�
 
 ## L'hospitalisation
 
-L'opération est douloureuse, malgré l'anesthésie générale et l'anesthésie locale de l'oreille. Votre lapin reste donc hospitalisé 24 à 48 heures en moyenne. L'équipe soulage la douleur et l'inflammation, puis diminue les antidouleurs peu à peu. Il rentre chez vous quand il est assez à l'aise pour s'en passer en partie. La page [Hospitalisation](/services/hospitalisation/) décrit ces journées à la clinique.
+L'opération est douloureuse, malgré l'anesthésie générale et l'anesthésie locale de l'oreille. Votre lapin reste donc hospitalisé 24 à 48 heures en moyenne. L'équipe soulage la douleur et l'inflammation, puis diminue les antidouleurs peu à peu. Il rentre chez vous quand il est assez à l'aise pour s'en passer en partie. La page [Hospitalisation](/services/hospitalisation/) décrit ces journées au cabinet.
 
 ## Les soins à la maison
 
@@ -59,7 +59,7 @@ La paralysie et la tête penchée disparaissent d'elles-mêmes en quelques jours
 
 L'audition peut baisser après l'opération. Dans une otite aussi sévère, elle est le plus souvent déjà diminuée, parfois pour de bon.
 
-## Quand rappeler la clinique
+## Quand rappeler le cabinet
 
 Appelez le jour même si votre lapin ne mange plus ou ne fait plus de crottes depuis six heures. C'est une urgence chez le lapin, opéré ou non. Appelez aussi si la plaie gonfle, sent mauvais ou saigne, ou si la tête penchée s'aggrave ou ne diminue pas après quelques jours. En dehors des heures d'ouverture, la page [Urgences et garde](/urgences/) dit qui joindre.
 
@@ -69,6 +69,6 @@ Une fois la cicatrisation achevée, l'opération apporte au lapin un confort dur
 
 ## Le suivi des NAC chez Vetmint
 
-La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins. La clinique Vetmint Fribourg Ouest, à Givisiez, opère les NAC avec une anesthésie adaptée à chaque espèce et propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le prix de l'opération fait l'objet d'un devis, selon l'oreille et l'étendue de l'infection. Les autres prix sont sur la page [Tarifs](/tarifs/).
+La page [Médecine des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins. Le cabinet Vetmint Fribourg Ouest, à Givisiez, opère les NAC avec une anesthésie adaptée à chaque espèce et propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le prix de l'opération fait l'objet d'un devis, selon l'oreille et l'étendue de l'infection. Les autres prix sont sur la page [Tarifs](/tarifs/).
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

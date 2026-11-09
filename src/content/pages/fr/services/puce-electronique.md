@@ -14,7 +14,7 @@ resume: La puce identifie votre animal à vie, le relie à vous dans AMICUS ou A
 
 La puce électronique identifie votre animal pour toute sa vie. Le vétérinaire la glisse sous la peau du cou en quelques secondes. Il inscrit ensuite son numéro et vos coordonnées dans le registre suisse : AMICUS pour les chiens, ANIS pour les chats. La puce est obligatoire pour tout chien en Suisse et pour le chien, le chat ou le furet qui passe une frontière. Chez Vetmint, la pose coûte 65 francs, inscription comprise.
 
-[Choisir une clinique et prendre rendez-vous](/cliniques/)
+[Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
 ## Quels animaux, à quel âge
 
@@ -50,7 +50,7 @@ Il reste la démarche administrative. Le vétérinaire inscrit le numéro, l'ani
 
 ## La puce miniature et le thermochip
 
-Plusieurs cliniques Vetmint posent deux autres modèles :
+Plusieurs cabinets Vetmint posent deux autres modèles :
 
 - **La puce miniature**, plus fine et plus courte que la puce standard, posée avec une aiguille plus fine. Elle convient au chaton, au petit chien, au lapin, au furet et aux oiseaux.
 - **Le thermochip**, une puce électronique qui mesure aussi la température. Le lecteur affiche le numéro et la température sous la peau, sans thermomètre. Il sert pour un animal qui supporte mal la prise de température, ou dont la fièvre se surveille souvent à la maison.
@@ -61,12 +61,12 @@ Les deux puces portent un numéro à 15 chiffres reconnu par tous les lecteurs. 
 
 - Le carnet de vaccination ou le passeport, s'il existe déjà.
 - Vos coordonnées complètes : adresse, téléphone portable, e-mail. Ce sont elles que le registre gardera.
-- Pour un voyage, la date de départ : la clinique planifie la puce et le vaccin contre la rage pour respecter les 21 jours.
+- Pour un voyage, la date de départ : le cabinet planifie la puce et le vaccin contre la rage pour respecter les 21 jours.
 - Pour un chien importé, les papiers du pays d'origine et le numéro de la puce déjà posée.
 
 ## Après la pose
 
-Une petite bosse ou une légère sensibilité au point de pose peut durer un ou deux jours. Évitez de frotter la zone le jour même. Rappelez la clinique si la peau rougit, gonfle ou suinte après trois jours.
+Une petite bosse ou une légère sensibilité au point de pose peut durer un ou deux jours. Évitez de frotter la zone le jour même. Rappelez le cabinet si la peau rougit, gonfle ou suinte après trois jours.
 
 La puce ne demande aucun entretien. Le vétérinaire la relit à chaque bilan annuel pour vérifier qu'elle répond et qu'elle n'a pas glissé. Vos démarches à vous comptent davantage : un déménagement, un changement de téléphone, la vente ou le décès de l'animal se signalent sans tarder au registre. Un numéro à jour est la condition pour qu'un animal perdu vous revienne.
 
@@ -94,25 +94,25 @@ Non. Elle n'a ni pile ni GPS. Elle ne fonctionne que si quelqu'un passe un lecte
 
 ### J'ai trouvé un chat, que faire ?
 
-Apportez-le dans une clinique Vetmint pendant les heures d'ouverture. Nous lisons la puce et contactons le registre pour retrouver le propriétaire. Si l'animal est blessé, appelez d'abord la clinique.
+Apportez-le dans un cabinet Vetmint pendant les heures d'ouverture. Nous lisons la puce et contactons le registre pour retrouver le propriétaire. Si l'animal est blessé, appelez d'abord le cabinet.
 
-### J'ai déménagé, la clinique met-elle à jour mes coordonnées ?
+### J'ai déménagé, le cabinet met-il à jour mes coordonnées ?
 
-Non, c'est au propriétaire de le faire. Pour un chien, connectez-vous à AMICUS ou demandez à la commune. Pour un chat, écrivez à ANIS. La clinique peut vous aider à retrouver le numéro de la puce sur le dossier de votre animal.
+Non, c'est au propriétaire de le faire. Pour un chien, connectez-vous à AMICUS ou demandez à la commune. Pour un chat, écrivez à ANIS. Le cabinet peut vous aider à retrouver le numéro de la puce sur le dossier de votre animal.
 
 ### Mon chien vient de l'étranger, faut-il poser une autre puce ?
 
-En général non. Une puce aux normes européennes se lit en Suisse. Le chien doit en revanche être inscrit dans AMICUS à son arrivée. La clinique lit la puce et fait l'inscription.
+En général non. Une puce aux normes européennes se lit en Suisse. Le chien doit en revanche être inscrit dans AMICUS à son arrivée. Le cabinet lit la puce et fait l'inscription.
 
 ### Peut-on poser une puce à un lapin ?
 
 Oui, avec une puce miniature, sous la peau du cou ou entre les épaules. C'est utile pour un lapin qui vit en extérieur ou qui part en pension. Voir aussi la page [médecine des NAC](/services/nac/).
 
-## Les cliniques qui posent et lisent les puces
+## Les cabinets qui posent et lisent les puces
 
-Les huit cliniques posent et lisent les puces standard et font l'inscription dans AMICUS et ANIS. Cinq posent aussi la puce miniature et le thermochip.
+Les huit cabinets posent et lisent les puces standard et font l'inscription dans AMICUS et ANIS. Cinq posent aussi la puce miniature et le thermochip.
 
-| Clinique | Puce standard | Puce miniature et thermochip | Rendez-vous |
+| Cabinet | Puce standard | Puce miniature et thermochip | Rendez-vous |
 |---|---|---|---|
 | [Bussigny](/bussigny/services/) | oui | non | [prendre rendez-vous](/bussigny/rendez-vous/) |
 | [La Chaux-de-Fonds](/chauxdefonds/services/) | oui | oui | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
@@ -125,8 +125,8 @@ Les huit cliniques posent et lisent les puces standard et font l'inscription dan
 
 ## Prendre rendez-vous
 
-La puce ne demande pas de rendez-vous à part : demandez-la avec le premier vaccin du chaton ou avec sa stérilisation. Un chiot arrive de l'élevage avec sa puce ; s'il n'en a pas, appelez la clinique sans attendre. Pour un voyage, appelez au moins un mois avant le départ. La clinique pose la puce et fait le vaccin contre la rage le même jour. Il reste ensuite 21 jours à attendre.
+La puce ne demande pas de rendez-vous à part : demandez-la avec le premier vaccin du chaton ou avec sa stérilisation. Un chiot arrive de l'élevage avec sa puce ; s'il n'en a pas, appelez le cabinet sans attendre. Pour un voyage, appelez au moins un mois avant le départ. Le cabinet pose la puce et fait le vaccin contre la rage le même jour. Il reste ensuite 21 jours à attendre.
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)
 
 Pour le calendrier des vaccins : [vaccination du chien](/services/vaccination-chien/) et [vaccination du chat](/services/vaccination-chat/).

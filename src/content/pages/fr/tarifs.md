@@ -2,17 +2,17 @@
 type: simple
 url: /tarifs/
 title: "Tarifs vétérinaires Vetmint : vaccins, opérations, urgences"
-description: "Les prix des cliniques Vetmint : consultation de 30 minutes de 54 à 59 francs, vaccins, stérilisation, détartrage, urgences. Ce que comprend chaque prix."
+description: "Les prix des cabinets Vetmint : consultation de 30 minutes de 54 à 59 francs, vaccins, stérilisation, détartrage, urgences. Ce que comprend chaque prix."
 h1: Nos tarifs
 recherche: tarifs vétérinaires
 redige_le: 2026-10-16
 ---
 
-Les tarifs vétérinaires de Vetmint sont publiés pour les huit cliniques, avec ce que chaque prix comprend. La consultation de 30 minutes coûte de 54 à 59 francs selon la clinique. Les opérations courantes ont un prix forfaitaire, anesthésie comprise.
+Les tarifs vétérinaires de Vetmint sont publiés pour les huit cabinets, avec ce que chaque prix comprend. La consultation de 30 minutes coûte de 54 à 59 francs selon le cabinet. Les opérations courantes ont un prix forfaitaire, anesthésie comprise.
 
 ## Comment lire ces prix
 
-Les prix sont en francs suisses, toutes taxes comprises. Ils valent dès le 29 avril 2025. Une fourchette signale un prix qui varie d'une clinique à l'autre. Le dernier tableau donne le prix exact de chaque clinique. Pour un soin absent de ces tableaux, la clinique vous remet un devis avant de commencer.
+Les prix sont en francs suisses, toutes taxes comprises. Ils valent dès le 29 avril 2025. Une fourchette signale un prix qui varie d'un cabinet à l'autre. Le dernier tableau donne le prix exact de chaque cabinet. Pour un soin absent de ces tableaux, le cabinet vous remet un devis avant de commencer.
 
 ## Consultations
 
@@ -49,7 +49,7 @@ Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie avec sa surv
 | Stérilisation de la chatte | cathéter, perfusion, intubation, anesthésie gazeuse (210 CHF à La Chaux-de-Fonds et à Lac-de-Joux) | 210 à 260 CHF |
 | Castration du chat | cathéter et surveillance de l'anesthésie | 105 à 115 CHF |
 | Stérilisation de la chienne | cathéter, perfusion, intubation, anesthésie gazeuse, deux contrôles ; prix selon le poids à Bussigny, Lac-de-Joux et Saint-Blaise | 500 à 850 CHF |
-| Castration du chien | même anesthésie, deux contrôles ; prix selon le poids dans les mêmes cliniques | 380 à 535 CHF |
+| Castration du chien | même anesthésie, deux contrôles ; prix selon le poids dans les mêmes cabinets | 380 à 535 CHF |
 | Stérilisation de la lapine | anesthésie par piqûre puis au gaz, deux contrôles | 250 à 380 CHF |
 | Castration du lapin | même anesthésie, deux contrôles (lapin ou rongeur à Fribourg Ouest, 150 CHF) | 131 à 185 CHF |
 
@@ -80,7 +80,7 @@ Les examens sont décrits aux pages [échographie](/services/echographie/), [rad
 
 Le supplément d'urgence s'ajoute au prix des soins.
 
-| Clinique | Pendant la journée | La nuit, le dimanche et les jours fériés |
+| Cabinet | Pendant la journée | La nuit, le dimanche et les jours fériés |
 |---|---|---|
 | Bussigny, Saint-Blaise | 99 CHF de 8 h à 22 h | 176 CHF de 22 h à 8 h, 120 CHF le dimanche et les jours fériés |
 | La Chaux-de-Fonds | 65 CHF de 8 h à 22 h | 85 CHF de 22 h à 8 h, 120 CHF le dimanche et les jours fériés |
@@ -114,7 +114,7 @@ Un rendez-vous à domicile annulé moins de 24 heures avant est facturé. [Les s
 
 ## Moyens de paiement
 
-Vous payez à la clinique, après la consultation, par carte de débit, carte de crédit ou TWINT. À domicile, vous payez sur place.
+Vous payez au cabinet, après la consultation, par carte de débit, carte de crédit ou TWINT. À domicile, vous payez sur place.
 
 ## Plan de prévention et abonnements
 
@@ -122,9 +122,9 @@ Le plan de prévention du chiot ou du chaton coûte 515 francs pour un an, payab
 
 [Plan de prévention et abonnements](/abonnements/)
 
-## Le prix dans chaque clinique
+## Le prix dans chaque cabinet
 
-| Clinique | Consultation | Bilan chien | Bilan chat d'intérieur | Bilan chat d'extérieur | Stérilisation chatte | Détartrage |
+| Cabinet | Consultation | Bilan chien | Bilan chat d'intérieur | Bilan chat d'extérieur | Stérilisation chatte | Détartrage |
 |---|---|---|---|---|---|---|
 | Bussigny | 58 CHF | 93 CHF | 98 CHF | 98 CHF | 260 CHF | 320 CHF |
 | La Chaux-de-Fonds | 54 CHF | 89 CHF | 94 CHF | 94 CHF | 210 CHF | 320 CHF |
@@ -135,4 +135,4 @@ Le plan de prévention du chiot ou du chaton coûte 515 francs pour un an, payab
 | Saint-Blaise | 58 CHF | 93 CHF | 98 CHF | 98 CHF | 260 CHF | 320 CHF |
 | Saint-Légier | 59 CHF | 91 CHF | 70 CHF | 99 CHF | 260 CHF | 345 CHF |
 
-[Adresses et horaires des cliniques](/cliniques/)
+[Adresses et horaires des cabinets](/cabinets/)

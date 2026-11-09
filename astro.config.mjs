@@ -58,6 +58,9 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory' },
   devToolbar: { enabled: false },
+  // Anciennes adresses : la page renvoie vers la nouvelle, pour ne casser ni lien ni favori.
+  // « Clinique » est une appellation protégée : les cabinets Vetmint n'y ont pas droit.
+  redirects: { '/cliniques/': '/cabinets/' },
   markdown: { processor: satteri(extensionsMarkdown) },
   integrations: [sitemap({ filter: (page) => !/\/(styleguide|404)\//.test(page) }), robots(), imagesNonCitees()],
 });

@@ -10,13 +10,13 @@ redige_le: 2026-11-03
 resume: "Les opérations des tissus mous, faites sur place par les deux vétérinaires de Payerne, sur devis."
 ---
 
-À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération de la clinique Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y opèrent les chiens, les chats, les lapins et les rongeurs. Ils retirent des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Le prix se fixe sur devis, après une consultation de 30 minutes à 57 francs.
+À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération du cabinet Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y opèrent les chiens, les chats, les lapins et les rongeurs. Ils retirent des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Le prix se fixe sur devis, après une consultation de 30 minutes à 57 francs.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
 ## Ce qui s'opère à Payerne
 
-La clinique pratique la chirurgie des tissus mous : la peau, le ventre et ses organes, hors os et articulations. Les opérations les plus fréquentes sont les suivantes :
+Le cabinet pratique la chirurgie des tissus mous : la peau, le ventre et ses organes, hors os et articulations. Les opérations les plus fréquentes sont les suivantes :
 
 - **Le retrait d'une grosseur** (ablation de tumeur), sous la peau, sur une mamelle ou dans le ventre.
 - **Les soins de plaie** : morsure, coupure, déchirure, nettoyée puis recousue.
@@ -28,9 +28,9 @@ Les termes entre parenthèses sont ceux que vous lirez sur le devis ou la factur
 
 ## Ce qui ne se fait pas sur place
 
-Le scanner, l'IRM et la chirurgie des os demandent un équipement que la clinique n'a pas. Pour une fracture ou une opération du genou, le vétérinaire de Payerne vous adresse à une clinique de référence. Il lui transmet le dossier et les radiographies déjà faites, pour éviter de les refaire.
+Le scanner, l'IRM et la chirurgie des os demandent un équipement que le cabinet n'a pas. Pour une fracture ou une opération du genou, le vétérinaire de Payerne vous adresse à une clinique de référence. Il lui transmet le dossier et les radiographies déjà faites, pour éviter de les refaire.
 
-## Le bloc de la clinique
+## Le bloc du cabinet
 
 La zone de soins se trouve derrière les salles de consultation. Elle réunit trois pièces qui communiquent : la salle de préparation, la salle d'opération et la salle de radiographie.
 
@@ -64,15 +64,15 @@ Le vétérinaire vous téléphone quand l'opération est finie. La plupart des a
 
 ### Mon chien a avalé une chaussette un dimanche. Que faire ?
 
-Appelez le numéro de garde, donné sur la page [Urgences à Payerne](/payerne/urgences/). Le vétérinaire de garde vous dit où aller. En semaine, appelez la clinique au [026 660 16 16](tel:+41266601616) : elle prépare la radiographie et la salle d'opération pendant votre trajet.
+Appelez le numéro de garde, donné sur la page [Urgences à Payerne](/payerne/urgences/). Le vétérinaire de garde vous dit où aller. En semaine, appelez le cabinet au [026 660 16 16](tel:+41266601616) : elle prépare la radiographie et la salle d'opération pendant votre trajet.
 
 ### Qui opère mon animal ?
 
-Claire-Lise Tinguely ou Tiago Capelo, les deux vétérinaires de la clinique. Ils se partagent les opérations programmées et les urgences de la journée. Pour être suivi par l'un d'eux, dites-le en prenant rendez-vous.
+Claire-Lise Tinguely ou Tiago Capelo, les deux vétérinaires du cabinet. Ils se partagent les opérations programmées et les urgences de la journée. Pour être suivi par l'un d'eux, dites-le en prenant rendez-vous.
 
 ### Ma chienne âgée a une boule sur une mamelle. Faut-il l'opérer ?
 
-Montrez-la d'abord en consultation. Le vétérinaire peut prélever quelques cellules à l'aiguille et les regarder au microscope à la clinique. Ensuite, il vous dit si l'opération vaut la peine et ce qu'elle coûtera.
+Montrez-la d'abord en consultation. Le vétérinaire peut prélever quelques cellules à l'aiguille et les regarder au microscope au cabinet. Ensuite, il vous dit si l'opération vaut la peine et ce qu'elle coûtera.
 
 L'anesthésie, la cicatrisation et les soins à la maison sont expliqués sur la page [Tout savoir sur la chirurgie des tissus mous](/services/chirurgie/).
 

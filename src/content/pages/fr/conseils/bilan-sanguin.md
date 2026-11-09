@@ -45,11 +45,11 @@ Certaines races ont des points faibles connus. La prise de sang les surveille av
 
 Le prélèvement prend quelques minutes, pendant la consultation. Le vétérinaire ou l'assistante pique une veine de la patte ou du cou, après avoir tondu une petite zone. La plupart des animaux le supportent bien. Un petit pansement reste en place une heure.
 
-Chaque clinique Vetmint a son laboratoire. Les analyses courantes s'y font sur place, avec un résultat pendant la consultation ou dans l'heure. Les analyses plus rares partent dans un laboratoire externe et reviennent en deux à trois jours ouvrables. La page [Analyses et diagnostic](/services/analyses-diagnostic/) liste ce qui se mesure sur place.
+Chaque cabinet Vetmint a son laboratoire. Les analyses courantes s'y font sur place, avec un résultat pendant la consultation ou dans l'heure. Les analyses plus rares partent dans un laboratoire externe et reviennent en deux à trois jours ouvrables. La page [Analyses et diagnostic](/services/analyses-diagnostic/) liste ce qui se mesure sur place.
 
 ## Comment le préparer
 
-Pour un bilan complet, un chien ou un chat vient en général à jeun, sans repas depuis 8 à 12 heures. L'eau reste à disposition. La clinique vous le précise en fixant le rendez-vous.
+Pour un bilan complet, un chien ou un chat vient en général à jeun, sans repas depuis 8 à 12 heures. L'eau reste à disposition. Le cabinet vous le précise en fixant le rendez-vous.
 
 Un lapin ou un rongeur ne se met jamais à jeun. Son transit doit rester actif : laissez-lui foin et eau jusqu'au départ.
 
@@ -63,4 +63,4 @@ Appelez le jour même s'il a les gencives très pâles, s'effondre ou respire av
 
 Les [abonnements](/abonnements/) Vetmint pour chiens et chats comprennent une prise de sang par an, avec deux consultations et le vaccin. L'abonnement senior, dès 7 ans, y ajoute une analyse d'urine et une mesure de la tension. Les prix des analyses hors abonnement figurent sur la page [Tarifs](/tarifs/).
 
-[Trouver une clinique Vetmint](/cliniques/)
+[Trouver un cabinet Vetmint](/cabinets/)

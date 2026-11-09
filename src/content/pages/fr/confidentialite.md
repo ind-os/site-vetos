@@ -12,9 +12,9 @@ Vetmint traite peu de données personnelles sur vetmint.ch. Les pages sont stati
 
 ## Qui est responsable
 
-Le responsable des traitements est Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Il répond de tout le site vetmint.ch, y compris les pages des huit cliniques, par exemple vetmint.ch/payerne/.
+Le responsable des traitements est Vetmint SA, c/o COLAB, Route de la Fonderie 2, 1700 Fribourg. Il répond de tout le site vetmint.ch, y compris les pages des huit cabinets, par exemple vetmint.ch/payerne/.
 
-La clinique où vous prenez rendez-vous est responsable des données de ce rendez-vous et du dossier de votre animal. Chaque clinique est une société, par exemple Vetmint Payerne SA. Les raisons sociales et les adresses des cliniques sont dans les [mentions légales](/mentions-legales/).
+Le cabinet où vous prenez rendez-vous est responsable des données de ce rendez-vous et du dossier de votre animal. Chaque cabinet est une société, par exemple Vetmint Payerne SA. Les raisons sociales et les adresses des cabinets sont dans les [mentions légales](/mentions-legales/).
 
 Pour toute question ou demande, écrivez à [ek@vetmint.ch](mailto:ek@vetmint.ch).
 
@@ -34,21 +34,21 @@ Le site ne dépose aucun cookie de suivi ni de publicité. Le module de rendez-v
 
 ### Les horaires, les fermetures et la garde
 
-Les horaires, les fermetures, le numéro de garde et les annonces des cliniques viennent d'une base de données de Vetmint. Votre navigateur la consulte pour afficher l'information du jour. Cette base ne contient aucune donnée personnelle et la consultation n'en transmet aucune. Les mêmes informations sont envoyées aux fiches Google des cliniques.
+Les horaires, les fermetures, le numéro de garde et les annonces des cabinets viennent d'une base de données de Vetmint. Votre navigateur la consulte pour afficher l'information du jour. Cette base ne contient aucune donnée personnelle et la consultation n'en transmet aucune. Les mêmes informations sont envoyées aux fiches Google des cabinets.
 
 ## Le module de rendez-vous
 
-Pour réserver, vous indiquez votre nom, votre prénom, votre téléphone, votre adresse e-mail, le nom et l'espèce de votre animal et le motif de la visite. Ces données vont à la clinique choisie. Elle s'en sert pour vous recevoir, vous rappeler le rendez-vous et tenir le dossier de votre animal. Les données sont stockées en Suisse. La clinique les garde aussi longtemps que le dossier médical, soit dix ans après la dernière visite.
+Pour réserver, vous indiquez votre nom, votre prénom, votre téléphone, votre adresse e-mail, le nom et l'espèce de votre animal et le motif de la visite. Ces données vont au cabinet choisi. Il s'en sert pour vous recevoir, vous rappeler le rendez-vous et tenir le dossier de votre animal. Les données sont stockées en Suisse. Le cabinet les garde aussi longtemps que le dossier médical, soit dix ans après la dernière visite.
 
 ## Les e-mails et les candidatures
 
-Quand vous écrivez à une clinique ou à Vetmint, votre message et vos coordonnées servent à vous répondre. S'ils concernent votre animal, ils rejoignent son dossier.
+Quand vous écrivez à un cabinet ou à Vetmint, votre message et vos coordonnées servent à vous répondre. S'ils concernent votre animal, ils rejoignent son dossier.
 
 Une candidature sert seulement au recrutement. Elle est effacée six mois après la fin du recrutement, sauf si vous acceptez que nous la gardions pour un prochain poste.
 
 ## La lettre d'information
 
-Votre adresse e-mail et la clinique que vous indiquez servent seulement à l'envoi de la [lettre d'information](/newsletter/). Chaque lettre porte un lien de désinscription. Après une désinscription, votre adresse est effacée dans les 7 jours.
+Votre adresse e-mail et le cabinet que vous indiquez servent seulement à l'envoi de la [lettre d'information](/newsletter/). Chaque lettre porte un lien de désinscription. Après une désinscription, votre adresse est effacée dans les 7 jours.
 
 ## Où sont vos données
 
@@ -58,7 +58,7 @@ Certains liens mènent vers un service tiers : un itinéraire sur une carte, Wh
 
 ## Qui y a accès
 
-L'équipe de la clinique voit les rendez-vous pris chez elle. Vetmint SA administre le site. L'hébergeur et le prestataire qui entretient le site agissent comme sous-traitants : ils n'utilisent les données que pour faire fonctionner le site. Nous ne vendons aucune donnée.
+L'équipe du cabinet voit les rendez-vous pris chez lui. Vetmint SA administre le site. L'hébergeur et le prestataire qui entretient le site agissent comme sous-traitants : ils n'utilisent les données que pour faire fonctionner le site. Nous ne vendons aucune donnée.
 
 ## Sécurité
 

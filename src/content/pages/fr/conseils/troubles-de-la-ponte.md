@@ -40,7 +40,7 @@ L'œuf bloqué peut comprimer le nerf qui commande les pattes. L'oiseau ne tient
 
 ## Quand consulter
 
-Appelez une clinique sans attendre si votre oiseau se tient en boule au fond de la cage ou pousse sans pondre. Même consigne s'il ne tient plus sur ses pattes ou si une masse rouge sort par le cloaque. Ces signes ne s'arrangent pas seuls. Pendant le trajet, gardez l'oiseau au chaud et au calme, dans une petite caisse sans perchoir haut. Au téléphone, vérifiez que la clinique reçoit les oiseaux.
+Appelez un cabinet sans attendre si votre oiseau se tient en boule au fond de la cage ou pousse sans pondre. Même consigne s'il ne tient plus sur ses pattes ou si une masse rouge sort par le cloaque. Ces signes ne s'arrangent pas seuls. Pendant le trajet, gardez l'oiseau au chaud et au calme, dans une petite caisse sans perchoir haut. Au téléphone, vérifiez que le cabinet reçoit les oiseaux.
 
 Prenez un rendez-vous rapide si votre oiseau pond des œufs à coquille molle ou déformée, ou s'il pond sans arrêt.
 
@@ -68,6 +68,6 @@ Dans certains cas, une [stérilisation](/services/sterilisation-castration/) chi
 
 ## Faire soigner votre oiseau
 
-La clinique Vetmint Fribourg Ouest, à Givisiez, reçoit les oiseaux d'ornement et de basse-cour. Elle propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les perroquets y ont aussi une première consultation consacrée à leurs conditions de vie. Pour un œuf bloqué, appelez-la au [026 466 84 84](tel:+41264668484). La page [Médecine des NAC](/services/nac/) présente nos soins aux oiseaux, aux lapins et aux rongeurs.
+Le cabinet Vetmint Fribourg Ouest, à Givisiez, reçoit les oiseaux d'ornement et de basse-cour. Il propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les perroquets y ont aussi une première consultation consacrée à leurs conditions de vie. Pour un œuf bloqué, appelez-la au [026 466 84 84](tel:+41264668484). La page [Médecine des NAC](/services/nac/) présente nos soins aux oiseaux, aux lapins et aux rongeurs.
 
-[Les cliniques Vetmint](/cliniques/)
+[Les cabinets Vetmint](/cabinets/)

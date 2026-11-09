@@ -9,11 +9,11 @@ recherche: urgence vétérinaire Payerne
 redige_le: 2026-10-16
 ---
 
-En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal est blessé, respire mal ou ne se comporte plus comme d'habitude. Au téléphone, l'équipe de la clinique Vetmint Payerne vous dit quoi faire pendant le trajet et prépare votre arrivée.
+En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal est blessé, respire mal ou ne se comporte plus comme d'habitude. Au téléphone, l'équipe du cabinet Vetmint Payerne vous dit quoi faire pendant le trajet et prépare votre arrivée.
 
 ## Que faire maintenant
 
-- Pendant les heures d'ouverture, appelez la clinique au [026 660 16 16](tel:+41266601616).
+- Pendant les heures d'ouverture, appelez le cabinet au [026 660 16 16](tel:+41266601616).
 - La nuit, le week-end, les jours fériés et en dehors des heures d'ouverture, appelez le numéro de garde.
 
 <!-- donnees: garde -->
@@ -22,7 +22,7 @@ En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal
 
 ## Pendant les heures d'ouverture
 
-La clinique reçoit les urgences sans rendez-vous, entre deux consultations. Téléphonez d'abord, même si vous êtes à deux minutes de la route du Châtelard. L'équipe libère une salle et prépare le matériel. Elle peut vous demander de vous garer sur la place de dépose de plain-pied : vous entrez directement, sans traverser la salle d'attente.
+Le cabinet reçoit les urgences sans rendez-vous, entre deux consultations. Téléphonez d'abord, même si vous êtes à deux minutes de la route du Châtelard. L'équipe libère une salle et prépare le matériel. Elle peut vous demander de vous garer sur la place de dépose de plain-pied : vous entrez directement, sans traverser la salle d'attente.
 
 <!-- donnees: horaires -->
 - Lundi : 8 h à 12 h et 14 h à 18 h
@@ -31,7 +31,7 @@ La clinique reçoit les urgences sans rendez-vous, entre deux consultations. Té
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
-Une urgence reçue pendant les heures d'ouverture coûte la consultation, 57 francs, plus un supplément de 99 francs, puis les soins. Sur place, la clinique a un laboratoire, une salle de radiographie et une salle d'opération : la prise de sang, la radio et l'opération se font sans transfert. Votre animal peut rester hospitalisé ; la nuit, l'équipe le contrôle à la fermeture et dès l'ouverture.
+Une urgence reçue pendant les heures d'ouverture coûte la consultation, 57 francs, plus un supplément de 99 francs, puis les soins. Sur place, le cabinet a un laboratoire, une salle de radiographie et une salle d'opération : la prise de sang, la radio et l'opération se font sans transfert. Votre animal peut rester hospitalisé ; la nuit, l'équipe le contrôle à la fermeture et dès l'ouverture.
 
 ## En dehors des heures d'ouverture
 
@@ -64,9 +64,9 @@ Un lapin, un cochon d'Inde ou un petit rongeur qui ne mange plus et ne fait plus
 - Sur une plaie, appuyez avec un linge propre ; laissez en place un objet planté.
 - La douleur rend mordant l'animal le plus doux : gardez vos mains loin de sa gueule.
 
-## Les cliniques Vetmint voisines
+## Les cabinets Vetmint voisins
 
-Si Payerne ne peut pas vous recevoir pendant la journée, appelez la clinique Vetmint de Domdidier, à une dizaine de minutes en voiture. Elle est à la route de Saint-Aubin 58, 1564 Domdidier, au [026 675 38 88](tel:+41266753888). La clinique Vetmint Fribourg Ouest, à Givisiez, est à 25 minutes environ : [026 466 84 84](tel:+41264668484). Les adresses des huit cliniques Vetmint figurent sur la [carte des cliniques](/cliniques/).
+Si Payerne ne peut pas vous recevoir pendant la journée, appelez le cabinet Vetmint de Domdidier, à une dizaine de minutes en voiture. Il est à la route de Saint-Aubin 58, 1564 Domdidier, au [026 675 38 88](tel:+41266753888). Le cabinet Vetmint Fribourg Ouest, à Givisiez, est à 25 minutes environ : [026 466 84 84](tel:+41264668484). Les adresses des huit cabinets Vetmint figurent sur la [carte des cabinets](/cabinets/).
 
 ## Le paiement d'une urgence
 

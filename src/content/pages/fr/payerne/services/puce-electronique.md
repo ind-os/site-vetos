@@ -10,15 +10,15 @@ redige_le: 2026-11-03
 resume: Pose, inscription au registre, puce miniature et thermochip ; lecture de la puce d'un animal trouvé.
 ---
 
-À Payerne, la puce électronique du chien et du chat se pose pendant une consultation, le plus souvent avec le premier vaccin. Le vétérinaire la glisse sous la peau du cou en deux secondes. La clinique transmet ensuite le numéro et vos coordonnées au registre suisse : AMICUS pour les chiens, ANIS pour les chats. Elle pose aussi des puces miniatures et des thermochips. Un animal trouvé dans la Broye peut y être amené pour lire sa puce.
+À Payerne, la puce électronique du chien et du chat se pose pendant une consultation, le plus souvent avec le premier vaccin. Le vétérinaire la glisse sous la peau du cou en deux secondes. Le cabinet transmet ensuite le numéro et vos coordonnées au registre suisse : AMICUS pour les chiens, ANIS pour les chats. Elle pose aussi des puces miniatures et des thermochips. Un animal trouvé dans la Broye peut y être amené pour lire sa puce.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
-## La pose à la clinique
+## La pose au cabinet
 
 La pose se fait dans l'une des deux salles de consultation. Une assistante en médecine vétérinaire tient votre chiot ou votre chaton contre elle. Le vétérinaire passe d'abord le lecteur sur l'animal, pour vérifier qu'il ne porte pas déjà une puce. Il lit le numéro de la puce neuve, l'injecte sur le côté gauche du cou, puis la relit en place. L'animal réagit comme pour un vaccin.
 
-Un chaton craintif peut recevoir sa puce plus tard, pendant sa castration ou sa stérilisation, sous anesthésie. Il ne sent alors rien. Les opérations se font à la clinique : voir la [stérilisation et la castration à Payerne](/payerne/services/sterilisation-castration/).
+Un chaton craintif peut recevoir sa puce plus tard, pendant sa castration ou sa stérilisation, sous anesthésie. Il ne sent alors rien. Les opérations se font au cabinet : voir la [stérilisation et la castration à Payerne](/payerne/services/sterilisation-castration/).
 
 Avant que vous repartiez, l'assistante saisit l'inscription au registre avec vos coordonnées. Le numéro est reporté dans le passeport et dans le carnet de vaccination.
 
@@ -26,7 +26,7 @@ Avant que vous repartiez, l'assistante saisit l'inscription au registre avec vos
 
 Payerne pose deux modèles en plus de la puce standard.
 
-**La puce miniature** est plus fine et se pose avec une aiguille plus fine. Elle convient au chaton, au chien de petite race, au lapin et au cochon d'Inde. La clinique soigne et opère ces petits animaux sur place.
+**La puce miniature** est plus fine et se pose avec une aiguille plus fine. Elle convient au chaton, au chien de petite race, au lapin et au cochon d'Inde. Le cabinet soigne et opère ces petits animaux sur place.
 
 **Le thermochip** mesure aussi la température sous la peau. Le lecteur affiche le numéro et les degrés, sans thermomètre. C'est utile pour un chien qui supporte mal la prise de température, ou dont la fièvre se surveille souvent.
 
@@ -52,12 +52,12 @@ La pose se fait pendant une consultation de 30 minutes, à 57 francs. Pour un j
 
 - Apportez le carnet de vaccination ou le passeport, s'il existe.
 - Notez vos coordonnées complètes : adresse, téléphone portable, e-mail. Le registre gardera celles-là.
-- Pour un chien qui vient de l'étranger, apportez les papiers du pays d'origine. La clinique lit sa puce et l'inscrit dans AMICUS.
+- Pour un chien qui vient de l'étranger, apportez les papiers du pays d'origine. Le cabinet lit sa puce et l'inscrit dans AMICUS.
 - Pour un voyage, appelez un mois avant le départ. La puce se pose avant le vaccin contre la rage ; il faut ensuite attendre 21 jours pour passer la frontière. Le calendrier des vaccins est sur la page [vaccination du chien à Payerne](/payerne/services/vaccination-chien/).
 
 ## Après la pose
 
-Une petite bosse peut rester un ou deux jours au point de pose. Ne frottez pas la zone le jour même. Si la peau rougit, gonfle ou suinte après trois jours, appelez la clinique.
+Une petite bosse peut rester un ou deux jours au point de pose. Ne frottez pas la zone le jour même. Si la peau rougit, gonfle ou suinte après trois jours, appelez le cabinet.
 
 La puce ne demande aucun entretien. À chaque bilan annuel, à 94 francs pour un chien et 70 ou 98 francs pour un chat, le vétérinaire la relit pour vérifier qu'elle répond toujours au même endroit.
 
@@ -65,9 +65,9 @@ La puce ne demande aucun entretien. À chaque bilan annuel, à 94 francs pour u
 
 ### Mon chiot est arrivé sans puce. Que faire ?
 
-En Suisse, un chiot doit porter sa puce avant de quitter l'élevage, au plus tard à 3 mois. Appelez la clinique sans attendre : la pose et l'inscription dans AMICUS se font au premier rendez-vous. Demandez aussi à l'éleveur pourquoi la puce manque.
+En Suisse, un chiot doit porter sa puce avant de quitter l'élevage, au plus tard à 3 mois. Appelez le cabinet sans attendre : la pose et l'inscription dans AMICUS se font au premier rendez-vous. Demandez aussi à l'éleveur pourquoi la puce manque.
 
-### J'ai déménagé de Lucens à Payerne. La clinique change-t-elle mon adresse ?
+### J'ai déménagé de Lucens à Payerne. Le cabinet change-t-il mon adresse ?
 
 Non, c'est au propriétaire de le faire, dans AMICUS pour un chien ou auprès d'ANIS pour un chat. Si vous avez perdu le numéro, l'équipe le retrouve dans le dossier de votre animal.
 

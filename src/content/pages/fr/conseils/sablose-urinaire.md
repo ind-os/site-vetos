@@ -40,7 +40,7 @@ D'autres signes montrent qu'il a mal ou qu'il est affaibli. Il reste prostré, s
 
 Prenez rendez-vous dès que vous voyez une urine blanche et épaisse, du sang dans l'urine ou un arrière-train souillé. Sans soin rapide, la sablose peut se compliquer d'une infection urinaire. Dans les cas graves, elle atteint les reins ou ralentit, voire arrête, le transit.
 
-Appelez la clinique le jour même si votre animal fait des efforts pour uriner sans y arriver. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Un cochon d'Inde qui cesse de manger doit lui aussi être vu le jour même.
+Appelez le cabinet le jour même si votre animal fait des efforts pour uriner sans y arriver. Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Un cochon d'Inde qui cesse de manger doit lui aussi être vu le jour même.
 
 ## Ce que fait le vétérinaire
 
@@ -84,6 +84,6 @@ Le vétérinaire adapte la ration à votre animal. La fiche [Alimentation du lap
 
 ## Faire examiner votre animal
 
-Les examens et les soins des lapins et des cochons d'Inde sont présentés sur la page [Médecine des NAC](/services/nac/). La clinique Vetmint Fribourg Ouest, à Givisiez, les reçoit aussi en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Les examens et les soins des lapins et des cochons d'Inde sont présentés sur la page [Médecine des NAC](/services/nac/). Le cabinet Vetmint Fribourg Ouest, à Givisiez, les reçoit aussi en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
-[Trouver votre clinique](/cliniques/)
+[Trouver votre cabinet](/cabinets/)

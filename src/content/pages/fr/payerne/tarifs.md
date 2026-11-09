@@ -3,13 +3,13 @@ type: tarifs
 clinique: payerne
 url: /payerne/tarifs/
 title: "Tarif vétérinaire à Payerne : vaccins, opérations, urgences"
-description: "Prix de la clinique Vetmint Payerne : consultation de 30 minutes à 57 francs, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
-h1: Les tarifs de la clinique Vetmint Payerne
+description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à 57 francs, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
+h1: Les tarifs du cabinet Vetmint Payerne
 recherche: tarif vétérinaire Payerne
 redige_le: 2026-11-03
 ---
 
-Le tarif vétérinaire de la clinique Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte 57 francs. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.
+Le tarif vétérinaire du cabinet Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte 57 francs. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.
 
 ## Comment lire cette grille
 
@@ -70,7 +70,7 @@ Une dent à extraire s'ajoute au forfait du détartrage. Le déroulement est exp
 
 ## Examens et analyses
 
-La clinique fait sur place la prise de sang, l'analyse d'urine ou de selles et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-diagnostic/) et [radiographie](/payerne/services/radiographie/).
+Le cabinet fait sur place la prise de sang, l'analyse d'urine ou de selles et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-diagnostic/) et [radiographie](/payerne/services/radiographie/).
 
 ## Les urgences
 
@@ -93,7 +93,7 @@ Ce qu'il faut faire selon l'heure est sur la page [Urgences](/payerne/urgences/)
 |---|---|---|
 | Visite à domicile | déplacement du vétérinaire dans le district de la Broye, du lundi au vendredi de 7 h 30 à 19 h ; les soins s'ajoutent | 55 CHF |
 
-Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée. Le toilettage se fait à la clinique, par une assistante en médecine vétérinaire formée au toilettage. Ses prix, selon la taille du chien ou pour un chat, sont sur la page [Toilettage](/services/toilettage/).
+Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée. Le toilettage se fait au cabinet, par une assistante en médecine vétérinaire formée au toilettage. Ses prix, selon la taille du chien ou pour un chat, sont sur la page [Toilettage](/services/toilettage/).
 
 ## Payer
 
@@ -105,8 +105,8 @@ Le plan de prévention coûte 515 francs pour la première année d'un chiot ou 
 
 [Le plan de prévention et les abonnements à Payerne](/payerne/abonnements/)
 
-## Comparer avec les autres cliniques
+## Comparer avec les autres cabinets
 
-Les huit cliniques Vetmint publient leurs prix. La consultation y coûte de 54 à 59 francs selon le lieu. Le tableau clinique par clinique est sur la page [tarifs de Vetmint](/tarifs/).
+Les huit cabinets Vetmint publient leurs prix. La consultation y coûte de 54 à 59 francs selon le lieu. Le tableau cabinet par cabinet est sur la page [tarifs de Vetmint](/tarifs/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

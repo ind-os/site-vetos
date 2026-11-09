@@ -12,9 +12,9 @@ especes: [chien, chat, nac]
 resume: Une lumière qui calme la douleur et accélère la cicatrisation, sans incision ni anesthésie, en séances de quelques minutes.
 ---
 
-Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cliniques Vetmint proposent la thérapie laser, à 62 francs la séance avec la consultation.
+Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cabinets Vetmint proposent la thérapie laser, à 62 francs la séance avec la consultation.
 
-[Prendre rendez-vous dans une clinique](/cliniques/)
+[Prendre rendez-vous dans un cabinet](/cabinets/)
 
 ## Pour quels animaux et quels problèmes
 
@@ -45,7 +45,7 @@ La première séance commence par un examen. Le vétérinaire regarde la zone à
 
 Pendant le traitement, tout le monde porte des lunettes de protection, y compris vous si vous restez dans la salle. Le vétérinaire ou une assistante en médecine vétérinaire tient la sonde. Les yeux de l'animal sont couverts par des lunettes adaptées ou par une main. La sonde passe lentement au contact de la peau, sur la zone malade. L'animal sent une légère chaleur. Beaucoup de chiens se couchent et certains chats ronronnent.
 
-L'émission dure de deux à dix minutes selon la taille de la zone. Avec l'accueil et l'examen de contrôle, comptez 15 à 20 minutes à la clinique. L'animal repart aussitôt, sans période de surveillance.
+L'émission dure de deux à dix minutes selon la taille de la zone. Avec l'accueil et l'examen de contrôle, comptez 15 à 20 minutes au cabinet. L'animal repart aussitôt, sans période de surveillance.
 
 ## La préparation
 
@@ -67,7 +67,7 @@ Le rythme dépend du problème :
 - **Arthrose** : deux séances par semaine pendant deux à trois semaines, puis une séance toutes les deux à quatre semaines tant qu'elle aide.
 - **Gencives et oreilles** : une série de quatre à six séances, puis un contrôle.
 
-Rappelez la clinique si la plaie suinte, sent mauvais ou s'agrandit, ou si l'animal boite plus qu'avant la série. Ce n'est pas un effet du laser : le problème demande un nouvel examen.
+Rappelez le cabinet si la plaie suinte, sent mauvais ou s'agrandit, ou si l'animal boite plus qu'avant la série. Ce n'est pas un effet du laser : le problème demande un nouvel examen.
 
 ## Le prix
 
@@ -76,7 +76,7 @@ Rappelez la clinique si la plaie suinte, sent mauvais ou s'agrandit, ou si l'ani
 | Consultation avec thérapie laser | examen de la zone, séance de laser, conseils pour la suite | 62 CHF |
 | Séance de suivi | contrôle rapide et séance de laser | 62 CHF |
 
-Les prix sont ceux de la grille en vigueur depuis le 29 avril 2025. Les médicaments, les soins de plaie et les examens prescrits en plus se paient à part. La page [Tarifs](/tarifs/) donne la grille de chaque clinique.
+Les prix sont ceux de la grille en vigueur depuis le 29 avril 2025. Les médicaments, les soins de plaie et les examens prescrits en plus se paient à part. La page [Tarifs](/tarifs/) donne la grille de chaque cabinet.
 
 ## Questions fréquentes
 
@@ -104,9 +104,9 @@ Non, dans la plupart des cas. Un pelage court ou moyen laisse passer la lumière
 
 Oui. Le lapin supporte bien la séance, posé sur une serviette, sans contention forte. Le laser aide pour l'arthrose et pour les plaies sous les pattes. Voir [l'arthrose des NAC](/conseils/arthrose-des-nac/) et [la pododermatite du lapin](/conseils/pododermatite-du-lapin/).
 
-## Les cliniques qui pratiquent le laser
+## Les cabinets qui pratiquent le laser
 
-Quatre cliniques ont un appareil de laser thérapeutique. Les autres cliniques Vetmint vous orientent vers la plus proche.
+Quatre cabinets ont un appareil de laser thérapeutique. Les autres cabinets Vetmint vous orientent vers la plus proche.
 
 - **[Bussigny](/bussigny/services/)**, à l'ouest de Lausanne : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - **[La Chaux-de-Fonds](/chauxdefonds/services/)**, pour les Montagnes neuchâteloises : chiens, chats, lapins et rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
@@ -115,6 +115,6 @@ Quatre cliniques ont un appareil de laser thérapeutique. Les autres cliniques V
 
 ## Prendre rendez-vous
 
-Au téléphone, dites ce que le laser doit traiter : une plaie, une arthrose, une cicatrice après une opération faite ailleurs. La clinique prévoit alors une première séance avec l'examen. Si votre animal a été opéré ou soigné ailleurs, apportez le compte rendu.
+Au téléphone, dites ce que le laser doit traiter : une plaie, une arthrose, une cicatrice après une opération faite ailleurs. Le cabinet prévoit alors une première séance avec l'examen. Si votre animal a été opéré ou soigné ailleurs, apportez le compte rendu.
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)

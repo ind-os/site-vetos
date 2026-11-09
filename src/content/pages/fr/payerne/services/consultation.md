@@ -10,7 +10,7 @@ redige_le: 2026-11-03
 resume: "Trente minutes avec Claire-Lise Tinguely ou Tiago Capelo, pour 57 francs, route du Châtelard 13."
 ---
 
-À Payerne, une consultation vétérinaire dure 30 minutes et coûte 57 francs. Claire-Lise Tinguely et Tiago Capelo, les deux vétérinaires de la clinique Vetmint, y reçoivent les chiens, les chats, les lapins et les rongeurs, du cochon d'Inde au hamster. Les rendez-vous ont lieu route du Châtelard 13, du lundi au vendredi. Le mardi, ils continuent jusqu'à 19 h.
+À Payerne, une consultation vétérinaire dure 30 minutes et coûte 57 francs. Claire-Lise Tinguely et Tiago Capelo, les deux vétérinaires du cabinet Vetmint, y reçoivent les chiens, les chats, les lapins et les rongeurs, du cochon d'Inde au hamster. Les rendez-vous ont lieu route du Châtelard 13, du lundi au vendredi. Le mardi, ils continuent jusqu'à 19 h.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -26,9 +26,9 @@ Les deux vétérinaires de Payerne voient chaque jour des animaux malades, des b
 - la reproduction, la mise bas et les petits qui viennent de naître (néonatalogie) ;
 - les changements de comportement.
 
-Le vétérinaire donne aussi des conseils d'alimentation. Sur demande, il calcule une ration ménagère pour votre animal. La clinique vend des aliments vétérinaires prescrits pour certaines maladies.
+Le vétérinaire donne aussi des conseils d'alimentation. Sur demande, il calcule une ration ménagère pour votre animal. Le cabinet vend des aliments vétérinaires prescrits pour certaines maladies.
 
-## Comment se passe la consultation à la clinique
+## Comment se passe la consultation au cabinet
 
 Vous entrez par la réception, qui ouvre sur la salle d'attente. Des diffuseurs de phéromones y apaisent les chiens et les chats. Les deux salles de consultation sont fermées par des portes insonorisées. Un chat n'entend donc pas le chien qui aboie dans la salle voisine.
 
@@ -56,7 +56,7 @@ Les analyses, la radiographie et les médicaments s'ajoutent. Vous payez au comp
 - Garez-vous sur une des places gratuites proches de l'entrée. Avec un grand chien qui marche mal, arrêtez-vous sur la place de dépose, de plain-pied.
 - Prenez le carnet de vaccins et la boîte des médicaments que reçoit votre animal.
 - Si l'assistante vous l'a demandé au téléphone, apportez un peu d'urine ou de selles du matin.
-- Pour une toux ou une boiterie qui ne se voit pas à la clinique, filmez-la avec votre téléphone.
+- Pour une toux ou une boiterie qui ne se voit pas au cabinet, filmez-la avec votre téléphone.
 - Un chat très anxieux peut rester dans sa caisse, couverte d'un linge, jusqu'à l'entrée en salle. Dites-le au comptoir.
 
 En repartant, vous savez quel traitement donner et à quelle heure. Le vétérinaire vous donne aussi la date du contrôle.
@@ -69,7 +69,7 @@ Oui, en le disant au moment de réserver. L'équipe vous propose un rendez-vous 
 
 ### Puis-je venir après le travail ?
 
-Le mardi, la clinique reçoit jusqu'à 19 h. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Les autres jours, les consultations s'arrêtent à 18 h.
+Le mardi, le cabinet reçoit jusqu'à 19 h. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Les autres jours, les consultations s'arrêtent à 18 h.
 
 ### Le vétérinaire parle-t-il allemand ?
 
@@ -77,7 +77,7 @@ Claire-Lise Tinguely parle allemand, comme Jessy Dizerens à l'accueil. Précise
 
 ### Mon animal va très mal. Dois-je attendre un rendez-vous ?
 
-Non. Appelez le [026 660 16 16](tel:+41266601616) : pendant les heures d'ouverture, la clinique le reçoit entre deux consultations. La nuit et le week-end, la page [Urgences à Payerne](/payerne/urgences/) donne le numéro de garde.
+Non. Appelez le [026 660 16 16](tel:+41266601616) : pendant les heures d'ouverture, le cabinet le reçoit entre deux consultations. La nuit et le week-end, la page [Urgences à Payerne](/payerne/urgences/) donne le numéro de garde.
 
 La consultation de 30 minutes et son déroulement sont expliqués en détail sur la page [Tout savoir sur la consultation vétérinaire](/services/consultation/). Les vaccins se font pendant la même visite : voir [la vaccination du chien à Payerne](/payerne/services/vaccination-chien/) et [la vaccination du chat à Payerne](/payerne/services/vaccination-chat/).
 

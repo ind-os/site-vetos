@@ -39,7 +39,7 @@ Il passe ses journées à manger et à faire des crottes. Il parle beaucoup : s
 
 ## Quand faut-il consulter
 
-Un cochon d'Inde qui n'a rien mangé ou n'a fait aucune crotte depuis six heures doit voir un vétérinaire le jour même. Appelez votre clinique. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
+Un cochon d'Inde qui n'a rien mangé ou n'a fait aucune crotte depuis six heures doit voir un vétérinaire le jour même. Appelez votre cabinet. En dehors des heures d'ouverture, le numéro de garde figure sur la page [urgences](/urgences/).
 
 Prenez rendez-vous rapidement si vous observez :
 
@@ -108,8 +108,8 @@ Une visite annuelle contrôle les dents, le cœur, les poumons et les problèmes
 
 ## Où le faire soigner
 
-Les cliniques Vetmint reçoivent les cochons d'Inde en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) présente les soins aux lapins et aux rongeurs.
+Les cabinets Vetmint reçoivent les cochons d'Inde en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) présente les soins aux lapins et aux rongeurs.
 
-À Fribourg Ouest, la clinique a une spécialité NAC : soins dentaires des rongeurs, chirurgie avec une anesthésie adaptée à l'espèce, hospitalisation ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+À Fribourg Ouest, le cabinet a une spécialité NAC : soins dentaires des rongeurs, chirurgie avec une anesthésie adaptée à l'espèce, hospitalisation ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
 
-[Trouver une clinique et prendre rendez-vous](/cliniques/)
+[Trouver un cabinet et prendre rendez-vous](/cabinets/)

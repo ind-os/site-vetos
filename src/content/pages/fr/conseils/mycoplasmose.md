@@ -52,7 +52,7 @@ Plusieurs facteurs font tomber malade un rat porteur :
 
 Prenez rendez-vous dès qu'un de vos rats éternue souvent ou perd du poids. À ce stade, la maladie se soigne mieux.
 
-Appelez la clinique le jour même si votre rat respire la bouche ouverte, si ses flancs se creusent fort à chaque inspiration, s'il reste prostré ou s'il ne mange plus. Pendant le trajet, gardez-le au calme, au chaud et loin de toute fumée. En dehors des heures d'ouverture, la page [Urgences](/urgences/) indique qui appeler.
+Appelez le cabinet le jour même si votre rat respire la bouche ouverte, si ses flancs se creusent fort à chaque inspiration, s'il reste prostré ou s'il ne mange plus. Pendant le trajet, gardez-le au calme, au chaud et loin de toute fumée. En dehors des heures d'ouverture, la page [Urgences](/urgences/) indique qui appeler.
 
 ## Ce que fait le vétérinaire
 
@@ -83,6 +83,6 @@ La prévention passe par les facteurs de risque : litière peu poussiéreuse et
 
 ## Où faire soigner votre rat
 
-Les soins que nous proposons aux rats et aux autres rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). La clinique Vetmint Fribourg Ouest, à Givisiez, reçoit les rongeurs en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Les soins que nous proposons aux rats et aux autres rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). Le cabinet Vetmint Fribourg Ouest, à Givisiez, reçoit les rongeurs en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
-[Trouver la clinique la plus proche](/cliniques/)
+[Trouver le cabinet le plus proche](/cabinets/)

@@ -46,7 +46,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | Adresse | Fichier | Type |
 |---|---|---|
 | `/` | `index.md` | `accueil-groupe` |
-| `/cliniques/` | `cliniques.md` | `cliniques` |
+| `/cabinets/` | `cliniques.md` | `cliniques` |
 | `/services/` | `services/index.md` | `service-index` |
 | `/services/<service>/` | `services/<service>.md` | `service` |
 | `/urgences/` | `urgences.md` | `urgences-groupe` |
