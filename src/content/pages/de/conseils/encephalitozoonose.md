@@ -45,7 +45,7 @@ Vereinbaren Sie rasch einen Termin, wenn das Auge Ihres Kaninchens weiss wird, w
 
 ## Die Diagnose
 
-Die Tierärztin oder der Tierarzt stützt sich auf die Anzeichen und auf einen Bluttest, der die Antikörper gegen den Parasiten misst. Andere Krankheiten zeigen dieselben Anzeichen: So kann eine tiefe Ohrenentzündung den Kopf schief stellen. Um sie auszuschliessen, können weitere Untersuchungen nützlich sein: Röntgen, Ultraschall, Computertomografie oder ergänzende Bluttests. Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) beschreibt, was wir vor Ort machen.
+Die Tierärztin oder der Tierarzt stützt sich auf die Anzeichen und auf einen Bluttest, der die Antikörper gegen den Parasiten misst. Andere Krankheiten zeigen dieselben Anzeichen: So kann eine tiefe Ohrenentzündung den Kopf schief stellen. Um sie auszuschliessen, können weitere Untersuchungen nützlich sein: Röntgen, Ultraschall, Computertomografie oder ergänzende Bluttests. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) beschreibt, was wir vor Ort machen.
 
 ## Die Behandlung
 
@@ -69,6 +69,6 @@ Das ist möglich, vor allem bei einer Person mit geschwächter Abwehr. Diese Fä
 
 ## Ihr Kaninchen betreuen lassen
 
-Eine Encephalitozoonose wird über mehrere Wochen begleitet. Der Parasit kann auch [Harnwegsprobleme](/de/ratgeber/harngriess/) begünstigen. Unsere Praxen empfangen Kaninchen zur Konsultation; die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) stellt vor, was wir ihnen anbieten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet zudem eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken.
+Eine Encephalitozoonose wird über mehrere Wochen begleitet. Der Parasit kann auch [Harnwegsprobleme](/de/ratgeber/harngriess/) begünstigen. Unsere Praxen empfangen Kaninchen zur Konsultation; die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt vor, was wir ihnen anbieten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet zudem eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken.
 
 [In einer Praxis einen Termin vereinbaren](/de/praxen/)

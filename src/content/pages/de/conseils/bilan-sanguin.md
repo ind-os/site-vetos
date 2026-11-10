@@ -45,7 +45,7 @@ Bestimmte Rassen haben bekannte Schwachstellen. Die Blutentnahme überwacht sie,
 
 Die Entnahme dauert wenige Minuten, während der Konsultation. Die Tierärztin, der Tierarzt oder die Praxisassistentin sticht eine Vene am Bein oder am Hals an, nachdem sie eine kleine Stelle geschoren hat. Die meisten Tiere ertragen es gut. Ein kleines Pflaster bleibt eine Stunde lang kleben.
 
-Jede Praxis Vetmint hat ein eigenes Labor. Die üblichen Analysen werden dort vor Ort durchgeführt, mit einem Ergebnis während der Konsultation oder innerhalb einer Stunde. Seltenere Analysen gehen an ein externes Labor und kommen nach zwei bis drei Werktagen zurück. Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) listet auf, was vor Ort gemessen wird.
+Jede Praxis Vetmint hat ein eigenes Labor. Die üblichen Analysen werden dort vor Ort durchgeführt, mit einem Ergebnis während der Konsultation oder innerhalb einer Stunde. Seltenere Analysen gehen an ein externes Labor und kommen nach zwei bis drei Werktagen zurück. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) listet auf, was vor Ort gemessen wird.
 
 ## Wie Sie es vorbereiten
 

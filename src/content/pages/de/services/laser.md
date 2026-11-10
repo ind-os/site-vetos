@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/lasertherapie/
-title: "Laser für Hund und Katze: Sitzungen, Preise | Vetmint"
-description: "Lasertherapie bei Vetmint: Wunden, Wundheilung, Arthrose, Zahnfleisch und Ohren bei Hund, Katze und Kaninchen. Sitzung ohne Narkose, 62 Franken, vier Praxen."
+title: "Lasertherapie für Hund und Katze: Sitzungen | Vetmint"
+description: "Lasertherapie bei Vetmint: Wunden, Wundheilung, Arthrose, Schmerzen, Zahnfleisch und Ohren bei Hund, Katze und Kaninchen. Sitzung ohne Narkose und Rasur."
 h1: Lasertherapie für Hunde, Katzen und Kaninchen
 nom: Lasertherapie
 recherche: Lasertherapie Tier
-redige_le: 2026-10-16
-ordre: 11
+redige_le: 2026-11-10
+ordre: 10
 especes: [chien, chat, nac]
 resume: Ein Licht, das Schmerzen lindert und die Heilung beschleunigt, ohne Schnitt und ohne Narkose, in Sitzungen von wenigen Minuten.
 ---
 
-Der tiermedizinische Laser ist ein Licht, das auf eine kranke Stelle gerichtet wird, um den Schmerz zu lindern, die Entzündung zu verringern und die Heilung zu beschleunigen. Er schneidet nicht und verbrennt nicht: Das Tier bleibt wach, ohne Spritze und ohne Rasur. Die meisten Hunde und Katzen lassen es ohne Schwierigkeiten geschehen. Vier Praxen von Vetmint bieten die Lasertherapie an, für 62 Franken pro Sitzung mit Konsultation.
+Der tiermedizinische Laser ist ein Licht, das auf eine kranke Stelle gerichtet wird, um den Schmerz zu lindern, die Entzündung zu verringern und die Heilung zu beschleunigen. Er schneidet nicht und verbrennt nicht: Das Tier bleibt wach, ohne Spritze und ohne Rasur. Die meisten Hunde und Katzen lassen es ohne Schwierigkeiten geschehen. Vier Praxen von Vetmint bieten die Lasertherapie an.
 
 [In einer Praxis einen Termin vereinbaren](/de/praxen/)
 
@@ -69,14 +69,13 @@ Der Rhythmus hängt vom Problem ab:
 
 Rufen Sie die Praxis an, wenn die Wunde nässt, schlecht riecht oder grösser wird, oder wenn das Tier stärker lahmt als vor der Serie. Das ist keine Wirkung des Lasers: Das Problem verlangt eine neue Untersuchung.
 
+## Der Laser in der Schmerzbehandlung
+
+Der Laser ersetzt keine Schmerzmittel. Er ergänzt sie. Bei einem Hund mit Arthrose senken regelmässige Sitzungen oft die nötige Dosis des Entzündungshemmers. Nach einer Operation an Knochen oder Bändern begleiten sie die Rehabilitation, die auf der Seite [Orthopädische Chirurgie](/de/leistungen/orthopaedische-chirurgie/) beschrieben ist. Die Tierärztin oder der Tierarzt beobachtet den Schmerz bei jeder Sitzung: wie das Tier aufsteht, geht, eine Treppe steigt oder aufs Sofa springt.
+
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Konsultation mit Lasertherapie | Untersuchung der Stelle, Lasersitzung, Ratschläge für das weitere Vorgehen | CHF 62.– |
-| Folgesitzung | kurze Kontrolle und Lasersitzung | CHF 62.– |
-
-Die Preise entsprechen der Preisliste, die seit dem 29. April 2025 gilt. Medikamente, Wundversorgung und zusätzlich verordnete Untersuchungen werden separat bezahlt. Die Seite [Preise](/de/preise/) nennt die Preisliste jeder Praxis.
+Der Preis hängt von der Anzahl Sitzungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen in der ersten Sitzung, zusammen mit dem vorgeschlagenen Rhythmus. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 
@@ -94,7 +93,7 @@ Nicht am Tumor und nicht um ihn herum: Der Laser regt auch kranke Zellen an. An 
 
 ### Ersetzt der Laser die Schmerzmittel?
 
-Selten. Er ergänzt sie und verringert manchmal die Dosis. Bei einem älteren Hund oder einer Katze mit empfindlichen Nieren zählt diese Verringerung. Bei einem alten und komplexen Schmerz ist der Laser Teil eines umfassenderen Plans, der auf der Seite [Schmerztherapie](/de/leistungen/schmerztherapie/) beschrieben ist.
+Selten. Er ergänzt sie und verringert manchmal die Dosis. Bei einem älteren Hund oder einer Katze mit empfindlichen Nieren zählt diese Verringerung. Bei einem alten und komplexen Schmerz ist der Laser Teil eines umfassenderen Plans, der auf der Seite [Lasertherapie](/de/leistungen/lasertherapie/) beschrieben ist.
 
 ### Muss die Stelle geschoren werden?
 

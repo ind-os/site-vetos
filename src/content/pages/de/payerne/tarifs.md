@@ -23,7 +23,7 @@ In 30 Minuten hat die Tierärztin oder der Tierarzt Zeit, Ihr Tier abzutasten, d
 |---|---|---|
 | Konsultation nach Terminvereinbarung | 30 Minuten mit einer Tierärztin oder einem Tierarzt, vollständige Untersuchung und Beratung | CHF 57.– |
 
-Die [Konsultation in Payerne](/de/payerne/leistungen/konsultation/) dient der jährlichen Kontrolle, einem kranken Tier oder einer Zweitmeinung.
+Die [Konsultation in Payerne](/de/payerne/leistungen/praevention/) dient der jährlichen Kontrolle, einem kranken Tier oder einer Zweitmeinung.
 
 ## Gesundheitschecks und Impfungen
 
@@ -39,7 +39,7 @@ Ein Check umfasst die Konsultation von 30 Minuten und die Impfungen des Jahres. 
 
 Die Katzenseuche ist eine virale Magen-Darm-Entzündung, die beim Kätzchen oft tödlich verläuft. Der Katzenschnupfen ist der Schnupfen der Katze, mit laufender Nase und tränenden Augen. Die Leukose ist ein Virus, das durch den Speichel von einer Katze auf die andere übertragen wird: Ihre Katze braucht die Impfung, sobald sie ungeimpften oder streunenden Katzen begegnet. Die Leptospirose wird durch den Urin von Nagern übertragen und betrifft auch den Menschen.
 
-Vor einer Reise ausserhalb der Schweiz rechnen Sie mit 21 Tagen zwischen der Tollwutimpfung und der Grenze, wenn Ihr Tier nicht mehr geschützt ist. Die Impfungen sind auf den Seiten [Impfung beim Hund](/de/payerne/leistungen/impfung-hund/) und [Impfung bei der Katze](/de/payerne/leistungen/impfung-katze/) im Detail beschrieben.
+Vor einer Reise ausserhalb der Schweiz rechnen Sie mit 21 Tagen zwischen der Tollwutimpfung und der Grenze, wenn Ihr Tier nicht mehr geschützt ist. Die Impfungen sind auf den Seiten [Impfung beim Hund](/de/payerne/leistungen/praevention/) und [Impfung bei der Katze](/de/payerne/leistungen/praevention/) im Detail beschrieben.
 
 ## Kastrationen und Sterilisationen
 
@@ -57,7 +57,7 @@ Bei Katze, Hündin und Rüde erfolgt die Narkose mit Gas, über einen Schlauch i
 
 Alle Pauschalen umfassen die Untersuchung vor der Narkose und eine Spritze mit einem Entzündungshemmer. Hündin, Rüde und Kaninchen kommen nach der Operation zweimal zur Kontrolle, ohne Kosten. Eine andere Behandlung, falls nötig, kommt zur Pauschale hinzu. Setzen Sie ein Kaninchen nie auf Nüchternheit: Es frisst und trinkt bis zum Zeitpunkt der Operation.
 
-Die Sterilisation der Kaninchenhäsin und die Operation eines kleinen Nagers haben keine Pauschale: Ihr Preis wird Ihnen genannt, wenn der Termin festgelegt wird. Der Ablauf ist auf der Seite [Kastration und Sterilisation](/de/payerne/leistungen/kastration-sterilisation/) erklärt.
+Die Sterilisation der Kaninchenhäsin und die Operation eines kleinen Nagers haben keine Pauschale: Ihr Preis wird Ihnen genannt, wenn der Termin festgelegt wird. Der Ablauf ist auf der Seite [Kastration und Sterilisation](/de/payerne/leistungen/chirurgie/) erklärt.
 
 ## Zähne
 
@@ -66,11 +66,11 @@ Die Sterilisation der Kaninchenhäsin und die Operation eines kleinen Nagers hab
 | Zahnsteinentfernung und Politur | 45 Minuten unter Gasnarkose mit Katheter, Infusion und Überwachung, Untersuchung vor der Narkose, Schmerzbehandlung | CHF 325.– |
 | Extraktion eines Zahns | je nach Zahn und nach dem Zeitaufwand | CHF 25–200 |
 
-Ein Zahn, der gezogen werden muss, kommt zur Pauschale der Zahnsteinentfernung hinzu. Der Ablauf ist auf der Seite [Zahnbehandlung](/de/payerne/leistungen/zahnbehandlung/) erklärt.
+Ein Zahn, der gezogen werden muss, kommt zur Pauschale der Zahnsteinentfernung hinzu. Der Ablauf ist auf der Seite [Zahnbehandlung](/de/payerne/leistungen/zahnmedizin/) erklärt.
 
 ## Untersuchungen und Analysen
 
-Die Praxis führt Blutentnahme, Urin- oder Kotuntersuchung und Röntgen vor Ort durch. Ihr Preis hängt von den gewählten Untersuchungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen, bevor sie oder er Blut entnimmt oder röntgt. Siehe die Seiten [Analysen](/de/payerne/leistungen/labor-diagnostik/) und [Röntgen](/de/payerne/leistungen/roentgen/).
+Die Praxis führt Blutentnahme, Urin- oder Kotuntersuchung und Röntgen vor Ort durch. Ihr Preis hängt von den gewählten Untersuchungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen, bevor sie oder er Blut entnimmt oder röntgt. Siehe die Seiten [Analysen](/de/payerne/leistungen/blutanalysen/) und [Röntgen](/de/payerne/leistungen/roentgen/).
 
 ## Notfälle
 

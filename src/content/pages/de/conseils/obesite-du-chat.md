@@ -89,6 +89,6 @@ Eine ältere Katze, die ohne Diät abnimmt, ist nicht in diesem Fall: Sie kann a
 
 ## Zur Konsultation in eine Praxis Vetmint
 
-Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu wiegen, ihren Körperfettindex zu notieren und ihre Ration festzulegen. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten. Die Gewichtskontrollen folgen danach im Rhythmus, den Sie mit der Tierärztin oder dem Tierarzt vereinbaren.
+Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu wiegen, ihren Körperfettindex zu notieren und ihre Ration festzulegen. Die Seite [Prävention und Gesundheitscheck](/de/leistungen/praevention/) nennt die Einzelheiten. Die Gewichtskontrollen folgen danach im Rhythmus, den Sie mit der Tierärztin oder dem Tierarzt vereinbaren.
 
 [Eine Praxis Vetmint finden](/de/praxen/)

@@ -27,12 +27,12 @@ Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15
 
 ## Die Leistungen vor Ort
 
-- Die [Konsultation von 30 Minuten](/de/payerne/leistungen/konsultation/) dient dem Jahrescheck, einem kranken Tier oder einer Zweitmeinung.
-- Die Impfungen für [Hunde](/de/payerne/leistungen/impfung-hund/) und [Katzen](/de/payerne/leistungen/impfung-katze/) erfolgen mit dem Jahrescheck; das Kaninchen erhält seine gegen die Virale Hämorrhagische Krankheit.
-- Die [Kastration und Sterilisation](/de/payerne/leistungen/kastration-sterilisation/) betreffen Hunde, Katzen, Kaninchen und kleine Nager, vom Meerschweinchen bis zum Hamster.
+- Die [Konsultation von 30 Minuten](/de/payerne/leistungen/praevention/) dient dem Jahrescheck, einem kranken Tier oder einer Zweitmeinung.
+- Die Impfungen für [Hunde](/de/payerne/leistungen/praevention/) und [Katzen](/de/payerne/leistungen/praevention/) erfolgen mit dem Jahrescheck; das Kaninchen erhält seine gegen die Virale Hämorrhagische Krankheit.
+- Die [Kastration und Sterilisation](/de/payerne/leistungen/chirurgie/) betreffen Hunde, Katzen, Kaninchen und kleine Nager, vom Meerschweinchen bis zum Hamster.
 - Die [Chirurgie](/de/payerne/leistungen/chirurgie/) behandelt eine Wunde, einen Knoten, der entfernt werden muss, einen verschluckten Fremdkörper oder einen Kaiserschnitt.
-- Die [Zahnbehandlung](/de/payerne/leistungen/zahnbehandlung/) beginnt mit einem Röntgenbild der Zähne, dann folgen die Zahnsteinentfernung mit Ultraschall und das Polieren.
-- Das Labor der Praxis führt die [Analysen](/de/payerne/leistungen/labor-diagnostik/) von Blut, Urin, Kot und Haut durch.
+- Die [Zahnbehandlung](/de/payerne/leistungen/zahnmedizin/) beginnt mit einem Röntgenbild der Zähne, dann folgen die Zahnsteinentfernung mit Ultraschall und das Polieren.
+- Das Labor der Praxis führt die [Analysen](/de/payerne/leistungen/blutanalysen/) von Blut, Urin, Kot und Haut durch.
 - Das [digitale Röntgen](/de/payerne/leistungen/roentgen/) umfasst die offiziellen Aufnahmen von Hüften und Ellbogen für die Dysplasie-Untersuchung.
 - Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen, Kaninchen und Nager in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.
 - Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.

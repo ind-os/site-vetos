@@ -25,12 +25,12 @@ Deux personnes s'occupent du cliché. Une assistante en médecine vétérinaire 
 - **Après un accident ou une chute** : les os, le thorax et le ventre, pour une fracture, du sang ou de l'air là où il ne devrait pas y en avoir.
 - **Une toux ou un souffle court** : les poumons et la taille du cœur.
 - **Des vomissements qui durent** : le ventre, à la recherche d'un objet avalé. S'il faut l'enlever, l'opération se fait dans la salle voisine : voir la [chirurgie à Payerne](/payerne/services/chirurgie/).
-- **Les dents** : avant chaque détartrage, une radio montre les racines que l'œil ne voit pas. La suite est sur la page des [soins dentaires à Payerne](/payerne/services/soins-dentaires/).
+- **Les dents** : avant chaque détartrage, une radio montre les racines que l'œil ne voit pas. La suite est sur la page des [dentisterie à Payerne](/payerne/services/dentisterie/).
 - **Le lapin et les rongeurs** : la radio du crâne repère des dents qui poussent de travers. Payerne soigne ces dents sur place.
 
 ## Le dépistage officiel de la dysplasie
 
-La dysplasie est une hanche ou un coude mal formé, qui mène à l'arthrose. Beaucoup de clubs de race exigent un cliché officiel avant la reproduction. À Payerne, le chien vient le matin, à jeun. Le vétérinaire lit d'abord sa puce, puis lui donne un calmant : la position demandée, pattes arrière tendues, ne se tient pas éveillé. Les clichés partent ensuite vers l'organisme de lecture du club. Pour suivre ensuite la portée, voir les [conseils aux éleveurs à Payerne](/payerne/services/conseils-aux-eleveurs/).
+La dysplasie est une hanche ou un coude mal formé, qui mène à l'arthrose. Beaucoup de clubs de race exigent un cliché officiel avant la reproduction. À Payerne, le chien vient le matin, à jeun. Le vétérinaire lit d'abord sa puce, puis lui donne un calmant : la position demandée, pattes arrière tendues, ne se tient pas éveillé. Les clichés partent ensuite vers l'organisme de lecture du club. Pour suivre ensuite la portée, voir les [conseils aux éleveurs à Payerne](/payerne/services/prevention/).
 
 ## Le prix à Payerne
 

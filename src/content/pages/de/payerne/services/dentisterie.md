@@ -1,12 +1,12 @@
 ---
 type: service-clinique
 clinique: payerne
-url: /de/payerne/leistungen/zahnbehandlung/
+url: /de/payerne/leistungen/zahnmedizin/
 title: "Zahnsteinentfernung in Payerne: Pauschale von 325 Franken"
 description: "Zahnsteinentfernung beim Hund in Payerne: Pauschale von 45 Minuten für 325 Franken, Narkose inbegriffen, Zahnröntgen vor Ort, Extraktion 25 bis 200 Franken."
-h1: Zahnbehandlung in Payerne
+h1: Zahnmedizin in Payerne
 recherche: Zahnsteinentfernung Hund Payerne
-redige_le: 2026-11-03
+redige_le: 2026-11-10
 resume: "Zahnsteinentfernung, Zahnröntgen und Extraktionen vor Ort, mit einer Pauschale von 325 Franken."
 ---
 
@@ -56,7 +56,7 @@ Claire-Lise Tinguely oder Tiago Capelo entfernt den Zahnstein, sondiert jeden Za
 
 - **Hund und Katze**: nach der Abendmahlzeit kein Futter mehr. Lassen Sie das Wasser bis zur Abfahrt stehen.
 - **Kaninchen, Meerschweinchen, Chinchilla**: nie nüchtern. Es frisst bis zur Praxis; bringen Sie Heu mit.
-- **Tier über 7 Jahren**: Die Tierärztin oder der Tierarzt schlägt eine Blutuntersuchung vor der Narkose vor. Das Labor der Praxis liest sie in der Regel während der Konsultation. Siehe die Seite [Labor und Diagnostik in Payerne](/de/payerne/leistungen/labor-diagnostik/).
+- **Tier über 7 Jahren**: Die Tierärztin oder der Tierarzt schlägt eine Blutuntersuchung vor der Narkose vor. Das Labor der Praxis liest sie in der Regel während der Konsultation. Siehe die Seite [Blutanalyse in Payerne](/de/payerne/leistungen/blutanalysen/).
 - **Bei der Rückkehr**: Wasser und am Abend eine kleine Ration. Nach Extraktionen eine Woche lang weiches Futter.
 
 Eine Kontrolle findet sieben bis zehn Tage nach einer Extraktion statt. Blutet das Maul am Abend noch oder verweigert Ihr Tier am nächsten Tag das Fressen, rufen Sie die Praxis an.
@@ -79,6 +79,6 @@ Nicht unbedingt sofort. Vereinbaren Sie eine Konsultation von 30 Minuten: Die Ti
 
 Zeigen Sie es in der Konsultation. Zahnfleisch, das zu stark gewachsen ist, wird entfernt, ein Knoten am Zahnfleisch wird kauterisiert, in Payerne während einer Narkose.
 
-Die Anzeichen, auf die Sie achten sollten, und das Zähneputzen zu Hause sind auf der Seite [Alles über die Zahnbehandlung](/de/leistungen/zahnbehandlung/) erklärt.
+Die Anzeichen, auf die Sie achten sollten, und das Zähneputzen zu Hause sind auf der Seite [Alles über die Zahnmedizin](/de/leistungen/zahnmedizin/) erklärt.
 
 [Termin vereinbaren](/de/payerne/termin/)

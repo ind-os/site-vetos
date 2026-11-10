@@ -127,6 +127,6 @@ Oui, avec un abonnement par animal.
 
 ## Où souscrire
 
-Le plan de prévention et les abonnements se souscrivent dans les huit cabinets Vetmint. Le prix de chaque soin figure dans nos [tarifs](/tarifs/). Les soins compris sont expliqués aux pages [vaccination du chien](/services/vaccination-chien/), [vaccination du chat](/services/vaccination-chat/), [stérilisation et castration](/services/sterilisation-castration/), [puce électronique](/services/puce-electronique/) et [soins dentaires](/services/soins-dentaires/).
+Le plan de prévention et les abonnements se souscrivent dans les huit cabinets Vetmint. Le prix de chaque soin figure dans nos [tarifs](/tarifs/). Les soins compris sont expliqués aux pages [vaccination du chien](/services/prevention/), [vaccination du chat](/services/prevention/), [stérilisation et castration](/services/chirurgie/), [puce électronique](/services/prevention/) et [soins dentaires](/services/dentisterie/).
 
 [Choisir un cabinet](/cabinets/)

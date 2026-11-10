@@ -53,6 +53,34 @@ function imagesNonCitees() {
   return integration;
 }
 
+/** Les anciennes adresses des services regroupés, vers la page qui les a reprises, en français et en allemand. */
+function servicesRegroupes() {
+  /** @type {Record<string, string>} */
+  const fr = {
+    consultation: 'prevention', 'vaccination-chien': 'prevention', 'vaccination-chat': 'prevention',
+    'puce-electronique': 'prevention', 'conseils-aux-eleveurs': 'prevention',
+    'sterilisation-castration': 'chirurgie', 'gestion-de-la-douleur': 'laser',
+    'soins-dentaires': 'dentisterie', 'analyses-diagnostic': 'analyses-sanguines', 'soins-a-domicile': 'visites-a-domicile',
+  };
+  /** @type {Record<string, string>} */
+  const de = {
+    konsultation: 'praevention', 'impfung-hund': 'praevention', 'impfung-katze': 'praevention',
+    mikrochip: 'praevention', zuechterberatung: 'praevention',
+    'kastration-sterilisation': 'chirurgie', schmerztherapie: 'lasertherapie',
+    zahnbehandlung: 'zahnmedizin', 'labor-diagnostik': 'blutanalysen',
+  };
+  /** @type {Record<string, string>} */
+  const r = {};
+  for (const [ancien, nouveau] of Object.entries(fr)) r[`/services/${ancien}/`] = `/services/${nouveau}/`;
+  for (const [ancien, nouveau] of Object.entries(de)) r[`/de/leistungen/${ancien}/`] = `/de/leistungen/${nouveau}/`;
+  // Les pages de Payerne, seul cabinet en ligne, qui avaient ces services.
+  for (const ancien of ['consultation', 'vaccination-chien', 'vaccination-chat', 'puce-electronique', 'conseils-aux-eleveurs', 'sterilisation-castration', 'soins-dentaires', 'analyses-diagnostic'])
+    r[`/payerne/services/${ancien}/`] = `/payerne/services/${fr[ancien]}/`;
+  for (const ancien of ['konsultation', 'impfung-hund', 'impfung-katze', 'mikrochip', 'zuechterberatung', 'kastration-sterilisation', 'zahnbehandlung', 'labor-diagnostik'])
+    r[`/de/payerne/leistungen/${ancien}/`] = `/de/payerne/leistungen/${de[ancien]}/`;
+  return r;
+}
+
 export default defineConfig({
   site: ADRESSE_DU_SITE,
   trailingSlash: 'always',
@@ -60,7 +88,11 @@ export default defineConfig({
   devToolbar: { enabled: false },
   // Anciennes adresses : la page renvoie vers la nouvelle, pour ne casser ni lien ni favori.
   // « Clinique » est une appellation protégée : les cabinets Vetmint n'y ont pas droit.
-  redirects: { '/cliniques/': '/cabinets/' },
+  // Les services regroupés en treize pages (novembre 2026) : chaque ancienne page mène à celle qui l'a reprise.
+  redirects: {
+    '/cliniques/': '/cabinets/',
+    ...servicesRegroupes(),
+  },
   markdown: { processor: satteri(extensionsMarkdown) },
   integrations: [sitemap({ filter: (page) => !/\/(styleguide|404)\//.test(page) }), robots(), imagesNonCitees()],
 });

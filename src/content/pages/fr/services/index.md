@@ -2,56 +2,52 @@
 type: service-index
 url: /services/
 title: "Services vétérinaires des cabinets Vetmint"
-description: "Les soins des huit cabinets Vetmint pour chiens, chats et NAC : prévention, chirurgie, imagerie, soins spécialisés, visites à domicile, urgences et prix."
+description: "Les soins des huit cabinets Vetmint pour chiens, chats et NAC : prévention, chirurgie, dents, imagerie, analyses, laser, visites à domicile et urgences."
 h1: Nos services vétérinaires
 recherche: services vétérinaires
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 ---
 
-Les services vétérinaires des huit cabinets Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe, ce qu'il coûte et quels cabinets le pratiquent. Tout commence par une consultation de 30 minutes, qui coûte 54 à 59 francs selon le cabinet.
+Les services vétérinaires des huit cabinets Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe et quels cabinets le pratiquent. Tout commence par une consultation de 30 minutes, le temps d'examiner votre animal en entier.
 
 ## Prévention
 
 Un animal examiné chaque année tombe moins souvent malade. Ses maladies se découvrent plus tôt.
 
-- [Consultation et bilan de santé](/services/consultation/) : l'examen complet de 30 minutes, base de tous les autres soins.
-- [Vaccination du chien](/services/vaccination-chien/) : les vaccins du chiot et les rappels de l'adulte.
-- [Vaccination du chat](/services/vaccination-chat/) : les vaccins selon que le chat sort ou reste à l'intérieur.
-- [Puce électronique](/services/puce-electronique/) : la pose, la lecture et l'inscription dans les registres suisses.
+- [Prévention](/services/prevention/) : le bilan de santé, les vaccins du chien et du chat, la puce électronique et le suivi des portées.
 
 ## Chirurgie
 
-Les opérations se font sous anesthésie gazeuse surveillée, avec le traitement de la douleur compris dans le forfait.
+Les opérations se font sous anesthésie gazeuse surveillée, avec le traitement de la douleur.
 
-- [Stérilisation et castration](/services/sterilisation-castration/) : chiennes, chattes, lapines et mâles, à prix forfaitaire.
-- [Chirurgie des tissus mous](/services/chirurgie/) : grosseurs, plaies, corps étrangers avalés, césariennes.
-- [Soins dentaires](/services/soins-dentaires/) : détartrage, radiographie des dents et extractions.
-- [Hospitalisation](/services/hospitalisation/) : la surveillance d'un animal opéré ou malade.
+- [Chirurgie](/services/chirurgie/) : stérilisation, castration, grosseurs, plaies, objets avalés et césariennes.
+- [Chirurgie orthopédique](/services/chirurgie-orthopedique/) : fractures, ligament croisé, rotule et hanche, à Fribourg Ouest.
+- [Dentisterie](/services/dentisterie/) : détartrage, radiographie des dents et extractions.
 
-## Diagnostic et imagerie
+## Imagerie
 
-La plupart des résultats sont connus pendant la consultation ou dans la journée.
+Les images s'affichent pendant l'examen et le vétérinaire vous les explique aussitôt.
 
-- [Analyses et diagnostic](/services/analyses-diagnostic/) : prises de sang au laboratoire du cabinet, urines, selles, biopsies.
 - [Radiographie](/services/radiographie/) : os, poumons, ventre et dépistage officiel de la dysplasie.
 - [Échographie](/services/echographie/) : le ventre, le cœur et la gestation.
+- [Endoscopie](/services/endoscopie/) : une caméra fine dans l'estomac, l'intestin ou le nez, à Fribourg Ouest.
 
-## Soins spécialisés
+## Soins, analyses et médecine spécialisée
 
-Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page dit lesquelles.
+Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page dit lesquels.
 
-- [Médecine des NAC](/services/nac/) : lapins, rongeurs, furets, oiseaux et reptiles.
-- [Gestion de la douleur](/services/gestion-de-la-douleur/) : après une opération comme en cas d'arthrose.
-- [Thérapie laser](/services/laser/) : cicatrisation, arthrose, gencives et oreilles.
-- [Conseils aux éleveurs](/services/conseils-aux-eleveurs/) : de la saillie au départ des chiots et des chatons.
+- [Hospitalisation](/services/hospitalisation/) : la surveillance d'un animal opéré ou malade, jour et nuit.
+- [Analyse sanguine](/services/analyses-sanguines/) : prises de sang au laboratoire du cabinet, urines, selles, biopsies.
+- [Thérapie laser](/services/laser/) : cicatrisation, arthrose, douleur, gencives et oreilles.
+- [Médecine avancée des NAC](/services/nac/) : lapins, rongeurs, furets, oiseaux et reptiles.
 
 ## À domicile et en urgence
 
-- [Soins à domicile](/services/soins-a-domicile/) : un vétérinaire vient chez vous pour les soins courants, en semaine.
-- [Urgences de jour et de nuit](/urgences/) : le numéro à appeler selon l'heure et le cabinet.
+- [Visites à domicile](/services/visites-a-domicile/) : un vétérinaire vient chez vous pour les soins courants, en semaine.
+- [Urgences](/urgences/) : le numéro à appeler selon l'heure et le cabinet.
 
 ## Prix et rendez-vous
 
-Les prix de chaque soin, cabinet par cabinet, sont sur la page [Tarifs](/tarifs/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
+Les prix varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
 
 [Trouver le cabinet le plus proche](/cabinets/)

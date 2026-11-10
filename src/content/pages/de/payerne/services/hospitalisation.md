@@ -24,9 +24,9 @@ Sie holen Ihr Tier am Ende des Tages ab, bis 18 Uhr. Die Uhrzeit wird am Telefon
 
 ## Die häufigsten Gründe
 
-- **Das Aufwachen nach einer Operation**: eine Sterilisation, eine Kastration oder die Entfernung eines Knotens. Die Praxisassistentin überwacht Atmung und Herz, bis das Tier den Kopf hebt. Die Einzelheiten stehen auf der Seite [Kastration und Sterilisation in Payerne](/de/payerne/leistungen/kastration-sterilisation/).
+- **Das Aufwachen nach einer Operation**: eine Sterilisation, eine Kastration oder die Entfernung eines Knotens. Die Praxisassistentin überwacht Atmung und Herz, bis das Tier den Kopf hebt. Die Einzelheiten stehen auf der Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/).
 - **Die Austrocknung**: Nach Erbrechen oder Durchfall ersetzt die Infusion das verlorene Wasser.
-- **Beunruhigende Analyseresultate**: Nieren, die schlecht filtern, oder ein aus dem Gleichgewicht geratener Diabetes verlangen eine Infusion und wiederholte Kontrollen. Die Blutentnahmen finden im [Labor der Praxis](/de/payerne/leistungen/labor-diagnostik/) statt.
+- **Beunruhigende Analyseresultate**: Nieren, die schlecht filtern, oder ein aus dem Gleichgewicht geratener Diabetes verlangen eine Infusion und wiederholte Kontrollen. Die Blutentnahmen finden im [Labor der Praxis](/de/payerne/leistungen/blutanalysen/) statt.
 - **Eine Beobachtung**: Nach einem Sturz behält die Tierärztin oder der Tierarzt das Tier einige Stunden, um zu sehen, ob sich sein Zustand ändert.
 
 ## Die Nacht in Payerne

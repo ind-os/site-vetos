@@ -98,7 +98,7 @@ Aucun vaccin n'est couramment disponible pour le cochon d'Inde. Les vers sont ra
 
 ### Stériliser ou castrer
 
-La femelle se stérilise dès 5 mois. Le mâle se castre dès 4 à 5 mois, quand ses testicules sont bien descendus et développés. Chez la femelle, l'opération prévient les kystes des ovaires, très fréquents. Elle réduit l'agressivité, le marquage à l'urine et les grossesses nerveuses. Le détail : [stérilisation et castration](/services/sterilisation-castration/).
+La femelle se stérilise dès 5 mois. Le mâle se castre dès 4 à 5 mois, quand ses testicules sont bien descendus et développés. Chez la femelle, l'opération prévient les kystes des ovaires, très fréquents. Elle réduit l'agressivité, le marquage à l'urine et les grossesses nerveuses. Le détail : [stérilisation et castration](/services/chirurgie/).
 
 Si vous souhaitez une portée, la femelle doit avoir sa première gestation entre 5 et 8 mois. Plus tard, son bassin se soude et la mise bas risque de mal se passer, jusqu'à la césarienne.
 

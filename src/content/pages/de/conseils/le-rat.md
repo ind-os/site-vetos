@@ -102,7 +102,7 @@ Eine PCR-Analyse, die das Erbgut eines Keims auf einem Abstrich nachweist, erken
 
 ### Die Sterilisation
 
-Sie erfolgt ab 4 bis 5 Monaten. Sie kann chirurgisch sein oder hormonell, mit einem Implantat unter der Haut, das etwa ein Jahr wirkt. Sie beugt Gesäugetumoren vor, beim Weibchen wie beim Männchen. Sie verhindert Würfe und beruhigt oft die Gruppe. Sie könnte auch Tumoren der Hypophyse verringern, einer Drüse an der Basis des Gehirns. Die Einzelheiten: [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/).
+Sie erfolgt ab 4 bis 5 Monaten. Sie kann chirurgisch sein oder hormonell, mit einem Implantat unter der Haut, das etwa ein Jahr wirkt. Sie beugt Gesäugetumoren vor, beim Weibchen wie beim Männchen. Sie verhindert Würfe und beruhigt oft die Gruppe. Sie könnte auch Tumoren der Hypophyse verringern, einer Drüse an der Basis des Gehirns. Die Einzelheiten: [Kastration und Sterilisation](/de/leistungen/chirurgie/).
 
 ### Die Besuche je nach Alter
 
@@ -114,7 +114,7 @@ Sie erfolgt ab 4 bis 5 Monaten. Sie kann chirurgisch sein oder hormonell, mit ei
 
 ## Wo sie behandelt wird
 
-Die Vetmint-Praxen empfangen Ratten zu einer Konsultation von 30 Minuten. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt die Behandlung von Nagern im Einzelnen. Zu den anderen Nagern siehe auch [das Meerschweinchen](/de/ratgeber/das-meerschweinchen/).
+Die Vetmint-Praxen empfangen Ratten zu einer Konsultation von 30 Minuten. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt die Behandlung von Nagern im Einzelnen. Zu den anderen Nagern siehe auch [das Meerschweinchen](/de/ratgeber/das-meerschweinchen/).
 
 Die Praxis Fribourg Ouest hat eine Heimtier-Spezialität. Ihre Instrumente und Narkoseprotokolle sind auf kleine Nager abgestimmt, bis hin zur Mikrochirurgie ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 

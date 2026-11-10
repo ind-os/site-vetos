@@ -24,9 +24,9 @@ Vous reprenez votre animal en fin de journée, jusqu'à 18 h. L'heure se fixe a
 
 ## Les raisons les plus courantes
 
-- **Le réveil d'une opération** : une stérilisation, une castration ou l'ablation d'une grosseur. L'assistante surveille la respiration et le cœur jusqu'à ce que l'animal relève la tête. Le détail est sur la page [stérilisation et castration à Payerne](/payerne/services/sterilisation-castration/).
+- **Le réveil d'une opération** : une stérilisation, une castration ou l'ablation d'une grosseur. L'assistante surveille la respiration et le cœur jusqu'à ce que l'animal relève la tête. Le détail est sur la page [stérilisation et castration à Payerne](/payerne/services/chirurgie/).
 - **La déshydratation** : après des vomissements ou une diarrhée, la perfusion remplace l'eau perdue.
-- **Des résultats d'analyse inquiétants** : des reins qui filtrent mal ou un diabète déséquilibré demandent une perfusion et des contrôles répétés. Les prises de sang se font au [laboratoire du cabinet](/payerne/services/analyses-diagnostic/).
+- **Des résultats d'analyse inquiétants** : des reins qui filtrent mal ou un diabète déséquilibré demandent une perfusion et des contrôles répétés. Les prises de sang se font au [laboratoire du cabinet](/payerne/services/analyses-sanguines/).
 - **Une observation** : après une chute, le vétérinaire garde l'animal quelques heures pour voir si son état change.
 
 ## La nuit à Payerne

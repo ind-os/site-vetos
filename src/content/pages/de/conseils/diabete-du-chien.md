@@ -49,7 +49,7 @@ Rufen Sie noch am selben Tag an, wenn er erbricht, nicht frisst, schnell atmet o
 
 ## Wie die Tierärztin oder der Tierarzt die Diagnose stellt
 
-Nach der Untersuchung misst die Tierärztin oder der Tierarzt den Zucker im Blut (den Blutzucker). Sie oder er bestimmt auch das Fructosamin, das den Zuckerspiegel der letzten zwei bis drei Wochen widerspiegelt. Die Urinanalyse sucht nach Zucker und nach Anzeichen einer Infektion. Diese Messungen erfolgen im Labor der Praxis: Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) nennt die Einzelheiten. Die umfassende [Blutuntersuchung](/de/ratgeber/blutuntersuchung/) prüft gleichzeitig Nieren und Leber.
+Nach der Untersuchung misst die Tierärztin oder der Tierarzt den Zucker im Blut (den Blutzucker). Sie oder er bestimmt auch das Fructosamin, das den Zuckerspiegel der letzten zwei bis drei Wochen widerspiegelt. Die Urinanalyse sucht nach Zucker und nach Anzeichen einer Infektion. Diese Messungen erfolgen im Labor der Praxis: Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) nennt die Einzelheiten. Die umfassende [Blutuntersuchung](/de/ratgeber/blutuntersuchung/) prüft gleichzeitig Nieren und Leber.
 
 ## Ist Diabetes umkehrbar?
 
@@ -71,10 +71,10 @@ Eine zu hohe Dosis lässt den Zucker absinken. Der Hund zittert, taumelt und kan
 
 ## Die Vorbeugung
 
-Ein Hund auf seinem Idealgewicht erkrankt seltener. Auch die Kastration der Hündin senkt das Risiko: Die Seite [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/) erklärt den Ablauf. Ab 7 Jahren entdeckt eine jährliche Blutentnahme einen Diabetes vor den ersten Anzeichen. Eine wiederholte [Pankreatitis](/de/ratgeber/pankreatitis-hund/) kann die Bauchspeicheldrüse schädigen: Auch aus diesem Grund wird sie behandelt.
+Ein Hund auf seinem Idealgewicht erkrankt seltener. Auch die Kastration der Hündin senkt das Risiko: Die Seite [Kastration und Sterilisation](/de/leistungen/chirurgie/) erklärt den Ablauf. Ab 7 Jahren entdeckt eine jährliche Blutentnahme einen Diabetes vor den ersten Anzeichen. Eine wiederholte [Pankreatitis](/de/ratgeber/pankreatitis-hund/) kann die Bauchspeicheldrüse schädigen: Auch aus diesem Grund wird sie behandelt.
 
 ## Zur Konsultation in eine Praxis Vetmint
 
-Eine Konsultation dauert bei Vetmint 30 Minuten. Der erste Termin für einen zuckerkranken Hund lässt Zeit, die Spritzen zu lernen und alle Ihre Fragen zu stellen. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) beschreibt, was dort geschieht.
+Eine Konsultation dauert bei Vetmint 30 Minuten. Der erste Termin für einen zuckerkranken Hund lässt Zeit, die Spritzen zu lernen und alle Ihre Fragen zu stellen. Die Seite [Prävention und Gesundheitscheck](/de/leistungen/praevention/) beschreibt, was dort geschieht.
 
 [Eine Praxis Vetmint finden](/de/praxen/)

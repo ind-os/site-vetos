@@ -25,12 +25,12 @@ Zwei Personen kümmern sich um die Aufnahme. Eine Tiermedizinische Praxisassiste
 - **Nach einem Unfall oder einem Sturz**: die Knochen, der Brustkorb und der Bauch, auf der Suche nach einem Bruch, nach Blut oder nach Luft dort, wo keine sein sollte.
 - **Husten oder kurzer Atem**: die Lunge und die Grösse des Herzens.
 - **Anhaltendes Erbrechen**: der Bauch, auf der Suche nach einem verschluckten Gegenstand. Muss er entfernt werden, findet die Operation im Nachbarraum statt: siehe [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/).
-- **Die Zähne**: Vor jeder Zahnsteinentfernung zeigt ein Röntgenbild die Wurzeln, die das Auge nicht sieht. Der weitere Ablauf steht auf der Seite [Zahnbehandlung in Payerne](/de/payerne/leistungen/zahnbehandlung/).
+- **Die Zähne**: Vor jeder Zahnsteinentfernung zeigt ein Röntgenbild die Wurzeln, die das Auge nicht sieht. Der weitere Ablauf steht auf der Seite [Zahnmedizin in Payerne](/de/payerne/leistungen/zahnmedizin/).
 - **Kaninchen und Nager**: Das Röntgen des Schädels erkennt Zähne, die schief wachsen. Payerne behandelt diese Zähne vor Ort.
 
 ## Die offizielle Dysplasie-Untersuchung
 
-Die Dysplasie ist eine fehlgebildete Hüfte oder ein fehlgebildeter Ellbogen, was zu Arthrose führt. Viele Rasseclubs verlangen vor der Zucht eine offizielle Aufnahme. In Payerne kommt der Hund am Morgen, nüchtern. Die Tierärztin oder der Tierarzt liest zuerst seinen Mikrochip aus und gibt ihm dann ein Beruhigungsmittel: Die verlangte Position mit gestreckten Hinterbeinen hält ein wacher Hund nicht. Die Aufnahmen gehen danach an die Auswertungsstelle des Clubs. Um den Wurf anschliessend zu begleiten, lesen Sie die Seite [Züchterberatung in Payerne](/de/payerne/leistungen/zuechterberatung/).
+Die Dysplasie ist eine fehlgebildete Hüfte oder ein fehlgebildeter Ellbogen, was zu Arthrose führt. Viele Rasseclubs verlangen vor der Zucht eine offizielle Aufnahme. In Payerne kommt der Hund am Morgen, nüchtern. Die Tierärztin oder der Tierarzt liest zuerst seinen Mikrochip aus und gibt ihm dann ein Beruhigungsmittel: Die verlangte Position mit gestreckten Hinterbeinen hält ein wacher Hund nicht. Die Aufnahmen gehen danach an die Auswertungsstelle des Clubs. Um den Wurf anschliessend zu begleiten, lesen Sie die Seite [Prävention in Payerne](/de/payerne/leistungen/praevention/).
 
 ## Der Preis in Payerne
 

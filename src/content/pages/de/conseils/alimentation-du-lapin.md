@@ -92,6 +92,6 @@ Vereinbaren Sie einen Termin, wenn Sie Folgendes bemerken:
 
 Während der Konsultation von 30 Minuten wiegt die Tierärztin oder der Tierarzt Ihr Kaninchen, tastet seinen Bauch ab, untersucht seine Zähne und spricht mit Ihnen über seine tatsächliche Ration. Notieren Sie vor dem Besuch, was es an einem typischen Tag frisst: die Marke des Heus, die Menge an Pellets, das Gemüse. Die Tierärztin oder der Tierarzt passt die Ration an Gewicht, Alter und allfällige Krankheiten Ihres Kaninchens an.
 
-Zu Lebensraum, Gruppenhaltung und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/). Die Behandlung von Kaninchen in unseren Praxen: [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/).
+Zu Lebensraum, Gruppenhaltung und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/). Die Behandlung von Kaninchen in unseren Praxen: [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)

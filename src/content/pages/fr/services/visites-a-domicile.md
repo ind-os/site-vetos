@@ -1,18 +1,18 @@
 ---
 type: service
-url: /services/soins-a-domicile/
-title: "Vétérinaire à domicile : soins, zones, prix | Vetmint"
-description: "Vétérinaire à domicile chez Vetmint : consultation, vaccins et soins courants chez vous, aux heures d'ouverture du cabinet. Déplacement dès 55 francs."
-h1: Soins vétérinaires à domicile
-nom: Soins à domicile
+url: /services/visites-a-domicile/
+title: "Visites vétérinaires à domicile : soins, zones | Vetmint"
+description: "Visites vétérinaires à domicile chez Vetmint : consultation, vaccins et soins courants chez vous, aux heures d'ouverture du cabinet, sur rendez-vous."
+h1: Visites vétérinaires à domicile
+nom: Visites à domicile
 recherche: vétérinaire à domicile
-redige_le: 2026-10-16
-ordre: 17
+redige_le: 2026-11-10
+ordre: 12
 especes: [chien, chat, nac]
-resume: Un vétérinaire vient chez vous aux heures d'ouverture pour les soins courants, déplacement dès 55 francs.
+resume: Un vétérinaire vient chez vous aux heures d'ouverture pour les soins courants, sur rendez-vous.
 ---
 
-Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu aux heures d'ouverture du cabinet, sur rendez-vous. Vous payez la consultation au prix du cabinet, plus un forfait de déplacement de 55 francs dans la Riviera vaudoise, la Broye et autour de chaque cabinet.
+Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu aux heures d'ouverture du cabinet, sur rendez-vous. Un forfait de déplacement s'ajoute au prix de la consultation.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -49,7 +49,7 @@ Une urgence ne s'attend pas : un animal qui respire mal, saigne ou a avalé un 
 
 ## Dans quelle zone
 
-Le forfait de 55 francs couvre la Riviera vaudoise (de Vevey à Montreux) et le district de la Broye, autour de Payerne et de Domdidier. Ailleurs, chaque cabinet se déplace dans les communes voisines, dans un rayon de 15 kilomètres au même forfait. Le vétérinaire qui vient chez vous fait partie de l'équipe du cabinet le plus proche : il retrouve ensuite votre animal en consultation si besoin.
+Le forfait de déplacement couvre la Riviera vaudoise (de Vevey à Montreux) et le district de la Broye, autour de Payerne et de Domdidier. Ailleurs, chaque cabinet se déplace dans les communes voisines, dans un rayon de 15 kilomètres au même forfait. Le vétérinaire qui vient chez vous fait partie de l'équipe du cabinet le plus proche : il retrouve ensuite votre animal en consultation si besoin.
 
 ## Comment se passe la visite
 
@@ -74,18 +74,22 @@ Les résultats d'une prise de sang arrivent par téléphone ou par e-mail, une f
 - Gardez la caisse de transport à portée de main : si l'animal doit aller au cabinet, le départ est plus rapide.
 - Ne mettez jamais un lapin ou un cochon d'Inde à jeun.
 
+## Ce qui demande de venir au cabinet
+
+Certains soins ne se font pas à la maison, parce qu'ils demandent un appareil, une salle propre ou une surveillance :
+
+- une radiographie, une échographie ou une endoscopie ;
+- une opération, un détartrage ou toute anesthésie générale ;
+- une perfusion de plusieurs heures ou une hospitalisation ;
+- une analyse de sang complète, dont les appareils restent au laboratoire du cabinet.
+
+Si l'examen à domicile montre qu'un de ces soins est nécessaire, le vétérinaire vous le dit et fixe avec vous le rendez-vous au cabinet. Il transmet ses notes à l'équipe, pour que vous n'ayez pas à tout raconter une deuxième fois.
+
+Une visite à domicile ne remplace pas non plus une urgence. Un animal qui respire mal, saigne beaucoup ou ne se lève plus doit être vu au cabinet sans attendre : la page [Urgences](/urgences/) dit qui appeler.
+
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Forfait de déplacement, Riviera vaudoise et district de la Broye | aller et retour du vétérinaire | 55 CHF |
-| Forfait de déplacement autour des autres cabinets | aller et retour dans un rayon de 15 kilomètres | 55 CHF |
-| Consultation à domicile | examen de 30 minutes, conseils | 54 à 59 CHF selon le cabinet |
-| Vaccins, médicaments, analyses | selon les soins réalisés | prix de la grille du cabinet |
-
-Le forfait de déplacement se compte une fois par visite, quel que soit le nombre d'animaux du foyer. Au-delà de 15 kilomètres, le cabinet annonce le prix au téléphone. Une annulation communiquée moins de 24 heures avant la visite est facturée au prix du forfait de déplacement.
-
-Le paiement se fait sur place, après la consultation, par carte ou par TWINT. Les prix de chaque cabinet sont sur la page [Tarifs](/tarifs/).
+Une visite à domicile ajoute un forfait de déplacement au prix des soins. Le cabinet vous annonce le total au moment de fixer la visite. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 
@@ -103,7 +107,7 @@ L'examen avant l'anesthésie peut se faire à domicile. L'opération, elle, se f
 
 ### La visite à domicile coûte-t-elle plus cher ?
 
-Elle coûte le forfait de déplacement en plus de la consultation, soit 109 à 114 francs pour un examen simple dans la zone du forfait. Les soins se paient au même prix qu'au cabinet.
+Elle coûte le forfait de déplacement en plus de la consultation. Les soins se paient au même prix qu'au cabinet.
 
 ### Dois-je être présent pendant la visite ?
 
@@ -119,12 +123,12 @@ Sept cabinets Vetmint proposent des visites à domicile, sur rendez-vous, autour
 
 - [Bussigny](/bussigny/services/) : [021 703 25 30](tel:+41217032530), [rendez-vous en ligne](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [032 914 03 48](tel:+41329140348), [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/soins-a-domicile/), pour la Broye fribourgeoise : [026 675 38 88](tel:+41266753888), [rendez-vous en ligne](/domdidier/rendez-vous/)
+- [Domdidier](/domdidier/services/visites-a-domicile/), pour la Broye fribourgeoise : [026 675 38 88](tel:+41266753888), [rendez-vous en ligne](/domdidier/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [021 357 89 90](tel:+41213578990), [rendez-vous en ligne](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/), pour la Broye vaudoise : [026 660 16 16](tel:+41266601616), [rendez-vous en ligne](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [032 753 11 22](tel:+41327531122), [rendez-vous en ligne](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/), pour la Riviera vaudoise : [021 683 10 10](tel:+41216831010)
 
-Pour un animal âgé qui a mal, la page [Gestion de la douleur](/services/gestion-de-la-douleur/) décrit le suivi possible entre deux visites.
+Pour un animal âgé qui a mal, la page [Thérapie laser](/services/laser/) décrit le suivi possible entre deux visites.
 
 [Trouver le cabinet le plus proche](/cabinets/)

@@ -127,6 +127,6 @@ Ja, mit einem Abonnement pro Tier.
 
 ## Wo Sie abschliessen
 
-Der Präventionsplan und die Abonnemente können in den acht Vetmint-Praxen abgeschlossen werden. Der Preis jeder Behandlung steht in unseren [Preisen](/de/preise/). Die enthaltenen Behandlungen sind auf den Seiten [Impfung beim Hund](/de/leistungen/impfung-hund/), [Impfung bei der Katze](/de/leistungen/impfung-katze/), [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/), [Mikrochip](/de/leistungen/mikrochip/) und [Zahnbehandlung](/de/leistungen/zahnbehandlung/) erklärt.
+Der Präventionsplan und die Abonnemente können in den acht Vetmint-Praxen abgeschlossen werden. Der Preis jeder Behandlung steht in unseren [Preisen](/de/preise/). Die enthaltenen Behandlungen sind auf den Seiten [Impfung beim Hund](/de/leistungen/praevention/), [Impfung bei der Katze](/de/leistungen/praevention/), [Kastration und Sterilisation](/de/leistungen/chirurgie/), [Mikrochip](/de/leistungen/praevention/) und [Zahnbehandlung](/de/leistungen/zahnmedizin/) erklärt.
 
 [Eine Praxis wählen](/de/praxen/)

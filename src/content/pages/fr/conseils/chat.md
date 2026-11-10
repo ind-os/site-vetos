@@ -17,11 +17,11 @@ L'[hyperthyroïdie](/conseils/hyperthyroidie-feline/) est la maladie hormonale l
 
 ## Les soins de prévention
 
-Le bilan de santé annuel comprend une consultation de 30 minutes et le rappel du vaccin. Le chat d'intérieur, sans contact avec d'autres chats, est vacciné contre le typhus (gastro-entérite virale souvent mortelle chez le chaton) et le coryza (rhume du chat dû à deux virus). Le chat qui sort ou va en pension reçoit en plus le vaccin contre la leucose féline (FeLV), un virus transmis par la salive qui affaiblit les défenses. La page [Vaccination du chat](/services/vaccination-chat/) détaille le calendrier du chaton.
+Le bilan de santé annuel comprend une consultation de 30 minutes et le rappel du vaccin. Le chat d'intérieur, sans contact avec d'autres chats, est vacciné contre le typhus (gastro-entérite virale souvent mortelle chez le chaton) et le coryza (rhume du chat dû à deux virus). Le chat qui sort ou va en pension reçoit en plus le vaccin contre la leucose féline (FeLV), un virus transmis par la salive qui affaiblit les défenses. La page [Vaccination du chat](/services/prevention/) détaille le calendrier du chaton.
 
-La [puce électronique](/services/puce-electronique/) identifie votre chat dans ANIS, le registre suisse des animaux identifiés. Le [détartrage](/services/soins-dentaires/) se fait sous anesthésie quand le tartre s'accumule.
+La [puce électronique](/services/prevention/) identifie votre chat dans ANIS, le registre suisse des animaux identifiés. Le [détartrage](/services/dentisterie/) se fait sous anesthésie quand le tartre s'accumule.
 
-Après la [stérilisation](/services/sterilisation-castration/), un chat prend plus facilement du poids. Un aliment pour chat stérilisé et une ration pesée l'évitent. Dès 10 ans, une prise de sang par an repère l'hyperthyroïdie et les maladies des reins avant les premiers signes.
+Après la [stérilisation](/services/chirurgie/), un chat prend plus facilement du poids. Un aliment pour chat stérilisé et une ration pesée l'évitent. Dès 10 ans, une prise de sang par an repère l'hyperthyroïdie et les maladies des reins avant les premiers signes.
 
 Le plan de prévention chaton couvre sa première année, test de dépistage FIV et FeLV compris. L'abonnement senior, dès 7 ans, ajoute chaque année une prise de sang et une mesure de la tension. Les deux formules sont sur la page [Abonnements](/abonnements/).
 

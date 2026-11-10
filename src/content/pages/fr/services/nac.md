@@ -1,18 +1,18 @@
 ---
 type: service
 url: /services/nac/
-title: "Vétérinaire NAC : lapins, rongeurs, oiseaux | Vetmint"
-description: "Vétérinaire NAC chez Vetmint : lapins et rongeurs dans les huit cabinets, oiseaux et reptiles à Fribourg Ouest. Vaccin du lapin, opérations, dents, prix."
-h1: Médecine des NAC, du lapin au reptile
-nom: NAC
+title: "Médecine avancée des NAC : lapins, oiseaux | Vetmint"
+description: "Médecine avancée des NAC chez Vetmint : lapins et rongeurs dans les huit cabinets, oiseaux et reptiles à Fribourg Ouest. Vaccins, opérations, dents."
+h1: "Médecine avancée des NAC : du lapin au reptile"
+nom: Médecine avancée des NAC
 recherche: vétérinaire NAC
-redige_le: 2026-10-16
-ordre: 15
+redige_le: 2026-11-10
+ordre: 11
 especes: [nac]
 resume: Lapins et rongeurs dans les huit cabinets, oiseaux, reptiles et cas complexes chez le vétérinaire NAC de Fribourg Ouest.
 ---
 
-Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent les lapins et les rongeurs. Les oiseaux, les reptiles et les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC. Une consultation coûte de 54 à 59 francs selon le cabinet, dès 60 francs pour une consultation spécialisée.
+Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent les lapins et les rongeurs. Les oiseaux, les reptiles et les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC.
 
 [Prendre rendez-vous pour un NAC à Fribourg Ouest](/fribourg/rendez-vous/)
 
@@ -78,17 +78,7 @@ Pendant les heures d'ouverture, appelez votre cabinet. En dehors, la page [urgen
 
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Consultation de 30 minutes | examen, pesée, conseils | 54 à 59 CHF |
-| Consultation spécialisée NAC (Fribourg Ouest) | examen approfondi, plan de traitement, fiche écrite | 140 CHF |
-| Bilan annuel avec vaccin du lapin | consultation de 30 minutes, vaccin VHD | 63 à 76 CHF |
-| Castration du lapin | examen avant l'anesthésie, anesthésie gazeuse, opération, traitement de la douleur, deux contrôles | 131 à 185 CHF |
-| Castration d'un lapin ou d'un rongeur (Fribourg Ouest) | même contenu | 150 CHF |
-| Stérilisation de la lapine | examen avant l'anesthésie, anesthésie gazeuse, opération, traitement de la douleur, deux contrôles | 250 à 380 CHF |
-| Bilan avec vaccin contre la rage du furet | consultation de 30 minutes, vaccin, passeport, lecture de la puce | 77 à 89 CHF |
-
-Les prix varient d'un cabinet à l'autre ; ce sont ceux de la grille en vigueur depuis le 29 avril 2025. Les soins dentaires, les radiographies et l'hospitalisation se chiffrent après l'examen. La page [Tarifs](/tarifs/) donne la grille de chaque cabinet.
+Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC varie selon l'espèce et le cabinet. Le vétérinaire vous annonce le prix avant chaque soin. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 

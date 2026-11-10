@@ -1,18 +1,18 @@
 ---
 type: service
-url: /services/soins-dentaires/
-title: "Détartrage du chien et du chat : déroulement, prix | Vetmint"
-description: "Détartrage du chien et du chat chez Vetmint : sous anesthésie, en une matinée, retour le jour même. Forfait de 300 à 345 francs, extractions sur devis."
-h1: Soins dentaires et détartrage du chien et du chat
-nom: Soins dentaires
+url: /services/dentisterie/
+title: "Dentisterie du chien et du chat : détartrage | Vetmint"
+description: "Dentisterie du chien et du chat chez Vetmint : détartrage sous anesthésie, radiographie des dents, extractions, retour le jour même et soins à la maison."
+h1: "Dentisterie du chien et du chat : détartrage et extractions"
+nom: Dentisterie
 recherche: détartrage chien chat
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 6
+ordre: 4
 resume: Le détartrage sous anesthésie, les extractions, le brossage à la maison et les prix dans les huit cabinets.
 ---
 
-Le détartrage du chien et du chat se fait sous anesthésie générale, au cabinet, en une matinée. Le vétérinaire contrôle chaque dent, retire le tartre au-dessus et sous la gencive, radiographie les dents douteuses, extrait celles qui ne se sauvent plus, puis polit l'émail. Le forfait coûte 300 à 345 francs selon le cabinet, anesthésie comprise. Votre animal rentre à la maison l'après-midi.
+Le détartrage du chien et du chat se fait sous anesthésie générale, au cabinet, en une matinée. Le vétérinaire contrôle chaque dent, retire le tartre au-dessus et sous la gencive, radiographie les dents douteuses, extrait celles qui ne se sauvent plus, puis polit l'émail. Votre animal rentre à la maison l'après-midi.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -65,7 +65,7 @@ Le forfait compte 45 minutes de soin. Chaque extraction allonge l'anesthésie, d
 - Pas de repas après le souper de la veille. L'eau reste permise jusqu'au matin.
 - Ne mettez jamais un lapin ou un rongeur à jeun : il mange et boit jusqu'au départ pour le cabinet.
 - Apportez la liste des médicaments en cours et dites si votre animal a toussé, vomi ou été malade dans la semaine.
-- Pour un animal de plus de 7 ans, le vétérinaire propose une prise de sang avant l'anesthésie. Elle vérifie les reins et le foie, qui éliminent les médicaments. La page [analyses et diagnostic](/services/analyses-diagnostic/) l'explique.
+- Pour un animal de plus de 7 ans, le vétérinaire propose une prise de sang avant l'anesthésie. Elle vérifie les reins et le foie, qui éliminent les médicaments. La page [analyses et diagnostic](/services/analyses-sanguines/) l'explique.
 - Le chat voyage dans une caisse de transport fermée, le chien en laisse.
 
 ## Les suites
@@ -91,15 +91,7 @@ Une récompense après chaque séance installe l'habitude. Le vétérinaire vous
 
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Détartrage et polissage, forfait 45 minutes | examen avant l'anesthésie, cathéter, perfusion, intubation, anesthésie gazeuse, surveillance de l'anesthésie, traitement de la douleur | 300 à 345 CHF |
-| Extraction d'une dent | selon la dent et le temps nécessaire, sur devis | 25 à 200 CHF |
-| Extraction de toutes les dents, forfait | examen avant l'anesthésie, anesthésie complète et surveillance | 1 400 CHF |
-
-Le forfait de détartrage ne comprend pas les radiographies dentaires, les extractions ni les médicaments donnés à la maison. Il coûte 300 francs à Lac-de-Joux, 320 francs à Bussigny, à La Chaux-de-Fonds et à Saint-Blaise, 325 francs à Payerne, 345 francs à Domdidier, à Fribourg Ouest et à Saint-Légier. Le forfait d'extraction totale figure sur les grilles de La Chaux-de-Fonds, de Lac-de-Joux et de Saint-Blaise. La page [Tarifs](/tarifs/) détaille les prix par cabinet.
-
-Les [abonnements](/abonnements/) Adulte+ et Senior comprennent un détartrage par an. L'abonnement Adulte+ coûte 106 francs par mois pour un chien et 103 francs pour un chat.
+Le prix d'un détartrage dépend du temps passé, des radiographies des dents et des extractions éventuelles. Le vétérinaire vous remet un devis après l'examen de la bouche. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 

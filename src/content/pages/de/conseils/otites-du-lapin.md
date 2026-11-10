@@ -90,6 +90,6 @@ Die Vorsorge zählt umso mehr, wenn Ihr Kaninchen hängende Ohren hat.
 
 ## Ihr Kaninchen behandeln lassen
 
-Die Ohrenentzündungen des Kaninchens werden in den Vetmint-Praxen behandelt: [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/), mit spezialisierten Konsultationen und einer stationären Betreuung, die auf Kaninchen abgestimmt ist. Zu Lebensraum, Ration und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
+Die Ohrenentzündungen des Kaninchens werden in den Vetmint-Praxen behandelt: [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/), mit spezialisierten Konsultationen und einer stationären Betreuung, die auf Kaninchen abgestimmt ist. Zu Lebensraum, Ration und Impfungen: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)

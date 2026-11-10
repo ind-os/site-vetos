@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/ultraschall/
-title: "Ultraschall bei Hund und Katze: Dauer, Preise | Vetmint"
-description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 25 Minuten, 12 Stunden nüchtern, oft ohne Sedation. Ab 50 Franken, in sechs Praxen möglich."
+title: "Ultraschall bei Hund und Katze: Dauer, Ablauf | Vetmint"
+description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 25 Minuten, 12 Stunden nüchtern, oft ohne Sedation. Sechs Praxen haben ein Ultraschallgerät."
 h1: Ultraschall bei Hund und Katze
 nom: Ultraschall
 recherche: Ultraschall Hund Katze
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat]
-ordre: 9
-resume: Der Ultraschall von Bauch, Herz und Trächtigkeit, die Vorbereitung, die Dauer, die Preise und die ausgestatteten Praxen.
+ordre: 6
+resume: Der Ultraschall von Bauch, Herz und Trächtigkeit, die Vorbereitung, die Dauer und die ausgestatteten Praxen.
 ---
 
-Der Ultraschall beim Hund und bei der Katze zeigt das Innere des Bauchs und das Herz in bewegten Bildern, ohne Röntgenstrahlen und ohne Schmerzen. Die Untersuchung dauert 15 bis 25 Minuten, meist an einem wachen Tier. Für den Bauch muss es seit 12 Stunden nüchtern sein. Ein Trächtigkeitsultraschall kostet 50 Franken, ein vollständiger Bauchultraschall 221 Franken. Sechs Praxen von Vetmint haben ein Ultraschallgerät.
+Der Ultraschall beim Hund und bei der Katze zeigt das Innere des Bauchs und das Herz in bewegten Bildern, ohne Röntgenstrahlen und ohne Schmerzen. Die Untersuchung dauert 15 bis 25 Minuten, meist an einem wachen Tier. Für den Bauch muss es seit 12 Stunden nüchtern sein. Sechs Praxen von Vetmint haben ein Ultraschallgerät.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -45,7 +45,7 @@ Der Ultraschall ergänzt oft eine Blutentnahme oder ein Röntgen. Er beantwortet
 
 **Der Herzultraschall.** Das ist der Ultraschall des Herzens. Er misst die Dicke der Wände, die Grösse der Kammern und die Bewegung der Klappen. Er zeigt auch das Blut, das zurückfliesst, wenn eine Klappe undicht ist. Er erklärt ein Herzgeräusch und leitet die Behandlung einer Herzschwäche an.
 
-Der Ultraschall führt auch gewisse Probenentnahmen. Die Tierärztin oder der Tierarzt sieht die Nadelspitze auf dem Bildschirm und entnimmt den Urin direkt aus der Blase oder einige Zellen aus einem Organ. Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) beschreibt das weitere Vorgehen.
+Der Ultraschall führt auch gewisse Probenentnahmen. Die Tierärztin oder der Tierarzt sieht die Nadelspitze auf dem Bildschirm und entnimmt den Urin direkt aus der Blase oder einige Zellen aus einem Organ. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) beschreibt das weitere Vorgehen.
 
 ## Der Ablauf
 
@@ -73,14 +73,7 @@ Zeigt der Ultraschall eine Veränderung, schlägt die Tierärztin oder der Tiera
 
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Trächtigkeitsultraschall | Scheren, Untersuchung von Gebärmutter und Föten, ohne Konsultation | CHF 50.– |
-| Trächtigkeitsultraschall mit Konsultation | Konsultation von 30 Minuten und Untersuchung, Lac-de-Joux | CHF 130.– |
-| Vollständiger Bauchultraschall | Scheren, Untersuchung aller Bauchorgane, Bericht, ohne Konsultation | CHF 221.– |
-| Herzultraschall | Scheren, Untersuchung des Herzens, Messungen, Bericht, ohne Konsultation | CHF 260.– |
-
-Die Sedation und die ultraschallgeführten Probenentnahmen kommen zu diesen Preisen hinzu, wenn sie nötig sind. Die Seite [Preise](/de/preise/) nennt die Preise pro Praxis.
+Der Preis eines Ultraschalls hängt vom untersuchten Organ und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Untersuchung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 
@@ -111,10 +104,10 @@ Ja, im Wesentlichen: Die Tierärztin oder der Tierarzt sieht die Organe live und
 ## Die Praxen mit Ultraschall
 
 - [Bussigny](/de/bussigny/leistungen/): Ultraschall von Bauch, Trächtigkeit und Herz. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/chauxdefonds/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Trächtigkeitsultraschall. [Termin](/de/chauxdefonds/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Ultraschallgerät, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Ultraschallgerät in der Praxis, Trächtigkeitsultraschall mit Konsultation. [Termin](/de/lacdejoux/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Trächtigkeitsultraschall für 50 Franken. [Termin](/de/saintblaise/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Trächtigkeitsultraschall. [Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/): vollständiger Bauchultraschall, Trächtigkeits- und Herzultraschall. [Termin](/de/saintlegier/termin/)
 
 Die Praxen [Domdidier](/de/domdidier/leistungen/) und [Payerne](/de/payerne/leistungen/) überweisen ihre Patienten für den Ultraschall an die Praxis Fribourg Ouest. Die Tierärztin oder der Tierarzt, die oder der Ihr Tier betreut, übermittelt die Akte und die Analysen.

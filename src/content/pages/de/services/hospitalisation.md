@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/stationaere-betreuung/
-title: "Stationäre Betreuung Hund und Katze: Nacht, Preis | Vetmint"
-description: "Stationäre Betreuung von Hund, Katze und Kaninchen bei Vetmint: Infusion, Überwachung, tägliche Anrufe, Besuche. Ab 95 Franken pro Tag, in allen acht Praxen."
+title: "Stationäre Betreuung Hund und Katze: Besuche | Vetmint"
+description: "Stationäre Betreuung von Hund, Katze und Kaninchen bei Vetmint: Infusion, Überwachung, täglicher Anruf der Tierärztin oder des Tierarztes, Besuche, acht Praxen."
 h1: Stationäre Betreuung von Hund, Katze und Heimtieren
 nom: Stationäre Betreuung
 recherche: stationäre Betreuung Hund Katze
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 10
-resume: Warum ein Tier in der Praxis bleibt, bei Tag und bei Nacht, die Besuche, die Anrufe und der Preis.
+ordre: 8
+resume: Warum ein Tier in der Praxis bleibt, bei Tag und bei Nacht, die Besuche und die Anrufe.
 ---
 
-Die stationäre Betreuung von Hund und Katze dient dazu, ein Tier in der Praxis zu behandeln, das zu Hause nicht behandelt werden kann. Es erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär. Der Tag kostet je nach Grösse des Tieres 95 bis 140 Franken. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an.
+Die stationäre Betreuung von Hund und Katze dient dazu, ein Tier in der Praxis zu behandeln, das zu Hause nicht behandelt werden kann. Es erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an.
 
 [Praxis wählen](/de/praxen/)
 
@@ -75,13 +75,7 @@ Halten Sie Ihr Tier in den ersten Tagen ruhig. Rufen Sie die Praxis an, wenn es 
 
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Tag in stationärer Betreuung | Box, Grundpflege, Mahlzeiten, klinische Untersuchungen des Tages | CHF 95.– bis 140.– je nach Grösse |
-| Tagesaufenthalt | einige Stunden Überwachung, Rückkehr am Abend | CHF 60.– |
-| Infusion | Katheter, Infusionsbeutel, Einstellung der Durchflussmenge, pro Tag | CHF 65.– |
-
-Medikamente, Untersuchungen, Bildgebung und Operationen kommen zu diesen Preisen hinzu. Vor der stationären Aufnahme gibt Ihnen die Tierärztin oder der Tierarzt einen Kostenvoranschlag. Sie oder er aktualisiert ihn, wenn sich der Aufenthalt verlängert, und bespricht es mit Ihnen am Telefon. Bei einer Notfallaufnahme am Abend, am Sonntag oder an einem Feiertag gilt der Notfallzuschlag der Praxis. Die Seite [Preise](/de/preise/) nennt die Preise pro Praxis.
+Der Preis eines stationären Aufenthalts hängt von der Anzahl Tage, der Grösse des Tiers und der Behandlung ab. Bei der Aufnahme erhalten Sie einen Kostenvoranschlag, und die Praxis informiert Sie, wenn er sich ändert. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 

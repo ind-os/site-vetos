@@ -30,6 +30,6 @@ Drei Arten von Inhalten stehen nebeneinander. Die Tierartenporträts stellen die
 
 Manche Anzeichen lassen keine Zeit zum Lesen. Ein Tier, das nur mit Mühe atmet, zusammenbricht, stark blutet, wiederholt erbricht oder ein giftiges Produkt verschluckt hat, muss ohne Wartezeit gesehen werden. Ein Kaninchen, das seit sechs Stunden nicht mehr frisst, ebenfalls. Rufen Sie während der Öffnungszeiten Ihre Praxis an. Nachts und am Wochenende nennt die Seite [Notfall und Notfalldienst](/de/notfall/) die Nummer, die Sie wählen.
 
-Für eine Frage, die einige Tage warten kann, lässt eine [Konsultation von 30 Minuten](/de/leistungen/konsultation/) Zeit, darüber zu sprechen.
+Für eine Frage, die einige Tage warten kann, lässt eine [Konsultation von 30 Minuten](/de/leistungen/praevention/) Zeit, darüber zu sprechen.
 
 [Eine Vetmint-Praxis finden](/de/praxen/)

@@ -20,19 +20,19 @@ Ihr Welpe oder Ihr Kätzchen ist gerade bei Ihnen eingezogen: Der Präventionspl
 ### Was er zwölf Monate lang abdeckt
 
 - So viele Konsultationen nach Terminvereinbarung, wie nötig sind.
-- Die [Impfungen des Welpen](/de/payerne/leistungen/impfung-hund/) gegen Staupe, ansteckende Leberentzündung, Parvovirose, Parainfluenza, Leptospirose und Tollwut.
-- Die [Impfungen des Kätzchens](/de/payerne/leistungen/impfung-katze/) gegen Katzenschnupfen, Katzenseuche, Leukose und Tollwut.
+- Die [Impfungen des Welpen](/de/payerne/leistungen/praevention/) gegen Staupe, ansteckende Leberentzündung, Parvovirose, Parainfluenza, Leptospirose und Tollwut.
+- Die [Impfungen des Kätzchens](/de/payerne/leistungen/praevention/) gegen Katzenschnupfen, Katzenseuche, Leukose und Tollwut.
 - Der Test auf FIV und Leukose (FeLV) beim Kätzchen, zwei Viren, die seine Abwehr schwächen.
 - Die Entwurmungen, im Rhythmus, den die Tierärztin oder der Tierarzt festlegt.
 - Die Begleitung des Wachstums, mit 10 % Rabatt auf das empfohlene Futter.
-- Der [Mikrochip](/de/payerne/leistungen/mikrochip/), der Pass und die Registrierung: AMICUS für den Hund, ANIS für die Katze.
+- Der [Mikrochip](/de/payerne/leistungen/praevention/), der Pass und die Registrierung: AMICUS für den Hund, ANIS für die Katze.
 - Eine Erinnerung per SMS, WhatsApp oder E-Mail vor jeder geplanten Behandlung.
 - 10 % Rabatt auf Mittel gegen Flöhe und Zecken, ausgenommen Saisonangebote.
 - 5 % Rabatt auf die übrigen Behandlungen und Produkte der Praxis.
 
 ### Was er kostet
 
-Die [Kastration des Männchens oder die Sterilisation des Weibchens](/de/payerne/leistungen/kastration-sterilisation/) kann zum Plan hinzukommen. Die Tabelle vergleicht jede Formel mit dem Preis derselben Behandlungen, einzeln gekauft.
+Die [Kastration des Männchens oder die Sterilisation des Weibchens](/de/payerne/leistungen/chirurgie/) kann zum Plan hinzukommen. Die Tabelle vergleicht jede Formel mit dem Preis derselben Behandlungen, einzeln gekauft.
 
 | Formel | Preis des Plans | Einzeln gekaufte Behandlungen | Unterschied |
 |---|---|---|---|

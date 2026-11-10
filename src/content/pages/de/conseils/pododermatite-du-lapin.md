@@ -60,7 +60,7 @@ Damit die Haut heilt und das Fell nachwächst, kann die Tierärztin oder der Tie
 - Sitzungen mit [therapeutischem Laser](/de/leistungen/lasertherapie/), einem Licht, das lindert und die Heilung beschleunigt;
 - eine Salbe, die auf die Wunde aufgetragen wird.
 
-Eine infizierte Wunde erfordert zusätzlich eine Behandlung gegen die Infektion, manchmal eine lange. Die [Schmerztherapie](/de/leistungen/schmerztherapie/) gehört zur Behandlung: Ein Kaninchen mit weniger Schmerzen bewegt sich mehr. Seine Füsse heilen dann besser.
+Eine infizierte Wunde erfordert zusätzlich eine Behandlung gegen die Infektion, manchmal eine lange. Die Schmerzbehandlung gehört zur Behandlung: Ein Kaninchen mit weniger Schmerzen bewegt sich mehr. Seine Füsse heilen dann besser.
 
 ## Der Pododermatitis vorbeugen
 
@@ -70,6 +70,6 @@ Kaninchen mit feinem Fell sowie alte oder von Arthrose betroffene Kaninchen brau
 
 ## Ihr Kaninchen behandeln lassen
 
-Eine Pododermatitis wird in der Konsultation behandelt, in der Vetmint-Praxis, die Ihnen am nächsten liegt. Die Behandlungen, die wir für Kaninchen und Nager anbieten, sind auf der Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Wenn eine Wunde nicht heilt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
+Eine Pododermatitis wird in der Konsultation behandelt, in der Vetmint-Praxis, die Ihnen am nächsten liegt. Die Behandlungen, die wir für Kaninchen und Nager anbieten, sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Wenn eine Wunde nicht heilt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
 
 [Praxis wählen](/de/praxen/)

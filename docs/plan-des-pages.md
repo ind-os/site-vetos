@@ -57,7 +57,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `/a-propos/`, `/emploi/`, `/newsletter/` | `a-propos.md`, `emploi.md`, `newsletter.md` | `simple` |
 | `/confidentialite/`, `/mentions-legales/` | `confidentialite.md`, `mentions-legales.md` | `simple` |
 
-Les services : consultation, vaccination-chien, vaccination-chat, sterilisation-castration, chirurgie, soins-dentaires, analyses-diagnostic, radiographie, echographie, hospitalisation, laser, puce-electronique, nac, gestion-de-la-douleur, soins-a-domicile, conseils-aux-eleveurs.
+Les services, dans l'ordre du champ `ordre` : prevention, chirurgie, chirurgie-orthopedique, dentisterie, radiographie, echographie, endoscopie, hospitalisation, analyses-sanguines, laser, nac, visites-a-domicile. Les urgences n'ont pas de page de service : la liste des services et le menu mènent à `/urgences/`. Les anciennes adresses (consultation, vaccins, puce, stérilisation, éleveurs, douleur, soins dentaires, analyses, soins à domicile) renvoient vers la page qui les a reprises (`astro.config.mjs`).
 
 ## Les pages d'une clinique
 

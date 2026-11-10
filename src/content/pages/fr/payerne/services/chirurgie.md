@@ -2,78 +2,82 @@
 type: service-clinique
 clinique: payerne
 url: /payerne/services/chirurgie/
-title: "Chirurgie vétérinaire à Payerne : grosseur, plaie, devis"
-description: "Chirurgie vétérinaire à Payerne : grosseur, plaie, objet avalé, césarienne, pour chiens, chats, lapins et rongeurs. Bloc, radio et laboratoire sur place."
+title: "Chirurgie et stérilisation à Payerne | Vetmint"
+description: "Chirurgie vétérinaire à Payerne : stérilisation, castration, grosseur, plaie, objet avalé, césarienne, pour chiens, chats, lapins et rongeurs. Bloc sur place."
 h1: Chirurgie à Payerne
 recherche: chirurgie vétérinaire Payerne
-redige_le: 2026-11-03
-resume: "Les opérations des tissus mous, faites sur place par les deux vétérinaires de Payerne, sur devis."
+redige_le: 2026-11-10
+resume: "Stérilisations, castrations et opérations des tissus mous, faites sur place route du Châtelard 13."
 ---
 
-À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération du cabinet Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y opèrent les chiens, les chats, les lapins et les rongeurs. Ils retirent des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Le prix se fixe sur devis, après une consultation de 30 minutes à 57 francs.
+À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération du cabinet Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y stérilisent et castrent les chats, les chiens, les lapins et les rongeurs. Ils retirent aussi des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Votre animal rentre le plus souvent avec vous le soir même.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
 ## Ce qui s'opère à Payerne
 
-Le cabinet pratique la chirurgie des tissus mous : la peau, le ventre et ses organes, hors os et articulations. Les opérations les plus fréquentes sont les suivantes :
-
+- **La stérilisation et la castration** des chattes, des chats, des chiennes, des chiens et des lapins, ainsi que des cochons d'Inde, des rats, des chinchillas, des hamsters, des gerbilles et des dègues.
 - **Le retrait d'une grosseur** (ablation de tumeur), sous la peau, sur une mamelle ou dans le ventre.
 - **Les soins de plaie** : morsure, coupure, déchirure, nettoyée puis recousue.
-- **Le retrait d'un objet avalé** (corps étranger) : jouet, noyau, chaussette.
-- **L'ouverture de l'estomac** (gastrotomie) ou de l'intestin (entérotomie) pour sortir cet objet. Si un morceau d'intestin est abîmé, le vétérinaire le retire et raccorde les deux bouts (entérectomie).
+- **Le retrait d'un objet avalé** (corps étranger), par l'ouverture de l'estomac (gastrotomie) ou de l'intestin (entérotomie).
 - **La césarienne**, quand une chienne ou une chatte ne parvient pas à mettre bas.
 
-Les termes entre parenthèses sont ceux que vous lirez sur le devis ou la facture. La stérilisation et la castration ont leur propre page : [Stérilisation et castration à Payerne](/payerne/services/sterilisation-castration/). Les dents aussi : [Soins dentaires à Payerne](/payerne/services/soins-dentaires/).
+Les termes entre parenthèses sont ceux du devis ou de la facture. Les dents ont leur page : [Dentisterie à Payerne](/payerne/services/dentisterie/).
 
-## Ce qui ne se fait pas sur place
-
-Le scanner, l'IRM et la chirurgie des os demandent un équipement que le cabinet n'a pas. Pour une fracture ou une opération du genou, le vétérinaire de Payerne vous adresse à une clinique de référence. Il lui transmet le dossier et les radiographies déjà faites, pour éviter de les refaire.
+Pour une fracture ou une opération du genou, le vétérinaire de Payerne vous adresse à la chirurgienne de Vetmint Fribourg Ouest, à Givisiez. Sur demande, elle peut venir opérer à Payerne. Le dossier et les radiographies déjà faites lui sont transmis.
 
 ## Le bloc du cabinet
 
 La zone de soins se trouve derrière les salles de consultation. Elle réunit trois pièces qui communiquent : la salle de préparation, la salle d'opération et la salle de radiographie.
 
-- Dans la salle de préparation, l'animal est rasé, reçoit son cathéter et s'endort.
+- Dans la salle de préparation, l'animal est rasé, reçoit son cathéter (un petit tuyau dans une veine) et s'endort.
 - Dans la salle d'opération, le vétérinaire opère pendant qu'une assistante, Jessy Dizerens ou Sandra Maeder, surveille l'anesthésie.
-- La salle de radiographie, juste à côté, sert à localiser un objet avalé avant d'ouvrir. Voir la page [Radiographie à Payerne](/payerne/services/radiographie/).
+- La salle de radiographie, juste à côté, sert à localiser un objet avalé avant d'ouvrir. Voir la [radiographie à Payerne](/payerne/services/radiographie/).
 
-Le laboratoire analyse la prise de sang faite avant l'anesthésie, souvent pendant la consultation. Une grosseur retirée part dans un laboratoire externe : le résultat revient en une semaine environ. Le vétérinaire vous appelle pour l'expliquer.
+Le laboratoire analyse la prise de sang faite avant l'anesthésie. Une grosseur retirée part dans un laboratoire externe : le résultat revient en une semaine environ.
 
-## Le prix d'une opération à Payerne
+## La journée de l'opération
 
-Chaque opération des tissus mous se paie sur devis. Après la consultation, le vétérinaire vous remet une estimation écrite. Elle additionne l'anesthésie, l'opération, les analyses, l'hospitalisation et les médicaments.
+Les opérations programmées ont lieu le matin, du lundi au vendredi. Vous amenez votre animal à 8 h, à l'ouverture. L'assistante le pèse et vérifie avec vous qu'il est à jeun, si son espèce le demande.
 
-| Élément | Prix à Payerne |
+Le vétérinaire vous téléphone quand l'opération est finie. Vous reprenez votre animal en fin d'après-midi, entre 16 h et 18 h, avec les médicaments contre la douleur. Le lendemain, le cabinet vous appelle pour savoir comment s'est passée la nuit.
+
+Après une opération du ventre, l'animal reste souvent quelques jours hospitalisé sur place. L'équipe le contrôle le soir à la fermeture, puis dès l'ouverture. Voir l'[hospitalisation à Payerne](/payerne/services/hospitalisation/).
+
+## Préparer l'opération
+
+- **Chien et chat** : dernier repas la veille au soir. L'eau reste à disposition jusqu'au matin.
+- **Lapin et rongeurs** : ils mangent jusqu'au départ, sans exception. Apportez du foin pour la journée.
+- **Chienne** : donnez au téléphone la date de ses dernières chaleurs.
+- **Transport** : pour un grand chien encore endormi le soir, garez-vous sur la place de dépose, devant l'entrée, sans marche à franchir.
+
+## Le prix à Payerne
+
+| Opération | Forfait |
 |---|---|
-| Consultation de 30 minutes avant l'opération | 57 CHF |
-| Anesthésie gazeuse avec cathéter, perfusion, surveillance et traitement de la douleur | 155 CHF dans le forfait de la chatte, 260 CHF dans celui de la chienne |
-| Supplément d'urgence pendant les heures d'ouverture | 99 CHF |
-| Supplément d'urgence en dehors des heures d'ouverture | 176 CHF |
-| Opération, analyses, hospitalisation, médicaments | selon le devis |
+| Stérilisation d'une chatte | 260 CHF |
+| Castration d'un chat | 115 CHF |
+| Stérilisation d'une chienne | 810 CHF |
+| Castration d'un chien | 450 CHF |
+| Castration d'un lapin | 131 CHF |
+| Grosseur, plaie, objet avalé, césarienne | sur devis |
 
-Un chiot ou un chaton inscrit au plan de prévention paie 5 % de moins sur les soins hors du plan, opérations comprises. Le paiement se fait au comptoir, par carte ou par TWINT. Les autres prix sont sur la page [Tarifs de Payerne](/payerne/tarifs/).
-
-## Préparer l'opération et le retour
-
-Une opération programmée a lieu le matin, du lundi au vendredi. Votre chien ou votre chat ne mange plus après le repas du soir. Votre lapin ou votre cochon d'Inde mange normalement jusqu'au départ. Vous déposez l'animal à 8 h et laissez un numéro où l'on peut vous joindre toute la journée.
-
-Le vétérinaire vous téléphone quand l'opération est finie. La plupart des animaux rentrent en fin d'après-midi. Après une opération du ventre, votre animal reste souvent hospitalisé quelques jours sur place. L'équipe le contrôle le soir à la fermeture, puis dès l'ouverture. S'il a besoin d'une surveillance la nuit entière, le vétérinaire vous propose un transfert. Voir la page [Hospitalisation à Payerne](/payerne/services/hospitalisation/).
+Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie, l'opération et le traitement de la douleur. La chienne, le chien et le lapin ont deux contrôles compris. La lapine et les rongeurs se paient sur devis. Toute la grille est sur la page [Tarifs de Payerne](/payerne/tarifs/), le plan de prévention avec l'opération sur la page [Abonnements de Payerne](/payerne/abonnements/).
 
 ## Vos questions sur la chirurgie à Payerne
 
 ### Mon chien a avalé une chaussette un dimanche. Que faire ?
 
-Appelez le numéro de garde, donné sur la page [Urgences à Payerne](/payerne/urgences/). Le vétérinaire de garde vous dit où aller. En semaine, appelez le cabinet au [026 660 16 16](tel:+41266601616) : elle prépare la radiographie et la salle d'opération pendant votre trajet.
+Appelez le numéro de garde, donné sur la page [Urgences à Payerne](/payerne/urgences/). En semaine, appelez le cabinet au [026 660 16 16](tel:+41266601616) : l'équipe prépare la radiographie et la salle d'opération pendant votre trajet.
 
-### Qui opère mon animal ?
+### Ma lapine peut-elle être stérilisée à Payerne ?
 
-Claire-Lise Tinguely ou Tiago Capelo, les deux vétérinaires du cabinet. Ils se partagent les opérations programmées et les urgences de la journée. Pour être suivi par l'un d'eux, dites-le en prenant rendez-vous.
+Oui. Le vétérinaire la voit d'abord en consultation, puis vous remet un devis. Ne la mettez jamais à jeun.
 
-### Ma chienne âgée a une boule sur une mamelle. Faut-il l'opérer ?
+### Je ne peux pas venir à 8 h. Comment faire ?
 
-Montrez-la d'abord en consultation. Le vétérinaire peut prélever quelques cellules à l'aiguille et les regarder au microscope au cabinet. Ensuite, il vous dit si l'opération vaut la peine et ce qu'elle coûtera.
+Dites-le en fixant la date. L'équipe cherche avec vous une autre heure de dépôt.
 
-L'anesthésie, la cicatrisation et les soins à la maison sont expliqués sur la page [Tout savoir sur la chirurgie des tissus mous](/services/chirurgie/).
+L'anesthésie, l'âge de la stérilisation et les soins à la maison sont expliqués sur la page commune.
 
-[Prendre rendez-vous](/payerne/rendez-vous/)
+[Tout savoir sur la chirurgie](/services/chirurgie/)

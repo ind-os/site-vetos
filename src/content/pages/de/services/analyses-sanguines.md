@@ -1,18 +1,18 @@
 ---
 type: service
-url: /de/leistungen/labor-diagnostik/
-title: "Blutanalyse bei Hund und Katze: Dauer, Preise | Vetmint"
-description: "Blut-, Urin-, Kot- und Hautuntersuchungen bei Vetmint: die meisten Resultate noch während der Konsultation, Biopsien im externen Labor. Alle Preise im Detail."
-h1: "Labor und Diagnostik: Blut, Urin, Haut und Biopsien"
-nom: Labor und Diagnostik
+url: /de/leistungen/blutanalysen/
+title: "Blutanalyse bei Hund und Katze: Dauer | Vetmint"
+description: "Blutanalyse bei Vetmint: Blutentnahme, Urin, Kot und Haut, die meisten Resultate noch während der Konsultation, Biopsien im externen Labor, acht Praxen."
+h1: "Blutanalyse: Blut, Urin, Haut und Biopsien"
+nom: Blutanalyse
 recherche: Blutanalyse Hund Katze
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 7
-resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht, die Wartezeiten und die Preise.
+ordre: 9
+resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht und die Wartezeiten.
 ---
 
-Eine Blutanalyse beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Ein grosses Blutbild kostet 145 Franken; Biopsien gehen an ein externes Labor.
+Eine Blutanalyse beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Biopsien gehen in ein externes Labor.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -80,18 +80,7 @@ Ein auffälliges Resultat bedeutet nicht immer eine Krankheit. Ein Wert kann nac
 
 ## Der Preis
 
-| Untersuchung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Grosses Blutbild | Blutentnahme, Blutbild, Blutchemie, Besprechung der Resultate | CHF 145.– |
-| Blutentnahme vor einer Narkose | Blutentnahme, Nieren- und Leberwerte, rote Blutkörperchen | CHF 85.– |
-| Urinuntersuchung | Teststreifen, Dichte, Untersuchung unter dem Mikroskop | CHF 45.– |
-| Kotuntersuchung | Suche nach Wurmeiern und Parasiten | CHF 40.– |
-| Zytologie | Punktion mit feiner Nadel, Lesen des Objektträgers in der Praxis | CHF 55.– |
-| Biopsie mit externer Analyse | Entnahme, Versand, Bericht des Pathologen, ohne Narkose | CHF 180.– bis 280.– |
-
-Diese Preise kommen zur Konsultation von 30 Minuten hinzu, die je nach Praxis 54 bis 59 Franken kostet. Die Seite [Preise](/de/preise/) nennt die Preise pro Praxis.
-
-Zwei Angebote enthalten Untersuchungen. Die [Abonnemente](/de/abonnemente/) für erwachsene Hunde und Katzen schliessen einen Bluttest pro Jahr ein; die Angebote Adulte+ und Senior fügen eine Urinuntersuchung hinzu. Der Präventionsplan für Kätzchen enthält den FIV/FeLV-Test.
+Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Probenentnahme. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 

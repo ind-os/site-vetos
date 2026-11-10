@@ -1,18 +1,18 @@
 ---
 type: service
 url: /services/hospitalisation/
-title: "Hospitalisation du chien et du chat : nuit, prix | Vetmint"
-description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perfusion, surveillance, appel quotidien, visites. Dès 95 francs la journée, huit cabinets."
+title: "Hospitalisation du chien et du chat : visites | Vetmint"
+description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perfusion, surveillance, appel quotidien du vétérinaire, visites. Dans les huit cabinets."
 h1: Hospitalisation du chien, du chat et des NAC
 nom: Hospitalisation
 recherche: hospitalisation chien chat
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 10
+ordre: 8
 resume: Pourquoi un animal reste au cabinet, le jour et la nuit, les visites, les appels et le prix.
 ---
 
-L'hospitalisation du chien et du chat sert à soigner au cabinet un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cabinets Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs. La journée coûte 95 à 140 francs selon la taille de l'animal. Le vétérinaire vous appelle chaque jour.
+L'hospitalisation du chien et du chat sert à soigner au cabinet un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cabinets Vetmint hospitalisent les chiens, les chats, les lapins et les rongeurs. Le vétérinaire vous appelle chaque jour.
 
 [Choisir un cabinet](/cabinets/)
 
@@ -75,13 +75,7 @@ Les premiers jours, gardez votre animal au calme. Appelez le cabinet s'il ne man
 
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Journée d'hospitalisation | box, soins de base, repas, examens cliniques de la journée | 95 à 140 CHF selon la taille |
-| Hospitalisation de jour | quelques heures de surveillance, retour le soir | 60 CHF |
-| Perfusion | cathéter, poche de perfusion, réglage du débit, par jour | 65 CHF |
-
-Les médicaments, les analyses, l'imagerie et les opérations s'ajoutent à ces prix. Avant l'hospitalisation, le vétérinaire vous remet un devis. Il le met à jour si le séjour se prolonge et vous en parle au téléphone. Une admission en urgence le soir, le dimanche ou un jour férié s'accompagne du supplément d'urgence du cabinet. La page [Tarifs](/tarifs/) donne les prix par cabinet.
+Le prix d'une hospitalisation dépend du nombre de jours, de la taille de l'animal et des soins reçus. Le vétérinaire vous remet un devis à l'admission et vous tient au courant s'il change. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 
@@ -99,7 +93,7 @@ Un chat stressé peut bouder un ou deux repas. Au-delà, l'équipe le nourrit à
 
 ### Peut-on hospitaliser un animal à la maison ?
 
-Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. Le cabinet de Domdidier propose des [soins à domicile](/services/soins-a-domicile/). Une perfusion par la veine ou une surveillance rapprochée demandent le cabinet.
+Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. Le cabinet de Domdidier propose des [visites à domicile](/services/visites-a-domicile/). Une perfusion par la veine ou une surveillance rapprochée demandent le cabinet.
 
 ### Que se passe-t-il si l'état de mon animal s'aggrave ?
 

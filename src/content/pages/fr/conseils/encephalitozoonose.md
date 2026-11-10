@@ -45,7 +45,7 @@ Prenez un rendez-vous rapide si l'œil de votre lapin blanchit, si son iris chan
 
 ## Le diagnostic
 
-Le vétérinaire s'appuie sur les signes et sur une prise de sang qui mesure les anticorps contre le parasite. D'autres maladies donnent les mêmes signes : une otite profonde peut ainsi faire pencher la tête. Pour les écarter, d'autres examens peuvent être utiles : radiographie, échographie, scanner ou analyses de sang complémentaires. La page [Analyses et diagnostic](/services/analyses-diagnostic/) décrit ce que nous faisons sur place.
+Le vétérinaire s'appuie sur les signes et sur une prise de sang qui mesure les anticorps contre le parasite. D'autres maladies donnent les mêmes signes : une otite profonde peut ainsi faire pencher la tête. Pour les écarter, d'autres examens peuvent être utiles : radiographie, échographie, scanner ou analyses de sang complémentaires. La page [Analyse sanguine](/services/analyses-sanguines/) décrit ce que nous faisons sur place.
 
 ## Le traitement
 
@@ -69,6 +69,6 @@ C'est possible, surtout chez une personne dont les défenses immunitaires sont a
 
 ## Faire suivre votre lapin
 
-Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cabinets reçoivent les lapins en consultation ; la page [Médecine des NAC](/services/nac/) présente ce que nous leur proposons. Le cabinet Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cabinets reçoivent les lapins en consultation ; la page [Médecine avancée des NAC](/services/nac/) présente ce que nous leur proposons. Le cabinet Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Prendre rendez-vous dans un cabinet](/cabinets/)

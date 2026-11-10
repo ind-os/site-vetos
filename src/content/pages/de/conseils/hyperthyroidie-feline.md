@@ -37,7 +37,7 @@ Rufen Sie noch am selben Tag eine Praxis an, wenn Ihre Katze mit offenem Maul at
 
 Die Tierärztin oder der Tierarzt wiegt Ihre Katze, untersucht sie und tastet ihren Hals ab, wo sich eine vergrösserte Schilddrüse manchmal fühlen lässt. Danach folgt ein Bluttest, der Thyroxin oder T4 misst, das wichtigste Hormon der Schilddrüse. Diese Messung ist die Referenzuntersuchung.
 
-Es kommt vor, dass der T4-Wert bei einer kranken Katze normal ausfällt. Dann wird der Bluttest einige Wochen später wiederholt. Manchmal sind weitere, aufwendigere Hormonmessungen nötig. Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) beschreibt, was unsere Labors messen.
+Es kommt vor, dass der T4-Wert bei einer kranken Katze normal ausfällt. Dann wird der Bluttest einige Wochen später wiederholt. Manchmal sind weitere, aufwendigere Hormonmessungen nötig. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) beschreibt, was unsere Labors messen.
 
 Ist die Diagnose gestellt, bleibt die Suche nach Komplikationen. Die häufigste ist der Bluthochdruck, ein zu hoher Druck in den Arterien. Dann folgt die hypertrophe Kardiomyopathie, eine Verdickung des Herzmuskels. Die Blutdruckmessung und der [Herzultraschall](/de/leistungen/ultraschall/) machen sie sichtbar.
 
@@ -74,6 +74,6 @@ Das Medikament und die jodarme Ernährung wirken, solange man sie gibt. Radioakt
 
 ## Zur Konsultation in eine Praxis Vetmint
 
-Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu untersuchen, das Blut abzunehmen und die möglichen Behandlungen zu besprechen. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten.
+Eine Konsultation dauert bei Vetmint 30 Minuten. Diese Zeit genügt, um Ihre Katze zu untersuchen, das Blut abzunehmen und die möglichen Behandlungen zu besprechen. Die Seite [Prävention und Gesundheitscheck](/de/leistungen/praevention/) nennt die Einzelheiten.
 
 [Eine Praxis Vetmint finden](/de/praxen/)

@@ -27,15 +27,15 @@ Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 
 
 ## Les soins sur place
 
-- La [consultation de 30 minutes](/payerne/services/consultation/) sert au bilan annuel, à un animal malade ou à un deuxième avis.
-- Les vaccins du [chien](/payerne/services/vaccination-chien/) et du [chat](/payerne/services/vaccination-chat/) se font avec le bilan annuel ; le lapin reçoit le sien contre la maladie hémorragique virale.
-- La [stérilisation et la castration](/payerne/services/sterilisation-castration/) concernent les chiens, les chats, les lapins et les petits rongeurs, du cochon d'Inde au hamster.
+- La [consultation de 30 minutes](/payerne/services/prevention/) sert au bilan annuel, à un animal malade ou à un deuxième avis.
+- Les vaccins du [chien](/payerne/services/prevention/) et du [chat](/payerne/services/prevention/) se font avec le bilan annuel ; le lapin reçoit le sien contre la maladie hémorragique virale.
+- La [stérilisation et la castration](/payerne/services/chirurgie/) concernent les chiens, les chats, les lapins et les petits rongeurs, du cochon d'Inde au hamster.
 - La [chirurgie](/payerne/services/chirurgie/) traite une plaie, une grosseur à retirer, un corps étranger avalé ou une césarienne.
-- Les [soins dentaires](/payerne/services/soins-dentaires/) commencent par une radiographie des dents, puis le détartrage aux ultrasons et le polissage.
-- Le laboratoire du cabinet fait les [analyses](/payerne/services/analyses-diagnostic/) de sang, d'urine, de selles et de peau.
+- Les [soins dentaires](/payerne/services/dentisterie/) commencent par une radiographie des dents, puis le détartrage aux ultrasons et le polissage.
+- Le laboratoire du cabinet fait les [analyses](/payerne/services/analyses-sanguines/) de sang, d'urine, de selles et de peau.
 - La [radiographie numérique](/payerne/services/radiographie/) comprend les clichés officiels des hanches et des coudes pour le dépistage de la dysplasie.
 - L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats, lapins et rongeurs dans des cages adaptées à la durée du séjour.
-- Un vétérinaire se déplace pour les [soins à domicile](/services/soins-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
+- Un vétérinaire se déplace pour les [visites à domicile](/services/visites-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
 
 Les [NAC](/services/nac/) (lapins, cochons d'Inde, rats, chinchillas, gerbilles, dègues) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué au cabinet.
 

@@ -86,22 +86,18 @@ Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. 
 
 | Service | Leistung |
 |---|---|
-| `consultation` | `konsultation` |
-| `vaccination-chien` | `impfung-hund` |
-| `vaccination-chat` | `impfung-katze` |
-| `sterilisation-castration` | `kastration-sterilisation` |
+| `prevention` | `praevention` |
 | `chirurgie` | `chirurgie` |
-| `soins-dentaires` | `zahnbehandlung` |
-| `analyses-diagnostic` | `labor-diagnostik` |
+| `chirurgie-orthopedique` | `orthopaedische-chirurgie` |
+| `dentisterie` | `zahnmedizin` |
 | `radiographie` | `roentgen` |
 | `echographie` | `ultraschall` |
+| `endoscopie` | `endoskopie` |
 | `hospitalisation` | `stationaere-betreuung` |
+| `analyses-sanguines` | `blutanalysen` |
 | `laser` | `lasertherapie` |
-| `puce-electronique` | `mikrochip` |
 | `nac` | `heimtiere` |
-| `gestion-de-la-douleur` | `schmerztherapie` |
-| `soins-a-domicile` | `hausbesuche` |
-| `conseils-aux-eleveurs` | `zuechterberatung` |
+| `visites-a-domicile` | `hausbesuche` |
 
 ### Conseils santé
 

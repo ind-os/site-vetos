@@ -64,10 +64,10 @@ Die erste Massnahme ist, die Risikofaktoren zu beseitigen. Verkürzen Sie die be
 
 Implantate oder Hormonspritzen werden manchmal in regelmässigen Abständen erneuert. Ihr Rhythmus ist von Art zu Art sehr verschieden.
 
-In gewissen Fällen wird eine chirurgische [Sterilisation](/de/leistungen/kastration-sterilisation/) nötig. Das ist bei den meisten Vögeln eine schwere und riskante Operation. Sie bleibt dennoch die richtige Wahl bei einem Tumor der Geschlechtsorgane oder bei einer Art, die auf die anderen Behandlungen nicht anspricht.
+In gewissen Fällen wird eine chirurgische [Sterilisation](/de/leistungen/chirurgie/) nötig. Das ist bei den meisten Vögeln eine schwere und riskante Operation. Sie bleibt dennoch die richtige Wahl bei einem Tumor der Geschlechtsorgane oder bei einer Art, die auf die anderen Behandlungen nicht anspricht.
 
 ## Ihren Vogel behandeln lassen
 
-Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Ziervögel und Hofgeflügel. Sie bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Papageien haben dort ausserdem eine erste Konsultation, die ihren Haltungsbedingungen gewidmet ist. Bei einem festsitzenden Ei rufen Sie sie an unter [026 466 84 84](tel:+41264668484). Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) stellt unsere Behandlungen für Vögel, Kaninchen und Nager vor.
+Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Ziervögel und Hofgeflügel. Sie bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Papageien haben dort ausserdem eine erste Konsultation, die ihren Haltungsbedingungen gewidmet ist. Bei einem festsitzenden Ei rufen Sie sie an unter [026 466 84 84](tel:+41264668484). Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt unsere Behandlungen für Vögel, Kaninchen und Nager vor.
 
 [Die Praxen Vetmint](/de/praxen/)

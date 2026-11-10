@@ -89,6 +89,6 @@ Un chat âgé qui maigrit sans régime n'est pas dans ce cas : il peut souffrir
 
 ## Consulter dans un cabinet Vetmint
 
-Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour peser votre chat, noter son index de graisse corporelle et établir sa ration. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail. Les contrôles de poids suivent ensuite au rythme convenu avec le vétérinaire.
+Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour peser votre chat, noter son index de graisse corporelle et établir sa ration. La page [Prévention et bilan de santé](/services/prevention/) en donne le détail. Les contrôles de poids suivent ensuite au rythme convenu avec le vétérinaire.
 
 [Trouver un cabinet Vetmint](/cabinets/)

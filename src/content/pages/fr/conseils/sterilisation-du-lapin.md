@@ -100,6 +100,6 @@ Elle réduit un peu les besoins en énergie. Une ration riche en foin et pauvre 
 
 ## Pour aller plus loin
 
-La stérilisation et la castration des autres espèces : [stérilisation et castration](/services/sterilisation-castration/). Les soins aux lapins dans nos cabinets : [médecine des NAC](/services/nac/), avec la [spécialité NAC de Fribourg Ouest](/fribourg/services/nac/). Tout sur la vie du lapin : [la fiche du lapin](/conseils/le-lapin/).
+La stérilisation et la castration des autres espèces : [stérilisation et castration](/services/chirurgie/). Les soins aux lapins dans nos cabinets : [médecine des NAC](/services/nac/), avec la [spécialité NAC de Fribourg Ouest](/fribourg/services/nac/). Tout sur la vie du lapin : [la fiche du lapin](/conseils/le-lapin/).
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)

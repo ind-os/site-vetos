@@ -1,12 +1,12 @@
 ---
 type: service-clinique
 clinique: payerne
-url: /de/payerne/leistungen/labor-diagnostik/
+url: /de/payerne/leistungen/blutanalysen/
 title: "Blutuntersuchung bei Hund und Katze in Payerne | Vetmint"
 description: "Blutuntersuchung bei Hund und Katze in Payerne: Labor vor Ort, Resultat in etwa einer halben Stunde, Urin, Kot, Haut, Zytologie. Preise und Vorbereitung."
-h1: Analysen und Diagnostik in Payerne
+h1: Blutanalyse in Payerne
 recherche: Blutuntersuchung Hund Payerne
-redige_le: 2026-11-03
+redige_le: 2026-11-10
 resume: Das Labor der Praxis liest die meisten Blutuntersuchungen noch während der Konsultation.
 ---
 
@@ -75,4 +75,4 @@ Nicht immer. Ein Wert kann nach Stress oder einer Mahlzeit steigen. Die Tierärz
 
 Der Vetmint-Ratgeber zu den Analysen erklärt, wonach jede Untersuchung sucht und in welchem Alter sich ein Check lohnt.
 
-[Alles über die Analysen](/de/leistungen/labor-diagnostik/)
+[Alles über die Analysen](/de/leistungen/blutanalysen/)

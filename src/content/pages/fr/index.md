@@ -48,36 +48,28 @@ Les salles de consultation sont séparées les unes des autres. Plusieurs cabine
 
 ## Nos services
 
-### Consultations et prévention
+Chaque soin a sa page : ce qu'il soigne, comment il se passe et quels cabinets le pratiquent. La chirurgie orthopédique et l'endoscopie se font au cabinet de Fribourg Ouest, à Givisiez ; les autres cabinets y adressent leurs patients.
 
-- [La consultation et le bilan de santé](/services/consultation/)
-- [La vaccination du chien](/services/vaccination-chien/)
-- [La vaccination du chat](/services/vaccination-chat/)
-- [La pose et la lecture de la puce électronique](/services/puce-electronique/)
+### Prévention et chirurgie
 
-### Opérations
-
-- [La stérilisation et la castration](/services/sterilisation-castration/)
-- [La chirurgie des tissus mous](/services/chirurgie/)
-- [Les soins dentaires et le détartrage](/services/soins-dentaires/)
+- [La prévention : bilan de santé, vaccins et puce](/services/prevention/)
+- [La chirurgie : stérilisation, castration et tissus mous](/services/chirurgie/)
+- [La chirurgie orthopédique](/services/chirurgie-orthopedique/)
+- [La dentisterie et le détartrage](/services/dentisterie/)
 
 ### Examens
 
-- [Les analyses et le diagnostic](/services/analyses-diagnostic/)
 - [La radiographie](/services/radiographie/)
 - [L'échographie](/services/echographie/)
+- [L'endoscopie](/services/endoscopie/)
+- [L'analyse sanguine](/services/analyses-sanguines/)
 
 ### Soins et suivi
 
 - [L'hospitalisation](/services/hospitalisation/)
-- [La gestion de la douleur](/services/gestion-de-la-douleur/)
 - [La thérapie laser](/services/laser/)
-- [Les soins à domicile](/services/soins-a-domicile/)
-
-### Pour d'autres besoins
-
-- [Les nouveaux animaux de compagnie (NAC)](/services/nac/) : lapins, rongeurs, oiseaux et reptiles
-- [Les conseils aux éleveurs](/services/conseils-aux-eleveurs/)
+- [La médecine avancée des NAC](/services/nac/) : lapins, rongeurs, oiseaux et reptiles
+- [Les visites à domicile](/services/visites-a-domicile/)
 - [Les urgences](/urgences/)
 
 [Tous les services](/services/)

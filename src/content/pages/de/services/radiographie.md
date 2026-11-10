@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/roentgen/
-title: "Röntgen bei Hund und Katze: Sedation, Preise | Vetmint"
-description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmint-Praxen: Lunge, Bauch, Knochen, Zähne, Dysplasie. Erklärung vor Ort und alle Preise."
+title: "Röntgen bei Hund und Katze: Sedation, Ablauf | Vetmint"
+description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmint-Praxen: Lunge, Bauch, Knochen, Zähne, Dysplasie. Das Bild wird vor Ort erklärt."
 h1: Röntgen bei Hund und Katze
 nom: Röntgen
 recherche: Röntgen Hund Katze
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 8
-resume: Was ein Röntgenbild zeigt, der Ablauf, die Sedation, die Dysplasie-Untersuchung und die Preise.
+ordre: 5
+resume: Was ein Röntgenbild zeigt, der Ablauf, die Sedation und die Dysplasie-Untersuchung.
 ---
 
-Das Röntgen beim Hund und bei der Katze zeigt Knochen, Lunge, Herz und Bauchorgane in wenigen Minuten. Die acht Praxen von Vetmint röntgen digital: Das Bild erscheint auf dem Bildschirm, während Ihr Tier noch auf dem Tisch liegt. Die Tierärztin oder der Tierarzt erklärt es Ihnen sofort. Ein Röntgen mit zwei Aufnahmen kostet 150 Franken, Befundung inbegriffen.
+Das Röntgen beim Hund und bei der Katze zeigt Knochen, Lunge, Herz und Bauchorgane in wenigen Minuten. Die acht Praxen von Vetmint röntgen digital: Das Bild erscheint auf dem Bildschirm, während Ihr Tier noch auf dem Tisch liegt. Die Tierärztin oder der Tierarzt erklärt es Ihnen sofort.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -75,16 +75,7 @@ Die Bilder bleiben in der Akte Ihres Tieres. Sie dienen bei der nächsten Kontro
 
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Röntgen, zwei Aufnahmen | Aufnahmen, Befundung und Erklärung durch die Tierärztin oder den Tierarzt | CHF 150.– |
-| Zusätzliche Aufnahme | andere Körperregion oder andere Position | CHF 45.– |
-| Leichte Sedation | Beruhigungsmittel, Überwachung bis zum Erwachen | CHF 60.– bis 120.– je nach Gewicht |
-| Offizielle Untersuchung von Hüften und Ellbogen | Lesen des Chips, Sedation, offizielle Aufnahmen, Versand zur Auswertung | CHF 390.– |
-
-Diese Preise kommen zur Konsultation von 30 Minuten hinzu. Zahnröntgenbilder während einer Zahnsteinentfernung werden zusätzlich zur Pauschale verrechnet, siehe [Zahnbehandlung](/de/leistungen/zahnbehandlung/). Die Seite [Preise](/de/preise/) nennt die Preise pro Praxis.
-
-Die Senior-[Abonnemente](/de/abonnemente/) für Hunde und Katzen ab 7 Jahren enthalten ein Paket mit fünf Röntgenbildern pro Jahr. Sie kosten 129 Franken pro Monat für einen Hund und 124 Franken für eine Katze.
+Der Preis eines Röntgenbilds hängt von der Anzahl Aufnahmen und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor den Aufnahmen. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 

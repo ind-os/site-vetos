@@ -1,18 +1,18 @@
 ---
 type: service
 url: /services/chirurgie/
-title: "Chirurgie vétérinaire du chien et du chat | Vetmint"
-description: "Chirurgie vétérinaire chez Vetmint : grosseur, plaie, corps étranger avalé, césarienne. Examens avant, anesthésie surveillée, devis, suivi du chien et du chat."
-h1: "Chirurgie des tissus mous : grosseurs, plaies, corps étrangers"
+title: "Chirurgie du chien et du chat, stérilisation | Vetmint"
+description: "Chirurgie chez Vetmint : stérilisation, castration, grosseur, plaie, objet avalé, césarienne. Examens avant, anesthésie surveillée, suivi après l'opération."
+h1: "Chirurgie : stérilisation, castration et tissus mous"
 nom: Chirurgie
 recherche: chirurgie vétérinaire
-redige_le: 2026-10-16
-ordre: 5
+redige_le: 2026-11-10
+ordre: 2
 especes: [chien, chat, nac]
-resume: Les opérations de la peau, du ventre et des organes, de la grosseur à retirer au corps étranger avalé.
+resume: La stérilisation, la castration et les opérations de la peau, du ventre et des organes.
 ---
 
-En chirurgie vétérinaire, les tissus mous désignent la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes retirent une grosseur, referment une plaie, enlèvent un objet avalé ou font naître des petits par césarienne. Les huit cabinets Vetmint pratiquent ces opérations sur les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu. Le prix se fixe sur devis, après une consultation de 30 minutes facturée de 54 à 59 francs selon le cabinet.
+La chirurgie vétérinaire des tissus mous opère la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes sont la stérilisation et la castration. Viennent ensuite le retrait d'une grosseur, la fermeture d'une plaie, le retrait d'un objet avalé et la césarienne. Les huit cabinets Vetmint opèrent les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu.
 
 [Choisir un cabinet pour une consultation](/cabinets/)
 
@@ -22,128 +22,128 @@ Une partie des opérations se programme, l'autre ne peut pas attendre.
 
 | Situation | Exemples | Délai |
 |---|---|---|
+| Stérilisation ou castration | chatte, chat, chienne, chien, lapin, rongeurs | programmée |
 | Grosseur sous la peau ou sur une mamelle | boule qui grandit, change d'aspect ou gêne l'animal | programmée, après analyse |
-| Plaie | morsure, coupure par du verre ou du fil de fer, déchirure | le jour même |
-| Objet avalé | chaussette, jouet, noyau, os, fil ou ficelle | urgence si l'animal vomit à répétition |
-| Mise bas bloquée | chienne ou chatte qui pousse sans faire naître de petit | urgence : césarienne |
+| Plaie | morsure, coupure par du verre ou du fil de fer | le jour même |
+| Objet avalé | chaussette, jouet, noyau, fil ou ficelle | urgence si l'animal vomit à répétition |
+| Mise bas bloquée | chienne ou chatte qui pousse sans faire naître de petit | urgence, césarienne |
 | Pyomètre (infection de l'utérus) | chienne ou chatte non stérilisée, abattue, qui boit beaucoup | urgence |
-| Opération du lapin et des rongeurs | abcès, otite grave du lapin, grosseur | selon le cas |
 
-La stérilisation et la castration ont leur propre page : [Stérilisation et castration](/services/sterilisation-castration/). Les soins des dents sont décrits sur la page [Soins dentaires](/services/soins-dentaires/).
+Les opérations des os et des articulations ont leur page : [Chirurgie orthopédique](/services/chirurgie-orthopedique/). Les soins des dents sont décrits sur la page [Dentisterie](/services/dentisterie/).
 
-## Pourquoi opérer
+## La stérilisation et la castration
 
-**Une grosseur** ne dit pas d'elle-même si elle est bénigne ou cancéreuse. Le vétérinaire commence souvent par une cytologie : il prélève quelques cellules avec une fine aiguille et les regarde au microscope. Si l'opération se décide, la grosseur retirée part au laboratoire, qui dit sa nature et si elle a été enlevée en entier. Plus elle est petite, plus l'opération est simple et la cicatrice courte.
+La stérilisation retire les ovaires d'une femelle, la castration retire les testicules d'un mâle. L'animal rentre à la maison le jour même.
 
-**Une plaie** qui reste ouverte s'infecte, surtout une morsure : les dents enfoncent les bactéries sous la peau, loin de ce que l'on voit. Le vétérinaire nettoie, retire les tissus abîmés et referme, parfois avec un drain (un petit tuyau qui laisse sortir le liquide).
+| Animal | Âge habituel | À savoir |
+|---|---|---|
+| Chatte | dès 5 mois, avant les premières chaleurs | une chatte peut être gestante dès 5 mois |
+| Chat | dès 5 à 6 mois | avant qu'il ne marque son territoire avec son urine |
+| Chienne | vers 6 mois, ou trois mois après des chaleurs | jamais pendant les chaleurs |
+| Chien | de 6 à 12 mois, plus tard pour une grande race | la croissance des grandes races se termine plus tard |
+| Lapine et lapin | dès 4 mois | les lapins se reproduisent dès cet âge |
 
-**Un objet avalé** peut bloquer l'estomac ou l'intestin. Sans opération, l'intestin peut se percer, ce qui provoque une infection grave du ventre. Les fils et les ficelles sont les plus dangereux : ils plissent l'intestin comme un accordéon.
+**Chez la chatte**, l'opération supprime les chaleurs, qui reviennent toutes les deux à trois semaines au printemps. Elle évite le pyomètre et réduit le risque de tumeurs des mamelles.
 
-**Le pyomètre** est une infection de l'utérus, qui se remplit de pus. Elle touche surtout la chienne âgée non stérilisée. Sans opération rapide, l'infection passe dans le sang.
+**Chez le chat**, la castration réduit le marquage à l'urine, les fugues et les bagarres. Moins de bagarres, c'est moins d'abcès et moins de FIV, le virus de l'immunodéficience du chat transmis par morsure.
+
+**Chez la chienne**, faite avant les deuxièmes chaleurs, elle réduit beaucoup le risque de tumeurs des mamelles. Elle supprime aussi les grossesses nerveuses.
+
+**Chez le chien**, elle évite les maladies de la prostate du chien âgé. Elle ne corrige pas un défaut d'éducation.
+
+**Chez le lapin**, elle limite l'agressivité et le marquage, ce qui facilite la vie en couple. Elle prévient les tumeurs de l'utérus, fréquentes chez la lapine âgée.
+
+L'opération ne change pas le caractère de l'animal. Elle diminue ses besoins en énergie : sans ajustement de la ration, la plupart des animaux prennent du poids dans l'année qui suit.
+
+## Les autres opérations
+
+**Une grosseur** ne dit pas d'elle-même si elle est bénigne ou cancéreuse. Le vétérinaire commence souvent par une cytologie : il prélève quelques cellules avec une fine aiguille et les regarde au microscope. Si l'opération se décide, la grosseur retirée part au laboratoire, qui dit sa nature et si elle a été enlevée en entier.
+
+**Une plaie** qui reste ouverte s'infecte, surtout une morsure : les dents enfoncent les bactéries sous la peau. Le vétérinaire nettoie, retire les tissus abîmés et referme, parfois avec un drain (un petit tuyau qui laisse sortir le liquide).
+
+**Un objet avalé** peut bloquer l'estomac ou l'intestin, qui risque alors de se percer. Les fils et les ficelles sont les plus dangereux : ils plissent l'intestin comme un accordéon.
+
+**Le pyomètre** remplit l'utérus de pus. Il touche surtout la chienne âgée non stérilisée. Sans opération rapide, l'infection passe dans le sang.
 
 ## Le déroulement
 
 ### La consultation et les examens avant
 
-Le vétérinaire examine l'animal, cherche la cause et décide si une opération est utile. Il peut demander :
-
-- une prise de sang avant l'anesthésie, qui vérifie le foie, les reins et le nombre de globules ;
-- une radiographie ou une échographie, pour voir un objet avalé ou vérifier qu'une grosseur ne s'est pas étendue ;
-- une cytologie de la grosseur.
-
-Vous recevez ensuite un devis écrit, qui détaille l'anesthésie, l'opération, l'hospitalisation éventuelle, les analyses et les médicaments. La date se fixe avec le cabinet. Pour une urgence, ces étapes se font le jour même, en quelques heures.
+Le vétérinaire examine l'animal et décide si une opération est utile. Il peut demander une [prise de sang](/services/analyses-sanguines/) avant l'anesthésie, qui vérifie le foie, les reins et le nombre de globules. Une radiographie ou une échographie montre un objet avalé ou l'étendue d'une grosseur. Vous recevez ensuite un devis écrit. Pour une urgence, ces étapes se font le jour même.
 
 ### Le jour de l'opération
 
 L'animal arrive le matin. Le vétérinaire pose un cathéter (un petit tuyau dans une veine), qui sert à la perfusion et aux médicaments. Après un calmant, l'animal s'endort ; un tube placé dans sa trachée lui apporte le gaz anesthésique et l'oxygène.
 
-Pendant toute l'opération, une personne de l'équipe surveille le cœur, la respiration, l'oxygène du sang et la température. Le traitement de la douleur commence avant l'incision et continue après le réveil. Le vétérinaire y ajoute souvent une anesthésie locale de la zone opérée.
+Pendant toute l'opération, une personne de l'équipe surveille le cœur, la respiration, l'oxygène du sang et la température. Le traitement de la douleur commence avant l'incision et continue après le réveil. La castration d'un chat dure quelques minutes. La stérilisation d'une chienne dure en général une heure ou plus selon sa taille.
 
-### Après l'opération
+### Le réveil
 
-L'animal se réveille sous surveillance, au chaud. Selon l'opération, il rentre le soir même ou reste hospitalisé quelques jours, sous perfusion et avec des médicaments contre la douleur.
+L'animal se réveille sous surveillance, au chaud. Le cabinet vous appelle pour dire comment s'est passé le réveil. Après une stérilisation, vous reprenez l'animal en fin de journée. Après une opération de l'intestin, il reste souvent deux à quatre jours en [hospitalisation](/services/hospitalisation/).
 
-Une grosseur retirée part au laboratoire. Le résultat arrive en général en une à deux semaines ; le vétérinaire vous appelle pour l'expliquer et dire s'il faut un traitement de plus.
-
-### La laparoscopie
-
-Au cabinet du Lac-de-Joux, certaines opérations du ventre se font par laparoscopie : par de petites incisions, avec une caméra. La cicatrice est plus courte et la douleur plus faible. Le vétérinaire dit pendant la consultation si cette technique convient à l'opération prévue.
+Au cabinet du Lac-de-Joux, certaines opérations du ventre se font par laparoscopie : par de petites incisions, avec une caméra. La cicatrice est plus courte et la douleur plus faible.
 
 ## La préparation
 
-- Un chien ou un chat reste à jeun depuis le repas du soir de la veille. L'eau reste disponible jusqu'au matin, sauf consigne contraire du cabinet.
-- Un lapin ou un rongeur n'est jamais mis à jeun : il mange et boit jusqu'au moment de l'anesthésie.
+- Un chien ou un chat reste à jeun depuis le repas du soir de la veille. L'eau reste disponible jusqu'au matin, sauf consigne contraire.
+- Un lapin ou un rongeur n'est jamais mis à jeun : il mange et boit jusqu'au moment de l'anesthésie. Apportez du foin et ses légumes pour la journée.
 - Donnez les médicaments habituels seulement si le vétérinaire vous l'a dit.
-- Apportez la liste des traitements en cours et le résultat d'examens faits ailleurs.
-- Retirez le collier à l'arrivée et laissez votre numéro de téléphone joignable toute la journée.
-- Pour une urgence, appelez le cabinet avant de partir : elle prépare la salle d'opération pendant votre trajet.
+- Laissez votre numéro de téléphone joignable toute la journée.
+- Pour une urgence, appelez le cabinet avant de partir : il prépare la salle d'opération pendant votre trajet.
 
 ## Les suites
 
 À la maison, l'animal reçoit les médicaments contre la douleur prescrits par le vétérinaire. Ne lui donnez jamais un médicament pour humains : le paracétamol est mortel pour le chat, l'ibuprofène abîme l'estomac et les reins du chien.
 
-Pendant la cicatrisation :
+Pendant la cicatrisation, l'animal porte une collerette ou un body pour ne pas lécher la plaie. Le chien sort en laisse, sans sauter ni courir, le temps fixé par le vétérinaire. Un contrôle a lieu deux ou trois jours après l'opération, un second vers le dixième jour pour retirer les fils.
 
-- l'animal porte une collerette ou un body pour ne pas lécher la plaie ;
-- un pansement reste propre et sec ; un pansement mouillé ou qui sent mauvais se change au cabinet ;
-- le chien sort en laisse, sans sauter ni courir, le temps fixé par le vétérinaire.
-
-Un premier contrôle a lieu en général deux ou trois jours après l'opération, un second vers le dixième jour pour retirer les fils.
-
-Appelez le cabinet si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vomit, ne mange plus ou reste abattu, ou s'il a mal malgré les médicaments. Pour un lapin, une journée sans manger est déjà une urgence.
+Appelez le cabinet si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vomit, ne mange plus ou reste abattu. Pour un lapin, une journée sans manger est déjà une urgence.
 
 ## Le prix
 
-Une opération des tissus mous se paie sur devis, parce qu'elle varie d'un animal à l'autre. Le devis additionne les éléments suivants :
-
-| Élément | Repère |
-|---|---|
-| Consultation de 30 minutes | 54 à 59 CHF selon le cabinet |
-| Consultation spécialisée en chirurgie, Fribourg Ouest | 120 CHF |
-| Anesthésie gazeuse avec cathéter, perfusion, surveillance et traitement de la douleur | 155 CHF pour une chatte, 260 CHF pour une chienne, dans les forfaits de stérilisation de Bussigny |
-| Opération, examens, analyses de laboratoire, hospitalisation, médicaments | selon le devis |
-| Supplément d'urgence pendant les heures d'ouverture | 40 à 99 CHF selon le cabinet |
-| Supplément d'urgence la nuit, le dimanche et les jours fériés | 85 à 176 CHF selon le cabinet |
-
-Les abonnements de Bussigny et de Saint-Légier donnent une réduction de 5 à 20 % sur tous les actes, opérations comprises, selon la formule. Le plan de prévention du chiot ou du chaton donne 5 % de réduction sur les actes. Les prix publiés sont sur la page [Tarifs](/tarifs/).
+Une opération varie d'un animal à l'autre et les prix diffèrent d'un cabinet à l'autre. Le vétérinaire vous remet un devis écrit avant l'opération. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 
 ### Mon chien a une boule sous la peau. Faut-il l'enlever ?
 
-Pas toujours. Beaucoup de boules du chien âgé sont des amas de graisse sans danger. Seul l'examen au microscope le dit : montrez au vétérinaire chaque boule qui apparaît. Revenez si elle grandit.
+Pas toujours. Beaucoup de boules du chien âgé sont des amas de graisse sans danger. Seul l'examen au microscope le dit : montrez au vétérinaire chaque boule qui apparaît.
 
 ### Mon animal est âgé. L'anesthésie est-elle trop risquée ?
 
-L'âge n'est pas une maladie. Le risque dépend surtout du cœur, des reins et du foie, que la prise de sang et l'examen évaluent avant. Le vétérinaire adapte les produits et la surveillance, ou propose un autre traitement si le risque dépasse le bénéfice.
+L'âge n'est pas une maladie. Le risque dépend surtout du cœur, des reins et du foie, que la prise de sang et l'examen évaluent avant. Le vétérinaire adapte les produits et la surveillance.
 
-### Combien de temps reste-t-il hospitalisé ?
+### Ma chatte est en chaleur. Peut-on l'opérer quand même ?
 
-Après le retrait d'une petite grosseur, l'animal rentre en général le soir même. Après une opération de l'intestin ou un pyomètre, il reste souvent deux à quatre jours, le temps qu'il remange et que la douleur se contrôle par la bouche.
+Chez la chatte, c'est souvent possible. Chez la chienne, le vétérinaire attend en général trois mois après les chaleurs, parce que l'utérus saigne davantage.
 
-### Puis-je lui rendre visite ?
+### Mon chat va-t-il grossir après la castration ?
 
-Oui, en accord avec le cabinet. À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires d'animaux hospitalisés.
+Ses besoins en énergie baissent. Réduisez un peu sa ration ou passez à un aliment pour chat stérilisé, puis pesez-le chaque mois.
 
 ### Mon chat a avalé un fil. Que faire ?
 
 Ne tirez jamais sur un fil qui dépasse de la bouche ou de l'anus : vous pourriez déchirer l'intestin. Appelez le cabinet tout de suite. En dehors des heures d'ouverture, la page [Urgences](/urgences/) dit qui appeler.
 
+### Puis-je rendre visite à mon animal hospitalisé ?
+
+Oui, en accord avec le cabinet. À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires.
+
 ## Les cabinets qui opèrent
 
-Les huit cabinets pratiquent la chirurgie des tissus mous, la césarienne et le retrait de corps étrangers, avec une salle d'opération et une hospitalisation sur place.
+Les huit cabinets ont une salle d'opération et une hospitalisation sur place.
 
-- [Bussigny](/bussigny/services/) : chirurgie des tissus mous, avec le laser pour la cicatrisation après l'opération. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : chirurgie des tissus mous, opérations des lapins et de nombreux rongeurs. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : un anesthésiste externe vient au cabinet pour les opérations importantes qui demandent une anesthésie complexe. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. Les boxes d'hospitalisation sont séparés par espèce ; un vétérinaire suit les animaux hospitalisés les soirs et les week-ends. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la salle de radiographie. [Rendez-vous à Payerne](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : chirurgie des tissus mous et opérations des rongeurs, du cochon d'Inde au hamster. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : chirurgie des tissus mous, avec l'échographie sur place et le laser pour la cicatrisation. Rendez-vous par téléphone au [021 683 10 10](tel:+41216831010).
+- [Bussigny](/bussigny/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : opérations des lapins et de nombreux rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : un anesthésiste externe vient pour les anesthésies complexes. [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et des boxes d'hospitalisation séparés par espèce. [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la radiographie. [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : opérations des rongeurs, du cochon d'Inde au hamster. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : l'échographie sur place et le laser pour la cicatrisation. [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 
-Pour une opération programmée, réservez une consultation en indiquant le motif. Pour une plaie, un objet avalé ou une mise bas qui ne progresse pas, appelez directement le cabinet le plus proche. Le [bilan sanguin](/conseils/bilan-sanguin/) explique à quoi sert la prise de sang avant l'anesthésie ; la fiche [PECA et PECALBO](/conseils/peca-pecalbo/) décrit l'opération de l'oreille du lapin.
+Pour une opération programmée, réservez une consultation en indiquant le motif. Pour une plaie, un objet avalé ou une mise bas qui ne progresse pas, appelez directement le cabinet le plus proche. La fiche [stérilisation du lapin](/conseils/sterilisation-du-lapin/) détaille l'opération chez le lapin.
 
 [Trouver le cabinet le plus proche](/cabinets/)

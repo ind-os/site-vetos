@@ -17,11 +17,11 @@ Die [Schilddrüsenüberfunktion](/de/ratgeber/schilddruesenueberfunktion-katze/)
 
 ## Die Vorsorge
 
-Der jährliche Gesundheitscheck umfasst eine Konsultation von 30 Minuten und die Auffrischungsimpfung. Die Wohnungskatze ohne Kontakt zu anderen Katzen wird gegen Katzenseuche geimpft (eine virale Magen-Darm-Entzündung, die beim Kätzchen oft tödlich verläuft). Dazu kommt die Impfung gegen Katzenschnupfen (eine Erkältung der Katze, die von zwei Viren verursacht wird). Die Katze mit Freigang oder Pensionsaufenthalt erhält zusätzlich die Impfung gegen die Feline Leukose (FeLV), ein Virus, das über den Speichel übertragen wird und die Abwehrkräfte schwächt. Die Seite [Impfung bei der Katze](/de/leistungen/impfung-katze/) beschreibt den Impfplan des Kätzchens.
+Der jährliche Gesundheitscheck umfasst eine Konsultation von 30 Minuten und die Auffrischungsimpfung. Die Wohnungskatze ohne Kontakt zu anderen Katzen wird gegen Katzenseuche geimpft (eine virale Magen-Darm-Entzündung, die beim Kätzchen oft tödlich verläuft). Dazu kommt die Impfung gegen Katzenschnupfen (eine Erkältung der Katze, die von zwei Viren verursacht wird). Die Katze mit Freigang oder Pensionsaufenthalt erhält zusätzlich die Impfung gegen die Feline Leukose (FeLV), ein Virus, das über den Speichel übertragen wird und die Abwehrkräfte schwächt. Die Seite [Impfung bei der Katze](/de/leistungen/praevention/) beschreibt den Impfplan des Kätzchens.
 
-Der [Mikrochip](/de/leistungen/mikrochip/) identifiziert Ihre Katze in ANIS, dem Schweizer Register der identifizierten Tiere. Die [Zahnsteinentfernung](/de/leistungen/zahnbehandlung/) erfolgt unter Narkose, wenn sich Zahnstein ansammelt.
+Der [Mikrochip](/de/leistungen/praevention/) identifiziert Ihre Katze in ANIS, dem Schweizer Register der identifizierten Tiere. Die [Zahnsteinentfernung](/de/leistungen/zahnmedizin/) erfolgt unter Narkose, wenn sich Zahnstein ansammelt.
 
-Nach der [Kastration](/de/leistungen/kastration-sterilisation/) nimmt eine Katze leichter zu. Ein Futter für kastrierte Katzen und eine abgewogene Ration beugen dem vor. Ab 10 Jahren erkennt eine Blutuntersuchung pro Jahr die Schilddrüsenüberfunktion und Nierenkrankheiten, bevor erste Anzeichen auftreten.
+Nach der [Kastration](/de/leistungen/chirurgie/) nimmt eine Katze leichter zu. Ein Futter für kastrierte Katzen und eine abgewogene Ration beugen dem vor. Ab 10 Jahren erkennt eine Blutuntersuchung pro Jahr die Schilddrüsenüberfunktion und Nierenkrankheiten, bevor erste Anzeichen auftreten.
 
 Der Präventionsplan für Kätzchen deckt das erste Lebensjahr ab, einschliesslich FIV- und FeLV-Test. Das Senior-Abonnement ab 7 Jahren umfasst zusätzlich jedes Jahr eine Blutuntersuchung und eine Blutdruckmessung. Beide Angebote stehen auf der Seite [Abonnemente](/de/abonnemente/).
 

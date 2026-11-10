@@ -17,11 +17,11 @@ Le [diabète](/conseils/diabete-du-chien/) touche surtout le chien de 7 à 9 ans
 
 ## La prévention de chaque année
 
-Le bilan de santé annuel dure 30 minutes. Le vétérinaire examine votre chien et fait le rappel du vaccin de base. Ce vaccin protège contre la maladie de Carré, l'hépatite contagieuse et la parvovirose, trois virus souvent mortels pour le chiot. Il couvre aussi la parainfluenza (une cause de toux) et la leptospirose, que transmet l'urine des rongeurs et qui touche aussi l'humain. Le vaccin contre la rage s'ajoute pour voyager hors de Suisse. La page [Vaccination du chien](/services/vaccination-chien/) donne le calendrier du chiot.
+Le bilan de santé annuel dure 30 minutes. Le vétérinaire examine votre chien et fait le rappel du vaccin de base. Ce vaccin protège contre la maladie de Carré, l'hépatite contagieuse et la parvovirose, trois virus souvent mortels pour le chiot. Il couvre aussi la parainfluenza (une cause de toux) et la leptospirose, que transmet l'urine des rongeurs et qui touche aussi l'humain. Le vaccin contre la rage s'ajoute pour voyager hors de Suisse. La page [Vaccination du chien](/services/prevention/) donne le calendrier du chiot.
 
-Le même rendez-vous fait le point sur les vermifuges et les anti-tiques, selon les sorties de votre chien. Le vétérinaire pose la [puce électronique](/services/puce-electronique/) et inscrit le chien dans AMICUS, le registre suisse des chiens. Le [détartrage](/services/soins-dentaires/) se planifie quand le tartre s'installe.
+Le même rendez-vous fait le point sur les vermifuges et les anti-tiques, selon les sorties de votre chien. Le vétérinaire pose la [puce électronique](/services/prevention/) et inscrit le chien dans AMICUS, le registre suisse des chiens. Le [détartrage](/services/dentisterie/) se planifie quand le tartre s'installe.
 
-La [stérilisation](/services/sterilisation-castration/) de la chienne réduit son risque de diabète. Dès 7 ans, une prise de sang chaque année repère les maladies qui commencent sans bruit.
+La [stérilisation](/services/chirurgie/) de la chienne réduit son risque de diabète. Dès 7 ans, une prise de sang chaque année repère les maladies qui commencent sans bruit.
 
 Le plan de prévention chiot couvre la première année : consultations, vaccins, vermifuges, puce et passeport. Les abonnements prennent le relais à l'âge adulte. Les deux sont décrits sur la page [Abonnements](/abonnements/).
 

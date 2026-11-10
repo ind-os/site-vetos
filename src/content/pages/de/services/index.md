@@ -2,56 +2,52 @@
 type: service-index
 url: /de/leistungen/
 title: "Tierärztliche Leistungen der Vetmint-Praxen"
-description: "Die Leistungen der acht Vetmint-Praxen für Hunde, Katzen und Heimtiere: Vorsorge, Chirurgie, Bildgebung, Spezialbehandlungen, Hausbesuche, Notfälle und Preise."
+description: "Die Leistungen der acht Vetmint-Praxen für Hunde, Katzen und Heimtiere: Prävention, Chirurgie, Zähne, Bildgebung, Labor, Laser, Hausbesuche und Notfälle."
 h1: "Unsere tierärztlichen Leistungen"
 recherche: "tierärztliche Leistungen"
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 ---
 
-Die tierärztlichen Leistungen der acht Vetmint-Praxen richten sich an Hunde, Katzen, Kaninchen, Nager und andere Heimtiere. Jede Behandlung hat ihre Referenzseite: wozu sie dient, wie sie abläuft, was sie kostet und welche Praxen sie anbieten. Am Anfang steht eine Konsultation von 30 Minuten, die je nach Praxis 54 bis 59 Franken kostet.
+Die tierärztlichen Leistungen der acht Vetmint-Praxen richten sich an Hunde, Katzen, Kaninchen, Nager und andere Heimtiere. Jede Behandlung hat ihre Referenzseite: wozu sie dient, wie sie abläuft und welche Praxen sie anbieten. Alles beginnt mit einer Konsultation von 30 Minuten, Zeit genug, um Ihr Tier vollständig zu untersuchen.
 
-## Vorsorge
+## Prävention
 
-Ein Tier, das jedes Jahr untersucht wird, erkrankt seltener. Seine Krankheiten werden früher entdeckt.
+Ein Tier, das jedes Jahr untersucht wird, erkrankt seltener. Seine Krankheiten werden früher erkannt.
 
-- [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/): die vollständige Untersuchung von 30 Minuten, die Grundlage aller anderen Behandlungen.
-- [Impfung beim Hund](/de/leistungen/impfung-hund/): die Impfungen des Welpen und die Auffrischungen des erwachsenen Hundes.
-- [Impfung bei der Katze](/de/leistungen/impfung-katze/): die Impfungen, je nachdem, ob die Katze Freigang hat oder drinnen bleibt.
-- [Mikrochip](/de/leistungen/mikrochip/): das Setzen, das Auslesen und die Eintragung in die Schweizer Register.
+- [Prävention](/de/leistungen/praevention/): der Gesundheitscheck, die Impfungen von Hund und Katze, der Mikrochip und die Begleitung von Würfen.
 
 ## Chirurgie
 
-Operationen erfolgen unter überwachter Gasnarkose, die Schmerzbehandlung ist im Pauschalpreis inbegriffen.
+Die Operationen erfolgen in überwachter Gasnarkose, mit Schmerzbehandlung.
 
-- [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/): Hündinnen, Kätzinnen, Kaninchenweibchen und männliche Tiere, zum Pauschalpreis.
-- [Weichteilchirurgie](/de/leistungen/chirurgie/): Knoten, Wunden, verschluckte Fremdkörper, Kaiserschnitte.
-- [Zahnbehandlung](/de/leistungen/zahnbehandlung/): Zahnsteinentfernung, Zahnröntgen und Zahnentfernungen.
-- [Stationäre Betreuung](/de/leistungen/stationaere-betreuung/): die Überwachung eines operierten oder kranken Tieres.
+- [Chirurgie](/de/leistungen/chirurgie/): Kastration, Sterilisation, Knoten, Wunden, verschluckte Gegenstände und Kaiserschnitte.
+- [Orthopädische Chirurgie](/de/leistungen/orthopaedische-chirurgie/): Knochenbrüche, Kreuzband, Kniescheibe und Hüfte, in Fribourg Ouest.
+- [Zahnmedizin](/de/leistungen/zahnmedizin/): Zahnsteinentfernung, Zahnröntgen und Extraktionen.
 
-## Diagnostik und Bildgebung
+## Bildgebung
 
-Die meisten Ergebnisse liegen während der Konsultation oder im Lauf des Tages vor.
+Die Bilder erscheinen während der Untersuchung und werden Ihnen sofort erklärt.
 
-- [Labor und Diagnostik](/de/leistungen/labor-diagnostik/): Blutuntersuchungen im Labor der Praxis, Urin, Kot, Biopsien.
-- [Röntgen](/de/leistungen/roentgen/): Knochen, Lunge, Bauch und die offizielle Dysplasie-Untersuchung.
+- [Röntgen](/de/leistungen/roentgen/): Knochen, Lunge, Bauch und offizielle Dysplasie-Untersuchung.
 - [Ultraschall](/de/leistungen/ultraschall/): Bauch, Herz und Trächtigkeit.
+- [Endoskopie](/de/leistungen/endoskopie/): eine feine Kamera in Magen, Darm oder Nase, in Fribourg Ouest.
 
-## Spezialbehandlungen
+## Betreuung, Labor und spezialisierte Medizin
 
-Einige dieser Behandlungen gibt es nur in wenigen Praxen. Jede Seite sagt, in welchen.
+Manche dieser Behandlungen gibt es nur in einigen Praxen. Jede Seite sagt, in welchen.
 
-- [Heimtiermedizin](/de/leistungen/heimtiere/): Kaninchen, Nager, Frettchen, Vögel und Reptilien.
-- [Schmerztherapie](/de/leistungen/schmerztherapie/): nach einer Operation wie bei Arthrose.
-- [Lasertherapie](/de/leistungen/lasertherapie/): Wundheilung, Arthrose, Zahnfleisch und Ohren.
-- [Züchterberatung](/de/leistungen/zuechterberatung/): vom Deckakt bis zur Abgabe der Welpen und Kätzchen.
+- [Stationäre Betreuung](/de/leistungen/stationaere-betreuung/): die Überwachung eines operierten oder kranken Tieres, Tag und Nacht.
+- [Blutanalyse](/de/leistungen/blutanalysen/): Blutentnahmen im Labor der Praxis, Urin, Kot, Biopsien.
+- [Lasertherapie](/de/leistungen/lasertherapie/): Wundheilung, Arthrose, Schmerzen, Zahnfleisch und Ohren.
+- [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/): Kaninchen, Nager, Frettchen, Vögel und Reptilien.
 
 ## Zu Hause und im Notfall
 
-- [Hausbesuche](/de/leistungen/hausbesuche/): Eine Tierärztin oder ein Tierarzt kommt für die üblichen Behandlungen unter der Woche zu Ihnen nach Hause.
-- [Notfälle bei Tag und Nacht](/de/notfall/): die Nummer, die Sie je nach Uhrzeit und Praxis anrufen.
+- [Hausbesuche](/de/leistungen/hausbesuche/): eine Tierärztin oder ein Tierarzt kommt für Routinebehandlungen zu Ihnen, unter der Woche.
+- [Notfall](/de/notfall/): die Nummer, die Sie je nach Uhrzeit und Praxis anrufen.
 
-## Preise und Termine
+## Preise und Termin
 
-Die Preise jeder Behandlung, Praxis für Praxis, stehen auf der Seite [Preise](/de/preise/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
+Die Preise sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
 
-[Die nächstgelegene Praxis finden](/de/praxen/)
+[Die nächste Praxis finden](/de/praxen/)

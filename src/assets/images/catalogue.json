@@ -105,7 +105,7 @@
   },
   {
     "fichier": "service-consultation-examen-oreille.jpg",
-    "sujet": "service:consultation",
+    "sujet": "service:prevention",
     "alt": {
       "fr": "Deux vétérinaires examinent l'oreille d'un petit chien blanc à l'otoscope",
       "de": "Zwei Tierärzte untersuchen mit dem Otoskop das Ohr eines kleinen weissen Hundes"
@@ -131,7 +131,7 @@
   },
   {
     "fichier": "service-soins-dentaires-chien.jpg",
-    "sujet": "service:soins-dentaires",
+    "sujet": "service:dentisterie",
     "alt": {
       "fr": "Des mains gantées ouvrent la gueule d'un chien pour examiner ses dents",
       "de": "Behandschuhte Hände öffnen das Maul eines Hundes, um seine Zähne zu untersuchen"
@@ -144,7 +144,7 @@
   },
   {
     "fichier": "service-analyses-laboratoire.jpg",
-    "sujet": "service:analyses-diagnostic",
+    "sujet": "service:analyses-sanguines",
     "alt": {
       "fr": "Le laboratoire du cabinet de Payerne, avec ses microscopes et ses analyseurs",
       "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"
@@ -209,7 +209,7 @@
   },
   {
     "fichier": "service-soins-a-domicile-chien.jpg",
-    "sujet": "service:soins-a-domicile",
+    "sujet": "service:visites-a-domicile",
     "alt": {
       "fr": "Un jack russell couché sur un coussin dans son panier en osier, à la maison",
       "de": "Ein Jack Russell liegt zu Hause auf einem Kissen in seinem Weidenkorb"
@@ -625,7 +625,7 @@
   },
   {
     "fichier": "payerne-locaux-laboratoire.jpg",
-    "sujet": "payerne:service:analyses-diagnostic",
+    "sujet": "payerne:service:analyses-sanguines",
     "alt": {
       "fr": "Le laboratoire du cabinet de Payerne, avec ses microscopes et ses analyseurs",
       "de": "Das Labor der Praxis Payerne mit seinen Mikroskopen und Analysegeräten"

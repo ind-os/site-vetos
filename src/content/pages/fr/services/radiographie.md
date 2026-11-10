@@ -1,18 +1,18 @@
 ---
 type: service
 url: /services/radiographie/
-title: "Radiographie du chien et du chat : sédation, prix | Vetmint"
+title: "Radiographie du chien et du chat : sédation | Vetmint"
 description: "Radiographie numérique du chien, du chat et du lapin dans les huit cabinets Vetmint : poumons, ventre, os, dents, dysplasie. Lecture expliquée sur place, prix."
 h1: Radiographie du chien et du chat
 nom: Radiographie
 recherche: radiographie chien chat
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 8
+ordre: 5
 resume: Ce que montre une radio, son déroulement, la sédation, le dépistage de la dysplasie et les prix.
 ---
 
-La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes. Les huit cabinets Vetmint ont une radiographie numérique : l'image s'affiche sur l'écran pendant que votre animal est encore sur la table. Le vétérinaire vous l'explique aussitôt. Une radio de deux clichés coûte 150 francs, lecture comprise.
+La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes. Les huit cabinets Vetmint ont une radiographie numérique : l'image s'affiche sur l'écran pendant que votre animal est encore sur la table. Le vétérinaire vous l'explique aussitôt.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -75,16 +75,7 @@ Les images restent dans le dossier de votre animal. Elles servent de comparaison
 
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Radiographie, deux clichés | prise des clichés, lecture et explication par le vétérinaire | 150 CHF |
-| Cliché supplémentaire | autre zone ou autre position | 45 CHF |
-| Sédation légère | calmant, surveillance jusqu'au réveil | 60 à 120 CHF selon le poids |
-| Dépistage officiel hanches et coudes | lecture de la puce, sédation, clichés officiels, envoi pour la lecture | 390 CHF |
-
-Ces prix s'ajoutent à la consultation de 30 minutes. Les radiographies dentaires faites pendant un détartrage sont facturées en plus du forfait, voir [soins dentaires](/services/soins-dentaires/). La page [Tarifs](/tarifs/) donne les prix par cabinet.
-
-Les [abonnements](/abonnements/) Senior pour chien et chat, dès 7 ans, comprennent un pack de cinq radiographies par an. Ils coûtent 129 francs par mois pour un chien et 124 francs pour un chat.
+Le prix d'une radiographie dépend du nombre de clichés et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant de faire les clichés. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 

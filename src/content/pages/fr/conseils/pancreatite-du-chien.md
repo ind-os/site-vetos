@@ -72,6 +72,6 @@ Une pancréatite peut revenir. Chaque crise abîme un peu plus le pancréas, qui
 
 ## Consulter dans un cabinet Vetmint
 
-Une consultation dure 30 minutes chez Vetmint. Le vétérinaire examine votre chien, fait les analyses sur place et prépare avec vous le plan des repas. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
+Une consultation dure 30 minutes chez Vetmint. Le vétérinaire examine votre chien, fait les analyses sur place et prépare avec vous le plan des repas. La page [Prévention et bilan de santé](/services/prevention/) en donne le détail.
 
 [Trouver un cabinet Vetmint](/cabinets/)

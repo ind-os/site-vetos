@@ -20,19 +20,19 @@ Votre chiot ou votre chaton vient d'arriver à la maison : le plan de préventi
 ### Ce qu'il couvre pendant douze mois
 
 - Autant de consultations que nécessaire, sur rendez-vous.
-- Les [vaccins du chiot](/payerne/services/vaccination-chien/) contre la maladie de Carré, l'hépatite contagieuse, la parvovirose, la parainfluenza, la leptospirose et la rage.
-- Les [vaccins du chaton](/payerne/services/vaccination-chat/) contre le coryza, le typhus, la leucose et la rage.
+- Les [vaccins du chiot](/payerne/services/prevention/) contre la maladie de Carré, l'hépatite contagieuse, la parvovirose, la parainfluenza, la leptospirose et la rage.
+- Les [vaccins du chaton](/payerne/services/prevention/) contre le coryza, le typhus, la leucose et la rage.
 - Le test de dépistage du FIV et de la leucose (FeLV) chez le chaton, deux virus qui affaiblissent ses défenses.
 - Les vermifuges, au rythme fixé par le vétérinaire.
 - Le suivi de la croissance, avec 10 % de rabais sur l'alimentation conseillée.
-- La [puce électronique](/payerne/services/puce-electronique/), le passeport et l'inscription au registre : AMICUS pour le chien, ANIS pour le chat.
+- La [puce électronique](/payerne/services/prevention/), le passeport et l'inscription au registre : AMICUS pour le chien, ANIS pour le chat.
 - Un rappel par SMS, WhatsApp ou e-mail avant chaque soin prévu.
 - 10 % de rabais sur les anti-puces et les anti-tiques, hors offres de saison.
 - 5 % de rabais sur les autres soins et produits du cabinet.
 
 ### Ce qu'il coûte
 
-La [castration du mâle ou la stérilisation de la femelle](/payerne/services/sterilisation-castration/) peut s'ajouter au plan. Le tableau compare chaque formule au prix des mêmes soins achetés un par un.
+La [castration du mâle ou la stérilisation de la femelle](/payerne/services/chirurgie/) peut s'ajouter au plan. Le tableau compare chaque formule au prix des mêmes soins achetés un par un.
 
 | Formule | Prix du plan | Soins achetés un par un | Différence |
 |---|---|---|---|

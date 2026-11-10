@@ -4,11 +4,13 @@
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import { lesCliniques, lienDeLaClinique, type Clinique } from './cliniques.ts';
-import { adresse } from './pages.ts';
+import { adresse, lesPages, titreDe } from './pages.ts';
 
 export interface Lien {
   libelle: string;
   href: string;
+  /** Les liens qui s'ouvrent sous ce lien au survol, sur ordinateur : les cabinets, les services. */
+  sousLiens?: Lien[];
 }
 
 export interface Navigation {
@@ -75,12 +77,17 @@ export async function navigationDe(langue: Langue, clinique?: Clinique): Promise
   }
 
   const pageDesCliniques = await lien('cliniques');
+  // Les services communs, dans l'ordre du champ `ordre`, puis les urgences, qui ont leur propre page.
+  const services = [
+    ...(await lesPages(langue, 'service')).map((p) => ({ libelle: p.data.nom ?? titreDe(p), href: p.data.url })),
+    { libelle: n.urgences, href: await lien('urgences') },
+  ];
   return {
     entete: {
       accueil: await lien('index'),
       liens: [
-        { libelle: n.cliniques, href: pageDesCliniques },
-        { libelle: n.services, href: await lien('services/index') },
+        { libelle: n.cliniques, href: pageDesCliniques, sousLiens: cliniques },
+        { libelle: n.services, href: await lien('services/index'), sousLiens: services },
         { libelle: n.conseils, href: await lien('conseils/index') },
         { libelle: n.emploi, href: await lien('emploi') },
       ],

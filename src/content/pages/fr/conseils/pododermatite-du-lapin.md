@@ -60,7 +60,7 @@ Pour aider la peau à cicatriser et les poils à repousser, le vétérinaire peu
 - des séances de [laser thérapeutique](/services/laser/), une lumière qui soulage et accélère la cicatrisation ;
 - une pommade à appliquer sur la plaie.
 
-Une plaie infectée demande en plus un traitement contre l'infection, parfois long. La [gestion de la douleur](/services/gestion-de-la-douleur/) fait partie du soin : un lapin qui a moins mal bouge davantage. Ses pieds guérissent alors mieux.
+Une plaie infectée demande en plus un traitement contre l'infection, parfois long. Le traitement de la douleur fait partie du soin : un lapin qui a moins mal bouge davantage. Ses pieds guérissent alors mieux.
 
 ## Prévenir la pododermatite
 
@@ -70,6 +70,6 @@ Les lapins à poil fin et les lapins âgés ou arthrosiques demandent une survei
 
 ## Faire soigner votre lapin
 
-Une pododermatite se soigne en consultation, dans le cabinet Vetmint le plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine des NAC](/services/nac/). Quand une plaie ne guérit pas, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Une pododermatite se soigne en consultation, dans le cabinet Vetmint le plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine avancée des NAC](/services/nac/). Quand une plaie ne guérit pas, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Choisir son cabinet](/cabinets/)

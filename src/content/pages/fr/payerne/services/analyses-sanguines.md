@@ -1,12 +1,12 @@
 ---
 type: service-clinique
 clinique: payerne
-url: /payerne/services/analyses-diagnostic/
+url: /payerne/services/analyses-sanguines/
 title: "Analyse de sang chien et chat à Payerne | Vetmint"
 description: "Analyse de sang du chien et du chat à Payerne : laboratoire sur place, résultat en une demi-heure environ, urine, selles, peau, cytologie. Prix et préparation."
-h1: Analyses et diagnostic à Payerne
+h1: Analyse sanguine à Payerne
 recherche: analyse de sang chien Payerne
-redige_le: 2026-11-03
+redige_le: 2026-11-10
 resume: Le laboratoire du cabinet lit la plupart des prises de sang pendant la consultation.
 ---
 
@@ -75,4 +75,4 @@ Pas toujours. Une valeur peut monter après un stress ou un repas. Le vétérina
 
 Le guide Vetmint des analyses explique ce que cherche chaque examen et l'âge auquel un bilan vaut la peine.
 
-[Tout savoir sur les analyses](/services/analyses-diagnostic/)
+[Tout savoir sur les analyses](/services/analyses-sanguines/)

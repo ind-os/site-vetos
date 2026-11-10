@@ -93,6 +93,6 @@ Der jährliche Besuch umfasst die Kontrolle der Zähne. Bei einem Zwergkaninchen
 
 ## Wo Sie die Zähne Ihres Kaninchens behandeln lassen
 
-Die Vetmint-Praxen behandeln die Zähne von Kaninchen und Nagern, mit digitalen Röntgenbildern des Mauls: [Zahnbehandlung](/de/leistungen/zahnbehandlung/) und [Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/): Zahnkorrekturen, Zahnröntgen, Extraktionen, Behandlung von Abszessen und Tumoren im Maul bei Kaninchen und Nagern.
+Die Vetmint-Praxen behandeln die Zähne von Kaninchen und Nagern, mit digitalen Röntgenbildern des Mauls: [Zahnbehandlung](/de/leistungen/zahnmedizin/) und [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/). Die Praxis Fribourg Ouest hat eine [Heimtier-Spezialität](/de/fribourg/leistungen/heimtiere/): Zahnkorrekturen, Zahnröntgen, Extraktionen, Behandlung von Abszessen und Tumoren im Maul bei Kaninchen und Nagern.
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)

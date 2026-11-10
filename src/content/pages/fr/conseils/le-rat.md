@@ -102,7 +102,7 @@ Une analyse PCR, qui recherche le matériel génétique d'un microbe sur un frot
 
 ### La stérilisation
 
-Elle se fait dès 4 à 5 mois. Elle peut être chirurgicale, ou hormonale par un implant posé sous la peau qui agit environ un an. Elle prévient les tumeurs mammaires, chez la femelle comme chez le mâle. Elle empêche les portées et apaise souvent le groupe. Elle pourrait aussi réduire les tumeurs de l'hypophyse, une glande à la base du cerveau. Le détail : [stérilisation et castration](/services/sterilisation-castration/).
+Elle se fait dès 4 à 5 mois. Elle peut être chirurgicale, ou hormonale par un implant posé sous la peau qui agit environ un an. Elle prévient les tumeurs mammaires, chez la femelle comme chez le mâle. Elle empêche les portées et apaise souvent le groupe. Elle pourrait aussi réduire les tumeurs de l'hypophyse, une glande à la base du cerveau. Le détail : [stérilisation et castration](/services/chirurgie/).
 
 ### Les visites selon l'âge
 

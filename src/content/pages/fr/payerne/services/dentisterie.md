@@ -1,12 +1,12 @@
 ---
 type: service-clinique
 clinique: payerne
-url: /payerne/services/soins-dentaires/
+url: /payerne/services/dentisterie/
 title: "Détartrage chien et chat à Payerne : forfait de 325 francs"
 description: "Détartrage chien à Payerne : forfait de 45 minutes à 325 francs, anesthésie comprise, radio des dents sur place, extraction de 25 à 200 francs. Lapins aussi."
-h1: Soins dentaires à Payerne
+h1: Dentisterie à Payerne
 recherche: détartrage chien Payerne
-redige_le: 2026-11-03
+redige_le: 2026-11-10
 resume: "Détartrage, radiographie des dents et extractions sur place, avec un forfait de 325 francs."
 ---
 
@@ -56,7 +56,7 @@ Claire-Lise Tinguely ou Tiago Capelo détartre, sonde chaque dent et décide des
 
 - **Chien et chat** : plus de nourriture après le repas du soir. Laissez l'eau jusqu'au départ.
 - **Lapin, cochon d'Inde, chinchilla** : jamais à jeun. Il mange jusqu'au cabinet ; apportez du foin.
-- **Animal de plus de 7 ans** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire du cabinet la lit en général pendant la consultation. Voir la page [Analyses et diagnostic à Payerne](/payerne/services/analyses-diagnostic/).
+- **Animal de plus de 7 ans** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire du cabinet la lit en général pendant la consultation. Voir la page [Analyse sanguine à Payerne](/payerne/services/analyses-sanguines/).
 - **Au retour** : de l'eau et une petite ration le soir. Après des extractions, de la nourriture molle pendant une semaine.
 
 Un contrôle a lieu sept à dix jours après une extraction. Si la bouche saigne encore le soir ou si votre animal refuse de manger le lendemain, appelez le cabinet.
@@ -79,6 +79,6 @@ Pas forcément tout de suite. Prenez une consultation de 30 minutes : le vété
 
 Montrez-la en consultation. Une gencive qui a trop poussé se retire, une grosseur de la gencive se cautérise, à Payerne, pendant une anesthésie.
 
-Les signes à repérer et le brossage à la maison sont expliqués sur la page [Tout savoir sur les soins dentaires](/services/soins-dentaires/).
+Les signes à repérer et le brossage à la maison sont expliqués sur la page [Tout savoir sur la dentisterie](/services/dentisterie/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

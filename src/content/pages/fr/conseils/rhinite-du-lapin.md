@@ -74,6 +74,6 @@ Les bactéries en cause peuvent se transmettre entre lapins qui vivent ensemble.
 
 ## Faire soigner votre lapin
 
-Nos vétérinaires reçoivent les lapins en consultation. La page [Médecine des NAC](/services/nac/) décrit ce que nous faisons pour eux. Pour une rhinite qui dure ou revient, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Nos vétérinaires reçoivent les lapins en consultation. La page [Médecine avancée des NAC](/services/nac/) décrit ce que nous faisons pour eux. Pour une rhinite qui dure ou revient, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Trouver un cabinet Vetmint](/cabinets/)

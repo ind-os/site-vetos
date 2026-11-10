@@ -23,7 +23,7 @@ Les prix sont en francs suisses, toutes taxes comprises. Ils valent dès le 29 a
 | Consultation des NAC | lapins, rongeurs, oiseaux, reptiles (Fribourg Ouest) | 140 CHF |
 | Consultation de chirurgie | examen par une vétérinaire spécialisée en chirurgie, devis si une opération est nécessaire (Fribourg Ouest) | 120 CHF |
 
-[La consultation de 30 minutes](/services/consultation/)
+[La consultation de 30 minutes](/services/prevention/)
 
 ## Bilans de santé et vaccins
 
@@ -37,7 +37,7 @@ Chaque bilan comprend la consultation de 30 minutes et les vaccins. Le bilan du 
 | Bilan avec vaccin contre la rage, chien, chat ou furet | vaccin inscrit dans le passeport, lecture de la puce électronique | 77 CHF, 89 CHF à La Chaux-de-Fonds |
 | Bilan annuel du lapin | vaccin contre la maladie hémorragique virale | 63 à 76 CHF |
 
-Le vaccin contre la rage est obligatoire pour sortir de Suisse. Sans protection valable, comptez 21 jours entre la piqûre et la frontière. Les vaccins sont détaillés aux pages [vaccination du chien](/services/vaccination-chien/) et [vaccination du chat](/services/vaccination-chat/).
+Le vaccin contre la rage est obligatoire pour sortir de Suisse. Sans protection valable, comptez 21 jours entre la piqûre et la frontière. Les vaccins sont détaillés aux pages [vaccination du chien](/services/prevention/) et [vaccination du chat](/services/prevention/).
 
 ## Stérilisations et castrations
 
@@ -52,7 +52,7 @@ Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie avec sa surv
 | Stérilisation de la lapine | anesthésie par piqûre puis au gaz, deux contrôles | 250 à 380 CHF |
 | Castration du lapin | même anesthésie, deux contrôles (lapin ou rongeur à Fribourg Ouest, 150 CHF) | 131 à 185 CHF |
 
-[Stérilisation et castration](/services/sterilisation-castration/)
+[Stérilisation et castration](/services/chirurgie/)
 
 ## Dents
 
@@ -62,7 +62,7 @@ Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie avec sa surv
 | Extraction d'une dent | sur devis, selon la dent | 25 à 200 CHF |
 | Extraction de toutes les dents | examen, anesthésie et traitement de la douleur (La Chaux-de-Fonds, Lac-de-Joux, Saint-Blaise) | 1 400 CHF |
 
-[Soins dentaires](/services/soins-dentaires/)
+[Soins dentaires](/services/dentisterie/)
 
 ## Imagerie et analyses
 
@@ -73,7 +73,7 @@ Chaque forfait comprend l'examen avant l'anesthésie, l'anesthésie avec sa surv
 | Échographie du cœur (échocardiographie) | sans la consultation (Saint-Légier) | 270 CHF |
 | Prise de sang, radiographie, autre analyse | prix annoncé avant l'examen | sur devis |
 
-Les examens sont décrits aux pages [échographie](/services/echographie/), [radiographie](/services/radiographie/) et [analyses](/services/analyses-diagnostic/).
+Les examens sont décrits aux pages [échographie](/services/echographie/), [radiographie](/services/radiographie/) et [analyses](/services/analyses-sanguines/).
 
 ## Urgences
 
@@ -96,7 +96,7 @@ L'appel au numéro de garde coûte de 2 à 3 francs la minute selon la région. 
 |---|---|---|
 | Déplacement du vétérinaire | forfait pour la Riviera vaudoise et la Broye, aux heures d'ouverture du cabinet, en plus des soins | 55 CHF |
 
-Un rendez-vous à domicile annulé moins de 24 heures avant est facturé. [Les soins à domicile](/services/soins-a-domicile/)
+Un rendez-vous à domicile annulé moins de 24 heures avant est facturé. [Les visites à domicile](/services/visites-a-domicile/)
 
 ## Moyens de paiement
 

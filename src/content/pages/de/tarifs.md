@@ -23,7 +23,7 @@ Die Preise sind in Schweizer Franken, inklusive aller Steuern. Sie gelten ab dem
 | Heimtierkonsultation | Kaninchen, Nager, Vögel, Reptilien (Fribourg Ouest) | CHF 140.– |
 | Chirurgiekonsultation | Untersuchung durch eine auf Chirurgie spezialisierte Tierärztin, Kostenvoranschlag, falls eine Operation nötig ist (Fribourg Ouest) | CHF 120.– |
 
-[Die Konsultation von 30 Minuten](/de/leistungen/konsultation/)
+[Die Konsultation von 30 Minuten](/de/leistungen/praevention/)
 
 ## Gesundheitschecks und Impfungen
 
@@ -37,7 +37,7 @@ Jeder Check umfasst die Konsultation von 30 Minuten und die Impfungen. Der Check
 | Check mit Tollwutimpfung, Hund, Katze oder Frettchen | im Pass eingetragene Impfung, Auslesen des Mikrochips | CHF 77.–, CHF 89.– in La Chaux-de-Fonds |
 | Jahrescheck Kaninchen | Impfung gegen die virale hämorrhagische Erkrankung (RHD) | CHF 63–76 |
 
-Die Tollwutimpfung ist für die Ausreise aus der Schweiz obligatorisch. Ohne gültigen Schutz rechnen Sie mit 21 Tagen zwischen der Spritze und der Grenze. Die Impfungen sind auf den Seiten [Impfung beim Hund](/de/leistungen/impfung-hund/) und [Impfung bei der Katze](/de/leistungen/impfung-katze/) im Detail beschrieben.
+Die Tollwutimpfung ist für die Ausreise aus der Schweiz obligatorisch. Ohne gültigen Schutz rechnen Sie mit 21 Tagen zwischen der Spritze und der Grenze. Die Impfungen sind auf den Seiten [Impfung beim Hund](/de/leistungen/praevention/) und [Impfung bei der Katze](/de/leistungen/praevention/) im Detail beschrieben.
 
 ## Kastrationen und Sterilisationen
 
@@ -52,7 +52,7 @@ Jede Pauschale umfasst die Untersuchung vor der Narkose, die Narkose mit ihrer �
 | Sterilisation der Kaninchenhäsin | Narkose per Spritze, danach mit Gas, zwei Kontrollen | CHF 250–380 |
 | Kastration des Kaninchenbocks | gleiche Narkose, zwei Kontrollen (Kaninchen oder Nager in Fribourg Ouest, CHF 150.–) | CHF 131–185 |
 
-[Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/)
+[Kastration und Sterilisation](/de/leistungen/chirurgie/)
 
 ## Zähne
 
@@ -62,7 +62,7 @@ Jede Pauschale umfasst die Untersuchung vor der Narkose, die Narkose mit ihrer �
 | Extraktion eines Zahns | auf Kostenvoranschlag, je nach Zahn | CHF 25–200 |
 | Extraktion aller Zähne | Untersuchung, Narkose und Schmerzbehandlung (La Chaux-de-Fonds, Lac-de-Joux, Saint-Blaise) | CHF 1’400.– |
 
-[Zahnbehandlung](/de/leistungen/zahnbehandlung/)
+[Zahnbehandlung](/de/leistungen/zahnmedizin/)
 
 ## Bildgebung und Analysen
 
@@ -73,7 +73,7 @@ Jede Pauschale umfasst die Untersuchung vor der Narkose, die Narkose mit ihrer �
 | Herzultraschall (Echokardiografie) | ohne die Konsultation (Saint-Légier) | CHF 270.– |
 | Blutentnahme, Röntgenaufnahme, andere Analyse | Preis wird vor der Untersuchung genannt | auf Kostenvoranschlag |
 
-Die Untersuchungen sind auf den Seiten [Ultraschall](/de/leistungen/ultraschall/), [Röntgen](/de/leistungen/roentgen/) und [Analysen](/de/leistungen/labor-diagnostik/) beschrieben.
+Die Untersuchungen sind auf den Seiten [Ultraschall](/de/leistungen/ultraschall/), [Röntgen](/de/leistungen/roentgen/) und [Analysen](/de/leistungen/blutanalysen/) beschrieben.
 
 ## Notfälle
 

@@ -1,18 +1,18 @@
 ---
 type: service
 url: /services/laser/
-title: "Laser vétérinaire chien et chat : séances, prix | Vetmint"
-description: "Laser vétérinaire chez Vetmint : plaies, cicatrisation, arthrose, gencives et oreilles du chien, du chat et du lapin. Séance sans anesthésie, 62 francs."
+title: "Thérapie laser du chien et du chat : séances | Vetmint"
+description: "Thérapie laser chez Vetmint : plaies, cicatrisation, arthrose, douleur, gencives et oreilles du chien, du chat et du lapin. Séance sans anesthésie ni rasage."
 h1: Thérapie laser pour chiens, chats et lapins
 nom: Thérapie laser
 recherche: laser vétérinaire
-redige_le: 2026-10-16
-ordre: 11
+redige_le: 2026-11-10
+ordre: 10
 especes: [chien, chat, nac]
 resume: Une lumière qui calme la douleur et accélère la cicatrisation, sans incision ni anesthésie, en séances de quelques minutes.
 ---
 
-Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cabinets Vetmint proposent la thérapie laser, à 62 francs la séance avec la consultation.
+Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cabinets Vetmint proposent la thérapie laser.
 
 [Prendre rendez-vous dans un cabinet](/cabinets/)
 
@@ -69,14 +69,13 @@ Le rythme dépend du problème :
 
 Rappelez le cabinet si la plaie suinte, sent mauvais ou s'agrandit, ou si l'animal boite plus qu'avant la série. Ce n'est pas un effet du laser : le problème demande un nouvel examen.
 
+## Le laser dans le traitement de la douleur
+
+Le laser ne remplace pas les médicaments contre la douleur. Il les complète. Chez un chien qui a de l'arthrose, les séances régulières réduisent souvent la dose d'anti-inflammatoire nécessaire. Après une opération des os ou des ligaments, elles accompagnent la rééducation décrite sur la page [Chirurgie orthopédique](/services/chirurgie-orthopedique/). Le vétérinaire suit la douleur à chaque séance : la façon de se lever, de marcher, de monter un escalier ou de sauter sur le canapé.
+
 ## Le prix
 
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Consultation avec thérapie laser | examen de la zone, séance de laser, conseils pour la suite | 62 CHF |
-| Séance de suivi | contrôle rapide et séance de laser | 62 CHF |
-
-Les prix sont ceux de la grille en vigueur depuis le 29 avril 2025. Les médicaments, les soins de plaie et les examens prescrits en plus se paient à part. La page [Tarifs](/tarifs/) donne la grille de chaque cabinet.
+Le prix dépend du nombre de séances. Le vétérinaire vous le dit à la première séance, avec le rythme proposé. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 
@@ -94,7 +93,7 @@ Pas sur la tumeur ni autour : le laser stimule aussi les cellules malades. Il r
 
 ### Le laser remplace-t-il les antidouleurs ?
 
-Rarement. Il les complète et en réduit parfois la dose. Pour un chien âgé ou un chat aux reins fragiles, cette réduction compte. Pour une douleur ancienne et complexe, le laser fait partie d'un plan plus large, décrit sur la page [gestion de la douleur](/services/gestion-de-la-douleur/).
+Rarement. Il les complète et en réduit parfois la dose. Pour un chien âgé ou un chat aux reins fragiles, cette réduction compte. Pour une douleur ancienne et complexe, le laser fait partie d'un plan plus large, décrit sur la page [gestion de la douleur](/services/laser/).
 
 ### Faut-il raser la zone ?
 
@@ -109,7 +108,7 @@ Oui. Le lapin supporte bien la séance, posé sur une serviette, sans contention
 Quatre cabinets ont un appareil de laser thérapeutique. Les autres cabinets Vetmint vous orientent vers la plus proche.
 
 - **[Bussigny](/bussigny/services/)**, à l'ouest de Lausanne : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : chiens, chats, lapins et rongeurs. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : chiens, chats, lapins et rongeurs. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
 - **[Saint-Blaise](/saintblaise/services/)**, sur la rive nord du lac de Neuchâtel : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
 - **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : chiens, chats et lapins. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
 

@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/hausbesuche/
-title: "Hausbesuche Tierarzt: Leistungen, Gebiet, Preis | Vetmint"
-description: "Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehandlungen bei Ihnen zu Hause, während der Öffnungszeiten der Praxis. Anfahrt ab 55 Franken."
+title: "Tierärztliche Hausbesuche: Leistungen, Gebiet | Vetmint"
+description: "Tierärztliche Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehandlungen bei Ihnen zu Hause, während der Öffnungszeiten der Praxis, nach Termin."
 h1: Tierärztliche Hausbesuche
 nom: Hausbesuche
 recherche: Tierarzt Hausbesuch
-redige_le: 2026-10-16
-ordre: 17
+redige_le: 2026-11-10
+ordre: 12
 especes: [chien, chat, nac]
-resume: Eine Tierärztin oder ein Tierarzt kommt während der Öffnungszeiten für Routinebehandlungen zu Ihnen, Anfahrt ab 55 Franken.
+resume: Eine Tierärztin oder ein Tierarzt kommt während der Öffnungszeiten für Routinebehandlungen zu Ihnen, nach Termin.
 ---
 
-Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden während der Öffnungszeiten der Praxis nach Vereinbarung statt. Sie bezahlen die Konsultation zum Preis der Praxis, dazu eine Anfahrtspauschale von 55 Franken an der Waadtländer Riviera, in der Broye und rund um jede Praxis.
+Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden während der Öffnungszeiten der Praxis nach Vereinbarung statt. Zum Preis der Konsultation kommt eine Anfahrtspauschale hinzu.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -49,7 +49,7 @@ Ein Notfall lässt sich nicht aufschieben: Ein Tier, das schlecht atmet, blutet 
 
 ## In welchem Gebiet
 
-Die Pauschale von 55 Franken gilt für die Waadtländer Riviera (von Vevey bis Montreux) und den Bezirk Broye, rund um Payerne und Domdidier. Anderswo fährt jede Praxis in die Nachbargemeinden, in einem Umkreis von 15 Kilometern zur gleichen Pauschale. Die Tierärztin oder der Tierarzt, die oder der zu Ihnen kommt, gehört zum Team der nächstgelegenen Praxis: Bei Bedarf sieht sie oder er Ihr Tier danach in der Konsultation wieder.
+Die Anfahrtspauschale gilt für die Waadtländer Riviera (von Vevey bis Montreux) und den Bezirk Broye, rund um Payerne und Domdidier. Anderswo fährt jede Praxis in die Nachbargemeinden, in einem Umkreis von 15 Kilometern zur gleichen Pauschale. Die Tierärztin oder der Tierarzt, die oder der zu Ihnen kommt, gehört zum Team der nächstgelegenen Praxis: Bei Bedarf sieht sie oder er Ihr Tier danach in der Konsultation wieder.
 
 ## Wie der Besuch abläuft
 
@@ -74,18 +74,22 @@ Die Ergebnisse einer Blutuntersuchung kommen per Telefon oder per E-Mail, sobald
 - Halten Sie die Transportbox griffbereit: Muss das Tier in die Praxis, geht die Abfahrt schneller.
 - Setzen Sie ein Kaninchen oder ein Meerschweinchen nie auf Nüchternheit.
 
+## Was einen Besuch in der Praxis verlangt
+
+Manche Behandlungen sind zu Hause nicht möglich, weil sie ein Gerät, einen sauberen Raum oder eine Überwachung verlangen:
+
+- ein Röntgen, ein Ultraschall oder eine Endoskopie;
+- eine Operation, eine Zahnsteinentfernung oder jede Vollnarkose;
+- eine Infusion über mehrere Stunden oder eine stationäre Betreuung;
+- eine vollständige Blutanalyse, deren Geräte im Labor der Praxis stehen.
+
+Zeigt die Untersuchung zu Hause, dass eine dieser Behandlungen nötig ist, sagt Ihnen die Tierärztin oder der Tierarzt dies und vereinbart mit Ihnen den Termin in der Praxis. Die Notizen gehen an das Team, damit Sie nicht alles ein zweites Mal erzählen müssen.
+
+Ein Hausbesuch ersetzt auch keinen Notfall. Ein Tier, das schlecht atmet, stark blutet oder nicht mehr aufsteht, muss ohne Verzögerung in der Praxis untersucht werden: Die Seite [Notfall](/de/notfall/) sagt, wen Sie anrufen.
+
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Anfahrtspauschale, Waadtländer Riviera und Bezirk Broye | Hin- und Rückfahrt der Tierärztin oder des Tierarztes | CHF 55.– |
-| Anfahrtspauschale rund um die anderen Praxen | Hin- und Rückfahrt in einem Umkreis von 15 Kilometern | CHF 55.– |
-| Konsultation zu Hause | Untersuchung von 30 Minuten, Beratung | CHF 54.– bis 59.– je nach Praxis |
-| Impfungen, Medikamente, Analysen | je nach durchgeführten Behandlungen | Preis gemäss der Preisliste der Praxis |
-
-Die Anfahrtspauschale wird einmal pro Besuch berechnet, unabhängig von der Anzahl der Tiere im Haushalt. Ab 15 Kilometern nennt die Praxis den Preis am Telefon. Eine Absage, die weniger als 24 Stunden vor dem Besuch mitgeteilt wird, wird zum Preis der Anfahrtspauschale in Rechnung gestellt.
-
-Die Zahlung erfolgt vor Ort, nach der Konsultation, mit Karte oder mit TWINT. Die Preise jeder Praxis finden Sie auf der Seite [Preise](/de/preise/).
+Bei einem Hausbesuch kommt eine Wegpauschale zum Preis der Behandlung hinzu. Die Praxis nennt Ihnen den Gesamtbetrag, wenn der Besuch vereinbart wird. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 
@@ -103,7 +107,7 @@ Die Untersuchung vor der Narkose kann zu Hause erfolgen. Die Operation selbst fi
 
 ### Kostet der Hausbesuch mehr?
 
-Er kostet die Anfahrtspauschale zusätzlich zur Konsultation, also 109 bis 114 Franken für eine einfache Untersuchung im Gebiet der Pauschale. Die Behandlungen werden zum gleichen Preis bezahlt wie in der Praxis.
+Er kostet die Anfahrtspauschale zusätzlich zur Konsultation. Die Behandlungen werden zum gleichen Preis bezahlt wie in der Praxis.
 
 ### Muss ich beim Besuch anwesend sein?
 
@@ -125,6 +129,6 @@ Sieben Vetmint-Praxen bieten Hausbesuche nach Vereinbarung rund um ihre Gemeinde
 - [Saint-Blaise](/de/saintblaise/leistungen/): [032 753 11 22](tel:+41327531122), [Online-Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/), für die Waadtländer Riviera: [021 683 10 10](tel:+41216831010)
 
-Für ein älteres Tier mit Schmerzen beschreibt die Seite [Schmerztherapie](/de/leistungen/schmerztherapie/) die mögliche Verlaufskontrolle zwischen zwei Besuchen.
+Für ein älteres Tier mit Schmerzen beschreibt die Seite [Lasertherapie](/de/leistungen/lasertherapie/) die mögliche Verlaufskontrolle zwischen zwei Besuchen.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)

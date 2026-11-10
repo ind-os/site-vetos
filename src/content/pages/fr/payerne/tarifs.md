@@ -23,7 +23,7 @@ En 30 minutes, le vétérinaire a le temps de palper votre animal, d'écouter so
 |---|---|---|
 | Consultation sur rendez-vous | 30 minutes avec un vétérinaire, examen complet et conseils | 57 CHF |
 
-La [consultation à Payerne](/payerne/services/consultation/) sert au contrôle annuel, à un animal malade ou à un deuxième avis.
+La [consultation à Payerne](/payerne/services/prevention/) sert au contrôle annuel, à un animal malade ou à un deuxième avis.
 
 ## Bilans de santé et vaccins
 
@@ -39,7 +39,7 @@ Un bilan réunit la consultation de 30 minutes et les vaccins de l'année. À Pa
 
 Le typhus est une gastro-entérite virale souvent mortelle chez le chaton. Le coryza est le rhume du chat, avec le nez et les yeux qui coulent. La leucose est un virus qui passe d'un chat à l'autre par la salive : votre chat en a besoin dès qu'il croise des chats non vaccinés ou errants. La leptospirose se transmet par l'urine des rongeurs et touche aussi l'humain.
 
-Avant un voyage hors de Suisse, comptez 21 jours entre le vaccin contre la rage et la frontière si votre animal n'est plus protégé. Le détail des vaccins est sur les pages [vaccination du chien](/payerne/services/vaccination-chien/) et [vaccination du chat](/payerne/services/vaccination-chat/).
+Avant un voyage hors de Suisse, comptez 21 jours entre le vaccin contre la rage et la frontière si votre animal n'est plus protégé. Le détail des vaccins est sur les pages [vaccination du chien](/payerne/services/prevention/) et [vaccination du chat](/payerne/services/prevention/).
 
 ## Stérilisations et castrations
 
@@ -57,7 +57,7 @@ Pour la chatte, la chienne et le chien, l'anesthésie se fait au gaz, par un tub
 
 Tous les forfaits incluent l'examen fait avant l'anesthésie et une piqûre d'anti-inflammatoire. La chienne, le chien et le lapin reviennent deux fois en contrôle après l'opération, sans frais. Un autre traitement, s'il en faut un, s'ajoute au forfait. Ne mettez jamais un lapin à jeun : il mange et boit jusqu'au moment de l'opération.
 
-La stérilisation de la lapine et l'opération d'un petit rongeur n'ont pas de forfait : leur prix vous est donné au moment de fixer la date. Le déroulement est expliqué à la page [stérilisation et castration](/payerne/services/sterilisation-castration/).
+La stérilisation de la lapine et l'opération d'un petit rongeur n'ont pas de forfait : leur prix vous est donné au moment de fixer la date. Le déroulement est expliqué à la page [stérilisation et castration](/payerne/services/chirurgie/).
 
 ## Les dents
 
@@ -66,11 +66,11 @@ La stérilisation de la lapine et l'opération d'un petit rongeur n'ont pas de f
 | Détartrage et polissage | 45 minutes sous anesthésie au gaz avec cathéter, perfusion et surveillance, examen avant l'anesthésie, traitement de la douleur | 325 CHF |
 | Extraction d'une dent | selon la dent et le temps qu'elle demande | 25 à 200 CHF |
 
-Une dent à extraire s'ajoute au forfait du détartrage. Le déroulement est expliqué à la page [soins dentaires](/payerne/services/soins-dentaires/).
+Une dent à extraire s'ajoute au forfait du détartrage. Le déroulement est expliqué à la page [soins dentaires](/payerne/services/dentisterie/).
 
 ## Examens et analyses
 
-Le cabinet fait sur place la prise de sang, l'analyse d'urine ou de selles et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-diagnostic/) et [radiographie](/payerne/services/radiographie/).
+Le cabinet fait sur place la prise de sang, l'analyse d'urine ou de selles et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-sanguines/) et [radiographie](/payerne/services/radiographie/).
 
 ## Les urgences
 

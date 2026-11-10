@@ -98,7 +98,7 @@ Wenn ein Meerschweinchen zur Gruppe dazukommt, weist eine PCR-Analyse (die das E
 
 ### Sterilisieren oder kastrieren
 
-Das Weibchen wird ab 5 Monaten sterilisiert. Das Männchen wird ab 4 bis 5 Monaten kastriert, wenn seine Hoden gut herabgestiegen und entwickelt sind. Beim Weibchen beugt die Operation Eierstockzysten vor, die sehr häufig sind. Sie verringert Aggressivität, Urinmarkieren und Scheinschwangerschaften. Die Einzelheiten: [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/).
+Das Weibchen wird ab 5 Monaten sterilisiert. Das Männchen wird ab 4 bis 5 Monaten kastriert, wenn seine Hoden gut herabgestiegen und entwickelt sind. Beim Weibchen beugt die Operation Eierstockzysten vor, die sehr häufig sind. Sie verringert Aggressivität, Urinmarkieren und Scheinschwangerschaften. Die Einzelheiten: [Kastration und Sterilisation](/de/leistungen/chirurgie/).
 
 Wenn Sie einen Wurf wünschen, muss das Weibchen seine erste Trächtigkeit zwischen 5 und 8 Monaten haben. Später verknöchert sein Becken, und die Geburt kann schlecht verlaufen, bis hin zum Kaiserschnitt.
 
@@ -108,7 +108,7 @@ Ein jährlicher Besuch kontrolliert Zähne, Herz, Lunge und die häufigen Proble
 
 ## Wo es behandelt wird
 
-Die Vetmint-Praxen empfangen Meerschweinchen zu einer Konsultation von 30 Minuten. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) stellt die Behandlung von Kaninchen und Nagern vor.
+Die Vetmint-Praxen empfangen Meerschweinchen zu einer Konsultation von 30 Minuten. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt die Behandlung von Kaninchen und Nagern vor.
 
 In Fribourg Ouest hat die Praxis eine Heimtier-Spezialität: Zahnbehandlungen bei Nagern, Chirurgie mit einer auf die Art abgestimmten Narkose, stationäre Betreuung ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 

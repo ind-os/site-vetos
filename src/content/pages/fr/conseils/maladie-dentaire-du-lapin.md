@@ -93,6 +93,6 @@ La visite annuelle comprend le contrôle des dents. Chez un lapin nain ou à tê
 
 ## Où faire soigner les dents de votre lapin
 
-Les cabinets Vetmint soignent les dents des lapins et des rongeurs, avec des radiographies numériques de la bouche : [soins dentaires](/services/soins-dentaires/) et [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/) : parages, radiographies dentaires, extractions, traitement des abcès et des tumeurs de la bouche chez les lapins et les rongeurs.
+Les cabinets Vetmint soignent les dents des lapins et des rongeurs, avec des radiographies numériques de la bouche : [soins dentaires](/services/dentisterie/) et [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/) : parages, radiographies dentaires, extractions, traitement des abcès et des tumeurs de la bouche chez les lapins et les rongeurs.
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

@@ -1,18 +1,18 @@
 ---
 type: service
-url: /de/leistungen/zahnbehandlung/
-title: "Zahnsteinentfernung bei Hund und Katze: Preis | Vetmint"
-description: "Zahnsteinentfernung bei Hund und Katze bei Vetmint: Narkose, ein Vormittag, Rückkehr am selben Tag. Pauschale 300 bis 345 Franken, Extraktionen per Offerte."
-h1: Zahnbehandlung und Zahnsteinentfernung bei Hund und Katze
-nom: Zahnbehandlung
+url: /de/leistungen/zahnmedizin/
+title: "Zahnmedizin bei Hund und Katze: Zahnstein | Vetmint"
+description: "Zahnmedizin bei Hund und Katze bei Vetmint: Zahnsteinentfernung in Narkose, Zahnröntgen, Extraktionen, Rückkehr am selben Tag und Zahnpflege zu Hause."
+h1: "Zahnmedizin bei Hund und Katze: Zahnstein und Extraktionen"
+nom: Zahnmedizin
 recherche: Zahnsteinentfernung Hund Katze
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 6
-resume: Die Zahnsteinentfernung in Narkose, die Extraktionen, das Zähneputzen zu Hause und die Preise in den acht Praxen.
+ordre: 4
+resume: Die Zahnsteinentfernung in Narkose, die Extraktionen und das Zähneputzen zu Hause, in den acht Praxen.
 ---
 
-Die Zahnsteinentfernung bei Hund und Katze erfolgt unter Vollnarkose, in der Praxis, an einem Vormittag. Die Tierärztin oder der Tierarzt kontrolliert jeden Zahn und entfernt den Zahnstein über und unter dem Zahnfleisch. Sie oder er röntgt fragliche Zähne, zieht die Zähne, die nicht mehr zu retten sind, und poliert dann den Zahnschmelz. Die Pauschale kostet je nach Praxis 300 bis 345 Franken, Narkose inbegriffen. Ihr Tier geht am Nachmittag nach Hause.
+Die Zahnsteinentfernung bei Hund und Katze erfolgt unter Vollnarkose, in der Praxis, an einem Vormittag. Die Tierärztin oder der Tierarzt kontrolliert jeden Zahn und entfernt den Zahnstein über und unter dem Zahnfleisch. Sie oder er röntgt fragliche Zähne, zieht die Zähne, die nicht mehr zu retten sind, und poliert dann den Zahnschmelz. Ihr Tier geht am Nachmittag nach Hause.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -27,7 +27,7 @@ Zahnstein betrifft fast alle erwachsenen Hunde und Katzen. Er bildet sich schnel
 | Katze mit entzündetem ganzem Maul | Untersuchung in Narkose, Extraktionen, Schmerzbehandlung |
 | Kaninchen, Meerschweinchen oder Chinchilla, das weniger frisst | Kontrolle der Zähne, die ein Leben lang wachsen, dann Kürzen in Narkose |
 
-Beim Kaninchen und bei den Nagern spricht man nicht von Zahnsteinentfernung, sondern vom Kürzen: Die Tierärztin oder der Tierarzt kürzt und richtet Zähne, die ohne Unterbruch wachsen. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) und der Ratgeber über die [Zahnerkrankungen beim Kaninchen](/de/ratgeber/zahnerkrankungen-kaninchen/) geben die Einzelheiten.
+Beim Kaninchen und bei den Nagern spricht man nicht von Zahnsteinentfernung, sondern vom Kürzen: Die Tierärztin oder der Tierarzt kürzt und richtet Zähne, die ohne Unterbruch wachsen. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) und der Ratgeber über die [Zahnerkrankungen beim Kaninchen](/de/ratgeber/zahnerkrankungen-kaninchen/) geben die Einzelheiten.
 
 ## Warum die Zähne behandeln
 
@@ -65,7 +65,7 @@ Die Pauschale rechnet mit 45 Minuten Behandlung. Jede Extraktion verlängert die
 - Keine Mahlzeit nach dem Nachtessen am Vortag. Wasser ist bis zum Morgen erlaubt.
 - Lassen Sie ein Kaninchen oder einen Nager nie hungern: Es frisst und trinkt bis zur Abfahrt in die Praxis.
 - Bringen Sie die Liste der laufenden Medikamente mit und sagen Sie, ob Ihr Tier in der Woche gehustet, erbrochen hat oder krank war.
-- Bei einem Tier über 7 Jahren schlägt die Tierärztin oder der Tierarzt eine Blutuntersuchung vor der Narkose vor. Sie prüft Nieren und Leber, die die Medikamente ausscheiden. Die Seite [Labor und Diagnostik](/de/leistungen/labor-diagnostik/) erklärt es.
+- Bei einem Tier über 7 Jahren schlägt die Tierärztin oder der Tierarzt eine Blutuntersuchung vor der Narkose vor. Sie prüft Nieren und Leber, die die Medikamente ausscheiden. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) erklärt es.
 - Die Katze reist in einer geschlossenen Transportbox, der Hund an der Leine.
 
 ## Die Zeit danach
@@ -91,15 +91,7 @@ Eine Belohnung nach jeder Sitzung festigt die Gewohnheit. Die Tierärztin oder d
 
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Zahnsteinentfernung und Polieren, Pauschale 45 Minuten | Untersuchung vor der Narkose, Katheter, Infusion, Intubation, Gasnarkose, Überwachung der Narkose, Schmerzbehandlung | CHF 300.– bis 345.– |
-| Extraktion eines Zahns | je nach Zahn und benötigter Zeit, nach Offerte | CHF 25.– bis 200.– |
-| Extraktion aller Zähne, Pauschale | Untersuchung vor der Narkose, vollständige Narkose und Überwachung | CHF 1 400.– |
-
-Die Pauschale für die Zahnsteinentfernung enthält weder Zahnröntgenbilder noch Extraktionen noch Medikamente für zu Hause. Sie kostet 300 Franken in Lac-de-Joux, 320 Franken in Bussigny, in La Chaux-de-Fonds und in Saint-Blaise, 325 Franken in Payerne, 345 Franken in Domdidier, in Fribourg Ouest und in Saint-Légier. Die Pauschale für die Extraktion aller Zähne steht in den Preislisten von La Chaux-de-Fonds, Lac-de-Joux und Saint-Blaise. Die Seite [Preise](/de/preise/) nennt die Preise je Praxis.
-
-Die [Abonnemente](/de/abonnemente/) Adulte+ und Senior enthalten eine Zahnsteinentfernung pro Jahr. Das Abonnement Adulte+ kostet 106 Franken pro Monat für einen Hund und 103 Franken für eine Katze.
+Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgenbildern und von allfälligen Extraktionen ab. Die Tierärztin oder der Tierarzt gibt Ihnen nach der Untersuchung des Mauls einen Kostenvoranschlag. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 

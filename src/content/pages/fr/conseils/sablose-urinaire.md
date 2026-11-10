@@ -84,6 +84,6 @@ Le vétérinaire adapte la ration à votre animal. La fiche [Alimentation du lap
 
 ## Faire examiner votre animal
 
-Les examens et les soins des lapins et des cochons d'Inde sont présentés sur la page [Médecine des NAC](/services/nac/). Le cabinet Vetmint Fribourg Ouest, à Givisiez, les reçoit aussi en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Les examens et les soins des lapins et des cochons d'Inde sont présentés sur la page [Médecine avancée des NAC](/services/nac/). Le cabinet Vetmint Fribourg Ouest, à Givisiez, les reçoit aussi en [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
 
 [Trouver votre cabinet](/cabinets/)

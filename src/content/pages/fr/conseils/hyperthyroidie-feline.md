@@ -37,7 +37,7 @@ Appelez un cabinet le jour même si votre chat respire la bouche ouverte, s'effo
 
 Le vétérinaire pèse votre chat, l'examine et palpe son cou, où une thyroïde grossie se sent parfois. Il fait ensuite une prise de sang pour mesurer la thyroxine, ou T4, l'hormone principale de la thyroïde. Ce dosage est l'examen de référence.
 
-Il arrive que le taux de T4 sorte normal chez un chat pourtant malade. Le vétérinaire refait alors la prise de sang quelques semaines plus tard. D'autres dosages hormonaux, plus complexes, sont parfois nécessaires. La page [Analyses et diagnostic](/services/analyses-diagnostic/) décrit ce que nos laboratoires mesurent.
+Il arrive que le taux de T4 sorte normal chez un chat pourtant malade. Le vétérinaire refait alors la prise de sang quelques semaines plus tard. D'autres dosages hormonaux, plus complexes, sont parfois nécessaires. La page [Analyse sanguine](/services/analyses-sanguines/) décrit ce que nos laboratoires mesurent.
 
 Une fois le diagnostic posé, il reste à chercher les complications. La plus courante est l'hypertension, une tension trop forte dans les artères. Vient ensuite la cardiomyopathie hypertrophique, un épaississement du muscle du cœur. La mesure de la tension et l'[échographie du cœur](/services/echographie/) les mettent en évidence.
 
@@ -74,6 +74,6 @@ Le médicament et l'alimentation pauvre en iode agissent tant qu'on les donne. L
 
 ## Consulter dans un cabinet Vetmint
 
-Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour examiner votre chat, faire la prise de sang et parler des traitements possibles. La page [Consultation et bilan de santé](/services/consultation/) en donne le détail.
+Une consultation dure 30 minutes chez Vetmint. Ce temps suffit pour examiner votre chat, faire la prise de sang et parler des traitements possibles. La page [Prévention et bilan de santé](/services/prevention/) en donne le détail.
 
 [Trouver un cabinet Vetmint](/cabinets/)

@@ -121,7 +121,7 @@ Ein Besuch pro Jahr genügt für ein gesundes Kaninchen. Er dient der Impfung un
 
 ## Wo Sie Ihr Kaninchen behandeln lassen
 
-Die Vetmint-Praxen empfangen Kaninchen zu einer Konsultation von 30 Minuten, für den Jahrescheck wie für ein Gesundheitsproblem. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was wir für Kaninchen und Nager tun.
+Die Vetmint-Praxen empfangen Kaninchen zu einer Konsultation von 30 Minuten, für den Jahrescheck wie für ein Gesundheitsproblem. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was wir für Kaninchen und Nager tun.
 
 Die Praxis Fribourg Ouest hat sich auf Heimtiere spezialisiert: Konsultationen, Zahnbehandlungen, Chirurgie und stationäre Betreuung, die auf diese Arten abgestimmt sind. Jede Konsultation endet dort mit einem Dokument, das die Pflege zu Hause zusammenfasst ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
 

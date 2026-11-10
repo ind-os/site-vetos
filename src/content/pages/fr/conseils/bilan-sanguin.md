@@ -45,7 +45,7 @@ Certaines races ont des points faibles connus. La prise de sang les surveille av
 
 Le prélèvement prend quelques minutes, pendant la consultation. Le vétérinaire ou l'assistante pique une veine de la patte ou du cou, après avoir tondu une petite zone. La plupart des animaux le supportent bien. Un petit pansement reste en place une heure.
 
-Chaque cabinet Vetmint a son laboratoire. Les analyses courantes s'y font sur place, avec un résultat pendant la consultation ou dans l'heure. Les analyses plus rares partent dans un laboratoire externe et reviennent en deux à trois jours ouvrables. La page [Analyses et diagnostic](/services/analyses-diagnostic/) liste ce qui se mesure sur place.
+Chaque cabinet Vetmint a son laboratoire. Les analyses courantes s'y font sur place, avec un résultat pendant la consultation ou dans l'heure. Les analyses plus rares partent dans un laboratoire externe et reviennent en deux à trois jours ouvrables. La page [Analyse sanguine](/services/analyses-sanguines/) liste ce qui se mesure sur place.
 
 ## Comment le préparer
 

@@ -72,6 +72,6 @@ Eine Pankreatitis kann wiederkehren. Jeder Schub schädigt die Bauchspeicheldrü
 
 ## Zur Konsultation in eine Praxis Vetmint
 
-Eine Konsultation dauert bei Vetmint 30 Minuten. Die Tierärztin oder der Tierarzt untersucht Ihren Hund, führt die Analysen vor Ort durch und erstellt mit Ihnen den Mahlzeitenplan. Die Seite [Konsultation und Gesundheitscheck](/de/leistungen/konsultation/) nennt die Einzelheiten.
+Eine Konsultation dauert bei Vetmint 30 Minuten. Die Tierärztin oder der Tierarzt untersucht Ihren Hund, führt die Analysen vor Ort durch und erstellt mit Ihnen den Mahlzeitenplan. Die Seite [Prävention und Gesundheitscheck](/de/leistungen/praevention/) nennt die Einzelheiten.
 
 [Eine Praxis Vetmint finden](/de/praxen/)

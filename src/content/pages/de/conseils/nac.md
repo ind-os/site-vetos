@@ -17,9 +17,9 @@ Drei Porträts stellen [das Kaninchen](/de/ratgeber/das-kaninchen/), [das Meersc
 
 ## Die Vorsorge bei Kaninchen und Ratte
 
-Das Kaninchen wird gegen die Virale Hämorrhagische Krankheit (RHD) geimpft, die fast immer tödlich verläuft, ab 10 Wochen und danach jedes Jahr. Gegen die Myxomatose, eine andere Viruskrankheit des Kaninchens, ist in der Schweiz kein Impfstoff zugelassen. Heu, mindestens 80 % der Ration, nutzt die Zähne ab. Das Kaninchenweibchen wird ab 5 Monaten oder 1 kg [kastriert](/de/leistungen/kastration-sterilisation/): Die Operation beugt Gebärmuttertumoren vor. Ein Besuch pro Jahr kontrolliert Zähne und Ohren.
+Das Kaninchen wird gegen die Virale Hämorrhagische Krankheit (RHD) geimpft, die fast immer tödlich verläuft, ab 10 Wochen und danach jedes Jahr. Gegen die Myxomatose, eine andere Viruskrankheit des Kaninchens, ist in der Schweiz kein Impfstoff zugelassen. Heu, mindestens 80 % der Ration, nutzt die Zähne ab. Das Kaninchenweibchen wird ab 5 Monaten oder 1 kg [kastriert](/de/leistungen/chirurgie/): Die Operation beugt Gebärmuttertumoren vor. Ein Besuch pro Jahr kontrolliert Zähne und Ohren.
 
-Die Ratte wird vor 6 Monaten, dann mit etwa eineinhalb Jahren und ab 2 Jahren regelmässig einer Tierärztin oder einem Tierarzt gezeigt. Die Seite [Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt unsere Behandlungen für diese Tierarten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [Konsultation für Heimtiere](/de/fribourg/leistungen/heimtiere/) für langwierige Fälle an.
+Die Ratte wird vor 6 Monaten, dann mit etwa eineinhalb Jahren und ab 2 Jahren regelmässig einer Tierärztin oder einem Tierarzt gezeigt. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt unsere Behandlungen für diese Tierarten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [Konsultation für Heimtiere](/de/fribourg/leistungen/heimtiere/) für langwierige Fälle an.
 
 ## Wann anrufen statt lesen
 

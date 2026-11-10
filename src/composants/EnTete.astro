@@ -15,6 +15,8 @@ import Logo from './Logo.astro';
 interface Lien {
   libelle: string;
   href: string;
+  /** Sur ordinateur, une liste qui s'ouvre sous le lien au survol ou au clavier. Cachée sur smartphone. */
+  sousLiens?: Lien[];
 }
 
 interface Props {
@@ -57,7 +59,18 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
     <div class="entete__menu" id="menu" data-menu>
       <nav aria-label={t.navigation.principale}>
         <ul class="entete__liens">
-          {liens.map((l) => <li><a href={l.href} aria-current={estCourant(l.href) ? 'page' : undefined}>{l.libelle}</a></li>)}
+          {
+            liens.map((l) => (
+              <li>
+                <a href={l.href} aria-current={estCourant(l.href) ? 'page' : undefined}>{l.libelle}</a>
+                {l.sousLiens && l.sousLiens.length > 0 && (
+                  <ul class="carte entete__sous-liens">
+                    {l.sousLiens.map((s) => <li><a href={s.href} aria-current={estCourant(s.href) ? 'page' : undefined}>{s.libelle}</a></li>)}
+                  </ul>
+                )}
+              </li>
+            ))
+          }
         </ul>
       </nav>
       {
@@ -143,6 +156,9 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
   .entete__langue { justify-content: center; width: var(--cible); min-height: var(--cible); border: 2px solid var(--trait); border-radius: var(--rayon-pilule); font-size: var(--texte-s); }
   .entete__langue:hover { border-color: var(--marine); }
 
+  /* La liste sous un lien (les cabinets) : cachée sur smartphone, où le lien mène à la page. */
+  .entete__sous-liens { display: none; }
+
   @media (min-width: 72rem) {
     .entete__barre { flex-wrap: nowrap; gap: var(--espace-5); padding-block: 14px; }
     .entete__barre > :global(.logo) { --hauteur-logo: 52px; margin-right: 0; }
@@ -152,5 +168,20 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
     .entete__liens { display: flex; gap: var(--espace-5); }
     .entete__liens li + li { border: 0; }
     .entete__liens a, .entete__urgence { min-height: var(--cible); font-size: 1rem; font-weight: 600; }
+
+    .entete__liens > li { position: relative; }
+    .entete__sous-liens {
+      position: absolute;
+      top: 100%;
+      left: calc(-1 * var(--marge-carte));
+      min-width: 16rem;
+      margin: 0;
+      padding: var(--espace-2) var(--marge-carte);
+      list-style: none;
+      box-shadow: 0 var(--espace-3) var(--espace-6) var(--ombre-panneau);
+    }
+    .entete__liens > li:hover > .entete__sous-liens,
+    .entete__liens > li:focus-within > .entete__sous-liens { display: block; }
+    .entete__sous-liens li + li { border-top: 1px solid var(--trait-leger); }
   }
 </style>

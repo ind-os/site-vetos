@@ -48,36 +48,28 @@ Die Behandlungsräume sind voneinander getrennt. Mehrere Praxen verbreiten beruh
 
 ## Unsere Leistungen
 
-### Konsultationen und Vorsorge
+Jede Behandlung hat ihre Seite: was sie behandelt, wie sie abläuft und welche Praxen sie anbieten. Orthopädische Chirurgie und Endoskopie finden in der Praxis Fribourg Ouest in Givisiez statt; die anderen Praxen überweisen ihre Patienten dorthin.
 
-- [Die Konsultation und der Gesundheitscheck](/de/leistungen/konsultation/)
-- [Die Impfung beim Hund](/de/leistungen/impfung-hund/)
-- [Die Impfung bei der Katze](/de/leistungen/impfung-katze/)
-- [Das Setzen und Auslesen des Mikrochips](/de/leistungen/mikrochip/)
+### Prävention und Chirurgie
 
-### Operationen
-
-- [Kastration und Sterilisation](/de/leistungen/kastration-sterilisation/)
-- [Die Weichteilchirurgie](/de/leistungen/chirurgie/)
-- [Die Zahnbehandlung und die Zahnsteinentfernung](/de/leistungen/zahnbehandlung/)
+- [Die Prävention: Gesundheitscheck, Impfungen und Mikrochip](/de/leistungen/praevention/)
+- [Die Chirurgie: Kastration, Sterilisation und Weichteile](/de/leistungen/chirurgie/)
+- [Die orthopädische Chirurgie](/de/leistungen/orthopaedische-chirurgie/)
+- [Die Zahnmedizin und die Zahnsteinentfernung](/de/leistungen/zahnmedizin/)
 
 ### Untersuchungen
 
-- [Labor und Diagnostik](/de/leistungen/labor-diagnostik/)
 - [Das Röntgen](/de/leistungen/roentgen/)
 - [Der Ultraschall](/de/leistungen/ultraschall/)
+- [Die Endoskopie](/de/leistungen/endoskopie/)
+- [Die Blutanalyse](/de/leistungen/blutanalysen/)
 
 ### Behandlung und Nachsorge
 
 - [Die stationäre Betreuung](/de/leistungen/stationaere-betreuung/)
-- [Die Schmerztherapie](/de/leistungen/schmerztherapie/)
 - [Die Lasertherapie](/de/leistungen/lasertherapie/)
+- [Die erweiterte Heimtiermedizin](/de/leistungen/heimtiere/): Kaninchen, Nager, Vögel und Reptilien
 - [Die Hausbesuche](/de/leistungen/hausbesuche/)
-
-### Für weitere Bedürfnisse
-
-- [Heimtiere](/de/leistungen/heimtiere/): Kaninchen, Nager, Vögel und Reptilien
-- [Die Beratung für Züchterinnen und Züchter](/de/leistungen/zuechterberatung/)
 - [Die Notfälle](/de/notfall/)
 
 [Alle Leistungen](/de/leistungen/)

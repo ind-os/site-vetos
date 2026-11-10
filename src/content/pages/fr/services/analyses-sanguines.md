@@ -1,18 +1,18 @@
 ---
 type: service
-url: /services/analyses-diagnostic/
-title: "Analyse de sang du chien et du chat : délais, prix | Vetmint"
-description: "Analyse de sang, d'urine, de selles et de peau chez Vetmint : la plupart des résultats pendant la consultation, biopsies au laboratoire externe. Les prix."
-h1: "Analyses et diagnostic : sang, urine, peau et biopsies"
-nom: Analyses et diagnostic
+url: /services/analyses-sanguines/
+title: "Analyse sanguine du chien et du chat : délais | Vetmint"
+description: "Analyse sanguine chez Vetmint : prise de sang, urine, selles et peau, la plupart des résultats pendant la consultation, biopsies au laboratoire externe."
+h1: "Analyse sanguine : sang, urine, peau et biopsies"
+nom: Analyse sanguine
 recherche: analyse de sang chien chat
-redige_le: 2026-10-16
+redige_le: 2026-11-10
 especes: [chien, chat, nac]
-ordre: 7
+ordre: 9
 resume: Ce que le laboratoire des cabinets analyse sur place, ce qui part au laboratoire externe, les délais et les prix.
 ---
 
-Une analyse de sang du chien ou du chat se fait au cabinet. Le vétérinaire prélève un peu de sang à la patte ou au cou. Les appareils du laboratoire donnent la plupart des résultats en 20 minutes environ. Les huit cabinets Vetmint analysent aussi l'urine, les selles et la peau. Ils regardent au microscope les cellules prélevées à l'aiguille. Un bilan sanguin complet coûte 145 francs ; les biopsies partent vers un laboratoire externe.
+Une analyse de sang du chien ou du chat se fait au cabinet. Le vétérinaire prélève un peu de sang à la patte ou au cou. Les appareils du laboratoire donnent la plupart des résultats en 20 minutes environ. Les huit cabinets Vetmint analysent aussi l'urine, les selles et la peau. Ils regardent au microscope les cellules prélevées à l'aiguille. Les biopsies partent vers un laboratoire externe.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -80,18 +80,7 @@ Un résultat anormal ne veut pas toujours dire maladie. Une valeur peut monter a
 
 ## Le prix
 
-| Analyse | Ce qui est compris | Prix |
-|---|---|---|
-| Bilan sanguin complet | prélèvement, formule sanguine, biochimie, lecture des résultats | 145 CHF |
-| Prise de sang avant une anesthésie | prélèvement, valeurs des reins et du foie, globules rouges | 85 CHF |
-| Analyse d'urine | bandelette, densité, examen au microscope | 45 CHF |
-| Analyse de selles | recherche des œufs de vers et des parasites | 40 CHF |
-| Cytologie | ponction à l'aiguille fine, lecture de la lame au cabinet | 55 CHF |
-| Biopsie avec analyse externe | prélèvement, envoi, rapport du pathologiste, hors anesthésie | 180 à 280 CHF |
-
-Ces prix s'ajoutent à la consultation de 30 minutes, qui coûte 54 à 59 francs selon le cabinet. La page [Tarifs](/tarifs/) donne les prix par cabinet.
-
-Deux formules comprennent des analyses. Les [abonnements](/abonnements/) pour chien et chat adultes incluent un test sanguin par an ; les formules Adulte+ et Senior ajoutent une analyse d'urine. Le plan de prévention chaton inclut le test FIV/FeLV.
+Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les mesure. Le vétérinaire vous l'annonce avant le prélèvement. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
 
 ## Questions fréquentes
 

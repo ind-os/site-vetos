@@ -1,18 +1,18 @@
 ---
 type: service
 url: /de/leistungen/heimtiere/
-title: "Tierarzt für Heimtiere: Kaninchen, Nager, Vögel | Vetmint"
-description: "Heimtiermedizin bei Vetmint: Kaninchen und Nager in allen acht Praxen, Vögel und Reptilien in Fribourg Ouest. Kaninchenimpfung, Operationen, Zähne, Preise."
-h1: Heimtiermedizin, vom Kaninchen bis zum Reptil
-nom: Heimtiere
+title: "Erweiterte Heimtiermedizin: Kaninchen, Vögel | Vetmint"
+description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen und Nager in allen acht Praxen, Vögel und Reptilien in Fribourg Ouest. Impfungen, Operationen, Zähne."
+h1: "Erweiterte Heimtiermedizin: vom Kaninchen bis zum Reptil"
+nom: Erweiterte Heimtiermedizin
 recherche: Tierarzt Heimtiere
-redige_le: 2026-10-16
-ordre: 15
+redige_le: 2026-11-10
+ordre: 11
 especes: [nac]
 resume: Kaninchen und Nager in allen acht Praxen, Vögel, Reptilien und komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
 ---
 
-Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen Kaninchen und Nager. Vögel, Reptilien und schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert. Eine Konsultation kostet je nach Praxis 54 bis 59 Franken, eine spezialisierte Konsultation ab 60 Franken.
+Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen Kaninchen und Nager. Vögel, Reptilien und schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert.
 
 [Termin für ein Heimtier in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
 
@@ -78,17 +78,7 @@ Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb finden Sie auf
 
 ## Der Preis
 
-| Leistung | Was inbegriffen ist | Preis |
-|---|---|---|
-| Konsultation von 30 Minuten | Untersuchung, Wägung, Beratung | CHF 54.– bis 59.– |
-| Spezialisierte Heimtier-Konsultation (Fribourg Ouest) | vertiefte Untersuchung, Behandlungsplan, schriftliches Merkblatt | CHF 140.– |
-| Jahrescheck mit Kaninchenimpfung | Konsultation von 30 Minuten, RHD-Impfung | CHF 63.– bis 76.– |
-| Kastration des Kaninchens | Untersuchung vor der Narkose, Gasnarkose, Operation, Schmerzbehandlung, zwei Kontrollen | CHF 131.– bis 185.– |
-| Kastration eines Kaninchens oder eines Nagers (Fribourg Ouest) | gleicher Umfang | CHF 150.– |
-| Sterilisation des Kaninchenweibchens | Untersuchung vor der Narkose, Gasnarkose, Operation, Schmerzbehandlung, zwei Kontrollen | CHF 250.– bis 380.– |
-| Gesundheitscheck mit Tollwutimpfung beim Frettchen | Konsultation von 30 Minuten, Impfung, Heimtierausweis, Auslesen des Mikrochips | CHF 77.– bis 89.– |
-
-Die Preise unterscheiden sich von Praxis zu Praxis; es sind die der Preisliste, die seit dem 29. April 2025 gilt. Zahnbehandlungen, Röntgenaufnahmen und die stationäre Betreuung werden nach der Untersuchung beziffert. Die Seite [Preise](/de/preise/) enthält die Preisliste jeder Praxis.
+Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart und der Praxis ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
 
 ## Häufige Fragen
 
