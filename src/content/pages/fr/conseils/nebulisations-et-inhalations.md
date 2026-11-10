@@ -72,6 +72,6 @@ Ces soins font partie du traitement de plusieurs maladies décrites dans nos con
 
 ## Le suivi des NAC chez Vetmint
 
-La page [Médecine avancée des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins, les rongeurs et les oiseaux. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Le vétérinaire y remet des fiches écrites pour chaque soin à faire à la maison.
+La page [Médecine avancée des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins, les rongeurs et les oiseaux. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/). Le vétérinaire y remet des fiches écrites pour chaque soin à faire à la maison.
 
 [Trouver un cabinet Vetmint](/cabinets/)

@@ -73,7 +73,7 @@ Zeigt der Ultraschall eine Veränderung, schlägt die Tierärztin oder der Tiera
 
 ## Der Preis
 
-Der Preis eines Ultraschalls hängt vom untersuchten Organ und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Untersuchung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis eines Ultraschalls hängt vom untersuchten Organ und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Untersuchung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

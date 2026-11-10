@@ -92,6 +92,6 @@ In Payerne kostet der Plan 515 Franken für das Jahr, mit unbegrenzten Konsultat
 
 ### Haben die anderen Praxen dieselben Preise?
 
-Der Basisplan kostet in allen Praxen von Vetmint 515 Franken; der Preis mancher Optionen ändert sich von Praxis zu Praxis. Die Seite [Präventionsplan und Abonnemente von Vetmint](/de/abonnemente/) vergleicht sie.
+Der Basisplan kostet in allen Praxen von Vetmint 515 Franken; der Preis mancher Optionen ändert sich von Praxis zu Praxis. Jede Praxis veröffentlicht ihre eigenen auf ihrer Abonnement-Seite, über die [Liste der Praxen](/de/praxen/).
 
 [Einen Termin vereinbaren](/de/payerne/termin/)

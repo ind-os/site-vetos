@@ -69,6 +69,6 @@ Das ist möglich, vor allem bei einer Person mit geschwächter Abwehr. Diese Fä
 
 ## Ihr Kaninchen betreuen lassen
 
-Eine Encephalitozoonose wird über mehrere Wochen begleitet. Der Parasit kann auch [Harnwegsprobleme](/de/ratgeber/harngriess/) begünstigen. Unsere Praxen empfangen Kaninchen zur Konsultation; die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt vor, was wir ihnen anbieten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet zudem eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken.
+Eine Encephalitozoonose wird über mehrere Wochen begleitet. Der Parasit kann auch [Harnwegsprobleme](/de/ratgeber/harngriess/) begünstigen. Unsere Praxen empfangen Kaninchen zur Konsultation; die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt vor, was wir ihnen anbieten. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet zudem eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an.
 
 [In einer Praxis einen Termin vereinbaren](/de/praxen/)

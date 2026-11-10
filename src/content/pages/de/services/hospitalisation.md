@@ -75,7 +75,7 @@ Halten Sie Ihr Tier in den ersten Tagen ruhig. Rufen Sie die Praxis an, wenn es 
 
 ## Der Preis
 
-Der Preis eines stationären Aufenthalts hängt von der Anzahl Tage, der Grösse des Tiers und der Behandlung ab. Bei der Aufnahme erhalten Sie einen Kostenvoranschlag, und die Praxis informiert Sie, wenn er sich ändert. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis eines stationären Aufenthalts hängt von der Anzahl Tage, der Grösse des Tiers und der Behandlung ab. Bei der Aufnahme erhalten Sie einen Kostenvoranschlag, und die Praxis informiert Sie, wenn er sich ändert. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

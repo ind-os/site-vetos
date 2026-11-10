@@ -78,7 +78,7 @@ Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb finden Sie auf
 
 ## Der Preis
 
-Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart und der Praxis ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart und der Praxis ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

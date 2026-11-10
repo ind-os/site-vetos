@@ -107,6 +107,6 @@ Le plan de prévention coûte 515 francs pour la première année d'un chiot ou 
 
 ## Comparer avec les autres cabinets
 
-Les huit cabinets Vetmint publient leurs prix. La consultation y coûte de 54 à 59 francs selon le lieu. Le tableau cabinet par cabinet est sur la page [tarifs de Vetmint](/tarifs/).
+Chaque cabinet Vetmint publie ses prix sur sa propre page Tarifs. Vous les trouverez depuis la [liste des cabinets](/cabinets/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

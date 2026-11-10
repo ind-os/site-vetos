@@ -70,6 +70,6 @@ Les lapins à poil fin et les lapins âgés ou arthrosiques demandent une survei
 
 ## Faire soigner votre lapin
 
-Une pododermatite se soigne en consultation, dans le cabinet Vetmint le plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine avancée des NAC](/services/nac/). Quand une plaie ne guérit pas, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs.
+Une pododermatite se soigne en consultation, dans le cabinet Vetmint le plus proche de chez vous. Les soins que nous proposons aux lapins et aux rongeurs sont décrits sur la page [Médecine avancée des NAC](/services/nac/). Quand une plaie ne guérit pas, le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une [consultation spécialisée NAC](/fribourg/services/nac/).
 
 [Choisir son cabinet](/cabinets/)

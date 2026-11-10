@@ -75,7 +75,7 @@ Der Laser ersetzt keine Schmerzmittel. Er ergänzt sie. Bei einem Hund mit Arthr
 
 ## Der Preis
 
-Der Preis hängt von der Anzahl Sitzungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen in der ersten Sitzung, zusammen mit dem vorgeschlagenen Rhythmus. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis hängt von der Anzahl Sitzungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen in der ersten Sitzung, zusammen mit dem vorgeschlagenen Rhythmus. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

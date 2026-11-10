@@ -101,7 +101,7 @@ Rufen Sie die Praxis an, wenn die Wunde blutet, aufgeht, anschwillt oder nässt,
 
 ## Der Preis
 
-Eine Operation ist von Tier zu Tier verschieden, und die Preise sind nicht in allen Praxen gleich. Vor der Operation erhalten Sie eine schriftliche Offerte. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Eine Operation ist von Tier zu Tier verschieden, und die Preise sind nicht in allen Praxen gleich. Vor der Operation erhalten Sie eine schriftliche Offerte. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

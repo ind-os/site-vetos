@@ -78,7 +78,7 @@ Un animal opéré d'une articulation garde parfois de l'arthrose. Le vétérinai
 
 ## Le prix
 
-Le prix dépend de l'opération, du matériel posé et de la taille de l'animal. La chirurgienne vous remet un devis écrit après la consultation. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix dépend de l'opération, du matériel posé et de la taille de l'animal. La chirurgienne vous remet un devis écrit après la consultation. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

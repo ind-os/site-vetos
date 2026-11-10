@@ -92,6 +92,6 @@ Pour arrêter l'abonnement, écrivez à [payerne@vetmint.ch](mailto:payerne@vetm
 
 ### Les autres cabinets ont-ils les mêmes prix ?
 
-Le plan de base coûte 515 francs dans tous les cabinets Vetmint ; le prix de certaines options change d'un cabinet à l'autre. La page [plan de prévention et abonnements de Vetmint](/abonnements/) les compare.
+Le plan de base coûte 515 francs dans tous les cabinets Vetmint ; le prix de certaines options change d'un cabinet à l'autre. Chaque cabinet publie les siens sur sa page Abonnements, depuis la [liste des cabinets](/cabinets/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

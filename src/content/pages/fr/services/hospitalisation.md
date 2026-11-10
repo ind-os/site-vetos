@@ -75,7 +75,7 @@ Les premiers jours, gardez votre animal au calme. Appelez le cabinet s'il ne man
 
 ## Le prix
 
-Le prix d'une hospitalisation dépend du nombre de jours, de la taille de l'animal et des soins reçus. Le vétérinaire vous remet un devis à l'admission et vous tient au courant s'il change. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'une hospitalisation dépend du nombre de jours, de la taille de l'animal et des soins reçus. Le vétérinaire vous remet un devis à l'admission et vous tient au courant s'il change. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

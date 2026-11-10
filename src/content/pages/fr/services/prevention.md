@@ -111,7 +111,7 @@ Appelez le cabinet sans attendre si la face ou les paupières gonflent, si l'ani
 
 ## Le prix
 
-Les prix du bilan, des vaccins et de la puce varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations : vous la trouverez depuis la page [Tarifs](/tarifs/). Le plan de prévention du chiot ou du chaton regroupe les soins de la première année, présentés sur la page [Abonnements](/abonnements/).
+Les prix du bilan, des vaccins et de la puce varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations : vous la trouverez depuis la [liste des cabinets](/cabinets/). Le plan de prévention du chiot ou du chaton regroupe les soins de la première année, présentés sur la page Abonnements de votre cabinet.
 
 ## Questions fréquentes
 

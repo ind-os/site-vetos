@@ -80,7 +80,7 @@ Un résultat anormal ne veut pas toujours dire maladie. Une valeur peut monter a
 
 ## Le prix
 
-Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les mesure. Le vétérinaire vous l'annonce avant le prélèvement. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les mesure. Le vétérinaire vous l'annonce avant le prélèvement. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

@@ -60,7 +60,7 @@ Un chat traité et suivi garde en général une bonne qualité de vie. Son espé
 
 On ne peut pas empêcher une hyperthyroïdie. On peut la découvrir avant qu'elle ne laisse de traces. Dès 10 ans, pesez votre chat une fois par mois et notez le chiffre. Une perte de quelques centaines de grammes se voit sur la balance avant de se voir à l'œil. La même pesée sert à suivre un chat trop gros qui suit un régime : le conseil sur l'[obésité du chat](/conseils/obesite-du-chat/) donne le rythme à viser.
 
-Le [bilan sanguin](/conseils/bilan-sanguin/) annuel complète cette surveillance. Dès 7 ans, l'[abonnement senior](/abonnements/) chat comprend une prise de sang et une mesure de la tension chaque année.
+Le [bilan sanguin](/conseils/bilan-sanguin/) annuel complète cette surveillance. Dès 7 ans, l'abonnement senior chat comprend une prise de sang et une mesure de la tension chaque année.
 
 ## Questions fréquentes
 

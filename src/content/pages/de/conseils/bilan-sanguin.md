@@ -61,6 +61,6 @@ Rufen Sie noch am selben Tag an, wenn es sehr blasses Zahnfleisch hat, zusammenb
 
 ## Die Blutentnahme in den Abonnementen
 
-Die [Abonnemente](/de/abonnemente/) von Vetmint für Hunde und Katzen umfassen eine Blutentnahme pro Jahr, mit zwei Konsultationen und der Impfung. Das Senior-Abonnement ab 7 Jahren ergänzt eine Urinanalyse und eine Blutdruckmessung. Die Preise der Analysen ausserhalb des Abonnements stehen auf der Seite [Preise](/de/preise/).
+Die Abonnemente von Vetmint für Hunde und Katzen umfassen eine Blutentnahme pro Jahr, mit zwei Konsultationen und der Impfung. Das Senior-Abonnement ab 7 Jahren ergänzt eine Urinanalyse und eine Blutdruckmessung. Die Preise der Analysen ausserhalb des Abonnements stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 [Eine Praxis Vetmint finden](/de/praxen/)

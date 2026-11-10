@@ -70,6 +70,6 @@ Kaninchen mit feinem Fell sowie alte oder von Arthrose betroffene Kaninchen brau
 
 ## Ihr Kaninchen behandeln lassen
 
-Eine Pododermatitis wird in der Konsultation behandelt, in der Vetmint-Praxis, die Ihnen am nächsten liegt. Die Behandlungen, die wir für Kaninchen und Nager anbieten, sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Wenn eine Wunde nicht heilt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
+Eine Pododermatitis wird in der Konsultation behandelt, in der Vetmint-Praxis, die Ihnen am nächsten liegt. Die Behandlungen, die wir für Kaninchen und Nager anbieten, sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Wenn eine Wunde nicht heilt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) an.
 
 [Praxis wählen](/de/praxen/)

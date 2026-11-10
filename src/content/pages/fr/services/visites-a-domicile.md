@@ -89,7 +89,7 @@ Une visite à domicile ne remplace pas non plus une urgence. Un animal qui respi
 
 ## Le prix
 
-Une visite à domicile ajoute un forfait de déplacement au prix des soins. Le cabinet vous annonce le total au moment de fixer la visite. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Une visite à domicile ajoute un forfait de déplacement au prix des soins. Le cabinet vous annonce le total au moment de fixer la visite. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

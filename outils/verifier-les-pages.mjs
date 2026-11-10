@@ -82,7 +82,7 @@ const LIENS_OBLIGATOIRES = {
   'service-clinique': [
     ['page commune du service', '^/services/[a-z-]+/$'], ['rendez-vous', '^/{c}/rendez-vous/$'], ['tarifs', '^/{c}/tarifs/$'],
   ],
-  'service': [['cabinets', '^/cabinets/$'], ['tarifs', '^/tarifs/$']],
+  'service': [['cabinets', '^/cabinets/$']],
   'accueil-groupe': [['cabinets', '^/cabinets/$'], ['conseils', '^/conseils/'], ['emploi', '^/emploi/$']],
   'conseil': [['une page de service', '^/services/'], ['rendez-vous ou cabinets', '^(/[a-z]+/rendez-vous/|/cabinets/)$'], ['un autre conseil', '^/conseils/']],
 };

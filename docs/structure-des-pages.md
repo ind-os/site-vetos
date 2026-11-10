@@ -147,7 +147,7 @@ Huit à douze questions en `###`, sous trois ou quatre `##` : Rendez-vous et hor
 8. Visites à domicile.
 9. Payer.
 10. Plan de prévention et abonnements, avec le lien vers la page Abonnements.
-11. Comparer avec les autres cliniques, avec le lien vers `/tarifs/`.
+11. Comparer avec les autres cliniques : chacune publie ses prix sur sa page Tarifs, avec le lien vers `/cabinets/`.
 
 Chaque tarif est un tableau à trois colonnes : prestation, ce que vous payez, prix. Chaque soin renvoie à sa page dans la clinique.
 
@@ -169,7 +169,7 @@ Chaque tarif est un tableau à trois colonnes : prestation, ce que vous payez, p
 
 ### Accueil du groupe, `accueil-groupe`
 
-- Objectif : dire ce qu'est Vetmint, orienter vers la bonne clinique, donner accès aux services, aux tarifs et aux conseils.
+- Objectif : dire ce qu'est Vetmint, orienter vers la bonne clinique, donner accès aux services et aux conseils. Aucun montant : les prix ne sont que sur les pages Tarifs et Abonnements de chaque clinique.
 - Recherche : « cliniques vétérinaires Suisse romande ». Title : « Vetmint : huit cliniques vétérinaires en Suisse romande ». H1 : « Vetmint, cliniques vétérinaires en Suisse romande ».
 - Volume : 700 à 1 000 mots. Script.
 - Liens obligatoires : `/cabinets/`, `/conseils/` ou un conseil, `/emploi/`. Script.
@@ -198,14 +198,14 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 
 1. Chapeau : ce que les cabinets font, la consultation de 30 minutes.
 2. Un `##` par famille, Prévention, Chirurgie, Imagerie, Soins analyses et médecine spécialisée, À domicile et en urgence : une liste de liens, un service par ligne avec une phrase, dans l'ordre du menu.
-3. Prix et rendez-vous : les liens vers `/tarifs/` et `/cabinets/`.
+3. Prix et rendez-vous : sans montant, la page Tarifs de chaque clinique, avec le lien vers `/cabinets/`.
 
 ### Un service, page commune, `service`
 
 - Objectif : la page de référence du groupe sur un soin : ce que c'est, pour quels animaux, comment ça se passe, où le faire. Elle ne donne aucun prix, parce que les prix diffèrent d'un cabinet à l'autre. Les pages de service des cliniques y renvoient et ne la recopient pas.
 - Recherche : « {service} {espèce} ». Title : « {Service} du {espèce} : {déroulement, prix ou âge} | Vetmint ». H1 : « {Service} du {espèce} » ou « {Service} : {précision} ».
 - Volume : 1 200 à 2 100 mots. Script.
-- Liens obligatoires : `/cabinets/`, `/tarifs/`. Script. La page renvoie aussi vers un ou deux conseils santé liés quand ils existent.
+- Liens obligatoires : `/cabinets/`. Script. La page renvoie aussi vers un ou deux conseils santé liés quand ils existent.
 
 1. Chapeau : ce que c'est, pour qui, en trois phrases, sans prix.
 2. Ce que montre ou fait le soin, quand le sujet le demande (une radio, une échographie).
@@ -214,7 +214,7 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 5. Le déroulement : étape par étape, qui fait quoi, combien de temps.
 6. La préparation : à jeun ou non, carnet, caisse de transport, jamais à jeun pour un lapin.
 7. Les suites : ce qui est normal, ce qui doit faire rappeler, le contrôle.
-8. Le prix : sans montant. Ce dont le prix dépend, puis la phrase « consultez la page Tarifs de votre cabinet pour plus d'informations », avec le lien vers `/tarifs/`.
+8. Le prix : sans montant. Ce dont le prix dépend, puis la phrase « consultez la page Tarifs de votre cabinet pour plus d'informations », avec le lien vers `/cabinets/`.
 9. Questions fréquentes : quatre à huit questions en `###`, formulées comme au comptoir.
 10. Les cliniques qui le pratiquent : une ligne par clinique, vers sa page Services et son rendez-vous, avec sa particularité.
 11. Prendre rendez-vous : une phrase et le bouton vers `/cabinets/`. Jamais une marque de vaccin ou de médicament, ni un prix absent de la grille.
@@ -227,7 +227,7 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 
 1. Chapeau, puis « Qui appeler, clinique par clinique » : une ligne par clinique avec son téléphone et son bloc garde.
 2. Comment fonctionne la garde.
-3. Ce que coûte une urgence.
+3. Ce que coûte une urgence : les trois parts, sans montant, puis la page Tarifs de chaque clinique par `/cabinets/`. Le coût de l'appel au numéro de garde reste.
 4. Urgence, appel ou rendez-vous : trois `###`, appelez tout de suite, appelez dans la journée, prenez rendez-vous.
 5. Ce que le vétérinaire de garde vous demandera.
 6. Loin de votre clinique habituelle.
@@ -255,8 +255,6 @@ Les sections suivent le sujet : pour une maladie, les signes, les causes, ce que
 
 Volume : 200 à 1 800 mots. Script. Le script ne contrôle pas les liens d'une page `simple` : la relecture s'en charge.
 
-- `/tarifs/` : comment lire ces prix ; consultations ; bilans et vaccins ; stérilisations et castrations ; dents ; imagerie et analyses ; urgences ; soins à domicile ; moyens de paiement ; plan de prévention et abonnements ; le prix dans chaque clinique. Tableaux à trois colonnes. Liens vers `/abonnements/`, chaque service tarifé, `/cabinets/`.
-- `/abonnements/` : à qui s'adresse chaque formule ; le plan de prévention chiot et chaton ; les abonnements mensuels ; le comparatif ; ce qui n'est pas compris ; souscrire, payer, résilier ; questions fréquentes ; où souscrire. Liens vers `/tarifs/`, les services couverts, `/cabinets/`.
 - `/a-propos/` : qui dirige Vetmint ; comment le groupe s'est formé ; ce que partagent les huit cliniques ; Vetmint et les autres vétérinaires ; joindre le groupe.
 - `/emploi/` : les postes ouverts, un `###` par poste et la candidature spontanée ; ce que vous trouvez chez Vetmint ; les huit cliniques ; postuler.
 - `/newsletter/` : ce qu'elle contient ; à quel rythme ; s'inscrire ; se désinscrire.

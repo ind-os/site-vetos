@@ -34,11 +34,11 @@ In den acht Praxen dauert eine Konsultation 30 Minuten. Diese Zeit ist dieselbe 
 
 ### Die Vorsorge
 
-Vetmint fördert die Vorsorge von klein auf: Impfungen, Entwurmungen, Jahrescheck, dann Blutuntersuchung beim älteren Tier. Der [Präventionsplan und die Abonnemente](/de/abonnemente/) regeln die Kosten im Voraus.
+Vetmint fördert die Vorsorge von klein auf: Impfungen, Entwurmungen, Jahrescheck, dann Blutuntersuchung beim älteren Tier. Der Präventionsplan und die Abonnemente jeder Praxis regeln die Kosten im Voraus.
 
 ### Angekündigte Preise
 
-Die [Preise](/de/preise/) jeder Praxis sind veröffentlicht, mit dem, was jede Pauschale umfasst. Die Unterschiede zwischen den Praxen sind dort ebenfalls aufgeführt.
+Jede Praxis veröffentlicht ihre Preise auf ihren eigenen Seiten, mit dem, was jede Pauschale umfasst. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ### Ein Empfang, der den Stress begrenzt
 

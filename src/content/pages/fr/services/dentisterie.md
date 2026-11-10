@@ -91,7 +91,7 @@ Une récompense après chaque séance installe l'habitude. Le vétérinaire vous
 
 ## Le prix
 
-Le prix d'un détartrage dépend du temps passé, des radiographies des dents et des extractions éventuelles. Le vétérinaire vous remet un devis après l'examen de la bouche. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'un détartrage dépend du temps passé, des radiographies des dents et des extractions éventuelles. Le vétérinaire vous remet un devis après l'examen de la bouche. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

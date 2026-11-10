@@ -23,7 +23,7 @@ Der [Mikrochip](/de/leistungen/praevention/) identifiziert Ihre Katze in ANIS, d
 
 Nach der [Kastration](/de/leistungen/chirurgie/) nimmt eine Katze leichter zu. Ein Futter für kastrierte Katzen und eine abgewogene Ration beugen dem vor. Ab 10 Jahren erkennt eine Blutuntersuchung pro Jahr die Schilddrüsenüberfunktion und Nierenkrankheiten, bevor erste Anzeichen auftreten.
 
-Der Präventionsplan für Kätzchen deckt das erste Lebensjahr ab, einschliesslich FIV- und FeLV-Test. Das Senior-Abonnement ab 7 Jahren umfasst zusätzlich jedes Jahr eine Blutuntersuchung und eine Blutdruckmessung. Beide Angebote stehen auf der Seite [Abonnemente](/de/abonnemente/).
+Der Präventionsplan für Kätzchen deckt das erste Lebensjahr ab, einschliesslich FIV- und FeLV-Test. Das Senior-Abonnement ab 7 Jahren umfasst zusätzlich jedes Jahr eine Blutuntersuchung und eine Blutdruckmessung. Beide Angebote stehen auf der Abonnement-Seite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Wann anrufen statt lesen
 

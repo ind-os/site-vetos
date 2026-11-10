@@ -15,7 +15,7 @@ La newsletter Vetmint est une lettre d'information envoyée par e-mail quatre fo
 - **Le geste de saison** : les tiques et les vermifuges au printemps, la chaleur et les voyages en été. En automne, le bilan du chat âgé ; en hiver, les dangers des fêtes (chocolat, décorations, restes de repas).
 - **Un conseil santé** : un article de nos vétérinaires résumé en quelques lignes, avec le lien vers le texte complet dans les [conseils santé](/conseils/).
 - **Votre cabinet** : fermetures des jours fériés, horaires d'été, arrivée d'un vétérinaire ou d'une assistante dans l'équipe.
-- **La prévention de votre animal** : les rappels utiles du [plan de prévention et des abonnements](/abonnements/).
+- **La prévention de votre animal** : les rappels utiles du plan de prévention et des abonnements.
 
 La lettre ne contient aucune publicité de marque et aucun message d'une autre entreprise.
 

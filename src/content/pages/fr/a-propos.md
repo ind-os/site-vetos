@@ -34,11 +34,11 @@ Dans les huit cabinets, une consultation dure 30 minutes. Ce temps est le même 
 
 ### La prévention
 
-Vetmint pousse la prévention dès le premier âge : vaccins, vermifuges, bilan annuel, puis prise de sang chez l'animal âgé. Le [plan de prévention et les abonnements](/abonnements/) en règlent le coût à l'avance.
+Vetmint pousse la prévention dès le premier âge : vaccins, vermifuges, bilan annuel, puis prise de sang chez l'animal âgé. Le plan de prévention et les abonnements de chaque cabinet en règlent le coût à l'avance.
 
 ### Des prix annoncés
 
-Les [tarifs](/tarifs/) de chaque cabinet sont publiés avec ce que comprend chaque forfait. Les écarts entre cabinets y figurent aussi.
+Chaque cabinet publie ses tarifs sur ses propres pages, avec ce que comprend chaque forfait. Vous les trouverez depuis la [liste des cabinets](/cabinets/).
 
 ### Un accueil qui limite le stress
 

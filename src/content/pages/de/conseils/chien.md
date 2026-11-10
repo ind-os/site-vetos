@@ -23,7 +23,7 @@ Beim selben Termin werden auch Entwurmung und Zeckenschutz besprochen, je nach A
 
 Die [Sterilisation](/de/leistungen/chirurgie/) der Hündin senkt ihr Diabetesrisiko. Ab 7 Jahren erkennt eine jährliche Blutuntersuchung Krankheiten, die ohne Symptome beginnen.
 
-Der Präventionsplan für Welpen deckt das erste Lebensjahr ab: Konsultationen, Impfungen, Entwurmungen, Mikrochip und Pass. Im Erwachsenenalter übernehmen die Abonnemente. Beide sind auf der Seite [Abonnemente](/de/abonnemente/) beschrieben.
+Der Präventionsplan für Welpen deckt das erste Lebensjahr ab: Konsultationen, Impfungen, Entwurmungen, Mikrochip und Pass. Im Erwachsenenalter übernehmen die Abonnemente. Beide sind auf der Abonnement-Seite Ihrer Praxis beschrieben, über die [Liste der Praxen](/de/praxen/).
 
 ## Wann anrufen statt lesen
 

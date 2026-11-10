@@ -8,33 +8,29 @@ recherche: cabinets vétérinaires Suisse romande
 redige_le: 2026-10-16
 ---
 
-Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est tenu et géré par des vétérinaires. Chaque cabinet reçoit les chiens, les chats, les lapins et les petits rongeurs sur rendez-vous. Les consultations durent 30 minutes. Les cabinets ouvrent du lundi au vendredi ; certaines reçoivent aussi le samedi matin.
+Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est tenu et géré par des vétérinaires. Chaque cabinet reçoit les chiens, les chats, les lapins et les petits rongeurs sur rendez-vous. Les cabinets ouvrent du lundi au vendredi ; certains cabinets reçoivent aussi le samedi matin.
 
 ## Trouver votre cabinet
 
-Chaque cabinet a ses pages, avec son équipe, ses horaires et la prise de rendez-vous : [Bussigny](/bussigny/), [La Chaux-de-Fonds](/chauxdefonds/), [Domdidier](/domdidier/), [Fribourg Ouest](/fribourg/) à Givisiez, [Lac-de-Joux](/lacdejoux/) à L'Abbaye, [Payerne](/payerne/), [Saint-Blaise](/saintblaise/) et [Saint-Légier](/saintlegier/). Quatre cabinets sont dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel.
-
-Certains cabinets proposent un soin que les autres n'ont pas. Fribourg Ouest tient une consultation pour les NAC et une consultation de la douleur. La thérapie laser est proposée à Bussigny, Domdidier, Saint-Blaise et Saint-Légier. La Chaux-de-Fonds pose aussi des puces électroniques miniatures et des thermochips, des puces qui mesurent la température. À Domdidier, l'équipe consulte en français, en portugais et en anglais. Lac-de-Joux opère par laparoscopie, avec de petites incisions et une caméra.
+Vetmint a des cabinets dans huit régions de Suisse romande : dans l'Ouest lausannois à [Bussigny](/bussigny/), sur la Riviera à [Saint-Légier](/saintlegier/), à la vallée de Joux à [L'Abbaye](/lacdejoux/), dans la Broye à [Payerne](/payerne/) et à [Domdidier](/domdidier/), près de Fribourg à [Givisiez](/fribourg/), au bord du lac de Neuchâtel à [Saint-Blaise](/saintblaise/) et dans les Montagnes neuchâteloises à [La Chaux-de-Fonds](/chauxdefonds/).
 
 [Adresses, horaires et garde des huit cabinets](/cabinets/)
 
 ## Ce que nos huit cabinets font de la même façon
 
+Chaque cabinet a son équipe, ses locaux et sa région. Tous partagent pourtant la même façon de soigner, qui fait de Vetmint un groupe à part entière.
+
 ### Une consultation de 30 minutes
 
-Le vétérinaire prend le temps d'examiner votre animal en entier, de vous interroger sur son appétit, son poids et son comportement, puis de répondre à vos questions. Ce temps suffit souvent pour repérer un problème qui commence. La consultation coûte de 54 à 59 francs selon le cabinet.
+Quel que soit le motif de votre visite, nous réservons toujours au moins 30 minutes pour vous. Ce temps est le même pour un vaccin, un bilan ou un animal qui ne va pas bien. C'est ce qu'il faut pour examiner votre animal de la truffe à la queue. Le vétérinaire vous interroge sur ce qui lui arrive : son appétit, son poids, son comportement, depuis quand les signes sont apparus. Puis il répond à toutes vos questions, sans vous presser. Ce temps suffit souvent pour repérer un problème qui commence, avant qu'il ne s'installe. Vous repartez en sachant ce qu'a votre animal, ce qu'il faut faire à la maison et quand revenir.
 
 ### La prévention avant le soin
 
-Vaccins, vermifuges, anti-puces et bilan annuel évitent bien des maladies. Le bilan annuel avec vaccins comprend la consultation de 30 minutes : il coûte de 86 à 94 francs pour un chien. Pour le chiot et le chaton, le plan de prévention couvre une année de consultations, de vaccins et de vermifuges, avec la puce électronique et le passeport, pour 515 francs. Pour le chien et le chat adultes ou âgés, des abonnements mensuels étalent le coût des soins de l'année.
-
-[Plan de prévention et abonnements](/abonnements/)
+Vaccins, vermifuges, anti-puces et bilan annuel évitent bien des maladies. Le bilan annuel avec vaccins comprend la consultation de 30 minutes. Pour le chiot et le chaton, le plan de prévention couvre une année de consultations, de vaccins et de vermifuges, avec la puce électronique et le passeport. Pour le chien et le chat adultes ou âgés, des abonnements mensuels étalent le coût des soins de l'année.
 
 ### Des prix connus avant le rendez-vous
 
-Les prix des consultations, des vaccins, des opérations, des soins dentaires et des urgences sont publiés, avec le détail de ce que chaque forfait comprend. Pour un soin qui n'y figure pas, le cabinet vous donne un devis.
-
-[Nos tarifs](/tarifs/)
+Chaque cabinet publie ses prix sur sa page Tarifs : consultations, vaccins, opérations, soins dentaires et urgences, avec le détail de ce que chaque forfait comprend. Pour un soin qui n'y figure pas, le cabinet vous donne un devis.
 
 ### Une garde la nuit et le week-end
 

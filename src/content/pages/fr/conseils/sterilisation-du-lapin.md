@@ -11,7 +11,7 @@ ordre: 10
 resume: "Stériliser une lapine ou castrer un lapin : âge, bénéfices, préparation sans jeûne, suites et prix."
 ---
 
-La stérilisation retire au lapin ses organes reproducteurs. Chez la femelle, ce sont les ovaires et l'utérus. Chez le mâle, ce sont les testicules : on parle de castration. Si vous ne voulez pas de portée, nos vétérinaires la conseillent pour les deux sexes, dès 4 mois. Elle évite surtout à la lapine les tumeurs de l'utérus, qui touchent la majorité des femelles non stérilisées après 4 ans. Le forfait coûte 250 à 380 francs pour une lapine et 131 à 185 francs pour un mâle, selon le cabinet.
+La stérilisation retire au lapin ses organes reproducteurs. Chez la femelle, ce sont les ovaires et l'utérus. Chez le mâle, ce sont les testicules : on parle de castration. Si vous ne voulez pas de portée, nos vétérinaires la conseillent pour les deux sexes, dès 4 mois. Elle évite surtout à la lapine les tumeurs de l'utérus, qui touchent la majorité des femelles non stérilisées après 4 ans.
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -77,12 +77,9 @@ Comme toute opération, la stérilisation comporte des risques : anesthésie, i
 
 ## Le prix
 
-| Opération | Ce qui est compris | Prix |
-|---|---|---|
-| Stérilisation de la lapine | examen, anesthésie gazeuse surveillée, opération, antidouleur, anti-inflammatoire, deux contrôles | 250 à 380 CHF selon le cabinet, 353 CHF dans la plupart |
-| Castration du lapin | les mêmes étapes | 131 à 185 CHF selon le cabinet, 131 CHF dans la plupart |
+La stérilisation de la lapine est un forfait. Il comprend l'examen, l'anesthésie gazeuse surveillée, l'opération, l'antidouleur, l'anti-inflammatoire et deux contrôles. La castration du lapin suit les mêmes étapes. Les autres traitements éventuels s'ajoutent au forfait.
 
-Les autres traitements éventuels s'ajoutent au forfait. Le détail par cabinet : [nos tarifs](/tarifs/).
+Le prix varie d'un cabinet à l'autre. Il figure sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

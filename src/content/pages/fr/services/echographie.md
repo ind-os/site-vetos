@@ -73,7 +73,7 @@ Si l'échographie montre une lésion, le vétérinaire propose la suite : un pr
 
 ## Le prix
 
-Le prix d'une échographie dépend de l'organe examiné et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'une échographie dépend de l'organe examiné et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

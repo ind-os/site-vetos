@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Die richtige Nummer je nach Uhrzeit und Praxis, der Preis eines Notfalls und die Anzeichen, die nicht warten können.
 ---
 
-In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die meist pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag von 40 bis 176 Franken je nach Praxis und Uhrzeit, danach die Behandlung.
+In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die meist pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag je nach Praxis und Uhrzeit, danach die Behandlung.
 
 [Die nächste Praxis finden](/de/praxen/)
 
@@ -48,18 +48,9 @@ In **Fribourg Ouest** arbeitet abends und am Wochenende eine Tierärztin oder ei
 
 ## Was ein Notfall kostet
 
-Ein Notfall besteht aus drei Teilen. Zuerst die Konsultation von 30 Minuten, je nach Praxis 54 bis 59 Franken. Dann der Notfallzuschlag. Schliesslich die Untersuchungen, die Medikamente und die stationäre Aufnahme, falls es sie gibt. Der Anruf bei der Notfallnummer kommt dazu, wenn Sie sie nutzen.
+Ein Notfall besteht aus drei Teilen. Zuerst die Konsultation von 30 Minuten. Dann der Notfallzuschlag. Schliesslich die Untersuchungen, die Medikamente und die stationäre Aufnahme, falls es sie gibt. Der Anruf bei der Notfallnummer kommt dazu, wenn Sie sie nutzen.
 
-| Praxis | Zuschlag am Tag | Zuschlag in der Nacht | Sonntag und Feiertage |
-|---|---|---|---|
-| Bussigny | CHF 99.–, 8–22 Uhr | CHF 176.–, 22–8 Uhr | CHF 120.– |
-| La Chaux-de-Fonds | CHF 65.–, 8–22 Uhr | CHF 85.–, 22–8 Uhr | CHF 120.– |
-| Saint-Blaise | CHF 99.–, 8–22 Uhr | CHF 176.–, 22–8 Uhr | CHF 120.– |
-| Domdidier, Payerne, Saint-Légier | CHF 99.– während der Öffnungszeiten | CHF 176.– ausserhalb der Öffnungszeiten | CHF 176.– |
-| Fribourg Ouest | CHF 99.– während der Öffnungszeiten | CHF 176.– abends und am Wochenende | CHF 176.– |
-| Lac-de-Joux | CHF 40.– während der Öffnungszeiten | Tarif des Dienstes Médi-Vet | Tarif des Dienstes Médi-Vet |
-
-Ein Beispiel: Eine Katze, die an einem Dienstag um 15 Uhr als Notfall in Bussigny behandelt wird, zahlt 58 Franken Konsultation und 99 Franken Zuschlag. Das macht 157 Franken vor den Untersuchungen und Behandlungen. Vor einer Operation oder einer stationären Aufnahme gibt Ihnen die Tierärztin oder der Tierarzt einen Kostenvoranschlag. Bezahlt wird vor Ort, mit Debitkarte, Kreditkarte oder TWINT. Die Seite [Preise](/de/preise/) nennt die Preise jeder Praxis im Detail.
+Vor einer Operation oder einer stationären Aufnahme gibt Ihnen die Tierärztin oder der Tierarzt einen Kostenvoranschlag. Bezahlt wird vor Ort, mit Debitkarte, Kreditkarte oder TWINT. Der Zuschlag und die übrigen Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Notfall, Anruf oder Termin
 

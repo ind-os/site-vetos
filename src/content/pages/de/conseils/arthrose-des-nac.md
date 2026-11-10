@@ -71,6 +71,6 @@ Jedes Tier reagiert anders. Regelmässige Kontrollen bei der Tierärztin oder be
 
 ## Ihr Tier bei Vetmint entlasten
 
-Die Seite [Lasertherapie](/de/leistungen/lasertherapie/) beschreibt, wie der Laser einen chronischen Schmerz lindert. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine Schmerzkonsultation und eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Die übrigen Behandlungen für Kaninchen und Nager sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt.
+Die Seite [Lasertherapie](/de/leistungen/lasertherapie/) beschreibt, wie der Laser einen chronischen Schmerz lindert. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine Schmerzkonsultation und eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an. Die übrigen Behandlungen für Kaninchen und Nager sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt.
 
 [Die Praxen Vetmint ansehen](/de/praxen/)

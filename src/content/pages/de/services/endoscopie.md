@@ -86,7 +86,7 @@ Rufen Sie die Praxis an, wenn das Tier mehrmals erbricht, stark aus der Nase blu
 
 ## Der Preis
 
-Der Preis hängt vom untersuchten Bereich, der Dauer der Narkose und der Anzahl Biopsien ab. Vor der Untersuchung erhalten Sie eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis hängt vom untersuchten Bereich, der Dauer der Narkose und der Anzahl Biopsien ab. Vor der Untersuchung erhalten Sie eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

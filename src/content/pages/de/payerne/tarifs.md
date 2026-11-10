@@ -107,6 +107,6 @@ Der Präventionsplan kostet 515 Franken für das erste Jahr eines Welpen oder K�
 
 ## Mit den anderen Praxen vergleichen
 
-Die acht Praxen von Vetmint veröffentlichen ihre Preise. Die Konsultation kostet dort je nach Ort 54 bis 59 Franken. Die Tabelle Praxis für Praxis steht auf der Seite [Preise von Vetmint](/de/preise/).
+Jede Vetmint-Praxis veröffentlicht ihre Preise auf ihrer eigenen Preisseite. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 [Einen Termin vereinbaren](/de/payerne/termin/)

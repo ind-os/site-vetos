@@ -48,6 +48,6 @@ Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page d
 
 ## Prix et rendez-vous
 
-Les prix varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
+Les prix varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
 
 [Trouver le cabinet le plus proche](/cabinets/)

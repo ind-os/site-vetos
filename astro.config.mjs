@@ -91,6 +91,11 @@ export default defineConfig({
   // Les services regroupés en treize pages (novembre 2026) : chaque ancienne page mène à celle qui l'a reprise.
   redirects: {
     '/cliniques/': '/cabinets/',
+    // Les prix ne sont plus que sur les pages Tarifs et Abonnements de chaque cabinet (novembre 2026).
+    '/tarifs/': '/cabinets/',
+    '/abonnements/': '/cabinets/',
+    '/de/preise/': '/de/praxen/',
+    '/de/abonnemente/': '/de/praxen/',
     ...servicesRegroupes(),
   },
   markdown: { processor: satteri(extensionsMarkdown) },

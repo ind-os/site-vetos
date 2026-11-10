@@ -91,7 +91,7 @@ Eine Belohnung nach jeder Sitzung festigt die Gewohnheit. Die Tierärztin oder d
 
 ## Der Preis
 
-Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgenbildern und von allfälligen Extraktionen ab. Die Tierärztin oder der Tierarzt gibt Ihnen nach der Untersuchung des Mauls einen Kostenvoranschlag. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgenbildern und von allfälligen Extraktionen ab. Die Tierärztin oder der Tierarzt gibt Ihnen nach der Untersuchung des Mauls einen Kostenvoranschlag. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

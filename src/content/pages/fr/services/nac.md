@@ -78,7 +78,7 @@ Pendant les heures d'ouverture, appelez votre cabinet. En dehors, la page [urgen
 
 ## Le prix
 
-Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC varie selon l'espèce et le cabinet. Le vétérinaire vous annonce le prix avant chaque soin. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC varie selon l'espèce et le cabinet. Le vétérinaire vous annonce le prix avant chaque soin. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

@@ -75,7 +75,7 @@ Les images restent dans le dossier de votre animal. Elles servent de comparaison
 
 ## Le prix
 
-Le prix d'une radiographie dépend du nombre de clichés et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant de faire les clichés. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix d'une radiographie dépend du nombre de clichés et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant de faire les clichés. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

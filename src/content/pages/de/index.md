@@ -8,33 +8,29 @@ recherche: Tierarztpraxen Westschweiz
 redige_le: 2026-10-16
 ---
 
-Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, Freiburg und Neuenburg. Die Gruppe wird von Tierärztinnen und Tierärzten geführt und geleitet. Jede Praxis empfängt Hunde, Katzen, Kaninchen und kleine Nager nach Terminvereinbarung. Die Konsultationen dauern 30 Minuten. Die Praxen sind von Montag bis Freitag geöffnet. Einige empfangen auch am Samstagvormittag.
+Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, Freiburg und Neuenburg. Die Gruppe wird von Tierärztinnen und Tierärzten geführt und geleitet. Jede Praxis empfängt Hunde, Katzen, Kaninchen und kleine Nager nach Terminvereinbarung. Die Praxen sind von Montag bis Freitag geöffnet. Einige empfangen auch am Samstagvormittag.
 
 ## Ihre Praxis finden
 
-Jede Praxis hat ihre Seiten mit Team, Öffnungszeiten und Terminvereinbarung: [Bussigny](/de/bussigny/), [La Chaux-de-Fonds](/de/chauxdefonds/), [Domdidier](/de/domdidier/), [Fribourg Ouest](/de/fribourg/) in Givisiez, [Lac-de-Joux](/de/lacdejoux/) in L'Abbaye, [Payerne](/de/payerne/), [Saint-Blaise](/de/saintblaise/) und [Saint-Légier](/de/saintlegier/). Vier Praxen liegen im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg.
-
-Einige Praxen bieten eine Behandlung an, die die anderen nicht haben. Fribourg Ouest führt eine Konsultation für Heimtiere und eine Schmerzkonsultation. Lasertherapie gibt es in Bussigny, Domdidier, Saint-Blaise und Saint-Légier. La Chaux-de-Fonds setzt zudem Miniatur-Mikrochips und Thermochips ein, Chips, die auch die Temperatur messen. In Domdidier berät das Team auf Französisch, Portugiesisch und Englisch. Lac-de-Joux operiert laparoskopisch, mit kleinen Schnitten und einer Kamera.
+Vetmint hat Praxen in acht Regionen der Westschweiz: im Westen von Lausanne in [Bussigny](/de/bussigny/), an der Riviera in [Saint-Légier](/de/saintlegier/), im Vallée de Joux in [L'Abbaye](/de/lacdejoux/), im Broyetal in [Payerne](/de/payerne/) und in [Domdidier](/de/domdidier/), bei Freiburg in [Givisiez](/de/fribourg/), am Neuenburgersee in [Saint-Blaise](/de/saintblaise/) und in den Neuenburger Bergen in [La Chaux-de-Fonds](/de/chauxdefonds/).
 
 [Adressen, Öffnungszeiten und Notfalldienst der acht Praxen](/de/praxen/)
 
 ## Was unsere acht Praxen gleich machen
 
+Jede Praxis hat ihr eigenes Team, ihre eigenen Räume und ihre Region. Alle teilen aber dieselbe Art zu behandeln, und das macht Vetmint zu einer echten Gruppe.
+
 ### Eine Konsultation von 30 Minuten
 
-Die Tierärztin oder der Tierarzt nimmt sich die Zeit, Ihr Tier vollständig zu untersuchen, Sie nach Appetit, Gewicht und Verhalten zu fragen und danach Ihre Fragen zu beantworten. Diese Zeit genügt oft, um ein beginnendes Problem zu erkennen. Die Konsultation kostet je nach Praxis 54 bis 59 Franken.
+Was auch immer der Grund Ihres Besuchs ist: Wir reservieren immer mindestens 30 Minuten für Sie. Die Zeit ist dieselbe für eine Impfung, einen Check oder ein Tier, dem es nicht gut geht. So viel Zeit braucht es, um Ihr Tier von der Nase bis zum Schwanz zu untersuchen. Die Tierärztin oder der Tierarzt fragt Sie, was mit ihm los ist: Appetit, Gewicht, Verhalten und seit wann die Anzeichen bestehen. Danach beantwortet sie oder er alle Ihre Fragen, ohne Sie zu drängen. Diese Zeit genügt oft, um ein beginnendes Problem zu erkennen, bevor es sich festsetzt. Sie gehen nach Hause und wissen, was Ihrem Tier fehlt, was zu Hause zu tun ist und wann Sie wiederkommen sollen.
 
 ### Vorbeugen vor Behandeln
 
-Impfungen, Entwurmungen, Mittel gegen Flöhe und der Jahrescheck verhindern viele Krankheiten. Der Jahrescheck mit Impfungen umfasst die Konsultation von 30 Minuten. Er kostet für einen Hund 86 bis 94 Franken. Für Welpen und Kätzchen deckt der Präventionsplan ein Jahr lang Konsultationen, Impfungen und Entwurmungen ab, mit Mikrochip und Pass, für 515 Franken. Für erwachsene und ältere Hunde und Katzen verteilen monatliche Abonnemente die Kosten der Behandlungen eines Jahres.
-
-[Präventionsplan und Abonnemente](/de/abonnemente/)
+Impfungen, Entwurmungen, Mittel gegen Flöhe und der Jahrescheck verhindern viele Krankheiten. Der Jahrescheck mit Impfungen umfasst die Konsultation von 30 Minuten. Für Welpen und Kätzchen deckt der Präventionsplan ein Jahr lang Konsultationen, Impfungen und Entwurmungen ab, mit Mikrochip und Pass. Für erwachsene und ältere Hunde und Katzen verteilen monatliche Abonnemente die Kosten der Behandlungen eines Jahres.
 
 ### Preise, die Sie vor dem Termin kennen
 
-Die Preise für Konsultationen, Impfungen, Operationen, Zahnbehandlungen und Notfälle sind veröffentlicht, mit dem Detail dessen, was jede Pauschale umfasst. Für eine Behandlung, die dort nicht aufgeführt ist, erhalten Sie von der Praxis einen Kostenvoranschlag.
-
-[Unsere Preise](/de/preise/)
+Jede Praxis veröffentlicht ihre Preise auf ihrer Preisseite: Konsultationen, Impfungen, Operationen, Zahnbehandlungen und Notfälle, mit dem Detail dessen, was jede Pauschale umfasst. Für eine Behandlung, die dort nicht aufgeführt ist, erhalten Sie von der Praxis einen Kostenvoranschlag.
 
 ### Ein Notfalldienst nachts und am Wochenende
 

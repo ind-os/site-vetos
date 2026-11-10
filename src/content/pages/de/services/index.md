@@ -48,6 +48,6 @@ Manche dieser Behandlungen gibt es nur in einigen Praxen. Jede Seite sagt, in we
 
 ## Preise und Termin
 
-Die Preise sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
+Die Preise sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
 
 [Die nächste Praxis finden](/de/praxen/)

@@ -78,7 +78,7 @@ Ein am Gelenk operiertes Tier behält manchmal Arthrose. Sie wird mit tiergerech
 
 ## Der Preis
 
-Der Preis hängt von der Operation, dem eingesetzten Material und der Grösse des Tieres ab. Die Chirurgin gibt Ihnen nach der Konsultation eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis hängt von der Operation, dem eingesetzten Material und der Grösse des Tieres ab. Die Chirurgin gibt Ihnen nach der Konsultation eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

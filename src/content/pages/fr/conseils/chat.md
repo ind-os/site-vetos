@@ -23,7 +23,7 @@ La [puce électronique](/services/prevention/) identifie votre chat dans ANIS, l
 
 Après la [stérilisation](/services/chirurgie/), un chat prend plus facilement du poids. Un aliment pour chat stérilisé et une ration pesée l'évitent. Dès 10 ans, une prise de sang par an repère l'hyperthyroïdie et les maladies des reins avant les premiers signes.
 
-Le plan de prévention chaton couvre sa première année, test de dépistage FIV et FeLV compris. L'abonnement senior, dès 7 ans, ajoute chaque année une prise de sang et une mesure de la tension. Les deux formules sont sur la page [Abonnements](/abonnements/).
+Le plan de prévention chaton couvre sa première année, test de dépistage FIV et FeLV compris. L'abonnement senior, dès 7 ans, ajoute chaque année une prise de sang et une mesure de la tension. Les deux formules sont décrites sur la page Abonnements de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Quand appeler plutôt que lire
 

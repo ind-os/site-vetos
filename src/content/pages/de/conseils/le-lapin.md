@@ -99,7 +99,7 @@ Die Ration im Detail, mit den nach Calciumgehalt eingeteilten Gemüsesorten: [di
 
 Die virale hämorrhagische Krankheit (VHD oder RHD) tötet fast alle Kaninchen, die sie befällt. Das Virus wird von einem kranken Kaninchen auf ein anderes übertragen, aber auch über verunreinigtes Futter oder eine verunreinigte Umgebung: Auch ein Wohnungskaninchen ist nicht geschützt. Die erste Impfung erfolgt ab 10 Wochen, danach jedes Jahr. Während einer Epidemie kann die Tierärztin oder der Tierarzt zwei Injektionen pro Jahr empfehlen.
 
-Bei Vetmint umfasst der jährliche Gesundheitscheck des Kaninchens die Konsultation von 30 Minuten und diese Impfung. Er kostet je nach Praxis 63 bis 76 Franken ([Preise](/de/preise/)).
+Bei Vetmint umfasst der jährliche Gesundheitscheck des Kaninchens die Konsultation von 30 Minuten und diese Impfung. Sein Preis steht auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 Gegen die Myxomatose, eine andere Viruserkrankung des Kaninchens, gibt es Impfstoffe, aber keiner ist in der Schweiz zugelassen.
 

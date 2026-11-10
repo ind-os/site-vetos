@@ -89,7 +89,7 @@ Ein Hausbesuch ersetzt auch keinen Notfall. Ein Tier, das schlecht atmet, stark 
 
 ## Der Preis
 
-Bei einem Hausbesuch kommt eine Wegpauschale zum Preis der Behandlung hinzu. Die Praxis nennt Ihnen den Gesamtbetrag, wenn der Besuch vereinbart wird. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Bei einem Hausbesuch kommt eine Wegpauschale zum Preis der Behandlung hinzu. Die Praxis nennt Ihnen den Gesamtbetrag, wenn der Besuch vereinbart wird. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

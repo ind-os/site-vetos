@@ -80,7 +80,7 @@ Ein auffälliges Resultat bedeutet nicht immer eine Krankheit. Ein Wert kann nac
 
 ## Der Preis
 
-Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Probenentnahme. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Probenentnahme. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

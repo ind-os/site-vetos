@@ -15,7 +15,7 @@ Der Vetmint Newsletter ist ein Informationsbrief, der viermal im Jahr zu Beginn 
 - **Die Massnahme der Saison**: Zecken und Entwurmung im Frühling, Hitze und Reisen im Sommer. Im Herbst der Gesundheitscheck der älteren Katze, im Winter die Gefahren der Festtage (Schokolade, Dekorationen, Essensreste).
 - **Ein Gesundheitsratgeber**: ein Artikel unserer Tierärztinnen und Tierärzte, in wenigen Zeilen zusammengefasst, mit dem Link zum vollständigen Text im [Gesundheitsratgeber](/de/ratgeber/).
 - **Ihre Praxis**: Schliessungen an Feiertagen, Sommeröffnungszeiten, der Eintritt einer Tierärztin, eines Tierarztes oder einer Assistentin ins Team.
-- **Die Vorsorge Ihres Tieres**: die nützlichen Erinnerungen aus dem [Präventionsplan und den Abonnementen](/de/abonnemente/).
+- **Die Vorsorge Ihres Tieres**: die nützlichen Erinnerungen aus dem Präventionsplan und den Abonnementen.
 
 Der Newsletter enthält weder Markenwerbung noch Mitteilungen anderer Unternehmen.
 

@@ -71,6 +71,6 @@ Chaque animal réagit différemment. Des bilans réguliers avec le vétérinaire
 
 ## Soulager votre animal chez Vetmint
 
-La page [Thérapie laser](/services/laser/) décrit comment le laser soulage une douleur chronique. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une consultation douleur et une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les autres soins des lapins et rongeurs sont présentés sur la page [Médecine avancée des NAC](/services/nac/).
+La page [Thérapie laser](/services/laser/) décrit comment le laser soulage une douleur chronique. Le cabinet Vetmint Fribourg Ouest, à Givisiez, propose une consultation douleur et une [consultation spécialisée NAC](/fribourg/services/nac/). Les autres soins des lapins et rongeurs sont présentés sur la page [Médecine avancée des NAC](/services/nac/).
 
 [Voir les cabinets Vetmint](/cabinets/)

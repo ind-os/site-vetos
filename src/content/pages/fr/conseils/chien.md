@@ -23,7 +23,7 @@ Le même rendez-vous fait le point sur les vermifuges et les anti-tiques, selon 
 
 La [stérilisation](/services/chirurgie/) de la chienne réduit son risque de diabète. Dès 7 ans, une prise de sang chaque année repère les maladies qui commencent sans bruit.
 
-Le plan de prévention chiot couvre la première année : consultations, vaccins, vermifuges, puce et passeport. Les abonnements prennent le relais à l'âge adulte. Les deux sont décrits sur la page [Abonnements](/abonnements/).
+Le plan de prévention chiot couvre la première année : consultations, vaccins, vermifuges, puce et passeport. Les abonnements prennent le relais à l'âge adulte. Les deux sont décrits sur la page Abonnements de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Quand appeler plutôt que lire
 

@@ -30,7 +30,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `urgences-groupe` | urgences de tout Vetmint | rien |
 | `conseil-index`, `conseil-categorie` | conseils santé, par espèce | cartes des conseils, rendez-vous à côté |
 | `conseil` | un conseil santé | photo, rendez-vous à côté, trois conseils de la même espèce |
-| `simple` | tarifs et abonnements comparés, à propos, emploi, lettre d'information, pages légales | rien |
+| `simple` | à propos, emploi, lettre d'information, pages légales | rien |
 | `accueil-clinique` | accueil d'une clinique | premier écran avec rendez-vous et urgence, horaires, accès, aperçu de l'équipe |
 | `services-clinique` | les services d'une clinique | une carte par soin de la fiche |
 | `equipe` | équipe | une carte par personne de la fiche |
@@ -53,7 +53,6 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `/conseils/` | `conseils/index.md` | `conseil-index` |
 | `/conseils/chien/`, `/conseils/chat/`, `/conseils/nac/` | `conseils/<espèce>.md` | `conseil-categorie` |
 | `/conseils/<conseil>/` | `conseils/<conseil>.md` | `conseil` |
-| `/tarifs/`, `/abonnements/` | `tarifs.md`, `abonnements.md` | `simple` |
 | `/a-propos/`, `/emploi/`, `/newsletter/` | `a-propos.md`, `emploi.md`, `newsletter.md` | `simple` |
 | `/confidentialite/`, `/mentions-legales/` | `confidentialite.md`, `mentions-legales.md` | `simple` |
 

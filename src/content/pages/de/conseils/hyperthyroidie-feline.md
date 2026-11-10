@@ -60,7 +60,7 @@ Eine behandelte und kontrollierte Katze hat in der Regel eine gute Lebensqualit�
 
 Eine Schilddrüsenüberfunktion lässt sich nicht verhindern. Man kann sie aber entdecken, bevor sie Spuren hinterlässt. Wiegen Sie Ihre Katze ab 10 Jahren einmal im Monat und notieren Sie den Wert. Ein Verlust von einigen hundert Gramm zeigt sich auf der Waage, bevor man ihn mit dem Auge sieht. Dieselbe Wägung dient dazu, eine zu dicke Katze auf Diät zu begleiten: Der Ratgeber zum [Übergewicht bei der Katze](/de/ratgeber/uebergewicht-katze/) nennt den anzustrebenden Rhythmus.
 
-Die jährliche [Blutuntersuchung](/de/ratgeber/blutuntersuchung/) ergänzt diese Überwachung. Ab 7 Jahren umfasst das [Senior-Abonnement](/de/abonnemente/) für Katzen jedes Jahr einen Bluttest und eine Blutdruckmessung.
+Die jährliche [Blutuntersuchung](/de/ratgeber/blutuntersuchung/) ergänzt diese Überwachung. Ab 7 Jahren umfasst das Senior-Abonnement für Katzen jedes Jahr einen Bluttest und eine Blutdruckmessung.
 
 ## Häufige Fragen
 

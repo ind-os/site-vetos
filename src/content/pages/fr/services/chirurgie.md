@@ -101,7 +101,7 @@ Appelez le cabinet si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vom
 
 ## Le prix
 
-Une opération varie d'un animal à l'autre et les prix diffèrent d'un cabinet à l'autre. Le vétérinaire vous remet un devis écrit avant l'opération. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Une opération varie d'un animal à l'autre et les prix diffèrent d'un cabinet à l'autre. Le vétérinaire vous remet un devis écrit avant l'opération. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

@@ -61,6 +61,6 @@ Appelez le jour même s'il a les gencives très pâles, s'effondre ou respire av
 
 ## La prise de sang dans les abonnements
 
-Les [abonnements](/abonnements/) Vetmint pour chiens et chats comprennent une prise de sang par an, avec deux consultations et le vaccin. L'abonnement senior, dès 7 ans, y ajoute une analyse d'urine et une mesure de la tension. Les prix des analyses hors abonnement figurent sur la page [Tarifs](/tarifs/).
+Les abonnements Vetmint pour chiens et chats comprennent une prise de sang par an, avec deux consultations et le vaccin. L'abonnement senior, dès 7 ans, y ajoute une analyse d'urine et une mesure de la tension. Les prix des analyses hors abonnement figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 [Trouver un cabinet Vetmint](/cabinets/)

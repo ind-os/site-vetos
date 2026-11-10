@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Le bon numéro selon l'heure et le cabinet, le prix d'une urgence et les signes qui ne peuvent pas attendre.
 ---
 
-Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Pendant les heures d'ouverture, votre cabinet reçoit lui-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, le plus souvent payant à la minute. Une urgence coûte la consultation, un supplément de 40 à 176 francs selon le cabinet et l'heure, puis les soins.
+Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Pendant les heures d'ouverture, votre cabinet reçoit lui-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, le plus souvent payant à la minute. Une urgence coûte la consultation, un supplément selon le cabinet et l'heure, puis les soins.
 
 [Trouver le cabinet le plus proche](/cabinets/)
 
@@ -48,18 +48,9 @@ Au **Lac-de-Joux**, le cabinet reçoit les urgences pendant ses heures d'ouvertu
 
 ## Ce que coûte une urgence
 
-Une urgence se paie en trois parts. D'abord la consultation de 30 minutes, de 54 à 59 francs selon le cabinet. Ensuite le supplément d'urgence. Enfin les examens, les médicaments et l'hospitalisation s'il y en a. L'appel au numéro de garde s'y ajoute quand vous l'utilisez.
+Une urgence se paie en trois parts. D'abord la consultation de 30 minutes. Ensuite le supplément d'urgence. Enfin les examens, les médicaments et l'hospitalisation s'il y en a. L'appel au numéro de garde s'y ajoute quand vous l'utilisez.
 
-| Cabinet | Supplément de jour | Supplément de nuit | Dimanche et jours fériés |
-|---|---|---|---|
-| Bussigny | 99 CHF, de 8 h à 22 h | 176 CHF, de 22 h à 8 h | 120 CHF |
-| La Chaux-de-Fonds | 65 CHF, de 8 h à 22 h | 85 CHF, de 22 h à 8 h | 120 CHF |
-| Saint-Blaise | 99 CHF, de 8 h à 22 h | 176 CHF, de 22 h à 8 h | 120 CHF |
-| Domdidier, Payerne, Saint-Légier | 99 CHF pendant les heures d'ouverture | 176 CHF en dehors des heures d'ouverture | 176 CHF |
-| Fribourg Ouest | 99 CHF pendant les heures d'ouverture | 176 CHF le soir et le week-end | 176 CHF |
-| Lac-de-Joux | 40 CHF pendant les heures d'ouverture | tarif du service Médi-Vet | tarif du service Médi-Vet |
-
-Un exemple : un chat reçu en urgence un mardi à 15 h à Bussigny paie 58 francs de consultation et 99 francs de supplément. Cela fait 157 francs avant les examens et les soins. Avant une opération ou une hospitalisation, le vétérinaire vous remet un devis. Le paiement se fait sur place, par carte de débit, carte de crédit ou TWINT. La page [Tarifs](/tarifs/) détaille les prix de chaque cabinet.
+Avant une opération ou une hospitalisation, le vétérinaire vous remet un devis. Le paiement se fait sur place, par carte de débit, carte de crédit ou TWINT. Le supplément et les autres prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Urgence, appel ou rendez-vous
 

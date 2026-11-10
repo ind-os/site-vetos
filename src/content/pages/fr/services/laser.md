@@ -75,7 +75,7 @@ Le laser ne remplace pas les médicaments contre la douleur. Il les complète. C
 
 ## Le prix
 
-Le prix dépend du nombre de séances. Le vétérinaire vous le dit à la première séance, avec le rythme proposé. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix dépend du nombre de séances. Le vétérinaire vous le dit à la première séance, avec le rythme proposé. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

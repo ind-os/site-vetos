@@ -64,7 +64,7 @@ L'espèce quand elle est connue (« votre chat », « votre chienne »), « votr
 - **Aucune phrase sur la page elle-même.** Le lien porte sur l'action ou l'objet : « Prendre rendez-vous », « Le plan de prévention chiot ».
 - **Aucun texte qui parle de Vetmint au lieu de parler au propriétaire.** « Le plan de prévention chiot couvre pendant un an les consultations, les vaccins, les vermifuges, la puce électronique et le passeport de votre chiot », pas « notre philosophie nous pousse à proposer toujours plus de prévention ».
 - **Une marque seulement quand elle est le conseil réel de la clinique**, introduite par « par exemple ». Pas de liste de marques d'aliments ou de compléments. Un lien externe mène à un site de référence tenu par des vétérinaires ou une association reconnue, qu'il nomme.
-- **Aucun prix sur une page de service commune** : les prix diffèrent d'un cabinet à l'autre. La page dit de quoi dépend le prix et renvoie vers la page Tarifs du cabinet. Les prix restent sur les pages Tarifs et sur les pages de service de chaque cabinet.
+- **Aucun prix sur une page commune** (accueil, services, conseils, urgences, à propos) : les prix diffèrent d'un cabinet à l'autre. La page dit de quoi dépend le prix et renvoie vers la page Tarifs du cabinet, par la liste des cabinets (`/cabinets/`). Les prix restent sur les pages de chaque cabinet : Tarifs, Abonnements, services, urgences. Seule exception : le coût à la minute d'un numéro de garde en 0900, qui s'affiche à côté du numéro.
 
 ## 2. Le vocabulaire
 

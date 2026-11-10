@@ -111,7 +111,7 @@ Rufen Sie die Praxis sofort an, wenn Gesicht oder Augenlider anschwellen, wenn d
 
 ## Der Preis
 
-Die Preise für Check, Impfungen und Mikrochip sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/). Der Präventionsplan für Welpen und Kätzchen fasst die Behandlungen des ersten Jahres zusammen, beschrieben auf der Seite [Abonnemente](/de/abonnemente/).
+Die Preise für Check, Impfungen und Mikrochip sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/). Der Präventionsplan für Welpen und Kätzchen fasst die Behandlungen des ersten Jahres zusammen, beschrieben auf der Abonnement-Seite Ihrer Praxis.
 
 ## Häufige Fragen
 

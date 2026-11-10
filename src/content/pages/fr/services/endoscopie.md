@@ -86,7 +86,7 @@ Enfin, l'examen demande une anesthésie générale. Pour un animal très affaibl
 
 ## Le prix
 
-Le prix dépend de la partie examinée, de la durée de l'anesthésie et du nombre de biopsies. Le vétérinaire vous remet un devis écrit avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la page [Tarifs](/tarifs/).
+Le prix dépend de la partie examinée, de la durée de l'anesthésie et du nombre de biopsies. Le vétérinaire vous remet un devis écrit avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

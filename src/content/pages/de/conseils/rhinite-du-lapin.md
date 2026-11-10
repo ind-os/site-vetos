@@ -74,6 +74,6 @@ Die beteiligten Bakterien können zwischen Kaninchen übertragen werden, die zus
 
 ## Ihr Kaninchen behandeln lassen
 
-Unsere Tierärztinnen und Tierärzte empfangen Kaninchen zur Konsultation. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was wir für sie tun. Bei einem Schnupfen, der anhält oder wiederkehrt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) ab 60 Franken an.
+Unsere Tierärztinnen und Tierärzte empfangen Kaninchen zur Konsultation. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was wir für sie tun. Bei einem Schnupfen, der anhält oder wiederkehrt, bietet die Vetmint-Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) an.
 
 [Vetmint-Praxis finden](/de/praxen/)

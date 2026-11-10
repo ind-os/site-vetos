@@ -72,6 +72,6 @@ Diese Behandlungen gehören zur Therapie mehrerer Krankheiten, die in unseren Ra
 
 ## Die Betreuung von Heimtieren bei Vetmint
 
-Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen, Nager und Vögel tun. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, ab 60 Franken. Die Tierärztin oder der Tierarzt gibt dort für jede Behandlung zu Hause schriftliche Merkblätter ab.
+Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen, Nager und Vögel tun. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an. Die Tierärztin oder der Tierarzt gibt dort für jede Behandlung zu Hause schriftliche Merkblätter ab.
 
 [Eine Praxis Vetmint finden](/de/praxen/)

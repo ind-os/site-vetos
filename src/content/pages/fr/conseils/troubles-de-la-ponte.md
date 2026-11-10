@@ -68,6 +68,6 @@ Dans certains cas, une [stérilisation](/services/chirurgie/) chirurgicale devie
 
 ## Faire soigner votre oiseau
 
-Le cabinet Vetmint Fribourg Ouest, à Givisiez, reçoit les oiseaux d'ornement et de basse-cour. Il propose une [consultation spécialisée NAC](/fribourg/services/nac/), à partir de 60 francs. Les perroquets y ont aussi une première consultation consacrée à leurs conditions de vie. Pour un œuf bloqué, appelez-la au [026 466 84 84](tel:+41264668484). La page [Médecine avancée des NAC](/services/nac/) présente nos soins aux oiseaux, aux lapins et aux rongeurs.
+Le cabinet Vetmint Fribourg Ouest, à Givisiez, reçoit les oiseaux d'ornement et de basse-cour. Il propose une [consultation spécialisée NAC](/fribourg/services/nac/). Les perroquets y ont aussi une première consultation consacrée à leurs conditions de vie. Pour un œuf bloqué, appelez-la au [026 466 84 84](tel:+41264668484). La page [Médecine avancée des NAC](/services/nac/) présente nos soins aux oiseaux, aux lapins et aux rongeurs.
 
 [Les cabinets Vetmint](/cabinets/)

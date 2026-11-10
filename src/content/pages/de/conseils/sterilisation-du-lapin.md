@@ -11,7 +11,7 @@ ordre: 10
 resume: "Häsin sterilisieren oder Rammler kastrieren: Alter, Nutzen, Vorbereitung ohne Nüchternheit, Zeit danach und Preise."
 ---
 
-Bei der Sterilisation werden dem Kaninchen die Fortpflanzungsorgane entfernt. Bei der Häsin sind es die Eierstöcke und die Gebärmutter. Beim Rammler sind es die Hoden: Man spricht von Kastration. Wenn Sie keinen Wurf wollen, empfehlen unsere Tierärztinnen und Tierärzte sie für beide Geschlechter, ab 4 Monaten. Sie erspart vor allem der Häsin die Gebärmuttertumoren, die die Mehrheit der nicht sterilisierten Weibchen nach 4 Jahren betreffen. Die Pauschale kostet je nach Praxis 250 bis 380 Franken für eine Häsin und 131 bis 185 Franken für einen Rammler.
+Bei der Sterilisation werden dem Kaninchen die Fortpflanzungsorgane entfernt. Bei der Häsin sind es die Eierstöcke und die Gebärmutter. Beim Rammler sind es die Hoden: Man spricht von Kastration. Wenn Sie keinen Wurf wollen, empfehlen unsere Tierärztinnen und Tierärzte sie für beide Geschlechter, ab 4 Monaten. Sie erspart vor allem der Häsin die Gebärmuttertumoren, die die Mehrheit der nicht sterilisierten Weibchen nach 4 Jahren betreffen.
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)
 
@@ -77,12 +77,9 @@ Wie jede Operation birgt die Sterilisation Risiken: Narkose, Wundinfektion, Stil
 
 ## Der Preis
 
-| Operation | Was inbegriffen ist | Preis |
-|---|---|---|
-| Sterilisation der Häsin | Untersuchung, überwachte Inhalationsnarkose, Operation, Schmerzmittel, Entzündungshemmer, zwei Kontrollen | CHF 250.– bis 380.– je nach Praxis, CHF 353.– in den meisten |
-| Kastration des Rammlers | dieselben Schritte | CHF 131.– bis 185.– je nach Praxis, CHF 131.– in den meisten |
+Die Sterilisation der Häsin ist eine Pauschale. Sie umfasst die Untersuchung, die überwachte Inhalationsnarkose, die Operation, Schmerzmittel, Entzündungshemmer und zwei Kontrollen. Die Kastration des Rammlers folgt denselben Schritten. Weitere allfällige Behandlungen kommen zur Pauschale hinzu.
 
-Weitere allfällige Behandlungen kommen zur Pauschale hinzu. Die Einzelheiten pro Praxis: [unsere Preise](/de/preise/).
+Der Preis ist nicht in allen Praxen gleich. Er steht auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

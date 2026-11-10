@@ -75,7 +75,7 @@ Die Bilder bleiben in der Akte Ihres Tieres. Sie dienen bei der nächsten Kontro
 
 ## Der Preis
 
-Der Preis eines Röntgenbilds hängt von der Anzahl Aufnahmen und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor den Aufnahmen. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die Seite [Preise](/de/preise/).
+Der Preis eines Röntgenbilds hängt von der Anzahl Aufnahmen und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor den Aufnahmen. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
