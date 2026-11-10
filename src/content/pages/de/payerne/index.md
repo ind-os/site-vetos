@@ -19,13 +19,11 @@ Die Tierarztpraxis Vetmint Payerne empfängt Hunde, Katzen, Kaninchen und Nager 
 Rufen Sie die [026 660 16 16](tel:+41266601616) an oder schreiben Sie auf WhatsApp an dieselbe Nummer. Das Online-Buchungsmodul zeigt die freien Termine der Woche. Eine Frage, die warten kann, schicken Sie an [payerne@vetmint.ch](mailto:payerne@vetmint.ch): Das Team antwortet während der Öffnungszeiten.
 
 <!-- donnees: horaires -->
-- Montag: 8–12 Uhr und 14–18 Uhr
-- Dienstag: 8–12 Uhr und 14–19 Uhr
-- Mittwoch bis Freitag: 8–12 Uhr und 14–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
-An einzelnen Samstagen öffnet die Praxis von 8.30 bis 15 Uhr. Die geöffneten Samstage werden im Banner der Website angekündigt; rufen Sie vor dem Besuch an.
+Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag. Rufen Sie vor dem Besuch an.
 
 ## Die Leistungen vor Ort
 
@@ -38,7 +36,6 @@ An einzelnen Samstagen öffnet die Praxis von 8.30 bis 15 Uhr. Die geöffneten S
 - Das [digitale Röntgen](/de/payerne/leistungen/roentgen/) umfasst die offiziellen Aufnahmen von Hüften und Ellbogen für die Dysplasie-Untersuchung.
 - Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen, Kaninchen und Nager in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.
 - Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.
-- Die [Fellpflege](/de/leistungen/fellpflege/) erfolgt in der Praxis durch eine Tiermedizinische Praxisassistentin mit Diplom in Fellpflege. Eine Tierärztin oder ein Tierarzt gibt einem Tier, das es nicht erträgt, angefasst zu werden, ein Beruhigungsmittel.
 
 Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Meerschweinchen, Ratten, Chinchillas, Rennmäuse, Degus) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft. Die Seite [Leistungen](/de/payerne/leistungen/) beschreibt jede Leistung, die in der Praxis erbracht wird.
 
@@ -65,7 +62,7 @@ Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an,
 Ausserhalb der Öffnungszeiten rufen Sie die Notfallnummer an, die die Kleintierpraxen der Region gemeinsam betreiben. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen; der Zuschlag für Nacht und Wochenende beträgt 176 Franken.
 
 <!-- donnees: garde -->
-- Notfallnummer: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfallnummer: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
 Die Anzeichen, bei denen Sie anrufen müssen, stehen auf der Seite [Notfall](/de/payerne/notfall/).

@@ -103,10 +103,8 @@ Certaines consultations demandent un savoir-faire ou un appareil particulier. Le
 
 | Consultation | Cabinets | Prix |
 |---|---|---|
-| Consultation avec thérapie laser | Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier | 62 CHF |
-| Consultation spécialisée NAC | Fribourg Ouest | dès 60 CHF |
-| Consultation d'ostéopathie | Domdidier | 111 CHF |
-| Consultation d'ostéopathie | Fribourg Ouest | 140 CHF |
+| Consultation avec thérapie laser | Bussigny, Domdidier, Saint-Blaise, Saint-Légier | 62 CHF |
+| Consultation spécialisée NAC | Fribourg Ouest | 140 CHF |
 | Consultation spécialisée en chirurgie | Fribourg Ouest | 120 CHF |
 
 Un animal reçu en urgence pendant les heures d'ouverture paie un supplément de 40 à 99 francs selon le cabinet.
@@ -147,7 +145,7 @@ Les huit cabinets Vetmint donnent des consultations de 30 minutes. Les horaires 
 
 - [Bussigny](/bussigny/services/) : la réservation en ligne propose la consultation, le vaccin, la première visite du chiot ou du chaton et la séance de laser. [Prendre rendez-vous à Bussigny](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation la moins chère du groupe, à 54 francs. La consultation de santé se réserve en ligne. [Prendre rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : des consultations d'ostéopathie pour chiens et chats. Le cabinet de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- [Domdidier](/domdidier/services/) : des consultations en français, en portugais et en anglais. Le cabinet de Payerne est à une dizaine de minutes. [Prendre rendez-vous à Domdidier](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : deux salles de consultation insonorisées, une consultation NAC et une consultation spécialisée en chirurgie. [Prendre rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : deux salles de consultation et un laboratoire d'analyses sur place. [Prendre rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : deux salles de consultation et un laboratoire relié à un ordinateur qui transmet directement les résultats. [Prendre rendez-vous à Payerne](/payerne/rendez-vous/)

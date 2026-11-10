@@ -79,7 +79,7 @@ En pension, il partage l'air et parfois les gamelles d'autres chats. Pour le vé
 
 ### Mon chat refuse sa caisse. Le vétérinaire peut-il venir à la maison ?
 
-Oui. Un vétérinaire de Payerne fait les vaccins à domicile dans tout le district de la Broye, du lundi au vendredi. Le déplacement coûte 55 francs, en plus du bilan.
+Oui. Un vétérinaire de Payerne fait les vaccins à domicile dans tout le district de la Broye, aux heures d'ouverture du cabinet. Le déplacement coûte 55 francs, en plus du bilan.
 
 ### Nous partons en France avec le chat. Que faut-il ?
 

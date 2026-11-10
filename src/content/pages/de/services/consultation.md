@@ -103,10 +103,8 @@ Manche Konsultationen erfordern besondere Fachkenntnisse oder ein besonderes Ger
 
 | Konsultation | Praxen | Preis |
 |---|---|---|
-| Konsultation mit Lasertherapie | Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier | CHF 62.– |
-| Spezialisierte Heimtier-Konsultation | Fribourg Ouest | ab CHF 60.– |
-| Osteopathie-Konsultation | Domdidier | CHF 111.– |
-| Osteopathie-Konsultation | Fribourg Ouest | CHF 140.– |
+| Konsultation mit Lasertherapie | Bussigny, Domdidier, Saint-Blaise, Saint-Légier | CHF 62.– |
+| Spezialisierte Heimtier-Konsultation | Fribourg Ouest | CHF 140.– |
 | Spezialisierte Konsultation in Chirurgie | Fribourg Ouest | CHF 120.– |
 
 Ein Tier, das während der Öffnungszeiten als Notfall behandelt wird, zahlt je nach Praxis einen Zuschlag von 40 bis 99 Franken.
@@ -147,7 +145,7 @@ Alle acht Praxen Vetmint bieten Konsultationen von 30 Minuten an. Die Öffnungsz
 
 - [Bussigny](/de/bussigny/leistungen/): Die Online-Reservation bietet die Konsultation, die Impfung, den ersten Besuch des Welpen oder Kätzchens und die Lasersitzung an. [Termin in Bussigny vereinbaren](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): die günstigste Konsultation der Gruppe, zu 54 Franken. Die Gesundheitskonsultation lässt sich online reservieren. [Termin in La Chaux-de-Fonds vereinbaren](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): Osteopathie-Konsultationen für Hunde und Katzen. Die Praxis Payerne ist etwa zehn Minuten entfernt. [Termin in Domdidier vereinbaren](/de/domdidier/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Konsultationen auf Französisch, Portugiesisch und Englisch. Die Praxis Payerne ist etwa zehn Minuten entfernt. [Termin in Domdidier vereinbaren](/de/domdidier/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: zwei schallisolierte Konsultationsräume, eine Heimtier-Konsultation und eine spezialisierte Konsultation in Chirurgie. [Termin in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: zwei Konsultationsräume und ein Analyselabor vor Ort. [Termin in Lac-de-Joux vereinbaren](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): zwei Konsultationsräume und ein Labor, das an einen Computer angeschlossen ist, der die Ergebnisse direkt übermittelt. [Termin in Payerne vereinbaren](/de/payerne/termin/)

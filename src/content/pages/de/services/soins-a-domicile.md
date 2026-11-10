@@ -2,17 +2,17 @@
 type: service
 url: /de/leistungen/hausbesuche/
 title: "Hausbesuche Tierarzt: Leistungen, Gebiet, Preis | Vetmint"
-description: "Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehandlungen bei Ihnen zu Hause, Montag bis Freitag von 7.30 bis 19 Uhr. Anfahrt ab 55 Franken."
+description: "Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehandlungen bei Ihnen zu Hause, während der Öffnungszeiten der Praxis. Anfahrt ab 55 Franken."
 h1: Tierärztliche Hausbesuche
 nom: Hausbesuche
 recherche: Tierarzt Hausbesuch
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
-resume: Eine Tierärztin oder ein Tierarzt kommt von Montag bis Freitag für Routinebehandlungen zu Ihnen, Anfahrt ab 55 Franken.
+resume: Eine Tierärztin oder ein Tierarzt kommt während der Öffnungszeiten für Routinebehandlungen zu Ihnen, Anfahrt ab 55 Franken.
 ---
 
-Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden von Montag bis Freitag, von 7.30 bis 19 Uhr, nach Vereinbarung statt. Sie bezahlen die Konsultation zum Preis der Praxis, dazu eine Anfahrtspauschale von 55 Franken an der Waadtländer Riviera, in der Broye und rund um jede Praxis.
+Eine Tierärztin oder ein Tierarzt von Vetmint kann für Routinebehandlungen zu Ihnen nach Hause kommen: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tieres. Die Besuche finden während der Öffnungszeiten der Praxis nach Vereinbarung statt. Sie bezahlen die Konsultation zum Preis der Praxis, dazu eine Anfahrtspauschale von 55 Franken an der Waadtländer Riviera, in der Broye und rund um jede Praxis.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -91,7 +91,7 @@ Die Zahlung erfolgt vor Ort, nach der Konsultation, mit Karte oder mit TWINT. Di
 
 ### Kommt die Tierärztin oder der Tierarzt auch am Samstag oder am Abend?
 
-Die Besuche finden von Montag bis Freitag zwischen 7.30 und 19 Uhr statt. Abends und am Wochenende antwortet nur der Notfalldienst, für Notfälle.
+Die Besuche finden während der Öffnungszeiten der Praxis statt, nie ausserhalb. Die Öffnungszeiten jeder Praxis stehen auf der Seite [Unsere Praxen](/de/praxen/). Ausserhalb dieser Zeiten antwortet nur der Notfalldienst, für Notfälle.
 
 ### Kann ich alle meine Katzen in einem einzigen Besuch impfen lassen?
 

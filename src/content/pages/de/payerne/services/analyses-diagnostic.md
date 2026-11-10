@@ -55,7 +55,7 @@ Kommt Ihr Tier während der Öffnungszeiten als Notfall, kommt ein Zuschlag von 
 - **Der Kot**: eine frische Probe, haselnussgross, in einem verschlossenen Beutel.
 - **Die Medikamente**: Notieren Sie, welche Ihr Tier erhält und zu welcher Uhrzeit es die letzte Dosis bekommen hat.
 
-Eine Urin- oder Kotprobe kann am Schalter ohne das Tier abgegeben werden, nach einem Anruf unter [026 660 16 16](tel:+41266601616). Am Dienstag bleibt die Praxis bis 19 Uhr geöffnet: Sie können nach der Arbeit vorbeikommen. Für einen grossen Hund, der schlecht läuft, befindet sich der ebenerdige Halteplatz direkt vor dem Eingang.
+Eine Urin- oder Kotprobe kann am Schalter ohne das Tier abgegeben werden, nach einem Anruf unter [026 660 16 16](tel:+41266601616). Für einen grossen Hund, der schlecht läuft, befindet sich der ebenerdige Halteplatz direkt vor dem Eingang.
 
 Die Resultate werden Ihnen ausgedruckt übergeben oder per E-Mail geschickt. Bewahren Sie sie auf: Der Vergleich der Werte von einem Jahr zum nächsten sagt oft mehr als eine einzelne Blutentnahme.
 

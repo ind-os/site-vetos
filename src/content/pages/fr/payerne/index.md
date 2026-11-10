@@ -19,13 +19,11 @@ Le cabinet vétérinaire Vetmint Payerne reçoit les chiens, les chats, les lapi
 Appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro. Le module de réservation en ligne montre les heures libres de la semaine. Une question qui peut attendre passe par [payerne@vetmint.ch](mailto:payerne@vetmint.ch) : l'équipe répond pendant les heures d'ouverture.
 
 <!-- donnees: horaires -->
-- Lundi : 8 h à 12 h et 14 h à 18 h
-- Mardi : 8 h à 12 h et 14 h à 19 h
-- Mercredi à vendredi : 8 h à 12 h et 14 h à 18 h
+- Lundi à vendredi : 8 h à 18 h
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
-Certains samedis, le cabinet ouvre de 8 h 30 à 15 h. Les samedis d'ouverture sont annoncés dans le bandeau du site ; téléphonez avant de venir.
+Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour. Téléphonez avant de venir.
 
 ## Les soins sur place
 
@@ -38,7 +36,6 @@ Certains samedis, le cabinet ouvre de 8 h 30 à 15 h. Les samedis d'ouverture
 - La [radiographie numérique](/payerne/services/radiographie/) comprend les clichés officiels des hanches et des coudes pour le dépistage de la dysplasie.
 - L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats, lapins et rongeurs dans des cages adaptées à la durée du séjour.
 - Un vétérinaire se déplace pour les [soins à domicile](/services/soins-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
-- Le [toilettage](/services/toilettage/) se fait au cabinet, par une assistante en médecine vétérinaire diplômée toiletteuse ; un vétérinaire donne un calmant à l'animal qui ne supporte pas d'être manipulé.
 
 Les [NAC](/services/nac/) (lapins, cochons d'Inde, rats, chinchillas, gerbilles, dègues) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué au cabinet.
 
@@ -65,7 +62,7 @@ Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) ava
 En dehors des heures d'ouverture, appelez le numéro de garde que les cabinets vétérinaires pour petits animaux de la région tiennent en commun. Le vétérinaire de garde vous dit où amener votre animal ; le supplément de nuit et de week-end est de 176 francs.
 
 <!-- donnees: garde -->
-- Numéro de garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
 Les signes qui imposent d'appeler sont sur la page [Urgences](/payerne/urgences/).

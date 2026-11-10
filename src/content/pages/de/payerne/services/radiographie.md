@@ -53,7 +53,7 @@ Nach einem Unfall rufen Sie die [026 660 16 16](tel:+41266601616) an, bevor Sie 
 
 ## Die Rückkehr nach Hause
 
-Ohne Beruhigungsmittel geht Ihr Tier nach der Befundung mit Ihnen nach Hause. Mit einem Beruhigungsmittel bleibt es in der Praxis, bis es gerade läuft. Sie holen es am Ende des Tages ab, vor 18 Uhr, am Dienstag vor 19 Uhr. Geben Sie ihm am Abend eine kleine Mahlzeit und lassen Sie es in Ruhe schlafen.
+Ohne Beruhigungsmittel geht Ihr Tier nach der Befundung mit Ihnen nach Hause. Mit einem Beruhigungsmittel bleibt es in der Praxis, bis es gerade läuft. Sie holen es am Ende des Tages ab, vor 18 Uhr. Geben Sie ihm am Abend eine kleine Mahlzeit und lassen Sie es in Ruhe schlafen.
 
 ## Die Fragen, die uns am Schalter gestellt werden
 

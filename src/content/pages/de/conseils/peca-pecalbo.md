@@ -55,7 +55,7 @@ Sie sind in der Regel leicht und lassen sich gut behandeln, wenn man sie früh e
 - Eine zur Seite geneigte Kopfhaltung.
 - Eine Wunde, die teilweise wieder aufgeht, oder ein Wundrand, der schwarz wird und abstirbt (Nekrose).
 
-Die Lähmung und die Kopfschiefhaltung verschwinden von selbst innerhalb weniger Tage. Ein Kaninchen, das den Kopf schon vor der Operation schief hielt, kann Folgen davon behalten. Physiotherapie und [Osteopathie](/de/leistungen/osteopathie/) helfen ihm dann, sich zu erholen, und verbessern sein Wohlbefinden.
+Die Lähmung und die Kopfschiefhaltung verschwinden von selbst innerhalb weniger Tage. Ein Kaninchen, das den Kopf schon vor der Operation schief hielt, kann Folgen davon behalten. Physiotherapie hilft ihm dann, sich zu erholen, und verbessert sein Wohlbefinden.
 
 Das Gehör kann nach der Operation nachlassen. Bei einer so schweren Ohrenentzündung ist es meistens schon vermindert, manchmal dauerhaft.
 

@@ -55,7 +55,7 @@ Si votre animal arrive en urgence pendant les heures d'ouverture, un supplément
 - **Les selles** : un échantillon frais, de la taille d'une noisette, dans un sachet fermé.
 - **Les médicaments** : notez lesquels votre animal reçoit et à quelle heure il a eu la dernière prise.
 
-Un échantillon d'urine ou de selles peut se déposer au comptoir sans l'animal, après un appel au [026 660 16 16](tel:+41266601616). Le mardi, le cabinet reste ouvert jusqu'à 19 h : vous pouvez passer après le travail. Pour un grand chien qui marche mal, la place de dépose de plain-pied est juste devant l'entrée.
+Un échantillon d'urine ou de selles peut se déposer au comptoir sans l'animal, après un appel au [026 660 16 16](tel:+41266601616). Pour un grand chien qui marche mal, la place de dépose de plain-pied est juste devant l'entrée.
 
 Les résultats vous sont remis imprimés ou envoyés par e-mail. Gardez-les : d'une année à l'autre, la comparaison des valeurs en dit souvent plus qu'une seule prise de sang.
 

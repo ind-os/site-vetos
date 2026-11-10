@@ -33,7 +33,7 @@ Vor einer Operation geben Sie Ihrem Hund oder Ihrer Katze nach der Abendmahlzeit
 
 ## Wartezeit und Absage
 
-Rechnen Sie in der Regel mit zwei bis drei Werktagen, bis ein Termin frei ist. Am Dienstag dauern die Konsultationen bis 19 Uhr, damit Sie nach der Arbeit kommen können. Wenn Payerne ausgebucht ist, hat die Tierarztpraxis Vetmint in Domdidier, etwa zehn Minuten entfernt, vielleicht einen freien Termin. Sie sind verhindert? Sagen Sie uns mindestens 24 Stunden vorher Bescheid, telefonisch oder per E-Mail. Ein nicht angekündigtes Fernbleiben wird verrechnet.
+Rechnen Sie in der Regel mit zwei bis drei Werktagen, bis ein Termin frei ist. Wenn Payerne ausgebucht ist, hat die Tierarztpraxis Vetmint in Domdidier, etwa zehn Minuten entfernt, vielleicht einen freien Termin. Sie sind verhindert? Sagen Sie uns mindestens 24 Stunden vorher Bescheid, telefonisch oder per E-Mail. Ein nicht angekündigtes Fernbleiben wird verrechnet.
 
 ## Im Notfall
 

@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /payerne/services/consultation/
 title: "Consultation vétérinaire à Payerne : 30 minutes, 57 francs"
-description: "Consultation vétérinaire à Payerne : 30 minutes pour 57 francs, chiens, chats, lapins et rongeurs. Laboratoire sur place, consultations le mardi jusqu'à 19 h."
+description: "Consultation vétérinaire à Payerne : 30 minutes pour 57 francs, chiens, chats, lapins et rongeurs. Laboratoire sur place, consultations de 8 h à 18 h."
 h1: Consultation vétérinaire à Payerne
 recherche: consultation vétérinaire Payerne
 redige_le: 2026-11-03
 resume: "Trente minutes avec Claire-Lise Tinguely ou Tiago Capelo, pour 57 francs, route du Châtelard 13."
 ---
 
-À Payerne, une consultation vétérinaire dure 30 minutes et coûte 57 francs. Claire-Lise Tinguely et Tiago Capelo, les deux vétérinaires du cabinet Vetmint, y reçoivent les chiens, les chats, les lapins et les rongeurs, du cochon d'Inde au hamster. Les rendez-vous ont lieu route du Châtelard 13, du lundi au vendredi. Le mardi, ils continuent jusqu'à 19 h.
+À Payerne, une consultation vétérinaire dure 30 minutes et coûte 57 francs. Claire-Lise Tinguely et Tiago Capelo, les deux vétérinaires du cabinet Vetmint, y reçoivent les chiens, les chats, les lapins et les rongeurs, du cochon d'Inde au hamster. Les rendez-vous ont lieu route du Châtelard 13, du lundi au vendredi, de 8 h à 18 h, sans pause à midi.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -69,11 +69,11 @@ Oui, en le disant au moment de réserver. L'équipe vous propose un rendez-vous 
 
 ### Puis-je venir après le travail ?
 
-Le mardi, le cabinet reçoit jusqu'à 19 h. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Les autres jours, les consultations s'arrêtent à 18 h.
+Du lundi au vendredi, le cabinet reçoit de 8 h à 18 h, sans pause à midi. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, de 8 h 30 à 15 h : téléphonez avant de venir.
 
 ### Le vétérinaire parle-t-il allemand ?
 
-Claire-Lise Tinguely parle allemand, comme Jessy Dizerens à l'accueil. Précisez-le en prenant rendez-vous : l'équipe vous place avec elles. Toute l'équipe parle français.
+Claire-Lise Tinguely parle allemand, comme Jessy Dizerens à l'accueil. Précisez-le en prenant rendez-vous : l'équipe vous place avec elles. Toute l'équipe parle français ; on vous reçoit aussi en anglais et en portugais.
 
 ### Mon animal va très mal. Dois-je attendre un rendez-vous ?
 

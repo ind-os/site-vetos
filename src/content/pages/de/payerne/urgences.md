@@ -3,7 +3,7 @@ type: urgences
 clinique: payerne
 url: /de/payerne/notfall/
 title: "Notfall beim Tier in Payerne: wen Sie wann anrufen"
-description: "Notfall in Payerne: während der Öffnungszeiten 026 660 16 16, nachts und am Wochenende 0900 904 904 (1.70 Franken pro Minute). Warnzeichen und erste Schritte."
+description: "Notfall in Payerne: während der Öffnungszeiten 026 660 16 16, nachts, am Wochenende und an Feiertagen 026 466 34 35. Warnzeichen und erste Schritte."
 h1: "Tierärztlicher Notfall in Payerne"
 recherche: "Notfall Tierarzt Payerne"
 redige_le: 2026-10-16
@@ -17,7 +17,7 @@ Bei einem tierärztlichen Notfall in Payerne rufen Sie an, bevor Sie losfahren. 
 - Nachts, am Wochenende, an Feiertagen und ausserhalb der Öffnungszeiten rufen Sie die Notfallnummer an.
 
 <!-- donnees: garde -->
-- Notfallnummer: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfallnummer: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
 ## Während der Öffnungszeiten
@@ -25,9 +25,7 @@ Bei einem tierärztlichen Notfall in Payerne rufen Sie an, bevor Sie losfahren. 
 Die Praxis empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Rufen Sie zuerst an, auch wenn Sie nur zwei Minuten von der Route du Châtelard entfernt sind. Das Team macht einen Raum frei und bereitet das Material vor. Es kann Sie bitten, auf dem ebenerdigen Halteplatz zu parkieren: Sie treten direkt ein, ohne das Wartezimmer zu durchqueren.
 
 <!-- donnees: horaires -->
-- Montag: 8–12 Uhr und 14–18 Uhr
-- Dienstag: 8–12 Uhr und 14–19 Uhr
-- Mittwoch bis Freitag: 8–12 Uhr und 14–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 

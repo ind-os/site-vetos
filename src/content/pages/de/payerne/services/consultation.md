@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /de/payerne/leistungen/konsultation/
 title: "Konsultation in Payerne: 30 Minuten, 57 Franken"
-description: "Tierärztliche Konsultation in Payerne: 30 Minuten für 57 Franken, Hunde, Katzen, Kaninchen und Nager. Labor vor Ort, Konsultationen am Dienstag bis 19 Uhr."
+description: "Tierärztliche Konsultation in Payerne: 30 Minuten für 57 Franken, Hunde, Katzen, Kaninchen und Nager. Labor vor Ort, Konsultationen von 8 bis 18 Uhr."
 h1: Konsultation in Payerne
 recherche: Tierarzt Konsultation Payerne
 redige_le: 2026-11-03
 resume: "Dreissig Minuten mit Claire-Lise Tinguely oder Tiago Capelo, für 57 Franken, Route du Châtelard 13."
 ---
 
-In Payerne dauert eine tierärztliche Konsultation 30 Minuten und kostet 57 Franken. Claire-Lise Tinguely und Tiago Capelo, die beiden Tierärzte der Tierarztpraxis Vetmint, empfangen dort Hunde, Katzen, Kaninchen und Nager, vom Meerschweinchen bis zum Hamster. Die Termine finden an der Route du Châtelard 13 statt, von Montag bis Freitag. Am Dienstag dauern sie bis 19 Uhr.
+In Payerne dauert eine tierärztliche Konsultation 30 Minuten und kostet 57 Franken. Claire-Lise Tinguely und Tiago Capelo, die beiden Tierärzte der Tierarztpraxis Vetmint, empfangen dort Hunde, Katzen, Kaninchen und Nager, vom Meerschweinchen bis zum Hamster. Die Termine finden an der Route du Châtelard 13 statt, von Montag bis Freitag, von 8 bis 18 Uhr, ohne Mittagspause.
 
 [Termin vereinbaren](/de/payerne/termin/)
 
@@ -69,11 +69,11 @@ Ja, wenn Sie es bei der Reservation sagen. Das Team schlägt Ihnen einen Termin 
 
 ### Kann ich nach der Arbeit kommen?
 
-Am Dienstag empfängt die Praxis bis 19 Uhr. An gewissen Samstagen öffnet sie auch von 8.30 bis 15 Uhr; diese Daten werden oben auf der Website angekündigt. An den anderen Tagen enden die Konsultationen um 18 Uhr.
+Von Montag bis Freitag empfängt die Praxis von 8 bis 18 Uhr, ohne Mittagspause. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, von 8.30 bis 15 Uhr: Rufen Sie vor dem Besuch an.
 
 ### Spricht die Tierärztin oder der Tierarzt Deutsch?
 
-Claire-Lise Tinguely spricht Deutsch, ebenso Jessy Dizerens am Empfang. Sagen Sie es bei der Terminvereinbarung: Das Team plant Sie bei ihnen ein. Das ganze Team spricht Französisch.
+Claire-Lise Tinguely spricht Deutsch, ebenso Jessy Dizerens am Empfang. Sagen Sie es bei der Terminvereinbarung: Das Team plant Sie bei ihnen ein. Das ganze Team spricht Französisch; Sie werden auch auf Englisch und Portugiesisch empfangen.
 
 ### Meinem Tier geht es sehr schlecht. Muss ich auf einen Termin warten?
 

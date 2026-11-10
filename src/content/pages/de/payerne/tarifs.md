@@ -82,18 +82,18 @@ Die Praxis führt Blutentnahme, Urin- oder Kotuntersuchung und Röntgen vor Ort 
 Tagsüber kostet ein Notfall also mindestens 156 Franken: 57 Franken für die Konsultation und 99 Franken Zuschlag. Ausserhalb der Öffnungszeiten gilt die Notfallnummer, die alle Kleintierpraxen der Region gemeinsam haben.
 
 <!-- donnees: garde -->
-- Notfalldienst: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
 Was Sie je nach Uhrzeit tun müssen, steht auf der Seite [Notfall](/de/payerne/notfall/).
 
-## Fellpflege und Hausbesuche
+## Hausbesuche
 
 | Leistung | Was Sie bezahlen | Preis |
 |---|---|---|
-| Hausbesuch | Anfahrt der Tierärztin oder des Tierarztes im Bezirk Broye, Montag bis Freitag von 7.30 bis 19 Uhr; die Behandlungen kommen hinzu | CHF 55.– |
+| Hausbesuch | Anfahrt der Tierärztin oder des Tierarztes im Bezirk Broye, während der Öffnungszeiten der Praxis; die Behandlungen kommen hinzu | CHF 55.– |
 
-Sagen Sie einen Hausbesuch mindestens 24 Stunden vorher ab, sonst wird er Ihnen verrechnet. Die Fellpflege findet in der Praxis statt, durch eine Tiermedizinische Praxisassistentin mit einer Ausbildung in Fellpflege. Ihre Preise, nach Grösse des Hundes oder für eine Katze, stehen auf der Seite [Fellpflege](/de/leistungen/fellpflege/).
+Sagen Sie einen Hausbesuch mindestens 24 Stunden vorher ab, sonst wird er Ihnen verrechnet.
 
 ## Bezahlen
 

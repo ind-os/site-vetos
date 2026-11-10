@@ -14,7 +14,7 @@ Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons
 
 Chaque cabinet a ses pages, avec son équipe, ses horaires et la prise de rendez-vous : [Bussigny](/bussigny/), [La Chaux-de-Fonds](/chauxdefonds/), [Domdidier](/domdidier/), [Fribourg Ouest](/fribourg/) à Givisiez, [Lac-de-Joux](/lacdejoux/) à L'Abbaye, [Payerne](/payerne/), [Saint-Blaise](/saintblaise/) et [Saint-Légier](/saintlegier/). Quatre cabinets sont dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel.
 
-Certains cabinets proposent un soin que les autres n'ont pas. Fribourg Ouest tient une consultation pour les NAC et une consultation de la douleur. L'ostéopathie se pratique à Domdidier et à Fribourg Ouest. La thérapie laser est proposée à Bussigny, La Chaux-de-Fonds, Saint-Blaise et Saint-Légier. Le toilettage se fait à Payerne et à Domdidier. Lac-de-Joux opère par laparoscopie, avec de petites incisions et une caméra.
+Certains cabinets proposent un soin que les autres n'ont pas. Fribourg Ouest tient une consultation pour les NAC et une consultation de la douleur. La thérapie laser est proposée à Bussigny, Domdidier, Saint-Blaise et Saint-Légier. La Chaux-de-Fonds pose aussi des puces électroniques miniatures et des thermochips, des puces qui mesurent la température. À Domdidier, l'équipe consulte en français, en portugais et en anglais. Lac-de-Joux opère par laparoscopie, avec de petites incisions et une caméra.
 
 [Adresses, horaires et garde des huit cabinets](/cabinets/)
 
@@ -72,13 +72,11 @@ Les salles de consultation sont séparées les unes des autres. Plusieurs cabine
 - [L'hospitalisation](/services/hospitalisation/)
 - [La gestion de la douleur](/services/gestion-de-la-douleur/)
 - [La thérapie laser](/services/laser/)
-- [L'ostéopathie](/services/osteopathie/)
 - [Les soins à domicile](/services/soins-a-domicile/)
 
 ### Pour d'autres besoins
 
 - [Les nouveaux animaux de compagnie (NAC)](/services/nac/) : lapins, rongeurs, oiseaux et reptiles
-- [Le toilettage et le défeutrage](/services/toilettage/)
 - [Les conseils aux éleveurs](/services/conseils-aux-eleveurs/)
 - [Les urgences](/urgences/)
 

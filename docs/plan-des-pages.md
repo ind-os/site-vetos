@@ -57,7 +57,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `/a-propos/`, `/emploi/`, `/newsletter/` | `a-propos.md`, `emploi.md`, `newsletter.md` | `simple` |
 | `/confidentialite/`, `/mentions-legales/` | `confidentialite.md`, `mentions-legales.md` | `simple` |
 
-Les services : consultation, vaccination-chien, vaccination-chat, sterilisation-castration, chirurgie, soins-dentaires, analyses-diagnostic, radiographie, echographie, hospitalisation, laser, osteopathie, puce-electronique, toilettage, nac, gestion-de-la-douleur, soins-a-domicile, conseils-aux-eleveurs.
+Les services : consultation, vaccination-chien, vaccination-chat, sterilisation-castration, chirurgie, soins-dentaires, analyses-diagnostic, radiographie, echographie, hospitalisation, laser, puce-electronique, nac, gestion-de-la-douleur, soins-a-domicile, conseils-aux-eleveurs.
 
 ## Les pages d'une clinique
 

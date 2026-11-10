@@ -97,9 +97,7 @@ Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. 
 | `echographie` | `ultraschall` |
 | `hospitalisation` | `stationaere-betreuung` |
 | `laser` | `lasertherapie` |
-| `osteopathie` | `osteopathie` |
 | `puce-electronique` | `mikrochip` |
-| `toilettage` | `fellpflege` |
 | `nac` | `heimtiere` |
 | `gestion-de-la-douleur` | `schmerztherapie` |
 | `soins-a-domicile` | `hausbesuche` |

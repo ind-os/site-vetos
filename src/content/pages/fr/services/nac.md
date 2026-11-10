@@ -81,7 +81,7 @@ Pendant les heures d'ouverture, appelez votre cabinet. En dehors, la page [urgen
 | Prestation | Ce qui est compris | Prix |
 |---|---|---|
 | Consultation de 30 minutes | examen, pesée, conseils | 54 à 59 CHF |
-| Consultation spécialisée NAC (Fribourg Ouest) | examen approfondi, plan de traitement, fiche écrite | dès 60 CHF |
+| Consultation spécialisée NAC (Fribourg Ouest) | examen approfondi, plan de traitement, fiche écrite | 140 CHF |
 | Bilan annuel avec vaccin du lapin | consultation de 30 minutes, vaccin VHD | 63 à 76 CHF |
 | Castration du lapin | examen avant l'anesthésie, anesthésie gazeuse, opération, traitement de la douleur, deux contrôles | 131 à 185 CHF |
 | Castration d'un lapin ou d'un rongeur (Fribourg Ouest) | même contenu | 150 CHF |

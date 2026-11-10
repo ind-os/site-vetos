@@ -38,7 +38,7 @@ Les opérations programmées ont lieu le matin, du lundi au vendredi. Vous amene
 
 L'animal passe ensuite dans la salle de préparation, qui donne directement sur la salle d'opération. Claire-Lise Tinguely ou Tiago Capelo l'examine, puis l'endort. Jessy Dizerens ou Sandra Maeder surveille sa respiration et son cœur pendant l'opération, puis pendant le réveil.
 
-Le vétérinaire vous téléphone quand l'opération est finie. Vous reprenez votre animal en fin d'après-midi, entre 16 h et 18 h, ou jusqu'à 19 h le mardi. Au comptoir, l'assistante vous remet les médicaments contre la douleur et vous explique comment les donner. Le lendemain, le cabinet vous appelle pour savoir comment s'est passée la nuit.
+Le vétérinaire vous téléphone quand l'opération est finie. Vous reprenez votre animal en fin d'après-midi, entre 16 h et 18 h. Au comptoir, l'assistante vous remet les médicaments contre la douleur et vous explique comment les donner. Le lendemain, le cabinet vous appelle pour savoir comment s'est passée la nuit.
 
 ## Préparer l'opération
 
@@ -72,7 +72,7 @@ Oui. Le vétérinaire la voit d'abord en consultation, puis vous remet un devis.
 
 ### Je ne peux pas venir à 8 h. Comment faire ?
 
-Dites-le en fixant la date. L'équipe cherche avec vous une autre heure de dépôt. Le mardi, vous pouvez reprendre votre animal jusqu'à 19 h.
+Dites-le en fixant la date. L'équipe cherche avec vous une autre heure de dépôt. Vous pouvez reprendre votre animal jusqu'à 18 h.
 
 ### Mon chat a peur des chiens. Où attend-il après l'opération ?
 

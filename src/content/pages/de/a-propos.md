@@ -24,7 +24,7 @@ Die Gruppe wächst, indem sie bestehende Praxen übernimmt. Die Tierärztin oder
 
 Bussigny ist die letzte Praxis, die zur Gruppe gestossen ist. Pascal Wicki behandelt dort seit 2000 Tiere. Vetmint hat seine Praxis übernommen, in denselben Räumen, neben der Migros. Er konsultiert dort weiterhin, an der Seite von Philippe Boudaroua.
 
-Im Lauf der Jahre hat die Gruppe gemeinsame Leistungen hinzugefügt. Dazu gehören der Präventionsplan für Welpen und Kätzchen, die monatlichen Abonnemente und eine veröffentlichte Preisliste für die acht Praxen. Payerne bietet seit Juli 2023 die Fellpflege an, mit einer Tiermedizinischen Praxisassistentin mit Zusatzausbildung in Fellpflege.
+Im Lauf der Jahre hat die Gruppe gemeinsame Leistungen hinzugefügt. Dazu gehören der Präventionsplan für Welpen und Kätzchen, die monatlichen Abonnemente und eine veröffentlichte Preisliste für die acht Praxen.
 
 ## Was die acht Praxen teilen
 

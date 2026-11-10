@@ -33,7 +33,7 @@ Die meisten Geburten verlaufen zu Hause, ohne Hilfe. Rufen Sie an, wenn die Mutt
 Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an. Ist ein Kaiserschnitt nötig, findet er im Operationssaal der Praxis statt; die Mutter und ihre Jungen gehen danach mit Ihnen nach Hause. Nachts und am Wochenende rufen Sie den Notfalldienst an:
 
 <!-- donnees: garde -->
-- Notfalldienst: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
 Ein Notfall kostet 99 Franken Zuschlag am Tag und 176 Franken nachts und am Wochenende, zusätzlich zu den Behandlungen.

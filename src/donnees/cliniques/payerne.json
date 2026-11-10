@@ -45,24 +45,19 @@
   "urgences": true,
   "horaires": {
     "lundi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "mardi": [
-      "08:00-12:00",
-      "14:00-19:00"
+      "08:00-18:00"
     ],
     "mercredi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "jeudi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "vendredi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "samedi": [],
     "dimanche": []
@@ -71,12 +66,12 @@
   "bandeau": null,
   "garde": {
     "telephone": {
-      "affiche": "0900 904 904",
-      "international": "+41900904904"
+      "affiche": "026 466 34 35",
+      "international": "+41264663435"
     },
     "tarif": {
-      "fr": "appel surtaxé, 1,70 franc la minute",
-      "de": "kostenpflichtiger Anruf, 1.70 Franken pro Minute"
+      "fr": "appel au tarif normal",
+      "de": "Anruf zum Normaltarif"
     }
   },
   "rendez_vous": {

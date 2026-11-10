@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Le bon numéro selon l'heure et le cabinet, le prix d'une urgence et les signes qui ne peuvent pas attendre.
 ---
 
-Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Pendant les heures d'ouverture, votre cabinet reçoit lui-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, payant à la minute. Une urgence coûte la consultation, un supplément de 40 à 176 francs selon le cabinet et l'heure, puis les soins.
+Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Pendant les heures d'ouverture, votre cabinet reçoit lui-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, le plus souvent payant à la minute. Une urgence coûte la consultation, un supplément de 40 à 176 francs selon le cabinet et l'heure, puis les soins.
 
 [Trouver le cabinet le plus proche](/cabinets/)
 
@@ -21,10 +21,10 @@ Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour f�
 |---|---|---|---|
 | [Bussigny](/bussigny/urgences/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
 | [La Chaux-de-Fonds](/chauxdefonds/urgences/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | 3 francs la minute |
-| [Domdidier](/domdidier/urgences/) | [026 675 38 88](tel:+41266753888) | [0900 904 904](tel:0900904904) | 1,70 franc la minute |
-| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
+| [Domdidier](/domdidier/urgences/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | tarif normal |
+| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | [026 466 34 35](tel:+41264663435) | tarif normal |
 | [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), service Médi-Vet | 2 francs la minute |
-| [Payerne](/payerne/urgences/) | [026 660 16 16](tel:+41266601616) | [0900 904 904](tel:0900904904) | 1,70 franc la minute |
+| [Payerne](/payerne/urgences/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | tarif normal |
 | [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
 | [Saint-Légier](/saintlegier/urgences/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), garde de la Riviera | 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h |
 
@@ -36,7 +36,7 @@ Le nom de chaque cabinet mène à sa page Urgences : numéro de garde, adresse,
 
 La nuit, le week-end et les jours fériés, les cabinets vétérinaires pour petits animaux d'une même région se relaient. Un seul numéro joint le vétérinaire de garde du moment, qui travaille dans un cabinet Vetmint ou dans un autre cabinet de la région. Il vous écoute, juge si l'animal doit être vu tout de suite et vous donne l'adresse où l'amener. Notez cette adresse avant de raccrocher : elle change d'une nuit à l'autre.
 
-Ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 1,70 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins.
+Dans la plupart des régions, ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 2 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins. À Payerne, à Domdidier et à Fribourg Ouest, le numéro de garde est un numéro ordinaire, au tarif normal.
 
 ### Trois cabinets avec leur propre organisation
 
@@ -110,7 +110,7 @@ Téléphonez d'abord, même à cinq minutes du cabinet. L'équipe peut être en 
 
 ### Pourquoi le numéro de garde est-il payant ?
 
-Le prix à la minute finance la permanence des vétérinaires qui se relaient toute la nuit et le week-end. Une conversation de trois minutes coûte entre 5,10 et 9 francs selon la région.
+Le prix à la minute finance la permanence des vétérinaires qui se relaient toute la nuit et le week-end. Une conversation de trois minutes coûte entre 6 et 9 francs selon la région.
 
 ### Puis-je faire vomir mon chien qui a avalé un produit ?
 

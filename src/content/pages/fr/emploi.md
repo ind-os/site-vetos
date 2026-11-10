@@ -40,7 +40,7 @@ Le taux d'activité, les jours de travail et la répartition entre consultation 
 
 ### La formation continue
 
-Chacun choisit ses formations selon ce qu'il veut apprendre et ce dont son cabinet a besoin. Vetmint finance cinq jours de formation continue par an pour un vétérinaire à plein temps et trois jours pour une AMV, au prorata du taux d'activité. Entre cabinets, les vétérinaires se consultent sur leurs cas : l'équipe de Fribourg Ouest suit les NAC et la douleur chronique, celle de Domdidier l'ostéopathie et les soins à domicile.
+Chacun choisit ses formations selon ce qu'il veut apprendre et ce dont son cabinet a besoin. Vetmint finance cinq jours de formation continue par an pour un vétérinaire à plein temps et trois jours pour une AMV, au prorata du taux d'activité. Entre cabinets, les vétérinaires se consultent sur leurs cas : l'équipe de Fribourg Ouest suit les NAC et la douleur chronique, celle de Domdidier les soins à domicile.
 
 ### Moins de tâches administratives
 

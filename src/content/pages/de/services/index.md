@@ -43,8 +43,6 @@ Einige dieser Behandlungen gibt es nur in wenigen Praxen. Jede Seite sagt, in we
 - [Heimtiermedizin](/de/leistungen/heimtiere/): Kaninchen, Nager, Frettchen, Vögel und Reptilien.
 - [Schmerztherapie](/de/leistungen/schmerztherapie/): nach einer Operation wie bei Arthrose.
 - [Lasertherapie](/de/leistungen/lasertherapie/): Wundheilung, Arthrose, Zahnfleisch und Ohren.
-- [Osteopathie](/de/leistungen/osteopathie/): Steifheit, Lahmheit und Rückenschmerzen.
-- [Fellpflege](/de/leistungen/fellpflege/): Baden, Schneiden und Entfilzen, bei Bedarf mit Sedierung.
 - [Züchterberatung](/de/leistungen/zuechterberatung/): vom Deckakt bis zur Abgabe der Welpen und Kätzchen.
 
 ## Zu Hause und im Notfall

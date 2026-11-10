@@ -43,24 +43,19 @@
   "urgences": true,
   "horaires": {
     "lundi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "mardi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "mercredi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "jeudi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "vendredi": [
-      "08:00-12:00",
-      "14:00-18:00"
+      "08:00-18:00"
     ],
     "samedi": [],
     "dimanche": []
@@ -69,12 +64,12 @@
   "bandeau": null,
   "garde": {
     "telephone": {
-      "affiche": "0900 80 70 60",
-      "international": "+41900807060"
+      "affiche": "026 466 34 35",
+      "international": "+41264663435"
     },
     "tarif": {
-      "fr": "appel surtaxé, 2 francs la minute",
-      "de": "kostenpflichtiger Anruf, 2 Franken pro Minute"
+      "fr": "appel au tarif normal",
+      "de": "Anruf zum Normaltarif"
     }
   },
   "rendez_vous": {

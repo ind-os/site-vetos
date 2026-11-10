@@ -132,7 +132,7 @@ Das ist eine Fehlstellung: Die Zähne nutzen sich nicht mehr ab und verletzen di
 Die acht Praxen Vetmint führen die Zahnsteinentfernung mit Ultraschall, das Polieren, Zahnröntgenbilder und Extraktionen durch.
 
 - [Bussigny](/de/bussigny/leistungen/): Der Laser ergänzt die Behandlung des entzündeten Zahnfleischs der Katze. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Pauschale für die Extraktion aller Zähne, Laser für das Zahnfleisch. [Termin](/de/chauxdefonds/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Pauschale für die Extraktion aller Zähne. [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): Ein Zahnarzt, der in Freiburg bei Menschen arbeitet, unterstützt das Team bei komplexen Eingriffen. [Termin](/de/domdidier/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Zahnbehandlung bei Kaninchen, Nagern, Frettchen und gewissen Echsen, mit Kürzen und Zahnröntgen. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Pauschale für die Extraktion aller Zähne. [Termin](/de/lacdejoux/termin/)

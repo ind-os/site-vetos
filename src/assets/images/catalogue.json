@@ -195,19 +195,6 @@
     "source": "https://bussigny.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
   },
   {
-    "fichier": "service-toilettage-yorkshire.jpg",
-    "sujet": "service:toilettage",
-    "alt": {
-      "fr": "Une toiletteuse coupe aux ciseaux les poils d'un yorkshire sur la table de toilettage",
-      "de": "Eine Fellpflegerin schneidet auf dem Pflegetisch mit der Schere das Fell eines Yorkshires"
-    },
-    "point_focal": {
-      "x": 0.42,
-      "y": 0.4
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/06/image-toilettage-e1686667249172.jpeg"
-  },
-  {
     "fichier": "service-nac-lapin.jpg",
     "sujet": "service:nac",
     "alt": {

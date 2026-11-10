@@ -15,11 +15,11 @@ Diese Fragen stellen unsere Kundinnen und Kunden am Telefon und am Empfang der T
 
 ### Ist die Praxis am Samstag geöffnet?
 
-Nicht an jedem Samstag. Die Praxis ist von Montag bis Freitag geöffnet, am Dienstag bis 19 Uhr. An einzelnen Samstagen ist sie auch von 8.30 bis 15 Uhr geöffnet; diese Daten werden oben auf der Website angekündigt. Rufen Sie an einem Samstag vor dem Besuch an. Am übrigen Wochenende antwortet die Notfallnummer. Die freien Termine stehen auf der Seite [Termin](/de/payerne/termin/).
+Nicht an jedem Samstag. Die Praxis ist von Montag bis Freitag von 8 bis 18 Uhr geöffnet. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, von 8.30 bis 15 Uhr: nie beide am selben Tag. Rufen Sie an einem Samstag vor dem Besuch an. Am übrigen Wochenende antwortet die Notfallnummer. Die freien Termine stehen auf der Seite [Termin](/de/payerne/termin/).
 
 ### Kann ich mein Tier am Morgen abgeben und am Abend abholen?
 
-Ja. Das tun die meisten Kundinnen und Kunden bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen. Sie bringen Ihr Tier ab 8 Uhr und holen es am Ende des Tages ab, bis 18 Uhr, am Dienstag bis 19 Uhr. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit.
+Ja. Das tun die meisten Kundinnen und Kunden bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen. Sie bringen Ihr Tier ab 8 Uhr und holen es am Ende des Tages ab, bis 18 Uhr. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit.
 
 ## Preise und Zahlung
 
@@ -43,7 +43,7 @@ Hunde, Katzen, Kaninchen und Nager: Meerschweinchen, Ratten, Chinchillas, Hamste
 
 ### Kommen Sie auch nach Hause?
 
-Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, von Montag bis Freitag. Eine Tierärztin oder ein Tierarzt kommt für die üblichen Behandlungen zu Ihnen: Impfungen, Kontrolle, ältere Tiere oder Tiere, die schwer zu transportieren sind. Die Anfahrt kostet 55 Franken, zusätzlich zu den Behandlungen. Ein Hausbesuch, der weniger als 24 Stunden vorher abgesagt wird, wird verrechnet.
+Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, während der Öffnungszeiten der Praxis. Eine Tierärztin oder ein Tierarzt kommt für die üblichen Behandlungen zu Ihnen: Impfungen, Kontrolle, ältere Tiere oder Tiere, die schwer zu transportieren sind. Die Anfahrt kostet 55 Franken, zusätzlich zu den Behandlungen. Ein Hausbesuch, der weniger als 24 Stunden vorher abgesagt wird, wird verrechnet.
 
 ### Was tun bei einem Notfall in der Nacht?
 

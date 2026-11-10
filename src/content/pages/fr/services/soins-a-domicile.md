@@ -2,17 +2,17 @@
 type: service
 url: /services/soins-a-domicile/
 title: "Vétérinaire à domicile : soins, zones, prix | Vetmint"
-description: "Vétérinaire à domicile chez Vetmint : consultation, vaccins et soins courants chez vous, du lundi au vendredi de 7 h 30 à 19 h. Déplacement dès 55 francs."
+description: "Vétérinaire à domicile chez Vetmint : consultation, vaccins et soins courants chez vous, aux heures d'ouverture du cabinet. Déplacement dès 55 francs."
 h1: Soins vétérinaires à domicile
 nom: Soins à domicile
 recherche: vétérinaire à domicile
 redige_le: 2026-10-16
 ordre: 17
 especes: [chien, chat, nac]
-resume: Un vétérinaire vient chez vous du lundi au vendredi pour les soins courants, déplacement dès 55 francs.
+resume: Un vétérinaire vient chez vous aux heures d'ouverture pour les soins courants, déplacement dès 55 francs.
 ---
 
-Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu du lundi au vendredi, de 7 h 30 à 19 h, sur rendez-vous. Vous payez la consultation au prix du cabinet, plus un forfait de déplacement de 55 francs dans la Riviera vaudoise, la Broye et autour de chaque cabinet.
+Un vétérinaire Vetmint peut venir chez vous pour les soins courants : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu aux heures d'ouverture du cabinet, sur rendez-vous. Vous payez la consultation au prix du cabinet, plus un forfait de déplacement de 55 francs dans la Riviera vaudoise, la Broye et autour de chaque cabinet.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -91,7 +91,7 @@ Le paiement se fait sur place, après la consultation, par carte ou par TWINT. L
 
 ### Le vétérinaire vient-il le samedi ou le soir ?
 
-Les visites ont lieu du lundi au vendredi, entre 7 h 30 et 19 h. Le soir et le week-end, seul le service de garde répond, pour les urgences.
+Les visites ont lieu aux heures d'ouverture du cabinet, jamais en dehors. Les horaires de chaque cabinet figurent sur la page [Nos cabinets](/cabinets/). En dehors de ces heures, seul le service de garde répond, pour les urgences.
 
 ### Puis-je faire vacciner tous mes chats en une seule visite ?
 

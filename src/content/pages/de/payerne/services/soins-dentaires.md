@@ -50,7 +50,7 @@ Die Zahnsteinentfernung wird bei einer Konsultation beschlossen: Die Tierärztin
 
 Am Tag selbst bringen Sie Ihr Tier um 8 Uhr, nüchtern. Es kommt in den Vorbereitungsraum, wo es seinen Katheter erhält und einschläft. Der Röntgenraum liegt gleich daneben: Die Aufnahmen der Zähne werden während derselben Narkose gemacht. Siehe die Seite [Röntgen in Payerne](/de/payerne/leistungen/roentgen/).
 
-Claire-Lise Tinguely oder Tiago Capelo entfernt den Zahnstein, sondiert jeden Zahn und entscheidet anhand der Bilder über die Extraktionen. Muss ein nicht vorgesehener Zahn gezogen werden, ruft sie oder er Sie vorher an. Eine Assistentin überwacht Herz und Atmung bis zum Aufwachen. Sie holen Ihr Tier am späten Nachmittag ab, oder am Dienstag bis 19 Uhr.
+Claire-Lise Tinguely oder Tiago Capelo entfernt den Zahnstein, sondiert jeden Zahn und entscheidet anhand der Bilder über die Extraktionen. Muss ein nicht vorgesehener Zahn gezogen werden, ruft sie oder er Sie vorher an. Eine Assistentin überwacht Herz und Atmung bis zum Aufwachen. Sie holen Ihr Tier am späten Nachmittag ab, bis 18 Uhr.
 
 ## Den Besuch und die Rückkehr nach Hause vorbereiten
 

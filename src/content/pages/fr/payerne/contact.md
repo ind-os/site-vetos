@@ -23,9 +23,7 @@ Sur WhatsApp, une photo de la plaie ou de la grosseur aide le vétérinaire à j
 ## Horaires et fermetures
 
 <!-- donnees: horaires -->
-- Lundi : 8 h à 12 h et 14 h à 18 h
-- Mardi : 8 h à 12 h et 14 h à 19 h
-- Mercredi à vendredi : 8 h à 12 h et 14 h à 18 h
+- Lundi à vendredi : 8 h à 18 h
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
@@ -33,7 +31,7 @@ Sur WhatsApp, une photo de la plaie ou de la grosseur aide le vétérinaire à j
 - Aucune fermeture prévue
 <!-- /donnees -->
 
-Le cabinet est ouvert toute l'année. Certains samedis, elle ouvre de 8 h 30 à 15 h : téléphonez avant de venir.
+Le cabinet est ouvert toute l'année. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
 
 ## En voiture
 

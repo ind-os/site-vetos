@@ -19,9 +19,8 @@ Les prix sont en francs suisses, toutes taxes comprises. Ils valent dès le 29 a
 | Prestation | Ce qui est compris | Prix |
 |---|---|---|
 | Consultation sur rendez-vous | 30 minutes : examen complet, questions sur l'appétit, le poids et le comportement, réponses à vos questions | 54 à 59 CHF |
-| Consultation avec thérapie laser | consultation et séance de laser, une lumière qui soulage la douleur et aide la cicatrisation (Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier) | 62 CHF |
-| Consultation d'ostéopathie | consultation et traitement (Domdidier à 111 CHF ; Fribourg Ouest à 140 CHF) | 111 à 140 CHF |
-| Consultation des NAC | lapins, rongeurs, oiseaux, reptiles (Fribourg Ouest) | dès 60 CHF |
+| Consultation avec thérapie laser | consultation et séance de laser, une lumière qui soulage la douleur et aide la cicatrisation (Bussigny, Domdidier, Saint-Blaise, Saint-Légier) | 62 CHF |
+| Consultation des NAC | lapins, rongeurs, oiseaux, reptiles (Fribourg Ouest) | 140 CHF |
 | Consultation de chirurgie | examen par une vétérinaire spécialisée en chirurgie, devis si une opération est nécessaire (Fribourg Ouest) | 120 CHF |
 
 [La consultation de 30 minutes](/services/consultation/)
@@ -87,28 +86,15 @@ Le supplément d'urgence s'ajoute au prix des soins.
 | Domdidier, Fribourg Ouest, Payerne, Saint-Légier | 99 CHF pendant les heures d'ouverture | 176 CHF en dehors des heures d'ouverture |
 | Lac-de-Joux | 40 CHF pendant les heures d'ouverture | garde assurée par Médi-Vet |
 
-L'appel au numéro de garde coûte de 1,70 franc à 3 francs la minute selon la région. Sur la Riviera, il monte à 5 francs la nuit.
+L'appel au numéro de garde coûte de 2 à 3 francs la minute selon la région. Sur la Riviera, il monte à 5 francs la nuit. À Payerne, à Domdidier et à Fribourg Ouest, il est au tarif normal.
 
 [Urgences et garde](/urgences/)
-
-## Toilettage
-
-| Prestation | Ce qui est compris | Prix |
-|---|---|---|
-| Toilettage d'un petit chien | bain, coupe ou entretien du pelage | dès 81 CHF |
-| Toilettage d'un chien moyen | bain, coupe ou entretien du pelage | dès 91 CHF |
-| Toilettage d'un grand chien | bain, coupe ou entretien du pelage | dès 101 CHF |
-| Toilettage d'un chat | bain, coupe ou entretien du pelage | dès 91 CHF |
-| Nœuds serrés ou toilettage difficile | supplément par quart d'heure | 26 CHF |
-| Défeutrage d'un chat sous anesthésie | La Chaux-de-Fonds | dès 200 CHF |
-
-Le toilettage se fait à Payerne et à Domdidier. Après cinq séances, la sixième est à moitié prix. [Le toilettage](/services/toilettage/)
 
 ## Soins à domicile
 
 | Prestation | Ce qui est compris | Prix |
 |---|---|---|
-| Déplacement du vétérinaire | forfait pour la Riviera vaudoise et la Broye, du lundi au vendredi de 7 h 30 à 19 h, en plus des soins | 55 CHF |
+| Déplacement du vétérinaire | forfait pour la Riviera vaudoise et la Broye, aux heures d'ouverture du cabinet, en plus des soins | 55 CHF |
 
 Un rendez-vous à domicile annulé moins de 24 heures avant est facturé. [Les soins à domicile](/services/soins-a-domicile/)
 

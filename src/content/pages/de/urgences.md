@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Die richtige Nummer je nach Uhrzeit und Praxis, der Preis eines Notfalls und die Anzeichen, die nicht warten können.
 ---
 
-In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag von 40 bis 176 Franken je nach Praxis und Uhrzeit, danach die Behandlung.
+In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die meist pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag von 40 bis 176 Franken je nach Praxis und Uhrzeit, danach die Behandlung.
 
 [Die nächste Praxis finden](/de/praxen/)
 
@@ -21,10 +21,10 @@ In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende u
 |---|---|---|---|
 | [Bussigny](/de/bussigny/notfall/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
 | [La Chaux-de-Fonds](/de/chauxdefonds/notfall/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | CHF 3.– pro Minute |
-| [Domdidier](/de/domdidier/notfall/) | [026 675 38 88](tel:+41266753888) | [0900 904 904](tel:0900904904) | CHF 1.70 pro Minute |
-| [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | [026 466 84 84](tel:+41264668484) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
+| [Domdidier](/de/domdidier/notfall/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | Normaltarif |
+| [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | [026 466 84 84](tel:+41264668484) | [026 466 34 35](tel:+41264663435) | Normaltarif |
 | [Lac-de-Joux](/de/lacdejoux/notfall/), in L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), Dienst Médi-Vet | CHF 2.– pro Minute |
-| [Payerne](/de/payerne/notfall/) | [026 660 16 16](tel:+41266601616) | [0900 904 904](tel:0900904904) | CHF 1.70 pro Minute |
+| [Payerne](/de/payerne/notfall/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | Normaltarif |
 | [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
 | [Saint-Légier](/de/saintlegier/notfall/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), Notfalldienst der Riviera | CHF 2.– pro Minute von 8 bis 22 Uhr, CHF 5.– von 22 bis 8 Uhr |
 
@@ -36,7 +36,7 @@ Der Name jeder Praxis führt zu ihrer Seite Notfall: Notfallnummer, Adresse, Anf
 
 Nachts, am Wochenende und an Feiertagen wechseln sich die Kleintierpraxen einer Region ab. Eine einzige Nummer erreicht die diensthabende Tierärztin oder den diensthabenden Tierarzt, die oder der in einer Vetmint-Praxis oder in einer anderen Praxis der Region arbeitet. Sie hören Ihnen zu, beurteilen, ob das Tier sofort gesehen werden muss, und nennen Ihnen die Adresse, zu der Sie es bringen. Notieren Sie diese Adresse, bevor Sie auflegen: Sie ändert sich von Nacht zu Nacht.
 
-Diese Nummer beginnt mit 0900. Die Minute wird über Ihre Telefonrechnung verrechnet, je nach Region und Uhrzeit mit 1.70 bis 5 Franken. Sie wird nicht vom Preis der Behandlung abgezogen.
+In den meisten Regionen beginnt diese Nummer mit 0900. Die Minute wird über Ihre Telefonrechnung verrechnet, je nach Region und Uhrzeit mit 2 bis 5 Franken. Sie wird nicht vom Preis der Behandlung abgezogen. In Payerne, Domdidier und Fribourg Ouest ist die Notfallnummer eine gewöhnliche Nummer zum Normaltarif.
 
 ### Drei Praxen mit eigener Organisation
 
@@ -110,7 +110,7 @@ Rufen Sie zuerst an, auch wenn Sie fünf Minuten von der Praxis entfernt sind. D
 
 ### Warum kostet die Notfallnummer etwas?
 
-Der Preis pro Minute finanziert die ständige Bereitschaft der Tierärztinnen und Tierärzte, die sich die ganze Nacht und das Wochenende abwechseln. Ein Gespräch von drei Minuten kostet je nach Region zwischen 5.10 und 9 Franken.
+Der Preis pro Minute finanziert die ständige Bereitschaft der Tierärztinnen und Tierärzte, die sich die ganze Nacht und das Wochenende abwechseln. Ein Gespräch von drei Minuten kostet je nach Region zwischen 6 und 9 Franken.
 
 ### Darf ich meinen Hund erbrechen lassen, der ein Produkt verschluckt hat?
 

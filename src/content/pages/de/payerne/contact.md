@@ -23,9 +23,7 @@ Auf WhatsApp hilft ein Foto der Wunde oder des Knotens der Tierärztin oder dem 
 ## Öffnungszeiten und Schliessungen
 
 <!-- donnees: horaires -->
-- Montag: 8–12 Uhr und 14–18 Uhr
-- Dienstag: 8–12 Uhr und 14–19 Uhr
-- Mittwoch bis Freitag: 8–12 Uhr und 14–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
@@ -33,7 +31,7 @@ Auf WhatsApp hilft ein Foto der Wunde oder des Knotens der Tierärztin oder dem 
 - Keine Schliessung vorgesehen
 <!-- /donnees -->
 
-Die Praxis ist das ganze Jahr geöffnet. An einzelnen Samstagen öffnet sie von 8.30 bis 15 Uhr: Rufen Sie vor dem Besuch an.
+Die Praxis ist das ganze Jahr geöffnet. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
 
 ## Mit dem Auto
 

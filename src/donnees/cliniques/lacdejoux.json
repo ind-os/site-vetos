@@ -35,8 +35,7 @@
     "analyses-diagnostic",
     "radiographie",
     "hospitalisation",
-    "conseils-aux-eleveurs",
-    "toilettage"
+    "conseils-aux-eleveurs"
   ],
   "urgences": true,
   "horaires": {

@@ -82,18 +82,18 @@ Le cabinet fait sur place la prise de sang, l'analyse d'urine ou de selles et la
 En journée, une urgence coûte donc au moins 156 francs : 57 francs de consultation et 99 francs de supplément. En dehors des heures d'ouverture, le numéro de garde est commun aux cabinets pour petits animaux de la région.
 
 <!-- donnees: garde -->
-- Numéro de garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
 Ce qu'il faut faire selon l'heure est sur la page [Urgences](/payerne/urgences/).
 
-## Toilettage et visites à domicile
+## Visites à domicile
 
 | Prestation | Ce que vous payez | Prix |
 |---|---|---|
-| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, du lundi au vendredi de 7 h 30 à 19 h ; les soins s'ajoutent | 55 CHF |
+| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, aux heures d'ouverture du cabinet ; les soins s'ajoutent | 55 CHF |
 
-Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée. Le toilettage se fait au cabinet, par une assistante en médecine vétérinaire formée au toilettage. Ses prix, selon la taille du chien ou pour un chat, sont sur la page [Toilettage](/services/toilettage/).
+Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée.
 
 ## Payer
 

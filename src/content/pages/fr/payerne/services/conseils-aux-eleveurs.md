@@ -33,7 +33,7 @@ La plupart des mises bas se passent à la maison, sans aide. Appelez si la mère
 Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616). Si une césarienne est nécessaire, elle se fait dans la salle d'opération du cabinet ; la mère et ses petits rentrent ensuite avec vous. La nuit et le week-end, appelez le service de garde :
 
 <!-- donnees: garde -->
-- Numéro de garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
 Une urgence coûte 99 francs de supplément en journée, 176 francs la nuit et le week-end, en plus des soins.

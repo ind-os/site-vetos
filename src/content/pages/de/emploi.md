@@ -40,7 +40,7 @@ Das Pensum, die Arbeitstage und die Aufteilung zwischen Konsultation und Chirurg
 
 ### Die Weiterbildung
 
-Jede und jeder wählt die Weiterbildungen nach dem, was sie oder er lernen möchte und was die Praxis braucht. Vetmint finanziert fünf Tage Weiterbildung pro Jahr für eine Tierärztin oder einen Tierarzt in Vollzeit und drei Tage für eine TPA, im Verhältnis zum Pensum. Zwischen den Praxen beraten sich die Tierärztinnen und Tierärzte zu ihren Fällen: Das Team von Fribourg Ouest betreut Heimtiere und chronische Schmerzen, das von Domdidier die Osteopathie und die Hausbesuche.
+Jede und jeder wählt die Weiterbildungen nach dem, was sie oder er lernen möchte und was die Praxis braucht. Vetmint finanziert fünf Tage Weiterbildung pro Jahr für eine Tierärztin oder einen Tierarzt in Vollzeit und drei Tage für eine TPA, im Verhältnis zum Pensum. Zwischen den Praxen beraten sich die Tierärztinnen und Tierärzte zu ihren Fällen: Das Team von Fribourg Ouest betreut Heimtiere und chronische Schmerzen, das von Domdidier die Hausbesuche.
 
 ### Weniger administrative Aufgaben
 

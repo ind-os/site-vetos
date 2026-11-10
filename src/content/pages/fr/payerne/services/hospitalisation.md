@@ -20,7 +20,7 @@ Vous amenez votre animal à 8 h, à l'ouverture. Le vétérinaire l'examine, vo
 
 Pendant la journée, les assistantes en médecine vétérinaire donnent les traitements aux heures prévues et notent tout sur la feuille de soins. Elles sortent les chiens en laisse, changent les couvertures et proposent les repas que le vétérinaire autorise. Claire-Lise Tinguely ou Tiago Capelo repasse examiner votre animal entre deux consultations. En fin de matinée, il vous téléphone pour faire le point.
 
-Vous reprenez votre animal en fin de journée, jusqu'à 18 h, ou 19 h le mardi. L'heure se fixe au téléphone, selon son état.
+Vous reprenez votre animal en fin de journée, jusqu'à 18 h. L'heure se fixe au téléphone, selon son état.
 
 ## Les raisons les plus courantes
 
@@ -36,7 +36,7 @@ Quand votre animal doit rester la nuit, l'équipe fait un dernier tour à la fer
 Si vous êtes inquiet après le retour à la maison, la nuit ou le week-end, appelez le service de garde de la région :
 
 <!-- donnees: garde -->
-- Numéro de garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
 ## Les lapins et les rongeurs

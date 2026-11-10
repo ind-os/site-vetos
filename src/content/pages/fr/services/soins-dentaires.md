@@ -132,7 +132,7 @@ C'est une malocclusion : les dents ne s'usent plus et blessent la joue ou la la
 Les huit cabinets Vetmint pratiquent le détartrage aux ultrasons, le polissage, les radiographies dentaires et les extractions.
 
 - [Bussigny](/bussigny/services/) : le laser complète le traitement des gencives enflammées du chat. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : forfait d'extraction totale, laser pour les gencives. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : forfait d'extraction totale. [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : un médecin-dentiste, qui exerce auprès des humains à Fribourg, assiste l'équipe lors des interventions complexes. [Rendez-vous](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : soins dentaires des lapins, des rongeurs, des furets et de certains lézards, avec parage et radiographie dentaire. [Rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : forfait d'extraction totale. [Rendez-vous](/lacdejoux/rendez-vous/)

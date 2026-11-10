@@ -53,7 +53,7 @@ Après un accident, appelez le [026 660 16 16](tel:+41266601616) avant de prend
 
 ## Le retour à la maison
 
-Sans calmant, votre animal repart avec vous après la lecture. Avec un calmant, il reste au cabinet jusqu'à ce qu'il marche droit. Vous le reprenez en fin de journée, avant 18 h, ou 19 h le mardi. Le soir, offrez-lui un petit repas et laissez-le dormir au calme.
+Sans calmant, votre animal repart avec vous après la lecture. Avec un calmant, il reste au cabinet jusqu'à ce qu'il marche droit. Vous le reprenez en fin de journée, avant 18 h. Le soir, offrez-lui un petit repas et laissez-le dormir au calme.
 
 ## Les questions qu'on nous pose au comptoir
 

@@ -144,7 +144,7 @@ Huit à douze questions en `###`, sous trois ou quatre `##` : Rendez-vous et hor
 5. Les dents.
 6. Examens et analyses.
 7. Les urgences : les suppléments par moment, le bloc garde, le lien vers la page Urgences.
-8. Toilettage et visites à domicile.
+8. Visites à domicile.
 9. Payer.
 10. Plan de prévention et abonnements, avec le lien vers la page Abonnements.
 11. Comparer avec les autres cliniques, avec le lien vers `/tarifs/`.
@@ -255,7 +255,7 @@ Les sections suivent le sujet : pour une maladie, les signes, les causes, ce que
 
 Volume : 200 à 1 800 mots. Script. Le script ne contrôle pas les liens d'une page `simple` : la relecture s'en charge.
 
-- `/tarifs/` : comment lire ces prix ; consultations ; bilans et vaccins ; stérilisations et castrations ; dents ; imagerie et analyses ; urgences ; toilettage ; soins à domicile ; moyens de paiement ; plan de prévention et abonnements ; le prix dans chaque clinique. Tableaux à trois colonnes. Liens vers `/abonnements/`, chaque service tarifé, `/cabinets/`.
+- `/tarifs/` : comment lire ces prix ; consultations ; bilans et vaccins ; stérilisations et castrations ; dents ; imagerie et analyses ; urgences ; soins à domicile ; moyens de paiement ; plan de prévention et abonnements ; le prix dans chaque clinique. Tableaux à trois colonnes. Liens vers `/abonnements/`, chaque service tarifé, `/cabinets/`.
 - `/abonnements/` : à qui s'adresse chaque formule ; le plan de prévention chiot et chaton ; les abonnements mensuels ; le comparatif ; ce qui n'est pas compris ; souscrire, payer, résilier ; questions fréquentes ; où souscrire. Liens vers `/tarifs/`, les services couverts, `/cabinets/`.
 - `/a-propos/` : qui dirige Vetmint ; comment le groupe s'est formé ; ce que partagent les huit cliniques ; Vetmint et les autres vétérinaires ; joindre le groupe.
 - `/emploi/` : les postes ouverts, un `###` par poste et la candidature spontanée ; ce que vous trouvez chez Vetmint ; les huit cliniques ; postuler.

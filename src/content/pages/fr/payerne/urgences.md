@@ -3,7 +3,7 @@ type: urgences
 clinique: payerne
 url: /payerne/urgences/
 title: "Urgence vétérinaire à Payerne : qui appeler, à quelle heure"
-description: "Urgence à Payerne : pendant les heures d'ouverture, appelez le 026 660 16 16 ; la nuit et le week-end, le 0900 904 904 (1,70 franc la minute). Signes d'alerte."
+description: "Urgence à Payerne : pendant les heures d'ouverture, appelez le 026 660 16 16 ; la nuit et le week-end, le 026 466 34 35. Signes d'alerte et premiers gestes."
 h1: Urgence vétérinaire à Payerne
 recherche: urgence vétérinaire Payerne
 redige_le: 2026-10-16
@@ -17,7 +17,7 @@ En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal
 - La nuit, le week-end, les jours fériés et en dehors des heures d'ouverture, appelez le numéro de garde.
 
 <!-- donnees: garde -->
-- Numéro de garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
 ## Pendant les heures d'ouverture
@@ -25,9 +25,7 @@ En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal
 Le cabinet reçoit les urgences sans rendez-vous, entre deux consultations. Téléphonez d'abord, même si vous êtes à deux minutes de la route du Châtelard. L'équipe libère une salle et prépare le matériel. Elle peut vous demander de vous garer sur la place de dépose de plain-pied : vous entrez directement, sans traverser la salle d'attente.
 
 <!-- donnees: horaires -->
-- Lundi : 8 h à 12 h et 14 h à 18 h
-- Mardi : 8 h à 12 h et 14 h à 19 h
-- Mercredi à vendredi : 8 h à 12 h et 14 h à 18 h
+- Lundi à vendredi : 8 h à 18 h
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 

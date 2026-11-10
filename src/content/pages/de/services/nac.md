@@ -81,7 +81,7 @@ Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb finden Sie auf
 | Leistung | Was inbegriffen ist | Preis |
 |---|---|---|
 | Konsultation von 30 Minuten | Untersuchung, Wägung, Beratung | CHF 54.– bis 59.– |
-| Spezialisierte Heimtier-Konsultation (Fribourg Ouest) | vertiefte Untersuchung, Behandlungsplan, schriftliches Merkblatt | ab CHF 60.– |
+| Spezialisierte Heimtier-Konsultation (Fribourg Ouest) | vertiefte Untersuchung, Behandlungsplan, schriftliches Merkblatt | CHF 140.– |
 | Jahrescheck mit Kaninchenimpfung | Konsultation von 30 Minuten, RHD-Impfung | CHF 63.– bis 76.– |
 | Kastration des Kaninchens | Untersuchung vor der Narkose, Gasnarkose, Operation, Schmerzbehandlung, zwei Kontrollen | CHF 131.– bis 185.– |
 | Kastration eines Kaninchens oder eines Nagers (Fribourg Ouest) | gleicher Umfang | CHF 150.– |

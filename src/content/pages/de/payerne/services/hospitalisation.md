@@ -20,7 +20,7 @@ Sie bringen Ihr Tier um 8 Uhr, bei Öffnung. Die Tierärztin oder der Tierarzt u
 
 Tagsüber geben die Tiermedizinischen Praxisassistentinnen die Behandlungen zu den vorgesehenen Zeiten und halten alles auf dem Pflegeblatt fest. Sie führen die Hunde an der Leine nach draussen, wechseln die Decken und bieten die Mahlzeiten an, die die Tierärztin oder der Tierarzt erlaubt. Claire-Lise Tinguely oder Tiago Capelo schaut zwischen zwei Konsultationen erneut nach Ihrem Tier. Am späteren Vormittag ruft sie oder er Sie an, um Bilanz zu ziehen.
 
-Sie holen Ihr Tier am Ende des Tages ab, bis 18 Uhr, am Dienstag bis 19 Uhr. Die Uhrzeit wird am Telefon festgelegt, je nach seinem Zustand.
+Sie holen Ihr Tier am Ende des Tages ab, bis 18 Uhr. Die Uhrzeit wird am Telefon festgelegt, je nach seinem Zustand.
 
 ## Die häufigsten Gründe
 
@@ -36,7 +36,7 @@ Muss Ihr Tier über Nacht bleiben, macht das Team bei Schliessung einen letzten 
 Wenn Sie nach der Rückkehr nach Hause beunruhigt sind, nachts oder am Wochenende, rufen Sie den Notfalldienst der Region an:
 
 <!-- donnees: garde -->
-- Notfalldienst: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
 ## Kaninchen und Nager

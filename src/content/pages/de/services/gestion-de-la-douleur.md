@@ -73,11 +73,11 @@ Die Behandlung kombiniert mehrere Mittel, die je nach Ursache und Tier gewählt 
 - eine Gewichtsabnahme, wenn das Tier zu dick ist;
 - regelmässige, sanfte Bewegung statt langer Ausflüge am Wochenende;
 - Anpassungen zu Hause: rutschfeste Teppiche, Rampe, Katzenklo mit niedrigem Rand;
-- ergänzende Behandlungen wie die [Lasertherapie](/de/leistungen/lasertherapie/) oder die [Osteopathie](/de/leistungen/osteopathie/).
+- ergänzende Behandlungen wie die [Lasertherapie](/de/leistungen/lasertherapie/).
 
 ### Die Schmerzkonsultation in Fribourg Ouest
 
-Die Praxis Fribourg Ouest in Givisiez widmet dem chronischen Schmerz und den akuten Schmerzen, die schwer zu lindern sind, eine eigene Konsultation. Sie kann Pflaster anbringen, Infiltrationen oder Nervenblockaden durchführen. Sie koordiniert die Behandlung mit den Fachpersonen für Physiotherapie und Osteopathie, die das Tier betreuen. Der vollständige Ablauf ist auf ihrer Seite [Schmerztherapie](/de/fribourg/leistungen/schmerztherapie/) beschrieben.
+Die Praxis Fribourg Ouest in Givisiez widmet dem chronischen Schmerz und den akuten Schmerzen, die schwer zu lindern sind, eine eigene Konsultation. Sie kann Pflaster anbringen, Infiltrationen oder Nervenblockaden durchführen. Sie koordiniert die Behandlung mit den Fachpersonen für Physiotherapie, die das Tier betreuen. Der vollständige Ablauf ist auf ihrer Seite [Schmerztherapie](/de/fribourg/leistungen/schmerztherapie/) beschrieben.
 
 ## Die Vorbereitung
 
@@ -100,9 +100,6 @@ Rufen Sie die Praxis an, wenn Ihr Tier erbricht, schwarzen Kot hat, nicht mehr f
 | Konsultation von 30 Minuten | Untersuchung, Schmerzbeurteilung, Behandlungsplan | CHF 54.– bis 59.– je nach Praxis |
 | Schmerzbehandlung bei einer Operation | im Narkosepauschalpreis jeder Kastration, Sterilisation oder Zahnsteinentfernung enthalten | inbegriffen |
 | Konsultation mit Lasertherapie | Konsultation und Lasersitzung | CHF 62.– |
-| Osteopathie-Konsultation | Konsultation und Behandlung | CHF 111.–, CHF 140.– in Fribourg Ouest |
-| Erste Schmerzkonsultation in Fribourg Ouest | 60 Minuten, vollständige Untersuchung und Behandlungsplan | CHF 130.– |
-| Schmerz-Kontrollkonsultation in Fribourg Ouest | Kontrolle und Anpassung der Behandlung | CHF 59.– |
 
 Medikamente, Röntgenaufnahmen und Blutuntersuchungen kommen je nach Bedarf hinzu. Alle Preise finden Sie auf der Seite [Preise](/de/preise/).
 
@@ -120,9 +117,9 @@ Nein. Schmerzmittel für Menschen sind für Tiere gefährlich, selbst in kleiner
 
 Bei vielen Tieren ja, mit regelmässiger Kontrolle durch eine Blutuntersuchung. Die Tierärztin oder der Tierarzt sucht die kleinste wirksame Dosis und kombiniert sie mit anderen Mitteln, um sie zu senken.
 
-### Genügen Laser oder Osteopathie?
+### Genügt der Laser?
 
-Selten allein. Sie ergänzen die Medikamente und die angepasste Bewegung. Manchmal verringern sie die nötigen Dosen.
+Selten allein. Er ergänzt die Medikamente und die angepasste Bewegung. Manchmal verringert er die nötigen Dosen.
 
 ### Meine Katze hat Arthrose: Was soll ich zu Hause ändern?
 
@@ -132,10 +129,7 @@ Stellen Sie eine Stufe vor ihre Lieblingsplätze, ein Katzenklo mit niedrigem Ra
 
 Die Schmerzkonsultation findet in [Fribourg Ouest](/de/fribourg/leistungen/) in Givisiez statt. Sie empfängt Tiere, die seit langer Zeit Schmerzen haben oder deren Schmerz auf die übliche Behandlung nicht anspricht, mit einem ersten Termin von einer Stunde.
 
-In allen Vetmint-Praxen gehört die Schmerzbehandlung zu jeder Operation, und ein anhaltender Schmerz wird in einer Konsultation von 30 Minuten verfolgt. Zwei ergänzende Behandlungen werden in einigen von ihnen durchgeführt:
-
-- die [Lasertherapie](/de/leistungen/lasertherapie/) in [Bussigny](/de/bussigny/leistungen/), [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/), [Saint-Blaise](/de/saintblaise/leistungen/) und [Saint-Légier](/de/saintlegier/leistungen/);
-- die [Osteopathie](/de/leistungen/osteopathie/) in [Domdidier](/de/domdidier/leistungen/) und in Fribourg Ouest.
+In allen Vetmint-Praxen gehört die Schmerzbehandlung zu jeder Operation, und ein anhaltender Schmerz wird in einer Konsultation von 30 Minuten verfolgt. Eine ergänzende Behandlung, die [Lasertherapie](/de/leistungen/lasertherapie/), wird in [Bussigny](/de/bussigny/leistungen/), [Domdidier](/de/domdidier/leistungen/), [Saint-Blaise](/de/saintblaise/leistungen/) und [Saint-Légier](/de/saintlegier/leistungen/) durchgeführt.
 
 Für ein Kaninchen oder einen Nager beschreibt der Ratgeber [Arthrose bei Heimtieren](/de/ratgeber/arthrose-heimtiere/) die Anzeichen und die Anpassungen.
 

@@ -55,7 +55,7 @@ Elles sont en général mineures et se soignent bien quand on les repère tôt.
 - Une tête penchée sur le côté.
 - Une plaie qui se rouvre en partie, ou un bord de plaie qui noircit et meurt (nécrose).
 
-La paralysie et la tête penchée disparaissent d'elles-mêmes en quelques jours. Un lapin qui avait déjà la tête penchée avant l'opération peut en garder des séquelles. La physiothérapie et l'[ostéopathie](/services/osteopathie/) l'aident alors à récupérer et améliorent son confort.
+La paralysie et la tête penchée disparaissent d'elles-mêmes en quelques jours. Un lapin qui avait déjà la tête penchée avant l'opération peut en garder des séquelles. La physiothérapie l'aide alors à récupérer et améliore son confort.
 
 L'audition peut baisser après l'opération. Dans une otite aussi sévère, elle est le plus souvent déjà diminuée, parfois pour de bon.
 

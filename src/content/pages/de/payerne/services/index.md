@@ -11,7 +11,7 @@ redige_le: 2026-11-04
 
 Die tierärztlichen Leistungen der Praxis Vetmint Payerne finden an der Route du Châtelard 13 statt. Jede Leistung hat ihre Seite. Sie sagt, wie sie hier abläuft, wer sie ausführt und was sie in Payerne kostet.
 
-Claire-Lise Tinguely und Tiago Capelo teilen sich die Konsultationen und die Operationen. Eine Konsultation dauert 30 Minuten und kostet 57 Franken. Am Dienstag empfängt die Praxis bis 19 Uhr.
+Claire-Lise Tinguely und Tiago Capelo teilen sich die Konsultationen und die Operationen. Eine Konsultation dauert 30 Minuten und kostet 57 Franken. Die Praxis empfängt von 8 bis 18 Uhr, ohne Mittagspause.
 
 ## Termin und Preise
 

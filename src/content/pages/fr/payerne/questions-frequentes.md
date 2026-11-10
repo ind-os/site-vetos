@@ -15,11 +15,11 @@ Ces questions sont celles que nos clients posent le plus souvent au téléphone 
 
 ### Le cabinet est-il ouvert le samedi ?
 
-Pas chaque samedi. Le cabinet ouvre du lundi au vendredi, jusqu'à 19 h le mardi. Certains samedis, elle ouvre aussi de 8 h 30 à 15 h ; ces dates sont annoncées en haut du site. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
+Pas chaque samedi. Le cabinet ouvre du lundi au vendredi, de 8 h à 18 h. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, de 8 h 30 à 15 h : jamais les deux le même jour. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
 
 ### Puis-je déposer mon animal le matin et le reprendre le soir ?
 
-Oui. C'est ce que font la plupart des clients pour une opération, un détartrage ou une série d'examens. Vous l'amenez dès 8 h et vous le reprenez en fin de journée, jusqu'à 18 h, ou 19 h le mardi. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous.
+Oui. C'est ce que font la plupart des clients pour une opération, un détartrage ou une série d'examens. Vous l'amenez dès 8 h et vous le reprenez en fin de journée, jusqu'à 18 h. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous.
 
 ## Prix et paiement
 
@@ -43,7 +43,7 @@ Les chiens, les chats, les lapins et les rongeurs : cochons d'Inde, rats, chinc
 
 ### Vous déplacez-vous à domicile ?
 
-Oui, sur rendez-vous, dans tout le district de la Broye, du lundi au vendredi. Un vétérinaire vient chez vous pour les soins courants : vaccins, contrôle, animal âgé ou difficile à transporter. Le déplacement coûte 55 francs, en plus des soins. Un rendez-vous à domicile annulé moins de 24 heures avant est facturé.
+Oui, sur rendez-vous, dans tout le district de la Broye, aux heures d'ouverture du cabinet. Un vétérinaire vient chez vous pour les soins courants : vaccins, contrôle, animal âgé ou difficile à transporter. Le déplacement coûte 55 francs, en plus des soins. Un rendez-vous à domicile annulé moins de 24 heures avant est facturé.
 
 ### Que faire en cas d'urgence la nuit ?
 

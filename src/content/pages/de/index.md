@@ -14,7 +14,7 @@ Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, F
 
 Jede Praxis hat ihre Seiten mit Team, Öffnungszeiten und Terminvereinbarung: [Bussigny](/de/bussigny/), [La Chaux-de-Fonds](/de/chauxdefonds/), [Domdidier](/de/domdidier/), [Fribourg Ouest](/de/fribourg/) in Givisiez, [Lac-de-Joux](/de/lacdejoux/) in L'Abbaye, [Payerne](/de/payerne/), [Saint-Blaise](/de/saintblaise/) und [Saint-Légier](/de/saintlegier/). Vier Praxen liegen im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg.
 
-Einige Praxen bieten eine Behandlung an, die die anderen nicht haben. Fribourg Ouest führt eine Konsultation für Heimtiere und eine Schmerzkonsultation. Osteopathie wird in Domdidier und in Fribourg Ouest angeboten. Lasertherapie gibt es in Bussigny, La Chaux-de-Fonds, Saint-Blaise und Saint-Légier. Die Fellpflege findet in Payerne und in Domdidier statt. Lac-de-Joux operiert laparoskopisch, mit kleinen Schnitten und einer Kamera.
+Einige Praxen bieten eine Behandlung an, die die anderen nicht haben. Fribourg Ouest führt eine Konsultation für Heimtiere und eine Schmerzkonsultation. Lasertherapie gibt es in Bussigny, Domdidier, Saint-Blaise und Saint-Légier. La Chaux-de-Fonds setzt zudem Miniatur-Mikrochips und Thermochips ein, Chips, die auch die Temperatur messen. In Domdidier berät das Team auf Französisch, Portugiesisch und Englisch. Lac-de-Joux operiert laparoskopisch, mit kleinen Schnitten und einer Kamera.
 
 [Adressen, Öffnungszeiten und Notfalldienst der acht Praxen](/de/praxen/)
 
@@ -72,13 +72,11 @@ Die Behandlungsräume sind voneinander getrennt. Mehrere Praxen verbreiten beruh
 - [Die stationäre Betreuung](/de/leistungen/stationaere-betreuung/)
 - [Die Schmerztherapie](/de/leistungen/schmerztherapie/)
 - [Die Lasertherapie](/de/leistungen/lasertherapie/)
-- [Die Osteopathie](/de/leistungen/osteopathie/)
 - [Die Hausbesuche](/de/leistungen/hausbesuche/)
 
 ### Für weitere Bedürfnisse
 
 - [Heimtiere](/de/leistungen/heimtiere/): Kaninchen, Nager, Vögel und Reptilien
-- [Die Fellpflege und das Entfilzen](/de/leistungen/fellpflege/)
 - [Die Beratung für Züchterinnen und Züchter](/de/leistungen/zuechterberatung/)
 - [Die Notfälle](/de/notfall/)
 

@@ -19,9 +19,8 @@ Die Preise sind in Schweizer Franken, inklusive aller Steuern. Sie gelten ab dem
 | Leistung | Enthalten | Preis |
 |---|---|---|
 | Konsultation nach Terminvereinbarung | 30 Minuten: vollständige Untersuchung, Fragen zu Appetit, Gewicht und Verhalten, Antworten auf Ihre Fragen | CHF 54–59 |
-| Konsultation mit Lasertherapie | Konsultation und Lasersitzung, ein Licht, das den Schmerz lindert und die Heilung unterstützt (Bussigny, La Chaux-de-Fonds, Saint-Blaise, Saint-Légier) | CHF 62.– |
-| Osteopathie-Konsultation | Konsultation und Behandlung (Domdidier CHF 111.–; Fribourg Ouest CHF 140.–) | CHF 111–140 |
-| Heimtierkonsultation | Kaninchen, Nager, Vögel, Reptilien (Fribourg Ouest) | ab CHF 60.– |
+| Konsultation mit Lasertherapie | Konsultation und Lasersitzung, ein Licht, das den Schmerz lindert und die Heilung unterstützt (Bussigny, Domdidier, Saint-Blaise, Saint-Légier) | CHF 62.– |
+| Heimtierkonsultation | Kaninchen, Nager, Vögel, Reptilien (Fribourg Ouest) | CHF 140.– |
 | Chirurgiekonsultation | Untersuchung durch eine auf Chirurgie spezialisierte Tierärztin, Kostenvoranschlag, falls eine Operation nötig ist (Fribourg Ouest) | CHF 120.– |
 
 [Die Konsultation von 30 Minuten](/de/leistungen/konsultation/)
@@ -87,28 +86,15 @@ Der Notfallzuschlag kommt zum Preis der Behandlung hinzu.
 | Domdidier, Fribourg Ouest, Payerne, Saint-Légier | CHF 99.– während der Öffnungszeiten | CHF 176.– ausserhalb der Öffnungszeiten |
 | Lac-de-Joux | CHF 40.– während der Öffnungszeiten | Notfalldienst durch Médi-Vet |
 
-Der Anruf bei der Notfallnummer kostet je nach Region 1.70 Franken bis 3 Franken pro Minute. An der Riviera steigt er nachts auf 5 Franken.
+Der Anruf bei der Notfallnummer kostet je nach Region 2 bis 3 Franken pro Minute. An der Riviera steigt er nachts auf 5 Franken. In Payerne, Domdidier und Fribourg Ouest gilt der Normaltarif.
 
 [Notfälle und Notfalldienst](/de/notfall/)
-
-## Fellpflege
-
-| Leistung | Enthalten | Preis |
-|---|---|---|
-| Fellpflege eines kleinen Hundes | Bad, Schnitt oder Fellpflege | ab CHF 81.– |
-| Fellpflege eines mittelgrossen Hundes | Bad, Schnitt oder Fellpflege | ab CHF 91.– |
-| Fellpflege eines grossen Hundes | Bad, Schnitt oder Fellpflege | ab CHF 101.– |
-| Fellpflege einer Katze | Bad, Schnitt oder Fellpflege | ab CHF 91.– |
-| Festsitzende Knoten oder schwierige Fellpflege | Zuschlag pro Viertelstunde | CHF 26.– |
-| Entfilzen einer Katze unter Narkose | La Chaux-de-Fonds | ab CHF 200.– |
-
-Die Fellpflege findet in Payerne und in Domdidier statt. Nach fünf Sitzungen ist die sechste zum halben Preis. [Die Fellpflege](/de/leistungen/fellpflege/)
 
 ## Hausbesuche
 
 | Leistung | Enthalten | Preis |
 |---|---|---|
-| Anfahrt der Tierärztin oder des Tierarztes | Pauschale für die Waadtländer Riviera und die Broye, Montag bis Freitag von 7.30 bis 19 Uhr, zusätzlich zur Behandlung | CHF 55.– |
+| Anfahrt der Tierärztin oder des Tierarztes | Pauschale für die Waadtländer Riviera und die Broye, während der Öffnungszeiten der Praxis, zusätzlich zur Behandlung | CHF 55.– |
 
 Ein Hausbesuch, der weniger als 24 Stunden vorher abgesagt wird, wird verrechnet. [Die Hausbesuche](/de/leistungen/hausbesuche/)
 

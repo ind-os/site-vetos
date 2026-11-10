@@ -38,7 +38,7 @@ Die geplanten Operationen finden am Morgen statt, von Montag bis Freitag. Sie br
 
 Das Tier kommt dann in den Vorbereitungsraum, der direkt zum Operationssaal führt. Claire-Lise Tinguely oder Tiago Capelo untersucht es und lässt es dann einschlafen. Jessy Dizerens oder Sandra Maeder überwacht seine Atmung und sein Herz während der Operation, dann während des Aufwachens.
 
-Die Tierärztin oder der Tierarzt ruft Sie an, wenn die Operation beendet ist. Sie holen Ihr Tier am späten Nachmittag ab, zwischen 16 und 18 Uhr, oder am Dienstag bis 19 Uhr. An der Kasse übergibt Ihnen die Assistentin die Schmerzmittel und erklärt Ihnen, wie Sie sie geben. Am nächsten Tag ruft die Praxis Sie an, um zu fragen, wie die Nacht verlaufen ist.
+Die Tierärztin oder der Tierarzt ruft Sie an, wenn die Operation beendet ist. Sie holen Ihr Tier am späten Nachmittag ab, zwischen 16 und 18 Uhr. An der Kasse übergibt Ihnen die Assistentin die Schmerzmittel und erklärt Ihnen, wie Sie sie geben. Am nächsten Tag ruft die Praxis Sie an, um zu fragen, wie die Nacht verlaufen ist.
 
 ## Die Operation vorbereiten
 
@@ -72,7 +72,7 @@ Ja. Die Tierärztin oder der Tierarzt sieht sie zuerst in einer Konsultation und
 
 ### Ich kann nicht um 8 Uhr kommen. Was tun?
 
-Sagen Sie es bei der Festlegung des Datums. Das Team sucht mit Ihnen eine andere Uhrzeit für die Abgabe. Am Dienstag können Sie Ihr Tier bis 19 Uhr abholen.
+Sagen Sie es bei der Festlegung des Datums. Das Team sucht mit Ihnen eine andere Uhrzeit für die Abgabe. Sie können Ihr Tier bis 18 Uhr abholen.
 
 ### Meine Katze hat Angst vor Hunden. Wo wartet sie nach der Operation?
 

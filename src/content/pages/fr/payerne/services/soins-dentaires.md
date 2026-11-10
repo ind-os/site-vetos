@@ -50,7 +50,7 @@ Le détartrage se décide pendant une consultation : le vétérinaire regarde l
 
 Le jour venu, vous déposez votre animal à 8 h, à jeun. Il passe dans la salle de préparation, où il reçoit son cathéter et s'endort. La salle de radiographie est juste à côté : les clichés des dents se prennent pendant la même anesthésie. Voir la page [Radiographie à Payerne](/payerne/services/radiographie/).
 
-Claire-Lise Tinguely ou Tiago Capelo détartre, sonde chaque dent et décide des extractions avec les images. Si une dent non prévue doit partir, il vous appelle avant. Une assistante surveille le cœur et la respiration jusqu'au réveil. Vous reprenez votre animal en fin d'après-midi, ou jusqu'à 19 h le mardi.
+Claire-Lise Tinguely ou Tiago Capelo détartre, sonde chaque dent et décide des extractions avec les images. Si une dent non prévue doit partir, il vous appelle avant. Une assistante surveille le cœur et la respiration jusqu'au réveil. Vous reprenez votre animal en fin d'après-midi, jusqu'à 18 h.
 
 ## Préparer la visite et le retour à la maison
 

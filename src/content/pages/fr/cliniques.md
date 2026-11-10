@@ -44,7 +44,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Téléphone [032 914 03 48](t
 - Garde : [0900 901 902](tel:0900901902), 3 francs la minute
 <!-- /donnees -->
 
-Chiens, chats, lapins, cochons d'Inde, chinchillas, rats, hamsters, gerbilles et dègues. Puces électroniques miniatures et thermochips (puces qui mesurent aussi la température). Défeutrage des chats sous anesthésie.
+Chiens, chats, lapins, cochons d'Inde, chinchillas, rats, hamsters, gerbilles et dègues. Puces électroniques miniatures et thermochips (puces qui mesurent aussi la température).
 
 [Le cabinet Vetmint La Chaux-de-Fonds](/chauxdefonds/)
 
@@ -53,17 +53,18 @@ Chiens, chats, lapins, cochons d'Inde, chinchillas, rats, hamsters, gerbilles et
 Route de Saint-Aubin 58, 1564 Domdidier. Places de parc à proximité. Téléphone et WhatsApp [026 675 38 88](tel:+41266753888), e-mail [domdidier@vetmint.ch](mailto:domdidier@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Lundi, mardi, mercredi et vendredi : 8 h à 12 h et 14 h à 18 h
-- Jeudi : 8 h à 12 h et 14 h à 20 h
-- Samedi : 8 h 30 à 12 h 30
-- Dimanche : fermé
+- Lundi, mardi, mercredi et vendredi : 8 h à 18 h
+- Jeudi : 8 h à 19 h
+- Samedi et dimanche : fermé
 <!-- /donnees -->
+
+Le samedi, Domdidier et Payerne ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
 
 <!-- donnees: garde -->
-- Garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens, chats, lapins et rongeurs. Ostéopathie pour chiens et chats, toilettage, soins à domicile. Consultations en français, en portugais et en anglais.
+Chiens, chats, lapins et rongeurs. Soins à domicile. Consultations en français, en portugais et en anglais.
 
 [Le cabinet Vetmint Domdidier](/domdidier/)
 
@@ -72,15 +73,15 @@ Chiens, chats, lapins et rongeurs. Ostéopathie pour chiens et chats, toilettage
 Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entre Fribourg et Corminboeuf. Téléphone [026 466 84 84](tel:+41264668484), e-mail [fribourg@vetmint.ch](mailto:fribourg@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Lundi à vendredi : 8 h à 12 h et 14 h à 18 h
+- Lundi à vendredi : 8 h à 18 h
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
 <!-- donnees: garde -->
-- Garde : [0900 80 70 60](tel:0900807060), 2 francs la minute
+- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens et chats, lapins, rongeurs, oiseaux et reptiles. Consultation des NAC, consultation de la douleur, ostéopathie et consultation de chirurgie.
+Chiens et chats, lapins, rongeurs, oiseaux et reptiles. Consultation des NAC, consultation de la douleur et consultation de chirurgie.
 
 [Le cabinet Vetmint Fribourg Ouest](/fribourg/)
 
@@ -106,17 +107,17 @@ Chiens, chats, lapins, cochons d'Inde, chinchillas, rats et dègues. Opérations
 Route du Châtelard 13, 1530 Payerne. Téléphone et WhatsApp [026 660 16 16](tel:+41266601616), e-mail [payerne@vetmint.ch](mailto:payerne@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Lundi : 8 h à 12 h et 14 h à 18 h
-- Mardi : 8 h à 12 h et 14 h à 19 h
-- Mercredi à vendredi : 8 h à 12 h et 14 h à 18 h
+- Lundi à vendredi : 8 h à 18 h
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
+Le samedi, Payerne et Domdidier ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
+
 <!-- donnees: garde -->
-- Garde : [0900 904 904](tel:0900904904), 1,70 franc la minute
+- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens, chats, lapins et rongeurs. Toilettage par une assistante en médecine vétérinaire toiletteuse. L'équipe parle français et allemand.
+Chiens, chats, lapins et rongeurs. L'équipe parle français, allemand, anglais et portugais.
 
 [Le cabinet Vetmint Payerne](/payerne/)
 

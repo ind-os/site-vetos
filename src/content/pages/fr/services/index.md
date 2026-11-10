@@ -43,8 +43,6 @@ Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page d
 - [Médecine des NAC](/services/nac/) : lapins, rongeurs, furets, oiseaux et reptiles.
 - [Gestion de la douleur](/services/gestion-de-la-douleur/) : après une opération comme en cas d'arthrose.
 - [Thérapie laser](/services/laser/) : cicatrisation, arthrose, gencives et oreilles.
-- [Ostéopathie](/services/osteopathie/) : raideurs, boiteries et douleurs du dos.
-- [Toilettage](/services/toilettage/) : bain, coupe et défeutrage, avec sédation si besoin.
 - [Conseils aux éleveurs](/services/conseils-aux-eleveurs/) : de la saillie au départ des chiots et des chatons.
 
 ## À domicile et en urgence

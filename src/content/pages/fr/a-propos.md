@@ -24,7 +24,7 @@ Le groupe s'agrandit en reprenant des cabinets existants. Le vétérinaire qui r
 
 Bussigny est le dernier cabinet entré dans le groupe. Pascal Wicki y soigne les animaux depuis 2000. Vetmint a repris son cabinet, dans les mêmes locaux, à côté de la Migros. Il continue d'y consulter, aux côtés de Philippe Boudaroua.
 
-Au fil des années, le groupe a ajouté des services communs. Le plan de prévention du chiot et du chaton, les abonnements mensuels et une grille de tarifs publiée pour les huit cabinets en font partie. Payerne propose le toilettage depuis juillet 2023, avec une assistante en médecine vétérinaire formée comme toiletteuse.
+Au fil des années, le groupe a ajouté des services communs. Le plan de prévention du chiot et du chaton, les abonnements mensuels et une grille de tarifs publiée pour les huit cabinets en font partie.
 
 ## Ce que partagent les huit cabinets
 

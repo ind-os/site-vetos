@@ -79,7 +79,7 @@ In der Pension teilt sie die Luft und manchmal die Näpfe mit anderen Katzen. F�
 
 ### Meine Katze weigert sich, in die Box zu gehen. Kann die Tierärztin oder der Tierarzt nach Hause kommen?
 
-Ja. Eine Tierärztin oder ein Tierarzt aus Payerne impft im ganzen Bezirk Broye zu Hause, von Montag bis Freitag. Die Anfahrt kostet 55 Franken, zusätzlich zum Check.
+Ja. Eine Tierärztin oder ein Tierarzt aus Payerne impft im ganzen Bezirk Broye zu Hause, während der Öffnungszeiten der Praxis. Die Anfahrt kostet 55 Franken, zusätzlich zum Check.
 
 ### Wir reisen mit der Katze nach Frankreich. Was braucht es?
 

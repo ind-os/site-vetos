@@ -36,9 +36,7 @@
     "radiographie",
     "hospitalisation",
     "conseils-aux-eleveurs",
-    "puce-electronique",
-    "toilettage",
-    "laser"
+    "puce-electronique"
   ],
   "urgences": true,
   "horaires": {

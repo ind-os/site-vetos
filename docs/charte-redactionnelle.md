@@ -31,7 +31,7 @@ Un texte Vetmint est écrit par des gens qui soignent des animaux tous les jours
 | Votre partenaire santé, au service de vos animaux. | Clinique vétérinaire pour chiens, chats et lapins à Bussigny. Consultations de 30 minutes, sur rendez-vous. |
 | Formés et expérimentés, tous les membres de l'équipe prodiguent des soins de qualité. | Deux vétérinaires et trois assistantes en médecine vétérinaire reçoivent chiens, chats, lapins et rongeurs. |
 | Un matériel à la pointe de la technologie. | La clinique dispose d'une radiographie numérique et d'analyseurs sanguins : la plupart des résultats sont connus pendant la consultation. |
-| Votre animal mérite le meilleur ! | La toiletteuse est assistante en médecine vétérinaire. Si une sédation est nécessaire, un vétérinaire la pratique et reste sur place. |
+| Votre animal mérite le meilleur ! | La consultation dure 30 minutes : le temps d'examiner votre animal en entier. |
 | Vous trouverez sur cette page notre offre NAC. Cliquez ici pour nous écrire. | Écrire à payerne@vetmint.ch |
 | Biopsies, envoi au laboratoire. | Nous prélevons les biopsies sur place et les envoyons à un laboratoire externe. Le résultat arrive en cinq à sept jours ouvrables. |
 | Si un lapin ne mange pas depuis plus de 6h c'est urgent. | Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Appelez sans attendre le lendemain. |

@@ -73,11 +73,11 @@ Le traitement combine plusieurs moyens, choisis selon la cause et l'animal :
 - une perte de poids quand l'animal est trop gros ;
 - une activité régulière et douce, plutôt que de longues sorties le week-end ;
 - des aménagements à la maison : tapis antidérapants, rampe, litière à bord bas ;
-- des soins complémentaires, comme la [thérapie laser](/services/laser/) ou l'[ostéopathie](/services/osteopathie/).
+- des soins complémentaires, comme la [thérapie laser](/services/laser/).
 
 ### La consultation douleur de Fribourg Ouest
 
-Le cabinet de Fribourg Ouest, à Givisiez, consacre une consultation à la douleur chronique et aux douleurs aiguës difficiles à calmer. Il peut poser des patchs, faire des infiltrations ou des blocs nerveux. Elle coordonne le traitement avec les physiothérapeutes et les ostéopathes qui suivent l'animal. Le déroulement complet est décrit sur sa page [Gestion de la douleur](/fribourg/services/gestion-de-la-douleur/).
+Le cabinet de Fribourg Ouest, à Givisiez, consacre une consultation à la douleur chronique et aux douleurs aiguës difficiles à calmer. Il peut poser des patchs, faire des infiltrations ou des blocs nerveux. Elle coordonne le traitement avec les physiothérapeutes qui suivent l'animal. Le déroulement complet est décrit sur sa page [Gestion de la douleur](/fribourg/services/gestion-de-la-douleur/).
 
 ## La préparation
 
@@ -100,9 +100,6 @@ Appelez le cabinet si votre animal vomit, a des selles noires, ne mange plus ou 
 | Consultation de 30 minutes | examen, évaluation de la douleur, plan de traitement | 54 à 59 CHF selon le cabinet |
 | Traitement de la douleur lors d'une opération | compris dans le forfait d'anesthésie de chaque stérilisation, castration ou détartrage | inclus |
 | Consultation avec thérapie laser | consultation et séance de laser | 62 CHF |
-| Consultation d'ostéopathie | consultation et traitement | 111 CHF, 140 CHF à Fribourg Ouest |
-| Première consultation douleur à Fribourg Ouest | 60 minutes, bilan complet et plan de traitement | 130 CHF |
-| Consultation de suivi douleur à Fribourg Ouest | contrôle et ajustement du traitement | 59 CHF |
 
 Les médicaments, les radiographies et les prises de sang s'ajoutent selon les besoins. Tous les prix sont sur la page [Tarifs](/tarifs/).
 
@@ -120,9 +117,9 @@ Non. Les antidouleurs humains sont dangereux pour les animaux, même à petite d
 
 Chez beaucoup d'animaux, oui, avec une prise de sang de contrôle régulière. Le vétérinaire cherche la plus petite dose efficace et l'associe à d'autres moyens pour la réduire.
 
-### Le laser ou l'ostéopathie suffisent-ils ?
+### Le laser suffit-il ?
 
-Rarement seuls. Ils complètent les médicaments et l'exercice adapté. Ils réduisent parfois les doses nécessaires.
+Rarement seul. Il complète les médicaments et l'exercice adapté. Il réduit parfois les doses nécessaires.
 
 ### Mon chat a de l'arthrose : que changer à la maison ?
 
@@ -132,10 +129,9 @@ Placez une marche devant ses endroits préférés, une litière à bord bas et l
 
 La consultation douleur se fait à [Fribourg Ouest](/fribourg/services/), à Givisiez. Elle reçoit l'animal qui a mal depuis longtemps ou dont la douleur résiste au traitement habituel, avec un premier rendez-vous d'une heure.
 
-Dans tous les cabinets Vetmint, le traitement de la douleur fait partie de chaque opération et une douleur qui dure se suit en consultation de 30 minutes. Deux soins complémentaires se pratiquent dans certaines d'entre elles :
+Dans tous les cabinets Vetmint, le traitement de la douleur fait partie de chaque opération et une douleur qui dure se suit en consultation de 30 minutes. Un soin complémentaire se pratique dans certains d'entre eux :
 
-- la [thérapie laser](/services/laser/) à [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/) ;
-- l'[ostéopathie](/services/osteopathie/) à [Domdidier](/domdidier/services/) et à Fribourg Ouest.
+- la [thérapie laser](/services/laser/) à [Bussigny](/bussigny/services/), [Domdidier](/domdidier/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/).
 
 Pour un lapin ou un rongeur, le conseil [l'arthrose des NAC](/conseils/arthrose-des-nac/) détaille les signes et les aménagements.
 

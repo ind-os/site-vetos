@@ -33,7 +33,7 @@ Avant une opération, ne donnez plus à manger à votre chien ou à votre chat a
 
 ## Délai et annulation
 
-Comptez en général deux à trois jours ouvrables pour obtenir un rendez-vous. Le mardi, les consultations continuent jusqu'à 19 h, pour venir après le travail. Quand Payerne est complet, le cabinet Vetmint de Domdidier, à une dizaine de minutes, a peut-être une heure libre. Un empêchement ? Prévenez-nous 24 heures avant au moins, par téléphone ou par e-mail. Une absence non annoncée est facturée.
+Comptez en général deux à trois jours ouvrables pour obtenir un rendez-vous. Quand Payerne est complet, le cabinet Vetmint de Domdidier, à une dizaine de minutes, a peut-être une heure libre. Un empêchement ? Prévenez-nous 24 heures avant au moins, par téléphone ou par e-mail. Une absence non annoncée est facturée.
 
 ## Pour une urgence
 

@@ -44,7 +44,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Telefon [032 914 03 48](tel:+
 - Notfalldienst: [0900 901 902](tel:0900901902), 3 Franken pro Minute
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten, Hamster, Rennmäuse und Degus. Miniatur-Mikrochips und Thermochips (Chips, die auch die Temperatur messen). Entfilzen von Katzen unter Narkose.
+Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten, Hamster, Rennmäuse und Degus. Miniatur-Mikrochips und Thermochips (Chips, die auch die Temperatur messen).
 
 [Die Praxis Vetmint La Chaux-de-Fonds](/de/chauxdefonds/)
 
@@ -53,17 +53,18 @@ Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten, Hamster, Rennmä
 Route de Saint-Aubin 58, 1564 Domdidier. Parkplätze in der Nähe. Telefon und WhatsApp [026 675 38 88](tel:+41266753888), E-Mail [domdidier@vetmint.ch](mailto:domdidier@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Montag, Dienstag, Mittwoch und Freitag: 8–12 Uhr und 14–18 Uhr
-- Donnerstag: 8–12 Uhr und 14–20 Uhr
-- Samstag: 8.30–12.30 Uhr
-- Sonntag: geschlossen
+- Montag, Dienstag, Mittwoch und Freitag: 8–18 Uhr
+- Donnerstag: 8–19 Uhr
+- Samstag und Sonntag: geschlossen
 <!-- /donnees -->
+
+Am Samstag öffnen Domdidier und Payerne abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
 
 <!-- donnees: garde -->
-- Notfalldienst: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen und Nager. Osteopathie für Hunde und Katzen, Fellpflege, Hausbesuche. Konsultationen auf Französisch, Portugiesisch und Englisch.
+Hunde, Katzen, Kaninchen und Nager. Hausbesuche. Konsultationen auf Französisch, Portugiesisch und Englisch.
 
 [Die Praxis Vetmint Domdidier](/de/domdidier/)
 
@@ -72,15 +73,15 @@ Hunde, Katzen, Kaninchen und Nager. Osteopathie für Hunde und Katzen, Fellpfleg
 Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freiburg und Corminboeuf. Telefon [026 466 84 84](tel:+41264668484), E-Mail [fribourg@vetmint.ch](mailto:fribourg@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Montag bis Freitag: 8–12 Uhr und 14–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
 <!-- donnees: garde -->
-- Notfalldienst: [0900 80 70 60](tel:0900807060), 2 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde und Katzen, Kaninchen, Nager, Vögel und Reptilien. Heimtierkonsultation, Schmerzkonsultation, Osteopathie und Chirurgiekonsultation.
+Hunde und Katzen, Kaninchen, Nager, Vögel und Reptilien. Heimtierkonsultation, Schmerzkonsultation und Chirurgiekonsultation.
 
 [Die Praxis Vetmint Fribourg Ouest](/de/fribourg/)
 
@@ -106,17 +107,17 @@ Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten und Degus. Operat
 Route du Châtelard 13, 1530 Payerne. Telefon und WhatsApp [026 660 16 16](tel:+41266601616), E-Mail [payerne@vetmint.ch](mailto:payerne@vetmint.ch).
 
 <!-- donnees: horaires -->
-- Montag: 8–12 Uhr und 14–18 Uhr
-- Dienstag: 8–12 Uhr und 14–19 Uhr
-- Mittwoch bis Freitag: 8–12 Uhr und 14–18 Uhr
+- Montag bis Freitag: 8–18 Uhr
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
+Am Samstag öffnen Payerne und Domdidier abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
+
 <!-- donnees: garde -->
-- Notfalldienst: [0900 904 904](tel:0900904904), 1.70 Franken pro Minute
+- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen und Nager. Fellpflege durch eine Tiermedizinische Praxisassistentin mit Zusatzausbildung in Fellpflege. Das Team spricht Französisch und Deutsch.
+Hunde, Katzen, Kaninchen und Nager. Das Team spricht Französisch, Deutsch, Englisch und Portugiesisch.
 
 [Die Praxis Vetmint Payerne](/de/payerne/)
 

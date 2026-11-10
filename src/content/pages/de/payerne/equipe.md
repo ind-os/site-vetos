@@ -10,7 +10,7 @@ redige_le: 2026-10-16
 resume: "Eine Tierärztin, ein Tierarzt, zwei Assistentinnen, ein Lernender und eine Vorlernende, Route du Châtelard 13."
 ---
 
-Sechs Personen kümmern sich in der Tierarztpraxis Vetmint Payerne um die Tiere: eine Tierärztin und ein Tierarzt, zwei Tiermedizinische Praxisassistentinnen, ein Lernender und eine Vorlernende. Sie empfangen Hunde, Katzen, Kaninchen und Nager an der Route du Châtelard 13. Am Empfang wie in der Konsultation spricht das Team Französisch; Claire-Lise Tinguely und Jessy Dizerens sprechen auch Deutsch.
+Sechs Personen kümmern sich in der Tierarztpraxis Vetmint Payerne um die Tiere: eine Tierärztin und ein Tierarzt, zwei Tiermedizinische Praxisassistentinnen, ein Lernender und eine Vorlernende. Sie empfangen Hunde, Katzen, Kaninchen und Nager an der Route du Châtelard 13. Am Empfang wie in der Konsultation spricht das Team Französisch, Englisch und Portugiesisch; Claire-Lise Tinguely und Jessy Dizerens sprechen auch Deutsch.
 
 [Termin vereinbaren](/de/payerne/termin/)
 
