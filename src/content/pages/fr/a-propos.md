@@ -42,7 +42,7 @@ Chaque cabinet publie ses tarifs sur ses propres pages, avec ce que comprend cha
 
 ### Un accueil qui limite le stress
 
-Les salles de consultation sont séparées. Les cabinets aménagent des espaces réservés et forment leur équipe à réduire le stress des animaux. Plusieurs diffusent des phéromones. Le propriétaire peut déposer son animal le matin et le reprendre le soir.
+Les cabinets aménagent des espaces réservés et forment leur équipe à réduire le stress des animaux.
 
 ### Des décisions prises ensemble
 

@@ -18,7 +18,7 @@ In Payerne findet die Vorsorge während eines Gesundheitschecks von 30 Minuten s
 
 Buchen Sie online den Grund «Impfung und Jahrescheck», rufen Sie die [026 660 16 16](tel:+41266601616) an oder schreiben Sie per WhatsApp an dieselbe Nummer.
 
-Der Empfang öffnet sich zum Wartezimmer, wo Pheromon-Verdampfer Hunde und Katzen beruhigen. Die beiden Sprechzimmer haben schallisolierte Türen: Eine Katze hört den Hund nicht, der nebenan bellt. Eine ängstliche Katze kann bis zum Sprechzimmer in ihrer zugedeckten Box bleiben.
+Der Empfang öffnet sich zum Wartezimmer. Eine ängstliche Katze kann bis zum Sprechzimmer in ihrer zugedeckten Box bleiben.
 
 Eine Tiermedizinische Praxisassistentin, Jessy Dizerens oder Sandra Maeder, hält Ihr Tier. Die Tierärztin oder der Tierarzt wägt es und vergleicht das Gewicht mit dem Vorjahr. Zähne, Augen und Ohren werden angeschaut, das Herz abgehört, Bauch und Gelenke abgetastet. Sie werden gefragt, wo Ihr Tier spazieren geht, ob es badet oder in eine Pension geht: Diese Antworten bestimmen Impfungen und Parasitenschutz.
 

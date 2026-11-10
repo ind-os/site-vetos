@@ -26,21 +26,21 @@ Was auch immer der Grund Ihres Besuchs ist: Wir reservieren immer mindestens 30 
 
 ### Vorbeugen vor Behandeln
 
-Impfungen, Entwurmungen, Mittel gegen Flöhe und der Jahrescheck verhindern viele Krankheiten. Der Jahrescheck mit Impfungen umfasst die Konsultation von 30 Minuten. Für Welpen und Kätzchen deckt der Präventionsplan ein Jahr lang Konsultationen, Impfungen und Entwurmungen ab, mit Mikrochip und Pass. Für erwachsene und ältere Hunde und Katzen verteilen monatliche Abonnemente die Kosten der Behandlungen eines Jahres.
+Ein Problem, das früh erkannt wird, lässt sich leichter behandeln und oft auch günstiger. Der Gesundheitscheck ist eine Konsultation: Die Tierärztin oder der Tierarzt untersucht Ihr Tier und bespricht mit Ihnen, wie es ihm geht. Zusätzlich kann sie oder er eine vorbeugende Blutuntersuchung vorschlagen. Sie zeigt, was die Untersuchung noch nicht erkennen kann, zum Beispiel eine Niere oder eine Leber, die nachzulassen beginnt. Wir schlagen sie für ältere Tiere vor, vor einer Operation oder auch für erwachsene Tiere bei bester Gesundheit. Sie ist nie Pflicht.
+
+Mehrmals im Jahr führen unsere Praxen Präventionskampagnen zu einem Thema durch: die Zähne, das ältere Tier, das Übergewicht.
+
+Für Welpen und Kätzchen deckt der Präventionsplan ein Jahr lang Konsultationen, Impfungen und Entwurmungen ab, mit Mikrochip und Pass. Für erwachsene und ältere Hunde und Katzen verteilen monatliche Abonnemente die Kosten der Behandlungen eines Jahres.
 
 ### Preise, die Sie vor dem Termin kennen
 
 Jede Praxis veröffentlicht ihre Preise auf ihrer Preisseite: Konsultationen, Impfungen, Operationen, Zahnbehandlungen und Notfälle, mit dem Detail dessen, was jede Pauschale umfasst. Für eine Behandlung, die dort nicht aufgeführt ist, erhalten Sie von der Praxis einen Kostenvoranschlag.
 
-### Ein Notfalldienst nachts und am Wochenende
+### Ein Notfall nachts oder am Wochenende
 
-Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb arbeitet jede Praxis mit dem Notfalldienst ihrer Region zusammen, den sie gemeinsam mit den anderen Kleintierpraxen betreibt. Diese Nummer mit der Vorwahl 0900 wird pro Minute verrechnet.
+Rufen Sie immer zuerst Ihre Praxis an, bevor Sie vorbeikommen: nachts, am Wochenende und auch tagsüber. Einige unserer Praxen leisten selbst Notfalldienst, andere nicht. Hat Ihre Praxis keinen Notfalldienst, nennt Ihnen der Anrufbeantworter die Nummer, unter der Ihr Tier als Notfall versorgt wird. Je nach Praxis ist das eine Nummer mit der Vorwahl 0900, die pro Minute verrechnet wird, oder eine gewöhnliche Nummer.
 
 [Notfälle und Notfalldienst](/de/notfall/)
-
-### Weniger Stress für Ihr Tier
-
-Die Behandlungsräume sind voneinander getrennt. Mehrere Praxen verbreiten beruhigende Pheromone in ihren Räumen. Sie können Ihr Tier am Morgen bringen und am Abend wieder abholen.
 
 ## Unsere Leistungen
 

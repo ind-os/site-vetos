@@ -49,7 +49,7 @@ Ihre Porträts finden Sie auf der Seite [Team](/de/payerne/team/).
 
 ## Die Räumlichkeiten und der Zugang
 
-Der Eingang führt zum Empfang und zum Wartezimmer. Die beiden Sprechzimmer haben schallisolierte Türen: Der Lärm des einen Zimmers dringt nicht ins andere. Pheromon-Diffusoren beruhigen die Tiere in den Wartebereichen. Dahinter öffnet sich der Vorbereitungsraum zum Operationssaal und zum Röntgenraum. Das Labor übermittelt seine Ergebnisse an den Computer der Tierärztin oder des Tierarztes: Die meisten Blutuntersuchungen sind in etwa einer halben Stunde ausgewertet, noch während der Konsultation.
+Der Eingang führt zum Empfang und zum Wartezimmer. Dahinter öffnet sich der Vorbereitungsraum zum Operationssaal und zum Röntgenraum. Das Labor übermittelt seine Ergebnisse an den Computer der Tierärztin oder des Tierarztes: Die meisten Blutuntersuchungen sind in etwa einer halben Stunde ausgewertet, noch während der Konsultation.
 
 Kostenlose Parkplätze befinden sich in der Nähe. Vor dem Eingang ist ein ebenerdiger Halteplatz mit direktem Zugang eingerichtet: Ein grosser Hund, der schlecht läuft, oder eine schwere Box kommen ohne Stufe hinein. Ab der A1 ist die Ausfahrt Payerne fünf Minuten entfernt; der SBB-Bahnhof liegt etwa zwanzig Minuten zu Fuss entfernt.
 

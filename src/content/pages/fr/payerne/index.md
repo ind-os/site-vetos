@@ -49,7 +49,7 @@ Leurs portraits sont sur la page [Équipe](/payerne/equipe/).
 
 ## Les locaux et l'accès
 
-L'entrée donne sur la réception et la salle d'attente. Les deux salles de consultation ont des portes insonorisées : le bruit d'une salle ne passe pas dans l'autre. Des diffuseurs de phéromones calment les animaux dans les espaces d'attente. Derrière, la salle de préparation ouvre sur la salle d'opération et sur la salle de radiographie. Le laboratoire transmet ses résultats à l'ordinateur du vétérinaire : la plupart des prises de sang sont lues en une demi-heure environ, pendant la consultation.
+L'entrée donne sur la réception et la salle d'attente. Derrière, la salle de préparation ouvre sur la salle d'opération et sur la salle de radiographie. Le laboratoire transmet ses résultats à l'ordinateur du vétérinaire : la plupart des prises de sang sont lues en une demi-heure environ, pendant la consultation.
 
 Des places de parc gratuites se trouvent à proximité. Une place de dépose est aménagée de plain-pied devant l'entrée, avec un accès direct : un grand chien qui marche mal ou une caisse lourde passent sans marche. Depuis l'A1, la sortie Payerne est à cinq minutes ; la gare CFF est à une vingtaine de minutes à pied.
 

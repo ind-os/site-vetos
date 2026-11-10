@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Die richtige Nummer je nach Uhrzeit und Praxis, der Preis eines Notfalls und die Anzeichen, die nicht warten können.
 ---
 
-In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Während der Öffnungszeiten empfängt Ihre Praxis die Notfälle selbst: Rufen Sie sie an, bevor Sie losfahren. Ausserhalb wählen Sie die Notfallnummer der Region, die meist pro Minute verrechnet wird. Ein Notfall kostet die Konsultation, einen Zuschlag je nach Praxis und Uhrzeit, danach die Behandlung.
+In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende und an jedem Feiertag eine Tierärztin oder ein Tierarzt im Notfalldienst. Rufen Sie immer zuerst Ihre Praxis an, bevor Sie vorbeikommen, tagsüber wie nachts. Während der Öffnungszeiten empfängt sie die Notfälle selbst. In Fribourg Ouest und Saint-Blaise leistet die Praxis abends und am Wochenende auch selbst Notfalldienst, bis Mitternacht. Ausserhalb dieser Zeiten nennt Ihnen der Anrufbeantworter der Praxis die Notfallnummer. Je nach Praxis ist das eine Nummer mit der Vorwahl 0900, die pro Minute verrechnet wird, oder eine gewöhnliche Nummer. Ein Notfall kostet die Konsultation, einen Zuschlag je nach Praxis und Uhrzeit, danach die Behandlung.
 
 [Die nächste Praxis finden](/de/praxen/)
 
@@ -22,10 +22,10 @@ In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende u
 | [Bussigny](/de/bussigny/notfall/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
 | [La Chaux-de-Fonds](/de/chauxdefonds/notfall/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | CHF 3.– pro Minute |
 | [Domdidier](/de/domdidier/notfall/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | Normaltarif |
-| [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | [026 466 84 84](tel:+41264668484) | [026 466 34 35](tel:+41264663435) | Normaltarif |
+| [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | [026 466 84 84](tel:+41264668484) | bis Mitternacht: die Praxis; nach Mitternacht: [026 466 34 35](tel:+41264663435) | Normaltarif |
 | [Lac-de-Joux](/de/lacdejoux/notfall/), in L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), Dienst Médi-Vet | CHF 2.– pro Minute |
 | [Payerne](/de/payerne/notfall/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | Normaltarif |
-| [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
+| [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | bis Mitternacht: die Praxis; nach Mitternacht: [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
 | [Saint-Légier](/de/saintlegier/notfall/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), Notfalldienst der Riviera | CHF 2.– pro Minute von 8 bis 22 Uhr, CHF 5.– von 22 bis 8 Uhr |
 
 Der Name jeder Praxis führt zu ihrer Seite Notfall: Notfallnummer, Adresse, Anfahrt und Hinweise, die für die Praxis gelten.
@@ -38,13 +38,15 @@ Nachts, am Wochenende und an Feiertagen wechseln sich die Kleintierpraxen einer 
 
 In den meisten Regionen beginnt diese Nummer mit 0900. Die Minute wird über Ihre Telefonrechnung verrechnet, je nach Region und Uhrzeit mit 2 bis 5 Franken. Sie wird nicht vom Preis der Behandlung abgezogen. In Payerne, Domdidier und Fribourg Ouest ist die Notfallnummer eine gewöhnliche Nummer zum Normaltarif.
 
-### Drei Praxen mit eigener Organisation
+### Vier Praxen mit eigener Organisation
 
 In **Saint-Légier** antwortet der Notfalldienst der Riviera unter 0900 906 906. Wenn Sie ausserhalb der Öffnungszeiten die Nummer der Praxis wählen, leitet Sie ihr Anrufbeantworter dorthin weiter.
 
 In **Lac-de-Joux** empfängt die Praxis die Notfälle während ihrer Öffnungszeiten. Ausserhalb antwortet der Dienst Médi-Vet unter 0900 022 022.
 
-In **Fribourg Ouest** arbeitet abends und am Wochenende eine Tierärztin oder ein Tierarzt der Praxis. Sie oder er überwacht die stationären Tiere und empfängt Notfälle, zum Zuschlag «Abende und Wochenenden» der Praxis.
+In **Fribourg Ouest** leistet eine Tierärztin oder ein Tierarzt der Praxis abends und am Wochenende Notfalldienst, bis Mitternacht. Sie oder er überwacht die stationären Tiere und empfängt Notfälle, zum Zuschlag «Abende und Wochenenden» der Praxis. Nach Mitternacht leitet Sie der Anrufbeantworter der Praxis an den Notfalldienst der Region weiter.
+
+In **Saint-Blaise** leistet die Praxis abends und am Wochenende selbst Notfalldienst, bis Mitternacht: Rufen Sie ihre gewohnte Nummer an. Nach Mitternacht leitet Sie ihr Anrufbeantworter an den Notfalldienst der Region weiter, unter 0900 80 70 60.
 
 ## Was ein Notfall kostet
 

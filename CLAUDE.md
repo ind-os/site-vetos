@@ -64,7 +64,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 - **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 
-Après chaque modification, montre à la personne la page en français, puis en allemand, dans le navigateur à côté de la conversation. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
+Après chaque modification, vérifie la page en allemand, puis termine toujours sur la page en français, dans le navigateur à côté de la conversation, défilée jusqu'à l'endroit modifié. La personne ne doit jamais rester sur la page allemande. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
 
 ### 3. Publier
 

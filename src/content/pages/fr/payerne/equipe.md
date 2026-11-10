@@ -60,7 +60,7 @@ Annie Pasquier a rejoint l'équipe à l'été 2025 pour un préapprentissage, l'
 
 ### À l'accueil
 
-La réception donne sur la salle d'attente. Des diffuseurs de phéromones y calment les chiens et les chats. Les salles de consultation sont séparées par des portes insonorisées. L'équipe est formée à réduire le stress des animaux. Elle les manipule peu et les laisse sortir seuls de leur caisse quand c'est possible. Elle propose une friandise si leur régime le permet. Un chat très anxieux peut attendre dans sa caisse, couverte d'un linge, plutôt que dans la salle d'attente.
+La réception donne sur la salle d'attente. L'équipe est formée à réduire le stress des animaux. Elle les manipule peu et les laisse sortir seuls de leur caisse quand c'est possible. Elle propose une friandise si leur régime le permet. Un chat très anxieux peut attendre dans sa caisse, couverte d'un linge, plutôt que dans la salle d'attente.
 
 ### En consultation
 

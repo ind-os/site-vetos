@@ -26,21 +26,21 @@ Quel que soit le motif de votre visite, nous réservons toujours au moins 30 min
 
 ### La prévention avant le soin
 
-Vaccins, vermifuges, anti-puces et bilan annuel évitent bien des maladies. Le bilan annuel avec vaccins comprend la consultation de 30 minutes. Pour le chiot et le chaton, le plan de prévention couvre une année de consultations, de vaccins et de vermifuges, avec la puce électronique et le passeport. Pour le chien et le chat adultes ou âgés, des abonnements mensuels étalent le coût des soins de l'année.
+Un problème repéré tôt se soigne plus facilement et souvent pour moins cher. Le bilan de santé est une consultation : le vétérinaire examine votre animal et fait le point avec vous. Il peut proposer en plus une analyse de sang préventive. Elle montre ce que l'examen ne voit pas encore, par exemple un rein ou un foie qui commence à fatiguer. Nous la proposons pour un animal âgé, avant une opération, ou pour un adulte en pleine forme. Elle n'est jamais obligatoire.
+
+Plusieurs fois par an, nos cabinets organisent des campagnes de prévention autour d'un thème : les dents, l'animal âgé, le surpoids.
+
+Pour le chiot et le chaton, le plan de prévention couvre une année de consultations, de vaccins et de vermifuges, avec la puce électronique et le passeport. Pour le chien et le chat adultes ou âgés, des abonnements mensuels étalent le coût des soins de l'année.
 
 ### Des prix connus avant le rendez-vous
 
 Chaque cabinet publie ses prix sur sa page Tarifs : consultations, vaccins, opérations, soins dentaires et urgences, avec le détail de ce que chaque forfait comprend. Pour un soin qui n'y figure pas, le cabinet vous donne un devis.
 
-### Une garde la nuit et le week-end
+### Une urgence la nuit ou le week-end
 
-Pendant les heures d'ouverture, appelez votre cabinet. En dehors, chaque cabinet collabore avec le service de garde de sa région, tenu avec les autres cabinets pour petits animaux. Ce numéro en 0900 est facturé à la minute.
+Appelez toujours votre cabinet avant de venir : la nuit, le week-end et aussi en journée. Certains de nos cabinets assurent eux-mêmes une garde, d'autres non. Si votre cabinet n'est pas de garde, son répondeur vous donne le numéro à appeler pour que votre animal soit pris en charge en urgence. Selon le cabinet, c'est un numéro en 0900, facturé à la minute, ou un numéro ordinaire.
 
 [Urgences et garde](/urgences/)
-
-### Un animal moins stressé
-
-Les salles de consultation sont séparées les unes des autres. Plusieurs cabinets diffusent des phéromones apaisantes dans leurs locaux. Vous pouvez déposer votre animal le matin et le reprendre le soir.
 
 ## Nos services
 

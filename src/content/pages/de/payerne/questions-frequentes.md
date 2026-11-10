@@ -19,7 +19,7 @@ Nicht an jedem Samstag. Die Praxis ist von Montag bis Freitag von 8 bis 18 Uhr g
 
 ### Kann ich mein Tier am Morgen abgeben und am Abend abholen?
 
-Ja. Das tun die meisten Kundinnen und Kunden bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen. Sie bringen Ihr Tier ab 8 Uhr und holen es am Ende des Tages ab, bis 18 Uhr. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit.
+Bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen: ja. Sie bringen Ihr Tier ab 8 Uhr und holen es am Ende des Tages ab, bis 18 Uhr. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit. Bei einem anderen Anlass fragen Sie bei der Terminvereinbarung: Das Team sagt Ihnen, ob es möglich ist.
 
 ## Preise und Zahlung
 
@@ -51,7 +51,7 @@ Rufen Sie die Notfallnummer an. Sie wird von den Kleintierpraxen der Region betr
 
 ### Meine Katze ist beim Tierarzt sehr gestresst. Was tun Sie für sie?
 
-Die beiden Sprechzimmer sind durch schallisolierte Türen getrennt. Pheromon-Diffusoren beruhigen die Tiere in den Wartebereichen. Wenn Ihre Katze in Panik gerät, sagen Sie es bei der Ankunft: Sie kann direkt ins Zimmer gehen, ohne einem Hund zu begegnen. Das Team ist geschult, ängstliche Tiere zu handhaben. Bei der stationären Betreuung wird der Käfig nach der Dauer des Aufenthalts gewählt.
+Wenn Ihre Katze in Panik gerät, sagen Sie es bei der Ankunft: Sie kann direkt ins Zimmer gehen, ohne einem Hund zu begegnen. Das Team ist geschult, ängstliche Tiere zu handhaben. Bei der stationären Betreuung wird der Käfig nach der Dauer des Aufenthalts gewählt.
 
 ## Anfahrt
 

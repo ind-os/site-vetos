@@ -19,7 +19,7 @@ Pas chaque samedi. Le cabinet ouvre du lundi au vendredi, de 8 h à 18 h. Le sam
 
 ### Puis-je déposer mon animal le matin et le reprendre le soir ?
 
-Oui. C'est ce que font la plupart des clients pour une opération, un détartrage ou une série d'examens. Vous l'amenez dès 8 h et vous le reprenez en fin de journée, jusqu'à 18 h. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous.
+Pour une opération, un détartrage ou une série d'examens, oui. Vous l'amenez dès 8 h et vous le reprenez en fin de journée, jusqu'à 18 h. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous. Pour un autre motif, demandez-le en prenant rendez-vous : l'équipe vous dit si c'est possible.
 
 ## Prix et paiement
 
@@ -51,7 +51,7 @@ Appelez le numéro de garde. Il est tenu par les cabinets vétérinaires pour pe
 
 ### Mon chat est très stressé chez le vétérinaire. Que faites-vous pour lui ?
 
-Les deux salles de consultation sont séparées par des portes insonorisées. Des diffuseurs de phéromones calment les animaux dans les espaces d'attente. Si votre chat panique, signalez-le en arrivant : il peut entrer directement en salle, sans croiser de chien. L'équipe est formée à manipuler les animaux anxieux. En hospitalisation, la cage est choisie selon la durée du séjour.
+Si votre chat panique, signalez-le en arrivant : il peut entrer directement en salle, sans croiser de chien. L'équipe est formée à manipuler les animaux anxieux. En hospitalisation, la cage est choisie selon la durée du séjour.
 
 ## Accès
 

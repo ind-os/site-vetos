@@ -67,7 +67,7 @@ Oui, pour une prise de sang, une analyse d'urine ou de selles. Le résultat arri
 
 ### Mon chat panique dès qu'on le tient. Comment se passe la prise de sang ?
 
-Signalez-le en prenant rendez-vous. Il peut attendre dans sa caisse couverte d'un linge et entrer directement en salle. Les deux salles de consultation sont séparées par des portes insonorisées. Si le prélèvement reste impossible, le vétérinaire propose un calmant léger.
+Signalez-le en prenant rendez-vous. Il peut attendre dans sa caisse couverte d'un linge et entrer directement en salle. Si le prélèvement reste impossible, le vétérinaire propose un calmant léger.
 
 ### Les résultats sont mauvais. Mon animal doit-il rester au cabinet ?
 

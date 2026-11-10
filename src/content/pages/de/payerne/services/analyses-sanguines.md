@@ -67,7 +67,7 @@ Ja, bei einer Blutentnahme, einer Urin- oder einer Kotuntersuchung. Das Resultat
 
 ### Meine Katze gerät in Panik, sobald man sie hält. Wie läuft die Blutentnahme ab?
 
-Sagen Sie es bei der Terminvereinbarung. Sie kann in ihrer Box warten, mit einem Tuch bedeckt, und direkt ins Sprechzimmer kommen. Die beiden Sprechzimmer sind durch schallisolierte Türen getrennt. Bleibt die Entnahme unmöglich, schlägt die Tierärztin oder der Tierarzt ein leichtes Beruhigungsmittel vor.
+Sagen Sie es bei der Terminvereinbarung. Sie kann in ihrer Box warten, mit einem Tuch bedeckt, und direkt ins Sprechzimmer kommen. Bleibt die Entnahme unmöglich, schlägt die Tierärztin oder der Tierarzt ein leichtes Beruhigungsmittel vor.
 
 ### Die Resultate sind schlecht. Muss mein Tier in der Praxis bleiben?
 

@@ -42,7 +42,7 @@ Jede Praxis veröffentlicht ihre Preise auf ihren eigenen Seiten, mit dem, was j
 
 ### Ein Empfang, der den Stress begrenzt
 
-Die Behandlungsräume sind getrennt. Die Praxen richten eigene Bereiche ein und schulen ihr Team darin, den Stress der Tiere zu verringern. Mehrere verbreiten Pheromone. Die Halterin oder der Halter kann das Tier am Morgen bringen und am Abend wieder abholen.
+Die Praxen richten eigene Bereiche ein und schulen ihr Team darin, den Stress der Tiere zu verringern.
 
 ### Gemeinsam getroffene Entscheidungen
 

@@ -11,7 +11,7 @@ especes: [chien, chat, nac]
 resume: Le bon numéro selon l'heure et le cabinet, le prix d'une urgence et les signes qui ne peuvent pas attendre.
 ---
 
-Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Pendant les heures d'ouverture, votre cabinet reçoit lui-même les urgences : appelez-la avant de partir. En dehors, composez le numéro de garde de sa région, le plus souvent payant à la minute. Une urgence coûte la consultation, un supplément selon le cabinet et l'heure, puis les soins.
+Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Appelez toujours votre cabinet avant de venir, de jour comme de nuit. Pendant les heures d'ouverture, il reçoit lui-même les urgences. À Fribourg Ouest et à Saint-Blaise, le cabinet assure aussi la garde le soir et le week-end, jusqu'à minuit. En dehors de ces heures, le répondeur du cabinet vous donne le numéro de garde. Selon le cabinet, c'est un numéro en 0900, payant à la minute, ou un numéro ordinaire. Une urgence coûte la consultation, un supplément selon le cabinet et l'heure, puis les soins.
 
 [Trouver le cabinet le plus proche](/cabinets/)
 
@@ -22,10 +22,10 @@ Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour f�
 | [Bussigny](/bussigny/urgences/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
 | [La Chaux-de-Fonds](/chauxdefonds/urgences/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | 3 francs la minute |
 | [Domdidier](/domdidier/urgences/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | [026 466 34 35](tel:+41264663435) | tarif normal |
+| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | jusqu'à minuit : le cabinet ; après minuit : [026 466 34 35](tel:+41264663435) | tarif normal |
 | [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), service Médi-Vet | 2 francs la minute |
 | [Payerne](/payerne/urgences/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
+| [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | jusqu'à minuit : le cabinet ; après minuit : [0900 80 70 60](tel:0900807060) | 2 francs la minute |
 | [Saint-Légier](/saintlegier/urgences/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), garde de la Riviera | 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h |
 
 Le nom de chaque cabinet mène à sa page Urgences : numéro de garde, adresse, accès et consignes propres au cabinet.
@@ -38,13 +38,15 @@ La nuit, le week-end et les jours fériés, les cabinets vétérinaires pour pet
 
 Dans la plupart des régions, ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 2 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins. À Payerne, à Domdidier et à Fribourg Ouest, le numéro de garde est un numéro ordinaire, au tarif normal.
 
-### Trois cabinets avec leur propre organisation
+### Quatre cabinets avec leur propre organisation
 
 À **Saint-Légier**, le service de garde de la Riviera répond au 0900 906 906. Si vous composez le numéro du cabinet en dehors des heures d'ouverture, son répondeur vous renvoie vers lui.
 
 Au **Lac-de-Joux**, le cabinet reçoit les urgences pendant ses heures d'ouverture. En dehors, le service Médi-Vet répond au 0900 022 022.
 
-À **Fribourg Ouest**, un vétérinaire du cabinet travaille le soir et le week-end. Il surveille les animaux hospitalisés et reçoit des urgences, au supplément « soirées et week-ends » du cabinet.
+À **Fribourg Ouest**, un vétérinaire du cabinet assure la garde le soir et le week-end, jusqu'à minuit. Il surveille les animaux hospitalisés et reçoit des urgences, au supplément « soirées et week-ends » du cabinet. Après minuit, le répondeur du cabinet vous renvoie vers le service de garde de la région.
+
+À **Saint-Blaise**, le cabinet assure lui-même la garde le soir et le week-end, jusqu'à minuit : appelez son numéro habituel. Après minuit, son répondeur vous renvoie vers le service de garde de la région, au 0900 80 70 60.
 
 ## Ce que coûte une urgence
 

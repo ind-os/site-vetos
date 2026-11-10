@@ -60,7 +60,7 @@ Annie Pasquier ist im Sommer 2025 für eine Vorlehre zum Team gestossen, das Jah
 
 ### Am Empfang
 
-Der Empfang führt ins Wartezimmer. Pheromon-Diffusoren beruhigen dort Hunde und Katzen. Die Sprechzimmer sind durch schallisolierte Türen getrennt. Das Team ist geschult, den Stress der Tiere zu verringern. Es fasst sie wenig an und lässt sie, wenn möglich, allein aus ihrer Transportbox kommen. Es bietet ein Leckerli an, wenn ihr Futterplan es erlaubt. Eine sehr ängstliche Katze kann in ihrer mit einem Tuch bedeckten Box warten statt im Wartezimmer.
+Der Empfang führt ins Wartezimmer. Das Team ist geschult, den Stress der Tiere zu verringern. Es fasst sie wenig an und lässt sie, wenn möglich, allein aus ihrer Transportbox kommen. Es bietet ein Leckerli an, wenn ihr Futterplan es erlaubt. Eine sehr ängstliche Katze kann in ihrer mit einem Tuch bedeckten Box warten statt im Wartezimmer.
 
 ### In der Konsultation
 

@@ -18,7 +18,7 @@ resume: "Bilan de 30 minutes, vaccins, puce et suivi des portées, route du Châ
 
 Réservez en ligne le motif « Vaccin et bilan annuel », appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même numéro.
 
-La réception ouvre sur la salle d'attente, où des diffuseurs de phéromones apaisent les chiens et les chats. Les deux salles de consultation sont fermées par des portes insonorisées : un chat n'entend pas le chien qui aboie à côté. Un chat anxieux peut rester dans sa caisse couverte d'un linge jusqu'à l'entrée en salle.
+La réception ouvre sur la salle d'attente. Un chat anxieux peut rester dans sa caisse couverte d'un linge jusqu'à l'entrée en salle.
 
 Une assistante en médecine vétérinaire, Jessy Dizerens ou Sandra Maeder, tient votre animal. Le vétérinaire le pèse et compare le poids avec l'année précédente. Il regarde les dents, les yeux et les oreilles, écoute le cœur, palpe le ventre et les articulations. Il vous demande où l'animal se promène, s'il se baigne ou s'il va en pension : ces réponses décident des vaccins et des anti-parasitaires.
 
