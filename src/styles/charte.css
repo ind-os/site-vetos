@@ -361,6 +361,11 @@ button { cursor: pointer; }
 .prose tbody tr:nth-child(even) { background: var(--gris-bleute); }
 .prose td:last-child, .prose th:last-child { text-align: right; }
 .prose td:first-child { font-weight: 600; color: var(--titre); }
+/* Une ligne dont la première case est vide continue la ligne du dessus (un second numéro, par
+   exemple) : pas de filet entre les deux, et pas de fond alterné dans ce tableau. */
+.prose table:has(tbody td:first-child:empty) tbody tr:nth-child(even) { background: none; }
+.prose tbody tr:has(+ tr > td:first-child:empty) { border-bottom: 0; }
+.prose tbody tr:has(> td:first-child:empty) > td { padding-top: 0; }
 .prose .tableau { max-width: 100%; overflow-x: auto; }
 .prose .tableau:focus-visible { outline-offset: 2px; border-radius: var(--rayon-carte); }
 @media (max-width: 40rem) {
@@ -377,6 +382,11 @@ button { cursor: pointer; }
   .prose .tableau--empile :is(td, th) { padding: 0.15em 0; min-width: 0; text-align: left; }
   .prose .tableau--empile :is(td, th):first-child { font-size: var(--texte); font-weight: 700; }
   .prose .tableau--empile :is(td, th)[data-colonne]:not(:first-child)::before { content: attr(data-colonne) "\00a0: "; color: var(--gris); }
+  /* La ligne qui continue celle du dessus se colle à son bloc, sans répéter les noms de colonne. */
+  .prose .tableau--empile tr:has(+ tr > td:first-child:empty) { padding-bottom: 0; }
+  .prose .tableau--empile tr:has(> td:first-child:empty) { padding-top: 0.15em; }
+  .prose .tableau--empile tr:has(> td:first-child:empty) > td::before { content: none; }
+  .prose .tableau--empile td:empty { display: none; }
 }
 
 /* ------------------------------------------------------------------ */

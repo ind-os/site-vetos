@@ -1,0 +1,40 @@
+---
+// La page Urgences du réseau : le texte, et à côté nos services d'urgence, logo et numéro gratuit,
+// visibles dès l'arrivée. Sur un téléphone, les services passent avant le texte. Les numéros
+// viennent des fiches : le numéro de garde de Fribourg Ouest, et le second service de garde
+// (« garde.autre ») de Saint-Blaise.
+import type { Contexte } from '../lib/contexte.ts';
+import { laClinique } from '../lib/cliniques.ts';
+import { photo } from '../lib/images.ts';
+import Prose from '../composants/Prose.astro';
+import ServicesDUrgence, { type ServiceDUrgence } from '../composants/ServicesDUrgence.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  contexte: Contexte;
+}
+
+const { contexte } = Astro.props;
+const { langue } = contexte;
+const fribourg = await laClinique('fribourg');
+const saintblaise = await laClinique('saintblaise');
+const services: ServiceDUrgence[] = [
+  { nom: "Vet'Urgences Fribourg", telephone: fribourg.garde.telephone, site: 'https://vet-urgence-fribourg.ch/', logo: photo('fribourg:vet-urgence-logo', langue) },
+  ...(saintblaise.garde.autre
+    ? [{ nom: "Vet'Urgences Neuchâtel", telephone: saintblaise.garde.autre.telephone, site: 'https://vet-urgence-neuchatel.ch/', logo: photo('saintblaise:vet-urgence-logo', langue) }]
+    : []),
+];
+---
+
+<PageInterieure contexte={contexte}>
+  <Prose html={contexte.html} chapeau />
+  <ServicesDUrgence slot="cote" services={services} langue={langue} />
+</PageInterieure>
+
+<style>
+  /* Sur un téléphone, la colonne passe avant le texte ; à partir de 64 rem, elle reprend sa place à droite. */
+  :global(.page__grille:has(.services-d-urgence) > .page__cote) { order: -1; }
+  @media (min-width: 64rem) {
+    :global(.page__grille:has(.services-d-urgence) > .page__cote) { order: 0; }
+  }
+</style>

@@ -8,7 +8,7 @@ recherche: Vetmint-Praxen
 redige_le: 2026-10-16
 ---
 
-Vetmint zählt acht Tierarztpraxen, vier im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg. Jede Vetmint-Praxis empfängt nach Terminvereinbarung. Nachts, sonntags und an Feiertagen übernimmt eine regionale Notfallnummer.
+Vetmint zählt acht Tierarztpraxen, vier im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg. Jede Vetmint-Praxis empfängt nach Terminvereinbarung. Unsere zwei Notfalldienste in Givisiez und Saint-Blaise empfangen Notfälle täglich bis Mitternacht. Nach Mitternacht und in den anderen Regionen übernimmt eine regionale Notfallnummer.
 
 ## Vetmint Bussigny
 
@@ -40,7 +40,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Telefon [032 914 03 48](tel:+
 
 <!-- donnees: garde -->
 - Notfalldienst: [0900 901 902](tel:0900901902), 3 Franken pro Minute
-- Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632), Nummer ohne Zuschlag
+- Vet'Urgences Neuchâtel: [032 753 16 32](tel:+41327531632), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 [Die Praxis Vetmint La Chaux-de-Fonds](/de/chauxdefonds/)
@@ -58,7 +58,7 @@ Route de Saint-Aubin 58, 1564 Domdidier. Parkplätze in der Nähe. Telefon und W
 Am Samstag öffnen Domdidier und Payerne abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
 
 <!-- donnees: garde -->
-- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 [Die Praxis Vetmint Domdidier](/de/domdidier/)
@@ -73,7 +73,7 @@ Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freib
 <!-- /donnees -->
 
 <!-- donnees: garde -->
-- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 [Die Praxis Vetmint Fribourg Ouest](/de/fribourg/)
@@ -105,7 +105,7 @@ Route du Châtelard 13, 1530 Payerne. Telefon und WhatsApp [026 660 16 16](tel:+
 Am Samstag öffnen Payerne und Domdidier abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
 
 <!-- donnees: garde -->
-- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 [Die Praxis Vetmint Payerne](/de/payerne/)
@@ -121,7 +121,7 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Telefon [032 753 11 22](tel:+413275
 
 <!-- donnees: garde -->
 - Notfalldienst: [0900 80 70 60](tel:0900807060), 2 Franken pro Minute
-- Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632), Nummer ohne Zuschlag
+- Vet'Urgences Neuchâtel: [032 753 16 32](tel:+41327531632), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 [Die Praxis Vetmint Saint-Blaise](/de/saintblaise/)

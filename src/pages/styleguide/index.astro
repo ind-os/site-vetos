@@ -26,6 +26,7 @@ import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
 import ReseauDesCliniques from '../../composants/ReseauDesCliniques.astro';
 import Section from '../../composants/Section.astro';
 import SectionsEnCartes from '../../composants/SectionsEnCartes.astro';
+import ServicesDUrgence from '../../composants/ServicesDUrgence.astro';
 import StatutOuverture from '../../composants/StatutOuverture.astro';
 import TeteDePage from '../../composants/TeteDePage.astro';
 import { laClinique, lesCliniques } from '../../lib/cliniques.ts';
@@ -37,10 +38,15 @@ import charte from '../../styles/charte.css?raw';
 const langue = 'fr';
 const payerne = await laClinique('payerne');
 const cliniques = await lesCliniques();
+const fribourgOuest = await laClinique('fribourg');
+const servicesDUrgence = [
+  { nom: "Vet'Urgences Fribourg", telephone: fribourgOuest.garde.telephone, site: 'https://vet-urgence-fribourg.ch/', logo: photo('fribourg:vet-urgence-logo', langue) },
+  { nom: "Vet'Urgences Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, site: 'https://vet-urgence-neuchatel.ch/', logo: photo('saintblaise:vet-urgence-logo', langue) },
+];
 // Des variantes de la fiche, pour montrer un bandeau et une fermeture. La fermeture commence dans
 // dix jours et dure trois jours : l'exemple reste à venir quel que soit le jour de la construction.
 const dansNJours = (n: number) => new Date(Date.now() + n * 86_400_000).toISOString().slice(0, 10);
-const avecDeuxGardes = { ...payerne, garde: { ...payerne.garde, autre: { nom: "Vet'Urgence Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, tarif: { fr: 'numéro non surtaxé', de: 'Nummer ohne Zuschlag' } } } };
+const avecDeuxGardes = { ...payerne, garde: { ...payerne.garde, autre: { nom: "Vet'Urgences Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, tarif: { fr: 'numéro gratuit, de 8 h à minuit', de: 'kostenlose Nummer, von 8 bis 24 Uhr' } } } };
 const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'La clinique ferme à 16 h ce vendredi.', de: '' }, niveau: 'info' as const } };
 const avecBandeauUrgent = { ...payerne, bandeau: { texte: { fr: 'Le téléphone est en dérangement ce matin : écrivez sur WhatsApp.', de: '' }, niveau: 'urgent' as const } };
 const avecFermeture = { ...payerne, fermetures: [{ du: dansNJours(10), au: dansNJours(12), motif: { fr: 'formation de l’équipe', de: '' } }] };
@@ -74,7 +80,7 @@ const proseExemple = `
   <li><a href="#">Échographie</a> Le ventre, le cœur et la gestation.</li>
 </ul>
 <div class="tableau" role="region" tabindex="0" aria-label="Tableau : Soin, Prix"><table><thead><tr><th>Soin</th><th>Prix</th></tr></thead><tbody><tr><td>Consultation de 30 minutes</td><td>57 CHF</td></tr><tr><td>Bilan annuel du chien avec vaccins</td><td>94 CHF</td></tr></tbody></table></div>
-<div class="tableau tableau--empile" role="region" tabindex="0" aria-label="Tableau : Abonnement, Contenu, Prix par an"><table><thead><tr><th>Abonnement</th><th>Contenu</th><th>Prix par an</th></tr></thead><tbody><tr><td data-colonne="Abonnement">Chiot</td><td data-colonne="Contenu">Vaccins, vermifuges et deux consultations</td><td data-colonne="Prix par an">290 CHF</td></tr><tr><td data-colonne="Abonnement">Chien adulte</td><td data-colonne="Contenu">Bilan annuel, vaccins et une consultation</td><td data-colonne="Prix par an">240 CHF</td></tr></tbody></table></div>
+<div class="tableau tableau--empile" role="region" tabindex="0" aria-label="Tableau : Abonnement, Contenu, Prix par an"><table><thead><tr><th>Abonnement</th><th>Contenu</th><th>Prix par an</th></tr></thead><tbody><tr><td data-colonne="Abonnement">Chiot</td><td data-colonne="Contenu">Vaccins, vermifuges et deux consultations</td><td data-colonne="Prix par an">290 CHF</td></tr><tr><td data-colonne="Abonnement">Chien adulte</td><td data-colonne="Contenu">Bilan annuel, vaccins et une consultation</td><td data-colonne="Prix par an">240 CHF</td></tr><tr><td data-colonne="Abonnement"></td><td data-colonne="Contenu">Une ligne dont la première case est vide continue celle du dessus</td><td data-colonne="Prix par an"></td></tr></tbody></table></div>
 <p><a class="bouton bouton--principal" href="#">Prendre rendez-vous</a></p>
 ${htmlDeLaGarde(payerne, langue)}`;
 
@@ -181,6 +187,10 @@ ${htmlDeLaGarde(payerne, langue)}
         <AppelUrgence clinique={payerne} langue={langue} forme="bloc" />
         <AppelUrgence clinique={avecDeuxGardes} langue={langue} />
       </Exemple>
+
+      <Exemple titre="Nos services d’urgence" description="Une carte par service d’urgence de Vetmint : son logo (lien vers son site), son nom, son numéro gratuit en grand, cliquable, et ses horaires. Dans la colonne de la page Urgences du réseau ; sur un téléphone, avant le texte. Les numéros viennent des fiches de Fribourg Ouest et de Saint-Blaise." fichier="composants/ServicesDUrgence.astro" code={`<ServicesDUrgence services={[{ nom: "Vet'Urgences Fribourg", telephone, site, logo }]} langue={langue} />`}>
+        <div style="max-width: 20rem;"><ServicesDUrgence services={servicesDUrgence} langue={langue} /></div>
+      </Exemple>
     </section>
 
     <section id="donnees">
@@ -256,7 +266,7 @@ ${htmlDeLaGarde(payerne, langue)}
     <section id="texte">
       <h2>Texte</h2>
 
-      <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile (le second tableau, à voir sur un téléphone). Une citation se met à part. Un bloc de données (horaires, garde) se remplit avec la fiche de la clinique." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
+      <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile (le second tableau, à voir sur un téléphone). Une ligne dont la première case est vide continue celle du dessus : un second numéro sous le premier, par exemple. Une citation se met à part. Un bloc de données (horaires, garde) se remplit avec la fiche de la clinique." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
         <Prose html={proseExemple} chapeau />
       </Exemple>
 

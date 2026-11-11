@@ -17,7 +17,7 @@ Bei einem tierärztlichen Notfall in Payerne rufen Sie an, bevor Sie losfahren. 
 - Nachts, am Wochenende, an Feiertagen und ausserhalb der Öffnungszeiten rufen Sie die Notfallnummer an.
 
 <!-- donnees: garde -->
-- Notfallnummer: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfallnummer: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 ## Während der Öffnungszeiten
@@ -33,7 +33,7 @@ Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet die Konsult
 
 ## Ausserhalb der Öffnungszeiten
 
-Rufen Sie die Notfallnummer an, die unter «Was jetzt zu tun ist» steht. Diesen Notfalldienst betreiben die Kleintierpraxen der Region gemeinsam. Die diensthabende Tierärztin oder der diensthabende Tierarzt antwortet, beurteilt die Lage mit Ihnen und sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Das ist Payerne, wenn das Vetmint-Team Dienst hat, sonst die Praxis der diensthabenden Tierärztin oder des diensthabenden Tierarztes, deren Adresse sie oder er Ihnen gibt. Der Anruf ist kostenpflichtig. Der Notfallzuschlag ausserhalb der Öffnungszeiten beträgt 176 Franken, zusätzlich zu den Behandlungen.
+Rufen Sie die Notfallnummer an, die unter «Was jetzt zu tun ist» steht. Sie verbindet Sie mit Vet'Urgences Fribourg, dem Notfalldienst von Vetmint, täglich von 8 Uhr bis Mitternacht an der Route des Fluides 5 in Givisiez geöffnet. Eine Tierärztin oder ein Tierarzt beurteilt die Lage mit Ihnen und sagt Ihnen, ob Sie kommen sollen. Die Beratung am Telefon ist kostenlos. Nach Mitternacht nennt Ihnen der Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Einzelheiten finden Sie auf [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/). Ein Notfallzuschlag kommt zu den Behandlungen hinzu.
 
 ## Die Anzeichen, bei denen Sie anrufen müssen
 
@@ -48,7 +48,7 @@ Bei einem Hund oder einer Katze rufen Sie ohne Warten auf den nächsten Tag an, 
 - es erbricht oder hat mehrmals hintereinander Durchfall, mit Blut oder apathisch;
 - es hat Schokolade, Mäusegift, Frostschutzmittel, eines Ihrer Medikamente oder, bei einer Katze, Lilien gefressen;
 - ein Auge bleibt geschlossen, schwillt an oder verändert die Farbe;
-- eine Hündin oder Katze presst seit dreissig Minuten, ohne dass ein Junges kommt;
+- eine Hündin oder Katze am Ende der Trächtigkeit presst seit dreissig Minuten, ohne dass ein Junges kommt;
 - es hatte zu heiss nach einer Anstrengung oder in einem Auto in der Sonne.
 
 Kaninchen, Meerschweinchen und kleine Nager, die nicht mehr fressen und seit sechs Stunden keinen Kot mehr absetzen, müssen noch am selben Tag gesehen werden. Rufen Sie auch an, wenn sie den Kopf schief halten, zur Seite fallen, mit offenem Maul atmen oder flüssigen Kot haben.

@@ -1,0 +1,72 @@
+---
+// Les services d'urgence de Vetmint : une carte par service, avec son logo, son nom, son numéro
+// gratuit en grand, cliquable, et ses horaires. Dans la colonne de la page Urgences du réseau ;
+// sur un téléphone, avant le texte.
+import { Picture } from 'astro:assets';
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Photo } from '../lib/images.ts';
+import { lienTelephone } from '../lib/format.ts';
+
+export interface ServiceDUrgence {
+  nom: string;
+  telephone: { affiche: string; international: string };
+  site: string;
+  logo?: Photo;
+}
+
+interface Props {
+  services: ServiceDUrgence[];
+  langue: Langue;
+}
+
+const { services, langue } = Astro.props;
+const t = textes(langue);
+---
+
+<section class="services-d-urgence" aria-labelledby="services-d-urgence">
+  <h2 id="services-d-urgence" class="services-d-urgence__titre">{t.urgence.services}</h2>
+  {
+    services.map((s) => (
+      <article class="carte service-d-urgence">
+        {s.logo && (
+          <a class="service-d-urgence__logo" href={s.site} aria-label={s.nom}>
+            <Picture src={s.logo.src} alt={s.logo.alt} formats={['avif', 'webp']} widths={[96, 192].filter((l) => l <= s.logo!.src.width)} sizes="96px" loading="eager" />
+          </a>
+        )}
+        <div class="service-d-urgence__texte">
+          <h3 class="service-d-urgence__nom">{s.nom}</h3>
+          <a class="service-d-urgence__numero" href={lienTelephone(s.telephone.international)}>{s.telephone.affiche}</a>
+          <p class="service-d-urgence__info"><strong>{t.urgence.gratuit}</strong></p>
+          <p class="service-d-urgence__info">{t.urgence.horaires}</p>
+        </div>
+      </article>
+    ))
+  }
+</section>
+
+<style>
+  .services-d-urgence { display: grid; gap: var(--espace-4); }
+  .services-d-urgence__titre { font-size: var(--titre-3); }
+  .service-d-urgence {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: var(--espace-4);
+    align-items: center;
+  }
+  .service-d-urgence__logo { display: block; width: 96px; }
+  /* Les logos sont recadrés au plus près, avec la même marge : à même largeur, ils ont la même taille. */
+  .service-d-urgence__logo :global(img) { display: block; width: 96px; height: auto; }
+  .service-d-urgence__texte { display: grid; gap: var(--espace-1); }
+  .service-d-urgence__nom { font-size: var(--texte-m); }
+  .service-d-urgence__numero {
+    font-size: var(--titre-3);
+    font-weight: 800;
+    color: var(--marine);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .service-d-urgence__numero:hover { color: var(--menthe-fonce); text-decoration: underline; }
+  .service-d-urgence__info { margin: 0; color: var(--gris); font-size: var(--texte-s); }
+  .service-d-urgence__info strong { color: var(--marine); }
+</style>

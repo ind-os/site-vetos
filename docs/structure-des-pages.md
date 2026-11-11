@@ -221,18 +221,15 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 
 ### Urgences du groupe, `urgences-groupe`
 
-- Objectif : qui appeler dans chaque clinique, comment fonctionne la garde, ce que coûte une urgence.
+- Objectif : mettre en avant les deux services d'urgence de Vetmint, Vet'Urgences Fribourg et Vet'Urgences Neuchâtel, puis dire qui appeler dans chaque clinique.
 - Recherche : « vétérinaire de garde ». Title : « Vétérinaire de garde : numéros et prix | Vetmint ». H1 : « Urgences et vétérinaire de garde dans les cliniques Vetmint ».
 - Volume : 800 à 2 000 mots. Script.
 
-1. Chapeau, puis « Qui appeler, clinique par clinique » : une ligne par clinique avec son téléphone et son bloc garde.
-2. Comment fonctionne la garde.
-3. Ce que coûte une urgence : les trois parts, sans montant, puis la page Tarifs de chaque clinique par `/cabinets/`. Le coût de l'appel au numéro de garde reste.
+1. Chapeau : les deux services d'urgence, leurs horaires, appeler avant de venir, ce qui se passe après minuit.
+2. Nos deux services d'urgence : un `###` par service (téléphone, adresse, horaires, accès, site), puis « Ce que font nos services d'urgence ».
+3. Qui appeler, clinique par clinique : une ligne par clinique avec son téléphone et son bloc garde.
 4. Urgence, appel ou rendez-vous : trois `###`, appelez tout de suite, appelez dans la journée, prenez rendez-vous.
-5. Ce que le vétérinaire de garde vous demandera.
-6. Loin de votre clinique habituelle.
-7. Questions fréquentes.
-8. Les soins d'urgence dans les cliniques, puis « Pour ce qui peut attendre » avec le lien vers `/cabinets/`.
+5. Questions fréquentes.
 
 ### Conseils santé, `conseil-index` et `conseil-categorie`
 

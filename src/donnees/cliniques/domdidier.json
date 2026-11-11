@@ -54,8 +54,8 @@
       "international": "+41264663435"
     },
     "tarif": {
-      "fr": "appel au tarif normal",
-      "de": "Anruf zum Normaltarif"
+      "fr": "numéro gratuit, de 8 h à minuit",
+      "de": "kostenlose Nummer, von 8 bis 24 Uhr"
     }
   },
   "rendez_vous": {

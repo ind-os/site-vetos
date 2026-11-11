@@ -17,7 +17,7 @@ En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal
 - La nuit, le week-end, les jours fériés et en dehors des heures d'ouverture, appelez le numéro de garde.
 
 <!-- donnees: garde -->
-- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Numéro de garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 ## Pendant les heures d'ouverture
@@ -33,7 +33,7 @@ Une urgence reçue pendant les heures d'ouverture coûte la consultation, 57 fra
 
 ## En dehors des heures d'ouverture
 
-Appelez le numéro de garde donné sous « Que faire maintenant ». Ce service de garde est tenu ensemble par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde répond, évalue la situation avec vous et vous dit où amener votre animal. Ce sera Payerne si l'équipe Vetmint est de garde, sinon le cabinet du vétérinaire de garde, dont il vous donne l'adresse. L'appel est surtaxé. Le supplément d'urgence en dehors des heures d'ouverture est de 176 francs, en plus des soins.
+Appelez le numéro de garde donné sous « Que faire maintenant ». Il joint Vet'Urgences Fribourg, le service d'urgence de Vetmint, ouvert tous les jours de 8 h à minuit à la route des Fluides 5, à Givisiez. Un vétérinaire évalue la situation avec vous et vous dit s'il faut venir. Le conseil au téléphone est gratuit. Après minuit, le répondeur vous donne le numéro du vétérinaire de garde. Le détail est sur [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/). Un supplément d'urgence s'ajoute aux soins.
 
 ## Les signes qui imposent d'appeler
 
@@ -48,7 +48,7 @@ Pour un chien ou un chat, appelez sans attendre le lendemain si vous voyez l'un 
 - il vomit ou a la diarrhée plusieurs fois de suite, avec du sang ou en restant prostré ;
 - il a mangé du chocolat, du poison contre les souris, de l'antigel, un de vos médicaments ou, pour un chat, du lys ;
 - un œil reste fermé, gonfle ou change de couleur ;
-- une chienne ou une chatte pousse depuis trente minutes sans qu'un petit sorte ;
+- une chienne ou une chatte en fin de gestation pousse depuis trente minutes sans qu'un petit sorte ;
 - il a eu trop chaud après un effort ou dans une voiture au soleil.
 
 Un lapin, un cochon d'Inde ou un petit rongeur qui ne mange plus et ne fait plus de crottes depuis six heures doit être vu le jour même. Appelez aussi s'il penche la tête, tombe sur le côté, respire bouche ouverte ou a des selles liquides.

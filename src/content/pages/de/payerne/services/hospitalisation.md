@@ -33,10 +33,10 @@ Sie holen Ihr Tier am Ende des Tages ab, bis 18 Uhr. Die Uhrzeit wird am Telefon
 
 Muss Ihr Tier über Nacht bleiben, macht das Team bei Schliessung einen letzten Rundgang: Infusion, Schmerz, Appetit. Es kommt bei Öffnung zurück und ruft Sie an, wenn sich etwas verändert hat. In der Praxis schläft niemand. Verlangt Ihr Tier eine ununterbrochene Überwachung, schlägt Ihnen die Tierärztin oder der Tierarzt vor dem Abend eine Verlegung vor. Das Tier kommt dann mit seiner Akte in eine Notfallpraxis, die die ganze Nacht geöffnet ist.
 
-Wenn Sie nach der Rückkehr nach Hause beunruhigt sind, nachts oder am Wochenende, rufen Sie den Notfalldienst der Region an:
+Wenn Sie nach der Rückkehr nach Hause beunruhigt sind, nachts oder am Wochenende, rufen Sie Vet'Urgences Fribourg an, den Notfalldienst von Vetmint, täglich von 8 Uhr bis Mitternacht geöffnet:
 
 <!-- donnees: garde -->
-- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 ## Kaninchen und Nager
@@ -53,7 +53,7 @@ Der Preis hängt von der Dauer und von den Behandlungen ab:
 | Tag mit Nacht | Käfig, Mahlzeiten, Grundpflege, Kontrollen am Abend und am Morgen | CHF 95.– bis 140.– je nach Grösse |
 | Infusion | Katheter, Beutel und Einstellung der Durchflussmenge, pro Tag | CHF 65.– |
 
-Medikamente, Analysen und Röntgen kommen hinzu. Bei einer Sterilisation oder einer Kastration gehört das überwachte Aufwachen zur Pauschale: 260 Franken für eine Katze, 810 Franken für eine Hündin. Eine Notfallaufnahme während der Öffnungszeiten kostet 99 Franken Zuschlag, ausserhalb 176 Franken. Sie bezahlen bei der Abholung, mit Karte oder TWINT. Die übrigen Preise der Praxis stehen auf der Seite [Preise](/de/payerne/preise/).
+Medikamente, Analysen und Röntgen kommen hinzu. Bei einer Sterilisation oder einer Kastration gehört das überwachte Aufwachen zur Pauschale: 260 Franken für eine Katze, 810 Franken für eine Hündin. Eine Notfallaufnahme während der Öffnungszeiten kostet 99 Franken Zuschlag. Sie bezahlen bei der Abholung, mit Karte oder TWINT. Die übrigen Preise der Praxis stehen auf der Seite [Preise](/de/payerne/preise/).
 
 ## Den Aufenthalt vorbereiten
 

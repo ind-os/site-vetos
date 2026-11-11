@@ -63,14 +63,14 @@
       "de": "kostenpflichtiger Anruf, 3 Franken pro Minute"
     },
     "autre": {
-      "nom": "Vet'Urgence Neuchâtel",
+      "nom": "Vet'Urgences Neuchâtel",
       "telephone": {
         "affiche": "032 753 16 32",
         "international": "+41327531632"
       },
       "tarif": {
-        "fr": "numéro non surtaxé",
-        "de": "Nummer ohne Zuschlag"
+        "fr": "numéro gratuit, de 8 h à minuit",
+        "de": "kostenlose Nummer, von 8 bis 24 Uhr"
       }
     }
   },

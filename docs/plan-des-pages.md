@@ -27,7 +27,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `cliniques` | les cliniques | carte et cartes des huit cliniques, avec leur bouton de rendez-vous |
 | `service-index` | tous les services | listes de liens en cartes, rendez-vous à côté |
 | `service` | un service, page commune | photo, à côté le rendez-vous et les cliniques qui le pratiquent |
-| `urgences-groupe` | urgences de tout Vetmint | rien |
+| `urgences-groupe` | urgences de tout Vetmint | à côté, nos services d’urgence : logo et numéro gratuit, avant le texte sur un téléphone |
 | `conseil-index`, `conseil-categorie` | conseils santé, par espèce | cartes des conseils, rendez-vous à côté |
 | `conseil` | un conseil santé | photo, rendez-vous à côté, trois conseils de la même espèce |
 | `simple` | à propos, pages légales | rien |

@@ -1,58 +1,67 @@
 ---
 type: urgences-groupe
 url: /urgences/
-title: "Vétérinaire de garde : numéros et prix | Vetmint"
-description: "Urgence vétérinaire dans un cabinet Vetmint : qui appeler de jour, quel numéro de garde la nuit et le week-end, prix de l'appel et suppléments d'urgence."
+title: "Vétérinaire de garde : numéros et prix | Vetmint"
+description: "Urgence vétérinaire chez Vetmint : Vet'Urgences Fribourg à Givisiez et Vet'Urgences Neuchâtel à Saint-Blaise, de 8 h à minuit. Le numéro de chaque cabinet."
 h1: Urgences et vétérinaire de garde dans les cabinets Vetmint
 recherche: vétérinaire de garde
-redige_le: 2026-10-16
+redige_le: 2026-11-11
 ordre: 19
 especes: [chien, chat, nac]
-resume: Le bon numéro selon l'heure et le cabinet, le prix d'une urgence et les signes qui ne peuvent pas attendre.
+resume: Nos deux services d'urgence, ouverts tous les jours de 8 h à minuit, et le bon numéro selon l'heure et le cabinet.
 ---
 
-Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour férié dans les régions des huit cabinets Vetmint. Appelez toujours votre cabinet avant de venir, de jour comme de nuit. Pendant les heures d'ouverture, il reçoit lui-même les urgences. À Fribourg Ouest et à Saint-Blaise, le cabinet assure aussi la garde le soir et le week-end, jusqu'à minuit. En dehors de ces heures, le répondeur du cabinet vous donne le numéro de garde. Selon le cabinet, c'est un numéro en 0900, payant à la minute, ou un numéro ordinaire. Une urgence coûte la consultation, un supplément selon le cabinet et l'heure, puis les soins.
+Vetmint a deux services d'urgence vétérinaire, ouverts tous les jours de 8 h à minuit : Vet'Urgences Fribourg à Givisiez et Vet'Urgences Neuchâtel à Saint-Blaise. Ils reçoivent les chiens, les chats et les NAC. **Nos deux numéros d'urgence sont gratuits** : appelez avant de venir, un vétérinaire vous conseille au téléphone. Après minuit, leur répondeur vous donne le numéro du vétérinaire de garde. Pendant leurs heures d'ouverture, les autres cabinets Vetmint reçoivent aussi les urgences.
 
 [Trouver le cabinet le plus proche](/cabinets/)
 
+## Nos deux services d'urgence
+
+### Vet'Urgences Fribourg, à Givisiez
+
+- **Téléphone** : [026 466 34 35](tel:+41264663435), **numéro gratuit**, de 8 h à minuit.
+- **Adresse** : route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans les locaux du cabinet Vetmint Fribourg Ouest.
+- **Horaires** : tous les jours, de 8 h à minuit.
+- **Site** : [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
+
+### Vet'Urgences Neuchâtel, à Saint-Blaise
+
+- **Téléphone** : [032 753 16 32](tel:+41327531632), **numéro gratuit**, de 8 h à minuit.
+- **Adresse** : rue des Bourguillards 11, 2072 Saint-Blaise, dans les locaux du cabinet Vetmint Saint-Blaise.
+- **Horaires** : tous les jours, de 8 h à minuit.
+- **Accès** : places de parc gratuites devant le cabinet, à 6 minutes à pied de la gare CFF de Saint-Blaise.
+- **Site** : [vet-urgence-neuchatel.ch](https://vet-urgence-neuchatel.ch/).
+
+### Ce que font nos services d'urgence
+
+Les deux services travaillent de la même façon, avec une équipe dédiée aux urgences :
+
+- **Le conseil au téléphone**, gratuit. Un vétérinaire vous dit s'il faut venir tout de suite, plus tard ou pas du tout. Mieux vaut un appel pour être rassuré qu'une prise en charge tardive.
+- **La consultation d'urgence**, tous les jours de 8 h à minuit, le soir et le week-end compris.
+- **Les analyses de sang**, faites sur place pour préciser vite le diagnostic.
+- **La radiographie et l'échographie**.
+- **La chirurgie d'urgence** : retournement d'estomac, césarienne, plaies.
+- **L'endoscopie**, pour retirer sans opérer un objet avalé ou coincé dans l'oreille ou le nez. Depuis Saint-Blaise, l'animal est transféré à Fribourg pour cet examen.
+- **L'hospitalisation**, la nuit et le week-end, pour un animal qui doit rester sous surveillance.
+
+Le rapport et les résultats des examens vous sont envoyés rapidement, ainsi qu'à votre vétérinaire habituel. Le suivi continue ensuite dans votre cabinet.
+
 ## Qui appeler, cabinet par cabinet
 
-| Cabinet | Heures d'ouverture | Nuit, week-end et jours fériés | Prix de l'appel de garde |
-|---|---|---|---|
-| [Bussigny](/bussigny/urgences/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
-| [La Chaux-de-Fonds](/chauxdefonds/urgences/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902), ou Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632) | 3 francs la minute ; Vet'Urgence Neuchâtel : tarif normal |
-| [Domdidier](/domdidier/urgences/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | jusqu'à minuit : le cabinet ; après minuit : [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), service Médi-Vet | 2 francs la minute |
-| [Payerne](/payerne/urgences/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | jusqu'à minuit : le cabinet ; après minuit : [0900 80 70 60](tel:0900807060), ou Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632) | 2 francs la minute ; Vet'Urgence Neuchâtel : tarif normal |
-| [Saint-Légier](/saintlegier/urgences/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), garde de la Riviera | 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h |
+| Cabinet | Soir, nuit, week-end et jours fériés | Heures d'ouverture |
+|---|---|---|
+| [Bussigny](/bussigny/urgences/) | Garde régionale : [0900 80 70 60](tel:0900807060) (2 CHF/min) | [021 703 25 30](tel:+41217032530) |
+| [La Chaux-de-Fonds](/chauxdefonds/urgences/) | Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632) (gratuit) | [032 914 03 48](tel:+41329140348) |
+|  | Garde régionale : [0900 901 902](tel:0900901902) (3 CHF/min) |  |
+| [Domdidier](/domdidier/urgences/) | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 675 38 88](tel:+41266753888) |
+| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 466 84 84](tel:+41264668484) |
+| [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | Médi-Vet : [0900 022 022](tel:0900022022) (2 CHF/min) | [021 357 89 90](tel:+41213578990) |
+| [Payerne](/payerne/urgences/) | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 660 16 16](tel:+41266601616) |
+| [Saint-Blaise](/saintblaise/urgences/) | Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632) (gratuit) | [032 753 11 22](tel:+41327531122) |
+|  | Garde régionale, après minuit : [0900 80 70 60](tel:0900807060) (2 CHF/min) |  |
+| [Saint-Légier](/saintlegier/urgences/) | Garde de la Riviera : [0900 906 906](tel:0900906906) (2 CHF/min, 5 CHF/min de 22 h à 8 h) | [021 683 10 10](tel:+41216831010) |
 
 Le nom de chaque cabinet mène à sa page Urgences : numéro de garde, adresse, accès et consignes propres au cabinet.
-
-## Comment fonctionne la garde
-
-### Un service partagé entre les cabinets d'une région
-
-La nuit, le week-end et les jours fériés, les cabinets vétérinaires pour petits animaux d'une même région se relaient. Un seul numéro joint le vétérinaire de garde du moment, qui travaille dans un cabinet Vetmint ou dans un autre cabinet de la région. Il vous écoute, juge si l'animal doit être vu tout de suite et vous donne l'adresse où l'amener. Notez cette adresse avant de raccrocher : elle change d'une nuit à l'autre.
-
-Dans la plupart des régions, ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 2 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins. À Payerne, à Domdidier et à Fribourg Ouest, le numéro de garde est un numéro ordinaire, au tarif normal. À La Chaux-de-Fonds et à Saint-Blaise, vous pouvez aussi appeler Vet'Urgence Neuchâtel au 032 753 16 32, un numéro non surtaxé.
-
-### Quatre cabinets avec leur propre organisation
-
-À **Saint-Légier**, le service de garde de la Riviera répond au 0900 906 906. Si vous composez le numéro du cabinet en dehors des heures d'ouverture, son répondeur vous renvoie vers lui.
-
-Au **Lac-de-Joux**, le cabinet reçoit les urgences pendant ses heures d'ouverture. En dehors, le service Médi-Vet répond au 0900 022 022.
-
-À **Fribourg Ouest**, un vétérinaire du cabinet assure la garde le soir et le week-end, jusqu'à minuit. Il surveille les animaux hospitalisés et reçoit des urgences, au supplément « soirées et week-ends » du cabinet. Après minuit, le répondeur du cabinet vous renvoie vers le service de garde de la région.
-
-À **Saint-Blaise**, le cabinet assure lui-même la garde le soir et le week-end, jusqu'à minuit : appelez son numéro habituel. Après minuit, son répondeur vous renvoie vers le service de garde de la région, au 0900 80 70 60. Vet'Urgence Neuchâtel répond aussi au 032 753 16 32, un numéro non surtaxé.
-
-## Ce que coûte une urgence
-
-Une urgence se paie en trois parts. D'abord la consultation de 30 minutes. Ensuite le supplément d'urgence. Enfin les examens, les médicaments et l'hospitalisation s'il y en a. L'appel au numéro de garde s'y ajoute quand vous l'utilisez.
-
-Avant une opération ou une hospitalisation, le vétérinaire vous remet un devis. Le paiement se fait sur place, par carte de débit, carte de crédit ou TWINT. Le supplément et les autres prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Urgence, appel ou rendez-vous
 
@@ -64,7 +73,7 @@ Avant une opération ou une hospitalisation, le vétérinaire vous remet un devi
 - Un chien cherche à vomir sans rien rendre, le ventre tendu.
 - Un chat mâle gratte sa litière sans produire d'urine.
 - Il a avalé un raticide, un médicament, de l'antigel ou du chocolat, ou un chat a mâchouillé un lys.
-- Une chienne ou une chatte pousse depuis plus d'une demi-heure sans qu'un petit sorte.
+- Une chienne ou une chatte en fin de gestation pousse depuis plus d'une demi-heure sans qu'un petit sorte.
 - Un lapin ou un cochon d'Inde ne mange plus et ne fait plus de crottes depuis six heures.
 
 ### Appelez votre cabinet dans la journée
@@ -78,22 +87,6 @@ Avant une opération ou une hospitalisation, le vétérinaire vous remet un devi
 ### Prenez rendez-vous
 
 Une petite grosseur découverte en le caressant, une toux légère, des selles un peu molles depuis deux jours chez un animal en forme ou une démangeaison relèvent d'une consultation ordinaire. Au moindre doute, le téléphone du cabinet tranche.
-
-## Ce que le vétérinaire de garde vous demandera
-
-Le vétérinaire de garde ne connaît pas votre animal. Préparez ces réponses avant d'appeler, l'appel sera plus court :
-
-- l'espèce, l'âge, le poids approximatif et le sexe, stérilisé ou non ;
-- ce qui s'est passé, à quelle heure et ce qui a changé depuis ;
-- le produit avalé, avec son emballage et la quantité manquante ;
-- les traitements en cours et les maladies connues ;
-- la commune où vous êtes, pour qu'il vous indique le lieu de soins le plus proche.
-
-Prenez le carnet de vaccination ou le passeport. Demandez le compte rendu des soins en partant et apportez-le à votre cabinet pour le contrôle qui suit.
-
-## Loin de votre cabinet habituel
-
-En vacances, chez des proches ou dans un chalet, appelez le service de garde de la région où vous êtes. Lui seul sait quel vétérinaire est disponible à proximité. La [carte des cabinets](/cabinets/) donne l'adresse du cabinet Vetmint le plus proche pendant ses heures d'ouverture.
 
 ## Questions fréquentes
 
@@ -116,15 +109,3 @@ Le vétérinaire voit d'abord l'animal dont la vie est en jeu. Un cas moins grav
 ### Que se passe-t-il si mon animal doit rester ?
 
 Il est hospitalisé, sous perfusion si besoin. Le jour, les huit cabinets hospitalisent tous les animaux de compagnie. La nuit, le vétérinaire de garde vous dit où votre animal passera la nuit et à quelle heure appeler pour savoir comment il va.
-
-## Les soins d'urgence dans les cabinets
-
-Pendant les heures d'ouverture, chaque cabinet fait sur place les analyses de sang et les radiographies dont une urgence a besoin, puis opère ou hospitalise. L'équipement de chacune est décrit sur sa page Services : [Bussigny](/bussigny/services/), [La Chaux-de-Fonds](/chauxdefonds/services/), [Domdidier](/domdidier/services/), [Fribourg Ouest](/fribourg/services/), [Lac-de-Joux](/lacdejoux/services/), [Payerne](/payerne/services/), [Saint-Blaise](/saintblaise/services/) et [Saint-Légier](/saintlegier/services/).
-
-Quand une urgence mène à une opération, les pages [Chirurgie](/services/chirurgie/) et [Hospitalisation](/services/hospitalisation/) décrivent la suite.
-
-## Pour ce qui peut attendre
-
-Une consultation de 30 minutes laisse le temps d'examiner votre animal en entier et de parler de ce qui vous inquiète. Rendez-vous en ligne : [Bussigny](/bussigny/rendez-vous/), [La Chaux-de-Fonds](/chauxdefonds/rendez-vous/), [Domdidier](/domdidier/rendez-vous/), [Fribourg Ouest](/fribourg/rendez-vous/), [Lac-de-Joux](/lacdejoux/rendez-vous/), [Payerne](/payerne/rendez-vous/), [Saint-Blaise](/saintblaise/rendez-vous/) et [Saint-Légier](/saintlegier/rendez-vous/), pour les vaccins.
-
-[Prendre rendez-vous dans un cabinet](/cabinets/)

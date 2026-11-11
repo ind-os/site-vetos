@@ -19,13 +19,14 @@ import ServiceClinique from './ServiceClinique.astro';
 import ServicesClinique from './ServicesClinique.astro';
 import Simple from './Simple.astro';
 import Urgences from './Urgences.astro';
+import UrgencesGroupe from './UrgencesGroupe.astro';
 
 export const GABARITS: Record<TypeDePage, typeof Simple> = {
   'accueil-groupe': AccueilGroupe,
   cliniques: Cliniques,
   'service-index': Simple,
   service: Service,
-  'urgences-groupe': Simple,
+  'urgences-groupe': UrgencesGroupe,
   'conseil-index': ConseilIndex,
   'conseil-categorie': ConseilIndex,
   conseil: Conseil,

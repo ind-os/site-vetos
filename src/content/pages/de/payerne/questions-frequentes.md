@@ -47,7 +47,7 @@ Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, während der Öffnungszeite
 
 ### Was tun bei einem Notfall in der Nacht?
 
-Rufen Sie die Notfallnummer an. Sie wird von den Kleintierpraxen der Region betrieben. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen. Tagsüber rufen Sie die Praxis unter [026 660 16 16](tel:+41266601616) an. Die Notfallnummer und die Anzeichen, auf die Sie achten sollten, stehen auf der Seite [Notfall](/de/payerne/notfall/).
+Rufen Sie die Notfallnummer an. Sie verbindet Sie mit Vet'Urgences Fribourg, dem Notfalldienst von Vetmint in Givisiez, täglich von 8 Uhr bis Mitternacht geöffnet. Nach Mitternacht nennt Ihnen sein Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Tagsüber rufen Sie die Praxis unter [026 660 16 16](tel:+41266601616) an. Die Notfallnummer und die Anzeichen, auf die Sie achten sollten, stehen auf der Seite [Notfall](/de/payerne/notfall/).
 
 ### Meine Katze ist beim Tierarzt sehr gestresst. Was tun Sie für sie?
 

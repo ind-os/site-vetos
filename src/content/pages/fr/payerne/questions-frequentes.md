@@ -47,7 +47,7 @@ Oui, sur rendez-vous, dans tout le district de la Broye, aux heures d'ouverture 
 
 ### Que faire en cas d'urgence la nuit ?
 
-Appelez le numéro de garde. Il est tenu par les cabinets vétérinaires pour petits animaux de la région. Le vétérinaire de garde vous dit où amener votre animal. Pendant la journée, appelez le cabinet au [026 660 16 16](tel:+41266601616). Le numéro de garde et les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
+Appelez le numéro de garde. Il joint Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, ouvert tous les jours de 8 h à minuit. Après minuit, son répondeur vous donne le numéro du vétérinaire de garde. Pendant la journée, appelez le cabinet au [026 660 16 16](tel:+41266601616). Le numéro de garde et les signes à surveiller sont sur la page [Urgences](/payerne/urgences/).
 
 ### Mon chat est très stressé chez le vétérinaire. Que faites-vous pour lui ?
 

@@ -59,6 +59,9 @@ export const de: Catalogue = {
 
   urgence: {
     garde: 'Notfallnummer',
+    services: 'Unsere Notfalldienste',
+    gratuit: 'Kostenlose Nummer',
+    horaires: 'Täglich von 8 Uhr bis Mitternacht',
   },
 
   horaires: {

@@ -8,7 +8,7 @@ recherche: cabinets Vetmint
 redige_le: 2026-10-16
 ---
 
-Vetmint compte huit cabinets vétérinaires, quatre dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel. Chaque cabinet Vetmint reçoit sur rendez-vous. La nuit, le dimanche et les jours fériés, un numéro de garde régional prend le relais.
+Vetmint compte huit cabinets vétérinaires, quatre dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel. Chaque cabinet Vetmint reçoit sur rendez-vous. Nos deux services d'urgence, à Givisiez et à Saint-Blaise, reçoivent les urgences tous les jours jusqu'à minuit. Après minuit et dans les autres régions, un numéro de garde régional prend le relais.
 
 ## Vetmint Bussigny
 
@@ -40,7 +40,7 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Téléphone [032 914 03 48](t
 
 <!-- donnees: garde -->
 - Garde : [0900 901 902](tel:0900901902), 3 francs la minute
-- Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632), numéro non surtaxé
+- Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 [Le cabinet Vetmint La Chaux-de-Fonds](/chauxdefonds/)
@@ -58,7 +58,7 @@ Route de Saint-Aubin 58, 1564 Domdidier. Places de parc à proximité. Télépho
 Le samedi, Domdidier et Payerne ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
 
 <!-- donnees: garde -->
-- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 [Le cabinet Vetmint Domdidier](/domdidier/)
@@ -73,7 +73,7 @@ Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entr
 <!-- /donnees -->
 
 <!-- donnees: garde -->
-- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 [Le cabinet Vetmint Fribourg Ouest](/fribourg/)
@@ -105,7 +105,7 @@ Route du Châtelard 13, 1530 Payerne. Téléphone et WhatsApp [026 660 16 16](te
 Le samedi, Payerne et Domdidier ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
 
 <!-- donnees: garde -->
-- Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 [Le cabinet Vetmint Payerne](/payerne/)
@@ -121,7 +121,7 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Téléphone [032 753 11 22](tel:+41
 
 <!-- donnees: garde -->
 - Garde : [0900 80 70 60](tel:0900807060), 2 francs la minute
-- Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632), numéro non surtaxé
+- Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 [Le cabinet Vetmint Saint-Blaise](/saintblaise/)

@@ -60,6 +60,9 @@ export const fr = {
 
   urgence: {
     garde: 'Numéro de garde',
+    services: 'Nos services d’urgence',
+    gratuit: 'Numéro gratuit',
+    horaires: 'Tous les jours, de 8 h à minuit',
   },
 
   horaires: {

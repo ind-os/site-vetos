@@ -60,10 +60,10 @@ Die Fahrzeiten aus der Broye und die Links zur Route stehen auf der Seite [Konta
 
 Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet 99 Franken Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
 
-Ausserhalb der Öffnungszeiten rufen Sie die Notfallnummer an, die die Kleintierpraxen der Region gemeinsam betreiben. Die diensthabende Tierärztin oder der diensthabende Tierarzt sagt Ihnen, wohin Sie Ihr Tier bringen sollen; der Zuschlag für Nacht und Wochenende beträgt 176 Franken.
+Ausserhalb der Öffnungszeiten rufen Sie Vet'Urgences Fribourg an, den Notfalldienst von Vetmint in Givisiez, täglich von 8 Uhr bis Mitternacht geöffnet. Nach Mitternacht nennt Ihnen sein Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Ein Notfallzuschlag kommt zu den Behandlungen hinzu.
 
 <!-- donnees: garde -->
-- Notfallnummer: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfallnummer: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 Die Anzeichen, bei denen Sie anrufen müssen, stehen auf der Seite [Notfall](/de/payerne/notfall/).

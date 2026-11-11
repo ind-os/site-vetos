@@ -635,5 +635,23 @@
       "y": 0.5
     },
     "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+  },
+  {
+    "fichier": "fribourg-vet-urgence-logo.jpg",
+    "sujet": "fribourg:vet-urgence-logo",
+    "alt": {
+      "fr": "Logo de Vet'Urgence Fribourg",
+      "de": "Logo von Vet'Urgence Fribourg"
+    },
+    "source": "https://vet-urgence-fribourg.ch/assets/images/image10.jpg"
+  },
+  {
+    "fichier": "saintblaise-vet-urgence-logo.jpg",
+    "sujet": "saintblaise:vet-urgence-logo",
+    "alt": {
+      "fr": "Logo de Vet'Urgence Neuchâtel",
+      "de": "Logo von Vet'Urgence Neuchâtel"
+    },
+    "source": "https://vet-urgence-neuchatel.ch/assets/images/image10.jpg"
   }
 ]

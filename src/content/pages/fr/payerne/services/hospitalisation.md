@@ -33,10 +33,10 @@ Vous reprenez votre animal en fin de journée, jusqu'à 18 h. L'heure se fixe a
 
 Quand votre animal doit rester la nuit, l'équipe fait un dernier tour à la fermeture : perfusion, douleur, appétit. Elle revient à l'ouverture et vous appelle si quelque chose a changé. Personne ne dort au cabinet. Si votre animal demande une surveillance continue, le vétérinaire vous propose avant le soir un transfert vers un cabinet de garde ouvert toute la nuit, avec son dossier.
 
-Si vous êtes inquiet après le retour à la maison, la nuit ou le week-end, appelez le service de garde de la région :
+Si vous êtes inquiet après le retour à la maison, la nuit ou le week-end, appelez Vet'Urgences Fribourg, le service d'urgence de Vetmint, ouvert tous les jours de 8 h à minuit :
 
 <!-- donnees: garde -->
-- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Numéro de garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 ## Les lapins et les rongeurs
@@ -53,7 +53,7 @@ Le prix dépend de la durée et des soins :
 | Journée avec nuit | cage, repas, soins de base, contrôles du soir et du matin | 95 à 140 CHF selon la taille |
 | Perfusion | cathéter, poche et réglage du débit, par jour | 65 CHF |
 
-Les médicaments, les analyses et la radiographie s'ajoutent. Pour une stérilisation ou une castration, le réveil surveillé fait partie du forfait : 260 francs pour une chatte, 810 francs pour une chienne. Une admission en urgence pendant les heures d'ouverture coûte 99 francs de supplément, 176 francs en dehors. Vous payez au départ, par carte ou par TWINT. Les autres prix du cabinet sont sur la page [Tarifs](/payerne/tarifs/).
+Les médicaments, les analyses et la radiographie s'ajoutent. Pour une stérilisation ou une castration, le réveil surveillé fait partie du forfait : 260 francs pour une chatte, 810 francs pour une chienne. Une admission en urgence pendant les heures d'ouverture coûte 99 francs de supplément. Vous payez au départ, par carte ou par TWINT. Les autres prix du cabinet sont sur la page [Tarifs](/payerne/tarifs/).
 
 ## Préparer le séjour
 

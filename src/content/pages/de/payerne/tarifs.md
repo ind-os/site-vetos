@@ -77,12 +77,11 @@ Die Praxis führt Blutentnahme, Urinuntersuchung und Röntgen vor Ort durch. Ihr
 | Zeitpunkt | Was hinzukommt | Zuschlag |
 |---|---|---|
 | Während der Öffnungszeiten | die Konsultation und die Behandlung | CHF 99.– |
-| Nachts, am Wochenende, an Feiertagen | die Behandlung | CHF 176.– |
 
-Tagsüber kostet ein Notfall also mindestens 156 Franken: 57 Franken für die Konsultation und 99 Franken Zuschlag. Ausserhalb der Öffnungszeiten gilt die Notfallnummer, die alle Kleintierpraxen der Region gemeinsam haben.
+Tagsüber kostet ein Notfall also mindestens 156 Franken: 57 Franken für die Konsultation und 99 Franken Zuschlag. Ausserhalb der Öffnungszeiten verbindet Sie die Notfallnummer mit Vet'Urgences Fribourg, dem Notfalldienst von Vetmint in Givisiez, von 8 Uhr bis Mitternacht.
 
 <!-- donnees: garde -->
-- Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
+- Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
 Was Sie je nach Uhrzeit tun müssen, steht auf der Seite [Notfall](/de/payerne/notfall/).

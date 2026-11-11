@@ -60,10 +60,10 @@ Les temps de trajet depuis la Broye et les liens d'itinéraire figurent sur la p
 
 Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue pendant les heures d'ouverture coûte 99 francs de supplément, en plus de la consultation et des soins.
 
-En dehors des heures d'ouverture, appelez le numéro de garde que les cabinets vétérinaires pour petits animaux de la région tiennent en commun. Le vétérinaire de garde vous dit où amener votre animal ; le supplément de nuit et de week-end est de 176 francs.
+En dehors des heures d'ouverture, appelez Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, ouvert tous les jours de 8 h à minuit. Après minuit, son répondeur vous donne le numéro du vétérinaire de garde. Un supplément d'urgence s'ajoute aux soins.
 
 <!-- donnees: garde -->
-- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Numéro de garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 Les signes qui imposent d'appeler sont sur la page [Urgences](/payerne/urgences/).

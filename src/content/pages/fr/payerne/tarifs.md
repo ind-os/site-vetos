@@ -77,12 +77,11 @@ Le cabinet fait sur place la prise de sang, l'analyse d'urine et la radiographie
 | Moment | Ce qui s'ajoute | Supplément |
 |---|---|---|
 | Pendant les heures d'ouverture | la consultation et les soins | 99 CHF |
-| La nuit, le week-end, les jours fériés | les soins | 176 CHF |
 
-En journée, une urgence coûte donc au moins 156 francs : 57 francs de consultation et 99 francs de supplément. En dehors des heures d'ouverture, le numéro de garde est commun aux cabinets pour petits animaux de la région.
+En journée, une urgence coûte donc au moins 156 francs : 57 francs de consultation et 99 francs de supplément. En dehors des heures d'ouverture, le numéro de garde joint Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, de 8 h à minuit.
 
 <!-- donnees: garde -->
-- Numéro de garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
+- Numéro de garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
 Ce qu'il faut faire selon l'heure est sur la page [Urgences](/payerne/urgences/).
