@@ -32,7 +32,7 @@ Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 
 - La [stérilisation et la castration](/payerne/services/chirurgie/) concernent les chiens, les chats et les NAC.
 - La [chirurgie](/payerne/services/chirurgie/) traite une plaie, une grosseur à retirer, un corps étranger avalé ou une césarienne.
 - Les [soins dentaires](/payerne/services/dentisterie/) commencent par une radiographie des dents, puis le détartrage aux ultrasons et le polissage.
-- Le laboratoire du cabinet fait les [analyses](/payerne/services/analyses-sanguines/) de sang, d'urine, de selles et de peau.
+- Le laboratoire du cabinet fait les [analyses](/payerne/services/analyses-sanguines/) de sang et d'urine. Les selles et la peau partent au laboratoire externe.
 - La [radiographie numérique](/payerne/services/radiographie/) comprend les clichés officiels des hanches et des coudes pour le dépistage de la dysplasie.
 - L'[échographie](/payerne/services/echographie/) du ventre, du cœur et de gestation se fait au cabinet.
 - L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats et NAC dans des cages adaptées à la durée du séjour.

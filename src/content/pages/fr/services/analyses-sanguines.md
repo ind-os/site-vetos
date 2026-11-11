@@ -12,7 +12,7 @@ ordre: 9
 resume: Ce que le laboratoire des cabinets analyse sur place, ce qui part au laboratoire externe, les délais et les prix.
 ---
 
-Une analyse de sang du chien ou du chat se fait au cabinet. Le vétérinaire prélève un peu de sang à la patte ou au cou. Les appareils du laboratoire donnent la plupart des résultats en 20 minutes environ. Les huit cabinets Vetmint analysent aussi l'urine, les selles et la peau. Ils regardent au microscope les cellules prélevées à l'aiguille. Les biopsies partent vers un laboratoire externe.
+La plupart des analyses sanguines du chien ou du chat peuvent se réaliser au cabinet. Les résultats sont alors disponibles presque immédiatement. Dans certains cas, des paramètres plus spécifiques sont nécessaires et l'échantillon part dans un laboratoire externe. Le vétérinaire prélève un peu de sang à la patte ou au cou. Les huit cabinets Vetmint analysent aussi l'urine sur place. Ils regardent au microscope les cellules prélevées à l'aiguille. Les selles, la peau et les biopsies partent vers un laboratoire externe.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -36,18 +36,16 @@ Chez un animal âgé, le bilan annuel sert aussi à dépister une maladie avant 
 
 **Le sang.** La formule sanguine compte les globules rouges, les globules blancs et les plaquettes. Elle repère une anémie, une infection ou un trouble de la coagulation. La biochimie mesure ce que le sang transporte : le glucose, les protéines, les déchets que filtrent les reins, les enzymes du foie. Des tests rapides cherchent certains virus, comme ceux de la leucose féline (FeLV) et de l'immunodéficience du chat (FIV).
 
-**L'urine.** Une bandelette, la densité et l'examen au microscope montrent si l'urine contient du sang, du sucre, des protéines, des cristaux ou des bactéries. L'analyse d'urine complète la prise de sang pour juger des reins.
+**L'urine.** Une bandelette, la densité et l'examen au microscope montrent si l'urine contient du sang, du sucre, des protéines, des cristaux ou des bactéries. L'analyse d'urine complète la prise de sang dans de nombreuses situations.
 
-**Les selles.** Le vétérinaire mélange un petit échantillon à une solution qui fait remonter les œufs de vers et les parasites. Il les compte au microscope.
-
-**La peau et les oreilles.** Un raclage de peau montre les acariens de la gale. Une culture cherche les champignons de la teigne ; elle pousse en une à trois semaines. Un écouvillon d'oreille montre les levures et les bactéries d'une otite.
-
-**Les cellules.** La cytologie est l'examen au microscope de cellules prélevées avec une aiguille fine, sur une grosseur ou dans un liquide. Le geste dure quelques secondes, sans anesthésie la plupart du temps. Le vétérinaire lit souvent la lame le jour même.
+**Les cellules.** La cytologie est l'examen au microscope de cellules prélevées avec une aiguille fine, sur une grosseur ou dans un liquide. Le geste dure quelques secondes, sans anesthésie la plupart du temps. Le vétérinaire lit souvent la lame le jour même. Un écouvillon d'oreille se lit de la même façon : il montre les levures et les bactéries d'une otite.
 
 ## Ce qui part au laboratoire externe
 
 Certains examens demandent un appareil ou un spécialiste que le cabinet n'a pas. Le vétérinaire prépare alors l'échantillon et l'envoie à un laboratoire vétérinaire externe :
 
+- **les selles**, où le laboratoire cherche les œufs de vers et les parasites ;
+- **la peau** : un raclage pour les acariens de la gale, une culture pour les champignons de la teigne, qui pousse en une à trois semaines ;
 - **la biopsie**, un morceau de tissu prélevé sous anesthésie ou sous sédation, qu'un pathologiste examine pour dire si une grosseur est bénigne ou maligne ;
 - **la bactériologie avec antibiogramme**, qui identifie la bactérie et dit quel antibiotique l'arrête ;
 - **les dosages hormonaux particuliers** et certaines recherches de maladies infectieuses.
@@ -56,13 +54,13 @@ Le résultat d'une biopsie revient en 5 à 7 jours ouvrables. Le vétérinaire v
 
 ## Le déroulement d'une prise de sang
 
-1. Le vétérinaire ou l'assistante tient votre animal, souvent sur vos genoux pour un chat ou un petit chien.
+1. Le vétérinaire ou l'assistante tient votre animal.
 2. Une petite zone est tondue, à la patte avant ou au cou.
 3. L'aiguille reste en place quelques secondes. La plupart des animaux ne réagissent presque pas.
 4. Une pression de deux minutes arrête le saignement.
 5. Le laboratoire analyse le tube pendant que la consultation continue. Le vétérinaire vous lit les valeurs et vous dit ce qu'elles changent pour le traitement.
 
-Les résultats sont imprimés ou envoyés par e-mail, pour que vous puissiez les montrer plus tard ou comparer d'une année à l'autre.
+Sur demande, les résultats peuvent être imprimés ou envoyés par e-mail, pour que vous puissiez les montrer plus tard ou comparer d'une année à l'autre.
 
 ## La préparation
 
@@ -86,7 +84,7 @@ Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les me
 
 ### Dans combien de temps aurai-je les résultats ?
 
-Pour une prise de sang, une analyse d'urine ou de selles, le jour même, souvent avant la fin de la consultation. Pour une biopsie, une bactériologie ou un dosage particulier, comptez quelques jours ouvrables.
+Pour une prise de sang ou une analyse d'urine, le jour même, souvent avant la fin de la consultation. Pour une analyse de selles, une biopsie, une bactériologie ou un dosage particulier, comptez quelques jours ouvrables. Une culture de teigne demande une à trois semaines.
 
 ### Pourquoi refaire une prise de sang avant une opération si le bilan annuel était bon ?
 
@@ -110,7 +108,7 @@ Oui, après un appel au cabinet. Le vétérinaire qui suit votre animal choisit 
 
 ## Les cabinets qui font les analyses
 
-Chaque cabinet Vetmint a son laboratoire pour le sang, l'urine, les selles et la peau. Toutes envoient les biopsies à un laboratoire externe.
+Chaque cabinet Vetmint a son laboratoire pour le sang, l'urine et les cellules. Tous envoient les selles, la peau et les biopsies à un laboratoire externe.
 
 - [Bussigny](/bussigny/services/) : [prendre rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [prendre rendez-vous](/chauxdefonds/rendez-vous/)

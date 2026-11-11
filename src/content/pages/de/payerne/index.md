@@ -32,7 +32,7 @@ Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15
 - Die [Kastration und Sterilisation](/de/payerne/leistungen/chirurgie/) betreffen Hunde, Katzen und Heimtiere.
 - Die [Chirurgie](/de/payerne/leistungen/chirurgie/) behandelt eine Wunde, einen Knoten, der entfernt werden muss, einen verschluckten Fremdkörper oder einen Kaiserschnitt.
 - Die [Zahnbehandlung](/de/payerne/leistungen/zahnmedizin/) beginnt mit einem Röntgenbild der Zähne, dann folgen die Zahnsteinentfernung mit Ultraschall und das Polieren.
-- Das Labor der Praxis führt die [Analysen](/de/payerne/leistungen/blutanalysen/) von Blut, Urin, Kot und Haut durch.
+- Das Labor der Praxis führt die [Analysen](/de/payerne/leistungen/blutanalysen/) von Blut und Urin durch. Kot und Haut gehen ins externe Labor.
 - Das [digitale Röntgen](/de/payerne/leistungen/roentgen/) umfasst die offiziellen Aufnahmen von Hüften und Ellbogen für die Dysplasie-Untersuchung.
 - Der [Ultraschall](/de/payerne/leistungen/ultraschall/) von Bauch, Herz und Trächtigkeit erfolgt in der Praxis.
 - Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen und Heimtiere in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.

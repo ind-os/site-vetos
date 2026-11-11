@@ -70,7 +70,7 @@ Une dent à extraire s'ajoute au forfait du détartrage. Le déroulement est exp
 
 ## Examens et analyses
 
-Le cabinet fait sur place la prise de sang, l'analyse d'urine ou de selles et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-sanguines/) et [radiographie](/payerne/services/radiographie/).
+Le cabinet fait sur place la prise de sang, l'analyse d'urine et la radiographie. Leur prix dépend des examens choisis. Le vétérinaire vous l'annonce avant de prélever ou de radiographier. Voir les pages [analyses](/payerne/services/analyses-sanguines/) et [radiographie](/payerne/services/radiographie/).
 
 ## Les urgences
 

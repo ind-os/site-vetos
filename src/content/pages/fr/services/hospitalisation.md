@@ -12,7 +12,7 @@ ordre: 8
 resume: Pourquoi un animal reste au cabinet, le jour et la nuit, les visites, les appels et le prix.
 ---
 
-L'hospitalisation du chien et du chat sert à soigner au cabinet un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par la veine, de l'oxygène ou une surveillance après une opération. Les huit cabinets Vetmint hospitalisent tous les animaux de compagnie. Le vétérinaire vous appelle chaque jour.
+L'hospitalisation du chien et du chat sert à soigner au cabinet un animal qui ne peut pas l'être à la maison. Il y reçoit une perfusion, des médicaments par voie veineuse, de l'oxygène ou une surveillance après une opération. Les huit cabinets Vetmint hospitalisent tous les animaux de compagnie. Le vétérinaire vous appelle chaque jour.
 
 [Choisir un cabinet](/cabinets/)
 
@@ -23,10 +23,10 @@ Le vétérinaire propose une hospitalisation quand l'état de l'animal demande d
 | Situation | Ce qui se fait au cabinet | Durée habituelle |
 |---|---|---|
 | Après un détartrage ou une petite opération | réveil sous surveillance | quelques heures, retour le jour même |
-| Après une opération du ventre ou des os | traitement de la douleur par la veine, contrôle de la plaie | un à trois jours |
-| Vomissements ou diarrhée avec déshydratation | perfusion, médicaments contre les nausées | deux à quatre jours |
+| Après une opération du ventre ou des os | traitement de la douleur par voie veineuse, contrôle de la plaie | un à trois jours |
+| Vomissements ou diarrhée avec déshydratation | perfusion, médicaments contre les nausées | plusieurs jours |
 | Pancréatite du chien | perfusion, traitement de la douleur, reprise progressive des repas | plusieurs jours |
-| Diabète qui se déséquilibre | perfusion, mesure du glucose plusieurs fois par jour, réglage de l'insuline | deux à cinq jours |
+| Diabète qui se déséquilibre | perfusion, mesure du glucose plusieurs fois par jour, réglage de l'insuline | plusieurs jours |
 | Lapin opéré d'une oreille | sevrage progressif des anti-douleurs | 24 à 48 heures |
 | Rat ou lapin qui respire mal | oxygène, nébulisations | selon l'évolution |
 
@@ -34,7 +34,7 @@ Ces durées sont indicatives. Le vétérinaire vous dit chaque jour où en est v
 
 ## Pourquoi ne pas soigner à la maison
 
-Certains soins demandent un cathéter, ce petit tuyau posé dans une veine de la patte. Il apporte la perfusion, qui réhydrate et corrige le sang. Il apporte aussi les médicaments, qui agissent plus vite par la veine. Un animal perfusé doit être surveillé : la tubulure se plie, le débit se règle, le cathéter peut se boucher.
+Certains soins demandent un cathéter, ce petit tuyau posé dans une veine de la patte. Il apporte la perfusion, qui réhydrate et corrige le sang. Il apporte aussi les médicaments, qui agissent plus vite par voie veineuse. Un animal perfusé doit être surveillé : la tubulure se plie, le débit se règle, le cathéter peut se boucher.
 
 D'autres animaux ont besoin d'être examinés plusieurs fois par jour. Le vétérinaire mesure la température, écoute le cœur, contrôle la douleur, refait une prise de sang. Il adapte le traitement à chaque contrôle. À la maison, ces changements prendraient une journée de retard.
 
@@ -49,11 +49,11 @@ Chaque animal a sa cage ou son box. Les chats sont séparés des chiens autant q
 
 ## La nuit
 
-La nuit, le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers un cabinet de garde ouvert toute la nuit. Le vétérinaire vous explique ce choix avant de le faire. La page [urgences](/urgences/) dit qui appeler la nuit.
+La nuit, le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers un cabinet de garde ouvert toute la nuit. La page [urgences](/urgences/) dit qui appeler la nuit.
 
 ## Les lapins, les rongeurs et les oiseaux
 
-Les lapins, les rongeurs et les oiseaux sont des proies dans la nature. Ils cachent leurs signes de maladie et arrivent souvent au cabinet déjà très faibles. Leur hospitalisation suit des règles propres. Ils restent dans un local calme, loin de l'odeur et du bruit des chiens et des chats. Une source de chaleur les protège du froid. L'équipe contrôle leur hydratation et leur douleur.
+Les lapins, les rongeurs et les oiseaux sont des proies dans la nature. Ils cachent leurs signes de maladie et arrivent souvent au cabinet déjà très faibles. Leur hospitalisation suit des règles propres. Une source de chaleur les protège du froid. L'équipe contrôle leur hydratation et leur douleur.
 
 Un lapin doit manger chaque jour. S'il refuse, l'équipe le nourrit plusieurs fois par jour à la seringue avec une bouillie de fibres. Elle surveille aussi ses crottes. Un lapin opéré de l'oreille reste en moyenne 24 à 48 heures, le temps de diminuer pas à pas les anti-douleurs. La page [médecine des NAC](/services/nac/) détaille le suivi de ces espèces.
 
@@ -65,7 +65,7 @@ Vous pouvez apporter la nourriture habituelle de votre animal et une couverture 
 
 ## Le retour à la maison
 
-Le vétérinaire fixe l'heure du retour avec vous. Il vous explique les médicaments à donner, l'alimentation des jours suivants, la façon de surveiller la plaie et la date du contrôle. Une feuille écrite reprend ces consignes.
+Le vétérinaire fixe l'heure du retour avec vous. Il vous explique les médicaments à donner, l'alimentation des jours suivants, la façon de surveiller la plaie et la date du contrôle. Une feuille écrite reprend ces consignes. Donnez les médicaments aux heures indiquées, même si votre animal semble guéri. Gardez la feuille de consignes à portée de main et notez vos questions pour le contrôle.
 
 Les premiers jours, gardez votre animal au calme. Appelez le cabinet s'il ne mange pas le lendemain, vomit, respire vite ou si la plaie coule.
 
@@ -89,7 +89,7 @@ Un chat stressé peut bouder un ou deux repas. Au-delà, l'équipe le nourrit à
 
 ### Peut-on hospitaliser un animal à la maison ?
 
-Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. Les huit cabinets proposent des [visites à domicile](/services/visites-a-domicile/). Une perfusion par la veine ou une surveillance rapprochée demandent le cabinet.
+Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansement. Les huit cabinets proposent des [visites à domicile](/services/visites-a-domicile/). Par contre, une perfusion par voie veineuse ou une surveillance rapprochée nécessitent une vraie hospitalisation.
 
 ### Que se passe-t-il si l'état de mon animal s'aggrave ?
 

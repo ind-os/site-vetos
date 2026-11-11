@@ -12,7 +12,7 @@ ordre: 9
 resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht und die Wartezeiten.
 ---
 
-Eine Blutanalyse beim Hund oder bei der Katze findet in der Praxis statt. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die Geräte des Labors liefern die meisten Resultate in etwa 20 Minuten. Die acht Praxen von Vetmint untersuchen auch Urin, Kot und Haut. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Biopsien gehen in ein externes Labor.
+Die meisten Blutanalysen beim Hund oder bei der Katze können in der Praxis durchgeführt werden. Die Resultate liegen dann fast sofort vor. In manchen Fällen sind spezifischere Werte nötig, und die Probe geht in ein externes Labor. Die Tierärztin oder der Tierarzt entnimmt etwas Blut aus der Pfote oder am Hals. Die acht Praxen von Vetmint untersuchen auch den Urin vor Ort. Sie betrachten zudem die mit der Nadel entnommenen Zellen unter dem Mikroskop. Kot, Haut und Biopsien gehen in ein externes Labor.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -36,18 +36,16 @@ Bei einem älteren Tier dient der Jahrescheck auch dazu, eine Krankheit vor den 
 
 **Das Blut.** Das Blutbild zählt die roten Blutkörperchen, die weissen Blutkörperchen und die Blutplättchen. Es erkennt eine Blutarmut, eine Infektion oder eine Gerinnungsstörung. Die Blutchemie misst, was das Blut transportiert: den Zucker, die Eiweisse, die Abfallstoffe, die die Nieren filtern, die Leberenzyme. Schnelltests suchen bestimmte Viren, etwa die der felinen Leukose (FeLV) und der Immunschwäche der Katze (FIV).
 
-**Der Urin.** Ein Teststreifen, die Dichte und die Untersuchung unter dem Mikroskop zeigen, ob der Urin Blut, Zucker, Eiweisse, Kristalle oder Bakterien enthält. Die Urinuntersuchung ergänzt die Blutentnahme bei der Beurteilung der Nieren.
+**Der Urin.** Ein Teststreifen, die Dichte und die Untersuchung unter dem Mikroskop zeigen, ob der Urin Blut, Zucker, Eiweisse, Kristalle oder Bakterien enthält. Die Urinuntersuchung ergänzt die Blutentnahme in vielen Situationen.
 
-**Der Kot.** Die Tierärztin oder der Tierarzt mischt eine kleine Probe mit einer Lösung, die Wurmeier und Parasiten aufschwimmen lässt. Unter dem Mikroskop zählt sie oder er diese aus.
-
-**Die Haut und die Ohren.** Ein Hautgeschabsel zeigt die Milben der Räude. Eine Kultur sucht die Pilze der Ringelflechte; sie wächst in ein bis drei Wochen. Ein Ohrabstrich zeigt die Hefen und Bakterien einer Ohrenentzündung.
-
-**Die Zellen.** Die Zytologie ist die Untersuchung von Zellen unter dem Mikroskop, die mit einer feinen Nadel von einem Knoten oder aus einer Flüssigkeit entnommen wurden. Der Eingriff dauert wenige Sekunden, meist ohne Narkose. Die Tierärztin oder der Tierarzt liest den Objektträger oft noch am selben Tag.
+**Die Zellen.** Die Zytologie ist die Untersuchung von Zellen unter dem Mikroskop, die mit einer feinen Nadel von einem Knoten oder aus einer Flüssigkeit entnommen wurden. Der Eingriff dauert wenige Sekunden, meist ohne Narkose. Die Tierärztin oder der Tierarzt liest den Objektträger oft noch am selben Tag. Ein Ohrabstrich wird auf dieselbe Weise gelesen: Er zeigt die Hefen und Bakterien einer Ohrenentzündung.
 
 ## Was ins externe Labor geht
 
 Manche Untersuchungen brauchen ein Gerät oder eine Fachperson, die die Praxis nicht hat. Die Tierärztin oder der Tierarzt bereitet dann die Probe vor und schickt sie an ein externes tierärztliches Labor:
 
+- **der Kot**, in dem das Labor Wurmeier und Parasiten sucht;
+- **die Haut**: ein Hautgeschabsel für die Milben der Räude, eine Kultur für die Pilze der Ringelflechte, die in ein bis drei Wochen wächst;
 - **die Biopsie**, ein Gewebestück, das unter Narkose oder Sedation entnommen wird und das ein Pathologe untersucht, um zu sagen, ob ein Knoten gutartig oder bösartig ist;
 - **die Bakteriologie mit Antibiogramm**, die das Bakterium bestimmt und sagt, welches Antibiotikum es aufhält;
 - **besondere Hormonbestimmungen** und gewisse Untersuchungen auf Infektionskrankheiten.
@@ -56,13 +54,13 @@ Das Resultat einer Biopsie kommt nach 5 bis 7 Werktagen zurück. Die Tierärztin
 
 ## Der Ablauf einer Blutentnahme
 
-1. Die Tierärztin, der Tierarzt oder die Praxisassistentin hält Ihr Tier, bei einer Katze oder einem kleinen Hund oft auf Ihrem Schoss.
+1. Die Tierärztin, der Tierarzt oder die Praxisassistentin hält Ihr Tier.
 2. Eine kleine Stelle wird geschoren, am Vorderbein oder am Hals.
 3. Die Nadel bleibt einige Sekunden liegen. Die meisten Tiere reagieren kaum.
 4. Zwei Minuten Druck stoppen die Blutung.
 5. Das Labor untersucht das Röhrchen, während die Konsultation weitergeht. Die Tierärztin oder der Tierarzt liest Ihnen die Werte vor und sagt Ihnen, was sie für die Behandlung bedeuten.
 
-Die Resultate werden ausgedruckt oder per E-Mail geschickt, damit Sie sie später zeigen oder von Jahr zu Jahr vergleichen können.
+Auf Wunsch können die Resultate ausgedruckt oder per E-Mail geschickt werden, damit Sie sie später zeigen oder von Jahr zu Jahr vergleichen können.
 
 ## Die Vorbereitung
 
@@ -86,7 +84,7 @@ Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die T
 
 ### Wann habe ich die Resultate?
 
-Bei einer Blutentnahme, einer Urin- oder Kotuntersuchung am selben Tag, oft schon vor dem Ende der Konsultation. Bei einer Biopsie, einer Bakteriologie oder einer besonderen Bestimmung rechnen Sie mit einigen Werktagen.
+Bei einer Blutentnahme oder einer Urinuntersuchung am selben Tag, oft schon vor dem Ende der Konsultation. Bei einer Kotuntersuchung, einer Biopsie, einer Bakteriologie oder einer besonderen Bestimmung rechnen Sie mit einigen Werktagen. Eine Kultur auf Ringelflechte braucht ein bis drei Wochen.
 
 ### Warum vor einer Operation nochmals Blut entnehmen, wenn der Jahrescheck gut war?
 
@@ -110,7 +108,7 @@ Ja, nach einem Anruf in der Praxis. Die Tierärztin oder der Tierarzt, die oder 
 
 ## Die Praxen mit Laboruntersuchungen
 
-Jede Praxis von Vetmint hat ihr Labor für Blut, Urin, Kot und Haut. Alle schicken die Biopsien an ein externes Labor.
+Jede Praxis von Vetmint hat ihr Labor für Blut, Urin und Zellen. Alle schicken Kot, Haut und Biopsien an ein externes Labor.
 
 - [Bussigny](/de/bussigny/leistungen/): [Termin vereinbaren](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin vereinbaren](/de/chauxdefonds/termin/)

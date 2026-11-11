@@ -70,7 +70,7 @@ Ein Zahn, der gezogen werden muss, kommt zur Pauschale der Zahnsteinentfernung h
 
 ## Untersuchungen und Analysen
 
-Die Praxis führt Blutentnahme, Urin- oder Kotuntersuchung und Röntgen vor Ort durch. Ihr Preis hängt von den gewählten Untersuchungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen, bevor sie oder er Blut entnimmt oder röntgt. Siehe die Seiten [Analysen](/de/payerne/leistungen/blutanalysen/) und [Röntgen](/de/payerne/leistungen/roentgen/).
+Die Praxis führt Blutentnahme, Urinuntersuchung und Röntgen vor Ort durch. Ihr Preis hängt von den gewählten Untersuchungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen, bevor sie oder er Blut entnimmt oder röntgt. Siehe die Seiten [Analysen](/de/payerne/leistungen/blutanalysen/) und [Röntgen](/de/payerne/leistungen/roentgen/).
 
 ## Notfälle
 

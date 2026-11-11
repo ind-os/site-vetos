@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /de/payerne/leistungen/blutanalysen/
 title: "Blutuntersuchung bei Hund und Katze in Payerne | Vetmint"
-description: "Blutuntersuchung bei Hund und Katze in Payerne: Labor vor Ort, Resultat in etwa einer halben Stunde, Urin, Kot, Haut, Zytologie. Preise und Vorbereitung."
+description: "Blutuntersuchung bei Hund und Katze in Payerne: Labor vor Ort, Resultat in etwa einer halben Stunde, Urin und Zytologie. Preise und Vorbereitung."
 h1: Blutanalyse in Payerne
 recherche: Blutuntersuchung Hund Payerne
 redige_le: 2026-11-10
 resume: Das Labor der Praxis liest die meisten Blutuntersuchungen noch während der Konsultation.
 ---
 
-In Payerne findet die Blutuntersuchung bei Hund und Katze im Labor der Praxis an der Route du Châtelard 13 statt. Seine Geräte schicken die Werte direkt an den Computer der Tierärztin oder des Tierarztes. Die meisten Blutentnahmen werden deshalb in etwa einer halben Stunde ausgewertet, noch vor dem Ende der Konsultation. Dasselbe Labor untersucht Urin, Kot, Haut und die Zellen eines Knotens bei Hunden, Katzen, Kaninchen und Nagern. Nur die Biopsien gehen an ein externes Labor.
+In Payerne findet die Blutuntersuchung bei Hund und Katze im Labor der Praxis an der Route du Châtelard 13 statt. Seine Geräte schicken die Werte direkt an den Computer der Tierärztin oder des Tierarztes. Die meisten Blutentnahmen werden deshalb in etwa einer halben Stunde ausgewertet, noch vor dem Ende der Konsultation. Dasselbe Labor untersucht den Urin und die Zellen eines Knotens bei Hunden, Katzen, Kaninchen und Nagern. Kot, Haut und Biopsien gehen an ein externes Labor.
 
 [Einen Termin vereinbaren](/de/payerne/termin/)
 
@@ -24,13 +24,13 @@ Die Entnahme findet im Sprechzimmer statt. Claire-Lise Tinguely oder Tiago Capel
 
 - **Das Blut**: Das Blutbild zeigt eine Blutarmut oder eine Infektion, die Blutchemie die Nieren, die Leber und den Zucker.
 - **Der Urin**: Der Teststreifen und das Mikroskop suchen nach Blut, Kristallen oder Bakterien.
-- **Der Kot**: Wurmeier und Parasiten werden unter dem Mikroskop gezählt.
-- **Die Haut**: Ein Hautgeschabsel zeigt die Milben der Räude; eine Kultur sucht die Ringelflechte, einen Pilz, der auf den Menschen übertragbar ist. Die Kultur wächst in ein bis drei Wochen.
 - **Die Zellen**: Eine Punktion mit feiner Nadel in einem Knoten ergibt einen Objektträger, den die Tierärztin oder der Tierarzt unter dem Mikroskop liest, oft noch am selben Tag. Das ist die Zytologie.
 
 Der Präventionsplan für Kätzchen der Praxis umfasst einen Test auf Leukose (FeLV) und auf das Immunschwächevirus der Katze (FIV). Er findet im Labor statt, mit einigen Tropfen Blut.
 
 ## Was ins externe Labor geht
+
+Kot und Haut gehen an ein externes tierärztliches Labor. Dort werden Wurmeier und Parasiten, die Milben der Räude oder die Ringelflechte gesucht, ein Pilz, der auf den Menschen übertragbar ist. Die Kultur auf Ringelflechte wächst in ein bis drei Wochen.
 
 Eine Biopsie ist ein kleines Gewebestück, das unter Narkose oder unter einem Beruhigungsmittel entnommen wird. Die Tierärztin oder der Tierarzt in Payerne bereitet es vor und schickt es an einen Pathologen, der sagt, ob der Knoten gutartig oder bösartig ist. Der Bericht kommt nach fünf bis sieben Werktagen zurück. Sobald er vorliegt, ruft Sie die Tierärztin oder der Tierarzt an, um ihn zu erklären und das weitere Vorgehen vorzuschlagen, zum Beispiel eine [Operation in der Praxis](/de/payerne/leistungen/chirurgie/).
 
@@ -57,13 +57,13 @@ Kommt Ihr Tier während der Öffnungszeiten als Notfall, kommt ein Zuschlag von 
 
 Eine Urin- oder Kotprobe kann am Schalter ohne das Tier abgegeben werden, nach einem Anruf unter [026 660 16 16](tel:+41266601616). Für einen grossen Hund, der schlecht läuft, befindet sich der ebenerdige Halteplatz direkt vor dem Eingang.
 
-Die Resultate werden Ihnen ausgedruckt übergeben oder per E-Mail geschickt. Bewahren Sie sie auf: Der Vergleich der Werte von einem Jahr zum nächsten sagt oft mehr als eine einzelne Blutentnahme.
+Auf Wunsch können Ihnen die Resultate ausgedruckt übergeben oder per E-Mail geschickt werden. Bewahren Sie sie auf: Der Vergleich der Werte von einem Jahr zum nächsten sagt oft mehr als eine einzelne Blutentnahme.
 
 ## Die Fragen, die uns am Schalter gestellt werden
 
 ### Kann ich in der Praxis auf das Resultat warten?
 
-Ja, bei einer Blutentnahme, einer Urin- oder einer Kotuntersuchung. Das Resultat kommt in der Regel während Ihrer Konsultation. Verlangt die Tierärztin oder der Tierarzt zusätzlich ein Röntgenbild, wird es gleich anschliessend neben dem Labor gemacht: siehe [Röntgen in Payerne](/de/payerne/leistungen/roentgen/).
+Ja, bei einer Blutentnahme oder einer Urinuntersuchung. Das Resultat kommt in der Regel während Ihrer Konsultation. Verlangt die Tierärztin oder der Tierarzt zusätzlich ein Röntgenbild, wird es gleich anschliessend neben dem Labor gemacht: siehe [Röntgen in Payerne](/de/payerne/leistungen/roentgen/).
 
 ### Meine Katze gerät in Panik, sobald man sie hält. Wie läuft die Blutentnahme ab?
 
