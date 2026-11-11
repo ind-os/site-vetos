@@ -73,7 +73,7 @@ Zeigt der Ultraschall eine Veränderung, schlägt die Tierärztin oder der Tiera
 
 ## Der Preis
 
-Der Preis eines Ultraschalls hängt vom untersuchten Organ und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Untersuchung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis eines Ultraschalls hängt vom untersuchten Organ und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Untersuchung. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -101,16 +101,20 @@ Er ist die einzige Untersuchung, die sagt, woher das Geräusch kommt. Bei der Ka
 
 Ja, im Wesentlichen: Die Tierärztin oder der Tierarzt sieht die Organe live und erklärt Ihnen, was sie oder er beobachtet. Eine während der Untersuchung entnommene Probe braucht zusätzlich die Zeit ihrer Analyse.
 
+### Mein Tier hat am Morgen der Untersuchung gefressen. Was nun?
+
+Sagen Sie es bei der Ankunft. Beim Ultraschall des Bauchs kann das Gas der Verdauung gewisse Organe verdecken. Die Tierärztin oder der Tierarzt entscheidet dann, die Untersuchung trotzdem zu machen, nur das gut Sichtbare anzuschauen oder einen neuen Termin festzulegen. Für das Herz oder eine Trächtigkeit stört die Mahlzeit nicht.
+
 ## Die Praxen mit Ultraschall
 
-- [Bussigny](/de/bussigny/leistungen/): Ultraschall von Bauch, Trächtigkeit und Herz. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Ultraschall in der Praxis. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): Ultraschall in der Praxis. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Ultraschallgerät, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Ultraschallgerät in der Praxis, Trächtigkeitsultraschall mit Konsultation. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/ultraschall/): Ultraschall in der Praxis. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Ultraschall in der Praxis. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): vollständiger Bauchultraschall, Trächtigkeits- und Herzultraschall. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/ultraschall/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 Die Untersuchung findet also in Ihrer gewohnten Praxis statt, bei der Tierärztin oder dem Tierarzt, die oder der Ihr Tier betreut.
 

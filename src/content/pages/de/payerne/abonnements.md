@@ -26,7 +26,6 @@ Ihr Welpe oder Ihr Kätzchen ist gerade bei Ihnen eingezogen: Der Präventionspl
 - Die Entwurmungen, im Rhythmus, den die Tierärztin oder der Tierarzt festlegt.
 - Die Begleitung des Wachstums, mit 10 % Rabatt auf das empfohlene Futter.
 - Der [Mikrochip](/de/payerne/leistungen/praevention/), der Pass und die Registrierung: AMICUS für den Hund, ANIS für die Katze.
-- Eine Erinnerung per SMS, WhatsApp oder E-Mail vor jeder geplanten Behandlung.
 - 10 % Rabatt auf Mittel gegen Flöhe und Zecken, ausgenommen Saisonangebote.
 - 5 % Rabatt auf die übrigen Behandlungen und Produkte der Praxis.
 
@@ -92,6 +91,6 @@ In Payerne kostet der Plan 515 Franken für das Jahr, mit unbegrenzten Konsultat
 
 ### Haben die anderen Praxen dieselben Preise?
 
-Der Basisplan kostet in allen Praxen von Vetmint 515 Franken; der Preis mancher Optionen ändert sich von Praxis zu Praxis. Jede Praxis veröffentlicht ihre eigenen auf ihrer Abonnement-Seite, über die [Liste der Praxen](/de/praxen/).
+Der Basisplan kostet in allen Praxen von Vetmint 515 Franken. Der Preis der Optionen steht auf der Abonnement-Seite jeder Praxis, über die [Liste der Praxen](/de/praxen/).
 
 [Einen Termin vereinbaren](/de/payerne/termin/)

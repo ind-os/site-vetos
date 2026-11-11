@@ -30,7 +30,7 @@ Die Grundimpfung des Hundes schützt vor Staupe, ansteckender Leberentzündung, 
 
 Bei der Katze unterscheidet die Preisliste von Payerne zwei Fälle. Die Wohnungskatze wird gegen Katzenseuche und Katzenschnupfen geimpft. Die Katze, die in einen Garten oder in die Broye-Landschaft hinausgeht, begegnet anderen Katzen: Sie erhält zusätzlich die Leukoseimpfung.
 
-Die Etikette des Impfstoffs kommt in den Heimtierausweis, zusammen mit dem Datum der Auffrischung. Die Praxis erinnert Sie per SMS, WhatsApp oder E-Mail.
+Die Etikette des Impfstoffs kommt in den Heimtierausweis, zusammen mit dem Datum der Auffrischung.
 
 ## Der Mikrochip
 

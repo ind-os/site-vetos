@@ -69,7 +69,7 @@ Die Operation verändert den Charakter des Tieres nicht. Sie senkt seinen Energi
 
 ### Konsultation und Voruntersuchungen
 
-Die Tierärztin oder der Tierarzt untersucht das Tier und entscheidet, ob eine Operation sinnvoll ist. Eine [Blutentnahme](/de/leistungen/blutanalysen/) vor der Narkose prüft Leber, Nieren und Blutkörperchen. Ein Röntgen oder ein Ultraschall zeigt einen verschluckten Gegenstand oder die Ausdehnung eines Knotens. Danach erhalten Sie eine schriftliche Offerte. Bei einem Notfall geschieht all das am selben Tag.
+Die Tierärztin oder der Tierarzt untersucht das Tier und entscheidet, ob eine Operation sinnvoll ist. Eine [Blutentnahme](/de/leistungen/blutanalysen/) vor der Narkose prüft Leber, Nieren und Blutkörperchen. Ein Röntgen oder ein Ultraschall zeigt einen verschluckten Gegenstand oder die Ausdehnung eines Knotens. Bei einem Notfall geschieht all das am selben Tag.
 
 ### Der Operationstag
 
@@ -80,8 +80,6 @@ Während der ganzen Operation überwacht eine Person des Teams Herz, Atmung, Sau
 ### Das Aufwachen
 
 Das Tier wacht unter Aufsicht im Warmen auf. Die Praxis ruft Sie an und sagt, wie das Aufwachen verlaufen ist. Nach einer Kastration holen Sie das Tier am Ende des Tages ab. Nach einer Darmoperation bleibt es oft zwei bis vier Tage in [stationärer Betreuung](/de/leistungen/stationaere-betreuung/).
-
-In der Praxis Lac-de-Joux werden manche Bauchoperationen laparoskopisch durchgeführt: durch kleine Schnitte, mit einer Kamera. Die Narbe ist kürzer und der Schmerz geringer.
 
 ## Die Vorbereitung
 
@@ -101,7 +99,7 @@ Rufen Sie die Praxis an, wenn die Wunde blutet, aufgeht, anschwillt oder nässt,
 
 ## Der Preis
 
-Eine Operation ist von Tier zu Tier verschieden, und die Preise sind nicht in allen Praxen gleich. Vor der Operation erhalten Sie eine schriftliche Offerte. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/). Für eine Operation, die dort nicht aufgeführt ist, erhalten Sie in der Praxis eine Offerte.
 
 ## Häufige Fragen
 
@@ -127,20 +125,20 @@ Ziehen Sie nie an einem Faden, der aus Maul oder After ragt: Sie könnten den Da
 
 ### Darf ich mein stationär betreutes Tier besuchen?
 
-Ja, nach Absprache mit der Praxis. In Fribourg Ouest gibt es einen Besuchsraum für Halterinnen und Halter.
+Ja, nach Absprache mit der Praxis.
 
 ## Die Praxen, die operieren
 
 Alle acht Praxen haben einen Operationssaal und eine stationäre Betreuung vor Ort.
 
-- [Bussigny](/de/bussigny/leistungen/): Operationssaal und stationäre Betreuung vor Ort. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): der Laser für die Wundheilung nach der Operation. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): ein externer Anästhesist kommt für komplexe Narkosen. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: eine auf Chirurgie spezialisierte Tierärztin und nach Tierart getrennte Boxen. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: ein Operationssaal mit zwei Zonen und die Laparoskopie. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): ein Vorbereitungsraum, verbunden mit Operationssaal und Röntgen. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Operationssaal und stationäre Betreuung vor Ort. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): der Laser für die Wundheilung nach der Operation. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

@@ -46,7 +46,7 @@ Die Endoskopie eignet sich für Hunde und Katzen jeder Grösse. Bei Kaninchen un
 
 ### Die Konsultation vorher
 
-Die Tierärztin oder der Tierarzt untersucht das Tier, liest die bisherigen Analysen und entscheidet, ob die Endoskopie die gestellte Frage beantwortet. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft vor der Narkose oft Leber, Nieren und Gerinnung. Sie erhalten eine schriftliche Offerte.
+Die Tierärztin oder der Tierarzt untersucht das Tier, liest die bisherigen Analysen und entscheidet, ob die Endoskopie die gestellte Frage beantwortet. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft vor der Narkose oft Leber, Nieren und Gerinnung. Sie erhalten eine Offerte.
 
 ### Die Untersuchung
 
@@ -86,7 +86,7 @@ Rufen Sie die Praxis an, wenn das Tier mehrmals erbricht, stark aus der Nase blu
 
 ## Der Preis
 
-Der Preis hängt vom untersuchten Bereich, der Dauer der Narkose und der Anzahl Biopsien ab. Vor der Untersuchung erhalten Sie eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis hängt vom untersuchten Bereich, der Dauer der Narkose und der Anzahl Biopsien ab. Vor der Untersuchung erhalten Sie in der Praxis eine Offerte. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -112,8 +112,8 @@ Ihre gewohnte Tierärztin oder Ihr gewohnter Tierarzt untersucht das Tier und se
 
 ## Die Praxen, die sie anbieten
 
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: das Endoskop, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin in Fribourg Ouest](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: das Endoskop, mit Ultraschallgerät und Labor in derselben Praxis. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
 
 Die anderen Vetmint-Praxen überweisen ihre Patienten für die Endoskopie nach Fribourg Ouest oder Lac-de-Joux. Wer Ihr Tier betreut, sendet das Dossier und die Analysen.
 

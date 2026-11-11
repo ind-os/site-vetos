@@ -49,7 +49,7 @@ Une urgence ne s'attend pas : un animal qui respire mal, saigne ou a avalé un 
 
 ## Dans quelle zone
 
-Le forfait de déplacement couvre la Riviera vaudoise (de Vevey à Montreux) et le district de la Broye, autour de Payerne et de Domdidier. Ailleurs, chaque cabinet se déplace dans les communes voisines, dans un rayon de 15 kilomètres au même forfait. Le vétérinaire qui vient chez vous fait partie de l'équipe du cabinet le plus proche : il retrouve ensuite votre animal en consultation si besoin.
+Chaque cabinet se déplace dans les communes voisines, contre un forfait de déplacement. Votre cabinet vous dit si votre commune est desservie. Le vétérinaire qui vient chez vous fait partie de l'équipe du cabinet le plus proche : il retrouve ensuite votre animal en consultation si besoin.
 
 ## Comment se passe la visite
 
@@ -89,7 +89,7 @@ Une visite à domicile ne remplace pas non plus une urgence. Un animal qui respi
 
 ## Le prix
 
-Une visite à domicile ajoute un forfait de déplacement au prix des soins. Le cabinet vous annonce le total au moment de fixer la visite. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Une visite à domicile ajoute un forfait de déplacement au prix des soins. Le cabinet vous annonce le total au moment de fixer la visite. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

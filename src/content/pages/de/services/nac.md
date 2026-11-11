@@ -56,7 +56,7 @@ Das Frettchen, das reist, erhält wie Hund und Katze eine Tollwutimpfung. Ein Pa
 
 **Die Zähne.** Alle Praxen behandeln die Zähne von Kaninchen und Nagern: Kürzen zu langer Zähne, Zahnröntgen, Extraktionen, Behandlung von Abszessen. Siehe [Zahnerkrankungen beim Kaninchen](/de/ratgeber/zahnerkrankungen-kaninchen/).
 
-**Die stationäre Betreuung.** Die acht Praxen nehmen Heimtiere stationär auf. In Fribourg Ouest ist der Bereich für die stationäre Betreuung dafür ausgestattet, stark geschwächte Heimtiere aufzuwärmen, mit Flüssigkeit zu versorgen und zu füttern. Das Team überwacht dort den Schmerz und begrenzt den Stress dieser empfindlichen Tiere.
+**Die stationäre Betreuung.** Die acht Praxen nehmen Heimtiere stationär auf.
 
 ## Den Besuch vorbereiten
 
@@ -78,7 +78,7 @@ Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb finden Sie auf
 
 ## Der Preis
 
-Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart und der Praxis ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -104,7 +104,7 @@ Ja. Die Narkose eines Tieres von 100 Gramm erfordert angepasstes Material und an
 
 ### Wo kann ich meinen Papagei behandeln lassen?
 
-In der Vetmint-Praxis in Ihrer Nähe. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels. In Fribourg Ouest umfasst sie bei Bedarf eine Blutentnahme, eine Untersuchung auf ansteckende Krankheiten, das Setzen eines Mikrochips und die Geschlechtsbestimmung.
+In der Vetmint-Praxis in Ihrer Nähe. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels.
 
 ## Die Praxen und ihre Heimtierpraxis
 

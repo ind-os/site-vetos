@@ -91,7 +91,7 @@ Une récompense après chaque séance installe l'habitude. Le vétérinaire vous
 
 ## Le prix
 
-Le prix d'un détartrage dépend du temps passé, des radiographies des dents et des extractions éventuelles. Le vétérinaire vous remet un devis après l'examen de la bouche. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'un détartrage dépend du temps passé, des radiographies des dents et des extractions éventuelles. Il se fait sur devis, au cabinet, après l'examen de la bouche. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -123,14 +123,14 @@ C'est une malocclusion : les dents ne s'usent plus et blessent la joue ou la la
 
 Les huit cabinets Vetmint pratiquent le détartrage aux ultrasons, le polissage, les radiographies dentaires et les extractions.
 
-- [Bussigny](/bussigny/services/) : détartrage aux ultrasons et radiographies dentaires sur place. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : forfait d'extraction totale. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : un médecin-dentiste, qui exerce auprès des humains à Fribourg, assiste l'équipe lors des interventions complexes. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : médecine avancée des NAC, pour les dents difficiles des lapins, des rongeurs, des furets et de certains lézards. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : forfait d'extraction totale. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : détartrage dans la zone de soins, qui réunit la salle de préparation, la salle de chirurgie et la salle de radiologie. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : forfait d'extraction totale. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : laser pour les gencives du chat. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

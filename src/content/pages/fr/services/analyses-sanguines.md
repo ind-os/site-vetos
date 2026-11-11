@@ -80,7 +80,7 @@ Un résultat anormal ne veut pas toujours dire maladie. Une valeur peut monter a
 
 ## Le prix
 
-Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les mesure. Le vétérinaire vous l'annonce avant le prélèvement. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'une analyse dépend des valeurs mesurées et du laboratoire qui les mesure. Le vétérinaire vous l'annonce avant le prélèvement. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -102,7 +102,7 @@ Souvent, elle oriente : une boule de graisse se reconnaît en quelques minutes.
 
 ### Peut-on faire une prise de sang à un lapin ou à un oiseau ?
 
-Oui, dans les huit cabinets. Le volume prélevé est adapté au poids de l'animal. Pour la médecine avancée des NAC, le cabinet de Fribourg Ouest a des analyseurs adaptés aux lapins, aux rongeurs, aux oiseaux et aux reptiles.
+Oui, dans les huit cabinets. Le volume prélevé est adapté au poids de l'animal.
 
 ### Puis-je apporter un échantillon d'urine sans mon animal ?
 
@@ -112,16 +112,14 @@ Oui, après un appel au cabinet. Le vétérinaire qui suit votre animal choisit 
 
 Chaque cabinet Vetmint a son laboratoire pour le sang, l'urine, les selles et la peau. Toutes envoient les biopsies à un laboratoire externe.
 
-| Cabinet | Particularité | Rendez-vous |
-|---|---|---|
-| [Bussigny](/bussigny/services/) | test sanguin et analyse d'urine compris dans les abonnements | [prendre rendez-vous](/bussigny/rendez-vous/) |
-| [La Chaux-de-Fonds](/chauxdefonds/services/) | analyses de sang, d'urine et de selles sur place | [prendre rendez-vous](/chauxdefonds/rendez-vous/) |
-| [Domdidier](/domdidier/services/) | examen de la peau au microscope, cultures de champignons | [prendre rendez-vous](/domdidier/rendez-vous/) |
-| [Fribourg Ouest](/fribourg/services/), Givisiez | analyseurs pour chiens, chats, lapins, rongeurs, oiseaux et reptiles ; bilan sanguin à la première consultation d'un perroquet | [prendre rendez-vous](/fribourg/rendez-vous/) |
-| [Lac-de-Joux](/lacdejoux/services/), L'Abbaye | laboratoire d'analyses au cabinet | [prendre rendez-vous](/lacdejoux/rendez-vous/) |
-| [Payerne](/payerne/services/) | le laboratoire transmet les résultats directement à l'ordinateur du cabinet | [prendre rendez-vous](/payerne/rendez-vous/) |
-| [Saint-Blaise](/saintblaise/services/) | cytologie des ponctions à l'aiguille fine, analyses de selles | [prendre rendez-vous](/saintblaise/rendez-vous/) |
-| [Saint-Légier](/saintlegier/services/) | test sanguin compris dans les abonnements adultes | [prendre rendez-vous](/saintlegier/rendez-vous/) |
+- [Bussigny](/bussigny/services/) : [prendre rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [prendre rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [prendre rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), Givisiez : [prendre rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), L'Abbaye : [prendre rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [prendre rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [prendre rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [prendre rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

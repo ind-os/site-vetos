@@ -91,7 +91,7 @@ Eine Belohnung nach jeder Sitzung festigt die Gewohnheit. Die Tierärztin oder d
 
 ## Der Preis
 
-Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgenbildern und von allfälligen Extraktionen ab. Die Tierärztin oder der Tierarzt gibt Ihnen nach der Untersuchung des Mauls einen Kostenvoranschlag. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgenbildern und von allfälligen Extraktionen ab. Sie erhalten nach der Untersuchung des Mauls in der Praxis einen Kostenvoranschlag. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -123,14 +123,14 @@ Das ist eine Fehlstellung: Die Zähne nutzen sich nicht mehr ab und verletzen di
 
 Die acht Praxen Vetmint führen die Zahnsteinentfernung mit Ultraschall, das Polieren, Zahnröntgenbilder und Extraktionen durch.
 
-- [Bussigny](/de/bussigny/leistungen/): Zahnsteinentfernung mit Ultraschall und Zahnröntgen vor Ort. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Pauschale für die Extraktion aller Zähne. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): Ein Zahnarzt, der in Freiburg bei Menschen arbeitet, unterstützt das Team bei komplexen Eingriffen. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: erweiterte Heimtiermedizin, für schwierige Zahnfälle bei Kaninchen, Nagern, Frettchen und gewissen Echsen. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Pauschale für die Extraktion aller Zähne. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): Zahnsteinentfernung in der Behandlungszone, die den Vorbereitungsraum, den Operationssaal und den Röntgenraum vereint. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Pauschale für die Extraktion aller Zähne. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): Laser für das Zahnfleisch der Katze. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

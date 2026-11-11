@@ -44,7 +44,7 @@ Die Operation macht ein Bein stabil und schmerzfrei. Sie macht es nicht immer wi
 
 Die Tierärztin oder der Tierarzt beobachtet das Tier beim Gehen und tastet dann jedes Gelenk ab. Gesucht werden Schmerz, Schwellung und abnormale Beweglichkeit eines Knies. Ein [Röntgenbild](/de/leistungen/roentgen/) zeigt den Bruch oder den Zustand des Gelenks; es entsteht oft unter Sedation (einem Beruhigungsmittel, das das Tier entspannt, ohne es ganz einschlafen zu lassen), um das Bein richtig zu lagern.
 
-Die spezialisierte Konsultation in Chirurgie in Fribourg Ouest dient dem Entscheid über die Operation. Die Chirurgin erklärt die gewählte Technik, die Dauer der Genesung und die Risiken. Sie erhalten eine schriftliche Offerte. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft, ob das Tier die Narkose verträgt.
+Die spezialisierte Konsultation in Chirurgie in Fribourg Ouest dient dem Entscheid über die Operation. Die Chirurgin erklärt die gewählte Technik, die Dauer der Genesung und die Risiken. Sie erhalten eine Offerte. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft, ob das Tier die Narkose verträgt.
 
 ### Die Operation
 
@@ -78,7 +78,7 @@ Ein am Gelenk operiertes Tier behält manchmal Arthrose. Sie wird mit tiergerech
 
 ## Der Preis
 
-Der Preis hängt von der Operation, dem eingesetzten Material und der Grösse des Tieres ab. Die Chirurgin gibt Ihnen nach der Konsultation eine schriftliche Offerte. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis hängt von der Operation, dem eingesetzten Material und der Grösse des Tieres ab. Sie erhalten nach der Konsultation bei der Chirurgin eine Offerte in der Praxis. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

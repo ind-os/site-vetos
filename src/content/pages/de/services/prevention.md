@@ -22,7 +22,7 @@ Alle acht Praxen empfangen alle Heimtiere: Hunde, Katzen, Kaninchen, Nager, Fret
 
 | Situation | Was der Besuch bringt | In welchem Rhythmus |
 |---|---|---|
-| Welpe oder Kätzchen zieht ein | erste Untersuchung, Impfungen, Entwurmung, Mikrochip, Rat zur Fütterung | in der Woche nach dem Einzug |
+| Ein neues Tier zieht ein | erste Untersuchung, Impfungen, Entwurmung, Mikrochip, Rat zur Fütterung | in der Woche nach dem Einzug |
 | Gesundes erwachsenes Tier | vollständiger Check, Gewicht, Zähne, Auffrischimpfungen | einmal pro Jahr |
 | Älterer Hund oder ältere Katze, ab 7 Jahren | Früherkennung von Krankheiten, die still beginnen, oft mit einer Blutentnahme | ein- bis zweimal pro Jahr |
 | Tier reist ins Ausland | Mikrochip, Tollwutimpfung, Heimtierausweis | mindestens einen Monat vor der Abreise |
@@ -30,13 +30,18 @@ Alle acht Praxen empfangen alle Heimtiere: Hunde, Katzen, Kaninchen, Nager, Fret
 
 ## Warum Vorsorge zählt
 
-Viele Krankheiten von Hund und Katze lassen sich besser behandeln, wenn sie früh erkannt werden, bevor das Tier etwas zeigt. Der Jahrescheck vergleicht Gewicht, Zähne und Untersuchung von einem Jahr zum nächsten. Einige Beispiele dafür, was er aufdeckt:
+Viele Krankheiten von Hund und Katze lassen sich besser behandeln, wenn sie früh erkannt werden, bevor das Tier etwas zeigt. Die Vorsorge sucht sie in zwei Schritten.
 
-- **Die Schilddrüsenüberfunktion der Katze** (eine Schilddrüse, die zu viele Hormone bildet): Die Katze nimmt ab, obwohl sie mehr frisst.
-- **Die Nierenkrankheit der älteren Katze**: Sie trinkt und uriniert etwas mehr, was die Halterin oder der Halter der Wärme zuschreibt.
+Der Jahrescheck besteht aus Fragen und einer allgemeinen Untersuchung. Die Tierärztin oder der Tierarzt fragt Sie, wie das Tier frisst, trinkt, sich bewegt und sich verhält. Dann folgt die Untersuchung: Gewicht, Zähne, Haut, Herz, Gelenke. Von einem Jahr zum nächsten wird verglichen. Dieser Check erkennt zum Beispiel:
+
 - **Die Arthrose** (schmerzhafte Abnutzung der Gelenke): Der Hund steht langsamer auf, die Katze springt nicht mehr aufs Bett.
 - **Zahnstein und rotes Zahnfleisch**: Mundgeruch weist oft auf eine schmerzhafte Entzündung hin.
 - **Übergewicht**: Zwei Kilo zu viel bei einer Katze von vier Kilo belasten ihre Gelenke und erhöhen das Diabetesrisiko.
+
+Andere Krankheiten zeigen sich bei der Untersuchung nicht. Sie erfordern ergänzende Untersuchungen, meist eine [Blutentnahme](/de/leistungen/blutanalysen/). Die Tierärztin oder der Tierarzt schlägt sie je nach Alter des Tieres und Ergebnis des Checks vor. Sie decken zum Beispiel auf:
+
+- **Die Schilddrüsenüberfunktion der Katze** (eine Schilddrüse, die zu viele Hormone bildet): Die Katze nimmt ab, obwohl sie mehr frisst.
+- **Die Nierenkrankheit der älteren Katze**: Sie trinkt und uriniert etwas mehr, was die Halterin oder der Halter der Wärme zuschreibt.
 
 ## Die Impfungen des Hundes
 
@@ -50,14 +55,6 @@ Die Grundimpfung gilt für alle Hunde, in der Stadt wie auf dem Land. Eine einzi
 
 Die Tollwutimpfung kommt hinzu, um eine Grenze zu überqueren. Impfungen gegen Leishmaniose und Babesiose werden für einen Hund besprochen, der ans Mittelmeer reist oder vielen Zecken begegnet.
 
-| Alter des Welpen | Impfung |
-|---|---|
-| 8 Wochen | erste Spritze der Grundimpfung |
-| 12 Wochen | zweite Spritze; Tollwut möglich für einen Welpen, der reisen wird |
-| 16 Wochen | dritte Spritze, weil die Abwehrstoffe der Mutter die ersten blockieren können |
-| 12 bis 15 Monate | erste vollständige Auffrischung |
-| Danach | Leptospirose jedes Jahr; Staupe, Leberentzündung und Parvovirose je nach Impfstoff alle ein bis drei Jahre |
-
 ## Die Impfungen der Katze
 
 Die Wahl hängt davon ab, wem die Katze begegnet: anderen Katzen, einer Pension, einer Grenze.
@@ -70,7 +67,7 @@ Die Wahl hängt davon ab, wem die Katze begegnet: anderen Katzen, einer Pension,
 
 Die Katzenseuche ist eine virale Magen-Darm-Entzündung, beim Kätzchen oft tödlich. Der Katzenschnupfen wird von zwei Viren verursacht und bringt Ausfluss aus Nase und Augen. Die Katzenleukose (FeLV) schwächt die Abwehrkräfte; keine Behandlung beseitigt sie. Vor der ersten Leukoseimpfung zeigt eine Blutentnahme, der FIV/FeLV-Test, ob die Katze bereits Trägerin ist.
 
-Das Kätzchen erhält eine Spritze mit etwa 8 Wochen, eine zweite drei bis vier Wochen später, oft eine dritte mit etwa 16 Wochen und eine Auffrischung nach einem Jahr. Die Praxis erinnert Sie vor jedem Termin per SMS, WhatsApp oder E-Mail.
+Die Tierärztin oder der Tierarzt legt mit Ihnen den Impfplan des Kätzchens und die Auffrischungen fest.
 
 ## Der Mikrochip
 
@@ -78,7 +75,7 @@ Der Mikrochip ist so gross wie ein Reiskorn. Er hat weder Batterie noch Ortungss
 
 Der Mikrochip ist für jeden Hund in der Schweiz Pflicht und wird bei der Züchterin oder beim Züchter vor 3 Monaten gesetzt. Für die Katze wird er empfohlen, oft mit der ersten Impfung oder während der Kastration. Für eine Reise brauchen Hund, Katze oder Frettchen den Mikrochip, dann die Tollwutimpfung, dann 21 Tage Wartezeit. Eine Impfung vor dem Setzen des Mikrochips zählt nicht.
 
-Mehrere Praxen setzen auch einen Mini-Chip für Kätzchen, Kaninchen oder Vögel. Sie bieten zudem den Thermochip an, einen Mikrochip, der zusätzlich die Temperatur misst.
+Es gibt auch einen Mini-Chip für Kätzchen, Kaninchen oder Vögel und den Thermochip, einen Mikrochip, der zusätzlich die Temperatur misst. Ihre Praxis sagt Ihnen, ob sie diese setzt.
 
 ## Züchterinnen, Züchter und Würfe
 
@@ -111,7 +108,7 @@ Rufen Sie die Praxis sofort an, wenn Gesicht oder Augenlider anschwellen, wenn d
 
 ## Der Preis
 
-Die Preise für Check, Impfungen und Mikrochip sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/). Der Präventionsplan für Welpen und Kätzchen fasst die Behandlungen des ersten Jahres zusammen, beschrieben auf der Abonnement-Seite Ihrer Praxis.
+Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/). Der Präventionsplan für Welpen und Kätzchen fasst die Behandlungen des ersten Jahres zusammen, beschrieben auf der Abonnement-Seite Ihrer Praxis.
 
 ## Häufige Fragen
 
@@ -147,14 +144,14 @@ Ja. Seine Abwehrkräfte lassen mit dem Alter nach, und Krankheiten der Nieren, d
 
 Alle acht Vetmint-Praxen machen Checks, Impfungen und Mikrochips nach Termin.
 
-- [Bussigny](/de/bussigny/leistungen/): ein Online-Kalender nur für Impfungen. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): die Impfkonsultation lässt sich online buchen. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): Konsultationen auf Französisch, Portugiesisch und Englisch. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: ein Tierarzt mit Ausbildung in Heimtiermedizin, für schwierige Fälle. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Labor vor Ort. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): Mini-Chip und Thermochip. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Mini-Chip und Thermochip. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): die Online-Buchung dient den Impfungen. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

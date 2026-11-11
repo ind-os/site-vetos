@@ -44,7 +44,7 @@ L'opération rend une patte stable et sans douleur. Elle ne rend pas toujours un
 
 Le vétérinaire regarde l'animal marcher, puis palpe chaque articulation. Il cherche la douleur, le gonflement et le jeu anormal d'un genou. Une [radiographie](/services/radiographie/) montre la fracture ou l'état de l'articulation ; elle se fait souvent sous sédation (un calmant qui détend l'animal sans l'endormir complètement), pour bien placer la patte.
 
-La consultation spécialisée en chirurgie de Fribourg Ouest sert à décider de l'opération. La chirurgienne explique la technique choisie, la durée de la convalescence et les risques. Vous recevez un devis écrit. Une [prise de sang](/services/analyses-sanguines/) vérifie que l'animal supporte l'anesthésie.
+La consultation spécialisée en chirurgie de Fribourg Ouest sert à décider de l'opération. La chirurgienne explique la technique choisie, la durée de la convalescence et les risques. Vous recevez un devis. Une [prise de sang](/services/analyses-sanguines/) vérifie que l'animal supporte l'anesthésie.
 
 ### L'opération
 
@@ -78,7 +78,7 @@ Un animal opéré d'une articulation garde parfois de l'arthrose. Le vétérinai
 
 ## Le prix
 
-Le prix dépend de l'opération, du matériel posé et de la taille de l'animal. La chirurgienne vous remet un devis écrit après la consultation. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix dépend de l'opération, du matériel posé et de la taille de l'animal. Il se fait sur devis, au cabinet, après la consultation avec la chirurgienne. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

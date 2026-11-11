@@ -79,7 +79,7 @@ Comme toute opération, la stérilisation comporte des risques : anesthésie, i
 
 La stérilisation de la lapine est un forfait. Il comprend l'examen, l'anesthésie gazeuse surveillée, l'opération, l'antidouleur, l'anti-inflammatoire et deux contrôles. La castration du lapin suit les mêmes étapes. Les autres traitements éventuels s'ajoutent au forfait.
 
-Le prix varie d'un cabinet à l'autre. Il figure sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
+Le prix figure sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 

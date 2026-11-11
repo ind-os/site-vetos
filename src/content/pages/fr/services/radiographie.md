@@ -75,7 +75,7 @@ Les images restent dans le dossier de votre animal. Elles servent de comparaison
 
 ## Le prix
 
-Le prix d'une radiographie dépend du nombre de clichés et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant de faire les clichés. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'une radiographie dépend du nombre de clichés et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant de faire les clichés. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -107,14 +107,14 @@ Souvent oui, avec une sédation courte : la tête doit rester parfaitement droi
 
 Les huit cabinets Vetmint ont une radiographie numérique et prennent les clichés officiels de dysplasie.
 
-- [Bussigny](/bussigny/services/) : pack de cinq radiographies dans l'abonnement Senior. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : radiographies dentaires des lapins et des rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : clichés officiels des hanches et des coudes. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : radiographie numérique, salle d'opération équipée pour la chirurgie des os. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : radiographie numérique à côté de l'échographe et du laboratoire. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : salle de radiologie dans la zone de soins, reliée à la salle de préparation. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : clichés officiels des hanches et des coudes. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : salle de radiologie numérique, dans la même aile que le laboratoire et la salle d'hospitalisation. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

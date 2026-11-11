@@ -75,7 +75,7 @@ Die Bilder bleiben in der Akte Ihres Tieres. Sie dienen bei der nächsten Kontro
 
 ## Der Preis
 
-Der Preis eines Röntgenbilds hängt von der Anzahl Aufnahmen und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor den Aufnahmen. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis eines Röntgenbilds hängt von der Anzahl Aufnahmen und einer allfälligen Sedation ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor den Aufnahmen. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -107,14 +107,14 @@ Oft ja, mit einer kurzen Sedation: Der Kopf muss vollkommen gerade bleiben. Es f
 
 Die acht Praxen von Vetmint röntgen digital und machen die offiziellen Dysplasie-Aufnahmen.
 
-- [Bussigny](/de/bussigny/leistungen/): Paket mit fünf Röntgenbildern im Senior-Abonnement. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Zahnröntgenbilder bei Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: digitales Röntgen, Operationssaal für die Knochenchirurgie ausgestattet. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: digitales Röntgen neben dem Ultraschallgerät und dem Labor. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): Röntgenraum im Behandlungsbereich, mit dem Vorbereitungsraum verbunden. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): offizielle Aufnahmen von Hüften und Ellbogen. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): digitaler Röntgenraum, im selben Flügel wie das Labor und der Raum für die stationäre Betreuung. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

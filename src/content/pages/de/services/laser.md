@@ -75,7 +75,7 @@ Der Laser ersetzt keine Schmerzmittel. Er ergänzt sie. Bei einem Hund mit Arthr
 
 ## Der Preis
 
-Der Preis hängt von der Anzahl Sitzungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen in der ersten Sitzung, zusammen mit dem vorgeschlagenen Rhythmus. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis hängt von der Anzahl Sitzungen ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen in der ersten Sitzung, zusammen mit dem vorgeschlagenen Rhythmus. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -107,9 +107,9 @@ Ja. Das Kaninchen verträgt die Sitzung gut, auf einem Tuch liegend, ohne starke
 
 Drei Praxen haben ein therapeutisches Lasergerät. Die anderen Praxen von Vetmint verweisen Sie an die nächstgelegene.
 
-- **[La Chaux-de-Fonds](/de/chauxdefonds/leistungen/)**, in den Neuenburger Bergen: Hunde, Katzen und Heimtiere. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
-- **[Domdidier](/de/domdidier/leistungen/)**, in der Freiburger Broye: Hunde, Katzen und Heimtiere. [Termin in Domdidier](/de/domdidier/termin/)
-- **[Saint-Légier](/de/saintlegier/leistungen/)**, oberhalb von Vevey: Hunde, Katzen und Heimtiere. [Termin in Saint-Légier](/de/saintlegier/termin/)
+- **[La Chaux-de-Fonds](/de/chauxdefonds/leistungen/)**, in den Neuenburger Bergen: [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
+- **[Domdidier](/de/domdidier/leistungen/)**, in der Freiburger Broye: [Termin in Domdidier](/de/domdidier/termin/)
+- **[Saint-Légier](/de/saintlegier/leistungen/)**, oberhalb von Vevey: [Termin in Saint-Légier](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

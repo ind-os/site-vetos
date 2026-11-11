@@ -56,7 +56,7 @@ Le furet qui voyage reçoit un vaccin contre la rage, comme le chien et le chat.
 
 **Les dents.** Tous les cabinets soignent les dents des lapins et des rongeurs : limage des dents trop longues, radiographie dentaire, extractions, traitement des abcès. Voir [la maladie dentaire du lapin](/conseils/maladie-dentaire-du-lapin/).
 
-**L'hospitalisation.** Les huit cabinets hospitalisent les NAC. À Fribourg Ouest, l'espace d'hospitalisation est équipé pour réchauffer, réhydrater et nourrir les NAC très affaiblis. L'équipe y surveille la douleur et limite le stress de ces animaux sensibles.
+**L'hospitalisation.** Les huit cabinets hospitalisent les NAC.
 
 ## Préparer la visite
 
@@ -78,7 +78,7 @@ Pendant les heures d'ouverture, appelez votre cabinet. En dehors, la page [urgen
 
 ## Le prix
 
-Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC varie selon l'espèce et le cabinet. Le vétérinaire vous annonce le prix avant chaque soin. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC dépend de l'espèce. Le vétérinaire vous annonce le prix avant chaque soin. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -104,7 +104,7 @@ Oui. L'anesthésie d'un animal de 100 grammes demande du matériel et des doses 
 
 ### Où faire soigner mon perroquet ?
 
-Dans le cabinet Vetmint le plus proche de chez vous. La première consultation fait le point sur la cage, l'alimentation, la provenance et le comportement de l'oiseau. À Fribourg Ouest, elle comprend au besoin une prise de sang, un dépistage des maladies contagieuses, la pose d'une puce et la détermination du sexe.
+Dans le cabinet Vetmint le plus proche de chez vous. La première consultation fait le point sur la cage, l'alimentation, la provenance et le comportement de l'oiseau.
 
 ## Les cabinets et leur pratique des NAC
 

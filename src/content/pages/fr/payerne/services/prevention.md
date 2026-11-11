@@ -30,7 +30,7 @@ Le vaccin de base du chien protège contre la maladie de Carré, l'hépatite con
 
 Pour le chat, la grille de Payerne distingue deux cas. Le chat d'intérieur est vacciné contre le typhus et le coryza. Le chat qui sort dans un jardin ou dans la campagne broyarde croise d'autres chats : il reçoit en plus le vaccin contre la leucose.
 
-Le vétérinaire colle l'étiquette du vaccin dans le passeport et y inscrit la date du rappel. Le cabinet vous rappelle l'échéance par SMS, WhatsApp ou e-mail.
+Le vétérinaire colle l'étiquette du vaccin dans le passeport et y inscrit la date du rappel.
 
 ## La puce électronique
 

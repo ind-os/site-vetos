@@ -80,7 +80,7 @@ Ein auffälliges Resultat bedeutet nicht immer eine Krankheit. Ein Wert kann nac
 
 ## Der Preis
 
-Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Probenentnahme. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis einer Analyse hängt von den gemessenen Werten und vom Labor ab. Die Tierärztin oder der Tierarzt nennt ihn Ihnen vor der Probenentnahme. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -102,7 +102,7 @@ Oft gibt sie eine Richtung vor: Ein Fettknoten ist nach wenigen Minuten erkennba
 
 ### Kann man bei einem Kaninchen oder einem Vogel Blut entnehmen?
 
-Ja, in allen acht Praxen. Die entnommene Menge wird dem Gewicht des Tieres angepasst. Für die erweiterte Heimtiermedizin hat die Praxis Fribourg Ouest Analysegeräte, die auf Kaninchen, Nager, Vögel und Reptilien abgestimmt sind.
+Ja, in allen acht Praxen. Die entnommene Menge wird dem Gewicht des Tieres angepasst.
 
 ### Kann ich eine Urinprobe ohne mein Tier abgeben?
 
@@ -112,16 +112,14 @@ Ja, nach einem Anruf in der Praxis. Die Tierärztin oder der Tierarzt, die oder 
 
 Jede Praxis von Vetmint hat ihr Labor für Blut, Urin, Kot und Haut. Alle schicken die Biopsien an ein externes Labor.
 
-| Praxis | Besonderheit | Termin |
-|---|---|---|
-| [Bussigny](/de/bussigny/leistungen/) | Bluttest und Urinuntersuchung in den Abonnementen inbegriffen | [Termin vereinbaren](/de/bussigny/termin/) |
-| [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/) | Blut-, Urin- und Kotuntersuchungen vor Ort | [Termin vereinbaren](/de/chauxdefonds/termin/) |
-| [Domdidier](/de/domdidier/leistungen/) | Untersuchung der Haut unter dem Mikroskop, Pilzkulturen | [Termin vereinbaren](/de/domdidier/termin/) |
-| [Fribourg Ouest](/de/fribourg/leistungen/), Givisiez | Analysegeräte für Hunde, Katzen, Kaninchen, Nager, Vögel und Reptilien; Blutbild bei der ersten Konsultation eines Papageis | [Termin vereinbaren](/de/fribourg/termin/) |
-| [Lac-de-Joux](/de/lacdejoux/leistungen/), L'Abbaye | Untersuchungslabor in der Praxis | [Termin vereinbaren](/de/lacdejoux/termin/) |
-| [Payerne](/de/payerne/leistungen/) | das Labor übermittelt die Resultate direkt an den Computer der Praxis | [Termin vereinbaren](/de/payerne/termin/) |
-| [Saint-Blaise](/de/saintblaise/leistungen/) | Zytologie von Punktionen mit feiner Nadel, Kotuntersuchungen | [Termin vereinbaren](/de/saintblaise/termin/) |
-| [Saint-Légier](/de/saintlegier/leistungen/) | Bluttest in den Abonnementen für Erwachsene inbegriffen | [Termin vereinbaren](/de/saintlegier/termin/) |
+- [Bussigny](/de/bussigny/leistungen/): [Termin vereinbaren](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin vereinbaren](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin vereinbaren](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), Givisiez: [Termin vereinbaren](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), L'Abbaye: [Termin vereinbaren](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin vereinbaren](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin vereinbaren](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin vereinbaren](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

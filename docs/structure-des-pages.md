@@ -202,7 +202,7 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 
 ### Un service, page commune, `service`
 
-- Objectif : la page de référence du groupe sur un soin : ce que c'est, pour quels animaux, comment ça se passe, où le faire. Elle ne donne aucun prix, parce que les prix diffèrent d'un cabinet à l'autre. Les pages de service des cliniques y renvoient et ne la recopient pas.
+- Objectif : la page de référence du groupe sur un soin : ce que c'est, pour quels animaux, comment ça se passe, où le faire. Elle ne donne aucun prix : les prix sont sur les pages Tarifs de chaque cabinet. Les pages de service des cliniques y renvoient et ne la recopient pas.
 - Recherche : « {service} {espèce} ». Title : « {Service} du {espèce} : {déroulement, prix ou âge} | Vetmint ». H1 : « {Service} du {espèce} » ou « {Service} : {précision} ».
 - Volume : 1 200 à 2 100 mots. Script.
 - Liens obligatoires : `/cabinets/`. Script. La page renvoie aussi vers un ou deux conseils santé liés quand ils existent.
@@ -214,9 +214,9 @@ Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc
 5. Le déroulement : étape par étape, qui fait quoi, combien de temps.
 6. La préparation : à jeun ou non, carnet, caisse de transport, jamais à jeun pour un lapin.
 7. Les suites : ce qui est normal, ce qui doit faire rappeler, le contrôle.
-8. Le prix : sans montant. Ce dont le prix dépend, puis la phrase « consultez la page Tarifs de votre cabinet pour plus d'informations », avec le lien vers `/cabinets/`.
+8. Le prix : sans montant. Ce dont le prix dépend, « sur devis, au cabinet » quand le prix dépend du cas, puis la phrase « Les prix figurent sur la page Tarifs de votre cabinet, depuis la liste des cabinets », avec le lien vers `/cabinets/`.
 9. Questions fréquentes : quatre à huit questions en `###`, formulées comme au comptoir.
-10. Les cliniques qui le pratiquent : une ligne par clinique, vers sa page Services et son rendez-vous, avec sa particularité.
+10. Les cliniques qui le pratiquent : une ligne par clinique, vers sa page Services et son rendez-vous, sans particularité. Le site commun ne compare pas les cabinets : ni équipement, ni espace, ni service en plus dans un cabinet. Il nomme seulement les cabinets où se fait un soin que les autres ne font pas, pour que le propriétaire sache où aller.
 11. Prendre rendez-vous : une phrase et le bouton vers `/cabinets/`. Jamais une marque de vaccin ou de médicament, ni un prix absent de la grille.
 
 ### Urgences du groupe, `urgences-groupe`

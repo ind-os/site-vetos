@@ -49,9 +49,7 @@ Chaque animal a sa cage ou son box. Les chats sont séparés des chiens autant q
 
 ## La nuit
 
-À Fribourg Ouest, un vétérinaire travaille le soir et le week-end pour suivre les animaux hospitalisés et recevoir les urgences.
-
-Dans les autres cabinets, l'équipe ne reste pas la nuit. Le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers un cabinet de garde ouvert toute la nuit. Le vétérinaire vous explique ce choix avant de le faire. La page [urgences](/urgences/) dit qui appeler la nuit.
+La nuit, le vétérinaire passe tard le soir et revient tôt le matin. Un animal dont l'état demande une surveillance continue, par exemple après un accident grave, est transféré avec son dossier vers un cabinet de garde ouvert toute la nuit. Le vétérinaire vous explique ce choix avant de le faire. La page [urgences](/urgences/) dit qui appeler la nuit.
 
 ## Les lapins, les rongeurs et les oiseaux
 
@@ -63,8 +61,6 @@ Un lapin doit manger chaque jour. S'il refuse, l'équipe le nourrit plusieurs fo
 
 Vous pouvez rendre visite à votre animal sur rendez-vous, pendant les heures d'ouverture. Appelez la veille ou le matin. Une visite courte et calme aide la plupart des chiens. Certains chats sont plus agités après le départ de leur propriétaire ; le vétérinaire vous le dira.
 
-À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires. Des espaces sécurisés y servent aussi à faire marcher les animaux pendant leur séjour.
-
 Vous pouvez apporter la nourriture habituelle de votre animal et une couverture qui sent la maison. Les jouets et les paniers restent chez vous : ils se lavent mal entre deux patients.
 
 ## Le retour à la maison
@@ -75,7 +71,7 @@ Les premiers jours, gardez votre animal au calme. Appelez le cabinet s'il ne man
 
 ## Le prix
 
-Le prix d'une hospitalisation dépend du nombre de jours, de la taille de l'animal et des soins reçus. Le vétérinaire vous remet un devis à l'admission et vous tient au courant s'il change. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'une hospitalisation dépend du nombre de jours, de la taille de l'animal et des soins reçus. Il se fait sur devis, au cabinet, à l'admission. Le vétérinaire vous tient au courant si le devis change. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -99,18 +95,22 @@ Pour certains soins, oui : des piqûres sous la peau, des comprimés, un pansem
 
 Le vétérinaire vous appelle dès qu'il le constate. Il vous explique ce qui change et les choix possibles, avec leur coût.
 
+### Combien de temps dure une hospitalisation ?
+
+Cela dépend de la raison et de la façon dont l'animal répond au traitement. Le vétérinaire vous donne une durée probable dès l'admission et la revoit chaque jour lors de son appel. L'animal rentre dès qu'il mange seul, que sa douleur se contrôle par des comprimés et que ses soins peuvent se faire à la maison.
+
 ## Les cabinets qui hospitalisent
 
 Les huit cabinets Vetmint hospitalisent tous les animaux de compagnie.
 
-- [Bussigny](/bussigny/services/) : hospitalisation après les opérations et pour les soins par perfusion. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : hospitalisation des chiens, des chats et des NAC. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : soins à domicile pour la suite d'une hospitalisation. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : boxes individuels, séparation des espèces, espace de visite, vétérinaire présent le soir et le week-end, espace équipé pour les NAC très affaiblis. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : salle d'hospitalisation à boxes individuels. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : hospitalisation des chiens, des chats et des NAC. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : hospitalisation des chiens, des chats et des NAC. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : salle d'hospitalisation à la lumière du jour. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

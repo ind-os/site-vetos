@@ -22,7 +22,7 @@ Les huit cabinets reçoivent tous les animaux de compagnie : chiens, chats, lap
 
 | Situation | Ce que fait la visite | À quel rythme |
 |---|---|---|
-| Chiot ou chaton qui arrive | premier examen, vaccins, vermifuge, puce, conseils d'alimentation | dans la semaine qui suit l'arrivée |
+| Adoption d'un nouvel animal | premier examen, vaccins, vermifuge, puce, conseils d'alimentation | dans la semaine qui suit l'arrivée |
 | Adulte en bonne santé | bilan complet, poids, dents, rappels de vaccins | une fois par an |
 | Chien ou chat âgé, dès 7 ans | dépistage des maladies qui commencent sans bruit, souvent avec une prise de sang | une à deux fois par an |
 | Animal qui part à l'étranger | puce, vaccin contre la rage, passeport | un mois avant le départ au moins |
@@ -30,13 +30,18 @@ Les huit cabinets reçoivent tous les animaux de compagnie : chiens, chats, lap
 
 ## Pourquoi la prévention compte
 
-Beaucoup de maladies du chien et du chat se soignent mieux quand elles sont prises tôt, avant que l'animal ne montre quoi que ce soit. Le bilan annuel compare le poids, les dents et l'examen d'une année à l'autre. Quelques exemples de ce qu'il dépiste :
+Beaucoup de maladies du chien et du chat se soignent mieux quand elles sont prises tôt, avant que l'animal ne montre quoi que ce soit. La prévention les cherche en deux temps.
 
-- **L'hyperthyroïdie du chat** (une thyroïde qui produit trop d'hormones) : le chat maigrit alors qu'il mange plus.
-- **La maladie des reins du chat âgé** : il boit et urine un peu plus, ce que le propriétaire met sur le compte de la chaleur.
-- **L'arthrose** (usure douloureuse des articulations) : le chien se lève plus lentement, le chat ne saute plus sur le lit.
-- **Le tartre et les gencives rouges** : une mauvaise haleine signale souvent une infection qui fait mal.
-- **Le surpoids** : deux kilos de trop chez un chat de quatre kilos pèsent sur ses articulations et augmentent le risque de diabète.
+Le bilan annuel réunit des questions et un examen général. Le vétérinaire vous demande comment l'animal mange, boit, bouge et se comporte. Puis il l'examine : poids, dents, peau, cœur, articulations. D'une année à l'autre, il compare. Ce bilan repère par exemple :
+
+- **L'arthrose** (usure douloureuse des articulations) : le chien se lève plus lentement, le chat ne saute plus sur le lit.
+- **Le tartre et les gencives rouges** : une mauvaise haleine signale souvent une infection qui fait mal.
+- **Le surpoids** : deux kilos de trop chez un chat de quatre kilos pèsent sur ses articulations et augmentent le risque de diabète.
+
+D'autres maladies ne se voient pas à l'examen. Elles demandent des examens complémentaires, le plus souvent une [prise de sang](/services/analyses-sanguines/). Le vétérinaire les propose selon l'âge de l'animal et ce que le bilan a montré. Ils dépistent par exemple :
+
+- **L'hyperthyroïdie du chat** (une thyroïde qui produit trop d'hormones) : le chat maigrit alors qu'il mange plus.
+- **La maladie des reins du chat âgé** : il boit et urine un peu plus, ce que le propriétaire met sur le compte de la chaleur.
 
 ## Les vaccins du chien
 
@@ -50,14 +55,6 @@ Le vaccin de base vaut pour tous les chiens, en ville comme à la campagne. Une 
 
 Le vaccin contre la rage s'ajoute pour passer une frontière. Les vaccins contre la leishmaniose et la piroplasmose se discutent pour un chien qui part vers la Méditerranée ou qui rencontre beaucoup de tiques.
 
-| Âge du chiot | Vaccin |
-|---|---|
-| 8 semaines | première injection du vaccin de base |
-| 12 semaines | deuxième injection ; rage possible pour un chiot qui voyagera |
-| 16 semaines | troisième injection, parce que les anticorps de la mère peuvent bloquer les premières |
-| 12 à 15 mois | premier rappel complet |
-| Ensuite | leptospirose chaque année ; Carré, hépatite et parvovirose tous les un à trois ans selon le vaccin |
-
 ## Les vaccins du chat
 
 Le choix dépend de ce que le chat rencontre : d'autres chats, une pension, une frontière.
@@ -70,7 +67,7 @@ Le choix dépend de ce que le chat rencontre : d'autres chats, une pension, une
 
 Le typhus est une gastro-entérite virale, souvent mortelle chez le chaton. Le coryza est un rhume dû à deux virus, avec écoulements du nez et des yeux. La leucose féline (FeLV) affaiblit les défenses immunitaires ; aucun traitement ne l'élimine. Avant le premier vaccin contre la leucose, une prise de sang, le test FIV/FeLV, dit si le chat est déjà porteur.
 
-Le chaton reçoit une injection vers 8 semaines, une deuxième trois à quatre semaines plus tard, souvent une troisième vers 16 semaines, puis un rappel à un an. Le cabinet vous envoie un rappel avant chaque échéance, par SMS, WhatsApp ou e-mail.
+Le vétérinaire fixe avec vous le calendrier des injections du chaton et des rappels.
 
 ## La puce électronique
 
@@ -78,7 +75,7 @@ La puce a la taille d'un grain de riz. Elle n'a ni pile ni système de localisat
 
 La puce est obligatoire pour tout chien en Suisse, posée chez l'éleveur avant 3 mois. Elle est conseillée pour le chat, souvent posée avec le premier vaccin ou pendant la stérilisation. Pour voyager, un chien, un chat ou un furet a besoin de la puce, puis du vaccin contre la rage, puis de 21 jours d'attente. Un vaccin fait avant la pose de la puce ne compte pas.
 
-Plusieurs cabinets posent aussi une puce miniature, pour le chaton, le lapin ou l'oiseau. Ils proposent aussi le thermochip, une puce qui mesure en plus la température.
+Il existe aussi une puce miniature pour le chaton, le lapin ou l'oiseau. Le thermochip est une puce qui mesure en plus la température. Votre cabinet vous dit s'il les pose.
 
 ## Les éleveurs et les portées
 
@@ -111,7 +108,7 @@ Appelez le cabinet sans attendre si la face ou les paupières gonflent, si l'ani
 
 ## Le prix
 
-Les prix du bilan, des vaccins et de la puce varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations : vous la trouverez depuis la [liste des cabinets](/cabinets/). Le plan de prévention du chiot ou du chaton regroupe les soins de la première année, présentés sur la page Abonnements de votre cabinet.
+Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/). Le plan de prévention du chiot ou du chaton regroupe les soins de la première année, présentés sur la page Abonnements de votre cabinet.
 
 ## Questions fréquentes
 
@@ -147,14 +144,14 @@ Oui. Ses défenses baissent avec l'âge et les maladies des reins, de la thyroï
 
 Les huit cabinets Vetmint font les bilans, les vaccins et la puce, sur rendez-vous.
 
-- [Bussigny](/bussigny/services/) : un calendrier en ligne réservé aux vaccins. [Prendre rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation vaccinale se réserve en ligne. [Prendre rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : consultations en français, en portugais et en anglais. [Prendre rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : un vétérinaire formé aux NAC, pour les cas difficiles. [Prendre rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : laboratoire d'analyses sur place. [Prendre rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : puce miniature et thermochip. [Prendre rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : puce miniature et thermochip. [Prendre rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : la réservation en ligne sert aux vaccins. [Prendre rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Prendre rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Prendre rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Prendre rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Prendre rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Prendre rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [Prendre rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Prendre rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Prendre rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

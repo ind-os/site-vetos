@@ -49,9 +49,7 @@ Jedes Tier hat seinen Käfig oder seine Box. Die Katzen sind von den Hunden getr
 
 ## Die Nacht
 
-In Fribourg Ouest arbeitet am Abend und am Wochenende eine Tierärztin oder ein Tierarzt, um die stationären Tiere zu betreuen und Notfälle aufzunehmen.
-
-In den anderen Praxen bleibt das Team nachts nicht da. Die Tierärztin oder der Tierarzt schaut spät am Abend vorbei und kommt früh am Morgen zurück. Ein Tier, dessen Zustand eine ununterbrochene Überwachung verlangt, etwa nach einem schweren Unfall, wird mit seiner Akte in eine Notfallpraxis verlegt, die die ganze Nacht geöffnet ist. Die Tierärztin oder der Tierarzt erklärt Ihnen diese Wahl, bevor sie oder er sie trifft. Die Seite [Notfall](/de/notfall/) sagt, wen Sie nachts anrufen.
+In der Nacht schaut die Tierärztin oder der Tierarzt spät am Abend vorbei und kommt früh am Morgen zurück. Ein Tier, dessen Zustand eine ununterbrochene Überwachung verlangt, etwa nach einem schweren Unfall, wird mit seiner Akte in eine Notfallpraxis verlegt, die die ganze Nacht geöffnet ist. Die Tierärztin oder der Tierarzt erklärt Ihnen diese Wahl, bevor sie oder er sie trifft. Die Seite [Notfall](/de/notfall/) sagt, wen Sie nachts anrufen.
 
 ## Kaninchen, Nager und Vögel
 
@@ -63,8 +61,6 @@ Ein Kaninchen muss jeden Tag fressen. Verweigert es das Futter, füttert das Tea
 
 Sie können Ihr Tier nach Vereinbarung während der Öffnungszeiten besuchen. Rufen Sie am Vortag oder am Morgen an. Ein kurzer, ruhiger Besuch tut den meisten Hunden gut. Manche Katzen sind nach dem Weggehen ihrer Halterin oder ihres Halters unruhiger; die Tierärztin oder der Tierarzt sagt es Ihnen.
 
-In Fribourg Ouest gibt es einen Besucherbereich für die Halterinnen und Halter. Gesicherte Bereiche dienen dort auch dazu, die Tiere während ihres Aufenthalts spazieren zu führen.
-
 Sie können das gewohnte Futter Ihres Tieres und eine Decke mitbringen, die nach zu Hause riecht. Spielzeug und Körbchen bleiben bei Ihnen: Sie lassen sich zwischen zwei Patienten schlecht waschen.
 
 ## Die Rückkehr nach Hause
@@ -75,7 +71,7 @@ Halten Sie Ihr Tier in den ersten Tagen ruhig. Rufen Sie die Praxis an, wenn es 
 
 ## Der Preis
 
-Der Preis eines stationären Aufenthalts hängt von der Anzahl Tage, der Grösse des Tiers und der Behandlung ab. Bei der Aufnahme erhalten Sie einen Kostenvoranschlag, und die Praxis informiert Sie, wenn er sich ändert. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Der Preis eines stationären Aufenthalts hängt von der Anzahl Tage, der Grösse des Tiers und der Behandlung ab. Bei der Aufnahme erhalten Sie in der Praxis einen Kostenvoranschlag. Die Praxis informiert Sie, wenn er sich ändert. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -99,18 +95,22 @@ Für gewisse Behandlungen ja: Spritzen unter die Haut, Tabletten, ein Verband. A
 
 Die Tierärztin oder der Tierarzt ruft Sie an, sobald sie oder er es feststellt. Sie oder er erklärt Ihnen, was sich ändert und welche Möglichkeiten es gibt, mit den Kosten.
 
+### Wie lange dauert ein stationärer Aufenthalt?
+
+Das hängt vom Grund und davon ab, wie das Tier auf die Behandlung anspricht. Die Tierärztin oder der Tierarzt nennt Ihnen bei der Aufnahme eine voraussichtliche Dauer und passt sie bei jedem täglichen Anruf an. Das Tier kommt nach Hause, sobald es selbst frisst, der Schmerz mit Tabletten kontrolliert ist und die Behandlung zu Hause möglich ist.
+
 ## Die Praxen mit stationärer Betreuung
 
 Die acht Praxen von Vetmint betreuen alle Heimtiere stationär.
 
-- [Bussigny](/de/bussigny/leistungen/): stationäre Betreuung nach Operationen und für Behandlungen an der Infusion. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/): Hausbesuche für die Zeit nach einem stationären Aufenthalt. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Einzelboxen, Trennung der Tierarten, Besucherbereich, Tierärztin oder Tierarzt am Abend und am Wochenende anwesend, ein Bereich, der für stark geschwächte Heimtiere ausgestattet ist. [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Raum für die stationäre Betreuung mit Einzelboxen. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): Raum für die stationäre Betreuung mit Tageslicht. [Termin](/de/saintlegier/termin/)
+- [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

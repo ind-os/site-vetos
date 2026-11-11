@@ -69,7 +69,7 @@ L'opération ne change pas le caractère de l'animal. Elle diminue ses besoins e
 
 ### La consultation et les examens avant
 
-Le vétérinaire examine l'animal et décide si une opération est utile. Il peut demander une [prise de sang](/services/analyses-sanguines/) avant l'anesthésie, qui vérifie le foie, les reins et le nombre de globules. Une radiographie ou une échographie montre un objet avalé ou l'étendue d'une grosseur. Vous recevez ensuite un devis écrit. Pour une urgence, ces étapes se font le jour même.
+Le vétérinaire examine l'animal et décide si une opération est utile. Il peut demander une [prise de sang](/services/analyses-sanguines/) avant l'anesthésie, qui vérifie le foie, les reins et le nombre de globules. Une radiographie ou une échographie montre un objet avalé ou l'étendue d'une grosseur. Pour une urgence, ces étapes se font le jour même.
 
 ### Le jour de l'opération
 
@@ -80,8 +80,6 @@ Pendant toute l'opération, une personne de l'équipe surveille le cœur, la res
 ### Le réveil
 
 L'animal se réveille sous surveillance, au chaud. Le cabinet vous appelle pour dire comment s'est passé le réveil. Après une stérilisation, vous reprenez l'animal en fin de journée. Après une opération de l'intestin, il reste souvent deux à quatre jours en [hospitalisation](/services/hospitalisation/).
-
-Au cabinet du Lac-de-Joux, certaines opérations du ventre se font par laparoscopie : par de petites incisions, avec une caméra. La cicatrice est plus courte et la douleur plus faible.
 
 ## La préparation
 
@@ -101,7 +99,7 @@ Appelez le cabinet si la plaie saigne, s'ouvre, gonfle ou coule, si l'animal vom
 
 ## Le prix
 
-Une opération varie d'un animal à l'autre et les prix diffèrent d'un cabinet à l'autre. Le vétérinaire vous remet un devis écrit avant l'opération. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/). Une opération qui n'y figure pas se fait sur devis, au cabinet.
 
 ## Questions fréquentes
 
@@ -127,20 +125,20 @@ Ne tirez jamais sur un fil qui dépasse de la bouche ou de l'anus : vous pourri
 
 ### Puis-je rendre visite à mon animal hospitalisé ?
 
-Oui, en accord avec le cabinet. À Fribourg Ouest, un espace de visite est aménagé pour les propriétaires.
+Oui, en accord avec le cabinet.
 
 ## Les cabinets qui opèrent
 
 Les huit cabinets ont une salle d'opération et une hospitalisation sur place.
 
-- [Bussigny](/bussigny/services/) : salle d'opération et hospitalisation sur place. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : un anesthésiste externe vient pour les anesthésies complexes. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et des boxes d'hospitalisation séparés par espèce. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la radiographie. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : salle d'opération et hospitalisation sur place. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

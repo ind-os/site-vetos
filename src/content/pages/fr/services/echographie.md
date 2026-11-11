@@ -73,7 +73,7 @@ Si l'échographie montre une lésion, le vétérinaire propose la suite : un pr
 
 ## Le prix
 
-Le prix d'une échographie dépend de l'organe examiné et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix d'une échographie dépend de l'organe examiné et d'une éventuelle sédation. Le vétérinaire vous l'annonce avant l'examen. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -101,16 +101,20 @@ Elle est le seul examen qui dit d'où vient le souffle. Chez le chat, un souffle
 
 Oui pour l'essentiel : le vétérinaire voit les organes en direct et vous explique ce qu'il observe. Un prélèvement fait pendant l'examen demande en plus le délai de son analyse.
 
+### Mon animal a mangé le matin de l'examen. Que faire ?
+
+Dites-le à l'arrivée. Pour une échographie du ventre, le gaz de la digestion peut cacher certains organes. Le vétérinaire décide alors de faire l'examen quand même, de regarder seulement ce qui se voit bien ou de fixer un autre rendez-vous. Pour le cœur ou une gestation, le repas ne gêne pas.
+
 ## Les cabinets qui font l'échographie
 
-- [Bussigny](/bussigny/services/) : échographie du ventre, de gestation et du cœur. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : échographie au cabinet. [Rendez-vous](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/) : échographie au cabinet. [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans le même cabinet. [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : échographe au cabinet, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/echographie/) : échographie au cabinet. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : échographie au cabinet. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : échographie complète du ventre, de gestation et du cœur. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Payerne](/payerne/services/echographie/) : [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)
 
 L'examen se fait donc dans votre cabinet habituel, avec le vétérinaire qui suit votre animal.
 

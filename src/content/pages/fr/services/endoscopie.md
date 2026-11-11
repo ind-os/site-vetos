@@ -46,7 +46,7 @@ L'endoscopie convient aux chiens et aux chats de toutes tailles. Chez le lapin e
 
 ### La consultation avant
 
-Le vétérinaire examine l'animal, lit les analyses déjà faites et décide si l'endoscopie répond à la question posée. Une [prise de sang](/services/analyses-sanguines/) vérifie souvent le foie, les reins et la coagulation avant l'anesthésie. Vous recevez un devis écrit.
+Le vétérinaire examine l'animal, lit les analyses déjà faites et décide si l'endoscopie répond à la question posée. Une [prise de sang](/services/analyses-sanguines/) vérifie souvent le foie, les reins et la coagulation avant l'anesthésie. Vous recevez un devis.
 
 ### L'examen
 
@@ -86,7 +86,7 @@ Enfin, l'examen demande une anesthésie générale. Pour un animal très affaibl
 
 ## Le prix
 
-Le prix dépend de la partie examinée, de la durée de l'anesthésie et du nombre de biopsies. Le vétérinaire vous remet un devis écrit avant l'examen. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix dépend de la partie examinée, de la durée de l'anesthésie et du nombre de biopsies. Il se fait sur devis, au cabinet, avant l'examen. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -112,8 +112,8 @@ Votre vétérinaire habituel examine l'animal et adresse le dossier à Fribourg 
 
 ## Les cabinets qui la pratiquent
 
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : l'endoscope, avec la radiographie numérique et les analyseurs sanguins dans le même cabinet. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : l'endoscope, avec l'échographe et le laboratoire dans le même cabinet. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 
 Les autres cabinets Vetmint adressent leurs patients à Fribourg Ouest ou au Lac-de-Joux pour l'endoscopie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
 

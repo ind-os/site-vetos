@@ -26,7 +26,6 @@ Votre chiot ou votre chaton vient d'arriver à la maison : le plan de préventi
 - Les vermifuges, au rythme fixé par le vétérinaire.
 - Le suivi de la croissance, avec 10 % de rabais sur l'alimentation conseillée.
 - La [puce électronique](/payerne/services/prevention/), le passeport et l'inscription au registre : AMICUS pour le chien, ANIS pour le chat.
-- Un rappel par SMS, WhatsApp ou e-mail avant chaque soin prévu.
 - 10 % de rabais sur les anti-puces et les anti-tiques, hors offres de saison.
 - 5 % de rabais sur les autres soins et produits du cabinet.
 
@@ -92,6 +91,6 @@ Pour arrêter l'abonnement, écrivez à [payerne@vetmint.ch](mailto:payerne@vetm
 
 ### Les autres cabinets ont-ils les mêmes prix ?
 
-Le plan de base coûte 515 francs dans tous les cabinets Vetmint ; le prix de certaines options change d'un cabinet à l'autre. Chaque cabinet publie les siens sur sa page Abonnements, depuis la [liste des cabinets](/cabinets/).
+Le plan de base coûte 515 francs dans tous les cabinets Vetmint. Le prix des options figure sur la page Abonnements de chaque cabinet, depuis la [liste des cabinets](/cabinets/).
 
 [Prendre rendez-vous](/payerne/rendez-vous/)

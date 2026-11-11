@@ -75,7 +75,7 @@ Le laser ne remplace pas les médicaments contre la douleur. Il les complète. C
 
 ## Le prix
 
-Le prix dépend du nombre de séances. Le vétérinaire vous le dit à la première séance, avec le rythme proposé. Les tarifs diffèrent d'un cabinet à l'autre : consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/).
+Le prix dépend du nombre de séances. Le vétérinaire vous le dit à la première séance, avec le rythme proposé. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -107,9 +107,9 @@ Oui. Le lapin supporte bien la séance, posé sur une serviette, sans contention
 
 Trois cabinets ont un appareil de laser thérapeutique. Les autres cabinets Vetmint vous orientent vers le plus proche.
 
-- **[La Chaux-de-Fonds](/chauxdefonds/services/)**, dans les Montagnes neuchâteloises : chiens, chats et NAC. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
-- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : chiens, chats et NAC. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : chiens, chats et NAC. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
+- **[La Chaux-de-Fonds](/chauxdefonds/services/)**, dans les Montagnes neuchâteloises : [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

@@ -79,7 +79,7 @@ Wie jede Operation birgt die Sterilisation Risiken: Narkose, Wundinfektion, Stil
 
 Die Sterilisation der Häsin ist eine Pauschale. Sie umfasst die Untersuchung, die überwachte Inhalationsnarkose, die Operation, Schmerzmittel, Entzündungshemmer und zwei Kontrollen. Die Kastration des Rammlers folgt denselben Schritten. Weitere allfällige Behandlungen kommen zur Pauschale hinzu.
 
-Der Preis ist nicht in allen Praxen gleich. Er steht auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
+Der Preis steht auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 

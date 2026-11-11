@@ -49,7 +49,7 @@ Ein Notfall lässt sich nicht aufschieben: Ein Tier, das schlecht atmet, blutet 
 
 ## In welchem Gebiet
 
-Die Anfahrtspauschale gilt für die Waadtländer Riviera (von Vevey bis Montreux) und den Bezirk Broye, rund um Payerne und Domdidier. Anderswo fährt jede Praxis in die Nachbargemeinden, in einem Umkreis von 15 Kilometern zur gleichen Pauschale. Die Tierärztin oder der Tierarzt, die oder der zu Ihnen kommt, gehört zum Team der nächstgelegenen Praxis: Bei Bedarf sieht sie oder er Ihr Tier danach in der Konsultation wieder.
+Jede Praxis fährt gegen eine Anfahrtspauschale in die Nachbargemeinden. Ihre Praxis sagt Ihnen, ob Ihre Gemeinde dazugehört. Die Tierärztin oder der Tierarzt, die oder der zu Ihnen kommt, gehört zum Team der nächstgelegenen Praxis: Bei Bedarf sieht sie oder er Ihr Tier danach in der Konsultation wieder.
 
 ## Wie der Besuch abläuft
 
@@ -89,7 +89,7 @@ Ein Hausbesuch ersetzt auch keinen Notfall. Ein Tier, das schlecht atmet, stark 
 
 ## Der Preis
 
-Bei einem Hausbesuch kommt eine Wegpauschale zum Preis der Behandlung hinzu. Die Praxis nennt Ihnen den Gesamtbetrag, wenn der Besuch vereinbart wird. Die Preise sind nicht in allen Praxen gleich: Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/).
+Bei einem Hausbesuch kommt eine Wegpauschale zum Preis der Behandlung hinzu. Die Praxis nennt Ihnen den Gesamtbetrag, wenn der Besuch vereinbart wird. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
