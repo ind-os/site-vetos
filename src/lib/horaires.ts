@@ -7,10 +7,21 @@ import { textes } from '../i18n/index.ts';
 import { formaterDate, formaterHeure, formaterPlage } from './format.ts';
 
 export const JOURS = ['lundi', 'mardi', 'mercredi', 'jeudi', 'vendredi', 'samedi', 'dimanche'] as const;
-type Jour = (typeof JOURS)[number];
+export type Jour = (typeof JOURS)[number];
 
 /** Les plages d'ouverture de chaque jour, « 08:00-12:00 » ; un jour vide est fermé. */
 export type Horaires = Record<Jour, string[]>;
+
+/**
+ * Un jour ouvert en alternance avec une autre clinique, environ une semaine sur deux :
+ * « Samedi : 8 h 30 à 15 h, environ un samedi sur deux… ». Les plages ne comptent pas dans le
+ * statut d'ouverture, qui dit ce jour-là d'appeler avant de venir.
+ */
+export interface Alternance {
+  jour: Jour;
+  plages: string[];
+  avec: string;
+}
 
 export interface Fermeture {
   du: string;
@@ -26,10 +37,11 @@ interface LigneDHoraires {
 }
 
 /** Les jours qui ont les mêmes plages, regroupés quand ils se suivent. */
-export function lignesDHoraires(horaires: Horaires, langue: Langue): LigneDHoraires[] {
+export function lignesDHoraires(horaires: Horaires, langue: Langue, alternance?: Alternance): LigneDHoraires[] {
   const t = textes(langue).horaires;
-  // Les plages « HH:MM-HH:MM » se trient comme du texte : de la plus tôt à la plus tard.
-  const plagesTriees = (jour: Jour) => [...horaires[jour]].sort();
+  // Les plages « HH:MM-HH:MM » se trient comme du texte : de la plus tôt à la plus tard. Le jour
+  // en alternance forme sa propre ligne.
+  const plagesTriees = (jour: Jour) => (alternance?.jour === jour ? ['alternance'] : [...horaires[jour]].sort());
   const groupes: Jour[][] = [];
   for (const jour of JOURS) {
     const dernier = groupes.at(-1);
@@ -40,6 +52,10 @@ export function lignesDHoraires(horaires: Horaires, langue: Langue): LigneDHorai
   const ensuite = (jour: Jour) => (langue === 'de' ? t.jours[jour] : t.jours[jour].toLowerCase());
   return groupes.map((jours) => {
     const premier = t.jours[jours[0]];
+    if (alternance && jours[0] === alternance.jour) {
+      const plages = [...alternance.plages].sort().map((p) => formaterPlage(p, langue)).join(` ${t.et} `);
+      return { jours: premier, plages: t.alternance(plages, ensuite(alternance.jour), alternance.avec), ferme: false };
+    }
     const dernier = ensuite(jours.at(-1)!);
     const lien = jours.length === 2 ? t.et : t.a;
     const plages = plagesTriees(jours[0]);
@@ -132,9 +148,10 @@ interface Statut {
 }
 
 /** « Ouvert maintenant, jusqu'à 12 h », « Fermé, ouvre à 13 h 45 », « Fermé, ouvre lundi à 8 h ». */
-export function statutOuverture(horaires: Horaires, fermetures: Fermeture[], langue: Langue, instant: Instant = instantAZurich()): Statut {
+export function statutOuverture(horaires: Horaires, fermetures: Fermeture[], langue: Langue, instant: Instant = instantAZurich(), alternance?: Alternance): Statut {
   const t = textes(langue).horaires;
   const heure = (minutes: number) => formaterHeure(enHeure(minutes), langue);
+  if (alternance?.jour === instant.jour && !estFermeLe(instant.date, fermetures)) return { ouvert: false, texte: t.appelerAvant };
   if (!estFermeLe(instant.date, fermetures)) {
     for (const [debut, fin] of plagesDuJour(horaires, instant.jour)) {
       if (instant.minutes >= debut && instant.minutes < fin) return { ouvert: true, texte: t.ouvertJusqua(heure(fin)) };

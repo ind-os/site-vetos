@@ -3,7 +3,7 @@
 
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
-import { lesCliniques, lienDeLaClinique, type Clinique } from './cliniques.ts';
+import { lesCliniques, lienDeLaClinique, servicesDeLaClinique, type Clinique } from './cliniques.ts';
 import { adresse, lesPages, titreDe } from './pages.ts';
 
 export interface Lien {
@@ -48,18 +48,21 @@ export async function navigationDe(langue: Langue, clinique?: Clinique): Promise
 
   if (clinique) {
     const page = (cle: string) => lien(`${clinique.id}/${cle}`);
+    // Les services de la fiche, vers leur page dans la clinique, puis les urgences, comme le menu commun.
+    const urgences = { libelle: n.urgences, href: clinique.urgences ? await page('urgences') : await lien('urgences') };
+    const services = [...(await servicesDeLaClinique(clinique, langue)).map((s) => ({ libelle: s.libelle, href: s.href })), urgences];
     return {
       entete: {
         accueil: await page('index'),
         lieu: clinique.lieu,
         liens: [
-          { libelle: n.services, href: await page('services/index') },
+          { libelle: n.services, href: await page('services/index'), sousLiens: services },
           { libelle: n.tarifs, href: await page('tarifs') },
           { libelle: n.abonnements, href: await page('abonnements') },
           { libelle: n.equipe, href: await page('equipe') },
           { libelle: n.contact, href: await page('contact') },
         ],
-        urgence: { libelle: n.urgences, href: clinique.urgences ? await page('urgences') : await lien('urgences') },
+        urgence: urgences,
       },
       cliniques,
       pied: [

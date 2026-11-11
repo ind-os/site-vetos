@@ -299,7 +299,7 @@ ${htmlDeLaGarde(payerne, langue)}
       <Exemple titre="Accueil" description="Le premier écran d’un accueil : surtitre, titre, accroche, boutons, et la photo encadrée à côté du titre. Le rappel d’urgence se pose dessous." fichier="composants/Accueil.astro" code={`<Accueil surtitre="…" titre="…" accroche="…" photo={photo}>\n  <Fragment slot="actions">…</Fragment>\n</Accueil>`}>
         <!-- inert : l'exemple n'est pas lu comme un titre de la page, qui garde un seul h1 -->
         <div inert>
-          <Accueil surtitre="Clinique vétérinaire · Payerne (VD)" titre="Clinique vétérinaire Vetmint Payerne" accroche={payerne.accroche?.fr} photo={photo('payerne:accueil', langue, 1)}>
+          <Accueil surtitre="Clinique vétérinaire · Payerne (VD)" titre="Clinique vétérinaire Vetmint Payerne" accroche="Route du Châtelard 13, 1530 Payerne" photo={photo('payerne:accueil', langue, 1)}>
             <Fragment slot="actions">
               <BoutonRendezVous clinique={payerne} langue={langue} />
               <Bouton variante="secondaire" href="#">Appeler le 026 660 16 16</Bouton>

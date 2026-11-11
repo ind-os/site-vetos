@@ -8,7 +8,7 @@ Tout le site existe en français et en allemand. Le français est la langue de r
 |---|---|---|
 | Une page | `src/content/pages/fr/<chemin>.md` | `src/content/pages/de/<chemin>.md`, même chemin, même nom de fichier |
 | Les textes de l'interface (menus, boutons, titres des blocs) | `src/i18n/fr.ts` | `src/i18n/de.ts`, mêmes clés |
-| Les textes d'une fiche de clinique (accroche, fonctions, accès, tarif de garde) | champ `fr` | champ `de` du même objet, dans `src/donnees/cliniques/<clinique>.json` |
+| Les textes d'une fiche de clinique (fonctions, accès, tarif de garde) | champ `fr` | champ `de` du même objet, dans `src/donnees/cliniques/<clinique>.json` |
 | Le texte alternatif d'une photo | champ `alt.fr` | champ `alt.de`, dans `src/assets/images/catalogue.json` |
 
 Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/payerne/equipe.md`. Le lien « DE » ou « FR » de l'en-tête mène de l'une à l'autre. La construction s'arrête si une page n'a pas sa traduction, ou si une clé de `fr.ts` ou de `de.ts` manque dans l'autre.

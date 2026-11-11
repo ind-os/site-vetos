@@ -50,6 +50,11 @@
     "samedi": [],
     "dimanche": []
   },
+  "alternance": {
+    "jour": "samedi",
+    "plages": ["08:30-15:00"],
+    "avec": "Domdidier"
+  },
   "fermetures": [],
   "bandeau": null,
   "garde": {
@@ -65,10 +70,6 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintpayerne/45min"
-  },
-  "accroche": {
-    "fr": "Route du Châtelard 13, avec une place de dépose de plain-pied devant l'entrée.",
-    "de": "Route du Châtelard 13, mit einem ebenerdigen Halteplatz vor dem Eingang."
   },
   "equipe": [
     {

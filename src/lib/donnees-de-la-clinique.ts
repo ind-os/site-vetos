@@ -27,12 +27,13 @@ import { texteDe } from './html.ts';
 export function htmlDuStatut(clinique: Clinique, langue: Langue): string {
   const horaires = echapper(JSON.stringify(clinique.horaires));
   const fermetures = echapper(JSON.stringify(clinique.fermetures));
-  return `<p class="statut" data-statut-ouverture data-langue="${langue}" data-horaires="${horaires}" data-fermetures="${fermetures}" hidden><span class="statut__point" aria-hidden="true"></span><span data-statut-texte></span></p>`;
+  const alternance = clinique.alternance ? ` data-alternance="${echapper(JSON.stringify(clinique.alternance))}"` : '';
+  return `<p class="statut" data-statut-ouverture data-langue="${langue}" data-horaires="${horaires}" data-fermetures="${fermetures}"${alternance} hidden><span class="statut__point" aria-hidden="true"></span><span data-statut-texte></span></p>`;
 }
 
 /** Les horaires en liste de définitions, sous la ligne du statut, avec les fermetures à venir. */
 export function htmlDesHoraires(clinique: Clinique, langue: Langue): string {
-  const lignes = lignesDHoraires(clinique.horaires, langue)
+  const lignes = lignesDHoraires(clinique.horaires, langue, clinique.alternance)
     .map((l) => `<div class="horaires__ligne${l.ferme ? ' horaires__ligne--ferme' : ''}"><dt>${echapper(l.jours)}</dt><dd>${echapper(l.plages)}</dd></div>`)
     .join('');
   return `<div class="horaires">${htmlDuStatut(clinique, langue)}<dl class="horaires__liste">${lignes}</dl>${htmlDesFermetures(clinique, langue)}</div>`;
@@ -48,8 +49,8 @@ function htmlDesFermetures(clinique: Clinique, langue: Langue): string {
 }
 
 /**
- * Le numéro de garde en une ligne, avec la croix : « Numéro de garde : 0900 904 904, appel
- * surtaxé, 1,70 franc la minute ». En « bloc », plus grand, en tête de la page Urgences.
+ * Le numéro de garde en une ligne, avec la croix : « En cas d'urgence en dehors des horaires
+ * d'ouverture du cabinet, appelez le 026 466 34 35, numéro gratuit, de 8 h à minuit ». En « bloc », plus grand, en tête de la page Urgences.
  */
 export function htmlDeLaGarde(clinique: Clinique, langue: Langue, forme: 'ligne' | 'bloc' = 'ligne'): string {
   const t = textes(langue).urgence;
@@ -57,9 +58,11 @@ export function htmlDeLaGarde(clinique: Clinique, langue: Langue, forme: 'ligne'
   // Une ligne par numéro ; un second service de garde de la région (`garde.autre`) vient sous son nom.
   // En français, une espace insécable précède les deux-points.
   const pointsFr = langue === 'fr' ? ' ' : '';
-  const ligne = (libelle: string, numero: typeof telephone, prix: string) =>
-    `<span class="garde__ligne">${libelle}${pointsFr}: <a href="${lienTelephone(numero.international)}">${echapper(numero.affiche)}</a>, ${echapper(prix)}</span>`;
-  const lignes = ligne(t.garde, telephone, tarif[langue]) + (autre ? ligne(echapper(autre.nom), autre.telephone, autre.tarif[langue]) : '');
+  // La première ligne est une phrase qui mène au numéro, sans deux-points : « En cas d'urgence…,
+  // appelez le 026 466 34 35, numéro gratuit… ». Le second service garde son nom suivi de deux-points.
+  const ligne = (debut: string, numero: typeof telephone, prix: string) =>
+    `<span class="garde__ligne">${debut} <a href="${lienTelephone(numero.international)}">${echapper(numero.affiche)}</a>, ${echapper(prix)}</span>`;
+  const lignes = ligne(t.garde, telephone, tarif[langue]) + (autre ? ligne(`${echapper(autre.nom)}${pointsFr}:`, autre.telephone, autre.tarif[langue]) : '');
   return `<p class="garde${forme === 'bloc' ? ' garde--bloc' : ''}"><span class="croix" aria-hidden="true"></span><span>${lignes}</span></p>`;
 }
 

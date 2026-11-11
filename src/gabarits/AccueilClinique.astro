@@ -36,7 +36,7 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
 ---
 
 <Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photoDAccueil?.src} balisage={[balisageDuGroupe(), balisageDeLaClinique(clinique, page.data.url)]}>
-  <Accueil surtitre={t.clinique.surtitre(clinique.lieu, clinique.canton)} titre={titre} accroche={clinique.accroche?.[langue] ?? page.data.resume} photo={photoDAccueil}>
+  <Accueil surtitre={t.clinique.surtitre(clinique.lieu, clinique.canton)} titre={titre} accroche={adressePostale(clinique)} photo={photoDAccueil}>
     <Fragment slot="actions">
       <BoutonRendezVous clinique={clinique} langue={langue} />
       <Bouton variante="secondaire" href={lienTelephone(clinique.telephone.international)}>{t.telephone.appeler(clinique.telephone.affiche)}</Bouton>

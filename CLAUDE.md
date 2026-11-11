@@ -60,7 +60,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 - **Un texte d'un menu ou d'un bouton** : `src/i18n/fr.ts` et la même clé dans `src/i18n/de.ts`.
 - **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
 - **Une personne qui arrive ou qui part** : la fiche de la clinique et sa photo (`docs/fiche-clinique.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
-- **Un service en plus ou en moins dans une clinique** : la liste `services` de la fiche (`docs/fiche-clinique.md`, « Les gestes courants »), puis sa page de service dans les deux langues, créée ou supprimée, avec la skill `rediger-une-page`.
+- **Un service en plus ou en moins dans une clinique** : la liste `services` de la fiche (`docs/fiche-clinique.md`, « Les gestes courants »). Sa page dans la clinique reprend toute seule la page commune du service, dans les deux langues.
 - **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 

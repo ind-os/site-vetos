@@ -1,9 +1,9 @@
 // Remplit les éléments [data-statut-ouverture] : « Ouvert maintenant, jusqu'à 12 h » ou
 // « Fermé, ouvre à 14 h », calculé dans le navigateur à l'heure de Zurich, puis chaque minute.
-// L'élément porte ses horaires en JSON (data-horaires, data-fermetures) et sa langue.
+// L'élément porte ses horaires en JSON (data-horaires, data-fermetures, data-alternance) et sa langue.
 
 import type { Langue } from '../config.ts';
-import { statutOuverture, type Fermeture, type Horaires } from '../lib/horaires.ts';
+import { statutOuverture, type Alternance, type Fermeture, type Horaires } from '../lib/horaires.ts';
 
 function lire<T>(texte: string | undefined, defaut: T): T {
   try {
@@ -18,6 +18,8 @@ function afficher(element: HTMLElement): void {
     lire<Horaires>(element.dataset.horaires, {} as Horaires),
     lire<Fermeture[]>(element.dataset.fermetures, []),
     (element.dataset.langue as Langue) ?? 'fr',
+    undefined,
+    lire<Alternance | undefined>(element.dataset.alternance, undefined),
   );
   const texte = element.querySelector<HTMLElement>('[data-statut-texte]') ?? element;
   texte.textContent = statut.texte;

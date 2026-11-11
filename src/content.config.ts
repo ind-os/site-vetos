@@ -7,7 +7,7 @@
 import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
-import { enMinutes } from './lib/horaires.ts';
+import { enMinutes, JOURS } from './lib/horaires.ts';
 import { TYPES_DE_PAGE } from './lib/types-de-page.ts';
 
 z.config(z.locales.fr());
@@ -88,7 +88,6 @@ const cliniques = defineCollection({
     telephone,
     whatsapp: telephone.optional(),
     email: z.email(),
-    accroche: texte.optional(),
     /** Les espèces reçues. */
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).default(['chien', 'chat']),
     /** Les services pratiqués sur place : le nom de leur fichier dans services/. */
@@ -120,6 +119,8 @@ const cliniques = defineCollection({
       samedi: z.array(plage).default([]),
       dimanche: z.array(plage).default([]),
     }),
+    /** Un jour ouvert en alternance avec une autre clinique, environ une semaine sur deux. */
+    alternance: z.object({ jour: z.enum(JOURS), plages: z.array(plage).min(1), avec: z.string() }).optional(),
     /** Les fermetures annoncées : du premier au dernier jour fermé, AAAA-MM-JJ. */
     fermetures: z
       .array(

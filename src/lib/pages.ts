@@ -6,7 +6,7 @@
 // /de/payerne/team/.
 
 import { getCollection, type CollectionEntry } from 'astro:content';
-import { LANGUES, type Langue } from '../config.ts';
+import { LANGUE_PAR_DEFAUT, LANGUES, type Langue } from '../config.ts';
 import type { TypeDePage } from './types-de-page.ts';
 
 export type Page = CollectionEntry<'pages'>;
@@ -28,9 +28,43 @@ export function slugDe(page: Page): string {
   return cleDe(page).split('/').at(-1) ?? '';
 }
 
-/** Toutes les pages écrites, dans les deux langues, publiées ou non. */
+/**
+ * Toutes les pages, dans les deux langues, publiées ou non : les pages écrites, puis la page de
+ * chaque service d'une clinique, reprise de la page commune du service (pagesDeServiceReprises).
+ */
 export async function toutesLesPages(): Promise<Page[]> {
-  return getCollection('pages');
+  const ecrites = await getCollection('pages');
+  return [...ecrites, ...(await pagesDeServiceReprises(ecrites))];
+}
+
+/**
+ * Chaque service de la fiche d'une clinique a sa page, /payerne/services/radiographie/ : la page
+ * commune du service, reprise telle quelle sous l'adresse de la clinique, avec le type
+ * service-clinique et le champ clinique. Rien à écrire pour une nouvelle clinique : la liste
+ * `services` de sa fiche suffit. Une page écrite dans le dossier de la clinique, pour un soin
+ * qu'elle est seule à pratiquer, garde son texte.
+ */
+async function pagesDeServiceReprises(ecrites: Page[]): Promise<Page[]> {
+  const existe = (id: string) => ecrites.some((p) => p.id === id);
+  const reprises: Page[] = [];
+  for (const { data: clinique } of await getCollection('cliniques')) {
+    for (const service of clinique.services) {
+      for (const langue of LANGUES) {
+        const commune = ecrites.find((p) => p.id === `${langue}/services/${service}`);
+        const id = `${langue}/${clinique.id}/services/${service}`;
+        if (!commune || existe(id)) continue;
+        const prefixe = langue === LANGUE_PAR_DEFAUT ? '' : `/${langue}`;
+        const url = `${prefixe}/${clinique.id}${commune.data.url.slice(prefixe.length)}`;
+        reprises.push({ ...commune, id, data: { ...commune.data, type: 'service-clinique', clinique: clinique.id, url } });
+      }
+    }
+  }
+  return reprises;
+}
+
+/** Vrai pour la page d'un service de clinique reprise de la page commune, sans fichier à elle. */
+export function estReprise(page: Page): boolean {
+  return page.data.type === 'service-clinique' && !(page.filePath ?? '').includes(`/${page.data.clinique}/`);
 }
 
 /**

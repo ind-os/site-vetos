@@ -46,6 +46,11 @@
     "samedi": [],
     "dimanche": []
   },
+  "alternance": {
+    "jour": "samedi",
+    "plages": ["08:30-15:00"],
+    "avec": "Payerne"
+  },
   "fermetures": [],
   "bandeau": null,
   "garde": {

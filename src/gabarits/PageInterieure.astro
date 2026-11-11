@@ -19,9 +19,11 @@ interface Props {
   balisage?: Record<string, unknown>[];
   /** La colonne de droite ; par défaut, seulement sur les pages d'une clinique. */
   cote?: boolean;
+  /** L'adresse canonique, quand le texte vient d'une autre page : celle de la page commune. */
+  canonique?: string;
 }
 
-const { contexte, photo, surtitre, balisage = [], cote } = Astro.props;
+const { contexte, photo, surtitre, balisage = [], cote, canonique } = Astro.props;
 const { page, langue, t, clinique, adresses, fil, titre } = contexte;
 const avecCote = cote ?? (Boolean(clinique) || Astro.slots.has('cote'));
 const graphe = [
@@ -32,7 +34,7 @@ const graphe = [
 ];
 ---
 
-<Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photo?.src} balisage={graphe}>
+<Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} clinique={clinique} image={photo?.src} balisage={graphe} canonique={canonique}>
   <TeteDePage titre={titre} fil={fil} etiquetteDuFil={t.navigation.filDAriane} surtitre={surtitre} photo={photo} />
   <div class="conteneur page">
     {Astro.slots.has('haut') && <div class="page__haut"><slot name="haut" /></div>}

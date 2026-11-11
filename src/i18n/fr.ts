@@ -59,7 +59,7 @@ export const fr = {
   },
 
   urgence: {
-    garde: 'Numéro de garde',
+    garde: 'En cas d’urgence en dehors des horaires d’ouverture du cabinet, appelez le',
     services: 'Nos services d’urgence',
     gratuit: 'Numéro gratuit',
     horaires: 'Tous les jours, de 8 h à minuit',
@@ -88,6 +88,9 @@ export const fr = {
     fermetures: 'Fermetures annoncées',
     fermeDuAu: (du: string, au: string) => `Fermé du ${du} au ${au}`,
     fermeLe: (date: string) => `Fermé le ${date}`,
+    alternance: (plages: string, jour: string, avec: string) =>
+      `${plages}, environ un ${jour} sur deux, en alternance avec le cabinet de ${avec}. Appelez avant de venir.`,
+    appelerAvant: 'Aujourd’hui, appelez avant de venir',
   },
 
   clinique: {
@@ -115,7 +118,7 @@ export const fr = {
     nac: 'Lapin et NAC',
     chiens: 'chiens',
     chats: 'chats',
-    nacs: 'lapins et NAC',
+    nacs: 'NAC',
   },
 
   langues: {

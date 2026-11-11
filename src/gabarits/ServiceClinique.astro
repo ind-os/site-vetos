@@ -1,10 +1,13 @@
 ---
-// Un service dans une clinique : ce que la clinique fait sur place, avec la carte de la clinique,
-// le lien vers la page commune du service et les autres soins de la clinique.
+// Un service dans une clinique, avec la carte de la clinique et les autres soins de la clinique.
+// Le texte est celui de la page commune du service, repris et adapté à la clinique
+// (src/lib/service-repris.ts) ; l'adresse canonique est alors celle de la page commune. Une page
+// écrite dans le dossier de la clinique, pour un soin qu'elle est seule à pratiquer, garde son texte.
 import type { Contexte } from '../lib/contexte.ts';
 import { servicesDeLaClinique } from '../lib/cliniques.ts';
 import { premierePhoto } from '../lib/images.ts';
-import { laPage, slugDe } from '../lib/pages.ts';
+import { estReprise, laPage, slugDe } from '../lib/pages.ts';
+import { texteRepris } from '../lib/service-repris.ts';
 import CarteClinique from '../composants/CarteClinique.astro';
 import Pastilles from '../composants/Pastilles.astro';
 import Prose from '../composants/Prose.astro';
@@ -15,15 +18,17 @@ interface Props {
 }
 
 const { contexte } = Astro.props;
-const { page, langue, t, html } = contexte;
+const { page, langue, t } = contexte;
 const clinique = contexte.clinique!;
 const slug = slugDe(page);
+const reprise = estReprise(page);
 const commune = await laPage(langue, `services/${slug}`);
+const html = reprise ? await texteRepris(contexte.html, clinique, langue) : contexte.html;
 const photoDuService = premierePhoto([`${clinique.id}:service:${slug}`, `service:${slug}`], langue);
 const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.service !== slug);
 ---
 
-<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)}>
+<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} canonique={reprise ? commune?.data.url : undefined}>
   <Prose html={html} chapeau />
   {
     autres.length > 0 && (
@@ -35,6 +40,6 @@ const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.se
   }
   <Fragment slot="cote">
     <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />
-    {commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
+    {!reprise && commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
   </Fragment>
 </PageInterieure>

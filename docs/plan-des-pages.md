@@ -40,7 +40,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `rendez-vous` | rendez-vous | bouton du module de réservation et téléphone |
 | `questions-frequentes` | questions fréquentes | chaque question ### en accordéon |
 | `urgences` | urgences de la clinique | numéro de garde et tarif en premier |
-| `service-clinique` | un service dans une clinique | photo, carte de la clinique, lien vers la page commune, autres soins |
+| `service-clinique` | un service dans une clinique | le texte de la page commune, photo, carte de la clinique, autres soins |
 
 ## Les pages communes
 
@@ -76,9 +76,9 @@ Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa f
 | `/<clinique>/rendez-vous/` | `rendez-vous.md` | `rendez-vous` |
 | `/<clinique>/questions-frequentes/` | `questions-frequentes.md` | `questions-frequentes` |
 | `/<clinique>/urgences/` | `urgences.md`, si la fiche dit `"urgences": true` | `urgences` |
-| `/<clinique>/services/<service>/` | `services/<service>.md`, pour chaque service du champ `services` de la fiche | `service-clinique` |
+| `/<clinique>/services/<service>/` | aucun fichier : la page commune `services/<service>.md`, reprise pour chaque service du champ `services` de la fiche | `service-clinique` |
 
-Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Une clinique peut avoir une page de service en plus, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
+Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Les pages de service d'une clinique se fabriquent toutes seules, depuis la liste `services` de sa fiche et les pages communes. Une clinique peut avoir une page de service écrite, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
 
 ## Ce que le site vérifie
 

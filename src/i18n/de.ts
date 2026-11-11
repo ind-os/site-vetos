@@ -58,7 +58,7 @@ export const de: Catalogue = {
   },
 
   urgence: {
-    garde: 'Notfallnummer',
+    garde: 'Im Notfall ausserhalb der Öffnungszeiten der Praxis wählen Sie die',
     services: 'Unsere Notfalldienste',
     gratuit: 'Kostenlose Nummer',
     horaires: 'Täglich von 8 Uhr bis Mitternacht',
@@ -87,6 +87,9 @@ export const de: Catalogue = {
     fermetures: 'Angekündigte Schliessungen',
     fermeDuAu: (du: string, au: string) => `Geschlossen vom ${du} bis ${au}`,
     fermeLe: (date: string) => `Geschlossen am ${date}`,
+    alternance: (plages: string, jour: string, avec: string) =>
+      `${plages}, etwa jeden zweiten ${jour}, abwechselnd mit der Praxis ${avec}. Rufen Sie vor Ihrem Besuch an.`,
+    appelerAvant: 'Heute bitte vor dem Besuch anrufen',
   },
 
   clinique: {
@@ -114,7 +117,7 @@ export const de: Catalogue = {
     nac: 'Kaninchen und Heimtiere',
     chiens: 'Hunde',
     chats: 'Katzen',
-    nacs: 'Kaninchen und Heimtiere',
+    nacs: 'Heimtiere',
   },
 
   langues: {
