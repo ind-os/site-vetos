@@ -30,7 +30,7 @@ Les images s'affichent pendant l'examen et le vétérinaire vous les explique au
 
 - [Radiographie](/services/radiographie/) : os, poumons, ventre et dépistage officiel de la dysplasie.
 - [Échographie](/services/echographie/) : le ventre, le cœur et la gestation.
-- [Endoscopie](/services/endoscopie/) : une caméra fine dans l'estomac, l'intestin ou le nez, à Fribourg Ouest.
+- [Endoscopie](/services/endoscopie/) : une caméra fine dans l'estomac, l'intestin ou le nez, à Fribourg Ouest et au Lac-de-Joux.
 
 ## Soins, analyses et médecine spécialisée
 
@@ -48,6 +48,6 @@ Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page d
 
 ## Prix et rendez-vous
 
-Les prix varient d'un cabinet à l'autre. Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
+Consultez la page Tarifs de votre cabinet pour plus d'informations, depuis la [liste des cabinets](/cabinets/). Pour un rendez-vous, choisissez votre cabinet sur la carte des cabinets.
 
 [Trouver le cabinet le plus proche](/cabinets/)

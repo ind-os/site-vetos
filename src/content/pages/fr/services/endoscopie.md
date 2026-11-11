@@ -108,16 +108,17 @@ Ce que montre la caméra se voit tout de suite et le vétérinaire vous l'expliq
 
 ### Mon cabinet ne fait pas d'endoscopie. Comment faire ?
 
-Votre vétérinaire habituel examine l'animal et adresse le dossier à Fribourg Ouest. Il reçoit ensuite le compte rendu et suit le traitement.
+Votre vétérinaire habituel examine l'animal et adresse le dossier à Fribourg Ouest ou au Lac-de-Joux. Il reçoit ensuite le compte rendu et suit le traitement.
 
-## Le cabinet qui la pratique
+## Les cabinets qui la pratiquent
 
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : l'endoscope, avec la radiographie numérique et les analyseurs sanguins dans le même cabinet. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : l'endoscope, avec l'échographe et le laboratoire dans le même cabinet. [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 
-Les autres cabinets Vetmint adressent leurs patients à Fribourg Ouest pour l'endoscopie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
+Les autres cabinets Vetmint adressent leurs patients à Fribourg Ouest ou au Lac-de-Joux pour l'endoscopie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
 
 ## Prendre rendez-vous
 
-Une endoscopie se décide pendant une consultation, chez votre vétérinaire habituel ou à Fribourg Ouest. Pour un objet avalé, appelez sans attendre. La fiche sur la [pancréatite du chien](/conseils/pancreatite-du-chien/) décrit une autre cause de vomissements.
+Une endoscopie se décide pendant une consultation, chez votre vétérinaire habituel, à Fribourg Ouest ou au Lac-de-Joux. Pour un objet avalé, appelez sans attendre. La fiche sur la [pancréatite du chien](/conseils/pancreatite-du-chien/) décrit une autre cause de vomissements.
 
 [Trouver le cabinet le plus proche](/cabinets/)

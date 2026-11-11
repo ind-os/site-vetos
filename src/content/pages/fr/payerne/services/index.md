@@ -3,7 +3,7 @@ type: services-clinique
 clinique: payerne
 url: /payerne/services/
 title: "Services vétérinaires à Payerne | Vetmint"
-description: "Services vétérinaires à Payerne : chiens, chats, lapins et rongeurs. Consultation de 30 minutes à 57 francs, vaccins, chirurgie, dentaire et radiographie."
+description: "Services vétérinaires à Payerne : chiens, chats et NAC. Consultation de 30 minutes à 57 francs, vaccins, chirurgie, dentaire et radiographie."
 h1: Les services à Payerne
 recherche: services vétérinaires Payerne
 redige_le: 2026-11-04

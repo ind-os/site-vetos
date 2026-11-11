@@ -26,8 +26,6 @@ Telefon [021 703 25 30](tel:+41217032530), E-Mail [bussigny@vetmint.ch](mailto:b
 - Notfalldienst: [0900 80 70 60](tel:0900807060), 2 Franken pro Minute
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen und Nager. Lasertherapie und Ultraschall vor Ort.
-
 [Die Praxis Vetmint Bussigny](/de/bussigny/)
 
 ## Vetmint La Chaux-de-Fonds
@@ -42,9 +40,8 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Telefon [032 914 03 48](tel:+
 
 <!-- donnees: garde -->
 - Notfalldienst: [0900 901 902](tel:0900901902), 3 Franken pro Minute
+- Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632), Nummer ohne Zuschlag
 <!-- /donnees -->
-
-Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten, Hamster, Rennmäuse und Degus. Miniatur-Mikrochips und Thermochips (Chips, die auch die Temperatur messen).
 
 [Die Praxis Vetmint La Chaux-de-Fonds](/de/chauxdefonds/)
 
@@ -64,8 +61,6 @@ Am Samstag öffnen Domdidier und Payerne abwechselnd, von 8.30 bis 15 Uhr, nie b
 - Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen und Nager. Hausbesuche. Konsultationen auf Französisch, Portugiesisch und Englisch.
-
 [Die Praxis Vetmint Domdidier](/de/domdidier/)
 
 ## Vetmint Fribourg Ouest
@@ -81,8 +76,6 @@ Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freib
 - Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde und Katzen, Kaninchen, Nager, Vögel und Reptilien. Heimtierkonsultation, Schmerzkonsultation und Chirurgiekonsultation.
-
 [Die Praxis Vetmint Fribourg Ouest](/de/fribourg/)
 
 ## Vetmint Lac-de-Joux
@@ -97,8 +90,6 @@ Route de l'Hôtel-de-Ville 11, 1344 L'Abbaye, am Lac de Joux. Telefon [021 357 8
 <!-- donnees: garde -->
 - Notfalldienst Médi-Vet: [0900 022 022](tel:0900022022), 2 Franken pro Minute
 <!-- /donnees -->
-
-Hunde, Katzen, Kaninchen, Meerschweinchen, Chinchillas, Ratten und Degus. Operationen mit Laparoskopie (kleine Schnitte und Kamera), Ultraschall vor Ort. Notfälle werden während der Öffnungszeiten empfangen.
 
 [Die Praxis Vetmint Lac-de-Joux](/de/lacdejoux/)
 
@@ -117,8 +108,6 @@ Am Samstag öffnen Payerne und Domdidier abwechselnd, von 8.30 bis 15 Uhr, nie b
 - Notfalldienst: [026 466 34 35](tel:+41264663435), Anruf zum Normaltarif
 <!-- /donnees -->
 
-Hunde, Katzen, Kaninchen und Nager. Das Team spricht Französisch, Deutsch, Englisch und Portugiesisch.
-
 [Die Praxis Vetmint Payerne](/de/payerne/)
 
 ## Vetmint Saint-Blaise
@@ -132,9 +121,8 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Telefon [032 753 11 22](tel:+413275
 
 <!-- donnees: garde -->
 - Notfalldienst: [0900 80 70 60](tel:0900807060), 2 Franken pro Minute
+- Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632), Nummer ohne Zuschlag
 <!-- /donnees -->
-
-Hunde, Katzen, Kaninchen und Nager. Lasertherapie und Trächtigkeitsultraschall.
 
 [Die Praxis Vetmint Saint-Blaise](/de/saintblaise/)
 
@@ -150,7 +138,5 @@ Route des Deux-Villages 21, 1806 Saint-Légier-La Chiésaz. Telefon [021 683 10 
 <!-- donnees: garde -->
 - Notfalldienst der Riviera: [0900 906 906](tel:0900906906), 2 Franken pro Minute von 8 bis 22 Uhr, 5 Franken von 22 bis 8 Uhr
 <!-- /donnees -->
-
-Hunde, Katzen, Kaninchen und Nager. Ultraschall von Bauch und Herz, Lasertherapie.
 
 [Die Praxis Vetmint Saint-Légier](/de/saintlegier/)

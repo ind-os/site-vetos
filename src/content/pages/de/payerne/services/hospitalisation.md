@@ -3,11 +3,11 @@ type: service-clinique
 clinique: payerne
 url: /de/payerne/leistungen/stationaere-betreuung/
 title: "Stationäre Betreuung von Hund und Katze in Payerne | Vetmint"
-description: "Stationäre Betreuung von Hund, Katze, Kaninchen und Nagern in Payerne: Abgabe am Morgen, Infusion, überwachtes Aufwachen, Kontrolle abends und morgens. Preise."
+description: "Stationäre Betreuung von Hund, Katze und Heimtieren in Payerne: Abgabe am Morgen, Infusion, überwachtes Aufwachen, Kontrolle abends und morgens. Preise."
 h1: Stationäre Betreuung in Payerne
 recherche: stationäre Betreuung Hund Payerne
 redige_le: 2026-11-03
-resume: Hunde, Katzen, Kaninchen und Nager bleiben den Tag oder die Nacht, mit einem Anruf der Tierärztin oder des Tierarztes.
+resume: Hunde, Katzen und Heimtiere bleiben den Tag oder die Nacht, mit einem Anruf der Tierärztin oder des Tierarztes.
 ---
 
 Die Tierarztpraxis Vetmint Payerne nimmt Ihren Hund, Ihre Katze, Ihr Kaninchen oder Ihren Nager stationär auf, wenn er fortlaufende Behandlung braucht. Die meisten Patienten bleiben einen Tag: Sie werden am Morgen abgegeben und gehen am Abend nach Hause, nach einer Infusion, einer Beobachtung oder dem Aufwachen aus einer Operation. Jedes Tier erhält einen Käfig, der nach seiner Grösse und der Dauer seines Aufenthalts gewählt wird. Nachts bleibt das Team nicht vor Ort: Es kontrolliert die Patienten bei Schliessung und gleich bei Öffnung.

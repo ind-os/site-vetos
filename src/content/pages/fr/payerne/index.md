@@ -3,14 +3,14 @@ type: accueil-clinique
 clinique: payerne
 url: /payerne/
 title: "Vétérinaire à Payerne : cabinet Vetmint Payerne"
-description: "Cabinet vétérinaire à Payerne pour chiens, chats, lapins et rongeurs. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
+description: "Cabinet vétérinaire à Payerne pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
 h1: Cabinet vétérinaire Vetmint Payerne
 recherche: vétérinaire Payerne
 redige_le: 2026-10-16
-resume: Chiens, chats, lapins et rongeurs, route du Châtelard 13. Consultations de 30 minutes sur rendez-vous.
+resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minutes sur rendez-vous.
 ---
 
-Le cabinet vétérinaire Vetmint Payerne reçoit les chiens, les chats, les lapins et les rongeurs à la route du Châtelard 13. Deux vétérinaires, Claire-Lise Tinguely et Tiago Capelo, y travaillent avec deux assistantes en médecine vétérinaire et deux jeunes en formation. Chaque consultation dure 30 minutes et se fait sur rendez-vous.
+Le cabinet vétérinaire Vetmint Payerne reçoit les chiens, les chats et tous les NAC à la route du Châtelard 13. Deux vétérinaires, Claire-Lise Tinguely et Tiago Capelo, y travaillent avec deux assistantes en médecine vétérinaire et deux jeunes en formation. Chaque consultation dure 30 minutes et se fait sur rendez-vous.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 
@@ -29,15 +29,16 @@ Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 
 
 - La [consultation de 30 minutes](/payerne/services/prevention/) sert au bilan annuel, à un animal malade ou à un deuxième avis.
 - Les vaccins du [chien](/payerne/services/prevention/) et du [chat](/payerne/services/prevention/) se font avec le bilan annuel ; le lapin reçoit le sien contre la maladie hémorragique virale.
-- La [stérilisation et la castration](/payerne/services/chirurgie/) concernent les chiens, les chats, les lapins et les petits rongeurs, du cochon d'Inde au hamster.
+- La [stérilisation et la castration](/payerne/services/chirurgie/) concernent les chiens, les chats et les NAC.
 - La [chirurgie](/payerne/services/chirurgie/) traite une plaie, une grosseur à retirer, un corps étranger avalé ou une césarienne.
 - Les [soins dentaires](/payerne/services/dentisterie/) commencent par une radiographie des dents, puis le détartrage aux ultrasons et le polissage.
 - Le laboratoire du cabinet fait les [analyses](/payerne/services/analyses-sanguines/) de sang, d'urine, de selles et de peau.
 - La [radiographie numérique](/payerne/services/radiographie/) comprend les clichés officiels des hanches et des coudes pour le dépistage de la dysplasie.
-- L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats, lapins et rongeurs dans des cages adaptées à la durée du séjour.
-- Un vétérinaire se déplace pour les [visites à domicile](/services/visites-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
+- L'[échographie](/payerne/services/echographie/) du ventre, du cœur et de gestation se fait au cabinet.
+- L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats et NAC dans des cages adaptées à la durée du séjour.
+- Un vétérinaire se déplace pour les [visites à domicile](/payerne/services/visites-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
 
-Les [NAC](/services/nac/) (lapins, cochons d'Inde, rats, chinchillas, gerbilles, dègues) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué au cabinet.
+Les [NAC](/services/nac/) (lapins, rongeurs, furets, oiseaux, reptiles) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué au cabinet.
 
 ## L'équipe
 

@@ -102,7 +102,7 @@ Oft gibt sie eine Richtung vor: Ein Fettknoten ist nach wenigen Minuten erkennba
 
 ### Kann man bei einem Kaninchen oder einem Vogel Blut entnehmen?
 
-Ja. Die entnommene Menge wird dem Gewicht des Tieres angepasst. Die Praxis Fribourg Ouest hat Analysegeräte für Kaninchen, Nager, Vögel und Reptilien.
+Ja, in allen acht Praxen. Die entnommene Menge wird dem Gewicht des Tieres angepasst. Für die erweiterte Heimtiermedizin hat die Praxis Fribourg Ouest Analysegeräte, die auf Kaninchen, Nager, Vögel und Reptilien abgestimmt sind.
 
 ### Kann ich eine Urinprobe ohne mein Tier abgeben?
 

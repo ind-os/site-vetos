@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /payerne/services/chirurgie/
 title: "Chirurgie et stérilisation à Payerne | Vetmint"
-description: "Chirurgie vétérinaire à Payerne : stérilisation, castration, grosseur, plaie, objet avalé, césarienne, pour chiens, chats, lapins et rongeurs. Bloc sur place."
+description: "Chirurgie vétérinaire à Payerne : stérilisation, castration, grosseur, plaie, objet avalé, césarienne, pour chiens, chats et NAC. Bloc sur place."
 h1: Chirurgie à Payerne
 recherche: chirurgie vétérinaire Payerne
 redige_le: 2026-11-10
 resume: "Stérilisations, castrations et opérations des tissus mous, faites sur place route du Châtelard 13."
 ---
 
-À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération du cabinet Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y stérilisent et castrent les chats, les chiens, les lapins et les rongeurs. Ils retirent aussi des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Votre animal rentre le plus souvent avec vous le soir même.
+À Payerne, la chirurgie vétérinaire se fait sur place, dans la salle d'opération du cabinet Vetmint, route du Châtelard 13. Claire-Lise Tinguely et Tiago Capelo y stérilisent et castrent les chats, les chiens et les NAC. Ils retirent aussi des grosseurs, referment des plaies, sortent des objets avalés et font des césariennes. Votre animal rentre le plus souvent avec vous le soir même.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 

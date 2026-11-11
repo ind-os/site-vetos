@@ -18,7 +18,7 @@ Die Vorsorge verhindert, dass ein Hund, eine Katze oder ein Kaninchen krank wird
 
 ## Für welche Tiere und wann
 
-Alle acht Praxen empfangen Hunde, Katzen, Kaninchen und Nager. Die Praxis Fribourg Ouest in Givisiez empfängt auch Frettchen, Vögel und Reptilien.
+Alle acht Praxen empfangen alle Heimtiere: Hunde, Katzen, Kaninchen, Nager, Frettchen, Vögel und Reptilien. Sie behandeln weder Pferde noch Nutztiere.
 
 | Situation | Was der Besuch bringt | In welchem Rhythmus |
 |---|---|---|
@@ -150,7 +150,7 @@ Alle acht Vetmint-Praxen machen Checks, Impfungen und Mikrochips nach Termin.
 - [Bussigny](/de/bussigny/leistungen/): ein Online-Kalender nur für Impfungen. [Termin](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): die Impfkonsultation lässt sich online buchen. [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): Konsultationen auf Französisch, Portugiesisch und Englisch. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: zusätzlich Frettchen, Vögel und Reptilien. [Termin](/de/fribourg/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: ein Tierarzt mit Ausbildung in Heimtiermedizin, für schwierige Fälle. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Labor vor Ort. [Termin](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): Mini-Chip und Thermochip. [Termin](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): Mini-Chip und Thermochip. [Termin](/de/saintblaise/termin/)

@@ -30,7 +30,7 @@ Die Bilder erscheinen während der Untersuchung und werden Ihnen sofort erklärt
 
 - [Röntgen](/de/leistungen/roentgen/): Knochen, Lunge, Bauch und offizielle Dysplasie-Untersuchung.
 - [Ultraschall](/de/leistungen/ultraschall/): Bauch, Herz und Trächtigkeit.
-- [Endoskopie](/de/leistungen/endoskopie/): eine feine Kamera in Magen, Darm oder Nase, in Fribourg Ouest.
+- [Endoskopie](/de/leistungen/endoskopie/): eine feine Kamera in Magen, Darm oder Nase, in Fribourg Ouest und Lac-de-Joux.
 
 ## Betreuung, Labor und spezialisierte Medizin
 
@@ -48,6 +48,6 @@ Manche dieser Behandlungen gibt es nur in einigen Praxen. Jede Seite sagt, in we
 
 ## Preise und Termin
 
-Die Preise sind nicht in allen Praxen gleich. Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
+Die Preisseite Ihrer Praxis gibt Ihnen mehr Auskunft. Sie finden sie über die [Liste der Praxen](/de/praxen/). Für einen Termin wählen Sie Ihre Praxis auf der Karte der Praxen.
 
 [Die nächste Praxis finden](/de/praxen/)

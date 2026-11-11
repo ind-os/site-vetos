@@ -26,8 +26,6 @@ Téléphone [021 703 25 30](tel:+41217032530), e-mail [bussigny@vetmint.ch](mail
 - Garde : [0900 80 70 60](tel:0900807060), 2 francs la minute
 <!-- /donnees -->
 
-Chiens, chats, lapins et rongeurs. Thérapie laser et échographie sur place.
-
 [Le cabinet Vetmint Bussigny](/bussigny/)
 
 ## Vetmint La Chaux-de-Fonds
@@ -42,9 +40,8 @@ Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds. Téléphone [032 914 03 48](t
 
 <!-- donnees: garde -->
 - Garde : [0900 901 902](tel:0900901902), 3 francs la minute
+- Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632), numéro non surtaxé
 <!-- /donnees -->
-
-Chiens, chats, lapins, cochons d'Inde, chinchillas, rats, hamsters, gerbilles et dègues. Puces électroniques miniatures et thermochips (puces qui mesurent aussi la température).
 
 [Le cabinet Vetmint La Chaux-de-Fonds](/chauxdefonds/)
 
@@ -64,8 +61,6 @@ Le samedi, Domdidier et Payerne ouvrent à tour de rôle, de 8 h 30 à 15 h, jam
 - Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens, chats, lapins et rongeurs. Soins à domicile. Consultations en français, en portugais et en anglais.
-
 [Le cabinet Vetmint Domdidier](/domdidier/)
 
 ## Vetmint Fribourg Ouest
@@ -81,8 +76,6 @@ Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entr
 - Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens et chats, lapins, rongeurs, oiseaux et reptiles. Consultation des NAC, consultation de la douleur et consultation de chirurgie.
-
 [Le cabinet Vetmint Fribourg Ouest](/fribourg/)
 
 ## Vetmint Lac-de-Joux
@@ -97,8 +90,6 @@ Route de l'Hôtel-de-Ville 11, 1344 L'Abbaye, près du lac de Joux. Téléphone 
 <!-- donnees: garde -->
 - Garde Médi-Vet : [0900 022 022](tel:0900022022), 2 francs la minute
 <!-- /donnees -->
-
-Chiens, chats, lapins, cochons d'Inde, chinchillas, rats et dègues. Opérations par laparoscopie (petites incisions et caméra), échographie sur place. Les urgences sont reçues pendant les heures d'ouverture.
 
 [Le cabinet Vetmint Lac-de-Joux](/lacdejoux/)
 
@@ -117,8 +108,6 @@ Le samedi, Payerne et Domdidier ouvrent à tour de rôle, de 8 h 30 à 15 h, jam
 - Garde : [026 466 34 35](tel:+41264663435), appel au tarif normal
 <!-- /donnees -->
 
-Chiens, chats, lapins et rongeurs. L'équipe parle français, allemand, anglais et portugais.
-
 [Le cabinet Vetmint Payerne](/payerne/)
 
 ## Vetmint Saint-Blaise
@@ -132,9 +121,8 @@ Rue des Bourguillards 11, 2072 Saint-Blaise. Téléphone [032 753 11 22](tel:+41
 
 <!-- donnees: garde -->
 - Garde : [0900 80 70 60](tel:0900807060), 2 francs la minute
+- Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632), numéro non surtaxé
 <!-- /donnees -->
-
-Chiens, chats, lapins et rongeurs. Thérapie laser et échographie de gestation.
 
 [Le cabinet Vetmint Saint-Blaise](/saintblaise/)
 
@@ -150,7 +138,5 @@ Route des Deux-Villages 21, 1806 Saint-Légier-La Chiésaz. Téléphone [021 683
 <!-- donnees: garde -->
 - Garde de la Riviera : [0900 906 906](tel:0900906906), 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h
 <!-- /donnees -->
-
-Chiens, chats, lapins et rongeurs. Échographie du ventre et du cœur, thérapie laser.
 
 [Le cabinet Vetmint Saint-Légier](/saintlegier/)

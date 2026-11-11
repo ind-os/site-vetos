@@ -2,17 +2,17 @@
 type: service
 url: /de/leistungen/heimtiere/
 title: "Erweiterte Heimtiermedizin: Kaninchen, Vögel | Vetmint"
-description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen und Nager in allen acht Praxen, Vögel und Reptilien in Fribourg Ouest. Impfungen, Operationen, Zähne."
+description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen, Nager, Vögel und Reptilien in allen acht Praxen, schwierige Fälle in Fribourg Ouest. Impfungen, Operationen."
 h1: "Erweiterte Heimtiermedizin: vom Kaninchen bis zum Reptil"
 nom: Erweiterte Heimtiermedizin
 recherche: Tierarzt Heimtiere
 redige_le: 2026-11-10
 ordre: 11
 especes: [nac]
-resume: Kaninchen und Nager in allen acht Praxen, Vögel, Reptilien und komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
+resume: Alle Heimtiere in allen acht Praxen, komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
 ---
 
-Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen Kaninchen und Nager. Vögel, Reptilien und schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert.
+Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen alle Heimtiere. Schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert.
 
 [Termin für ein Heimtier in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
 
@@ -21,14 +21,14 @@ Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere 
 | Tier | Wo es behandelt wird |
 |---|---|
 | Kaninchen | in allen acht Praxen |
-| Meerschweinchen, Chinchilla, Ratte, Degu | in allen acht Praxen, Operationen in sechs davon |
-| Hamster, Wüstenrennmaus | in allen acht Praxen, Operationen in fünf davon |
+| Meerschweinchen, Chinchilla, Ratte, Degu | in allen acht Praxen |
+| Hamster, Wüstenrennmaus | in allen acht Praxen |
 | Frettchen | in allen acht Praxen |
-| Papagei, Sittich, Kanarienvogel, Huhn | in Fribourg Ouest |
-| Schildkröte, Echse, Schlange | in Fribourg Ouest |
-| Fisch, Amphibie, Insekt, Spinne | in Fribourg Ouest |
+| Papagei, Sittich, Kanarienvogel, Huhn | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
+| Schildkröte, Echse, Schlange | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
+| Fisch, Amphibie, Insekt, Spinne | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
 
-Im Zweifelsfall rufen Sie die nächstgelegene Praxis an: Sie sagt Ihnen, ob sie Ihr Tier aufnimmt, oder verweist Sie an Fribourg Ouest.
+Die Vetmint-Praxen behandeln weder Pferde noch Nutztiere. Bei einem schwierigen Fall verweist Sie die nächstgelegene Praxis an Fribourg Ouest.
 
 ## Warum ein Heimtier anders behandelt wird
 
@@ -50,13 +50,13 @@ Das Frettchen, das reist, erhält wie Hund und Katze eine Tollwutimpfung. Ein Pa
 
 ## Was vor Ort geschieht
 
-**Die Konsultationen.** Alle Praxen empfangen Kaninchen und Nager zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. In Fribourg Ouest geht die spezialisierte Heimtier-Konsultation weiter: ergänzende Untersuchungen, Behandlungsplan, schriftliches Merkblatt zur Krankheit Ihres Tieres.
+**Die Konsultationen.** Alle Praxen empfangen Heimtiere zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. In Fribourg Ouest geht die spezialisierte Heimtier-Konsultation weiter: ergänzende Untersuchungen, Behandlungsplan, schriftliches Merkblatt zur Krankheit Ihres Tieres.
 
-**Die Operationen.** Die acht Praxen kastrieren Kaninchenmännchen und sterilisieren Kaninchenweibchen. Sechs operieren auch Meerschweinchen, Chinchillas, Ratten und Degus; fünf operieren Hamster und Wüstenrennmäuse. Die Narkose erfolgt mit Gas, nach einem Protokoll, das auf die Art abgestimmt ist. Fribourg Ouest führt zusätzlich Mikrochirurgie an kleinen Nagern, Vögeln und Reptilien durch.
+**Die Operationen.** Die acht Praxen operieren Heimtiere: Kastration des Kaninchenmännchens, Sterilisation des Kaninchenweibchens, Operationen an Nagern. Die Narkose erfolgt mit Gas, nach einem Protokoll, das auf die Art abgestimmt ist. Fribourg Ouest führt zusätzlich Mikrochirurgie an kleinen Nagern, Vögeln und Reptilien durch.
 
 **Die Zähne.** Alle Praxen behandeln die Zähne von Kaninchen und Nagern: Kürzen zu langer Zähne, Zahnröntgen, Extraktionen, Behandlung von Abszessen. Siehe [Zahnerkrankungen beim Kaninchen](/de/ratgeber/zahnerkrankungen-kaninchen/).
 
-**Die stationäre Betreuung.** Die Praxen nehmen Kaninchen und Nager stationär auf. In Fribourg Ouest ist der Bereich für die stationäre Betreuung dafür ausgestattet, stark geschwächte Heimtiere aufzuwärmen, mit Flüssigkeit zu versorgen und zu füttern. Das Team überwacht dort den Schmerz und begrenzt den Stress dieser empfindlichen Tiere.
+**Die stationäre Betreuung.** Die acht Praxen nehmen Heimtiere stationär auf. In Fribourg Ouest ist der Bereich für die stationäre Betreuung dafür ausgestattet, stark geschwächte Heimtiere aufzuwärmen, mit Flüssigkeit zu versorgen und zu füttern. Das Team überwacht dort den Schmerz und begrenzt den Stress dieser empfindlichen Tiere.
 
 ## Den Besuch vorbereiten
 
@@ -100,36 +100,32 @@ Nein, für das Meerschweinchen gibt es keine gängige Impfung. Der jährliche Be
 
 ### Kann man einen Hamster operieren?
 
-Ja, in fünf Praxen. Die Narkose eines Tieres von 100 Gramm erfordert angepasstes Material und angepasste Dosen. Die Tierärztin oder der Tierarzt bespricht es mit Ihnen, bevor sie oder er entscheidet.
+Ja. Die Narkose eines Tieres von 100 Gramm erfordert angepasstes Material und angepasste Dosen. Die Tierärztin oder der Tierarzt bespricht es mit Ihnen, bevor sie oder er entscheidet.
 
 ### Wo kann ich meinen Papagei behandeln lassen?
 
-In Fribourg Ouest. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels. Sie umfasst bei Bedarf eine Blutentnahme, eine Untersuchung auf ansteckende Krankheiten, das Setzen eines Mikrochips und die Geschlechtsbestimmung.
+In der Vetmint-Praxis in Ihrer Nähe. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels. In Fribourg Ouest umfasst sie bei Bedarf eine Blutentnahme, eine Untersuchung auf ansteckende Krankheiten, das Setzen eines Mikrochips und die Geschlechtsbestimmung.
 
 ## Die Praxen und ihre Heimtierpraxis
 
 ### Fribourg Ouest, in Givisiez
 
-Dies ist die Praxis der Gruppe, die alle Heimtiere empfängt. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. Die Einzelheiten finden Sie auf der Seite [Heimtiere in Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
+Dies ist die Praxis der Gruppe für schwierige Fälle und Zweitmeinungen. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. Die Einzelheiten finden Sie auf der Seite [Heimtiere in Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
 
-### Kaninchen und Nager, einschliesslich Operationen an kleinen Nagern
+### Die sieben anderen Praxen
 
+Sie empfangen alle Heimtiere, in der Konsultation, zur Operation und zur stationären Betreuung.
+
+- Bussigny: [Leistungen](/de/bussigny/leistungen/), [Termin](/de/bussigny/termin/)
 - La Chaux-de-Fonds: [Leistungen](/de/chauxdefonds/leistungen/), [Termin](/de/chauxdefonds/termin/)
 - Domdidier: [Leistungen](/de/domdidier/leistungen/), [Termin](/de/domdidier/termin/)
 - Payerne: [Leistungen](/de/payerne/leistungen/), [Termin](/de/payerne/termin/)
-- Saint-Blaise: [Leistungen](/de/saintblaise/leistungen/), [Termin](/de/saintblaise/termin/)
-
-### Kaninchen und Nager, ohne Operationen an Hamstern und Wüstenrennmäusen
-
 - Lac-de-Joux, in L'Abbaye: [Leistungen](/de/lacdejoux/leistungen/), [Termin](/de/lacdejoux/termin/)
-
-### Kaninchen und Nager, nur Operationen am Kaninchen
-
-- Bussigny: [Leistungen](/de/bussigny/leistungen/), [Termin](/de/bussigny/termin/)
+- Saint-Blaise: [Leistungen](/de/saintblaise/leistungen/), [Termin](/de/saintblaise/termin/)
 - Saint-Légier: [Leistungen](/de/saintlegier/leistungen/), [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 
-Nennen Sie am Telefon Art, Alter und Anlass. Bei einem Kaninchen, das nicht mehr frisst, sagen Sie es gleich: Es ist ein Notfall. Für einen Vogel, ein Reptil oder eine zweite Meinung zu einem Fall, der sich hinzieht, rufen Sie Fribourg Ouest an.
+Nennen Sie am Telefon Art, Alter und Anlass. Bei einem Kaninchen, das nicht mehr frisst, sagen Sie es gleich: Es ist ein Notfall. Für einen schwierigen Fall oder eine zweite Meinung zu einem Fall, der sich hinzieht, rufen Sie Fribourg Ouest an.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)

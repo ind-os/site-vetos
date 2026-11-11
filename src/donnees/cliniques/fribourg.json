@@ -25,7 +25,7 @@
     "chat",
     "nac"
   ],
-  "services": ["prevention", "chirurgie", "chirurgie-orthopedique", "dentisterie", "radiographie", "endoscopie", "hospitalisation", "analyses-sanguines", "nac"],
+  "services": ["prevention", "chirurgie", "dentisterie", "radiographie", "echographie", "hospitalisation", "analyses-sanguines", "visites-a-domicile", "chirurgie-orthopedique", "endoscopie", "nac"],
   "urgences": true,
   "horaires": {
     "lundi": [

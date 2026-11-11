@@ -3,11 +3,11 @@ type: service-clinique
 clinique: payerne
 url: /payerne/services/hospitalisation/
 title: "Hospitalisation chien et chat à Payerne | Vetmint"
-description: "Hospitalisation du chien, du chat, du lapin et des rongeurs à Payerne : dépôt le matin, perfusion, réveil surveillé, contrôle du soir et du matin, prix."
+description: "Hospitalisation du chien, du chat et des NAC (lapin, oiseau) à Payerne : dépôt le matin, perfusion, réveil surveillé, contrôle du soir et du matin, prix."
 h1: Hospitalisation à Payerne
 recherche: hospitalisation chien Payerne
 redige_le: 2026-11-03
-resume: Chiens, chats, lapins et rongeurs restent la journée ou la nuit, avec un appel du vétérinaire.
+resume: Chiens, chats et NAC restent la journée ou la nuit, avec un appel du vétérinaire.
 ---
 
 Le cabinet Vetmint Payerne garde en hospitalisation votre chien, votre chat, votre lapin ou votre rongeur quand il a besoin de soins suivis. La plupart des patients restent une journée : déposés le matin, ils repartent le soir après une perfusion, une observation ou le réveil d'une opération. Chaque animal a une cage choisie selon sa taille et la durée de son séjour. La nuit, l'équipe ne reste pas sur place : elle contrôle les patients à la fermeture puis dès l'ouverture.

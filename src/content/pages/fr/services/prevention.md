@@ -18,7 +18,7 @@ La prévention évite qu'un chien, un chat ou un lapin tombe malade. Elle réuni
 
 ## Pour quels animaux et à quel moment
 
-Les huit cabinets reçoivent les chiens, les chats, les lapins et les rongeurs. Le cabinet de Fribourg Ouest, à Givisiez, reçoit aussi les furets, les oiseaux et les reptiles.
+Les huit cabinets reçoivent tous les animaux de compagnie : chiens, chats, lapins, rongeurs, furets, oiseaux et reptiles. Ils ne soignent ni les chevaux ni les animaux de ferme.
 
 | Situation | Ce que fait la visite | À quel rythme |
 |---|---|---|
@@ -150,7 +150,7 @@ Les huit cabinets Vetmint font les bilans, les vaccins et la puce, sur rendez-vo
 - [Bussigny](/bussigny/services/) : un calendrier en ligne réservé aux vaccins. [Prendre rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : la consultation vaccinale se réserve en ligne. [Prendre rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : consultations en français, en portugais et en anglais. [Prendre rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : furets, oiseaux et reptiles en plus. [Prendre rendez-vous](/fribourg/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : un vétérinaire formé aux NAC, pour les cas difficiles. [Prendre rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : laboratoire d'analyses sur place. [Prendre rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : puce miniature et thermochip. [Prendre rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : puce miniature et thermochip. [Prendre rendez-vous](/saintblaise/rendez-vous/)

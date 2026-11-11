@@ -12,7 +12,7 @@ especes: [chien, chat, nac]
 resume: Die Kastration, die Sterilisation und die Operationen an Haut, Bauch und Organen.
 ---
 
-Die tierärztliche Weichteilchirurgie operiert Haut, Bauch und Organe, ohne Knochen und Gelenke. Die häufigsten Operationen sind die Kastration und die Sterilisation. Dazu kommen das Entfernen eines Knotens, das Verschliessen einer Wunde, das Entfernen eines verschluckten Gegenstands und der Kaiserschnitt. Die acht Vetmint-Praxen operieren Hunde, Katzen, Kaninchen und Nager, mit einer durchgehend überwachten Narkose.
+Die tierärztliche Weichteilchirurgie operiert Haut, Bauch und Organe, ohne Knochen und Gelenke. Die häufigsten Operationen sind die Kastration und die Sterilisation. Dazu kommen das Entfernen eines Knotens, das Verschliessen einer Wunde, das Entfernen eines verschluckten Gegenstands und der Kaiserschnitt. Die acht Vetmint-Praxen operieren Hunde, Katzen und Heimtiere, mit einer durchgehend überwachten Narkose.
 
 [Praxis für eine Konsultation wählen](/de/praxen/)
 
@@ -133,14 +133,14 @@ Ja, nach Absprache mit der Praxis. In Fribourg Ouest gibt es einen Besuchsraum f
 
 Alle acht Praxen haben einen Operationssaal und eine stationäre Betreuung vor Ort.
 
-- [Bussigny](/de/bussigny/leistungen/): der Laser für die Wundheilung nach der Operation. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Operationen an Kaninchen und vielen Nagern. [Termin](/de/chauxdefonds/termin/)
+- [Bussigny](/de/bussigny/leistungen/): Operationssaal und stationäre Betreuung vor Ort. [Termin](/de/bussigny/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): der Laser für die Wundheilung nach der Operation. [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): ein externer Anästhesist kommt für komplexe Narkosen. [Termin](/de/domdidier/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: eine auf Chirurgie spezialisierte Tierärztin und nach Tierart getrennte Boxen. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: ein Operationssaal mit zwei Zonen und die Laparoskopie. [Termin](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): ein Vorbereitungsraum, verbunden mit Operationssaal und Röntgen. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Operationen an Nagern, vom Meerschweinchen bis zum Hamster. [Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/): Ultraschall vor Ort und Laser für die Wundheilung. [Termin](/de/saintlegier/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Operationssaal und stationäre Betreuung vor Ort. [Termin](/de/saintblaise/termin/)
+- [Saint-Légier](/de/saintlegier/leistungen/): der Laser für die Wundheilung nach der Operation. [Termin](/de/saintlegier/termin/)
 
 ## Termin vereinbaren
 

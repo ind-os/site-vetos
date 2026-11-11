@@ -53,9 +53,14 @@ function htmlDesFermetures(clinique: Clinique, langue: Langue): string {
  */
 export function htmlDeLaGarde(clinique: Clinique, langue: Langue, forme: 'ligne' | 'bloc' = 'ligne'): string {
   const t = textes(langue).urgence;
-  const { telephone, tarif } = clinique.garde;
+  const { telephone, tarif, autre } = clinique.garde;
+  // Une ligne par numéro ; un second service de garde de la région (`garde.autre`) vient sous son nom.
   // En français, une espace insécable précède les deux-points.
-  return `<p class="garde${forme === 'bloc' ? ' garde--bloc' : ''}"><span class="croix" aria-hidden="true"></span><span>${t.garde}${langue === 'fr' ? '\u00a0' : ''}: <a href="${lienTelephone(telephone.international)}">${echapper(telephone.affiche)}</a>, ${echapper(tarif[langue])}</span></p>`;
+  const pointsFr = langue === 'fr' ? ' ' : '';
+  const ligne = (libelle: string, numero: typeof telephone, prix: string) =>
+    `<span class="garde__ligne">${libelle}${pointsFr}: <a href="${lienTelephone(numero.international)}">${echapper(numero.affiche)}</a>, ${echapper(prix)}</span>`;
+  const lignes = ligne(t.garde, telephone, tarif[langue]) + (autre ? ligne(echapper(autre.nom), autre.telephone, autre.tarif[langue]) : '');
+  return `<p class="garde${forme === 'bloc' ? ' garde--bloc' : ''}"><span class="croix" aria-hidden="true"></span><span>${lignes}</span></p>`;
 }
 
 /** Le bandeau d'annonce de la clinique s'il s'affiche aujourd'hui : il disparaît après sa date `jusqu_au`. */

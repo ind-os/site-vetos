@@ -110,7 +110,6 @@ export async function navigationDe(langue: Langue, clinique?: Clinique): Promise
       { libelle: n.urgences, href: await lien('urgences') },
       { libelle: n.emploi, href: await lien('emploi') },
       { libelle: n.aPropos, href: await lien('a-propos') },
-      { libelle: n.newsletter, href: await lien('newsletter') },
     ],
     legal,
   };

@@ -2,7 +2,7 @@
 type: service
 url: /de/leistungen/ultraschall/
 title: "Ultraschall bei Hund und Katze: Dauer, Ablauf | Vetmint"
-description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 25 Minuten, 12 Stunden nüchtern, oft ohne Sedation. Sechs Praxen haben ein Ultraschallgerät."
+description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 25 Minuten, 12 Stunden nüchtern, oft ohne Sedation. Alle acht Praxen haben ein Ultraschallgerät."
 h1: Ultraschall bei Hund und Katze
 nom: Ultraschall
 recherche: Ultraschall Hund Katze
@@ -12,7 +12,7 @@ ordre: 6
 resume: Der Ultraschall von Bauch, Herz und Trächtigkeit, die Vorbereitung, die Dauer und die ausgestatteten Praxen.
 ---
 
-Der Ultraschall beim Hund und bei der Katze zeigt das Innere des Bauchs und das Herz in bewegten Bildern, ohne Röntgenstrahlen und ohne Schmerzen. Die Untersuchung dauert 15 bis 25 Minuten, meist an einem wachen Tier. Für den Bauch muss es seit 12 Stunden nüchtern sein. Sechs Praxen von Vetmint haben ein Ultraschallgerät.
+Der Ultraschall beim Hund und bei der Katze zeigt das Innere des Bauchs und das Herz in bewegten Bildern, ohne Röntgenstrahlen und ohne Schmerzen. Die Untersuchung dauert 15 bis 25 Minuten, meist an einem wachen Tier. Für den Bauch muss es seit 12 Stunden nüchtern sein. Alle acht Praxen von Vetmint haben ein Ultraschallgerät.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 
@@ -104,13 +104,15 @@ Ja, im Wesentlichen: Die Tierärztin oder der Tierarzt sieht die Organe live und
 ## Die Praxen mit Ultraschall
 
 - [Bussigny](/de/bussigny/leistungen/): Ultraschall von Bauch, Trächtigkeit und Herz. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Trächtigkeitsultraschall. [Termin](/de/chauxdefonds/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): Ultraschall in der Praxis. [Termin](/de/chauxdefonds/termin/)
+- [Domdidier](/de/domdidier/leistungen/): Ultraschall in der Praxis. [Termin](/de/domdidier/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Ultraschallgerät, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Ultraschallgerät in der Praxis, Trächtigkeitsultraschall mit Konsultation. [Termin](/de/lacdejoux/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): Trächtigkeitsultraschall. [Termin](/de/saintblaise/termin/)
+- [Payerne](/de/payerne/leistungen/ultraschall/): Ultraschall in der Praxis. [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): Ultraschall in der Praxis. [Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/): vollständiger Bauchultraschall, Trächtigkeits- und Herzultraschall. [Termin](/de/saintlegier/termin/)
 
-Die Praxen [Domdidier](/de/domdidier/leistungen/) und [Payerne](/de/payerne/leistungen/) überweisen ihre Patienten für den Ultraschall an die Praxis Fribourg Ouest. Die Tierärztin oder der Tierarzt, die oder der Ihr Tier betreut, übermittelt die Akte und die Analysen.
+Die Untersuchung findet also in Ihrer gewohnten Praxis statt, bei der Tierärztin oder dem Tierarzt, die oder der Ihr Tier betreut.
 
 ## Einen Termin vereinbaren
 

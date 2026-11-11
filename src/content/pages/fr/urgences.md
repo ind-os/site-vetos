@@ -20,12 +20,12 @@ Un vétérinaire de garde répond chaque nuit, chaque week-end et chaque jour f�
 | Cabinet | Heures d'ouverture | Nuit, week-end et jours fériés | Prix de l'appel de garde |
 |---|---|---|---|
 | [Bussigny](/bussigny/urgences/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | 2 francs la minute |
-| [La Chaux-de-Fonds](/chauxdefonds/urgences/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | 3 francs la minute |
+| [La Chaux-de-Fonds](/chauxdefonds/urgences/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902), ou Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632) | 3 francs la minute ; Vet'Urgence Neuchâtel : tarif normal |
 | [Domdidier](/domdidier/urgences/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | tarif normal |
 | [Fribourg Ouest](/fribourg/urgences/), à Givisiez | [026 466 84 84](tel:+41264668484) | jusqu'à minuit : le cabinet ; après minuit : [026 466 34 35](tel:+41264663435) | tarif normal |
 | [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), service Médi-Vet | 2 francs la minute |
 | [Payerne](/payerne/urgences/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | tarif normal |
-| [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | jusqu'à minuit : le cabinet ; après minuit : [0900 80 70 60](tel:0900807060) | 2 francs la minute |
+| [Saint-Blaise](/saintblaise/urgences/) | [032 753 11 22](tel:+41327531122) | jusqu'à minuit : le cabinet ; après minuit : [0900 80 70 60](tel:0900807060), ou Vet'Urgence Neuchâtel : [032 753 16 32](tel:+41327531632) | 2 francs la minute ; Vet'Urgence Neuchâtel : tarif normal |
 | [Saint-Légier](/saintlegier/urgences/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), garde de la Riviera | 2 francs la minute de 8 h à 22 h, 5 francs de 22 h à 8 h |
 
 Le nom de chaque cabinet mène à sa page Urgences : numéro de garde, adresse, accès et consignes propres au cabinet.
@@ -36,7 +36,7 @@ Le nom de chaque cabinet mène à sa page Urgences : numéro de garde, adresse,
 
 La nuit, le week-end et les jours fériés, les cabinets vétérinaires pour petits animaux d'une même région se relaient. Un seul numéro joint le vétérinaire de garde du moment, qui travaille dans un cabinet Vetmint ou dans un autre cabinet de la région. Il vous écoute, juge si l'animal doit être vu tout de suite et vous donne l'adresse où l'amener. Notez cette adresse avant de raccrocher : elle change d'une nuit à l'autre.
 
-Dans la plupart des régions, ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 2 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins. À Payerne, à Domdidier et à Fribourg Ouest, le numéro de garde est un numéro ordinaire, au tarif normal.
+Dans la plupart des régions, ce numéro commence par 0900. La minute est facturée sur votre facture de téléphone, de 2 à 5 francs selon la région et l'heure. Elle ne se déduit pas du prix des soins. À Payerne, à Domdidier et à Fribourg Ouest, le numéro de garde est un numéro ordinaire, au tarif normal. À La Chaux-de-Fonds et à Saint-Blaise, vous pouvez aussi appeler Vet'Urgence Neuchâtel au 032 753 16 32, un numéro non surtaxé.
 
 ### Quatre cabinets avec leur propre organisation
 
@@ -46,7 +46,7 @@ Au **Lac-de-Joux**, le cabinet reçoit les urgences pendant ses heures d'ouvertu
 
 À **Fribourg Ouest**, un vétérinaire du cabinet assure la garde le soir et le week-end, jusqu'à minuit. Il surveille les animaux hospitalisés et reçoit des urgences, au supplément « soirées et week-ends » du cabinet. Après minuit, le répondeur du cabinet vous renvoie vers le service de garde de la région.
 
-À **Saint-Blaise**, le cabinet assure lui-même la garde le soir et le week-end, jusqu'à minuit : appelez son numéro habituel. Après minuit, son répondeur vous renvoie vers le service de garde de la région, au 0900 80 70 60.
+À **Saint-Blaise**, le cabinet assure lui-même la garde le soir et le week-end, jusqu'à minuit : appelez son numéro habituel. Après minuit, son répondeur vous renvoie vers le service de garde de la région, au 0900 80 70 60. Vet'Urgence Neuchâtel répond aussi au 032 753 16 32, un numéro non surtaxé.
 
 ## Ce que coûte une urgence
 
@@ -115,7 +115,7 @@ Le vétérinaire voit d'abord l'animal dont la vie est en jeu. Un cas moins grav
 
 ### Que se passe-t-il si mon animal doit rester ?
 
-Il est hospitalisé, sous perfusion si besoin. Le jour, les huit cabinets hospitalisent chiens, chats, lapins et rongeurs. La nuit, le vétérinaire de garde vous dit où votre animal passera la nuit et à quelle heure appeler pour savoir comment il va.
+Il est hospitalisé, sous perfusion si besoin. Le jour, les huit cabinets hospitalisent tous les animaux de compagnie. La nuit, le vétérinaire de garde vous dit où votre animal passera la nuit et à quelle heure appeler pour savoir comment il va.
 
 ## Les soins d'urgence dans les cabinets
 

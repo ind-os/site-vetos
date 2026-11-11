@@ -96,6 +96,9 @@ export default defineConfig({
     '/abonnements/': '/cabinets/',
     '/de/preise/': '/de/praxen/',
     '/de/abonnemente/': '/de/praxen/',
+    // Vetmint n'envoie pas de lettre d'information (novembre 2026).
+    '/newsletter/': '/',
+    '/de/newsletter/': '/de/',
     ...servicesRegroupes(),
   },
   markdown: { processor: satteri(extensionsMarkdown) },

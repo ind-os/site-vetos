@@ -119,13 +119,14 @@ Le vétérinaire prend le temps de vous expliquer chaque étape. Il endort d'abo
 
 ## Les cabinets qui se déplacent
 
-Sept cabinets Vetmint proposent des visites à domicile, sur rendez-vous, autour de leur commune.
+Les huit cabinets Vetmint proposent des visites à domicile, sur rendez-vous, autour de leur commune.
 
 - [Bussigny](/bussigny/services/) : [021 703 25 30](tel:+41217032530), [rendez-vous en ligne](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [032 914 03 48](tel:+41329140348), [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/visites-a-domicile/), pour la Broye fribourgeoise : [026 675 38 88](tel:+41266753888), [rendez-vous en ligne](/domdidier/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/), à Givisiez : [026 466 84 84](tel:+41264668484), [rendez-vous en ligne](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [021 357 89 90](tel:+41213578990), [rendez-vous en ligne](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/), pour la Broye vaudoise : [026 660 16 16](tel:+41266601616), [rendez-vous en ligne](/payerne/rendez-vous/)
+- [Payerne](/payerne/services/visites-a-domicile/), pour la Broye vaudoise : [026 660 16 16](tel:+41266601616), [rendez-vous en ligne](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [032 753 11 22](tel:+41327531122), [rendez-vous en ligne](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/), pour la Riviera vaudoise : [021 683 10 10](tel:+41216831010)
 

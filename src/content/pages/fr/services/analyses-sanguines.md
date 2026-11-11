@@ -102,7 +102,7 @@ Souvent, elle oriente : une boule de graisse se reconnaît en quelques minutes.
 
 ### Peut-on faire une prise de sang à un lapin ou à un oiseau ?
 
-Oui. Le volume prélevé est adapté au poids de l'animal. Le cabinet de Fribourg Ouest a des analyseurs pour les lapins, les rongeurs, les oiseaux et les reptiles.
+Oui, dans les huit cabinets. Le volume prélevé est adapté au poids de l'animal. Pour la médecine avancée des NAC, le cabinet de Fribourg Ouest a des analyseurs adaptés aux lapins, aux rongeurs, aux oiseaux et aux reptiles.
 
 ### Puis-je apporter un échantillon d'urine sans mon animal ?
 

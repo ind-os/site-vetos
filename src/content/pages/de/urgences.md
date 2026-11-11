@@ -20,12 +20,12 @@ In den Regionen der acht Vetmint-Praxen antwortet jede Nacht, jedes Wochenende u
 | Praxis | Öffnungszeiten | Nacht, Wochenende und Feiertage | Preis des Notfallanrufs |
 |---|---|---|---|
 | [Bussigny](/de/bussigny/notfall/) | [021 703 25 30](tel:+41217032530) | [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
-| [La Chaux-de-Fonds](/de/chauxdefonds/notfall/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902) | CHF 3.– pro Minute |
+| [La Chaux-de-Fonds](/de/chauxdefonds/notfall/) | [032 914 03 48](tel:+41329140348) | [0900 901 902](tel:0900901902), oder Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632) | CHF 3.– pro Minute; Vet'Urgence Neuchâtel: Normaltarif |
 | [Domdidier](/de/domdidier/notfall/) | [026 675 38 88](tel:+41266753888) | [026 466 34 35](tel:+41264663435) | Normaltarif |
 | [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | [026 466 84 84](tel:+41264668484) | bis Mitternacht: die Praxis; nach Mitternacht: [026 466 34 35](tel:+41264663435) | Normaltarif |
 | [Lac-de-Joux](/de/lacdejoux/notfall/), in L'Abbaye | [021 357 89 90](tel:+41213578990) | [0900 022 022](tel:0900022022), Dienst Médi-Vet | CHF 2.– pro Minute |
 | [Payerne](/de/payerne/notfall/) | [026 660 16 16](tel:+41266601616) | [026 466 34 35](tel:+41264663435) | Normaltarif |
-| [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | bis Mitternacht: die Praxis; nach Mitternacht: [0900 80 70 60](tel:0900807060) | CHF 2.– pro Minute |
+| [Saint-Blaise](/de/saintblaise/notfall/) | [032 753 11 22](tel:+41327531122) | bis Mitternacht: die Praxis; nach Mitternacht: [0900 80 70 60](tel:0900807060), oder Vet'Urgence Neuchâtel: [032 753 16 32](tel:+41327531632) | CHF 2.– pro Minute; Vet'Urgence Neuchâtel: Normaltarif |
 | [Saint-Légier](/de/saintlegier/notfall/) | [021 683 10 10](tel:+41216831010) | [0900 906 906](tel:0900906906), Notfalldienst der Riviera | CHF 2.– pro Minute von 8 bis 22 Uhr, CHF 5.– von 22 bis 8 Uhr |
 
 Der Name jeder Praxis führt zu ihrer Seite Notfall: Notfallnummer, Adresse, Anfahrt und Hinweise, die für die Praxis gelten.
@@ -36,7 +36,7 @@ Der Name jeder Praxis führt zu ihrer Seite Notfall: Notfallnummer, Adresse, Anf
 
 Nachts, am Wochenende und an Feiertagen wechseln sich die Kleintierpraxen einer Region ab. Eine einzige Nummer erreicht die diensthabende Tierärztin oder den diensthabenden Tierarzt, die oder der in einer Vetmint-Praxis oder in einer anderen Praxis der Region arbeitet. Sie hören Ihnen zu, beurteilen, ob das Tier sofort gesehen werden muss, und nennen Ihnen die Adresse, zu der Sie es bringen. Notieren Sie diese Adresse, bevor Sie auflegen: Sie ändert sich von Nacht zu Nacht.
 
-In den meisten Regionen beginnt diese Nummer mit 0900. Die Minute wird über Ihre Telefonrechnung verrechnet, je nach Region und Uhrzeit mit 2 bis 5 Franken. Sie wird nicht vom Preis der Behandlung abgezogen. In Payerne, Domdidier und Fribourg Ouest ist die Notfallnummer eine gewöhnliche Nummer zum Normaltarif.
+In den meisten Regionen beginnt diese Nummer mit 0900. Die Minute wird über Ihre Telefonrechnung verrechnet, je nach Region und Uhrzeit mit 2 bis 5 Franken. Sie wird nicht vom Preis der Behandlung abgezogen. In Payerne, Domdidier und Fribourg Ouest ist die Notfallnummer eine gewöhnliche Nummer zum Normaltarif. In La Chaux-de-Fonds und Saint-Blaise können Sie auch Vet'Urgence Neuchâtel unter 032 753 16 32 anrufen, eine Nummer ohne Zuschlag.
 
 ### Vier Praxen mit eigener Organisation
 
@@ -46,7 +46,7 @@ In **Lac-de-Joux** empfängt die Praxis die Notfälle während ihrer Öffnungsze
 
 In **Fribourg Ouest** leistet eine Tierärztin oder ein Tierarzt der Praxis abends und am Wochenende Notfalldienst, bis Mitternacht. Sie oder er überwacht die stationären Tiere und empfängt Notfälle, zum Zuschlag «Abende und Wochenenden» der Praxis. Nach Mitternacht leitet Sie der Anrufbeantworter der Praxis an den Notfalldienst der Region weiter.
 
-In **Saint-Blaise** leistet die Praxis abends und am Wochenende selbst Notfalldienst, bis Mitternacht: Rufen Sie ihre gewohnte Nummer an. Nach Mitternacht leitet Sie ihr Anrufbeantworter an den Notfalldienst der Region weiter, unter 0900 80 70 60.
+In **Saint-Blaise** leistet die Praxis abends und am Wochenende selbst Notfalldienst, bis Mitternacht: Rufen Sie ihre gewohnte Nummer an. Nach Mitternacht leitet Sie ihr Anrufbeantworter an den Notfalldienst der Region weiter, unter 0900 80 70 60. Vet'Urgence Neuchâtel antwortet auch unter 032 753 16 32, einer Nummer ohne Zuschlag.
 
 ## Was ein Notfall kostet
 
@@ -115,7 +115,7 @@ Die Tierärztin oder der Tierarzt sieht zuerst das Tier, dessen Leben in Gefahr 
 
 ### Was passiert, wenn mein Tier bleiben muss?
 
-Es wird stationär aufgenommen, bei Bedarf mit Infusion. Tagsüber nehmen die acht Praxen Hunde, Katzen, Kaninchen und Nager stationär auf. Nachts sagt Ihnen die diensthabende Tierärztin oder der diensthabende Tierarzt, wo Ihr Tier die Nacht verbringt. Sie oder er nennt Ihnen auch die Uhrzeit, zu der Sie anrufen können, um zu erfahren, wie es ihm geht.
+Es wird stationär aufgenommen, bei Bedarf mit Infusion. Tagsüber nehmen die acht Praxen alle Heimtiere stationär auf. Nachts sagt Ihnen die diensthabende Tierärztin oder der diensthabende Tierarzt, wo Ihr Tier die Nacht verbringt. Sie oder er nennt Ihnen auch die Uhrzeit, zu der Sie anrufen können, um zu erfahren, wie es ihm geht.
 
 ## Die Notfallversorgung in den Praxen
 

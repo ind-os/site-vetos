@@ -108,16 +108,17 @@ Was die Kamera zeigt, ist sofort sichtbar und wird Ihnen beim Aufwachen erklärt
 
 ### Meine Praxis macht keine Endoskopie. Wie gehe ich vor?
 
-Ihre gewohnte Tierärztin oder Ihr gewohnter Tierarzt untersucht das Tier und sendet das Dossier nach Fribourg Ouest. Danach erhält sie oder er den Bericht und begleitet die Behandlung.
+Ihre gewohnte Tierärztin oder Ihr gewohnter Tierarzt untersucht das Tier und sendet das Dossier nach Fribourg Ouest oder Lac-de-Joux. Danach erhält sie oder er den Bericht und begleitet die Behandlung.
 
-## Die Praxis, die sie anbietet
+## Die Praxen, die sie anbieten
 
 - [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: das Endoskop, mit digitalem Röntgen und Blutanalysegeräten in derselben Praxis. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: das Endoskop, mit Ultraschallgerät und Labor in derselben Praxis. [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
 
-Die anderen Vetmint-Praxen überweisen ihre Patienten für die Endoskopie nach Fribourg Ouest. Wer Ihr Tier betreut, sendet das Dossier und die Analysen.
+Die anderen Vetmint-Praxen überweisen ihre Patienten für die Endoskopie nach Fribourg Ouest oder Lac-de-Joux. Wer Ihr Tier betreut, sendet das Dossier und die Analysen.
 
 ## Termin vereinbaren
 
-Eine Endoskopie wird während einer Konsultation entschieden, in Ihrer gewohnten Praxis oder in Fribourg Ouest. Bei einem verschluckten Gegenstand rufen Sie ohne Verzögerung an. Der Ratgeber [Pankreatitis beim Hund](/de/ratgeber/pankreatitis-hund/) beschreibt eine andere Ursache von Erbrechen.
+Eine Endoskopie wird während einer Konsultation entschieden, in Ihrer gewohnten Praxis, in Fribourg Ouest oder in Lac-de-Joux. Bei einem verschluckten Gegenstand rufen Sie ohne Verzögerung an. Der Ratgeber [Pankreatitis beim Hund](/de/ratgeber/pankreatitis-hund/) beschreibt eine andere Ursache von Erbrechen.
 
 [Die nächste Praxis finden](/de/praxen/)

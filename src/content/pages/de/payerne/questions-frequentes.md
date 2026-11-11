@@ -39,7 +39,7 @@ Der Plan kostet 515 Franken für ein Jahr. Er umfasst die Konsultationen nach Te
 
 ### Welche Tiere behandeln Sie?
 
-Hunde, Katzen, Kaninchen und Nager: Meerschweinchen, Ratten, Chinchillas, Hamster, Rennmäuse und Degus. Wir operieren sie auch, einschliesslich Kastration und Zahnbehandlungen. Die Seite [Leistungen](/de/payerne/leistungen/) sagt, was vor Ort gemacht wird.
+Alle Heimtiere: Hunde, Katzen, Kaninchen, Nager, Frettchen, Vögel und Reptilien. Wir behandeln weder Pferde noch Nutztiere. Wir operieren sie auch, einschliesslich Kastration und Zahnbehandlungen. Die Seite [Leistungen](/de/payerne/leistungen/) sagt, was vor Ort gemacht wird.
 
 ### Kommen Sie auch nach Hause?
 

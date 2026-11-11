@@ -188,7 +188,7 @@ Chaque tarif est un tableau à trois colonnes : prestation, ce que vous payez, p
 - Recherche : « cliniques Vetmint ». Title : « Les cliniques vétérinaires Vetmint : adresses et horaires ». H1 : « Nos cliniques ».
 - Volume : 400 à 1 300 mots. Script.
 
-Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc horaires, bloc garde, espèces reçues, une particularité, le bouton vers son accueil. Un bloc de données sous un `##` appartient à la clinique que ce titre nomme.
+Un `##` par clinique, « Vetmint Payerne » : adresse, téléphone, e-mail, bloc horaires, bloc garde, le bouton vers son accueil. Un bloc de données sous un `##` appartient à la clinique que ce titre nomme.
 
 ### Tous les services, `service-index`
 
@@ -258,5 +258,4 @@ Volume : 200 à 1 800 mots. Script. Le script ne contrôle pas les liens d'une p
 - `/a-propos/` : qui dirige Vetmint ; comment le groupe s'est formé ; ce que partagent les huit cliniques ; Vetmint et les autres vétérinaires ; joindre le groupe.
 - `/remettre-un-cabinet/` : pour le vétérinaire qui pense à remettre son cabinet : trois façons de travailler avec Vetmint (vendre, rejoindre sans vendre, s'installer) ; comment se passe une reprise ; de vétérinaire à vétérinaire ; nous écrire. Elle a son lien dans le menu, entre Emploi et Urgences.
 - `/emploi/` : les postes ouverts, un `###` par poste et la candidature spontanée ; ce que vous trouvez chez Vetmint ; les huit cliniques ; postuler.
-- `/newsletter/` : ce qu'elle contient ; à quel rythme ; s'inscrire ; se désinscrire.
 - `/mentions-legales/` et `/confidentialite/` : les sections que la loi demande, dans l'ordre des pages en ligne ; les faits viennent de Vetmint SA.

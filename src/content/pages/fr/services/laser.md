@@ -12,7 +12,7 @@ especes: [chien, chat, nac]
 resume: Une lumière qui calme la douleur et accélère la cicatrisation, sans incision ni anesthésie, en séances de quelques minutes.
 ---
 
-Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Quatre cabinets Vetmint proposent la thérapie laser.
+Le laser vétérinaire est une lumière dirigée sur une zone malade pour calmer la douleur, réduire l'inflammation et accélérer la cicatrisation. Il ne coupe pas et ne brûle pas : l'animal reste éveillé, sans piqûre ni rasage. La plupart des chiens et des chats se laissent faire sans difficulté. Trois cabinets Vetmint proposent la thérapie laser.
 
 [Prendre rendez-vous dans un cabinet](/cabinets/)
 
@@ -105,12 +105,11 @@ Oui. Le lapin supporte bien la séance, posé sur une serviette, sans contention
 
 ## Les cabinets qui pratiquent le laser
 
-Quatre cabinets ont un appareil de laser thérapeutique. Les autres cabinets Vetmint vous orientent vers la plus proche.
+Trois cabinets ont un appareil de laser thérapeutique. Les autres cabinets Vetmint vous orientent vers le plus proche.
 
-- **[Bussigny](/bussigny/services/)**, à l'ouest de Lausanne : chiens, chats et lapins. [Rendez-vous à Bussigny](/bussigny/rendez-vous/)
-- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : chiens, chats, lapins et rongeurs. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
-- **[Saint-Blaise](/saintblaise/services/)**, sur la rive nord du lac de Neuchâtel : chiens, chats, lapins et rongeurs. [Rendez-vous à Saint-Blaise](/saintblaise/rendez-vous/)
-- **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : chiens, chats et lapins. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
+- **[La Chaux-de-Fonds](/chauxdefonds/services/)**, dans les Montagnes neuchâteloises : chiens, chats et NAC. [Rendez-vous à La Chaux-de-Fonds](/chauxdefonds/rendez-vous/)
+- **[Domdidier](/domdidier/services/)**, dans la Broye fribourgeoise : chiens, chats et NAC. [Rendez-vous à Domdidier](/domdidier/rendez-vous/)
+- **[Saint-Légier](/saintlegier/services/)**, au-dessus de Vevey : chiens, chats et NAC. [Rendez-vous à Saint-Légier](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

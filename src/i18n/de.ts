@@ -41,7 +41,6 @@ export const de: Catalogue = {
     questions: 'Häufige Fragen',
     rendezVous: 'Termin',
     confidentialite: 'Datenschutz',
-    newsletter: 'Newsletter',
     mentionsLegales: 'Impressum',
   },
 

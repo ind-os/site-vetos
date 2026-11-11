@@ -40,6 +40,7 @@ const cliniques = await lesCliniques();
 // Des variantes de la fiche, pour montrer un bandeau et une fermeture. La fermeture commence dans
 // dix jours et dure trois jours : l'exemple reste à venir quel que soit le jour de la construction.
 const dansNJours = (n: number) => new Date(Date.now() + n * 86_400_000).toISOString().slice(0, 10);
+const avecDeuxGardes = { ...payerne, garde: { ...payerne.garde, autre: { nom: "Vet'Urgence Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, tarif: { fr: 'numéro non surtaxé', de: 'Nummer ohne Zuschlag' } } } };
 const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'La clinique ferme à 16 h ce vendredi.', de: '' }, niveau: 'info' as const } };
 const avecBandeauUrgent = { ...payerne, bandeau: { texte: { fr: 'Le téléphone est en dérangement ce matin : écrivez sur WhatsApp.', de: '' }, niveau: 'urgent' as const } };
 const avecFermeture = { ...payerne, fermetures: [{ du: dansNJours(10), au: dansNJours(12), motif: { fr: 'formation de l’équipe', de: '' } }] };
@@ -175,9 +176,10 @@ ${htmlDeLaGarde(payerne, langue)}
         <div class="rangee"><CroixSuisse /> <CroixSuisse taille="32px" /></div>
       </Exemple>
 
-      <Exemple titre="Rappel d’urgence" description="Le numéro de garde, cliquable, avec son tarif : le même libellé que le bloc « donnees: garde » d’une page. En ligne sous l’accueil d’une clinique ; en bloc, plus grand, en tête de sa page Urgences." fichier="composants/AppelUrgence.astro" code={`<AppelUrgence clinique={clinique} langue={langue} />\n<AppelUrgence clinique={clinique} langue={langue} forme="bloc" />`}>
+      <Exemple titre="Rappel d’urgence" description="Le numéro de garde, cliquable, avec son tarif : le même libellé que le bloc « donnees: garde » d’une page. En ligne sous l’accueil d’une clinique ; en bloc, plus grand, en tête de sa page Urgences. Un second service de garde de la région (« garde.autre » de la fiche) s’ajoute en dessous, sous son nom." fichier="composants/AppelUrgence.astro" code={`<AppelUrgence clinique={clinique} langue={langue} />\n<AppelUrgence clinique={clinique} langue={langue} forme="bloc" />`}>
         <AppelUrgence clinique={payerne} langue={langue} />
         <AppelUrgence clinique={payerne} langue={langue} forme="bloc" />
+        <AppelUrgence clinique={avecDeuxGardes} langue={langue} />
       </Exemple>
     </section>
 

@@ -12,7 +12,7 @@ ordre: 8
 resume: Warum ein Tier in der Praxis bleibt, bei Tag und bei Nacht, die Besuche und die Anrufe.
 ---
 
-Die stationäre Betreuung von Hund und Katze dient dazu, ein Tier in der Praxis zu behandeln, das zu Hause nicht behandelt werden kann. Es erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an.
+Die stationäre Betreuung von Hund und Katze dient dazu, ein Tier in der Praxis zu behandeln, das zu Hause nicht behandelt werden kann. Es erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die acht Praxen von Vetmint betreuen alle Heimtiere stationär. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an.
 
 [Praxis wählen](/de/praxen/)
 
@@ -93,7 +93,7 @@ Eine gestresste Katze kann ein oder zwei Mahlzeiten verweigern. Danach füttert 
 
 ### Kann man ein Tier zu Hause betreuen?
 
-Für gewisse Behandlungen ja: Spritzen unter die Haut, Tabletten, ein Verband. Die Praxis Domdidier bietet [Hausbesuche](/de/leistungen/hausbesuche/) an. Eine Infusion über die Vene oder eine engmaschige Überwachung verlangen die Praxis.
+Für gewisse Behandlungen ja: Spritzen unter die Haut, Tabletten, ein Verband. Alle acht Praxen bieten [Hausbesuche](/de/leistungen/hausbesuche/) an. Eine Infusion über die Vene oder eine engmaschige Überwachung verlangen die Praxis.
 
 ### Was geschieht, wenn sich der Zustand meines Tieres verschlechtert?
 
@@ -101,15 +101,15 @@ Die Tierärztin oder der Tierarzt ruft Sie an, sobald sie oder er es feststellt.
 
 ## Die Praxen mit stationärer Betreuung
 
-Die acht Praxen von Vetmint betreuen Hunde, Katzen, Kaninchen und Nager stationär.
+Die acht Praxen von Vetmint betreuen alle Heimtiere stationär.
 
 - [Bussigny](/de/bussigny/leistungen/): stationäre Betreuung nach Operationen und für Behandlungen an der Infusion. [Termin](/de/bussigny/termin/)
-- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/chauxdefonds/termin/)
+- [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): Hausbesuche für die Zeit nach einem stationären Aufenthalt. [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Einzelboxen, Trennung der Tierarten, Besucherbereich, Tierärztin oder Tierarzt am Abend und am Wochenende anwesend, stationäre Betreuung der Heimtiere, auch Vögel und Reptilien. [Termin](/de/fribourg/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: Einzelboxen, Trennung der Tierarten, Besucherbereich, Tierärztin oder Tierarzt am Abend und am Wochenende anwesend, ein Bereich, der für stark geschwächte Heimtiere ausgestattet ist. [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: Raum für die stationäre Betreuung mit Einzelboxen. [Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/payerne/termin/)
-- [Saint-Blaise](/de/saintblaise/leistungen/): stationäre Betreuung von Hunden, Katzen, Kaninchen und Nagern. [Termin](/de/saintblaise/termin/)
+- [Payerne](/de/payerne/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/payerne/termin/)
+- [Saint-Blaise](/de/saintblaise/leistungen/): stationäre Betreuung von Hunden, Katzen und Heimtieren. [Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/): Raum für die stationäre Betreuung mit Tageslicht. [Termin](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren

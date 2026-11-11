@@ -3,14 +3,14 @@ type: service-clinique
 clinique: payerne
 url: /de/payerne/leistungen/chirurgie/
 title: "Chirurgie und Kastration in Payerne | Vetmint"
-description: "Tierchirurgie in Payerne: Kastration, Sterilisation, Knoten, Wunde, verschluckter Gegenstand, Kaiserschnitt, für Hunde, Katzen, Kaninchen und Nager. OP vor Ort."
+description: "Tierchirurgie in Payerne: Kastration, Sterilisation, Knoten, Wunde, verschluckter Gegenstand, Kaiserschnitt, für Hunde, Katzen und Heimtiere. OP vor Ort."
 h1: Chirurgie in Payerne
 recherche: Tierchirurgie Payerne
 redige_le: 2026-11-10
 resume: "Kastrationen, Sterilisationen und Weichteiloperationen, vor Ort an der Route du Châtelard 13."
 ---
 
-In Payerne erfolgt die Tierchirurgie vor Ort, im Operationssaal der Vetmint-Praxis an der Route du Châtelard 13. Claire-Lise Tinguely und Tiago Capelo kastrieren und sterilisieren dort Katzen, Hunde, Kaninchen und Nager. Sie entfernen auch Knoten, verschliessen Wunden, holen verschluckte Gegenstände heraus und machen Kaiserschnitte. Ihr Tier kehrt meist am selben Abend mit Ihnen nach Hause zurück.
+In Payerne erfolgt die Tierchirurgie vor Ort, im Operationssaal der Vetmint-Praxis an der Route du Châtelard 13. Claire-Lise Tinguely und Tiago Capelo kastrieren und sterilisieren dort Katzen, Hunde und Heimtiere. Sie entfernen auch Knoten, verschliessen Wunden, holen verschluckte Gegenstände heraus und machen Kaiserschnitte. Ihr Tier kehrt meist am selben Abend mit Ihnen nach Hause zurück.
 
 [Termin vereinbaren](/de/payerne/termin/)
 

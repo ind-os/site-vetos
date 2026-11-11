@@ -131,7 +131,12 @@ const cliniques = defineCollection({
     /** L'annonce en haut de chaque page de la clinique, jusqu'à la date donnée. */
     bandeau: z.object({ texte, niveau: z.enum(['info', 'urgent']).default('info'), jusqu_au: date.optional() }).nullable().default(null),
     /** Le service de garde, hors des heures d'ouverture. */
-    garde: z.object({ telephone, tarif: texte }),
+    garde: z.object({
+      telephone,
+      tarif: texte,
+      /** Un second service de garde de la région, nommé : « Vet'Urgence Neuchâtel ». */
+      autre: z.object({ nom: z.string(), telephone, tarif: texte }).optional(),
+    }),
     /** Le module de réservation, ouvert par le bouton « Prendre rendez-vous ». */
     rendez_vous: z.object({ outil: z.enum(['calendly', 'vetlink']), adresse: z.url() }),
   }),

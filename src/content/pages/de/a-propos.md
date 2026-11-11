@@ -55,7 +55,7 @@ Ein Vorschlag aus einem Team wird angehört, gemeinsam beurteilt und umgesetzt, 
 
 ## Vetmint und die anderen Tierärztinnen und Tierärzte
 
-Die Gruppe richtet sich auch an selbstständige Tierärztinnen und Tierärzte. Sie übernimmt Praxen, beteiligt sich und unterstützt, wer sich selbstständig macht. Die Praxen empfangen Patienten, die eine Kollegin oder ein Kollege überweist, zum Beispiel Heimtiere und chronische Schmerzen in Fribourg Ouest.
+Die Gruppe richtet sich auch an selbstständige Tierärztinnen und Tierärzte. Sie übernimmt Praxen, beteiligt sich und unterstützt, wer sich selbstständig macht. Die Praxen empfangen Patienten, die eine Kollegin oder ein Kollege überweist, zum Beispiel erweiterte Heimtiermedizin und chronische Schmerzen in Fribourg Ouest.
 
 ## Die Gruppe kontaktieren
 

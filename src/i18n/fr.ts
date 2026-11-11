@@ -42,7 +42,6 @@ export const fr = {
     questions: 'Questions fréquentes',
     rendezVous: 'Rendez-vous',
     confidentialite: 'Confidentialité',
-    newsletter: 'Lettre d’information',
     mentionsLegales: 'Mentions légales',
   },
 

@@ -10,7 +10,7 @@ redige_le: 2026-10-16
 resume: Deux vétérinaires, deux assistantes, un apprenti et une préapprentie, route du Châtelard 13.
 ---
 
-Six personnes soignent les animaux au cabinet Vetmint Payerne : deux vétérinaires, deux assistantes en médecine vétérinaire, un apprenti et une préapprentie. Elles reçoivent les chiens, les chats, les lapins et les rongeurs, à la route du Châtelard 13. À l'accueil comme en consultation, l'équipe parle français, anglais et portugais ; Claire-Lise Tinguely et Jessy Dizerens parlent aussi allemand.
+Six personnes soignent les animaux au cabinet Vetmint Payerne : deux vétérinaires, deux assistantes en médecine vétérinaire, un apprenti et une préapprentie. Elles reçoivent les chiens, les chats et tous les NAC, à la route du Châtelard 13. À l'accueil comme en consultation, l'équipe parle français, anglais et portugais ; Claire-Lise Tinguely et Jessy Dizerens parlent aussi allemand.
 
 [Prendre rendez-vous](/payerne/rendez-vous/)
 

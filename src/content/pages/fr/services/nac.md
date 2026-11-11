@@ -2,17 +2,17 @@
 type: service
 url: /services/nac/
 title: "Médecine avancée des NAC : lapins, oiseaux | Vetmint"
-description: "Médecine avancée des NAC chez Vetmint : lapins et rongeurs dans les huit cabinets, oiseaux et reptiles à Fribourg Ouest. Vaccins, opérations, dents."
+description: "Médecine avancée des NAC chez Vetmint : lapins, rongeurs, oiseaux et reptiles dans les huit cabinets, cas difficiles à Fribourg Ouest. Vaccins, opérations."
 h1: "Médecine avancée des NAC : du lapin au reptile"
 nom: Médecine avancée des NAC
 recherche: vétérinaire NAC
 redige_le: 2026-11-10
 ordre: 11
 especes: [nac]
-resume: Lapins et rongeurs dans les huit cabinets, oiseaux, reptiles et cas complexes chez le vétérinaire NAC de Fribourg Ouest.
+resume: Tous les NAC dans les huit cabinets, et les cas complexes chez le vétérinaire NAC de Fribourg Ouest.
 ---
 
-Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent les lapins et les rongeurs. Les oiseaux, les reptiles et les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC.
+Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent tous les NAC. Les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC.
 
 [Prendre rendez-vous pour un NAC à Fribourg Ouest](/fribourg/rendez-vous/)
 
@@ -21,14 +21,14 @@ Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, c
 | Animal | Où le faire soigner |
 |---|---|
 | Lapin | dans les huit cabinets |
-| Cochon d'Inde, chinchilla, rat, dègue | dans les huit cabinets, opérations dans six d'entre eux |
-| Hamster, gerbille | dans les huit cabinets, opérations dans cinq d'entre eux |
+| Cochon d'Inde, chinchilla, rat, dègue | dans les huit cabinets |
+| Hamster, gerbille | dans les huit cabinets |
 | Furet | dans les huit cabinets |
-| Perroquet, perruche, canari, poule | à Fribourg Ouest |
-| Tortue, lézard, serpent | à Fribourg Ouest |
-| Poisson, amphibien, insecte, araignée | à Fribourg Ouest |
+| Perroquet, perruche, canari, poule | dans les huit cabinets, cas difficiles à Fribourg Ouest |
+| Tortue, lézard, serpent | dans les huit cabinets, cas difficiles à Fribourg Ouest |
+| Poisson, amphibien, insecte, araignée | dans les huit cabinets, cas difficiles à Fribourg Ouest |
 
-Dans le doute, appelez le cabinet le plus proche : elle vous dit si elle reçoit votre animal ou vous oriente vers Fribourg Ouest.
+Les cabinets Vetmint ne soignent ni les chevaux ni les animaux de ferme. Pour un cas difficile, le cabinet le plus proche vous oriente vers Fribourg Ouest.
 
 ## Pourquoi un NAC se soigne autrement
 
@@ -50,13 +50,13 @@ Le furet qui voyage reçoit un vaccin contre la rage, comme le chien et le chat.
 
 ## Ce qui se fait sur place
 
-**Les consultations.** Tous les cabinets reçoivent lapins et rongeurs pour une consultation de 30 minutes : examen, pesée, contrôle des dents à l'otoscope, conseils d'alimentation. À Fribourg Ouest, la consultation spécialisée NAC va plus loin : examens complémentaires, plan de traitement, fiche écrite sur la maladie de votre animal.
+**Les consultations.** Tous les cabinets reçoivent les NAC pour une consultation de 30 minutes : examen, pesée, contrôle des dents à l'otoscope, conseils d'alimentation. À Fribourg Ouest, la consultation spécialisée NAC va plus loin : examens complémentaires, plan de traitement, fiche écrite sur la maladie de votre animal.
 
-**Les opérations.** Les huit cabinets castrent les lapins et stérilisent les lapines. Six opèrent aussi les cochons d'Inde, les chinchillas, les rats et les dègues ; cinq opèrent les hamsters et les gerbilles. L'anesthésie est gazeuse, avec un protocole adapté à l'espèce. Fribourg Ouest pratique en plus la microchirurgie des petits rongeurs, des oiseaux et des reptiles.
+**Les opérations.** Les huit cabinets opèrent les NAC : castration du lapin, stérilisation de la lapine, opérations des rongeurs. L'anesthésie est gazeuse, avec un protocole adapté à l'espèce. Fribourg Ouest pratique en plus la microchirurgie des petits rongeurs, des oiseaux et des reptiles.
 
 **Les dents.** Tous les cabinets soignent les dents des lapins et des rongeurs : limage des dents trop longues, radiographie dentaire, extractions, traitement des abcès. Voir [la maladie dentaire du lapin](/conseils/maladie-dentaire-du-lapin/).
 
-**L'hospitalisation.** Les cabinets hospitalisent lapins et rongeurs. À Fribourg Ouest, l'espace d'hospitalisation est équipé pour réchauffer, réhydrater et nourrir les NAC très affaiblis. L'équipe y surveille la douleur et limite le stress de ces animaux sensibles.
+**L'hospitalisation.** Les huit cabinets hospitalisent les NAC. À Fribourg Ouest, l'espace d'hospitalisation est équipé pour réchauffer, réhydrater et nourrir les NAC très affaiblis. L'équipe y surveille la douleur et limite le stress de ces animaux sensibles.
 
 ## Préparer la visite
 
@@ -100,36 +100,32 @@ Non, il n'existe pas de vaccin courant pour le cochon d'Inde. La visite annuelle
 
 ### Peut-on opérer un hamster ?
 
-Oui, dans cinq cabinets. L'anesthésie d'un animal de 100 grammes demande du matériel et des doses adaptés. Le vétérinaire en discute avec vous avant de décider.
+Oui. L'anesthésie d'un animal de 100 grammes demande du matériel et des doses adaptés. Le vétérinaire en discute avec vous avant de décider.
 
 ### Où faire soigner mon perroquet ?
 
-À Fribourg Ouest. La première consultation fait le point sur la cage, l'alimentation, la provenance et le comportement de l'oiseau. Elle comprend au besoin une prise de sang, un dépistage des maladies contagieuses, la pose d'une puce et la détermination du sexe.
+Dans le cabinet Vetmint le plus proche de chez vous. La première consultation fait le point sur la cage, l'alimentation, la provenance et le comportement de l'oiseau. À Fribourg Ouest, elle comprend au besoin une prise de sang, un dépistage des maladies contagieuses, la pose d'une puce et la détermination du sexe.
 
 ## Les cabinets et leur pratique des NAC
 
 ### Fribourg Ouest, à Givisiez
 
-C'est le cabinet du groupe qui reçoit tous les NAC. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. Le cabinet opère aussi les petites espèces, oiseaux compris. Le détail est sur la page [NAC de Fribourg Ouest](/fribourg/services/nac/). [Services](/fribourg/services/) · [Rendez-vous](/fribourg/rendez-vous/)
+C'est le cabinet du groupe où vont les cas difficiles et les deuxièmes avis. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. Le cabinet opère aussi les petites espèces, oiseaux compris. Le détail est sur la page [NAC de Fribourg Ouest](/fribourg/services/nac/). [Services](/fribourg/services/) · [Rendez-vous](/fribourg/rendez-vous/)
 
-### Lapins et rongeurs, opérations des petits rongeurs comprises
+### Les sept autres cabinets
 
+Ils reçoivent tous les NAC, en consultation, en opération et en hospitalisation.
+
+- Bussigny : [services](/bussigny/services/), [rendez-vous](/bussigny/rendez-vous/)
 - La Chaux-de-Fonds : [services](/chauxdefonds/services/), [rendez-vous](/chauxdefonds/rendez-vous/)
 - Domdidier : [services](/domdidier/services/), [rendez-vous](/domdidier/rendez-vous/)
 - Payerne : [services](/payerne/services/), [rendez-vous](/payerne/rendez-vous/)
-- Saint-Blaise : [services](/saintblaise/services/), [rendez-vous](/saintblaise/rendez-vous/)
-
-### Lapins et rongeurs, sans opération des hamsters et des gerbilles
-
 - Lac-de-Joux, à L'Abbaye : [services](/lacdejoux/services/), [rendez-vous](/lacdejoux/rendez-vous/)
-
-### Lapins et rongeurs, opérations du lapin seulement
-
-- Bussigny : [services](/bussigny/services/), [rendez-vous](/bussigny/rendez-vous/)
+- Saint-Blaise : [services](/saintblaise/services/), [rendez-vous](/saintblaise/rendez-vous/)
 - Saint-Légier : [services](/saintlegier/services/), [rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 
-Au téléphone, dites l'espèce, l'âge et le motif. Pour un lapin qui ne mange plus, dites-le d'emblée : c'est une urgence. Pour un oiseau, un reptile ou un deuxième avis sur un cas qui traîne, appelez Fribourg Ouest.
+Au téléphone, dites l'espèce, l'âge et le motif. Pour un lapin qui ne mange plus, dites-le d'emblée : c'est une urgence. Pour un cas difficile ou un deuxième avis sur un cas qui traîne, appelez Fribourg Ouest.
 
 [Trouver le cabinet le plus proche](/cabinets/)

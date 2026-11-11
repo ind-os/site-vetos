@@ -2,13 +2,13 @@
 type: simple
 url: /confidentialite/
 title: "Politique de confidentialité du site Vetmint"
-description: "Quelles données le site Vetmint traite, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, lettre d'information, mesure d'audience."
+description: "Quelles données le site Vetmint traite, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, mesure d'audience et quels sont vos droits."
 h1: Politique de confidentialité
 recherche: politique de confidentialité Vetmint
 redige_le: 2026-10-16
 ---
 
-Vetmint traite peu de données personnelles sur vetmint.ch. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par trois voies : le module de rendez-vous, les e-mails que vous nous envoyez et l'inscription à la lettre d'information. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).
+Vetmint traite peu de données personnelles sur vetmint.ch. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par deux voies : le module de rendez-vous et les e-mails que vous nous envoyez. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).
 
 ## Qui est responsable
 
@@ -46,10 +46,6 @@ Quand vous écrivez à un cabinet ou à Vetmint, votre message et vos coordonné
 
 Une candidature sert seulement au recrutement. Elle est effacée six mois après la fin du recrutement, sauf si vous acceptez que nous la gardions pour un prochain poste.
 
-## La lettre d'information
-
-Votre adresse e-mail et le cabinet que vous indiquez servent seulement à l'envoi de la [lettre d'information](/newsletter/). Chaque lettre porte un lien de désinscription. Après une désinscription, votre adresse est effacée dans les 7 jours.
-
 ## Où sont vos données
 
 Le site, la base des horaires et la mesure d'audience sont hébergés en Suisse, sur un serveur loué au nom de Vetmint chez Infomaniak. Le site ne transfère aucune donnée personnelle à l'étranger.
@@ -72,4 +68,4 @@ Si vous estimez que vos droits ne sont pas respectés, vous pouvez vous adresser
 
 ## Version
 
-Version du 16 octobre 2026. Quand cette politique change, la date de la version change avec elle.
+Version du 11 novembre 2026. Quand cette politique change, la date de la version change avec elle.

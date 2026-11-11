@@ -2,7 +2,7 @@
 type: service
 url: /services/echographie/
 title: "Échographie du chien et du chat : déroulement | Vetmint"
-description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 15 à 25 minutes, à jeun 12 heures, souvent sans sédation. Six cabinets ont un échographe."
+description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 15 à 25 minutes, à jeun 12 heures, souvent sans sédation. Les huit cabinets ont un échographe."
 h1: Échographie du chien et du chat
 nom: Échographie
 recherche: échographie chien chat
@@ -12,7 +12,7 @@ ordre: 6
 resume: L'échographie du ventre, du cœur et de gestation, sa préparation, sa durée, ses prix et les cabinets équipés.
 ---
 
-L'échographie du chien et du chat montre l'intérieur du ventre et le cœur en images qui bougent, sans rayons X et sans douleur. L'examen dure 15 à 25 minutes, sur un animal le plus souvent éveillé. Pour le ventre, il doit être à jeun depuis 12 heures. Six cabinets Vetmint ont un échographe.
+L'échographie du chien et du chat montre l'intérieur du ventre et le cœur en images qui bougent, sans rayons X et sans douleur. L'examen dure 15 à 25 minutes, sur un animal le plus souvent éveillé. Pour le ventre, il doit être à jeun depuis 12 heures. Les huit cabinets Vetmint ont un échographe.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 
@@ -104,13 +104,15 @@ Oui pour l'essentiel : le vétérinaire voit les organes en direct et vous expl
 ## Les cabinets qui font l'échographie
 
 - [Bussigny](/bussigny/services/) : échographie du ventre, de gestation et du cœur. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/)  : échographie de gestation. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : échographie au cabinet. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Domdidier](/domdidier/services/) : échographie au cabinet. [Rendez-vous](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : échographe, avec radiographie numérique et analyseurs sanguins dans le même cabinet. [Rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : échographe au cabinet, échographie de gestation avec consultation. [Rendez-vous](/lacdejoux/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/)  : échographie de gestation. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Payerne](/payerne/services/echographie/) : échographie au cabinet. [Rendez-vous](/payerne/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : échographie au cabinet. [Rendez-vous](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/) : échographie complète du ventre, de gestation et du cœur. [Rendez-vous](/saintlegier/rendez-vous/)
 
-Les cabinets de [Domdidier](/domdidier/services/) et de [Payerne](/payerne/services/) adressent leurs patients au cabinet de Fribourg Ouest pour l'échographie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
+L'examen se fait donc dans votre cabinet habituel, avec le vétérinaire qui suit votre animal.
 
 ## Prendre rendez-vous
 

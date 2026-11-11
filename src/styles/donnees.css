@@ -48,6 +48,8 @@
   background: var(--urgence-pale);
   color: var(--encre);
 }
+.garde__ligne { display: block; }
+.garde__ligne + .garde__ligne { margin-top: var(--espace-2); }
 .garde a { color: var(--urgence); font-weight: 800; }
 .garde a:hover { color: var(--encre); }
 .garde--bloc { gap: var(--espace-4); padding: var(--espace-5); font-size: var(--texte-l); --taille: 32px; }

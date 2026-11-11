@@ -2,13 +2,13 @@
 type: simple
 url: /de/datenschutz/
 title: "Datenschutzerklärung der Vetmint-Website"
-description: "Welche Daten die Vetmint-Website verarbeitet, warum, wo sie gespeichert sind und wie lange: Termine, E-Mails, Newsletter, Besucherstatistik und Ihre Rechte."
+description: "Welche Daten die Vetmint-Website verarbeitet, warum, wo sie gespeichert sind und wie lange: Termine, E-Mails, Besucherstatistik und welche Rechte Sie haben."
 h1: "Datenschutzerklärung"
 recherche: "Datenschutzerklärung Vetmint"
 redige_le: 2026-10-16
 ---
 
-Vetmint verarbeitet auf vetmint.ch wenig personenbezogene Daten. Die Seiten sind statisch: Sie werden ohne Konto, ohne Anmeldung und ohne Werbe-Cookie angezeigt. Personenbezogene Daten gelangen auf drei Wegen zu uns: über das Terminmodul, über E-Mails, die Sie uns senden, und über die Anmeldung zum Newsletter. Unsere Datenschutzerklärung beschreibt diese Verarbeitungen nach dem Bundesgesetz über den Datenschutz (DSG).
+Vetmint verarbeitet auf vetmint.ch wenig personenbezogene Daten. Die Seiten sind statisch: Sie werden ohne Konto, ohne Anmeldung und ohne Werbe-Cookie angezeigt. Personenbezogene Daten gelangen auf zwei Wegen zu uns: über das Terminmodul und über E-Mails, die Sie uns senden. Unsere Datenschutzerklärung beschreibt diese Verarbeitungen nach dem Bundesgesetz über den Datenschutz (DSG).
 
 ## Wer verantwortlich ist
 
@@ -46,10 +46,6 @@ Wenn Sie einer Praxis oder Vetmint schreiben, dienen Ihre Nachricht und Ihre Kon
 
 Eine Bewerbung dient nur der Personalsuche. Sie wird sechs Monate nach Abschluss der Personalsuche gelöscht, ausser Sie sind einverstanden, dass wir sie für eine künftige Stelle aufbewahren.
 
-## Der Newsletter
-
-Ihre E-Mail-Adresse und die Praxis, die Sie angeben, dienen allein dem Versand des [Newsletters](/de/newsletter/). Jede Ausgabe enthält einen Abmeldelink. Nach einer Abmeldung wird Ihre Adresse innerhalb von 7 Tagen gelöscht.
-
 ## Wo Ihre Daten sind
 
 Die Website, die Datenbank der Öffnungszeiten und die Besucherstatistik werden in der Schweiz gehostet, auf einem Server, der im Namen von Vetmint bei Infomaniak gemietet ist. Die Website übermittelt keine personenbezogenen Daten ins Ausland.
@@ -72,4 +68,4 @@ Wenn Sie der Ansicht sind, dass Ihre Rechte nicht eingehalten werden, können Si
 
 ## Fassung
 
-Fassung vom 16. Oktober 2026. Wenn sich diese Erklärung ändert, ändert sich das Datum der Fassung mit.
+Fassung vom 11. November 2026. Wenn sich diese Erklärung ändert, ändert sich das Datum der Fassung mit.

@@ -68,6 +68,6 @@ In gewissen Fällen wird eine chirurgische [Sterilisation](/de/leistungen/chirur
 
 ## Ihren Vogel behandeln lassen
 
-Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Ziervögel und Hofgeflügel. Sie bietet eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an. Papageien haben dort ausserdem eine erste Konsultation, die ihren Haltungsbedingungen gewidmet ist. Bei einem festsitzenden Ei rufen Sie sie an unter [026 466 84 84](tel:+41264668484). Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt unsere Behandlungen für Vögel, Kaninchen und Nager vor.
+Die acht Vetmint-Praxen empfangen Ziervögel und Hofgeflügel. Bei einem festsitzenden Ei rufen Sie die Praxis in Ihrer Nähe an. Für einen schwierigen Fall bietet die Praxis Fribourg Ouest in Givisiez eine [spezialisierte Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/) an, unter [026 466 84 84](tel:+41264668484). Papageien haben dort ausserdem eine erste Konsultation, die ihren Haltungsbedingungen gewidmet ist. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt unsere Behandlungen für Vögel, Kaninchen und Nager vor.
 
 [Die Praxen Vetmint](/de/praxen/)

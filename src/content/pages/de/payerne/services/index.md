@@ -3,7 +3,7 @@ type: services-clinique
 clinique: payerne
 url: /de/payerne/leistungen/
 title: "Tierärztliche Leistungen in Payerne | Vetmint"
-description: "Leistungen von Vetmint Payerne für Hunde, Katzen, Kaninchen und Nager. Konsultation von 30 Minuten zu 57 Franken, Impfungen, Chirurgie, Zähne und Röntgen."
+description: "Leistungen von Vetmint Payerne für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten zu 57 Franken, Impfungen, Chirurgie, Zähne und Röntgen."
 h1: Die Leistungen in Payerne
 recherche: tierärztliche Leistungen Payerne
 redige_le: 2026-11-04

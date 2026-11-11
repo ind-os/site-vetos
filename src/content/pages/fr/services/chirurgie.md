@@ -12,7 +12,7 @@ especes: [chien, chat, nac]
 resume: La stérilisation, la castration et les opérations de la peau, du ventre et des organes.
 ---
 
-La chirurgie vétérinaire des tissus mous opère la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes sont la stérilisation et la castration. Viennent ensuite le retrait d'une grosseur, la fermeture d'une plaie, le retrait d'un objet avalé et la césarienne. Les huit cabinets Vetmint opèrent les chiens, les chats, les lapins et les rongeurs, avec une anesthésie surveillée en continu.
+La chirurgie vétérinaire des tissus mous opère la peau, le ventre et les organes, hors os et articulations. Les opérations les plus courantes sont la stérilisation et la castration. Viennent ensuite le retrait d'une grosseur, la fermeture d'une plaie, le retrait d'un objet avalé et la césarienne. Les huit cabinets Vetmint opèrent les chiens, les chats et les NAC, avec une anesthésie surveillée en continu.
 
 [Choisir un cabinet pour une consultation](/cabinets/)
 
@@ -133,14 +133,14 @@ Oui, en accord avec le cabinet. À Fribourg Ouest, un espace de visite est amén
 
 Les huit cabinets ont une salle d'opération et une hospitalisation sur place.
 
-- [Bussigny](/bussigny/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/bussigny/rendez-vous/)
-- [La Chaux-de-Fonds](/chauxdefonds/services/) : opérations des lapins et de nombreux rongeurs. [Rendez-vous](/chauxdefonds/rendez-vous/)
+- [Bussigny](/bussigny/services/) : salle d'opération et hospitalisation sur place. [Rendez-vous](/bussigny/rendez-vous/)
+- [La Chaux-de-Fonds](/chauxdefonds/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : un anesthésiste externe vient pour les anesthésies complexes. [Rendez-vous](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie et des boxes d'hospitalisation séparés par espèce. [Rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : une salle d'opération en deux zones et la laparoscopie. [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : une salle de préparation reliée à la salle de chirurgie et à la radiographie. [Rendez-vous](/payerne/rendez-vous/)
-- [Saint-Blaise](/saintblaise/services/) : opérations des rongeurs, du cochon d'Inde au hamster. [Rendez-vous](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/) : l'échographie sur place et le laser pour la cicatrisation. [Rendez-vous](/saintlegier/rendez-vous/)
+- [Saint-Blaise](/saintblaise/services/) : salle d'opération et hospitalisation sur place. [Rendez-vous](/saintblaise/rendez-vous/)
+- [Saint-Légier](/saintlegier/services/) : le laser pour la cicatrisation après l'opération. [Rendez-vous](/saintlegier/rendez-vous/)
 
 ## Prendre rendez-vous
 

@@ -3,14 +3,14 @@ type: accueil-clinique
 clinique: payerne
 url: /de/payerne/
 title: "Tierarzt in Payerne: Tierarztpraxis Vetmint Payerne"
-description: "Tierarztpraxis in Payerne für Hunde, Katzen, Kaninchen und Nager. Konsultation von 30 Minuten nach Termin, Notfälle, ebenerdiger Zugang. 026 660 16 16."
+description: "Tierarztpraxis in Payerne für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten nach Termin, Notfälle, ebenerdiger Zugang. 026 660 16 16."
 h1: "Tierarztpraxis Vetmint Payerne"
 recherche: "Tierarzt Payerne"
 redige_le: 2026-10-16
-resume: "Hunde, Katzen, Kaninchen und Nager, Route du Châtelard 13. Konsultationen von 30 Minuten nach Terminvereinbarung."
+resume: "Hunde, Katzen und Heimtiere, Route du Châtelard 13. Konsultationen von 30 Minuten nach Terminvereinbarung."
 ---
 
-Die Tierarztpraxis Vetmint Payerne empfängt Hunde, Katzen, Kaninchen und Nager an der Route du Châtelard 13. Eine Tierärztin und ein Tierarzt, Claire-Lise Tinguely und Tiago Capelo, arbeiten dort mit zwei Tiermedizinischen Praxisassistentinnen (TPA) und zwei jungen Menschen in Ausbildung. Jede Konsultation dauert 30 Minuten und findet nach Terminvereinbarung statt.
+Die Tierarztpraxis Vetmint Payerne empfängt Hunde, Katzen und alle Heimtiere an der Route du Châtelard 13. Eine Tierärztin und ein Tierarzt, Claire-Lise Tinguely und Tiago Capelo, arbeiten dort mit zwei Tiermedizinischen Praxisassistentinnen (TPA) und zwei jungen Menschen in Ausbildung. Jede Konsultation dauert 30 Minuten und findet nach Terminvereinbarung statt.
 
 [Termin vereinbaren](/de/payerne/termin/)
 
@@ -29,15 +29,16 @@ Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15
 
 - Die [Konsultation von 30 Minuten](/de/payerne/leistungen/praevention/) dient dem Jahrescheck, einem kranken Tier oder einer Zweitmeinung.
 - Die Impfungen für [Hunde](/de/payerne/leistungen/praevention/) und [Katzen](/de/payerne/leistungen/praevention/) erfolgen mit dem Jahrescheck; das Kaninchen erhält seine gegen die Virale Hämorrhagische Krankheit.
-- Die [Kastration und Sterilisation](/de/payerne/leistungen/chirurgie/) betreffen Hunde, Katzen, Kaninchen und kleine Nager, vom Meerschweinchen bis zum Hamster.
+- Die [Kastration und Sterilisation](/de/payerne/leistungen/chirurgie/) betreffen Hunde, Katzen und Heimtiere.
 - Die [Chirurgie](/de/payerne/leistungen/chirurgie/) behandelt eine Wunde, einen Knoten, der entfernt werden muss, einen verschluckten Fremdkörper oder einen Kaiserschnitt.
 - Die [Zahnbehandlung](/de/payerne/leistungen/zahnmedizin/) beginnt mit einem Röntgenbild der Zähne, dann folgen die Zahnsteinentfernung mit Ultraschall und das Polieren.
 - Das Labor der Praxis führt die [Analysen](/de/payerne/leistungen/blutanalysen/) von Blut, Urin, Kot und Haut durch.
 - Das [digitale Röntgen](/de/payerne/leistungen/roentgen/) umfasst die offiziellen Aufnahmen von Hüften und Ellbogen für die Dysplasie-Untersuchung.
-- Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen, Kaninchen und Nager in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.
-- Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.
+- Der [Ultraschall](/de/payerne/leistungen/ultraschall/) von Bauch, Herz und Trächtigkeit erfolgt in der Praxis.
+- Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen und Heimtiere in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.
+- Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/payerne/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.
 
-Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Meerschweinchen, Ratten, Chinchillas, Rennmäuse, Degus) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft. Die Seite [Leistungen](/de/payerne/leistungen/) beschreibt jede Leistung, die in der Praxis erbracht wird.
+Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Nager, Frettchen, Vögel, Reptilien) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft. Die Seite [Leistungen](/de/payerne/leistungen/) beschreibt jede Leistung, die in der Praxis erbracht wird.
 
 ## Das Team
 

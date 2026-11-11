@@ -12,7 +12,7 @@ especes: [chien, chat, nac]
 resume: Ein Licht, das Schmerzen lindert und die Heilung beschleunigt, ohne Schnitt und ohne Narkose, in Sitzungen von wenigen Minuten.
 ---
 
-Der tiermedizinische Laser ist ein Licht, das auf eine kranke Stelle gerichtet wird, um den Schmerz zu lindern, die Entzündung zu verringern und die Heilung zu beschleunigen. Er schneidet nicht und verbrennt nicht: Das Tier bleibt wach, ohne Spritze und ohne Rasur. Die meisten Hunde und Katzen lassen es ohne Schwierigkeiten geschehen. Vier Praxen von Vetmint bieten die Lasertherapie an.
+Der tiermedizinische Laser ist ein Licht, das auf eine kranke Stelle gerichtet wird, um den Schmerz zu lindern, die Entzündung zu verringern und die Heilung zu beschleunigen. Er schneidet nicht und verbrennt nicht: Das Tier bleibt wach, ohne Spritze und ohne Rasur. Die meisten Hunde und Katzen lassen es ohne Schwierigkeiten geschehen. Drei Praxen von Vetmint bieten die Lasertherapie an.
 
 [In einer Praxis einen Termin vereinbaren](/de/praxen/)
 
@@ -105,12 +105,11 @@ Ja. Das Kaninchen verträgt die Sitzung gut, auf einem Tuch liegend, ohne starke
 
 ## Die Praxen mit Lasertherapie
 
-Vier Praxen haben ein therapeutisches Lasergerät. Die anderen Praxen von Vetmint verweisen Sie an die nächstgelegene.
+Drei Praxen haben ein therapeutisches Lasergerät. Die anderen Praxen von Vetmint verweisen Sie an die nächstgelegene.
 
-- **[Bussigny](/de/bussigny/leistungen/)**, westlich von Lausanne: Hunde, Katzen und Kaninchen. [Termin in Bussigny](/de/bussigny/termin/)
-- **[Domdidier](/de/domdidier/leistungen/)**, in der Freiburger Broye: Hunde, Katzen, Kaninchen und Nager. [Termin in Domdidier](/de/domdidier/termin/)
-- **[Saint-Blaise](/de/saintblaise/leistungen/)**, am Nordufer des Neuenburgersees: Hunde, Katzen, Kaninchen und Nager. [Termin in Saint-Blaise](/de/saintblaise/termin/)
-- **[Saint-Légier](/de/saintlegier/leistungen/)**, oberhalb von Vevey: Hunde, Katzen und Kaninchen. [Termin in Saint-Légier](/de/saintlegier/termin/)
+- **[La Chaux-de-Fonds](/de/chauxdefonds/leistungen/)**, in den Neuenburger Bergen: Hunde, Katzen und Heimtiere. [Termin in La Chaux-de-Fonds](/de/chauxdefonds/termin/)
+- **[Domdidier](/de/domdidier/leistungen/)**, in der Freiburger Broye: Hunde, Katzen und Heimtiere. [Termin in Domdidier](/de/domdidier/termin/)
+- **[Saint-Légier](/de/saintlegier/leistungen/)**, oberhalb von Vevey: Hunde, Katzen und Heimtiere. [Termin in Saint-Légier](/de/saintlegier/termin/)
 
 ## Einen Termin vereinbaren
 

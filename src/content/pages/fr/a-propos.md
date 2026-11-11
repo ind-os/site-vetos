@@ -55,7 +55,7 @@ Une proposition faite par un membre d'une équipe est écoutée, évaluée à pl
 
 ## Vetmint et les autres vétérinaires
 
-Le groupe s'adresse aussi aux vétérinaires indépendants. Il reprend des cabinets, prend des participations et soutient ceux qui s'installent. Les cabinets reçoivent les patients qu'un confrère leur adresse, par exemple les NAC et la douleur chronique à Fribourg Ouest.
+Le groupe s'adresse aussi aux vétérinaires indépendants. Il reprend des cabinets, prend des participations et soutient ceux qui s'installent. Les cabinets reçoivent les patients qu'un confrère leur adresse, par exemple la médecine avancée des NAC et la douleur chronique à Fribourg Ouest.
 
 ## Joindre le groupe
 

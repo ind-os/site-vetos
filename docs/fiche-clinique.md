@@ -25,7 +25,7 @@ Les horaires, le statut d'ouverture, les fermetures, le bandeau et le numéro de
 | `horaires` | les plages de chaque jour, `"lundi": ["08:00-12:00", "14:00-18:00"]`, heures de 00 à 24, début avant fin, dans l'ordre qu'on veut ; un jour vide est fermé |
 | `fermetures` | `{ "du": "2026-12-24", "au": "2026-12-26", "motif": { "fr": "…", "de": "…" } }`, `du` avant ou égal à `au` ; une fermeture passée ne s'affiche plus |
 | `bandeau` | `{ "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`, ou `null` ; `urgent` le pose en rouge |
-| `garde` | le numéro de garde et son tarif, dans les deux langues |
+| `garde` | le numéro de garde et son tarif, dans les deux langues ; `autre`, s'il y a lieu, un second service de garde de la région : `{ "nom": "Vet'Urgence Neuchâtel", "telephone": {…}, "tarif": { "fr": "…", "de": "…" } }`, affiché sous le premier |
 | `rendez_vous` | `{ "outil": "calendly", "adresse": "https://calendly.com/…" }` ; `vetlink` pour Saint-Légier |
 
 Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }`.
