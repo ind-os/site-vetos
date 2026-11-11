@@ -32,13 +32,13 @@ Das Röntgenbild ist ein flaches Bild. Um eine Veränderung in der Tiefe zu vero
 | Zähne | abgebrochener Zahn, geschwollenes Zahnfleisch, vor einer Zahnentfernung | infizierte Wurzel, Abszess, Zahnresorption |
 | Schädel des Kaninchens | Appetitlosigkeit, Speicheln, tränendes Auge | zu lange Zahnwurzeln, Kieferabszess |
 
-Einige Fälle aus den Praxen zeigen die Bandbreite. Bei einer trächtigen Katze hat das Röntgen die Jungen gezählt. Bei einem Hund hat es Pouletflügel im Magen gezeigt, die dort geblieben waren. Bei einer Katze mit Atemnot hat es Flüssigkeit im Brustkorb sichtbar gemacht. Bei einer anderen hat es einen nach einem Sturz gebrochenen Oberschenkelknochen bestätigt.
+Einige Beispiele aus unseren Praxen zeigen, wobei das Röntgen hilft. Bei einer trächtigen Katze liessen sich damit die Jungen zählen. Bei einem Hund zeigte es Stücke von Pouletflügeln im Magen. Bei einer Katze mit Atemnot machte es Flüssigkeit im Brustkorb sichtbar. Bei einer anderen Katze bestätigte es nach einem Sturz einen Bruch des Oberschenkelknochens.
 
 Beim Kaninchen und bei Nagern erkennt das Röntgen des Schädels eine Zahnerkrankung vor den ersten Anzeichen. Danach dient es dazu, ihren Verlauf von Jahr zu Jahr zu verfolgen.
 
 ## Warum ein Röntgen und keine andere Untersuchung
 
-Das Röntgen beantwortet schnell eine genaue Frage: Gibt es einen Bruch, einen Fremdkörper, Flüssigkeit im Brustkorb? Es zeigt Knochen und Lunge gut, die Luft enthält. Das Innere der soliden Organe wie Leber oder Nieren zeigt es weniger gut. Dafür ergänzt die Tierärztin oder der Tierarzt oft mit einem [Ultraschall](/de/leistungen/ultraschall/). Keine Praxis von Vetmint hat einen Computertomografen (CT), das Gerät, das Schnittbilder liefert. Ist er nötig, überweist die Tierärztin oder der Tierarzt Sie an ein Zentrum, das damit ausgestattet ist.
+Das Röntgen beantwortet schnell eine genaue Frage: Gibt es einen Bruch, einen Fremdkörper, Flüssigkeit im Brustkorb? Es zeigt Knochen und Lunge gut, die Luft enthält. Das Innere der soliden Organe wie Leber oder Nieren zeigt es weniger gut. Dafür ergänzt die Tierärztin oder der Tierarzt oft mit einem [Ultraschall](/de/leistungen/ultraschall/). Sind weitergehende Untersuchungen nötig (zum Beispiel CT oder MRI), überweist die Tierärztin oder der Tierarzt Sie an ein entsprechend ausgestattetes Zentrum.
 
 ## Die offizielle Dysplasie-Untersuchung
 
@@ -110,8 +110,8 @@ Die acht Praxen von Vetmint röntgen digital und machen die offiziellen Dysplasi
 - [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/): [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/): [Termin](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)

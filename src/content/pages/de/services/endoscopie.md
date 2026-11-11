@@ -112,8 +112,8 @@ Ihre gewohnte Tierärztin oder Ihr gewohnter Tierarzt untersucht das Tier und se
 
 ## Die Praxen, die sie anbieten
 
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin in Fribourg Ouest](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/): [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/): [Termin in Lac-de-Joux](/de/lacdejoux/termin/)
 
 Die anderen Vetmint-Praxen überweisen ihre Patienten für die Endoskopie nach Fribourg Ouest oder Lac-de-Joux. Wer Ihr Tier betreut, sendet das Dossier und die Analysen.
 

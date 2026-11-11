@@ -32,13 +32,13 @@ La radio est une image à plat. Pour situer une lésion en profondeur, le vété
 | Dents | dent cassée, gencive gonflée, avant une extraction | racine infectée, abcès, résorption de la dent |
 | Crâne du lapin | perte d'appétit, bave, œil qui coule | racines dentaires trop longues, abcès de la mâchoire |
 
-Quelques cas vus dans les cabinets montrent l'éventail. Sur une chatte gestante, la radio a compté les petits. Chez un chien, elle a montré des ailes de poulet restées dans l'estomac. Chez un chat essoufflé, elle a révélé du liquide dans le thorax. Chez un autre, elle a confirmé un fémur cassé après une chute.
+Quelques exemples vus dans nos cabinets montrent ce que la radio révèle. Chez une chatte gestante, elle a servi à compter les chatons. Chez un chien, elle a trouvé des morceaux d'ailes de poulet restés dans l'estomac. Chez un chat qui respirait mal, elle a montré du liquide dans le thorax. Chez un autre chat, après une chute, elle a confirmé une fracture du fémur.
 
 Chez le lapin et les rongeurs, la radio du crâne repère une maladie dentaire avant les premiers signes. Elle sert ensuite à suivre son évolution d'une année à l'autre.
 
 ## Pourquoi une radio plutôt qu'un autre examen
 
-La radio répond vite à une question précise : y a-t-il une fracture, un corps étranger, du liquide dans le thorax ? Elle montre bien les os et les poumons, qui contiennent de l'air. Elle montre moins bien l'intérieur des organes pleins, comme le foie ou les reins. Pour ceux-là, le vétérinaire complète souvent par une [échographie](/services/echographie/). Aucun cabinet Vetmint n'a de scanner, l'appareil qui donne des images en coupes. Quand il est nécessaire, le vétérinaire vous adresse à un centre équipé.
+La radio répond vite à une question précise : y a-t-il une fracture, un corps étranger, du liquide dans le thorax ? Elle montre bien les os et les poumons, qui contiennent de l'air. Elle montre moins bien l'intérieur des organes pleins, comme le foie ou les reins. Pour ceux-là, le vétérinaire complète souvent par une [échographie](/services/echographie/). Si d'autres examens plus poussés sont nécessaires (scanner ou IRM par exemple), le vétérinaire vous adresse à un centre équipé.
 
 ## Le dépistage officiel de la dysplasie
 
@@ -110,8 +110,8 @@ Les huit cabinets Vetmint ont une radiographie numérique et prennent les clich�
 - [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/) : [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)

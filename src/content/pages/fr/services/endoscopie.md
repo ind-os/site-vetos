@@ -112,8 +112,8 @@ Votre vétérinaire habituel examine l'animal et adresse le dossier à Fribourg 
 
 ## Les cabinets qui la pratiquent
 
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/) : [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/) : [Rendez-vous au Lac-de-Joux](/lacdejoux/rendez-vous/)
 
 Les autres cabinets Vetmint adressent leurs patients à Fribourg Ouest ou au Lac-de-Joux pour l'endoscopie. Le vétérinaire qui suit votre animal transmet le dossier et les analyses.
 

@@ -56,7 +56,7 @@ Claire-Lise Tinguely ou Tiago Capelo détartre, sonde chaque dent et décide des
 
 - **Chien et chat** : plus de nourriture après le repas du soir. Laissez l'eau jusqu'au départ.
 - **Lapin, cochon d'Inde, chinchilla** : jamais à jeun. Il mange jusqu'au cabinet ; apportez du foin.
-- **Animal de plus de 7 ans** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire du cabinet la lit en général pendant la consultation. Voir la page [Analyse sanguine à Payerne](/payerne/services/analyses-sanguines/).
+- **Tous les animaux, en particulier les seniors** : le vétérinaire propose une prise de sang avant l'anesthésie. Le laboratoire du cabinet la lit en général pendant la consultation. Voir la page [Analyse sanguine à Payerne](/payerne/services/analyses-sanguines/).
 - **Au retour** : de l'eau et une petite ration le soir. Après des extractions, de la nourriture molle pendant une semaine.
 
 Un contrôle a lieu sept à dix jours après une extraction. Si la bouche saigne encore le soir ou si votre animal refuse de manger le lendemain, appelez le cabinet.

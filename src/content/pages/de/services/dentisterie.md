@@ -50,7 +50,7 @@ Eines dieser Anzeichen rechtfertigt eine Konsultation. Die Tierärztin oder der 
 
 ## Der Ablauf des Tages
 
-1. **Die Ankunft.** Sie bringen Ihr Tier am Morgen nüchtern zwischen 7.30 und 8.30 Uhr. Die Tierärztin oder der Tierarzt untersucht es vor der Narkose und beantwortet Ihre letzten Fragen.
+1. **Die Ankunft.** Sie bringen Ihr Tier am Morgen nüchtern zwischen 8 und 9 Uhr. Die Tierärztin oder der Tierarzt untersucht es vor der Narkose und beantwortet Ihre letzten Fragen.
 2. **Die Narkose.** Ein Katheter, ein kleiner Schlauch in einer Vene der Pfote, bringt die Infusion und die Medikamente. Das Tier atmet ein Narkosegas durch einen Tubus in der Luftröhre. Dieser Tubus schützt auch seine Lunge vor Wasser und Zahnsteinresten. Eine Assistentin überwacht während der ganzen Behandlung Herz, Atmung und Temperatur.
 3. **Die Untersuchung Zahn für Zahn.** Die Tierärztin oder der Tierarzt misst mit einer Sonde die Tiefe der Tasche zwischen jedem Zahn und dem Zahnfleisch. Sie oder er notiert die geschädigten Zähne und röntgt die, deren Wurzel fraglich ist.
 4. **Die Zahnsteinentfernung.** Ein Ultraschallgerät sprengt den sichtbaren Zahnstein ab. Eine Kürette reinigt danach unter dem Zahnfleisch, dort, wo die Krankheit fortschreitet.
@@ -58,14 +58,12 @@ Eines dieser Anzeichen rechtfertigt eine Konsultation. Die Tierärztin oder der 
 6. **Das Polieren.** Eine Paste glättet den Zahnschmelz. Eine glatte Oberfläche hält die Plaque weniger fest.
 7. **Das Aufwachen.** Das Tier wacht im Warmen unter Überwachung auf. Es geht am Nachmittag nach Hause, wenn es normal läuft und schluckt.
 
-Die Pauschale rechnet mit 45 Minuten Behandlung. Jede Extraktion verlängert die Narkose, daher die Offerte.
-
 ## Die Vorbereitung
 
 - Keine Mahlzeit nach dem Nachtessen am Vortag. Wasser ist bis zum Morgen erlaubt.
 - Lassen Sie ein Kaninchen oder einen Nager nie hungern: Es frisst und trinkt bis zur Abfahrt in die Praxis.
 - Bringen Sie die Liste der laufenden Medikamente mit und sagen Sie, ob Ihr Tier in der Woche gehustet, erbrochen hat oder krank war.
-- Bei einem Tier über 7 Jahren schlägt die Tierärztin oder der Tierarzt eine Blutuntersuchung vor der Narkose vor. Sie prüft Nieren und Leber, die die Medikamente ausscheiden. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) erklärt es.
+- Für alle Tiere, besonders für Senioren, schlägt die Tierärztin oder der Tierarzt eine Blutuntersuchung vor der Narkose vor. Sie prüft Nieren und Leber, die die Medikamente ausscheiden. Die Seite [Blutanalyse](/de/leistungen/blutanalysen/) erklärt es.
 - Die Katze reist in einer geschlossenen Transportbox, der Hund an der Leine.
 
 ## Die Zeit danach
@@ -97,7 +95,7 @@ Der Preis einer Zahnsteinentfernung hängt vom Zeitaufwand, von den Zahnröntgen
 
 ### Warum eine Vollnarkose für eine Zahnsteinentfernung?
 
-Der Zahnstein, der den Zahn schädigt, versteckt sich unter dem Zahnfleisch. Um ihn zu entfernen, muss man in der Tasche kratzen, was schmerzt und was kein waches Tier duldet. In Narkose röntgt die Tierärztin oder der Tierarzt auch die Wurzeln. Der Tubus schützt die Lunge.
+Der Zahnstein, der den Zahn schädigt, versteckt sich unter dem Zahnfleisch. Um ihn zu entfernen, muss man in der Tasche kratzen, was schmerzt und was kein waches Tier duldet. Die Narkose erlaubt ausserdem Zahnröntgenbilder, um zu beurteilen, was von blossem Auge nicht sichtbar ist.
 
 ### Mein Hund ist 12 Jahre alt: Ist er nicht zu alt für eine Narkose?
 
@@ -126,8 +124,8 @@ Die acht Praxen Vetmint führen die Zahnsteinentfernung mit Ultraschall, das Pol
 - [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: [Termin](/de/fribourg/termin/)
-- [Lac-de-Joux](/de/lacdejoux/leistungen/), in L'Abbaye: [Termin](/de/lacdejoux/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/): [Termin](/de/fribourg/termin/)
+- [Lac-de-Joux](/de/lacdejoux/leistungen/): [Termin](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)
 - [Saint-Légier](/de/saintlegier/leistungen/): [Termin](/de/saintlegier/termin/)

@@ -30,7 +30,7 @@ Ein Tier, das hinkt, braucht nicht immer eine Operation. Viele Lahmheiten heilen
 
 ## Für welche Tiere
 
-Die orthopädische Chirurgie betrifft vor allem den Hund. Grosse Rassen reissen sich häufiger das Kreuzband; kleine Rassen haben häufiger eine Kniescheibe, die herausspringt. Die Katze bricht sich einen Knochen bei einem Sturz vom Balkon oder nach einem Verkehrsunfall. Kaninchen und Nager brechen sich ein Bein bei einem Sturz oder wenn sie in einem Gitter hängen bleiben. Die Knochen kleiner Tiere sind fein: Die Versorgung verlangt Material in passender Grösse.
+Die orthopädische Chirurgie betrifft alle Tiere. Beim Hund reissen sich grosse Rassen häufiger das Kreuzband; kleine Rassen haben häufiger eine Kniescheibe, die herausspringt. Die Katze bricht sich einen Knochen bei einem Sturz vom Balkon oder nach einem Verkehrsunfall. Kaninchen und Nager brechen sich ein Bein bei einem Sturz oder wenn sie in einem Gitter hängen bleiben. Die Knochen kleiner Tiere sind fein: Die Versorgung verlangt Material in passender Grösse.
 
 ## Warum operieren
 
@@ -108,7 +108,7 @@ Rufen Sie sofort die Praxis an, auch wenn sie gesund wirkt. Ein Sturz kann einen
 
 ## Die Praxis, die sie anbietet
 
-- [Fribourg Ouest](/de/fribourg/leistungen/), in Givisiez: eine auf Chirurgie spezialisierte Tierärztin, eine spezialisierte Konsultation in Chirurgie und ein Operationssaal für Knochenchirurgie. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Fribourg Ouest](/de/fribourg/leistungen/): eine auf Chirurgie spezialisierte Tierärztin, eine spezialisierte Konsultation in Chirurgie und ein Operationssaal für Knochenchirurgie. [Termin in Fribourg Ouest](/de/fribourg/termin/)
 
 Die anderen Vetmint-Praxen untersuchen das Tier, machen das Röntgenbild und senden das Dossier nach Fribourg Ouest. Auf Anfrage kann die Chirurgin in Ihrer Praxis operieren.
 

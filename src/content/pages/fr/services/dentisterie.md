@@ -50,7 +50,7 @@ Un de ces signes justifie une consultation. Le vétérinaire examine la bouche, 
 
 ## Le déroulement de la journée
 
-1. **L'arrivée.** Vous déposez votre animal le matin, à jeun, entre 7 h 30 et 8 h 30. Le vétérinaire l'examine avant l'anesthésie et répond à vos dernières questions.
+1. **L'arrivée.** Vous déposez votre animal le matin, à jeun, entre 8 h et 9 h. Le vétérinaire l'examine avant l'anesthésie et répond à vos dernières questions.
 2. **L'anesthésie.** Un cathéter, petit tuyau posé dans une veine de la patte, apporte la perfusion et les médicaments. L'animal respire un gaz anesthésique par un tube placé dans la trachée. Ce tube protège aussi ses poumons de l'eau et des débris de tartre. Une assistante surveille le cœur, la respiration et la température pendant tout le soin.
 3. **L'examen dent par dent.** Le vétérinaire mesure avec une sonde la profondeur de la poche entre chaque dent et la gencive. Il note les dents abîmées et radiographie celles dont la racine est douteuse.
 4. **Le détartrage.** Un appareil à ultrasons fait éclater le tartre visible. Une curette nettoie ensuite sous la gencive, là où la maladie progresse.
@@ -58,14 +58,12 @@ Un de ces signes justifie une consultation. Le vétérinaire examine la bouche, 
 6. **Le polissage.** Une pâte lisse l'émail. Une surface lisse retient moins la plaque.
 7. **Le réveil.** L'animal se réveille au chaud, sous surveillance. Il rentre l'après-midi, quand il marche et avale normalement.
 
-Le forfait compte 45 minutes de soin. Chaque extraction allonge l'anesthésie, d'où le devis.
-
 ## La préparation
 
 - Pas de repas après le souper de la veille. L'eau reste permise jusqu'au matin.
 - Ne mettez jamais un lapin ou un rongeur à jeun : il mange et boit jusqu'au départ pour le cabinet.
 - Apportez la liste des médicaments en cours et dites si votre animal a toussé, vomi ou été malade dans la semaine.
-- Pour un animal de plus de 7 ans, le vétérinaire propose une prise de sang avant l'anesthésie. Elle vérifie les reins et le foie, qui éliminent les médicaments. La page [analyses et diagnostic](/services/analyses-sanguines/) l'explique.
+- Pour tous les animaux, en particulier pour les seniors, le vétérinaire propose une prise de sang avant l'anesthésie. Elle vérifie les reins et le foie, qui éliminent les médicaments. La page [analyses et diagnostic](/services/analyses-sanguines/) l'explique.
 - Le chat voyage dans une caisse de transport fermée, le chien en laisse.
 
 ## Les suites
@@ -97,7 +95,7 @@ Le prix d'un détartrage dépend du temps passé, des radiographies des dents et
 
 ### Pourquoi une anesthésie générale pour un détartrage ?
 
-Le tartre qui abîme la dent se cache sous la gencive. Pour le retirer, il faut gratter dans la poche, ce qui fait mal et qu'aucun animal éveillé ne tolère. Sous anesthésie, le vétérinaire radiographie aussi les racines. Le tube protège les poumons.
+Le tartre qui abîme la dent se cache sous la gencive. Pour le retirer, il faut gratter dans la poche, ce qui fait mal et qu'aucun animal éveillé ne tolère. L'anesthésie permet également la réalisation de radiographies dentaires afin d'évaluer ce qui n'est pas visible à l'œil nu.
 
 ### Mon chien a 12 ans : n'est-il pas trop vieux pour une anesthésie ?
 
@@ -126,8 +124,8 @@ Les huit cabinets Vetmint pratiquent le détartrage aux ultrasons, le polissage,
 - [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : [Rendez-vous](/fribourg/rendez-vous/)
-- [Lac-de-Joux](/lacdejoux/services/), à L'Abbaye : [Rendez-vous](/lacdejoux/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
+- [Lac-de-Joux](/lacdejoux/services/) : [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)
 - [Saint-Légier](/saintlegier/services/) : [Rendez-vous](/saintlegier/rendez-vous/)

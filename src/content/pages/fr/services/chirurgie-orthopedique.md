@@ -30,7 +30,7 @@ Un animal qui boite n'a pas toujours besoin d'une opération. Beaucoup de boiter
 
 ## Pour quels animaux
 
-La chirurgie orthopédique concerne surtout le chien. Les grandes races se rompent plus souvent le ligament croisé ; les petites races ont plus souvent une rotule qui se déplace. Le chat se casse un os en tombant d'un balcon ou après un accident de la route. Le lapin et les rongeurs se cassent une patte lors d'une chute ou s'ils restent coincés dans un grillage. Les os des petits animaux sont fins : la réparation demande un matériel adapté à leur taille.
+La chirurgie orthopédique concerne tous les animaux. Chez le chien, les grandes races se rompent plus souvent le ligament croisé ; les petites races ont plus souvent une rotule qui se déplace. Le chat se casse un os en tombant d'un balcon ou après un accident de la route. Le lapin et les rongeurs se cassent une patte lors d'une chute ou s'ils restent coincés dans un grillage. Les os des petits animaux sont fins : la réparation demande un matériel adapté à leur taille.
 
 ## Pourquoi opérer
 
@@ -108,7 +108,7 @@ Appelez le cabinet tout de suite, même s'il semble aller bien. Une chute peut c
 
 ## Le cabinet qui la pratique
 
-- [Fribourg Ouest](/fribourg/services/), à Givisiez : une vétérinaire spécialisée en chirurgie, une consultation spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Fribourg Ouest](/fribourg/services/) : une vétérinaire spécialisée en chirurgie, une consultation spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
 
 Les autres cabinets Vetmint examinent l'animal, font la radiographie et adressent le dossier à Fribourg Ouest. Sur demande, la chirurgienne peut venir opérer dans votre cabinet.
 

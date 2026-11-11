@@ -56,7 +56,7 @@ Claire-Lise Tinguely oder Tiago Capelo entfernt den Zahnstein, sondiert jeden Za
 
 - **Hund und Katze**: nach der Abendmahlzeit kein Futter mehr. Lassen Sie das Wasser bis zur Abfahrt stehen.
 - **Kaninchen, Meerschweinchen, Chinchilla**: nie nüchtern. Es frisst bis zur Praxis; bringen Sie Heu mit.
-- **Tier über 7 Jahren**: Die Tierärztin oder der Tierarzt schlägt eine Blutuntersuchung vor der Narkose vor. Das Labor der Praxis liest sie in der Regel während der Konsultation. Siehe die Seite [Blutanalyse in Payerne](/de/payerne/leistungen/blutanalysen/).
+- **Alle Tiere, besonders Senioren**: Die Tierärztin oder der Tierarzt schlägt eine Blutuntersuchung vor der Narkose vor. Das Labor der Praxis liest sie in der Regel während der Konsultation. Siehe die Seite [Blutanalyse in Payerne](/de/payerne/leistungen/blutanalysen/).
 - **Bei der Rückkehr**: Wasser und am Abend eine kleine Ration. Nach Extraktionen eine Woche lang weiches Futter.
 
 Eine Kontrolle findet sieben bis zehn Tage nach einer Extraktion statt. Blutet das Maul am Abend noch oder verweigert Ihr Tier am nächsten Tag das Fressen, rufen Sie die Praxis an.
