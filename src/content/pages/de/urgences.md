@@ -98,6 +98,10 @@ Rufen Sie zuerst an, auch wenn Sie fünf Minuten von der Praxis entfernt sind. D
 
 Der Preis pro Minute finanziert die ständige Bereitschaft der Tierärztinnen und Tierärzte, die sich die ganze Nacht und das Wochenende abwechseln. Ein Gespräch von drei Minuten kostet je nach Region zwischen 6 und 9 Franken.
 
+### Was kostet ein Notfall?
+
+Nur die Konsultation kostet mehr: Der Zuschlag steht auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/). Die übrigen Leistungen und die Produkte kosten gleich viel wie sonst. Die Tierärztin oder der Tierarzt erstellt den Kostenvoranschlag vor Ort, je nach Zustand Ihres Tieres.
+
 ### Darf ich meinen Hund erbrechen lassen, der ein Produkt verschluckt hat?
 
 Nein, nicht ohne den Rat der Tierärztin oder des Tierarztes. Manche Produkte verätzen die Speiseröhre ein zweites Mal, wenn sie wieder hochkommen. Rufen Sie an, behalten Sie die Verpackung und lassen Sie die Tierärztin oder den Tierarzt entscheiden.

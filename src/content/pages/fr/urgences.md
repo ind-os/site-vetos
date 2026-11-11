@@ -98,6 +98,10 @@ Téléphonez d'abord, même à cinq minutes du cabinet. L'équipe peut être en 
 
 Le prix à la minute finance la permanence des vétérinaires qui se relaient toute la nuit et le week-end. Une conversation de trois minutes coûte entre 6 et 9 francs selon la région.
 
+### Combien coûte une urgence ?
+
+Seule la consultation est majorée : le supplément figure sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/). Les autres actes et les produits coûtent le même prix que d'habitude. Le vétérinaire établit le devis sur place, selon l'état de votre animal.
+
 ### Puis-je faire vomir mon chien qui a avalé un produit ?
 
 Non, pas sans l'avis du vétérinaire. Certains produits brûlent l'œsophage une deuxième fois en remontant. Appelez, gardez l'emballage et laissez le vétérinaire décider.
