@@ -2,7 +2,7 @@
 // Le type, dans l'en-tête d'une page Markdown, choisit son gabarit (src/gabarits/).
 
 /** Les types des pages communes : leur fichier est hors des dossiers des cliniques. */
-const TYPES_DE_PAGE_COMMUNE = ['accueil-groupe', 'cliniques', 'service-index', 'service', 'urgences-groupe', 'conseil-index', 'conseil-categorie', 'conseil', 'simple'] as const;
+const TYPES_DE_PAGE_COMMUNE = ['accueil-groupe', 'cliniques', 'service-index', 'service', 'urgences-groupe', 'conseil-index', 'conseil-categorie', 'conseil', 'simple', 'emploi'] as const;
 
 /**
  * Les types des pages d'une clinique : leur fichier est dans <langue>/<clinique>/ et leur en-tête

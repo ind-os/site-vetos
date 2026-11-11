@@ -10,6 +10,7 @@ import Cliniques from './Cliniques.astro';
 import Conseil from './Conseil.astro';
 import ConseilIndex from './ConseilIndex.astro';
 import Contact from './Contact.astro';
+import Emploi from './Emploi.astro';
 import Equipe from './Equipe.astro';
 import QuestionsFrequentes from './QuestionsFrequentes.astro';
 import RendezVous from './RendezVous.astro';
@@ -29,6 +30,7 @@ export const GABARITS: Record<TypeDePage, typeof Simple> = {
   'conseil-categorie': ConseilIndex,
   conseil: Conseil,
   simple: Simple,
+  emploi: Emploi,
   'accueil-clinique': AccueilClinique,
   'services-clinique': ServicesClinique,
   equipe: Equipe,

@@ -53,6 +53,7 @@ const VOLUMES = {
   'urgences-groupe': [800, 2000],
   'conseil': [600, 1600],
   'simple': [200, 1800],
+  'emploi': [200, 1800],
   'service-index': [250, 600],
   'conseil-index': [200, 500],
   'conseil-categorie': [150, 500],

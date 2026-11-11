@@ -32,7 +32,7 @@ Pour un lapin ou un rongeur, le trajet est aussi une source de stress. La visite
 
 ### Les soins possibles
 
-- Une consultation complète : examen de la tête à la queue, pesée, conseils sur l'alimentation et le comportement.
+- Une consultation complète : examen de la tête à la queue, conseils sur l'alimentation et le comportement.
 - Les vaccins et leurs rappels, avec l'inscription dans le carnet ou le passeport.
 - Les vermifuges, les anti-puces et les anti-tiques.
 - Une prise de sang ou un prélèvement d'urine, analysés ensuite au laboratoire du cabinet.
@@ -40,12 +40,6 @@ Pour un lapin ou un rongeur, le trajet est aussi une source de stress. La visite
 - Les piqûres d'un traitement en cours, par exemple l'insuline d'un chat diabétique.
 - Le suivi d'un animal âgé ou d'une douleur chronique.
 - L'accompagnement de fin de vie et l'euthanasie, dans le calme de la maison.
-
-### Ce qui demande un passage au cabinet
-
-La radiographie, l'échographie, l'anesthésie, les opérations, le détartrage et l'hospitalisation se font au cabinet, où se trouvent l'équipement et l'équipe. Si l'examen à domicile montre qu'un de ces soins est nécessaire, le vétérinaire vous l'explique et le cabinet vous donne un rendez-vous.
-
-Une urgence ne s'attend pas : un animal qui respire mal, saigne ou a avalé un toxique va directement au cabinet le plus proche ou chez le vétérinaire de garde. La page [Urgences](/urgences/) donne le numéro à appeler selon l'heure.
 
 ## Dans quelle zone
 
@@ -85,7 +79,7 @@ Certains soins ne se font pas à la maison, parce qu'ils demandent un appareil, 
 
 Si l'examen à domicile montre qu'un de ces soins est nécessaire, le vétérinaire vous le dit et fixe avec vous le rendez-vous au cabinet. Il transmet ses notes à l'équipe, pour que vous n'ayez pas à tout raconter une deuxième fois.
 
-Une visite à domicile ne remplace pas non plus une urgence. Un animal qui respire mal, saigne beaucoup ou ne se lève plus doit être vu au cabinet sans attendre : la page [Urgences](/urgences/) dit qui appeler.
+Une visite à domicile ne remplace pas non plus une urgence. Un animal qui respire mal, saigne beaucoup, a avalé un toxique ou ne se lève plus doit être vu sans attendre, au cabinet le plus proche ou chez le vétérinaire de garde. La page [Urgences](/urgences/) donne le numéro à appeler selon l'heure.
 
 ## Le prix
 
@@ -105,6 +99,10 @@ Oui. Chaque chat est examiné puis vacciné. Vous payez un seul déplacement. Di
 
 L'examen avant l'anesthésie peut se faire à domicile. L'opération, elle, se fait au cabinet, avec l'anesthésie et la surveillance du réveil.
 
+### Que se passe-t-il si mon animal doit finalement venir au cabinet ?
+
+Le vétérinaire vous explique pourquoi et fixe avec vous le rendez-vous. Il transmet ses notes à l'équipe du cabinet : vous n'avez pas à tout raconter une deuxième fois. Le vétérinaire qui est venu chez vous fait partie de cette équipe et peut revoir votre animal en consultation. Gardez la caisse de transport à portée de main : le départ sera plus rapide.
+
 ### La visite à domicile coûte-t-elle plus cher ?
 
 Elle coûte le forfait de déplacement en plus de la consultation. Les soins se paient au même prix qu'au cabinet.
@@ -119,16 +117,16 @@ Le vétérinaire prend le temps de vous expliquer chaque étape. Il endort d'abo
 
 ## Les cabinets qui se déplacent
 
-Les huit cabinets Vetmint proposent des visites à domicile, sur rendez-vous, autour de leur commune. Appelez le cabinet le plus proche de chez vous.
+Les huit cabinets Vetmint proposent des visites à domicile, sur rendez-vous, autour de leur commune. Appelez le cabinet le plus proche de chez vous. Son numéro figure ci-dessous, avec le lien de rendez-vous en ligne quand il existe.
 
 - [Bussigny](/bussigny/services/) : [021 703 25 30](tel:+41217032530), [rendez-vous en ligne](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [032 914 03 48](tel:+41329140348), [rendez-vous en ligne](/chauxdefonds/rendez-vous/)
-- [Domdidier](/domdidier/services/visites-a-domicile/), pour la Broye fribourgeoise : [026 675 38 88](tel:+41266753888), [rendez-vous en ligne](/domdidier/rendez-vous/)
+- [Domdidier](/domdidier/services/visites-a-domicile/) : [026 675 38 88](tel:+41266753888), [rendez-vous en ligne](/domdidier/rendez-vous/)
 - [Fribourg Ouest](/fribourg/services/) : [026 466 84 84](tel:+41264668484), [rendez-vous en ligne](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/) : [021 357 89 90](tel:+41213578990), [rendez-vous en ligne](/lacdejoux/rendez-vous/)
-- [Payerne](/payerne/services/visites-a-domicile/), pour la Broye vaudoise : [026 660 16 16](tel:+41266601616), [rendez-vous en ligne](/payerne/rendez-vous/)
+- [Payerne](/payerne/services/visites-a-domicile/) : [026 660 16 16](tel:+41266601616), [rendez-vous en ligne](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [032 753 11 22](tel:+41327531122), [rendez-vous en ligne](/saintblaise/rendez-vous/)
-- [Saint-Légier](/saintlegier/services/), pour la Riviera vaudoise : [021 683 10 10](tel:+41216831010)
+- [Saint-Légier](/saintlegier/services/) : [021 683 10 10](tel:+41216831010)
 
 Pour un animal âgé qui a mal, la page [Thérapie laser](/services/laser/) décrit le suivi possible entre deux visites.
 

@@ -260,7 +260,7 @@ ${htmlDeLaGarde(payerne, langue)}
         <Prose html={proseExemple} chapeau />
       </Exemple>
 
-      <Exemple titre="Texte en cartes" description="Le texte d’une page coupé à chaque titre ## : une carte par section, deux par ligne sur un grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de sa carte. Sur la page des cliniques." fichier="composants/SectionsEnCartes.astro" code={`<SectionsEnCartes sections={sections(html, 2).sections} />`} fond="gris">
+      <Exemple titre="Texte en cartes" description="Le texte d’une page coupé à chaque titre ## (ou ###) : une carte par section, deux par ligne sur un grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de sa carte. Sur la page des cliniques (##) et pour les postes ouverts de la page Emploi (###)." fichier="composants/SectionsEnCartes.astro" code={`<SectionsEnCartes sections={sections(html, 2).sections} />`} fond="gris">
         <SectionsEnCartes sections={sectionsExemple} />
       </Exemple>
 

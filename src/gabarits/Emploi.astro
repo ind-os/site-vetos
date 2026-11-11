@@ -1,0 +1,44 @@
+---
+// La page Emploi : le chapeau, puis la première section ##, les postes ouverts, sur un fond gris
+// bleuté, avec une carte par poste (chaque ###), deux par ligne sur un grand écran. Le reste du
+// texte suit, tel quel.
+import type { Contexte } from '../lib/contexte.ts';
+import { sections } from '../lib/html.ts';
+import Prose from '../composants/Prose.astro';
+import SectionsEnCartes from '../composants/SectionsEnCartes.astro';
+import PageInterieure from './PageInterieure.astro';
+
+interface Props {
+  contexte: Contexte;
+}
+
+const { contexte } = Astro.props;
+const texte = sections(contexte.html, 2);
+const [postes, ...suite] = texte.sections;
+const annonces = postes ? sections(postes.contenu, 3) : undefined;
+---
+
+<PageInterieure contexte={contexte}>
+  <Prose html={texte.introduction} chapeau />
+  {postes && annonces && (
+    <section class="postes-ouverts">
+      <Prose html={postes.entete + annonces.introduction} />
+      <SectionsEnCartes sections={annonces.sections} />
+    </section>
+  )}
+  <Prose html={suite.map((s) => s.entete + s.contenu).join('')} />
+</PageInterieure>
+
+<style>
+  /* Les postes ouverts sur le fond des sections alternées : les cartes blanches s'en détachent. */
+  .postes-ouverts {
+    margin-block: var(--espace-6) var(--espace-7);
+    padding: var(--espace-3);
+    border-radius: var(--rayon-photo);
+    background: var(--gris-bleute);
+  }
+  @media (min-width: 48rem) {
+    .postes-ouverts { padding: var(--espace-5); }
+  }
+  .postes-ouverts :global(.prose > h2:first-child) { margin-top: 0; }
+</style>

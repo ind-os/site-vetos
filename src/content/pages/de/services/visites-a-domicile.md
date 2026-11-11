@@ -32,7 +32,7 @@ Auch für ein Kaninchen oder einen Nager ist die Fahrt eine Quelle von Stress. B
 
 ### Die möglichen Behandlungen
 
-- Eine vollständige Konsultation: Untersuchung von Kopf bis Schwanz, Wägung, Beratung zu Fütterung und Verhalten.
+- Eine vollständige Konsultation: Untersuchung von Kopf bis Schwanz, Beratung zu Fütterung und Verhalten.
 - Impfungen und ihre Auffrischungen, mit Eintrag in den Impfausweis oder Heimtierausweis.
 - Entwurmungsmittel sowie Mittel gegen Flöhe und Zecken.
 - Eine Blutentnahme oder eine Urinprobe, die anschliessend im Labor der Praxis analysiert wird.
@@ -40,12 +40,6 @@ Auch für ein Kaninchen oder einen Nager ist die Fahrt eine Quelle von Stress. B
 - Die Spritzen einer laufenden Behandlung, zum Beispiel das Insulin einer zuckerkranken Katze.
 - Die Verlaufskontrolle bei einem älteren Tier oder bei chronischem Schmerz.
 - Die Begleitung in der letzten Lebensphase und die Euthanasie, in der Ruhe des Zuhauses.
-
-### Was die Praxis erfordert
-
-Röntgen, Ultraschall, Narkose, Operationen, Zahnsteinentfernung und stationäre Betreuung finden in der Praxis statt, wo Ausrüstung und Team vorhanden sind. Zeigt die Untersuchung zu Hause, dass eine dieser Behandlungen nötig ist, erklärt Ihnen die Tierärztin oder der Tierarzt das, und die Praxis gibt Ihnen einen Termin.
-
-Ein Notfall lässt sich nicht aufschieben: Ein Tier, das schlecht atmet, blutet oder ein Gift verschluckt hat, geht direkt in die Praxis oder zur Tierärztin oder zum Tierarzt im Notfalldienst. Die Seite [Notfall](/de/notfall/) nennt die Nummer, die Sie je nach Uhrzeit anrufen.
 
 ## In welchem Gebiet
 
@@ -85,7 +79,7 @@ Manche Behandlungen sind zu Hause nicht möglich, weil sie ein Gerät, einen sau
 
 Zeigt die Untersuchung zu Hause, dass eine dieser Behandlungen nötig ist, sagt Ihnen die Tierärztin oder der Tierarzt dies und vereinbart mit Ihnen den Termin in der Praxis. Die Notizen gehen an das Team, damit Sie nicht alles ein zweites Mal erzählen müssen.
 
-Ein Hausbesuch ersetzt auch keinen Notfall. Ein Tier, das schlecht atmet, stark blutet oder nicht mehr aufsteht, muss ohne Verzögerung in der Praxis untersucht werden: Die Seite [Notfall](/de/notfall/) sagt, wen Sie anrufen.
+Ein Hausbesuch ersetzt auch keinen Notfall. Ein Tier, das schlecht atmet, stark blutet, ein Gift verschluckt hat oder nicht mehr aufsteht, muss ohne Verzögerung untersucht werden, in der nächstgelegenen Praxis oder bei der Tierärztin oder dem Tierarzt im Notfalldienst. Die Seite [Notfall](/de/notfall/) nennt die Nummer, die Sie je nach Uhrzeit anrufen.
 
 ## Der Preis
 
@@ -105,6 +99,10 @@ Ja. Jede Katze wird untersucht und dann geimpft. Sie bezahlen nur eine Anfahrt. 
 
 Die Untersuchung vor der Narkose kann zu Hause erfolgen. Die Operation selbst findet in der Praxis statt, mit Narkose und Überwachung des Aufwachens.
 
+### Was geschieht, wenn mein Tier doch in die Praxis muss?
+
+Die Tierärztin oder der Tierarzt erklärt Ihnen den Grund und vereinbart mit Ihnen den Termin. Sie oder er gibt die Notizen an das Team der Praxis weiter: Sie müssen nicht alles ein zweites Mal erzählen. Wer zu Ihnen nach Hause gekommen ist, gehört zu diesem Team und kann Ihr Tier in der Konsultation wiedersehen. Halten Sie die Transportbox griffbereit: So geht die Abfahrt schneller.
+
 ### Kostet der Hausbesuch mehr?
 
 Er kostet die Anfahrtspauschale zusätzlich zur Konsultation. Die Behandlungen werden zum gleichen Preis bezahlt wie in der Praxis.
@@ -119,16 +117,16 @@ Die Tierärztin oder der Tierarzt nimmt sich die Zeit, Ihnen jeden Schritt zu er
 
 ## Die Praxen mit Hausbesuchen
 
-Alle acht Vetmint-Praxen bieten Hausbesuche nach Vereinbarung rund um ihre Gemeinde an. Rufen Sie die Praxis in Ihrer Nähe an.
+Alle acht Vetmint-Praxen bieten Hausbesuche nach Vereinbarung rund um ihre Gemeinde an. Rufen Sie die Praxis in Ihrer Nähe an. Ihre Nummer steht unten, mit dem Link zum Online-Termin, wenn es einen gibt.
 
 - [Bussigny](/de/bussigny/leistungen/): [021 703 25 30](tel:+41217032530), [Online-Termin](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [032 914 03 48](tel:+41329140348), [Online-Termin](/de/chauxdefonds/termin/)
-- [Domdidier](/de/domdidier/leistungen/hausbesuche/), für die Freiburger Broye: [026 675 38 88](tel:+41266753888), [Online-Termin](/de/domdidier/termin/)
+- [Domdidier](/de/domdidier/leistungen/hausbesuche/): [026 675 38 88](tel:+41266753888), [Online-Termin](/de/domdidier/termin/)
 - [Fribourg Ouest](/de/fribourg/leistungen/): [026 466 84 84](tel:+41264668484), [Online-Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/): [021 357 89 90](tel:+41213578990), [Online-Termin](/de/lacdejoux/termin/)
-- [Payerne](/de/payerne/leistungen/hausbesuche/), für die Waadtländer Broye: [026 660 16 16](tel:+41266601616), [Online-Termin](/de/payerne/termin/)
+- [Payerne](/de/payerne/leistungen/hausbesuche/): [026 660 16 16](tel:+41266601616), [Online-Termin](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): [032 753 11 22](tel:+41327531122), [Online-Termin](/de/saintblaise/termin/)
-- [Saint-Légier](/de/saintlegier/leistungen/), für die Waadtländer Riviera: [021 683 10 10](tel:+41216831010)
+- [Saint-Légier](/de/saintlegier/leistungen/): [021 683 10 10](tel:+41216831010)
 
 Für ein älteres Tier mit Schmerzen beschreibt die Seite [Lasertherapie](/de/leistungen/lasertherapie/) die mögliche Verlaufskontrolle zwischen zwei Besuchen.
 
