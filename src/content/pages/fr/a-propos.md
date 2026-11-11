@@ -12,17 +12,22 @@ Vetmint est un groupe de huit cabinets vétérinaires en Suisse romande, tenu et
 
 ## Qui dirige Vetmint
 
-Ewen Kerharo, vétérinaire, dirige le groupe. Il fait aussi partie des équipes de La Chaux-de-Fonds, de Fribourg Ouest et de Saint-Blaise.
+Ewen Kerharo, vétérinaire, dirige le groupe. Il n'a cependant pas arrêté la pratique et continue à prendre soin de vos animaux dans les cabinets de Domdidier, Fribourg Ouest et Payerne.
 
 Dans chaque cabinet, ce sont les vétérinaires qui décident des soins. Le groupe se charge de ce qui les éloigne des animaux : l'administration, la gestion du personnel et le recrutement.
 
 ## Comment le groupe s'est formé
 
-Vetmint SA naît en 2021. Ses premières pages présentent deux cabinets, Domdidier et Saint-Légier. Payerne et Saint-Blaise les rejoignent, puis La Chaux-de-Fonds, Fribourg Ouest à Givisiez et Lac-de-Joux à L'Abbaye.
+Vetmint naît en 2021. Le groupe a ouvert trois cabinets et en a repris cinq :
 
-Le groupe s'agrandit en reprenant des cabinets existants. Le vétérinaire qui remet son cabinet discute avec un vétérinaire de Vetmint, sans intermédiaire. Il choisit la forme de la reprise, son rôle ensuite et l'avenir de son équipe.
+- 2021 : reprise du cabinet de Domdidier, ouverture du cabinet de Saint-Légier.
+- 2022 : ouverture du cabinet de Payerne.
+- 2023 : reprise du cabinet de Saint-Blaise.
+- 2024 : reprise des cabinets de La Chaux-de-Fonds et de Lac-de-Joux, à L'Abbaye.
+- 2025 : ouverture du cabinet de Fribourg Ouest, à Givisiez.
+- 2026 : reprise du cabinet de Bussigny.
 
-Bussigny est le dernier cabinet entré dans le groupe. Pascal Wicki y soigne les animaux depuis 2000. Vetmint a repris son cabinet, dans les mêmes locaux, à côté de la Migros. Il continue d'y consulter, aux côtés de Philippe Boudaroua.
+Quand Vetmint reprend un cabinet, il discute directement avec le vétérinaire qui le remet. Celui-ci choisit la forme de la reprise, son rôle ensuite et l'avenir de son équipe.
 
 Au fil des années, le groupe a ajouté des services communs. Le plan de prévention du chiot et du chaton, les abonnements mensuels et une grille de tarifs publiée pour les huit cabinets en font partie.
 

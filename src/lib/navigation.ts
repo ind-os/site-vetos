@@ -9,7 +9,7 @@ import { adresse, lesPages, titreDe } from './pages.ts';
 export interface Lien {
   libelle: string;
   href: string;
-  /** Les liens qui s'ouvrent sous ce lien au survol, sur ordinateur : les cabinets, les services. */
+  /** Les liens qui s'ouvrent sous ce lien au survol, sur ordinateur : les cabinets, les services, les espèces des conseils. */
   sousLiens?: Lien[];
 }
 
@@ -88,8 +88,17 @@ export async function navigationDe(langue: Langue, clinique?: Clinique): Promise
       liens: [
         { libelle: n.cliniques, href: pageDesCliniques, sousLiens: cliniques },
         { libelle: n.services, href: await lien('services/index'), sousLiens: services },
-        { libelle: n.conseils, href: await lien('conseils/index') },
+        {
+          libelle: n.conseils,
+          href: await lien('conseils/index'),
+          sousLiens: [
+            { libelle: n.conseilsChiens, href: await lien('conseils/chien') },
+            { libelle: n.conseilsChats, href: await lien('conseils/chat') },
+            { libelle: n.conseilsNac, href: await lien('conseils/nac') },
+          ],
+        },
         { libelle: n.emploi, href: await lien('emploi') },
+        { libelle: n.remettre, href: await lien('remettre-un-cabinet') },
       ],
       urgence: { libelle: n.urgences, href: await lien('urgences') },
       rendezVous: `${pageDesCliniques}#rendez-vous`,

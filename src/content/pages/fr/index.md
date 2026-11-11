@@ -28,7 +28,7 @@ Quel que soit le motif de votre visite, nous réservons toujours au moins 30 min
 
 Un problème repéré tôt se soigne plus facilement et souvent pour moins cher. Le bilan de santé est une consultation : le vétérinaire examine votre animal et fait le point avec vous. Il peut proposer en plus une analyse de sang préventive. Elle montre ce que l'examen ne voit pas encore, par exemple un rein ou un foie qui commence à fatiguer. Nous la proposons pour un animal âgé, avant une opération, ou pour un adulte en pleine forme. Elle n'est jamais obligatoire.
 
-Plusieurs fois par an, nos cabinets organisent des campagnes de prévention autour d'un thème : les dents, l'animal âgé, le surpoids.
+Plusieurs fois par an, nos cabinets organisent des campagnes de prévention autour de thèmes comme la santé dentaire, l'animal âgé, le surpoids.
 
 Pour le chiot et le chaton, le plan de prévention couvre une année de consultations, de vaccins et de vermifuges, avec la puce électronique et le passeport. Pour le chien et le chat adultes ou âgés, des abonnements mensuels étalent le coût des soins de l'année.
 
@@ -44,7 +44,7 @@ Appelez toujours votre cabinet avant de venir : la nuit, le week-end et aussi en
 
 ## Nos services
 
-Chaque soin a sa page : ce qu'il soigne, comment il se passe et quels cabinets le pratiquent. La chirurgie orthopédique et l'endoscopie se font au cabinet de Fribourg Ouest, à Givisiez ; les autres cabinets y adressent leurs patients.
+Vous trouverez ci-dessous des informations complémentaires sur les différents types d'actes que nous pratiquons dans nos cabinets : dans quelles situations nous les prescrivons, comment ça se passe concrètement, comment préparer au mieux votre animal et quels cabinets proposent ce service. Si un service n'est pas proposé dans le cabinet où vous avez l'habitude de vous rendre, parlez-en à l'équipe, nous trouverons une solution.
 
 ### Prévention et chirurgie
 
@@ -82,7 +82,7 @@ Nos vétérinaires expliquent les maladies les plus fréquentes, les signes qui 
 
 ## Travailler chez Vetmint
 
-Nos huit cabinets emploient des vétérinaires, des assistantes et des assistants en médecine vétérinaire. Ils forment aussi des apprentis. Une idée proposée par un membre de l'équipe se discute en groupe avant d'être appliquée.
+Nos huit cabinets emploient des vétérinaires, des assistantes et des assistants en médecine vétérinaire. Ils forment aussi des apprentis. Cliquez sur le lien ci-dessous pour passer en revue nos offres d'emploi du moment et n'hésitez surtout pas à nous envoyer une candidature spontanée si vous ne trouvez pas votre bonheur.
 
 [Les offres d'emploi](/emploi/)
 
@@ -90,4 +90,4 @@ Nos huit cabinets emploient des vétérinaires, des assistantes et des assistant
 
 Vetmint reprend des cabinets vétérinaires de Suisse romande, prend une participation ou soutient celui qui s'installe. Un vétérinaire du groupe mène la discussion, en toute confidentialité.
 
-[L'histoire du groupe Vetmint](/a-propos/)
+[Remettre un cabinet](/remettre-un-cabinet/)

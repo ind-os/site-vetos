@@ -256,6 +256,7 @@ Les sections suivent le sujet : pour une maladie, les signes, les causes, ce que
 Volume : 200 à 1 800 mots. Script. Le script ne contrôle pas les liens d'une page `simple` : la relecture s'en charge.
 
 - `/a-propos/` : qui dirige Vetmint ; comment le groupe s'est formé ; ce que partagent les huit cliniques ; Vetmint et les autres vétérinaires ; joindre le groupe.
+- `/remettre-un-cabinet/` : pour le vétérinaire qui pense à remettre son cabinet : trois façons de travailler avec Vetmint (vendre, rejoindre sans vendre, s'installer) ; comment se passe une reprise ; de vétérinaire à vétérinaire ; nous écrire. Elle a son lien dans le menu, entre Emploi et Urgences.
 - `/emploi/` : les postes ouverts, un `###` par poste et la candidature spontanée ; ce que vous trouvez chez Vetmint ; les huit cliniques ; postuler.
 - `/newsletter/` : ce qu'elle contient ; à quel rythme ; s'inscrire ; se désinscrire.
 - `/mentions-legales/` et `/confidentialite/` : les sections que la loi demande, dans l'ordre des pages en ligne ; les faits viennent de Vetmint SA.

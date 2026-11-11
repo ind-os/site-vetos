@@ -70,6 +70,7 @@ L'adresse allemande d'une page est l'adresse française précédée de `/de/`, a
 | `/tarifs/` | `/de/preise/` |
 | `/abonnements/` | `/de/abonnemente/` |
 | `/a-propos/` | `/de/ueber-uns/` |
+| `/remettre-un-cabinet/` | `/de/praxisuebergabe/` |
 | `/emploi/` | `/de/jobs/` |
 | `/newsletter/` | `/de/newsletter/` |
 | `/confidentialite/` | `/de/datenschutz/` |

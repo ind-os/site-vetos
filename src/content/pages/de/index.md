@@ -28,7 +28,7 @@ Was auch immer der Grund Ihres Besuchs ist: Wir reservieren immer mindestens 30 
 
 Ein Problem, das früh erkannt wird, lässt sich leichter behandeln und oft auch günstiger. Der Gesundheitscheck ist eine Konsultation: Die Tierärztin oder der Tierarzt untersucht Ihr Tier und bespricht mit Ihnen, wie es ihm geht. Zusätzlich kann sie oder er eine vorbeugende Blutuntersuchung vorschlagen. Sie zeigt, was die Untersuchung noch nicht erkennen kann, zum Beispiel eine Niere oder eine Leber, die nachzulassen beginnt. Wir schlagen sie für ältere Tiere vor, vor einer Operation oder auch für erwachsene Tiere bei bester Gesundheit. Sie ist nie Pflicht.
 
-Mehrmals im Jahr führen unsere Praxen Präventionskampagnen zu einem Thema durch: die Zähne, das ältere Tier, das Übergewicht.
+Mehrmals im Jahr führen unsere Praxen Präventionskampagnen zu Themen wie der Zahngesundheit, dem älteren Tier, dem Übergewicht durch.
 
 Für Welpen und Kätzchen deckt der Präventionsplan ein Jahr lang Konsultationen, Impfungen und Entwurmungen ab, mit Mikrochip und Pass. Für erwachsene und ältere Hunde und Katzen verteilen monatliche Abonnemente die Kosten der Behandlungen eines Jahres.
 
@@ -44,7 +44,7 @@ Rufen Sie immer zuerst Ihre Praxis an, bevor Sie vorbeikommen: nachts, am Wochen
 
 ## Unsere Leistungen
 
-Jede Behandlung hat ihre Seite: was sie behandelt, wie sie abläuft und welche Praxen sie anbieten. Orthopädische Chirurgie und Endoskopie finden in der Praxis Fribourg Ouest in Givisiez statt; die anderen Praxen überweisen ihre Patienten dorthin.
+Unten finden Sie weitere Informationen zu den verschiedenen Behandlungen, die wir in unseren Praxen durchführen: in welchen Situationen wir sie empfehlen, wie sie konkret ablaufen, wie Sie Ihr Tier am besten vorbereiten und welche Praxen diese Leistung anbieten. Wird eine Leistung in der Praxis, die Sie gewohnt sind, nicht angeboten, sprechen Sie das Team darauf an – wir finden eine Lösung.
 
 ### Prävention und Chirurgie
 
@@ -82,7 +82,7 @@ Unsere Tierärztinnen und Tierärzte erklären die häufigsten Krankheiten, die 
 
 ## Bei Vetmint arbeiten
 
-Unsere acht Praxen beschäftigen Tierärztinnen und Tierärzte sowie Tiermedizinische Praxisassistentinnen und -assistenten. Sie bilden auch Lernende aus. Eine Idee aus dem Team wird in der Gruppe besprochen, bevor sie umgesetzt wird.
+Unsere acht Praxen beschäftigen Tierärztinnen und Tierärzte sowie Tiermedizinische Praxisassistentinnen und -assistenten. Sie bilden auch Lernende aus. Über den Link unten finden Sie unsere aktuellen Stellenangebote. Ist nichts Passendes dabei, schicken Sie uns gerne eine Initiativbewerbung.
 
 [Die Stellenangebote](/de/jobs/)
 
@@ -90,4 +90,4 @@ Unsere acht Praxen beschäftigen Tierärztinnen und Tierärzte sowie Tiermedizin
 
 Vetmint übernimmt Tierarztpraxen in der Westschweiz, beteiligt sich oder unterstützt, wer sich selbstständig macht. Eine Tierärztin oder ein Tierarzt der Gruppe führt das Gespräch, streng vertraulich.
 
-[Die Geschichte der Vetmint-Gruppe](/de/ueber-uns/)
+[Praxisübergabe](/de/praxisuebergabe/)

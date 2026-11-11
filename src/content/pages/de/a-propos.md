@@ -12,17 +12,22 @@ Vetmint ist eine Gruppe von acht Tierarztpraxen in der Westschweiz, geführt und
 
 ## Wer Vetmint leitet
 
-Ewen Kerharo, Tierarzt, leitet die Gruppe. Er gehört auch zu den Teams von La Chaux-de-Fonds, Fribourg Ouest und Saint-Blaise.
+Ewen Kerharo, Tierarzt, leitet die Gruppe. Er arbeitet aber weiterhin als Tierarzt und behandelt Ihre Tiere in den Praxen Domdidier, Fribourg Ouest und Payerne.
 
 In jeder Praxis entscheiden die Tierärztinnen und Tierärzte über die Behandlungen. Die Gruppe übernimmt, was sie von den Tieren fernhält: die Administration, die Personalführung und die Rekrutierung.
 
 ## Wie die Gruppe entstanden ist
 
-Vetmint SA wurde 2021 gegründet. Ihre ersten Seiten stellen zwei Praxen vor, Domdidier und Saint-Légier. Payerne und Saint-Blaise kamen dazu, dann La Chaux-de-Fonds, Fribourg Ouest in Givisiez und Lac-de-Joux in L'Abbaye.
+Vetmint wurde 2021 gegründet. Die Gruppe hat drei Praxen eröffnet und fünf übernommen:
 
-Die Gruppe wächst, indem sie bestehende Praxen übernimmt. Die Tierärztin oder der Tierarzt, die oder der seine Praxis abgibt, bespricht sich ohne Mittelsperson mit einer Tierärztin oder einem Tierarzt von Vetmint. Sie oder er wählt die Form der Übernahme, die eigene Rolle danach und die Zukunft des Teams.
+- 2021: Übernahme der Praxis in Domdidier, Eröffnung der Praxis in Saint-Légier.
+- 2022: Eröffnung der Praxis in Payerne.
+- 2023: Übernahme der Praxis in Saint-Blaise.
+- 2024: Übernahme der Praxen in La Chaux-de-Fonds und Lac-de-Joux in L'Abbaye.
+- 2025: Eröffnung der Praxis Fribourg Ouest in Givisiez.
+- 2026: Übernahme der Praxis in Bussigny.
 
-Bussigny ist die letzte Praxis, die zur Gruppe gestossen ist. Pascal Wicki behandelt dort seit 2000 Tiere. Vetmint hat seine Praxis übernommen, in denselben Räumen, neben der Migros. Er konsultiert dort weiterhin, an der Seite von Philippe Boudaroua.
+Wenn Vetmint eine Praxis übernimmt, bespricht sich die Gruppe direkt mit der Tierärztin oder dem Tierarzt, die oder der sie abgibt. Diese Person wählt die Form der Übernahme, ihre Rolle danach und die Zukunft ihres Teams.
 
 Im Lauf der Jahre hat die Gruppe gemeinsame Leistungen hinzugefügt. Dazu gehören der Präventionsplan für Welpen und Kätzchen, die monatlichen Abonnemente und eine veröffentlichte Preisliste für die acht Praxen.
 
