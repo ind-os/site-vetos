@@ -93,7 +93,7 @@ Pas sur la tumeur ni autour : le laser stimule aussi les cellules malades. Il r
 
 ### Le laser remplace-t-il les antidouleurs ?
 
-Rarement. Il les complète et en réduit parfois la dose. Pour un chien âgé ou un chat aux reins fragiles, cette réduction compte. Pour une douleur ancienne et complexe, le laser fait partie d'un plan plus large, décrit sur la page [gestion de la douleur](/services/laser/).
+Rarement. Il les complète et en réduit parfois la dose. Pour un chien âgé ou un chat aux reins fragiles, cette réduction compte. Pour une douleur ancienne et complexe, le laser fait partie d'un plan plus large.
 
 ### Faut-il raser la zone ?
 

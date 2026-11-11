@@ -12,23 +12,9 @@ especes: [nac]
 resume: Tous les NAC dans les huit cabinets, et les cas complexes chez le vétérinaire NAC de Fribourg Ouest.
 ---
 
-Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent tous les NAC. Les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie des NAC.
+Un vétérinaire NAC soigne les nouveaux animaux de compagnie (NAC) : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Chez Vetmint, les huit cabinets reçoivent tous les NAC. Les cas difficiles vont au cabinet de Fribourg Ouest, à Givisiez, où exerce un vétérinaire formé en médecine et chirurgie avancées des NAC. Les cabinets Vetmint ne soignent ni les chevaux ni les animaux de ferme.
 
 [Prendre rendez-vous pour un NAC à Fribourg Ouest](/fribourg/rendez-vous/)
-
-## Quels animaux, dans quel cabinet
-
-| Animal | Où le faire soigner |
-|---|---|
-| Lapin | dans les huit cabinets |
-| Cochon d'Inde, chinchilla, rat, dègue | dans les huit cabinets |
-| Hamster, gerbille | dans les huit cabinets |
-| Furet | dans les huit cabinets |
-| Perroquet, perruche, canari, poule | dans les huit cabinets, cas difficiles à Fribourg Ouest |
-| Tortue, lézard, serpent | dans les huit cabinets, cas difficiles à Fribourg Ouest |
-| Poisson, amphibien, insecte, araignée | dans les huit cabinets, cas difficiles à Fribourg Ouest |
-
-Les cabinets Vetmint ne soignent ni les chevaux ni les animaux de ferme. Pour un cas difficile, le cabinet le plus proche vous oriente vers Fribourg Ouest.
 
 ## Pourquoi un NAC se soigne autrement
 
@@ -50,7 +36,7 @@ Le furet qui voyage reçoit un vaccin contre la rage, comme le chien et le chat.
 
 ## Ce qui se fait sur place
 
-**Les consultations.** Tous les cabinets reçoivent les NAC pour une consultation de 30 minutes : examen, pesée, contrôle des dents à l'otoscope, conseils d'alimentation. À Fribourg Ouest, la consultation spécialisée NAC va plus loin : examens complémentaires, plan de traitement, fiche écrite sur la maladie de votre animal.
+**Les consultations.** Tous les cabinets reçoivent les NAC pour une consultation de 30 minutes : examen, pesée, contrôle des dents à l'otoscope, conseils d'alimentation. La grande majorité des problèmes de santé des NAC peuvent être pris en charge par votre vétérinaire généraliste. Si celui-ci estime que des soins plus poussés sont nécessaires, il pourra éventuellement vous rediriger vers une consultation spécialisée dans notre cabinet de Fribourg Ouest.
 
 **Les opérations.** Les huit cabinets opèrent les NAC : castration du lapin, stérilisation de la lapine, opérations des rongeurs. L'anesthésie est gazeuse, avec un protocole adapté à l'espèce. Fribourg Ouest pratique en plus la microchirurgie des petits rongeurs, des oiseaux et des reptiles.
 
@@ -78,7 +64,7 @@ Pendant les heures d'ouverture, appelez votre cabinet. En dehors, la page [urgen
 
 ## Le prix
 
-Le prix d'une consultation, d'un vaccin ou d'une opération d'un NAC dépend de l'espèce. Le vétérinaire vous annonce le prix avant chaque soin. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
+Le vétérinaire vous annonce le prix avant chaque soin. Les prix figurent sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 ## Questions fréquentes
 
@@ -106,11 +92,15 @@ Oui. L'anesthésie d'un animal de 100 grammes demande du matériel et des doses 
 
 Dans le cabinet Vetmint le plus proche de chez vous. La première consultation fait le point sur la cage, l'alimentation, la provenance et le comportement de l'oiseau.
 
+### Quand mon NAC doit-il aller à Fribourg Ouest ?
+
+Pour un cas difficile ou un deuxième avis sur un cas qui traîne. Le vétérinaire de votre cabinet vous oriente alors vers Fribourg Ouest, à Givisiez. Vous pouvez aussi appeler directement ce cabinet. Pour une consultation, une opération courante ou une hospitalisation, vous pouvez vous rendre à votre cabinet habituel.
+
 ## Les cabinets et leur pratique des NAC
 
 ### Fribourg Ouest, à Givisiez
 
-C'est le cabinet du groupe où vont les cas difficiles et les deuxièmes avis. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. Le cabinet opère aussi les petites espèces, oiseaux compris. Le détail est sur la page [NAC de Fribourg Ouest](/fribourg/services/nac/). [Services](/fribourg/services/) · [Rendez-vous](/fribourg/rendez-vous/)
+C'est le cabinet du groupe où vont les cas difficiles et les deuxièmes avis. Léo Munné, vétérinaire, est titulaire d'un diplôme complémentaire en médecine et chirurgie des NAC obtenu en hôpital universitaire. Il soigne les lapins comme les reptiles. Le cabinet opère aussi les petites espèces, oiseaux compris. [Services](/fribourg/services/) · [Rendez-vous](/fribourg/rendez-vous/)
 
 ### Les sept autres cabinets
 

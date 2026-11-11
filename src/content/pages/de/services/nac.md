@@ -12,23 +12,9 @@ especes: [nac]
 resume: Alle Heimtiere in allen acht Praxen, komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
 ---
 
-Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen alle Heimtiere. Schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in Heimtiermedizin und -chirurgie praktiziert.
+Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen alle Heimtiere. Schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in fortgeschrittener Heimtiermedizin und -chirurgie praktiziert. Die Vetmint-Praxen behandeln weder Pferde noch Nutztiere.
 
 [Termin für ein Heimtier in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
-
-## Welche Tiere, in welcher Praxis
-
-| Tier | Wo es behandelt wird |
-|---|---|
-| Kaninchen | in allen acht Praxen |
-| Meerschweinchen, Chinchilla, Ratte, Degu | in allen acht Praxen |
-| Hamster, Wüstenrennmaus | in allen acht Praxen |
-| Frettchen | in allen acht Praxen |
-| Papagei, Sittich, Kanarienvogel, Huhn | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
-| Schildkröte, Echse, Schlange | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
-| Fisch, Amphibie, Insekt, Spinne | in allen acht Praxen, schwierige Fälle in Fribourg Ouest |
-
-Die Vetmint-Praxen behandeln weder Pferde noch Nutztiere. Bei einem schwierigen Fall verweist Sie die nächstgelegene Praxis an Fribourg Ouest.
 
 ## Warum ein Heimtier anders behandelt wird
 
@@ -50,7 +36,7 @@ Das Frettchen, das reist, erhält wie Hund und Katze eine Tollwutimpfung. Ein Pa
 
 ## Was vor Ort geschieht
 
-**Die Konsultationen.** Alle Praxen empfangen Heimtiere zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. In Fribourg Ouest geht die spezialisierte Heimtier-Konsultation weiter: ergänzende Untersuchungen, Behandlungsplan, schriftliches Merkblatt zur Krankheit Ihres Tieres.
+**Die Konsultationen.** Alle Praxen empfangen Heimtiere zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. Die allermeisten Gesundheitsprobleme von Heimtieren kann Ihre Tierärztin oder Ihr Tierarzt für Allgemeinmedizin behandeln. Hält sie oder er weitergehende Behandlungen für nötig, kann sie oder er Sie gegebenenfalls an eine spezialisierte Konsultation in unserer Praxis Fribourg Ouest weiterleiten.
 
 **Die Operationen.** Die acht Praxen operieren Heimtiere: Kastration des Kaninchenmännchens, Sterilisation des Kaninchenweibchens, Operationen an Nagern. Die Narkose erfolgt mit Gas, nach einem Protokoll, das auf die Art abgestimmt ist. Fribourg Ouest führt zusätzlich Mikrochirurgie an kleinen Nagern, Vögeln und Reptilien durch.
 
@@ -78,7 +64,7 @@ Während der Öffnungszeiten rufen Sie Ihre Praxis an. Ausserhalb finden Sie auf
 
 ## Der Preis
 
-Der Preis einer Konsultation, einer Impfung oder einer Operation bei einem Heimtier hängt von der Tierart ab. Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
+Die Tierärztin oder der Tierarzt nennt Ihnen den Preis vor jeder Behandlung. Die Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 ## Häufige Fragen
 
@@ -106,11 +92,15 @@ Ja. Die Narkose eines Tieres von 100 Gramm erfordert angepasstes Material und an
 
 In der Vetmint-Praxis in Ihrer Nähe. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels.
 
+### Wann muss mein Heimtier nach Fribourg Ouest?
+
+Bei einem schwierigen Fall oder für eine Zweitmeinung zu einem Fall, der sich hinzieht. Die Tierärztin oder der Tierarzt Ihrer Praxis verweist Sie dann an Fribourg Ouest in Givisiez. Sie können diese Praxis auch direkt anrufen. Für eine Konsultation, eine gewöhnliche Operation oder eine stationäre Betreuung können Sie in Ihre gewohnte Praxis gehen.
+
 ## Die Praxen und ihre Heimtierpraxis
 
 ### Fribourg Ouest, in Givisiez
 
-Dies ist die Praxis der Gruppe für schwierige Fälle und Zweitmeinungen. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. Die Einzelheiten finden Sie auf der Seite [Heimtiere in Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
+Dies ist die Praxis der Gruppe für schwierige Fälle und Zweitmeinungen. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
 
 ### Die sieben anderen Praxen
 

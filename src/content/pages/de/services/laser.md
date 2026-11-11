@@ -93,7 +93,7 @@ Nicht am Tumor und nicht um ihn herum: Der Laser regt auch kranke Zellen an. An 
 
 ### Ersetzt der Laser die Schmerzmittel?
 
-Selten. Er ergänzt sie und verringert manchmal die Dosis. Bei einem älteren Hund oder einer Katze mit empfindlichen Nieren zählt diese Verringerung. Bei einem alten und komplexen Schmerz ist der Laser Teil eines umfassenderen Plans, der auf der Seite [Lasertherapie](/de/leistungen/lasertherapie/) beschrieben ist.
+Selten. Er ergänzt sie und verringert manchmal die Dosis. Bei einem älteren Hund oder einer Katze mit empfindlichen Nieren zählt diese Verringerung. Bei einem alten und komplexen Schmerz ist der Laser Teil eines umfassenderen Plans.
 
 ### Muss die Stelle geschoren werden?
 
