@@ -87,23 +87,23 @@ const id = 'explication-du-soin';
 </script>
 
 <style>
-  /* Replié : le paragraphe s'arrête après quatre lignes environ, et sa fin s'efface vers le fond de
-     la page. Le bouton se pose sur le bas du voile. */
+  /* Replié : le paragraphe s'arrête après cinq lignes environ, et ses trois dernières lignes
+     s'effacent peu à peu vers le fond de la page. Le bouton vient dessous, avec de l'air. */
   .explication-du-soin[data-replie] .explication-du-soin__apercu {
     position: relative;
-    max-height: 6.5em;
+    max-height: 8em;
     overflow: hidden;
   }
   .explication-du-soin[data-replie] .explication-du-soin__apercu::after {
     content: "";
     position: absolute;
     inset: auto 0 0;
-    height: 4.5em;
-    background: linear-gradient(to bottom, transparent, var(--blanc) 90%);
+    height: 6em;
+    background: linear-gradient(to bottom, transparent, var(--blanc));
     pointer-events: none;
   }
-  .explication-du-soin__action { display: flex; justify-content: center; margin: 0; }
-  .explication-du-soin[data-replie] .explication-du-soin__action { position: relative; margin-top: calc(-1 * var(--espace-4)); }
+  .explication-du-soin__action { display: flex; justify-content: center; margin: 0; padding-block: var(--espace-6) var(--espace-4); }
+  .explication-du-soin[data-replie] .explication-du-soin__action { padding-top: var(--espace-4); }
   .explication-du-soin__fleche { flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
   .explication-du-soin__haut,
   [aria-expanded="true"] .explication-du-soin__bas { display: none; }
