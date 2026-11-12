@@ -2,20 +2,24 @@
 // Des questions et leurs réponses, en accordéon : la question s'ouvre au clic, sans
 // JavaScript (details et summary). Le balisage FAQPage est posé par la mise en page intérieure
 // (src/gabarits/PageInterieure.astro), que le gabarit des questions fréquentes lui passe.
+// Deux présentations : chaque question dans sa carte, ou les questions en liste, séparées par un
+// filet, pour quelques questions dans une page qui a déjà ses cadres.
 interface Props {
   questions: { question: string; reponse: string }[];
   /** Le niveau de titre des questions ; 3 par défaut. */
   niveau?: 2 | 3;
+  /** « cartes », par défaut : une carte par question. « filets » : une liste, un filet entre les questions. */
+  variante?: 'cartes' | 'filets';
 }
 
-const { questions, niveau = 3 } = Astro.props;
+const { questions, niveau = 3, variante = 'cartes' } = Astro.props;
 const Titre = `h${niveau}` as const;
 ---
 
-<div class="faq">
+<div class:list={['faq', { 'faq--filets': variante === 'filets' }]}>
   {
     questions.map((q) => (
-      <details class="carte faq__question">
+      <details class:list={['faq__question', { carte: variante === 'cartes' }]}>
         <summary>
           <Titre class="faq__titre">{q.question}</Titre>
           <span class="faq__signe" aria-hidden="true" />
@@ -52,4 +56,13 @@ const Titre = `h${niveau}` as const;
   .faq__signe::after { top: 0; bottom: 0; left: 7px; width: 2px; }
   .faq__question[open] .faq__signe::after { display: none; }
   .faq__reponse { padding: 0 var(--espace-5) var(--espace-5); }
+
+  /* En liste : un filet au-dessus de la première question et sous chacune, sans cadre ni marge
+     de côté. La question, à la taille du texte, et sa réponse s'alignent sur le texte de la page. */
+  .faq--filets { gap: 0; border-top: 1px solid var(--trait-leger); }
+  .faq--filets .faq__question { border-bottom: 1px solid var(--trait-leger); }
+  .faq--filets summary { padding-inline: 0; }
+  .faq--filets summary:focus-visible { outline-offset: 3px; }
+  .faq--filets .faq__titre { font-size: var(--texte); }
+  .faq--filets .faq__reponse { padding-inline: 0; }
 </style>

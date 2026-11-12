@@ -277,11 +277,18 @@ ${htmlDeLaGarde(payerne, langue)}
         <SectionsEnCartes sections={sectionsExemple} />
       </Exemple>
 
-      <Exemple titre="Questions fréquentes" description="Chaque question ### d’une page s’ouvre au clic, sans JavaScript. La page porte le balisage FAQPage pour les moteurs de recherche." fichier="composants/QuestionsFrequentes.astro" code={`<QuestionsFrequentes questions={[{ question: '…', reponse: '<p>…</p>' }]} />`}>
+      <Exemple titre="Questions fréquentes" description="Chaque question ### d’une page s’ouvre au clic, sans JavaScript. La page porte le balisage FAQPage pour les moteurs de recherche. Deux présentations : une carte par question, sur la page Questions fréquentes ; en liste (variante « filets »), un filet entre les questions, pour quelques questions dans une page qui a déjà ses cadres, comme les infos pratiques d’un soin dans un cabinet." fichier="composants/QuestionsFrequentes.astro" code={`<QuestionsFrequentes questions={[{ question: '…', reponse: '<p>…</p>' }]} />\n<QuestionsFrequentes questions={[{ question: '…', reponse: '<p>…</p>' }]} variante="filets" />`}>
         <QuestionsFrequentes
           questions={[
             { question: 'Faut-il venir à jeun pour une prise de sang ?', reponse: '<p>Oui, douze heures sans manger. L’eau reste permise.</p>' },
             { question: 'Puis-je rester pendant la consultation ?', reponse: '<p>Oui. Vous restez avec votre animal pendant tout l’examen.</p>' },
+          ]}
+        />
+        <QuestionsFrequentes
+          variante="filets"
+          questions={[
+            { question: 'Où se trouve le cabinet Vetmint Payerne ?', reponse: '<p>Le cabinet se trouve à la route du Châtelard 13, 1530 Payerne.</p>' },
+            { question: 'Le cabinet est-il proche de chez moi ?', reponse: '<p>Ses clients viennent de Payerne et des environs.</p>' },
           ]}
         />
       </Exemple>
@@ -291,15 +298,17 @@ ${htmlDeLaGarde(payerne, langue)}
         <Pastilles liens={[{ libelle: 'Consultation', href: '#' }, { libelle: 'Vaccination du chien', href: '#' }, { libelle: 'Radiographie', href: '#' }, { libelle: 'Soins dentaires', href: '#' }]} idDuTitre="pastilles-exemple" />
       </Exemple>
 
-      <Exemple titre="Rendez-vous d’un soin" description="Sur la page d’un service dans un cabinet, sous la présentation du soin : un encadré gris bleuté avec les conseils de rendez-vous propres au soin, tirés de la section « Prendre rendez-vous » de sa page commune, le bouton de l’agenda du cabinet et son téléphone. Sans conseils pour ce soin, une phrase commune les remplace." fichier="composants/RendezVousDuSoin.astro" code={`<RendezVousDuSoin clinique={clinique} conseils={html} langue={langue} />`}>
-        <RendezVousDuSoin clinique={payerne} conseils="<p>Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d’extractions. Dites au téléphone que vous venez pour les dents.</p>" langue={langue} />
+      <Exemple titre="Rendez-vous d’un soin" description="Sur la page d’un service dans un cabinet, dans la colonne de droite, à côté de la présentation, du prix et des infos pratiques : un encadré gris bleuté avec les conseils de rendez-vous propres au soin, tirés de la section « Prendre rendez-vous » de sa page commune, le bouton de l’agenda du cabinet et son téléphone. Sans conseils pour ce soin, une phrase commune les remplace. L’encadré lit sa propre largeur : dans la colonne ou sur un téléphone, les deux boutons s’empilent sur toute la largeur, comme ici ; dans un encadré large, ils se suivent en ligne." fichier="composants/RendezVousDuSoin.astro" code={`<RendezVousDuSoin clinique={clinique} conseils={html} langue={langue} />`}>
+        <div class="colonne">
+          <RendezVousDuSoin clinique={payerne} conseils="<p>Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d’extractions. Dites au téléphone que vous venez pour les dents.</p>" langue={langue} />
+        </div>
       </Exemple>
 
-      <Exemple titre="Prix d’un soin" description="Les prix d’un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : prestation et prix, puis le lien vers la page Tarifs du cabinet. Sans prix pour ce soin, une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d’un service dans un cabinet." fichier="composants/PrixDuSoin.astro" code={`<PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325 CHF' }]} lieu="Payerne" tarifs="/payerne/tarifs/" langue={langue} />`}>
+      <Exemple titre="Prix d’un soin" description="Les prix d’un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : une liste sans cadre, prestation à gauche, prix à droite en gras, un filet sous chaque ligne, puis le lien vers la page Tarifs du cabinet. Sans prix pour ce soin, une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d’un service dans un cabinet." fichier="composants/PrixDuSoin.astro" code={`<PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325 CHF' }]} lieu="Payerne" tarifs="/payerne/tarifs/" langue={langue} />`}>
         <PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325\u00a0CHF' }, { libelle: 'Extraction d’une dent, selon la dent', montant: '25 à 200\u00a0CHF' }]} lieu="Payerne" tarifs="#" langue={langue} />
       </Exemple>
 
-      <Exemple titre="Explication d’un soin" description="Sur la page d’un service dans un cabinet : le premier paragraphe de la page commune, dont la fin s’efface sous un voile, et un bouton secondaire qui déplie le reste du texte dans la page, chargé au clic. Déplié, le bouton passe sous le texte pour le replier. Sans JavaScript, le paragraphe s’affiche en entier et le bouton ouvre la page commune. Le texte déplié n’est pas dans la page, qui reste propre au cabinet." fichier="composants/ExplicationDuSoin.astro" code={`<ExplicationDuSoin bref={html} enPhrase="la radiographie" pageCommune="/services/radiographie/" texteComplet="/textes-des-soins/fr/radiographie.html" langue={langue} />`}>
+      <Exemple titre="Explication d’un soin" description="Sur la page d’un service dans un cabinet : son titre, à la taille d’un titre de section, le premier paragraphe de la page commune, dont la fin s’efface sous un voile, et un bouton secondaire qui déplie le reste du texte dans la page, chargé au clic. Déplié, le bouton passe sous le texte pour le replier. Sans JavaScript, le paragraphe s’affiche en entier et le bouton ouvre la page commune. Le texte déplié n’est pas dans la page, qui reste propre au cabinet." fichier="composants/ExplicationDuSoin.astro" code={`<ExplicationDuSoin bref={html} enPhrase="la radiographie" pageCommune="/services/radiographie/" texteComplet="/textes-des-soins/fr/radiographie.html" langue={langue} />`}>
         <ExplicationDuSoin bref="<p>La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes.</p>" enPhrase="la radiographie" pageCommune="/services/radiographie/" texteComplet="/textes-des-soins/fr/radiographie.html" langue={langue} />
       </Exemple>
 
@@ -374,6 +383,7 @@ ${htmlDeLaGarde(payerne, langue)}
   .rangee { display: flex; flex-wrap: wrap; align-items: center; gap: var(--espace-3); }
   .trois { display: grid; gap: var(--espace-4); }
   .etroit { max-width: 420px; }
+  .colonne { max-width: var(--largeur-cote); }
   code { font: 0.875em var(--police-code); }
   @media (min-width: 48rem) {
     .trois { grid-template-columns: repeat(3, minmax(0, 1fr)); }

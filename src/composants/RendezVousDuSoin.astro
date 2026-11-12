@@ -32,6 +32,8 @@ const id = 'rendez-vous-du-soin';
 </section>
 
 <style>
+  /* L'encadré lit sa propre largeur : dans la colonne d'une page ou sur un téléphone, les deux
+     boutons s'empilent sur toute la largeur ; dans un encadré large, ils se suivent en ligne. */
   .rendez-vous-du-soin {
     display: grid;
     gap: var(--espace-4);
@@ -39,10 +41,12 @@ const id = 'rendez-vous-du-soin';
     padding: var(--espace-5);
     border-radius: var(--rayon-photo);
     background: var(--gris-bleute);
+    container-type: inline-size;
   }
-  @media (min-width: 48rem) {
-    .rendez-vous-du-soin { padding: var(--espace-6); }
+  /* pretty : dans la colonne, le titre se coupe entre deux mots, pas dans « rendez-vous ». */
+  .rendez-vous-du-soin h2 { margin: 0; font-size: var(--titre-3); line-height: 1.2; text-wrap: pretty; }
+  .rendez-vous-du-soin__actions { display: grid; gap: var(--espace-3); margin-top: var(--espace-2); }
+  @container (min-width: 30rem) {
+    .rendez-vous-du-soin__actions { display: flex; flex-wrap: wrap; }
   }
-  .rendez-vous-du-soin h2 { margin: 0; font-size: var(--titre-3); }
-  .rendez-vous-du-soin__actions { display: flex; flex-wrap: wrap; gap: var(--espace-3); margin-top: var(--espace-2); }
 </style>

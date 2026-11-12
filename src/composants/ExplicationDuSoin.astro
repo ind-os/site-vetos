@@ -87,6 +87,12 @@ const id = 'explication-du-soin';
 </script>
 
 <style>
+  /* Le titre ouvre la lecture : à la taille d'un titre de section, au-dessus des titres du texte
+     déplié. Le bloc garde la largeur de lecture : le bouton se centre sous le texte. */
+  .explication-du-soin { max-width: var(--lecture); }
+  .explication-du-soin > h2 { font-size: var(--titre-2); }
+  /* Quand le texte déplié commence par un titre, ce titre garde de l'air au-dessus de lui. */
+  .explication-du-soin__texte > :global(:is(h3, h4):first-child) { margin-top: var(--espace-4); }
   /* Replié : le paragraphe s'arrête après cinq lignes environ, et ses trois dernières lignes
      s'effacent peu à peu vers le fond de la page. Le bouton vient dessous, avec de l'air. */
   .explication-du-soin[data-replie] .explication-du-soin__apercu {

@@ -1,8 +1,8 @@
 ---
-// Les prix d'un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : un tableau
-// prestation et prix, puis le lien vers la page Tarifs du cabinet. Sans prix fixe pour ce soin,
-// une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d'un service
-// dans un cabinet.
+// Les prix d'un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : une liste
+// prestation et prix, une ligne par prix, séparées par un filet, puis le lien vers la page Tarifs
+// du cabinet. Sans prix fixe pour ce soin, une phrase dit que le vétérinaire annonce le prix avant
+// de commencer. Sur la page d'un service dans un cabinet.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 
@@ -24,29 +24,39 @@ const id = 'prix-du-soin';
   <h2 id={id}>{t.prixA(lieu)}</h2>
   {
     lignes.length > 0 ? (
-      <div class="prose">
-        <div class="tableau" role="region" tabindex="0" aria-labelledby={id}>
-          <table>
-            <thead>
-              <tr>
-                <th>{t.prestation}</th>
-                <th>{t.prix}</th>
-              </tr>
-            </thead>
-            <tbody>
-              {lignes.map((l) => (
-                <tr>
-                  <td>{l.libelle}</td>
-                  <td>{l.montant}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-      </div>
+      <table class="prix-du-soin__liste" aria-labelledby={id}>
+        <thead>
+          <tr>
+            <th scope="col">{t.prestation}</th>
+            <th scope="col">{t.prix}</th>
+          </tr>
+        </thead>
+        <tbody>
+          {lignes.map((l) => (
+            <tr>
+              <td>{l.libelle}</td>
+              <td>{l.montant}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     ) : (
-      <p>{t.prixSelonLesExamens}</p>
+      <p class="prix-du-soin__phrase">{t.prixSelonLesExamens}</p>
     )
   }
   <a class="lien-fort" href={tarifs}>{t.tousLesTarifs}</a>
 </section>
+
+<style>
+  .prix-du-soin { max-width: var(--lecture); justify-items: start; }
+  /* Une liste sans cadre : le nom des colonnes en petit et en gris, un filet sous chaque ligne,
+     le montant à droite, en gras, sur une seule ligne. */
+  .prix-du-soin__liste { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+  .prix-du-soin__liste th { padding: 0 0 var(--espace-2); font-size: var(--texte-s); font-weight: 600; color: var(--gris); text-align: left; }
+  .prix-du-soin__liste tr { border-bottom: 1px solid var(--trait-leger); }
+  .prix-du-soin__liste td { padding: var(--espace-3) 0; vertical-align: baseline; }
+  .prix-du-soin__liste td:first-child { padding-right: var(--espace-5); }
+  .prix-du-soin__liste :is(th, td):last-child { text-align: right; white-space: nowrap; }
+  .prix-du-soin__liste td:last-child { font: 800 var(--texte-m) / 1.3 var(--police-titre); color: var(--titre); }
+  .prix-du-soin .lien-fort { margin-top: var(--espace-1); }
+</style>
