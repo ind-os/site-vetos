@@ -1,8 +1,9 @@
 ---
-// Le rendez-vous sur la page d'un soin dans un cabinet : un encadré sur fond gris bleuté, avec
-// son titre, le statut d'ouverture et l'adresse du cabinet, les conseils de rendez-vous propres au
-// soin (tirés de sa page commune, src/lib/explication-du-soin.ts), le bouton de l'agenda du
-// cabinet et son téléphone. Il tient lieu de carte du cabinet sur cette page.
+// Le rendez-vous sur la page d'un soin dans un cabinet : un encadré sur fond gris bleuté, avec le
+// nom du cabinet, son statut d'ouverture et son adresse, le bouton de l'agenda et le téléphone,
+// puis les conseils de rendez-vous propres au soin (tirés de sa page commune,
+// src/lib/explication-du-soin.ts). Il tient lieu de carte du cabinet sur cette page ; les deux
+// boutons viennent avant les conseils, pour rester visibles dès le premier écran.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import { adressePostale, type Clinique } from '../lib/cliniques.ts';
@@ -25,15 +26,17 @@ const id = 'rendez-vous-du-soin';
 ---
 
 <section class="rendez-vous-du-soin" aria-labelledby={id}>
-  <h2 id={id}>{t.services.rendezVousA(clinique.lieu)}</h2>
+  <h2 id={id}>{clinique.nom}</h2>
   <div class="rendez-vous-du-soin__cabinet">
     <StatutOuverture clinique={clinique} langue={langue} />
-    <p class="rendez-vous-du-soin__adresse">{clinique.nom}, {adressePostale(clinique)}</p>
+    <p class="rendez-vous-du-soin__adresse">{adressePostale(clinique)}</p>
   </div>
-  <Prose html={conseils || `<p>${t.services.rendezVousParDefaut}</p>`} />
   <div class="rendez-vous-du-soin__actions">
     <BoutonRendezVous clinique={clinique} langue={langue} />
     <Bouton variante="secondaire" href={lienTelephone(clinique.telephone.international)}>{t.telephone.appeler(clinique.telephone.affiche)}</Bouton>
+  </div>
+  <div class="rendez-vous-du-soin__conseils">
+    <Prose html={conseils || `<p>${t.services.rendezVousParDefaut}</p>`} />
   </div>
 </section>
 
@@ -53,7 +56,8 @@ const id = 'rendez-vous-du-soin';
   .rendez-vous-du-soin h2 { margin: 0; font-size: var(--titre-3); line-height: 1.2; text-wrap: pretty; }
   .rendez-vous-du-soin__cabinet { display: grid; gap: var(--espace-1); }
   .rendez-vous-du-soin__adresse { margin: 0; color: var(--encre-douce); font-size: var(--texte-s); }
-  .rendez-vous-du-soin__actions { display: grid; gap: var(--espace-3); margin-top: var(--espace-2); }
+  .rendez-vous-du-soin__actions { display: grid; gap: var(--espace-3); }
+  .rendez-vous-du-soin__conseils { padding-top: var(--espace-4); border-top: 1px solid var(--trait); font-size: var(--texte-s); color: var(--encre-douce); }
   @container (min-width: 30rem) {
     .rendez-vous-du-soin__actions { display: flex; flex-wrap: wrap; }
   }

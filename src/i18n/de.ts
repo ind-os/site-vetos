@@ -132,14 +132,12 @@ export const de: Catalogue = {
   services: {
     voir: 'Zur Leistung',
     dansQuellesCliniques: 'In welchen Praxen',
-    pratiqueA: (lieu: string) => `Diese Leistung in ${lieu}`,
     pageGenerale: 'Alles über diese Leistung',
     autresServices: 'Weitere Leistungen der Praxis',
     h1DansLeCabinet: (titreDuSoin: string, lieu: string) => `${titreDuSoin} in ${lieu}`,
     descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
       `${h1}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,
-    rendezVousA: (lieu: string) => `Termin in ${lieu} vereinbaren`,
     rendezVousParDefaut: 'Buchen Sie online oder rufen Sie die Praxis an.',
     infosPratiques: (lieu: string) => `Praktisches zur Praxis in ${lieu}`,
     ouSeTrouve: (lieu: string) => `Wo befindet sich die Praxis Vetmint ${lieu}?`,

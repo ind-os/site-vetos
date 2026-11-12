@@ -79,7 +79,7 @@ const conseils = fabriquee
   : '';
 ---
 
-<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []} cote={fabriquee ? false : undefined}>
+<PageInterieure contexte={contexte} photo={photoDuService} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []} cote={fabriquee ? false : undefined}>
   {
     fabriquee ? (
       <div class="service-clinique">

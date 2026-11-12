@@ -147,14 +147,12 @@ export const fr = {
   services: {
     voir: 'Voir le service',
     dansQuellesCliniques: 'Dans quels cabinets',
-    pratiqueA: (lieu: string) => `Ce soin à ${lieu}`,
     pageGenerale: 'Tout savoir sur ce soin',
     autresServices: 'Les autres soins du cabinet',
     h1DansLeCabinet: (titreDuSoin: string, lieu: string) => `${titreDuSoin} à ${lieu}`,
     descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
       `${h1} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,
-    rendezVousA: (lieu: string) => `Prendre rendez-vous à ${lieu}`,
     rendezVousParDefaut: 'Réservez en ligne ou appelez le cabinet.',
     infosPratiques: (lieu: string) => `Infos pratiques à ${lieu}`,
     ouSeTrouve: (lieu: string) => `Où se trouve le cabinet Vetmint ${lieu}\u00a0?`,
