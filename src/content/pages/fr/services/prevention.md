@@ -6,6 +6,7 @@ description: "Prévention chez Vetmint : bilan de santé de 30 minutes, vaccins
 h1: "Prévention : bilan de santé, vaccins et puce"
 nom: Prévention
 en_phrase: "la prévention"
+soins_couverts: "le bilan de santé annuel, les vaccins, la puce électronique et les vermifuges"
 recherche: prévention chien chat
 redige_le: 2026-11-10
 ordre: 1

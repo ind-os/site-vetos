@@ -6,6 +6,7 @@ description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 
 h1: Ultraschall bei Hund und Katze
 nom: Ultraschall
 en_phrase: "den Ultraschall"
+soins_couverts: "den Ultraschall von Bauch, Herz und Trächtigkeit, ohne Röntgenstrahlen und schmerzfrei"
 recherche: Ultraschall Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat]

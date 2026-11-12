@@ -3,6 +3,20 @@
 // même clé : sinon la construction s'arrête et nomme la clé qui manque. Les textes des pages
 // sont dans src/content/pages/.
 
+/** Une rue précédée de sa préposition : « à la route du Châtelard 13 », « à l'avenue… », « au chemin… ». */
+function aLaRue(rue: string): string {
+  const premierMot = rue.split(/\s/)[0].toLowerCase();
+  const minuscule = rue.charAt(0).toLowerCase() + rue.slice(1);
+  if (['avenue', 'allée', 'impasse', 'esplanade'].includes(premierMot)) return `à l’${minuscule}`;
+  if (['chemin', 'boulevard', 'quai', 'passage', 'sentier', 'faubourg'].includes(premierMot)) return `au ${minuscule}`;
+  return `à la ${minuscule}`;
+}
+
+/** « de Payerne », « d'Avenches ». */
+function deLaLocalite(localite: string): string {
+  return /^[aeiouyàâéèêîôûh]/i.test(localite) ? `d’${localite}` : `de ${localite}`;
+}
+
 export const fr = {
   langue: {
     /** Le lien vers l'autre langue, dans l'en-tête. */
@@ -142,7 +156,9 @@ export const fr = {
     descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
       `${nom} à ${lieu} pour ${especes} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,
-    introDuCabinet: (lieu: string, enPhrase: string, especes: string) => `Le cabinet Vetmint ${lieu} pratique ${enPhrase} pour ${especes}.`,
+    introDuCabinet: (lieu: string, soinsCouverts: string, especes: string) => `Pour ${especes}, le cabinet Vetmint ${lieu} pratique ${soinsCouverts}.`,
+    adresseDuCabinet: (rue: string, localite: string) => `Le cabinet se trouve ${aLaRue(rue)}, à ${localite}.`,
+    clientsDuCabinet: (localite: string, communes: string) => `Ses clients viennent ${deLaLocalite(localite)} et des environs\u00a0: ${communes}.`,
     especesDansUnePhrase: { chien: 'les chiens', chat: 'les chats', nac: 'les NAC' },
     veterinairesDuCabinet: (noms: string, nombre: number) => `${nombre > 1 ? 'Vétérinaires' : 'Vétérinaire'} du cabinet\u00a0: ${noms}.`,
     prixA: (lieu: string) => `Le prix à ${lieu}`,

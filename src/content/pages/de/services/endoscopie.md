@@ -6,6 +6,7 @@ description: "Endoskopie bei Vetmint: eine feine Kamera, die Magen, Darm, Nase o
 h1: Endoskopie bei Hund und Katze
 nom: Endoskopie
 en_phrase: "die Endoskopie"
+soins_couverts: "die Endoskopie von Magen, Darm, Nase und Bronchien, unter Vollnarkose"
 recherche: Endoskopie Hund Katze
 redige_le: 2026-11-10
 ordre: 7

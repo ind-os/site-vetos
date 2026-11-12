@@ -6,6 +6,7 @@ description: "Blutanalyse bei Vetmint: Blutentnahme, Urin, Kot und Haut, die mei
 h1: "Blutanalyse: Blut, Urin, Haut und Biopsien"
 nom: Blutanalyse
 en_phrase: "die Blutanalyse"
+soins_couverts: "Blut- und Urinanalysen im Labor der Praxis, mit fast sofortigen Ergebnissen"
 recherche: Blutanalyse Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

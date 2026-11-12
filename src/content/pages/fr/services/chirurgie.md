@@ -6,6 +6,7 @@ description: "Chirurgie chez Vetmint : stérilisation, castration, grosseur, pl
 h1: "Chirurgie : stérilisation, castration et tissus mous"
 nom: Chirurgie
 en_phrase: "la chirurgie"
+soins_couverts: "la stérilisation, la castration et la chirurgie des tissus mous, comme le retrait d'une grosseur ou d'un objet avalé"
 recherche: chirurgie vétérinaire
 redige_le: 2026-11-10
 ordre: 2

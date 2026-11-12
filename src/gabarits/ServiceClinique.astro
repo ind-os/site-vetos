@@ -34,20 +34,26 @@ const commune = await laPage(langue, `services/${slug}`);
 const photoDuService = premierePhoto([`${clinique.id}:service:${slug}`, `service:${slug}`], langue);
 const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.service !== slug);
 
-// La page fabriquée : le chapeau dit les espèces reçues pour ce soin et les vétérinaires du cabinet.
+// La page fabriquée : le chapeau dit les soins couverts et les espèces reçues, l'adresse, les
+// vétérinaires et les communes d'où viennent les clients, d'après la fiche du cabinet.
 const enPhrase = page.data.en_phrase ?? (page.data.nom ?? '').toLowerCase();
 const especesDuService = page.data.especes ?? ['chien', 'chat', 'nac'];
 const especes = enumerer(
   clinique.especes.filter((e) => especesDuService.includes(e)).map((e) => t.services.especesDansUnePhrase[e]),
   langue,
 );
+const { rue, localite } = clinique.adresse;
 const veterinaires = (clinique.equipe ?? []).filter((p) => /^(vétérinaire|tierärzt|tierarzt)/i.test(p.fonction[langue])).map((p) => p.nom);
+const communes = (clinique.communes ?? []).filter((c) => c !== localite && c !== clinique.lieu).slice(0, 4);
 const chapeau = [
-  t.services.introDuCabinet(clinique.lieu, enPhrase, especes),
+  t.services.introDuCabinet(clinique.lieu, page.data.soins_couverts ?? enPhrase, especes),
+  t.services.adresseDuCabinet(rue, localite),
   veterinaires.length > 0 ? t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length) : '',
+  communes.length > 0 ? t.services.clientsDuCabinet(localite, enumerer(communes, langue)) : '',
 ]
   .filter(Boolean)
-  .join(' ');
+  .join(' ')
+  .replaceAll("'", '’');
 const grille = await laGrille(clinique.id);
 const lignes = (grille?.grille.prix ?? [])
   .filter((p) => p.service === slug)

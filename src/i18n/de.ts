@@ -141,7 +141,9 @@ export const de: Catalogue = {
     descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
       `${nom} in ${lieu} für ${especes}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,
-    introDuCabinet: (lieu: string, enPhrase: string, especes: string) => `Die Praxis Vetmint ${lieu} bietet ${enPhrase} für ${especes} an.`,
+    introDuCabinet: (lieu: string, soinsCouverts: string, especes: string) => `In der Praxis Vetmint ${lieu} erhalten ${especes} ${soinsCouverts}.`,
+    adresseDuCabinet: (rue: string, localite: string) => `Die Praxis liegt an der ${rue} in ${localite}.`,
+    clientsDuCabinet: (localite: string, communes: string) => `Die Kundschaft kommt aus ${localite} und Umgebung: ${communes}.`,
     especesDansUnePhrase: { chien: 'Hunde', chat: 'Katzen', nac: 'Heimtiere' },
     veterinairesDuCabinet: (noms: string, _nombre: number) => `Tierärztliches Team der Praxis: ${noms}.`,
     prixA: (lieu: string) => `Der Preis in ${lieu}`,

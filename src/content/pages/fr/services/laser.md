@@ -6,6 +6,7 @@ description: "Thérapie laser chez Vetmint : plaies, cicatrisation, arthrose, d
 h1: Thérapie laser pour chiens, chats et lapins
 nom: Thérapie laser
 en_phrase: "la thérapie laser"
+soins_couverts: "la thérapie laser, qui calme la douleur et l'inflammation et accélère la cicatrisation"
 recherche: laser vétérinaire
 redige_le: 2026-11-10
 ordre: 10

@@ -5,7 +5,7 @@
 //   commune ne le porte pas ;
 // - une page de catégorie de conseils nomme son espèce ;
 // - chaque clinique en ligne a ses pages obligatoires ;
-// - chaque service d'une fiche a sa page commune, avec le champ en_phrase ;
+// - chaque service d'une fiche a sa page commune, avec les champs en_phrase et soins_couverts ;
 // - chaque grille des prix appartient à un cabinet, et ses services existent ;
 // - chaque jeton {prix:<cle>} est sur une page de cabinet et existe dans sa grille ;
 // - les textes d'interface ont les mêmes clés en français et en allemand ;
@@ -69,6 +69,7 @@ export async function problemesDuSite(): Promise<string[]> {
       for (const langue of LANGUES) {
         const commune = pages.find((p) => langueDe(p) === langue && cleDe(p) === `services/${service}`);
         if (commune && !commune.data.en_phrase) problemes.push(`${fichierDe(langue, `services/${service}`)} : le champ en_phrase manque, le nom du soin dans une phrase (« la radiographie », « das Röntgen »). La page du service dans chaque cabinet l'utilise.`);
+        if (commune && !commune.data.soins_couverts) problemes.push(`${fichierDe(langue, `services/${service}`)} : le champ soins_couverts manque, les soins que couvre le service (« les soins dentaires : le détartrage… »). Le chapeau de la page du service dans chaque cabinet l'utilise.`);
       }
     }
     if (!clinique.en_ligne) continue;

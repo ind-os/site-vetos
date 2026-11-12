@@ -22,7 +22,7 @@ Tout ce qui n'est pas dans ces tables est une convention : la doc dit la règle,
 | Les clés de `src/i18n/fr.ts` et de `de.ts` sont les mêmes, dans les deux sens | `src/i18n/index.ts` | aucun menu ni bouton sans l'autre langue |
 | Chaque sujet du catalogue des photos nomme une clinique existante et, pour un portrait, une personne de sa fiche | `src/lib/images.ts` | aucune photo orpheline |
 | Les pages d'une clinique dont la fiche dit `"en_ligne": false` se prévisualisent, mais la construction du site en ligne ne les construit pas, ne les met pas dans le plan du site et n'exige pas leur traduction | `src/lib/pages.ts` | une clinique s'écrit sans paraître |
-| Chaque service cité par une fiche a sa page commune, avec le champ `en_phrase` dans chaque langue | `src/lib/verifications.ts` | aucun lien de service vers le vide ; la page du service dans chaque cabinet |
+| Chaque service cité par une fiche a sa page commune, avec les champs `en_phrase` et `soins_couverts` dans chaque langue | `src/lib/verifications.ts` | aucun lien de service vers le vide ; la page du service dans chaque cabinet |
 | Une clinique en ligne a toutes ses pages obligatoires, dans les deux langues | `src/lib/verifications.ts`, liste dans `src/lib/types-de-page.ts` | une clinique complète |
 | Un gabarit qui demande une page absente arrête la construction ; en prévisualisation, le lien mène à `#` et le terminal le dit | `src/lib/pages.ts` | aucun lien de navigation cassé |
 | Un bloc de données a sa clinique et un type connu : horaires, fermetures, garde | `src/lib/donnees-de-la-clinique.ts` | les horaires et la garde affichés viennent de la fiche |

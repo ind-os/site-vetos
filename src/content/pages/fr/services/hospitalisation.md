@@ -6,6 +6,7 @@ description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perf
 h1: Hospitalisation du chien, du chat et des NAC
 nom: Hospitalisation
 en_phrase: "l'hospitalisation"
+soins_couverts: "l'hospitalisation : perfusion, médicaments par voie veineuse, oxygène et surveillance après une opération"
 recherche: hospitalisation chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

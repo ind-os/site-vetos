@@ -6,6 +6,7 @@ description: "Lasertherapie bei Vetmint: Wunden, Wundheilung, Arthrose, Schmerze
 h1: Lasertherapie für Hunde, Katzen und Kaninchen
 nom: Lasertherapie
 en_phrase: "die Lasertherapie"
+soins_couverts: "die Lasertherapie, die Schmerzen und Entzündungen lindert und die Wundheilung beschleunigt"
 recherche: Lasertherapie Tier
 redige_le: 2026-11-10
 ordre: 10

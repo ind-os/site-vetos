@@ -32,7 +32,8 @@ resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minute
 | `ordre` | facultatif | la position dans une liste (services, conseils) |
 | `resume` | facultatif | une phrase de 20 mots au plus, pour les cartes et l'accroche |
 | `especes` | service et conseil ; obligatoire sur une page `conseil-categorie`, dont il donne l'espèce | `[chien, chat, nac]` |
-| `en_phrase` | page commune d'un service ; obligatoire quand une fiche cite le service | le nom du soin tel qu'il s'écrit dans une phrase, avec son article : « la radiographie », « les visites à domicile » ; en allemand, à l'accusatif : « das Röntgen », « den Ultraschall », « Hausbesuche ». La page du service dans chaque cabinet l'écrit dans son chapeau et dans son lien « Tout lire sur … » ([structure-des-pages.md](structure-des-pages.md)) |
+| `en_phrase` | page commune d'un service ; obligatoire quand une fiche cite le service | le nom du soin tel qu'il s'écrit dans une phrase, avec son article : « la radiographie », « les visites à domicile » ; en allemand, à l'accusatif : « das Röntgen », « den Ultraschall », « Hausbesuche ». La page du service dans chaque cabinet l'écrit dans son bouton « Tout lire sur … » ([structure-des-pages.md](structure-des-pages.md)) |
+| `soins_couverts` | page commune d'un service ; obligatoire quand une fiche cite le service | les soins que couvre le service, avec les mots que l'on cherche, à l'accusatif : « les soins dentaires : le détartrage sous anesthésie, la radiographie des dents et les extractions » ; en allemand après « erhalten » : « die Zahnbehandlung: Zahnsteinentfernung unter Narkose, Zahnröntgen und Zahnextraktionen ». Le chapeau de la page du service dans chaque cabinet l'écrit après « le cabinet Vetmint {Ville} pratique » ([structure-des-pages.md](structure-des-pages.md)) |
 
 Une valeur qui contient « : » se met entre guillemets.
 

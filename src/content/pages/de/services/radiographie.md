@@ -6,6 +6,7 @@ description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmi
 h1: Röntgen bei Hund und Katze
 nom: Röntgen
 en_phrase: "das Röntgen"
+soins_couverts: "das digitale Röntgen von Knochen, Lunge, Herz und Bauch, mit den offiziellen Dysplasie-Aufnahmen"
 recherche: Röntgen Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

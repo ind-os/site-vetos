@@ -6,6 +6,7 @@ description: "Analyse sanguine chez Vetmint : prise de sang, urine, selles et p
 h1: "Analyse sanguine : sang, urine, peau et biopsies"
 nom: Analyse sanguine
 en_phrase: "l'analyse sanguine"
+soins_couverts: "les analyses de sang et d'urine au laboratoire du cabinet, avec des résultats presque immédiats"
 recherche: analyse de sang chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

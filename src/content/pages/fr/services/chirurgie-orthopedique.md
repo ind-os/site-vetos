@@ -6,6 +6,7 @@ description: "Chirurgie orthopédique chez Vetmint : fracture, ligament croisé
 h1: "Chirurgie orthopédique : os, ligaments et articulations"
 nom: Chirurgie orthopédique
 en_phrase: "la chirurgie orthopédique"
+soins_couverts: "la chirurgie des os, des ligaments et des articulations : fracture, rupture du ligament croisé, rotule qui se déplace"
 recherche: chirurgie orthopédique chien
 redige_le: 2026-11-10
 ordre: 3

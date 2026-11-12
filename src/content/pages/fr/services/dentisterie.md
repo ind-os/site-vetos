@@ -6,6 +6,7 @@ description: "Dentisterie du chien et du chat chez Vetmint : détartrage sous a
 h1: "Dentisterie du chien et du chat : détartrage et extractions"
 nom: Dentisterie
 en_phrase: "la dentisterie"
+soins_couverts: "les soins dentaires : le détartrage sous anesthésie, la radiographie des dents et les extractions"
 recherche: détartrage chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]
