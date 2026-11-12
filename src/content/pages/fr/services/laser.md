@@ -5,6 +5,7 @@ title: "Thérapie laser du chien et du chat : séances | Vetmint"
 description: "Thérapie laser chez Vetmint : plaies, cicatrisation, arthrose, douleur, gencives et oreilles du chien, du chat et du lapin. Séance sans anesthésie ni rasage."
 h1: Thérapie laser pour chiens, chats et lapins
 nom: Thérapie laser
+en_phrase: "la thérapie laser"
 recherche: laser vétérinaire
 redige_le: 2026-11-10
 ordre: 10

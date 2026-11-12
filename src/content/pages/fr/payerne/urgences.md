@@ -29,7 +29,7 @@ Le cabinet reçoit les urgences sans rendez-vous, entre deux consultations. Tél
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
-Une urgence reçue pendant les heures d'ouverture coûte la consultation, 57 francs, plus un supplément de 99 francs, puis les soins. Sur place, le cabinet a un laboratoire, une salle de radiographie et une salle d'opération : la prise de sang, la radio et l'opération se font sans transfert. Votre animal peut rester hospitalisé ; la nuit, l'équipe le contrôle à la fermeture et dès l'ouverture.
+Une urgence reçue pendant les heures d'ouverture coûte la consultation, {prix:consultation}, plus un supplément de {prix:supplement-urgence-jour}, puis les soins. Sur place, le cabinet a un laboratoire, une salle de radiographie et une salle d'opération : la prise de sang, la radio et l'opération se font sans transfert. Votre animal peut rester hospitalisé ; la nuit, l'équipe le contrôle à la fermeture et dès l'ouverture.
 
 ## En dehors des heures d'ouverture
 

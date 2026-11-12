@@ -18,7 +18,9 @@
 // Contrôles : en-tête, volume du corps selon le type de page, title, description, H1 unique,
 // niveaux de titres, orthographe de « vétérinaire », liens obligatoires, mots et tournures
 // interdits, phrases longues, passages sans intertitre, fait laissé « [à préciser » dans le texte,
-// HTML et images dans le corps et, avec --doublons, part de texte commune avec chaque autre page.
+// HTML et images dans le corps, prix (un montant ne s'écrit que par le jeton {prix:<cle>} de la
+// grille du cabinet, docs/grille-des-prix.md) et, avec --doublons, part de texte commune avec
+// chaque autre page.
 //
 // Code de sortie : 0 si aucune erreur, 1 sinon. Les alertes ne comptent pas comme des erreurs.
 // Node seul, sans dépendance.
@@ -27,11 +29,13 @@ import { readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative, resolve, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
+import { clesDesJetons, remplacerLesPrix, valeursDe } from '../src/lib/prix.ts';
 import { TYPES_DE_PAGE, TYPES_DE_PAGE_DE_CLINIQUE } from '../src/lib/types-de-page.ts';
 
 const RACINE = fileURLToPath(new URL('..', import.meta.url));
 const PAGES = join(RACINE, 'src', 'content', 'pages');
 const FICHES = join(RACINE, 'src', 'donnees', 'cliniques');
+const GRILLES = join(RACINE, 'src', 'donnees', 'tarifs');
 const TAILLE_BARDEAU = 6;
 const USAGE = 'Usage : node outils/verifier-les-pages.mjs [--doublons] [--seuil N] [page.md …]';
 
@@ -143,6 +147,12 @@ const MOTIF_IMAGE = /!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)/gu;
 const MOTIF_TITRE = /^(#{1,6})\s+(.*?)\s*#*\s*$/u;
 // Une balise HTML ouvrante ou fermante ; les commentaires <!-- … --> sont retirés avant.
 const MOTIF_BALISE = /<\/?[A-Za-z][^<>]*>/gu;
+// Un montant tapé : « 57 francs », « 57 CHF », « CHF 57.– », « 57 Franken ».
+const MOTIF_MONTANT = /\d[\d\u00a0\u202f ’'.,]*\s?(?:CHF|francs?|Franken|Fr\.)(?![\p{L}])|CHF\s?\d[\d’'.,]*(?:\.–|–\d+)?/gu;
+// Ce qui suit le coût à la minute d'un numéro de garde : la seule exception aux montants tapés.
+const A_LA_MINUTE = /^[.–\s)]*(?:la minute|par minute|\/\s?min|pro minute)/iu;
+// Un bloc de données : son texte est remplacé à la construction par la valeur de la fiche.
+const MOTIF_BLOC_DE_DONNEES = /<!--\s*donnees:[\s\S]*?<!--\s*\/donnees\s*-->/g;
 // Une image Markdown, quelle que soit sa forme.
 const MOTIF_IMAGE_DU_CORPS = /!\[[^\]]*\]\([^)]*\)/gu;
 
@@ -154,6 +164,20 @@ function lireLesCliniques() {
     cliniques.set(fiche.id, { lieu: fiche.lieu, urgences: fiche.urgences === true });
   }
   return cliniques;
+}
+
+/** Les grilles des prix, d'après src/donnees/tarifs/ : identifiant du cabinet → montant de chaque clé. */
+function lireLesGrilles() {
+  const grilles = new Map();
+  for (const nom of readdirSync(GRILLES).filter((nom) => nom.endsWith('.json')).sort()) {
+    try {
+      grilles.set(nom.replace(/\.json$/, ''), valeursDe(JSON.parse(readFileSync(join(GRILLES, nom), 'utf8'))));
+    } catch (probleme) {
+      console.error(`src/donnees/tarifs/${nom} : ${probleme.message}`);
+      process.exit(1);
+    }
+  }
+  return grilles;
 }
 
 /** Trie des chemins dossier par dossier : « conseils/chat.md » vient avant « conseils.md ». */
@@ -344,7 +368,7 @@ function pagesDeLaLangue(dossier) {
 }
 
 /** Vérifie une page. Retourne son rapport : erreurs, alertes et informations. */
-function verifier(chemin, cliniques, seuil, mesurerDoublons) {
+function verifier(chemin, cliniques, grilles, seuil, mesurerDoublons) {
   const rapport = { chemin, erreurs: [], alertes: [], infos: [] };
   const erreur = (texte) => rapport.erreurs.push(texte);
   const alerte = (texte) => rapport.alertes.push(texte);
@@ -368,11 +392,38 @@ function verifier(chemin, cliniques, seuil, mesurerDoublons) {
       erreur(`en-tête, ligne ${i + 1} : une valeur qui contient « : » se met entre guillemets`);
     }
   });
-  const corps = enleverCommentaires(lu.corps);
-  const lignesDuCorps = corps.split('\n');
+  const corpsBrut = enleverCommentaires(lu.corps);
 
   // Langue, d'après le dossier du fichier ou l'adresse
   const allemand = estAllemand(chemin) || (fm.url ?? '').startsWith('/de/');
+
+  // Prix : un montant ne s'écrit que par un jeton {prix:<cle>}, sur une page de cabinet, hors des
+  // titres. Les mesures (volume, phrases, description) portent sur le texte avec les montants.
+  const valeurs = grilles.get(fm.clinique);
+  for (const [champ, valeur] of [['title', fm.title], ['h1', fm.h1]]) {
+    if (clesDesJetons(valeur ?? '').length) erreur(`prix dans le champ ${champ} : un jeton {prix:…} ne va ni dans le title, ni dans le h1`);
+  }
+  corpsBrut.split('\n').forEach((ligne, i) => {
+    if (MOTIF_TITRE.test(ligne) && clesDesJetons(ligne).length) erreur(`prix dans un titre, ligne ${lu.ligneDuCorps + i} : un jeton {prix:…} ne va pas dans un titre`);
+  });
+  const jetons = clesDesJetons([fm.description ?? '', fm.resume ?? '', corpsBrut].join('\n'));
+  if (jetons.length && !TYPES_DE_PAGE_DE_CLINIQUE.includes(fm.type)) {
+    erreur(`prix sur une page commune ({prix:${jetons[0]}}) : un prix ne s'écrit que sur une page de cabinet (docs/grille-des-prix.md)`);
+  } else if (jetons.length && !valeurs) {
+    erreur(`la page écrit {prix:${jetons[0]}}, mais le cabinet ${fm.clinique} n'a pas de grille : src/donnees/tarifs/${fm.clinique}.json manque`);
+  } else {
+    for (const cle of [...new Set(jetons)].filter((c) => !valeurs.has(c))) erreur(`{prix:${cle}} n'existe pas dans src/donnees/tarifs/${fm.clinique}.json`);
+  }
+  const texteDesMontants = [fm.title, fm.description, fm.h1, fm.resume, enleverCommentaires(lu.corps.replace(MOTIF_BLOC_DE_DONNEES, ''))].filter(Boolean).join('\n');
+  const montants = [...texteDesMontants.matchAll(MOTIF_MONTANT)].filter((m) => !A_LA_MINUTE.test(texteDesMontants.slice(m.index + m[0].length, m.index + m[0].length + 25)));
+  if (montants.length) {
+    const exemples = montants.slice(0, 3).map((m) => `…${texteDesMontants.slice(Math.max(0, m.index - 25), m.index + m[0].length + 10).replaceAll('\n', ' ')}…`).join(' ; ');
+    erreur(`montant tapé (${montants.length}) : ${exemples} ; un prix s'écrit {prix:<cle>}, avec la clé de la grille du cabinet (docs/grille-des-prix.md)`);
+  }
+  const langueDesPrix = allemand ? 'de' : 'fr';
+  const avecLesMontants = (texte) => (valeurs ? remplacerLesPrix(texte, valeurs, langueDesPrix) : texte);
+  const corps = avecLesMontants(corpsBrut);
+  const lignesDuCorps = corps.split('\n');
 
   // Frontmatter
   const typePage = fm.type;
@@ -391,7 +442,7 @@ function verifier(chemin, cliniques, seuil, mesurerDoublons) {
   }
 
   const title = fm.title ?? '';
-  const description = fm.description ?? '';
+  const description = avecLesMontants(fm.description ?? '');
   const h1 = fm.h1 || title;
 
   // Title
@@ -612,11 +663,12 @@ if (!Number.isFinite(seuil)) {
 }
 
 const cliniques = lireLesCliniques();
+const grilles = lireLesGrilles();
 const pagesNommees = options.positionals.length > 0;
 const pages = pagesNommees ? options.positionals.map((page) => resolve(page)) : fichiersMarkdown(PAGES);
 let avecErreurs = 0;
 for (const page of pages) {
-  const rapport = verifier(page, cliniques, seuil, options.values.doublons);
+  const rapport = verifier(page, cliniques, grilles, seuil, options.values.doublons);
   if (pagesNommees || rapport.erreurs.length || rapport.alertes.length) imprimer(rapport);
   if (rapport.erreurs.length) avecErreurs++;
 }

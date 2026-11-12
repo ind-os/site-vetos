@@ -1,0 +1,116 @@
+---
+// Tous les prix de tous les cabinets, lus dans leurs grilles (src/donnees/tarifs/,
+// docs/grille-des-prix.md) : pour chaque prix, son libellé, son montant, son calcul, son service
+// et les pages qui l'affichent. Une page interne, en français : pas indexée, hors du plan du
+// site, liée de nulle part.
+import Base from '../gabarits/Base.astro';
+import TeteDePage from '../composants/TeteDePage.astro';
+import { lesCliniques } from '../lib/cliniques.ts';
+import { formaterDate } from '../lib/format.ts';
+import { lesGrilles } from '../lib/grilles.ts';
+import { cleDe, estFabriquee, langueDe, pagesPubliables, titreDe, toutesLesPages } from '../lib/pages.ts';
+import { clesDesJetons, formaterMontant } from '../lib/prix.ts';
+
+const langue = 'fr';
+const cliniques = await lesCliniques();
+const grilles = await lesGrilles();
+const pages = (await toutesLesPages()).filter((p) => langueDe(p) === langue);
+const publiables = new Set((await pagesPubliables()).map((p) => p.id));
+const nomDuService = (service: string) => pages.find((p) => cleDe(p) === `services/${service}`)?.data.nom ?? service;
+
+/** Les pages d'un cabinet qui affichent un prix : celles qui écrivent son jeton, et la page de son service. */
+function pagesDuPrix(cabinet: string, cle: string, service?: string) {
+  return pages
+    .filter((p) => p.data.clinique === cabinet)
+    .filter((p) =>
+      estFabriquee(p)
+        ? service !== undefined && cleDe(p) === `${cabinet}/services/${service}`
+        : clesDesJetons([p.body ?? '', p.data.description, p.data.resume ?? ''].join('\n')).includes(cle),
+    )
+    .map((p) => ({ titre: titreDe(p), href: publiables.has(p.id) ? p.data.url : undefined }));
+}
+
+const cabinets = cliniques.map((c) => {
+  const grille = grilles.find((g) => g.cabinet === c.id);
+  return {
+    nom: c.nom,
+    id: c.id,
+    valableDes: grille ? formaterDate(grille.grille.valable_des, langue) : undefined,
+    prix: (grille?.grille.prix ?? []).map((p) => ({
+      cle: p.cle,
+      libelle: p.libelle.fr,
+      montant: formaterMontant(grille!.valeurs.get(p.cle)!, langue, 'tableau'),
+      calcul: typeof p.montant === 'string' ? p.montant : undefined,
+      service: p.service ? nomDuService(p.service) : undefined,
+      pages: pagesDuPrix(c.id, p.cle, p.service),
+    })),
+  };
+});
+---
+
+<Base langue={langue} titre="Grille des prix | Vetmint" description="Tous les prix des cabinets Vetmint, avec les pages qui les affichent." adresses={{}} noindex>
+  <TeteDePage titre="Grille des prix" fil={[{ libelle: 'Accueil', href: '/' }, { libelle: 'Grille des prix', href: '/grille-des-prix/' }]} etiquetteDuFil="Vous êtes ici" />
+  <div class="conteneur grille-des-prix">
+    <div class="prose">
+      <p>Chaque prix vit à un seul endroit, la grille de son cabinet : <code>src/donnees/tarifs/&lt;cabinet&gt;.json</code>. Un prix changé dans la grille change sur chaque page qui l’affiche. Cette page n’est pas indexée et aucun lien n’y mène.</p>
+      {
+        cabinets.map((c) => (
+          <section>
+            <h2 id={c.id}>{c.nom}</h2>
+            {c.prix.length > 0 ? (
+              <>
+                <p>Prix valables dès le {c.valableDes}.</p>
+                <div class="tableau" role="region" tabindex="0" aria-labelledby={c.id}>
+                  <table>
+                    <thead>
+                      <tr>
+                        <th>Prix</th>
+                        <th>Montant</th>
+                        <th>Calcul</th>
+                        <th>Soin</th>
+                        <th>Affiché sur</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {c.prix.map((p) => (
+                        <tr>
+                          <td>
+                            {p.libelle}
+                            <br />
+                            <code>{p.cle}</code>
+                          </td>
+                          <td>{p.montant}</td>
+                          <td>{p.calcul ? <code>{p.calcul}</code> : ''}</td>
+                          <td>{p.service ?? ''}</td>
+                          <td>
+                            {p.pages.length > 0
+                              ? p.pages.map((page, i) => (
+                                  <>
+                                    {i > 0 && <br />}
+                                    {page.href ? <a href={page.href}>{page.titre}</a> : page.titre}
+                                  </>
+                                ))
+                              : 'aucune page'}
+                          </td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </>
+            ) : (
+              <p>Pas encore de grille : src/donnees/tarifs/{c.id}.json manque.</p>
+            )}
+          </section>
+        ))
+      }
+    </div>
+  </div>
+</Base>
+
+<style>
+  .grille-des-prix { padding-block: var(--espace-6) var(--espace-7); }
+  .grille-des-prix .prose { max-width: none; }
+  .grille-des-prix :is(td, th) { vertical-align: top; text-align: left; }
+  .grille-des-prix td { font-weight: 400; }
+</style>

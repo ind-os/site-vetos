@@ -7,6 +7,10 @@
 
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { LANGUE_PAR_DEFAUT, LANGUES, type Langue } from '../config.ts';
+import { textes, type Catalogue } from '../i18n/index.ts';
+import { enumerer } from './format.ts';
+import { lesGrilles } from './grilles.ts';
+import { remplacerLesPrix } from './prix.ts';
 import type { TypeDePage } from './types-de-page.ts';
 
 export type Page = CollectionEntry<'pages'>;
@@ -30,40 +34,75 @@ export function slugDe(page: Page): string {
 
 /**
  * Toutes les pages, dans les deux langues, publiées ou non : les pages écrites, puis la page de
- * chaque service d'une clinique, reprise de la page commune du service (pagesDeServiceReprises).
+ * chaque service d'un cabinet (pagesDeServiceDesCabinets). Les jetons {prix:<cle>} de la
+ * description et du résumé d'une page de cabinet sont remplacés par les montants de sa grille ;
+ * ceux du corps le sont dans le contexte de la page (src/lib/contexte.ts).
  */
 export async function toutesLesPages(): Promise<Page[]> {
   const ecrites = await getCollection('pages');
-  return [...ecrites, ...(await pagesDeServiceReprises(ecrites))];
+  const grilles = new Map((await lesGrilles()).map((g) => [g.cabinet, g.valeurs]));
+  const avecLesPrix = (page: Page): Page => {
+    const valeurs = page.data.clinique ? grilles.get(page.data.clinique) : undefined;
+    if (!valeurs) return page;
+    const langue = langueDe(page);
+    const { description, resume } = page.data;
+    return { ...page, data: { ...page.data, description: remplacerLesPrix(description, valeurs, langue), resume: resume && remplacerLesPrix(resume, valeurs, langue) } };
+  };
+  return [...ecrites.map(avecLesPrix), ...(await pagesDeServiceDesCabinets(ecrites))];
+}
+
+/** Le premier title de 60 caractères au plus : sans « | Vetmint », puis sans « chien et chat ». */
+function titreDansLeCabinet(t: Catalogue, nom: string, lieu: string, chienEtChat: boolean): string {
+  const essais = [t.services.titreDansLeCabinet(nom, lieu, chienEtChat, true), t.services.titreDansLeCabinet(nom, lieu, chienEtChat, false)];
+  essais.push(t.services.titreDansLeCabinet(nom, lieu, false, false));
+  return essais.find((titre) => [...titre].length <= 60) ?? essais.at(-1)!;
 }
 
 /**
- * Chaque service de la fiche d'une clinique a sa page, /payerne/services/radiographie/ : la page
- * commune du service, reprise telle quelle sous l'adresse de la clinique, avec le type
- * service-clinique et le champ clinique. Rien à écrire pour une nouvelle clinique : la liste
- * `services` de sa fiche suffit. Une page écrite dans le dossier de la clinique, pour un soin
- * qu'elle est seule à pratiquer, garde son texte.
+ * Chaque service de la fiche d'un cabinet a sa page, /payerne/services/radiographie/, sans fichier
+ * à écrire. Le site la fabrique avec la fiche du cabinet, sa grille des prix et la page commune du
+ * service (gabarit ServiceClinique) : son title, son H1 et sa description nomment le lieu, et son
+ * adresse canonique est elle-même. Une page écrite dans le dossier du cabinet, pour un soin qu'il
+ * est seul à pratiquer, garde son texte.
  */
-async function pagesDeServiceReprises(ecrites: Page[]): Promise<Page[]> {
+async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
   const existe = (id: string) => ecrites.some((p) => p.id === id);
-  const reprises: Page[] = [];
-  for (const { data: clinique } of await getCollection('cliniques')) {
-    for (const service of clinique.services) {
+  const pages: Page[] = [];
+  for (const { data: cabinet } of await getCollection('cliniques')) {
+    for (const service of cabinet.services) {
       for (const langue of LANGUES) {
         const commune = ecrites.find((p) => p.id === `${langue}/services/${service}`);
-        const id = `${langue}/${clinique.id}/services/${service}`;
+        const id = `${langue}/${cabinet.id}/services/${service}`;
         if (!commune || existe(id)) continue;
+        const t = textes(langue);
         const prefixe = langue === LANGUE_PAR_DEFAUT ? '' : `/${langue}`;
-        const url = `${prefixe}/${clinique.id}${commune.data.url.slice(prefixe.length)}`;
-        reprises.push({ ...commune, id, data: { ...commune.data, type: 'service-clinique', clinique: clinique.id, url } });
+        const url = `${prefixe}/${cabinet.id}${commune.data.url.slice(prefixe.length)}`;
+        const nom = commune.data.nom ?? titreDe(commune);
+        const especesDuService = commune.data.especes ?? ['chien', 'chat', 'nac'];
+        const chienEtChat = especesDuService.includes('chien') && especesDuService.includes('chat');
+        const especes = enumerer(cabinet.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
+        pages.push({
+          ...commune,
+          id,
+          data: {
+            ...commune.data,
+            type: 'service-clinique',
+            clinique: cabinet.id,
+            url,
+            title: titreDansLeCabinet(t, nom, cabinet.lieu, chienEtChat),
+            h1: t.services.h1DansLeCabinet(nom, cabinet.lieu),
+            description: t.services.descriptionDansLeCabinet(nom, cabinet.lieu, especes, cabinet.telephone.affiche),
+            recherche: t.services.rechercheDansLeCabinet(nom, cabinet.lieu),
+          },
+        });
       }
     }
   }
-  return reprises;
+  return pages;
 }
 
-/** Vrai pour la page d'un service de clinique reprise de la page commune, sans fichier à elle. */
-export function estReprise(page: Page): boolean {
+/** Vrai pour la page d'un service de cabinet fabriquée par le site, sans fichier à elle. */
+export function estFabriquee(page: Page): boolean {
   return page.data.type === 'service-clinique' && !(page.filePath ?? '').includes(`/${page.data.clinique}/`);
 }
 

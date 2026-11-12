@@ -5,6 +5,7 @@ title: "Orthopädische Chirurgie bei Hund und Katze | Vetmint"
 description: "Orthopädische Chirurgie bei Vetmint: Knochenbruch, Kreuzbandriss, Kniescheibe, Hüfte. Abklärung, Operation, Rehabilitation und Schmerzbehandlung für Ihr Tier."
 h1: "Orthopädische Chirurgie: Knochen, Bänder und Gelenke"
 nom: Orthopädische Chirurgie
+en_phrase: "die orthopädische Chirurgie"
 recherche: orthopädische Chirurgie Hund
 redige_le: 2026-11-10
 ordre: 3

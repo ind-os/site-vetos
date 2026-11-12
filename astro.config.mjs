@@ -17,7 +17,7 @@ function robots() {
     hooks: {
       'astro:build:done': async ({ dir }) => {
         const contenu = INDEXATION
-          ? `User-agent: *\nAllow: /\nDisallow: /styleguide/\n\nSitemap: ${ADRESSE_DU_SITE}/sitemap-index.xml\n`
+          ? `User-agent: *\nAllow: /\nDisallow: /styleguide/\nDisallow: /grille-des-prix/\nDisallow: /textes-des-soins/\n\nSitemap: ${ADRESSE_DU_SITE}/sitemap-index.xml\n`
           : 'User-agent: *\nDisallow: /\n';
         await writeFile(new URL('robots.txt', dir), contenu);
       },
@@ -53,7 +53,7 @@ function imagesNonCitees() {
   return integration;
 }
 
-/** Les anciennes adresses des services regroupés, vers la page qui les a reprises, en français et en allemand. */
+/** Les adresses des anciens services, vers la page de service qui couvre leur sujet, en français et en allemand. */
 function servicesRegroupes() {
   /** @type {Record<string, string>} */
   const fr = {
@@ -73,7 +73,7 @@ function servicesRegroupes() {
   const r = {};
   for (const [ancien, nouveau] of Object.entries(fr)) r[`/services/${ancien}/`] = `/services/${nouveau}/`;
   for (const [ancien, nouveau] of Object.entries(de)) r[`/de/leistungen/${ancien}/`] = `/de/leistungen/${nouveau}/`;
-  // Les pages de Payerne, seul cabinet en ligne, qui avaient ces services.
+  // Les mêmes adresses sous Payerne, le cabinet en ligne.
   for (const ancien of ['consultation', 'vaccination-chien', 'vaccination-chat', 'puce-electronique', 'conseils-aux-eleveurs', 'sterilisation-castration', 'soins-dentaires', 'analyses-diagnostic'])
     r[`/payerne/services/${ancien}/`] = `/payerne/services/${fr[ancien]}/`;
   for (const ancien of ['konsultation', 'impfung-hund', 'impfung-katze', 'mikrochip', 'zuechterberatung', 'kastration-sterilisation', 'zahnbehandlung', 'labor-diagnostik'])
@@ -86,21 +86,20 @@ export default defineConfig({
   trailingSlash: 'always',
   build: { format: 'directory' },
   devToolbar: { enabled: false },
-  // Anciennes adresses : la page renvoie vers la nouvelle, pour ne casser ni lien ni favori.
-  // « Clinique » est une appellation protégée : les cabinets Vetmint n'y ont pas droit.
-  // Les services regroupés en treize pages (novembre 2026) : chaque ancienne page mène à celle qui l'a reprise.
+  // Des adresses sans page, vers la page qui couvre leur sujet : aucun lien ni favori ne se casse.
+  // « Clinique » est une appellation protégée : la liste des cabinets est /cabinets/.
   redirects: {
     '/cliniques/': '/cabinets/',
-    // Les prix ne sont plus que sur les pages Tarifs et Abonnements de chaque cabinet (novembre 2026).
+    // Les prix sont sur les pages Tarifs et Abonnements de chaque cabinet, depuis la liste des cabinets.
     '/tarifs/': '/cabinets/',
     '/abonnements/': '/cabinets/',
     '/de/preise/': '/de/praxen/',
     '/de/abonnemente/': '/de/praxen/',
-    // Vetmint n'envoie pas de lettre d'information (novembre 2026).
+    // Vetmint n'a pas de lettre d'information.
     '/newsletter/': '/',
     '/de/newsletter/': '/de/',
     ...servicesRegroupes(),
   },
   markdown: { processor: satteri(extensionsMarkdown) },
-  integrations: [sitemap({ filter: (page) => !/\/(styleguide|404)\//.test(page) }), robots(), imagesNonCitees()],
+  integrations: [sitemap({ filter: (page) => !/\/(styleguide|404|grille-des-prix|textes-des-soins)\//.test(page) }), robots(), imagesNonCitees()],
 });

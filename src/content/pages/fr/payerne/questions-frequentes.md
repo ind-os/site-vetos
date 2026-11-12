@@ -25,7 +25,7 @@ Pour une opération, un détartrage ou une série d'examens, oui. Vous l'amenez 
 
 ### Combien coûte une consultation à Payerne ?
 
-Une consultation de 30 minutes coûte 57 francs. Le bilan annuel avec les vaccins coûte 94 francs pour un chien, 70 francs pour un chat d'intérieur et 98 francs pour un chat qui sort. Les médicaments, les analyses et les soins s'ajoutent ; le vétérinaire vous dit ce qu'il propose avant de le faire. Tous les prix sont sur la page [Tarifs](/payerne/tarifs/).
+Une consultation de 30 minutes coûte {prix:consultation}. Le bilan annuel avec les vaccins coûte {prix:bilan-chien} pour un chien, {prix:bilan-chat-interieur} pour un chat d'intérieur et {prix:bilan-chat-exterieur} pour un chat qui sort. Les médicaments, les analyses et les soins s'ajoutent ; le vétérinaire vous dit ce qu'il propose avant de le faire. Tous les prix sont sur la page [Tarifs](/payerne/tarifs/).
 
 ### Comment puis-je payer ?
 
@@ -33,7 +33,7 @@ Vous payez à la fin de la consultation, au comptoir, par carte ou par TWINT. Po
 
 ### Le plan de prévention vaut-il la peine pour un chiot ou un chaton ?
 
-Le plan coûte 515 francs pour un an. Il comprend les consultations sur rendez-vous, les vaccins, les vermifuges, la puce, le passeport et l'inscription au registre. Pour un chiot, ces soins coûteraient 656 francs à l'unité. La stérilisation ou la castration peut s'y ajouter. Le détail est sur la page [Abonnements](/payerne/abonnements/).
+Le plan coûte {prix:plan-prevention} pour un an. Il comprend les consultations sur rendez-vous, les vaccins, les vermifuges, la puce, le passeport et l'inscription au registre. Pour un chiot, ces soins coûteraient {prix:soins-chiot-un-par-un} à l'unité. La stérilisation ou la castration peut s'y ajouter. Le détail est sur la page [Abonnements](/payerne/abonnements/).
 
 ## Soins et hospitalisation
 
@@ -43,7 +43,7 @@ Tous les animaux de compagnie : chiens, chats, lapins, rongeurs, furets, oiseau
 
 ### Vous déplacez-vous à domicile ?
 
-Oui, sur rendez-vous, dans tout le district de la Broye, aux heures d'ouverture du cabinet. Un vétérinaire vient chez vous pour les soins courants : vaccins, contrôle, animal âgé ou difficile à transporter. Le déplacement coûte 55 francs, en plus des soins. Un rendez-vous à domicile annulé moins de 24 heures avant est facturé.
+Oui, sur rendez-vous, dans tout le district de la Broye, aux heures d'ouverture du cabinet. Un vétérinaire vient chez vous pour les soins courants : vaccins, contrôle, animal âgé ou difficile à transporter. Le déplacement coûte {prix:visite-domicile}, en plus des soins. Un rendez-vous à domicile annulé moins de 24 heures avant est facturé.
 
 ### Que faire en cas d'urgence la nuit ?
 

@@ -1,0 +1,78 @@
+---
+// L'explication d'un soin sur sa page dans un cabinet : le premier paragraphe de la page commune
+// du service, puis un lien qui déplie le reste de son texte dans la page, chargé au clic
+// (src/lib/explication-du-soin.ts). Sans JavaScript, ou si le chargement échoue, le lien ouvre la
+// page commune. Le texte déplié n'est pas dans la page : elle reste propre au cabinet.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import Prose from './Prose.astro';
+
+interface Props {
+  /** Le premier paragraphe de la page commune, en HTML. */
+  bref: string;
+  /** Le nom du soin dans une phrase : « la radiographie ». */
+  enPhrase: string;
+  /** L'adresse de la page commune du service. */
+  pageCommune: string;
+  /** L'adresse du texte complet à déplier : /textes-des-soins/fr/radiographie.html. */
+  texteComplet: string;
+  langue: Langue;
+}
+
+const { bref, enPhrase, pageCommune, texteComplet, langue } = Astro.props;
+const t = textes(langue).services;
+const id = 'explication-du-soin';
+---
+
+<section class="bloc explication-du-soin" aria-labelledby={id} data-explication-du-soin>
+  <h2 id={id}>{t.enBref}</h2>
+  <Prose html={bref} />
+  <a
+    class="lien-fort"
+    href={pageCommune}
+    data-texte-complet={texteComplet}
+    data-ouvrir={t.toutLire(enPhrase)}
+    data-replier={t.replier}
+    data-ouverture={t.ouverture}
+    aria-controls={`${id}-texte`}>{t.toutLire(enPhrase)}</a
+  >
+  <div class="prose explication-du-soin__texte" id={`${id}-texte`} hidden></div>
+</section>
+
+<script>
+  // Le lien devient un bouton qui déplie et replie le texte complet. Le texte se charge au premier
+  // clic ; si le chargement échoue, le lien ouvre la page commune.
+  document.querySelectorAll<HTMLElement>('[data-explication-du-soin]').forEach((section) => {
+    const lien = section.querySelector<HTMLAnchorElement>('a[data-texte-complet]');
+    const texte = section.querySelector<HTMLElement>('.explication-du-soin__texte');
+    if (!lien || !texte) return;
+    const { texteComplet, ouvrir = '', replier = '', ouverture = '' } = lien.dataset;
+    let charge = false;
+    lien.setAttribute('role', 'button');
+    lien.setAttribute('aria-expanded', 'false');
+    lien.addEventListener('click', async (evenement) => {
+      evenement.preventDefault();
+      if (!charge) {
+        lien.textContent = ouverture;
+        try {
+          const reponse = await fetch(texteComplet ?? '');
+          if (!reponse.ok) throw new Error(String(reponse.status));
+          texte.innerHTML = await reponse.text();
+          charge = true;
+        } catch {
+          window.location.href = lien.href;
+          return;
+        }
+      }
+      const ouvert = texte.hidden;
+      texte.hidden = !ouvert;
+      lien.setAttribute('aria-expanded', String(ouvert));
+      lien.textContent = ouvert ? replier : ouvrir;
+      if (!ouvert) section.scrollIntoView({ block: 'start' });
+    });
+  });
+</script>
+
+<style>
+  .explication-du-soin__texte { margin-top: var(--espace-2); }
+</style>

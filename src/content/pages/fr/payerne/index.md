@@ -36,7 +36,7 @@ Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 
 - La [radiographie numérique](/payerne/services/radiographie/) comprend les clichés officiels des hanches et des coudes pour le dépistage de la dysplasie.
 - L'[échographie](/payerne/services/echographie/) du ventre, du cœur et de gestation se fait au cabinet.
 - L'[hospitalisation](/payerne/services/hospitalisation/) accueille chiens, chats et NAC dans des cages adaptées à la durée du séjour.
-- Un vétérinaire se déplace pour les [visites à domicile](/payerne/services/visites-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de 55 francs.
+- Un vétérinaire se déplace pour les [visites à domicile](/payerne/services/visites-a-domicile/) dans le district de la Broye, avec un forfait de déplacement de {prix:visite-domicile}.
 
 Les [NAC](/services/nac/) (lapins, rongeurs, furets, oiseaux, reptiles) sont reçus en consultation comme les chiens et les chats. La page [Chirurgie à Payerne](/payerne/services/chirurgie/) dit comment se passe une journée d'opération. La page [Services](/payerne/services/) décrit chaque soin pratiqué au cabinet.
 
@@ -58,7 +58,7 @@ Les temps de trajet depuis la Broye et les liens d'itinéraire figurent sur la p
 
 ## En cas d'urgence
 
-Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue pendant les heures d'ouverture coûte 99 francs de supplément, en plus de la consultation et des soins.
+Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue pendant les heures d'ouverture coûte {prix:supplement-urgence-jour} de supplément, en plus de la consultation et des soins.
 
 En dehors des heures d'ouverture, appelez Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, ouvert tous les jours de 8 h à minuit. Après minuit, son répondeur vous donne le numéro du vétérinaire de garde. Un supplément d'urgence s'ajoute aux soins.
 
@@ -70,9 +70,9 @@ Les signes qui imposent d'appeler sont sur la page [Urgences](/payerne/urgences/
 
 ## Prévention, tarifs et abonnements
 
-À Payerne, la consultation de 30 minutes coûte 57 francs. Ce temps suffit pour examiner votre animal en entier, parler de son poids, de son appétit et de son comportement, puis répondre à vos questions. Le bilan annuel avec les vaccins coûte 94 francs pour un chien et 75 francs pour un lapin. Pour un chat, il coûte 70 francs s'il vit à l'intérieur, 98 francs s'il sort. Pour voyager, le bilan avec le vaccin contre la rage coûte 77 francs.
+À Payerne, la consultation de 30 minutes coûte {prix:consultation}. Ce temps suffit pour examiner votre animal en entier, parler de son poids, de son appétit et de son comportement, puis répondre à vos questions. Le bilan annuel avec les vaccins coûte {prix:bilan-chien} pour un chien et {prix:bilan-lapin} pour un lapin. Pour un chat, il coûte {prix:bilan-chat-interieur} s'il vit à l'intérieur, {prix:bilan-chat-exterieur} s'il sort. Pour voyager, le bilan avec le vaccin contre la rage coûte {prix:bilan-rage}.
 
-Le plan de prévention chiot ou chaton coûte 515 francs pour un an. Il couvre les consultations sur rendez-vous, les vaccins, les vermifuges, la puce électronique et le passeport ; la stérilisation ou la castration peut s'y ajouter. Les [abonnements mensuels](/payerne/abonnements/) étalent les soins de prévention d'un chien ou d'un chat adulte. Le cabinet accepte les cartes et TWINT.
+Le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an. Il couvre les consultations sur rendez-vous, les vaccins, les vermifuges, la puce électronique et le passeport ; la stérilisation ou la castration peut s'y ajouter. Les [abonnements mensuels](/payerne/abonnements/) étalent les soins de prévention d'un chien ou d'un chat adulte. Le cabinet accepte les cartes et TWINT.
 
 Tous les prix sont sur la page [Tarifs](/payerne/tarifs/).
 

@@ -29,7 +29,7 @@ Die Praxis empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Rufen 
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
-Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet die Konsultation, 57 Franken, plus einen Zuschlag von 99 Franken, dann die Behandlungen. Vor Ort hat die Praxis ein Labor, einen Röntgenraum und einen Operationssaal: Blutuntersuchung, Röntgen und Operation erfolgen ohne Verlegung. Ihr Tier kann stationär bleiben; nachts kontrolliert das Team es bei Schliessung und gleich bei Öffnung.
+Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet die Konsultation, {prix:consultation}, plus einen Zuschlag von {prix:supplement-urgence-jour}, dann die Behandlungen. Vor Ort hat die Praxis ein Labor, einen Röntgenraum und einen Operationssaal: Blutuntersuchung, Röntgen und Operation erfolgen ohne Verlegung. Ihr Tier kann stationär bleiben; nachts kontrolliert das Team es bei Schliessung und gleich bei Öffnung.
 
 ## Ausserhalb der Öffnungszeiten
 

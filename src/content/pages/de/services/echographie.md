@@ -5,6 +5,7 @@ title: "Ultraschall bei Hund und Katze: Dauer, Ablauf | Vetmint"
 description: "Ultraschall von Bauch, Herz und Trächtigkeit bei Vetmint: 15 bis 25 Minuten, 12 Stunden nüchtern, oft ohne Sedation. Alle acht Praxen haben ein Ultraschallgerät."
 h1: Ultraschall bei Hund und Katze
 nom: Ultraschall
+en_phrase: "den Ultraschall"
 recherche: Ultraschall Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat]

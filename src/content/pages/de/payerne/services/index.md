@@ -3,7 +3,7 @@ type: services-clinique
 clinique: payerne
 url: /de/payerne/leistungen/
 title: "Tierärztliche Leistungen in Payerne | Vetmint"
-description: "Leistungen von Vetmint Payerne für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten zu 57 Franken, Impfungen, Chirurgie, Zähne und Röntgen."
+description: "Leistungen von Vetmint Payerne für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten zu {prix:consultation}, Impfungen, Chirurgie, Zähne und Röntgen."
 h1: Die Leistungen in Payerne
 recherche: tierärztliche Leistungen Payerne
 redige_le: 2026-11-04
@@ -11,7 +11,7 @@ redige_le: 2026-11-04
 
 Die tierärztlichen Leistungen der Praxis Vetmint Payerne finden an der Route du Châtelard 13 statt. Jede Leistung hat ihre Seite. Sie sagt, wie sie hier abläuft, wer sie ausführt und was sie in Payerne kostet.
 
-Claire-Lise Tinguely und Tiago Capelo teilen sich die Konsultationen und die Operationen. Eine Konsultation dauert 30 Minuten und kostet 57 Franken. Die Praxis empfängt von 8 bis 18 Uhr, ohne Mittagspause.
+Claire-Lise Tinguely und Tiago Capelo teilen sich die Konsultationen und die Operationen. Eine Konsultation dauert 30 Minuten und kostet {prix:consultation}. Die Praxis empfängt von 8 bis 18 Uhr, ohne Mittagspause.
 
 ## Termin und Preise
 

@@ -5,6 +5,7 @@ title: "Endoskopie bei Hund und Katze: Fremdkörper | Vetmint"
 description: "Endoskopie bei Vetmint: eine feine Kamera, die Magen, Darm, Nase oder Bronchien zeigt, einen verschluckten Gegenstand entfernt und Biopsien ohne Operation nimmt."
 h1: Endoskopie bei Hund und Katze
 nom: Endoskopie
+en_phrase: "die Endoskopie"
 recherche: Endoskopie Hund Katze
 redige_le: 2026-11-10
 ordre: 7

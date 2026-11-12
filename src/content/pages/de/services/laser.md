@@ -5,6 +5,7 @@ title: "Lasertherapie für Hund und Katze: Sitzungen | Vetmint"
 description: "Lasertherapie bei Vetmint: Wunden, Wundheilung, Arthrose, Schmerzen, Zahnfleisch und Ohren bei Hund, Katze und Kaninchen. Sitzung ohne Narkose und Rasur."
 h1: Lasertherapie für Hunde, Katzen und Kaninchen
 nom: Lasertherapie
+en_phrase: "die Lasertherapie"
 recherche: Lasertherapie Tier
 redige_le: 2026-11-10
 ordre: 10

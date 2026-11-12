@@ -18,13 +18,10 @@ interface Props {
   balisage?: Record<string, unknown>[];
   /** Une page à ne jamais indexer : 404, styleguide. */
   noindex?: boolean;
-  /** L'adresse canonique, si ce n'est pas celle de la page : la page commune d'un service repris. */
-  canonique?: string;
 }
 
 const { langue, titre, description, adresses, image, balisage = [], noindex = false } = Astro.props;
-const versLaPage = Astro.props.canonique ?? adresses[langue];
-const canonique = versLaPage ? absolue(versLaPage) : undefined;
+const canonique = adresses[langue] ? absolue(adresses[langue]!) : undefined;
 const partage = image ? await getImage({ src: image, width: 1200, format: 'jpg' }) : undefined;
 ---
 

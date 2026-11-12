@@ -5,6 +5,7 @@ title: "Chirurgie du chien et du chat, stérilisation | Vetmint"
 description: "Chirurgie chez Vetmint : stérilisation, castration, grosseur, plaie, objet avalé, césarienne. Examens avant, anesthésie surveillée, suivi après l'opération."
 h1: "Chirurgie : stérilisation, castration et tissus mous"
 nom: Chirurgie
+en_phrase: "la chirurgie"
 recherche: chirurgie vétérinaire
 redige_le: 2026-11-10
 ordre: 2

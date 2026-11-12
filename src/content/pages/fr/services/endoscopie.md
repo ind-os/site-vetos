@@ -5,6 +5,7 @@ title: "Endoscopie du chien et du chat : objet avalé | Vetmint"
 description: "Endoscopie chez Vetmint : une caméra fine qui regarde l'estomac, l'intestin, le nez ou les bronches, retire un objet avalé et fait des biopsies sans opération."
 h1: Endoscopie du chien et du chat
 nom: Endoscopie
+en_phrase: "l'endoscopie"
 recherche: endoscopie chien chat
 redige_le: 2026-11-10
 ordre: 7

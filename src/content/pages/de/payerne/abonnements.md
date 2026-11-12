@@ -3,7 +3,7 @@ type: abonnements
 clinique: payerne
 url: /de/payerne/abonnemente/
 title: "Tierärztliches Abonnement und Präventionsplan in Payerne"
-description: "In Payerne kostet der Präventionsplan für Welpen oder Kätzchen 515 Franken pro Jahr: Konsultationen, Impfungen, Mikrochip. Abonnemente ab 47 Franken pro Monat."
+description: "In Payerne kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr: Konsultationen, Impfungen, Mikrochip. Abonnemente ab {prix:abonnement-adulte-chien} pro Monat."
 h1: Präventionsplan und Abonnemente in Payerne
 recherche: Tierarzt Abonnement Payerne
 redige_le: 2026-11-03
@@ -35,18 +35,18 @@ Die [Kastration des Männchens oder die Sterilisation des Weibchens](/de/payerne
 
 | Formel | Preis des Plans | Einzeln gekaufte Behandlungen | Unterschied |
 |---|---|---|---|
-| Welpe | CHF 515.– | CHF 656.– | CHF 141.– |
-| Welpe mit Kastration | CHF 925.– | CHF 1’130.– | CHF 205.– |
-| Welpe mit Sterilisation | CHF 1’240.– | CHF 1’495.– | CHF 255.– |
-| Kätzchen | CHF 515.– | CHF 683.– | CHF 168.– |
-| Kätzchen mit Kastration | CHF 615.– | CHF 780.– | CHF 165.– |
-| Kätzchen mit Sterilisation | CHF 755.– | CHF 921.– | CHF 166.– |
+| Welpe | {prix:plan-prevention} | {prix:soins-chiot-un-par-un} | {prix:economie-plan-chiot} |
+| Welpe mit Kastration | {prix:plan-chiot-castration} | {prix:soins-chiot-castration-un-par-un} | {prix:economie-plan-chiot-castration} |
+| Welpe mit Sterilisation | {prix:plan-chiot-sterilisation} | {prix:soins-chiot-sterilisation-un-par-un} | {prix:economie-plan-chiot-sterilisation} |
+| Kätzchen | {prix:plan-prevention} | {prix:soins-chaton-un-par-un} | {prix:economie-plan-chaton} |
+| Kätzchen mit Kastration | {prix:plan-chaton-castration} | {prix:soins-chaton-castration-un-par-un} | {prix:economie-plan-chaton-castration} |
+| Kätzchen mit Sterilisation | {prix:plan-chaton-sterilisation} | {prix:soins-chaton-sterilisation-un-par-un} | {prix:economie-plan-chaton-sterilisation} |
 
 Der Preis jeder Operation allein steht in der [Preisliste von Payerne](/de/payerne/preise/).
 
 ### In vier Raten bezahlen
 
-Sie bezahlen ein Viertel beim Abschluss. Die drei übrigen Teile kommen per Rechnung der Swissbilling SA, die den Antrag zuerst annehmen muss und ihre eigenen Gebühren verrechnet. Beim Plan zu 515 Franken beträgt jede Zahlung 128.75 Franken.
+Sie bezahlen ein Viertel beim Abschluss. Die drei übrigen Teile kommen per Rechnung der Swissbilling SA, die den Antrag zuerst annehmen muss und ihre eigenen Gebühren verrechnet. Beim Plan zu {prix:plan-prevention} beträgt jede Zahlung {prix:versement-plan-prevention}.
 
 ## Die monatlichen Abonnemente
 
@@ -54,12 +54,12 @@ Jedes Abonnement gilt für ein Tier und dauert mindestens zwölf Monate. Seine S
 
 | Stufe | Alter | Hund, pro Monat | Katze, pro Monat |
 |---|---|---|---|
-| Junior | bis 12 Monate | CHF 55.– | CHF 55.– |
-| Junior+ mit Kastration | bis 12 Monate | CHF 95.– | CHF 83.– |
-| Junior+ mit Sterilisation | bis 12 Monate | CHF 100.– | CHF 88.– |
-| Adult | 7 Monate bis 6 Jahre | CHF 47.– | CHF 50.– |
-| Adult+ | 7 Monate bis 6 Jahre | CHF 106.– | CHF 103.– |
-| Senior | ab 7 Jahren | CHF 129.– | CHF 124.– |
+| Junior | bis 12 Monate | {prix:abonnement-junior-chien} | {prix:abonnement-junior-chat} |
+| Junior+ mit Kastration | bis 12 Monate | {prix:abonnement-junior-castration-chien} | {prix:abonnement-junior-castration-chat} |
+| Junior+ mit Sterilisation | bis 12 Monate | {prix:abonnement-junior-sterilisation-chien} | {prix:abonnement-junior-sterilisation-chat} |
+| Adult | 7 Monate bis 6 Jahre | {prix:abonnement-adulte-chien} | {prix:abonnement-adulte-chat} |
+| Adult+ | 7 Monate bis 6 Jahre | {prix:abonnement-adulte-plus-chien} | {prix:abonnement-adulte-plus-chat} |
+| Senior | ab 7 Jahren | {prix:abonnement-senior-chien} | {prix:abonnement-senior-chat} |
 
 ### Die Behandlungen jeder Stufe
 
@@ -81,16 +81,16 @@ Der Plan und das Abonnement werden in der Praxis abgeschlossen, während eines T
 
 Für eine enthaltene Behandlung rufen Sie die [026 660 16 16](tel:+41266601616) an. Das Team schlägt Ihnen drei Termine innerhalb von zehn Arbeitstagen vor.
 
-Um das Abonnement zu beenden, schreiben Sie an [payerne@vetmint.ch](mailto:payerne@vetmint.ch) oder per Brief an die Praxis. Die Kündigung ist kostenlos, wenn sie zwei Monate vor dem Jahrestag erfolgt, oder beim Tod des Tieres. Später kostet sie 50 Franken. Bei einem sofortigen Ende kommt die Differenz zwischen dem normalen Preis der bezogenen Behandlungen und Ihren Monatsraten hinzu.
+Um das Abonnement zu beenden, schreiben Sie an [payerne@vetmint.ch](mailto:payerne@vetmint.ch) oder per Brief an die Praxis. Die Kündigung ist kostenlos, wenn sie zwei Monate vor dem Jahrestag erfolgt, oder beim Tod des Tieres. Später kostet sie {prix:resiliation-tardive}. Bei einem sofortigen Ende kommt die Differenz zwischen dem normalen Preis der bezogenen Behandlungen und Ihren Monatsraten hinzu.
 
 ## Ihre Fragen
 
 ### Für meinen Welpen: Plan oder Junior-Abonnement?
 
-In Payerne kostet der Plan 515 Franken für das Jahr, mit unbegrenzten Konsultationen. Das Junior-Abonnement kostet 660 Franken in zwölf Monatsraten zu 55 Franken, mit drei Konsultationen und den Kontrollbesuchen.
+In Payerne kostet der Plan {prix:plan-prevention} für das Jahr, mit unbegrenzten Konsultationen. Das Junior-Abonnement kostet {prix:abonnement-junior-chien-annee} in zwölf Monatsraten zu {prix:abonnement-junior-chien}, mit drei Konsultationen und den Kontrollbesuchen.
 
 ### Haben die anderen Praxen dieselben Preise?
 
-Der Basisplan kostet in allen Praxen von Vetmint 515 Franken. Der Preis der Optionen steht auf der Abonnement-Seite jeder Praxis, über die [Liste der Praxen](/de/praxen/).
+Der Basisplan kostet in allen Praxen von Vetmint {prix:plan-prevention}. Der Preis der Optionen steht auf der Abonnement-Seite jeder Praxis, über die [Liste der Praxen](/de/praxen/).
 
 [Einen Termin vereinbaren](/de/payerne/termin/)

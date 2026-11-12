@@ -5,6 +5,7 @@ title: "Échographie du chien et du chat : déroulement | Vetmint"
 description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 15 à 25 minutes, à jeun 12 heures, souvent sans sédation. Les huit cabinets ont un échographe."
 h1: Échographie du chien et du chat
 nom: Échographie
+en_phrase: "l'échographie"
 recherche: échographie chien chat
 redige_le: 2026-11-10
 especes: [chien, chat]

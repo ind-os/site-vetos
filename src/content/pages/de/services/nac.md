@@ -5,6 +5,7 @@ title: "Erweiterte Heimtiermedizin: Kaninchen, Vögel | Vetmint"
 description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen, Nager, Vögel und Reptilien in allen acht Praxen, schwierige Fälle in Fribourg Ouest. Impfungen, Operationen."
 h1: "Erweiterte Heimtiermedizin: vom Kaninchen bis zum Reptil"
 nom: Erweiterte Heimtiermedizin
+en_phrase: "die erweiterte Heimtiermedizin"
 recherche: Tierarzt Heimtiere
 redige_le: 2026-11-10
 ordre: 11

@@ -3,13 +3,13 @@ type: tarifs
 clinique: payerne
 url: /payerne/tarifs/
 title: "Tarif vétérinaire à Payerne : vaccins, opérations, urgences"
-description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à 57 francs, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
+description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint Payerne
 recherche: tarif vétérinaire Payerne
 redige_le: 2026-11-03
 ---
 
-Le tarif vétérinaire du cabinet Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte 57 francs. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.
+Le tarif vétérinaire du cabinet Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.
 
 ## Comment lire cette grille
 
@@ -21,7 +21,7 @@ En 30 minutes, le vétérinaire a le temps de palper votre animal, d'écouter so
 
 | Prestation | Ce que vous payez | Prix |
 |---|---|---|
-| Consultation sur rendez-vous | 30 minutes avec un vétérinaire, examen complet et conseils | 57 CHF |
+| Consultation sur rendez-vous | 30 minutes avec un vétérinaire, examen complet et conseils | {prix:consultation} |
 
 La [consultation à Payerne](/payerne/services/prevention/) sert au contrôle annuel, à un animal malade ou à un deuxième avis.
 
@@ -31,11 +31,11 @@ Un bilan réunit la consultation de 30 minutes et les vaccins de l'année. À Pa
 
 | Animal | Vaccins faits pendant le bilan | Prix |
 |---|---|---|
-| Chien ou chiot | maladie de Carré, hépatite contagieuse, parvovirose, parainfluenza, leptospirose | 94 CHF |
-| Chat ou chaton qui vit dedans | typhus et coryza | 70 CHF |
-| Chat ou chaton qui sort | typhus, coryza, leucose (FeLV) | 98 CHF |
-| Lapin | maladie hémorragique virale | 75 CHF |
-| Chien, chat ou furet qui voyage | rage, avec inscription au passeport et lecture de la puce | 77 CHF |
+| Chien ou chiot | maladie de Carré, hépatite contagieuse, parvovirose, parainfluenza, leptospirose | {prix:bilan-chien} |
+| Chat ou chaton qui vit dedans | typhus et coryza | {prix:bilan-chat-interieur} |
+| Chat ou chaton qui sort | typhus, coryza, leucose (FeLV) | {prix:bilan-chat-exterieur} |
+| Lapin | maladie hémorragique virale | {prix:bilan-lapin} |
+| Chien, chat ou furet qui voyage | rage, avec inscription au passeport et lecture de la puce | {prix:bilan-rage} |
 
 Le typhus est une gastro-entérite virale souvent mortelle chez le chaton. Le coryza est le rhume du chat, avec le nez et les yeux qui coulent. La leucose est un virus qui passe d'un chat à l'autre par la salive : votre chat en a besoin dès qu'il croise des chats non vaccinés ou errants. La leptospirose se transmet par l'urine des rongeurs et touche aussi l'humain.
 
@@ -47,11 +47,11 @@ Chaque forfait se divise en deux parts : l'opération avec les frais du bloc, p
 
 | Opération | Acte et bloc opératoire | Anesthésie et douleur | Prix total |
 |---|---|---|---|
-| Stérilisation de la chatte | 105 CHF | 155 CHF | 260 CHF |
-| Castration du chat | 50 CHF | 65 CHF | 115 CHF |
-| Stérilisation de la chienne | 550 CHF | 260 CHF | 810 CHF |
-| Castration du chien | 230 CHF | 220 CHF | 450 CHF |
-| Castration du lapin | 49 CHF | 82 CHF | 131 CHF |
+| Stérilisation de la chatte | {prix:sterilisation-chatte-acte} | {prix:sterilisation-chatte-anesthesie} | {prix:sterilisation-chatte} |
+| Castration du chat | {prix:castration-chat-acte} | {prix:castration-chat-anesthesie} | {prix:castration-chat} |
+| Stérilisation de la chienne | {prix:sterilisation-chienne-acte} | {prix:sterilisation-chienne-anesthesie} | {prix:sterilisation-chienne} |
+| Castration du chien | {prix:castration-chien-acte} | {prix:castration-chien-anesthesie} | {prix:castration-chien} |
+| Castration du lapin | {prix:castration-lapin-acte} | {prix:castration-lapin-anesthesie} | {prix:castration-lapin} |
 
 Pour la chatte, la chienne et le chien, l'anesthésie se fait au gaz, par un tube placé dans la trachée. Un cathéter (petit tuyau posé dans une veine) passe la perfusion et les médicaments ; une assistante surveille le cœur et la respiration jusqu'au réveil. Le chat reçoit un cathéter et la même surveillance, sans tube ni perfusion. Le lapin s'endort par piqûre, puis reste sous gaz.
 
@@ -63,8 +63,8 @@ La stérilisation de la lapine et l'opération d'un petit rongeur n'ont pas de f
 
 | Prestation | Ce que vous payez | Prix |
 |---|---|---|
-| Détartrage et polissage | 45 minutes sous anesthésie au gaz avec cathéter, perfusion et surveillance, examen avant l'anesthésie, traitement de la douleur | 325 CHF |
-| Extraction d'une dent | selon la dent et le temps qu'elle demande | 25 à 200 CHF |
+| Détartrage et polissage | 45 minutes sous anesthésie au gaz avec cathéter, perfusion et surveillance, examen avant l'anesthésie, traitement de la douleur | {prix:detartrage} |
+| Extraction d'une dent | selon la dent et le temps qu'elle demande | {prix:extraction-dent} |
 
 Une dent à extraire s'ajoute au forfait du détartrage. Le déroulement est expliqué à la page [soins dentaires](/payerne/services/dentisterie/).
 
@@ -76,9 +76,9 @@ Le cabinet fait sur place la prise de sang, l'analyse d'urine et la radiographie
 
 | Moment | Ce qui s'ajoute | Supplément |
 |---|---|---|
-| Pendant les heures d'ouverture | la consultation et les soins | 99 CHF |
+| Pendant les heures d'ouverture | la consultation et les soins | {prix:supplement-urgence-jour} |
 
-En journée, une urgence coûte donc au moins 156 francs : 57 francs de consultation et 99 francs de supplément. En dehors des heures d'ouverture, le numéro de garde joint Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, de 8 h à minuit.
+En journée, une urgence coûte donc au moins {prix:urgence-jour-minimum} : {prix:consultation} de consultation et {prix:supplement-urgence-jour} de supplément. En dehors des heures d'ouverture, le numéro de garde joint Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, de 8 h à minuit.
 
 <!-- donnees: garde -->
 - Numéro de garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
@@ -90,7 +90,7 @@ Ce qu'il faut faire selon l'heure est sur la page [Urgences](/payerne/urgences/)
 
 | Prestation | Ce que vous payez | Prix |
 |---|---|---|
-| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, aux heures d'ouverture du cabinet ; les soins s'ajoutent | 55 CHF |
+| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, aux heures d'ouverture du cabinet ; les soins s'ajoutent | {prix:visite-domicile} |
 
 Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée.
 
@@ -100,7 +100,7 @@ Vous réglez au comptoir à la fin du rendez-vous, par carte ou par TWINT. À do
 
 ## Plan de prévention et abonnements
 
-Le plan de prévention coûte 515 francs pour la première année d'un chiot ou d'un chaton. Il regroupe les consultations, les vaccins, les vermifuges, la puce et le passeport. Achetés un par un, ces soins reviennent à 656 francs pour un chiot et à 683 francs pour un chaton. Les abonnements mensuels répartissent sur douze mois la prévention d'un chien ou d'un chat.
+Le plan de prévention coûte {prix:plan-prevention} pour la première année d'un chiot ou d'un chaton. Il regroupe les consultations, les vaccins, les vermifuges, la puce et le passeport. Achetés un par un, ces soins reviennent à {prix:soins-chiot-un-par-un} pour un chiot et à {prix:soins-chaton-un-par-un} pour un chaton. Les abonnements mensuels répartissent sur douze mois la prévention d'un chien ou d'un chat.
 
 [Le plan de prévention et les abonnements à Payerne](/payerne/abonnements/)
 

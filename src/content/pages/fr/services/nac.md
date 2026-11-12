@@ -5,6 +5,7 @@ title: "Médecine avancée des NAC : lapins, oiseaux | Vetmint"
 description: "Médecine avancée des NAC chez Vetmint : lapins, rongeurs, oiseaux et reptiles dans les huit cabinets, cas difficiles à Fribourg Ouest. Vaccins, opérations."
 h1: "Médecine avancée des NAC : du lapin au reptile"
 nom: Médecine avancée des NAC
+en_phrase: "la médecine avancée des NAC"
 recherche: vétérinaire NAC
 redige_le: 2026-11-10
 ordre: 11

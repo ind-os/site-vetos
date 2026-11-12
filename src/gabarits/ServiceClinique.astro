@@ -1,15 +1,23 @@
 ---
-// Un service dans une clinique, avec la carte de la clinique et les autres soins de la clinique.
-// Le texte est celui de la page commune du service, repris et adapté à la clinique
-// (src/lib/service-repris.ts) ; l'adresse canonique est alors celle de la page commune. Une page
-// écrite dans le dossier de la clinique, pour un soin qu'elle est seule à pratiquer, garde son texte.
+// Un service dans un cabinet, fabriqué par le site pour chaque service de la fiche
+// (src/lib/pages.ts, docs/structure-des-pages.md) : un chapeau tiré de la fiche, le bouton de
+// rendez-vous, les prix du soin lus dans la grille du cabinet, puis l'explication de la page
+// commune, en bref, et dépliée au clic. À côté, la carte du cabinet ; en bas, ses autres soins.
+// Une page écrite dans le dossier du cabinet, pour un soin qu'il est seul à pratiquer, garde son
+// texte et renvoie à la page commune si elle existe.
 import type { Contexte } from '../lib/contexte.ts';
 import { servicesDeLaClinique } from '../lib/cliniques.ts';
+import { adresseDuTexteComplet, premierParagraphe } from '../lib/explication-du-soin.ts';
+import { echapper, enumerer } from '../lib/format.ts';
+import { laGrille } from '../lib/grilles.ts';
 import { premierePhoto } from '../lib/images.ts';
-import { estReprise, laPage, slugDe } from '../lib/pages.ts';
-import { texteRepris } from '../lib/service-repris.ts';
+import { adresse, estFabriquee, laPage, slugDe } from '../lib/pages.ts';
+import { formaterMontant } from '../lib/prix.ts';
+import BoutonRendezVous from '../composants/BoutonRendezVous.astro';
 import CarteClinique from '../composants/CarteClinique.astro';
+import ExplicationDuSoin from '../composants/ExplicationDuSoin.astro';
 import Pastilles from '../composants/Pastilles.astro';
+import PrixDuSoin from '../composants/PrixDuSoin.astro';
 import Prose from '../composants/Prose.astro';
 import PageInterieure from './PageInterieure.astro';
 
@@ -18,18 +26,58 @@ interface Props {
 }
 
 const { contexte } = Astro.props;
-const { page, langue, t } = contexte;
+const { page, langue, t, html } = contexte;
 const clinique = contexte.clinique!;
 const slug = slugDe(page);
-const reprise = estReprise(page);
+const fabriquee = estFabriquee(page);
 const commune = await laPage(langue, `services/${slug}`);
-const html = reprise ? await texteRepris(contexte.html, clinique, langue) : contexte.html;
 const photoDuService = premierePhoto([`${clinique.id}:service:${slug}`, `service:${slug}`], langue);
 const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.service !== slug);
+
+// La page fabriquée : le chapeau dit les espèces reçues pour ce soin et les vétérinaires du cabinet.
+const enPhrase = page.data.en_phrase ?? (page.data.nom ?? '').toLowerCase();
+const especesDuService = page.data.especes ?? ['chien', 'chat', 'nac'];
+const especes = enumerer(
+  clinique.especes.filter((e) => especesDuService.includes(e)).map((e) => t.services.especesDansUnePhrase[e]),
+  langue,
+);
+const veterinaires = (clinique.equipe ?? []).filter((p) => /^(vétérinaire|tierärzt|tierarzt)/i.test(p.fonction[langue])).map((p) => p.nom);
+const chapeau = [
+  t.services.introDuCabinet(clinique.lieu, enPhrase, especes),
+  veterinaires.length > 0 ? t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length) : '',
+]
+  .filter(Boolean)
+  .join(' ');
+const grille = await laGrille(clinique.id);
+const lignes = (grille?.grille.prix ?? [])
+  .filter((p) => p.service === slug)
+  .map((p) => ({ libelle: p.libelle[langue], montant: formaterMontant(grille!.valeurs.get(p.cle)!, langue, 'tableau') }));
+const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
 ---
 
-<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} canonique={reprise ? commune?.data.url : undefined}>
-  <Prose html={html} chapeau />
+<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)}>
+  {
+    fabriquee ? (
+      <>
+        <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
+        <p class="service-clinique__rendez-vous">
+          <BoutonRendezVous clinique={clinique} langue={langue} />
+        </p>
+        <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+        {commune && (
+          <ExplicationDuSoin
+            bref={premierParagraphe(html)}
+            enPhrase={enPhrase}
+            pageCommune={commune.data.url}
+            texteComplet={adresseDuTexteComplet(langue, slug)}
+            langue={langue}
+          />
+        )}
+      </>
+    ) : (
+      <Prose html={html} chapeau />
+    )
+  }
   {
     autres.length > 0 && (
       <section class="bloc">
@@ -40,6 +88,10 @@ const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.se
   }
   <Fragment slot="cote">
     <CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />
-    {!reprise && commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
+    {!fabriquee && commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
   </Fragment>
 </PageInterieure>
+
+<style>
+  .service-clinique__rendez-vous { margin-top: var(--espace-4); }
+</style>

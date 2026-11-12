@@ -17,10 +17,12 @@ import CarteDesCliniques from '../../composants/CarteDesCliniques.astro';
 import CarteMembre from '../../composants/CarteMembre.astro';
 import CarteService from '../../composants/CarteService.astro';
 import CroixSuisse from '../../composants/CroixSuisse.astro';
+import ExplicationDuSoin from '../../composants/ExplicationDuSoin.astro';
 import FilDAriane from '../../composants/FilDAriane.astro';
 import Horaires from '../../composants/Horaires.astro';
 import Pastilles from '../../composants/Pastilles.astro';
 import Photo from '../../composants/Photo.astro';
+import PrixDuSoin from '../../composants/PrixDuSoin.astro';
 import Prose from '../../composants/Prose.astro';
 import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
 import ReseauDesCliniques from '../../composants/ReseauDesCliniques.astro';
@@ -286,6 +288,14 @@ ${htmlDeLaGarde(payerne, langue)}
       <Exemple titre="Pastilles" description="Des liens courts en pastilles : sur la page d’un soin dans une clinique, les autres soins de la clinique. Le titre visible au-dessus nomme la liste : son id se passe à idDuTitre." fichier="composants/Pastilles.astro" code={`<h2 id="autres-services">Les autres soins de la clinique</h2>\n<Pastilles liens={[{ libelle: 'Radiographie', href: '/payerne/services/radiographie/' }]} idDuTitre="autres-services" />`}>
         <p class="surtitre" id="pastilles-exemple">Les autres soins à Payerne</p>
         <Pastilles liens={[{ libelle: 'Consultation', href: '#' }, { libelle: 'Vaccination du chien', href: '#' }, { libelle: 'Radiographie', href: '#' }, { libelle: 'Soins dentaires', href: '#' }]} idDuTitre="pastilles-exemple" />
+      </Exemple>
+
+      <Exemple titre="Prix d’un soin" description="Les prix d’un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : prestation et prix, puis le lien vers la page Tarifs du cabinet. Sans prix pour ce soin, une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d’un service dans un cabinet." fichier="composants/PrixDuSoin.astro" code={`<PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325 CHF' }]} lieu="Payerne" tarifs="/payerne/tarifs/" langue={langue} />`}>
+        <PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325\u00a0CHF' }, { libelle: 'Extraction d’une dent, selon la dent', montant: '25 à 200\u00a0CHF' }]} lieu="Payerne" tarifs="#" langue={langue} />
+      </Exemple>
+
+      <Exemple titre="Explication d’un soin" description="Sur la page d’un service dans un cabinet : le premier paragraphe de la page commune, puis un lien qui déplie le reste du texte dans la page, chargé au clic. Sans JavaScript, le lien ouvre la page commune. Le texte déplié n’est pas dans la page, qui reste propre au cabinet." fichier="composants/ExplicationDuSoin.astro" code={`<ExplicationDuSoin bref={html} enPhrase="la radiographie" pageCommune="/services/radiographie/" texteComplet="/textes-des-soins/fr/radiographie.html" langue={langue} />`}>
+        <ExplicationDuSoin bref="<p>La radiographie du chien et du chat montre les os, les poumons, le cœur et les organes du ventre en quelques minutes.</p>" enPhrase="la radiographie" pageCommune="/services/radiographie/" texteComplet="/textes-des-soins/fr/radiographie.html" langue={langue} />
       </Exemple>
 
       <Exemple titre="Fil d’Ariane" description="Au-dessus du titre d’une page intérieure." fichier="composants/FilDAriane.astro" code={`<FilDAriane etapes={fil} etiquette="Vous êtes ici" />`}>

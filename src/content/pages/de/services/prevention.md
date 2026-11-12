@@ -5,6 +5,7 @@ title: "Vorsorge bei Hund und Katze: Check, Impfungen | Vetmint"
 description: "Vorsorge bei Vetmint: Gesundheitscheck von 30 Minuten, Impfungen für Hund und Katze, Mikrochip, Entwurmung und Begleitung von Würfen für Züchterinnen und Züchter."
 h1: "Prävention: Gesundheitscheck, Impfungen und Mikrochip"
 nom: Prävention
+en_phrase: "die Prävention"
 recherche: Vorsorge Hund Katze
 redige_le: 2026-11-10
 ordre: 1

@@ -136,6 +136,24 @@ export const fr = {
     pratiqueA: (lieu: string) => `Ce soin à ${lieu}`,
     pageGenerale: 'Tout savoir sur ce soin',
     autresServices: 'Les autres soins du cabinet',
+    titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
+      `${nom}${chienEtChat ? ' chien et chat' : ''} à ${lieu}${marque ? ' | Vetmint' : ''}`,
+    h1DansLeCabinet: (nom: string, lieu: string) => `${nom} à ${lieu}`,
+    descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
+      `${nom} à ${lieu} pour ${especes} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
+    rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,
+    introDuCabinet: (lieu: string, enPhrase: string, especes: string) => `Le cabinet Vetmint ${lieu} pratique ${enPhrase} pour ${especes}.`,
+    especesDansUnePhrase: { chien: 'les chiens', chat: 'les chats', nac: 'les NAC' },
+    veterinairesDuCabinet: (noms: string, nombre: number) => `${nombre > 1 ? 'Vétérinaires' : 'Vétérinaire'} du cabinet\u00a0: ${noms}.`,
+    prixA: (lieu: string) => `Le prix à ${lieu}`,
+    prestation: 'Prestation',
+    prix: 'Prix',
+    prixSelonLesExamens: 'Le prix dépend des examens choisis : le vétérinaire vous l’annonce avant de commencer.',
+    tousLesTarifs: 'Tous les tarifs du cabinet',
+    enBref: 'Le soin en bref',
+    toutLire: (enPhrase: string) => `Tout lire sur ${enPhrase}`,
+    replier: 'Replier le texte',
+    ouverture: 'Ouverture du texte…',
   },
 
   conseils: {

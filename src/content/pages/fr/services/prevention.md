@@ -5,6 +5,7 @@ title: "Prévention du chien et du chat : bilan, vaccins | Vetmint"
 description: "Prévention chez Vetmint : bilan de santé de 30 minutes, vaccins du chien et du chat, puce électronique, vermifuges et suivi des portées pour les éleveurs."
 h1: "Prévention : bilan de santé, vaccins et puce"
 nom: Prévention
+en_phrase: "la prévention"
 recherche: prévention chien chat
 redige_le: 2026-11-10
 ordre: 1

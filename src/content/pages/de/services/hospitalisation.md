@@ -5,6 +5,7 @@ title: "Stationäre Betreuung Hund und Katze: Besuche | Vetmint"
 description: "Stationäre Betreuung von Hund, Katze und Kaninchen bei Vetmint: Infusion, Überwachung, täglicher Anruf der Tierärztin oder des Tierarztes, Besuche, acht Praxen."
 h1: Stationäre Betreuung von Hund, Katze und Heimtieren
 nom: Stationäre Betreuung
+en_phrase: "die stationäre Betreuung"
 recherche: stationäre Betreuung Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

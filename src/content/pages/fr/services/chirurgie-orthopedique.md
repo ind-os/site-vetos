@@ -5,6 +5,7 @@ title: "Chirurgie orthopédique du chien et du chat | Vetmint"
 description: "Chirurgie orthopédique chez Vetmint : fracture, ligament croisé, rotule qui se déplace, hanche. Bilan, opération, rééducation et traitement de la douleur."
 h1: "Chirurgie orthopédique : os, ligaments et articulations"
 nom: Chirurgie orthopédique
+en_phrase: "la chirurgie orthopédique"
 recherche: chirurgie orthopédique chien
 redige_le: 2026-11-10
 ordre: 3

@@ -5,6 +5,7 @@ title: "Chirurgie bei Hund und Katze, Kastration | Vetmint"
 description: "Chirurgie bei Vetmint: Kastration, Sterilisation, Knoten, Wunde, verschluckter Fremdkörper, Kaiserschnitt. Voruntersuchungen, überwachte Narkose, Nachsorge."
 h1: "Chirurgie: Kastration, Sterilisation und Weichteile"
 nom: Chirurgie
+en_phrase: "die Chirurgie"
 recherche: Tierarzt Chirurgie
 redige_le: 2026-11-10
 ordre: 2

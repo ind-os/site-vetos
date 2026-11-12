@@ -1,0 +1,52 @@
+---
+// Les prix d'un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : un tableau
+// prestation et prix, puis le lien vers la page Tarifs du cabinet. Sans prix fixe pour ce soin,
+// une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d'un service
+// dans un cabinet.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+
+interface Props {
+  /** Le libellé et le montant déjà écrit de chaque prix, dans l'ordre de la grille. */
+  lignes: { libelle: string; montant: string }[];
+  lieu: string;
+  /** L'adresse de la page Tarifs du cabinet. */
+  tarifs: string;
+  langue: Langue;
+}
+
+const { lignes, lieu, tarifs, langue } = Astro.props;
+const t = textes(langue).services;
+const id = 'prix-du-soin';
+---
+
+<section class="bloc prix-du-soin" aria-labelledby={id}>
+  <h2 id={id}>{t.prixA(lieu)}</h2>
+  {
+    lignes.length > 0 ? (
+      <div class="prose">
+        <div class="tableau" role="region" tabindex="0" aria-labelledby={id}>
+          <table>
+            <thead>
+              <tr>
+                <th>{t.prestation}</th>
+                <th>{t.prix}</th>
+              </tr>
+            </thead>
+            <tbody>
+              {lignes.map((l) => (
+                <tr>
+                  <td>{l.libelle}</td>
+                  <td>{l.montant}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    ) : (
+      <p>{t.prixSelonLesExamens}</p>
+    )
+  }
+  <a class="lien-fort" href={tarifs}>{t.tousLesTarifs}</a>
+</section>

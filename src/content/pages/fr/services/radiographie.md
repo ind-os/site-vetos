@@ -5,6 +5,7 @@ title: "Radiographie du chien et du chat : sédation | Vetmint"
 description: "Radiographie numérique du chien, du chat et du lapin dans les huit cabinets Vetmint : poumons, ventre, os, dents, dysplasie. Lecture expliquée sur place, prix."
 h1: Radiographie du chien et du chat
 nom: Radiographie
+en_phrase: "la radiographie"
 recherche: radiographie chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

@@ -25,7 +25,7 @@ Bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchung
 
 ### Was kostet eine Konsultation in Payerne?
 
-Eine Konsultation von 30 Minuten kostet 57 Franken. Der Jahrescheck mit den Impfungen kostet 94 Franken für einen Hund, 70 Franken für eine Wohnungskatze und 98 Franken für eine Katze mit Freigang. Medikamente, Analysen und Behandlungen kommen hinzu; die Tierärztin oder der Tierarzt sagt Ihnen, was sie oder er vorschlägt, bevor sie oder er es tut. Alle Preise stehen auf der Seite [Preise](/de/payerne/preise/).
+Eine Konsultation von 30 Minuten kostet {prix:consultation}. Der Jahrescheck mit den Impfungen kostet {prix:bilan-chien} für einen Hund, {prix:bilan-chat-interieur} für eine Wohnungskatze und {prix:bilan-chat-exterieur} für eine Katze mit Freigang. Medikamente, Analysen und Behandlungen kommen hinzu; die Tierärztin oder der Tierarzt sagt Ihnen, was sie oder er vorschlägt, bevor sie oder er es tut. Alle Preise stehen auf der Seite [Preise](/de/payerne/preise/).
 
 ### Wie kann ich bezahlen?
 
@@ -33,7 +33,7 @@ Sie bezahlen am Ende der Konsultation am Empfang, mit Karte oder TWINT. Bei eine
 
 ### Lohnt sich der Präventionsplan für einen Welpen oder ein Kätzchen?
 
-Der Plan kostet 515 Franken für ein Jahr. Er umfasst die Konsultationen nach Termin, die Impfungen, die Entwurmungen, den Mikrochip, den Pass und die Eintragung im Register. Für einen Welpen würden diese Behandlungen einzeln 656 Franken kosten. Die Kastration oder Sterilisation kann dazukommen. Die Einzelheiten stehen auf der Seite [Abonnemente](/de/payerne/abonnemente/).
+Der Plan kostet {prix:plan-prevention} für ein Jahr. Er umfasst die Konsultationen nach Termin, die Impfungen, die Entwurmungen, den Mikrochip, den Pass und die Eintragung im Register. Für einen Welpen würden diese Behandlungen einzeln {prix:soins-chiot-un-par-un} kosten. Die Kastration oder Sterilisation kann dazukommen. Die Einzelheiten stehen auf der Seite [Abonnemente](/de/payerne/abonnemente/).
 
 ## Behandlungen und stationäre Betreuung
 
@@ -43,7 +43,7 @@ Alle Heimtiere: Hunde, Katzen, Kaninchen, Nager, Frettchen, Vögel und Reptilien
 
 ### Kommen Sie auch nach Hause?
 
-Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, während der Öffnungszeiten der Praxis. Eine Tierärztin oder ein Tierarzt kommt für die üblichen Behandlungen zu Ihnen: Impfungen, Kontrolle, ältere Tiere oder Tiere, die schwer zu transportieren sind. Die Anfahrt kostet 55 Franken, zusätzlich zu den Behandlungen. Ein Hausbesuch, der weniger als 24 Stunden vorher abgesagt wird, wird verrechnet.
+Ja, nach Terminvereinbarung, im ganzen Bezirk Broye, während der Öffnungszeiten der Praxis. Eine Tierärztin oder ein Tierarzt kommt für die üblichen Behandlungen zu Ihnen: Impfungen, Kontrolle, ältere Tiere oder Tiere, die schwer zu transportieren sind. Die Anfahrt kostet {prix:visite-domicile}, zusätzlich zu den Behandlungen. Ein Hausbesuch, der weniger als 24 Stunden vorher abgesagt wird, wird verrechnet.
 
 ### Was tun bei einem Notfall in der Nacht?
 

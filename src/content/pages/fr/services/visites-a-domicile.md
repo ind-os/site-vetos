@@ -5,6 +5,7 @@ title: "Visites vétérinaires à domicile : soins, zones | Vetmint"
 description: "Visites vétérinaires à domicile chez Vetmint : consultation, vaccins et soins courants chez vous, aux heures d'ouverture du cabinet, sur rendez-vous."
 h1: Visites vétérinaires à domicile
 nom: Visites à domicile
+en_phrase: "les visites à domicile"
 recherche: vétérinaire à domicile
 redige_le: 2026-11-10
 ordre: 12

@@ -5,6 +5,7 @@ title: "Hospitalisation du chien et du chat : visites | Vetmint"
 description: "Hospitalisation du chien, du chat et du lapin chez Vetmint : perfusion, surveillance, appel quotidien du vétérinaire, visites. Dans les huit cabinets."
 h1: Hospitalisation du chien, du chat et des NAC
 nom: Hospitalisation
+en_phrase: "l'hospitalisation"
 recherche: hospitalisation chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

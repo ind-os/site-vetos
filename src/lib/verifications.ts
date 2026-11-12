@@ -5,7 +5,9 @@
 //   commune ne le porte pas ;
 // - une page de catégorie de conseils nomme son espèce ;
 // - chaque clinique en ligne a ses pages obligatoires ;
-// - chaque service d'une fiche a sa page commune ;
+// - chaque service d'une fiche a sa page commune, avec le champ en_phrase ;
+// - chaque grille des prix appartient à un cabinet, et ses services existent ;
+// - chaque jeton {prix:<cle>} est sur une page de cabinet et existe dans sa grille ;
 // - les textes d'interface ont les mêmes clés en français et en allemand ;
 // - chaque photo du catalogue nomme une clinique et une personne qui existent.
 // En construction, un problème arrête tout ; en prévisualisation, il s'affiche dans le terminal.
@@ -13,8 +15,10 @@
 import { LANGUES, LANGUE_PAR_DEFAUT } from '../config.ts';
 import { problemesDesTextes } from '../i18n/index.ts';
 import { lesCliniques } from './cliniques.ts';
+import { lesGrilles } from './grilles.ts';
+import { clesDesJetons } from './prix.ts';
 import { problemesDuCatalogue } from './images.ts';
-import { cleDe, langueDe, pagesPubliables, toutesLesPages } from './pages.ts';
+import { cleDe, estFabriquee, langueDe, pagesPubliables, toutesLesPages } from './pages.ts';
 import { pagesObligatoires, TYPES_DE_PAGE_DE_CLINIQUE } from './types-de-page.ts';
 
 /** Le chemin du fichier d'une page, depuis la racine du dépôt. */
@@ -62,6 +66,10 @@ export async function problemesDuSite(): Promise<string[]> {
       if (!existe(LANGUE_PAR_DEFAUT, `services/${service}`)) {
         problemes.push(`src/donnees/cliniques/${clinique.id}.json cite le service « ${service} », qui n'a pas de page commune : ${fichierDe(LANGUE_PAR_DEFAUT, `services/${service}`)} manque.`);
       }
+      for (const langue of LANGUES) {
+        const commune = pages.find((p) => langueDe(p) === langue && cleDe(p) === `services/${service}`);
+        if (commune && !commune.data.en_phrase) problemes.push(`${fichierDe(langue, `services/${service}`)} : le champ en_phrase manque, le nom du soin dans une phrase (« la radiographie », « das Röntgen »). La page du service dans chaque cabinet l'utilise.`);
+      }
     }
     if (!clinique.en_ligne) continue;
     for (const langue of LANGUES) {
@@ -69,6 +77,23 @@ export async function problemesDuSite(): Promise<string[]> {
         if (!existe(langue, cle)) problemes.push(`La clinique ${clinique.id} est en ligne mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
       }
     }
+  }
+
+  const grilles = await lesGrilles();
+  for (const { cabinet, grille } of grilles) {
+    if (!cliniques.some((c) => c.id === cabinet)) problemes.push(`src/donnees/tarifs/${cabinet}.json : aucun cabinet ne s'appelle « ${cabinet} » ; le nom du fichier est l'identifiant du cabinet.`);
+    for (const prix of grille.prix) {
+      if (prix.service && !existe(LANGUE_PAR_DEFAUT, `services/${prix.service}`)) problemes.push(`src/donnees/tarifs/${cabinet}.json : le prix « ${prix.cle} » cite le service « ${prix.service} », qui n'a pas de page commune.`);
+    }
+  }
+  for (const page of pages.filter((p) => !estFabriquee(p))) {
+    const fichier = fichierDe(langueDe(page), cleDe(page));
+    const cles = clesDesJetons([page.body ?? '', page.data.description, page.data.resume ?? ''].join('\n'));
+    if (cles.length === 0) continue;
+    const grille = grilles.find((g) => g.cabinet === page.data.clinique);
+    if (!page.data.clinique) problemes.push(`${fichier} : un prix ({prix:${cles[0]}}) ne s'écrit que sur une page de cabinet (docs/grille-des-prix.md).`);
+    else if (!grille) problemes.push(`${fichier} : la page écrit {prix:${cles[0]}}, mais le cabinet ${page.data.clinique} n'a pas de grille : src/donnees/tarifs/${page.data.clinique}.json manque.`);
+    else for (const cle of cles.filter((c) => !grille.valeurs.has(c))) problemes.push(`${fichier} : {prix:${cle}} n'existe pas dans src/donnees/tarifs/${page.data.clinique}.json.`);
   }
 
   return [...problemes, ...problemesDesTextes(), ...problemesDuCatalogue(cliniques)];

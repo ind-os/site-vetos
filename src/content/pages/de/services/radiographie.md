@@ -5,6 +5,7 @@ title: "Röntgen bei Hund und Katze: Sedation, Ablauf | Vetmint"
 description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmint-Praxen: Lunge, Bauch, Knochen, Zähne, Dysplasie. Das Bild wird vor Ort erklärt."
 h1: Röntgen bei Hund und Katze
 nom: Röntgen
+en_phrase: "das Röntgen"
 recherche: Röntgen Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

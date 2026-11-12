@@ -135,6 +135,24 @@ export const de: Catalogue = {
     pratiqueA: (lieu: string) => `Diese Leistung in ${lieu}`,
     pageGenerale: 'Alles über diese Leistung',
     autresServices: 'Weitere Leistungen der Praxis',
+    titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
+      `${nom}${chienEtChat ? ' für Hund und Katze' : ''} in ${lieu}${marque ? ' | Vetmint' : ''}`,
+    h1DansLeCabinet: (nom: string, lieu: string) => `${nom} in ${lieu}`,
+    descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
+      `${nom} in ${lieu} für ${especes}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
+    rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,
+    introDuCabinet: (lieu: string, enPhrase: string, especes: string) => `Die Praxis Vetmint ${lieu} bietet ${enPhrase} für ${especes} an.`,
+    especesDansUnePhrase: { chien: 'Hunde', chat: 'Katzen', nac: 'Heimtiere' },
+    veterinairesDuCabinet: (noms: string, _nombre: number) => `Tierärztliches Team der Praxis: ${noms}.`,
+    prixA: (lieu: string) => `Der Preis in ${lieu}`,
+    prestation: 'Leistung',
+    prix: 'Preis',
+    prixSelonLesExamens: 'Der Preis hängt von den gewählten Untersuchungen ab: Die Tierärztin oder der Tierarzt nennt ihn Ihnen, bevor die Behandlung beginnt.',
+    tousLesTarifs: 'Alle Preise der Praxis',
+    enBref: 'Die Leistung kurz erklärt',
+    toutLire: (enPhrase: string) => `Alles über ${enPhrase} lesen`,
+    replier: 'Text zuklappen',
+    ouverture: 'Text wird geöffnet …',
   },
 
   conseils: {

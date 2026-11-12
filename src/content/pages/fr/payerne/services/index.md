@@ -3,7 +3,7 @@ type: services-clinique
 clinique: payerne
 url: /payerne/services/
 title: "Services vétérinaires à Payerne | Vetmint"
-description: "Services vétérinaires à Payerne : chiens, chats et NAC. Consultation de 30 minutes à 57 francs, vaccins, chirurgie, dentaire et radiographie."
+description: "Services vétérinaires à Payerne : chiens, chats et NAC. Consultation de 30 minutes à {prix:consultation}, vaccins, chirurgie, dentaire et radiographie."
 h1: Les services à Payerne
 recherche: services vétérinaires Payerne
 redige_le: 2026-11-04
@@ -11,7 +11,7 @@ redige_le: 2026-11-04
 
 Les services vétérinaires du cabinet Vetmint Payerne se font à la route du Châtelard 13. Chaque soin a sa page. Elle dit comment il se passe ici, qui le pratique et ce qu'il coûte à Payerne.
 
-Claire-Lise Tinguely et Tiago Capelo se partagent les consultations et les opérations. Une consultation dure 30 minutes et coûte 57 francs. Le cabinet reçoit de 8 h à 18 h, sans pause à midi.
+Claire-Lise Tinguely et Tiago Capelo se partagent les consultations et les opérations. Une consultation dure 30 minutes et coûte {prix:consultation}. Le cabinet reçoit de 8 h à 18 h, sans pause à midi.
 
 ## Rendez-vous et tarifs
 

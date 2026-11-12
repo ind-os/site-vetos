@@ -25,11 +25,9 @@ interface Props {
   image?: ImageMetadata;
   balisage?: Record<string, unknown>[];
   noindex?: boolean;
-  /** L'adresse canonique, si ce n'est pas celle de la page. */
-  canonique?: string;
 }
 
-const { langue, titre, description, adresses, clinique, image, balisage, noindex, canonique } = Astro.props;
+const { langue, titre, description, adresses, clinique, image, balisage, noindex } = Astro.props;
 const n = textes(langue).navigation;
 const autreLangue = langue === 'fr' ? 'de' : 'fr';
 // Une page sans photo se partage avec la photo d'accueil de sa clinique, sinon celle du réseau.
@@ -40,7 +38,7 @@ const { entete, cliniques, pied, legal } = await navigationDe(langue, clinique);
 <!doctype html>
 <html lang={CODES_DE_LANGUE[langue]}>
   <head>
-    <TeteHtml langue={langue} titre={titre} description={description} adresses={adresses} image={imageDePartage} balisage={balisage} noindex={noindex} canonique={canonique} />
+    <TeteHtml langue={langue} titre={titre} description={description} adresses={adresses} image={imageDePartage} balisage={balisage} noindex={noindex} />
   </head>
   <body>
     <a class="lien-evitement" href="#contenu">{n.allerAuContenu}</a>

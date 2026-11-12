@@ -1,6 +1,7 @@
-// Les deux collections du site, vérifiées à chaque construction :
+// Les trois collections du site, vérifiées à chaque construction :
 // - « pages » : les textes, un fichier Markdown par page et par langue (docs/format-des-pages.md) ;
-// - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-clinique.md).
+// - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-clinique.md) ;
+// - « tarifs » : la grille des prix de chaque cabinet, un fichier JSON (docs/grille-des-prix.md).
 // Un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ,
 // dans un message en français.
 
@@ -8,6 +9,7 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 import { enMinutes, JOURS } from './lib/horaires.ts';
+import { valeursDe, type Grille } from './lib/prix.ts';
 import { TYPES_DE_PAGE } from './lib/types-de-page.ts';
 
 z.config(z.locales.fr());
@@ -47,6 +49,8 @@ const pages = defineCollection({
     ordre: z.number().optional(),
     resume: z.string().optional(),
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).optional(),
+    /** Le nom du soin dans une phrase, avec son article : « la radiographie », « das Röntgen ». Page commune d'un service. */
+    en_phrase: z.string().optional(),
   }),
 });
 
@@ -143,4 +147,37 @@ const cliniques = defineCollection({
   }),
 });
 
-export const collections = { pages, cliniques };
+/** Un montant : un nombre, une fourchette, ou un calcul sur d'autres clés de la grille. */
+const montant = z.union([
+  z.number().nonnegative(),
+  z.object({ min: z.number().nonnegative(), max: z.number().nonnegative() }).refine((f) => f.min < f.max, 'une fourchette dont le minimum est plus petit que le maximum'),
+  z.string().regex(/^[a-z0-9.-]+( [-+*\/] [a-z0-9.-]+)+$/, 'un calcul écrit avec des clés, des nombres et + - * /, entourés d\'espaces : « consultation + supplement »'),
+]);
+
+const tarifs = defineCollection({
+  // L'identifiant d'une grille est celui de son cabinet : src/donnees/tarifs/payerne.json.
+  loader: glob({ pattern: '*.json', base: './src/donnees/tarifs' }),
+  schema: z
+    .object({
+      /** Le jour depuis lequel les prix s'appliquent. */
+      valable_des: date,
+      prix: z.array(
+        z.object({
+          cle: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, 'une clé en minuscules et tirets : « sterilisation-chatte »'),
+          /** Le nom de la page commune du service : le prix s'affiche sur la page de ce service dans le cabinet. */
+          service: z.string().optional(),
+          libelle: texte,
+          montant,
+        }),
+      ),
+    })
+    .superRefine((grille, ctx) => {
+      try {
+        valeursDe(grille as Grille);
+      } catch (probleme) {
+        ctx.addIssue({ code: 'custom', message: (probleme as Error).message });
+      }
+    }),
+});
+
+export const collections = { pages, cliniques, tarifs };

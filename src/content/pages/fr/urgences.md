@@ -96,7 +96,7 @@ Téléphonez d'abord, même à cinq minutes du cabinet. L'équipe peut être en 
 
 ### Pourquoi le numéro de garde est-il payant ?
 
-Le prix à la minute finance la permanence des vétérinaires qui se relaient toute la nuit et le week-end. Une conversation de trois minutes coûte entre 6 et 9 francs selon la région.
+Le prix à la minute finance la permanence des vétérinaires qui se relaient toute la nuit et le week-end.
 
 ### Combien coûte une urgence ?
 

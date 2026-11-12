@@ -5,6 +5,7 @@ title: "Blutanalyse bei Hund und Katze: Dauer | Vetmint"
 description: "Blutanalyse bei Vetmint: Blutentnahme, Urin, Kot und Haut, die meisten Resultate noch während der Konsultation, Biopsien im externen Labor, acht Praxen."
 h1: "Blutanalyse: Blut, Urin, Haut und Biopsien"
 nom: Blutanalyse
+en_phrase: "die Blutanalyse"
 recherche: Blutanalyse Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

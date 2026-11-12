@@ -96,7 +96,7 @@ Rufen Sie zuerst an, auch wenn Sie fünf Minuten von der Praxis entfernt sind. D
 
 ### Warum kostet die Notfallnummer etwas?
 
-Der Preis pro Minute finanziert die ständige Bereitschaft der Tierärztinnen und Tierärzte, die sich die ganze Nacht und das Wochenende abwechseln. Ein Gespräch von drei Minuten kostet je nach Region zwischen 6 und 9 Franken.
+Der Preis pro Minute finanziert die ständige Bereitschaft der Tierärztinnen und Tierärzte, die sich die ganze Nacht und das Wochenende abwechseln.
 
 ### Was kostet ein Notfall?
 

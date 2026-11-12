@@ -5,6 +5,7 @@ title: "Tierärztliche Hausbesuche: Leistungen, Gebiet | Vetmint"
 description: "Tierärztliche Hausbesuche bei Vetmint: Konsultation, Impfungen und Routinebehandlungen bei Ihnen zu Hause, während der Öffnungszeiten der Praxis, nach Termin."
 h1: Tierärztliche Hausbesuche
 nom: Hausbesuche
+en_phrase: "Hausbesuche"
 recherche: Tierarzt Hausbesuch
 redige_le: 2026-11-10
 ordre: 12

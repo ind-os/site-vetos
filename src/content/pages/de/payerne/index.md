@@ -36,7 +36,7 @@ Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15
 - Das [digitale Röntgen](/de/payerne/leistungen/roentgen/) umfasst die offiziellen Aufnahmen von Hüften und Ellbogen für die Dysplasie-Untersuchung.
 - Der [Ultraschall](/de/payerne/leistungen/ultraschall/) von Bauch, Herz und Trächtigkeit erfolgt in der Praxis.
 - Die [stationäre Betreuung](/de/payerne/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen und Heimtiere in Käfigen auf, die der Dauer des Aufenthalts angepasst sind.
-- Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/payerne/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von 55 Franken.
+- Eine Tierärztin oder ein Tierarzt kommt für die [Hausbesuche](/de/payerne/leistungen/hausbesuche/) im Bezirk Broye zu Ihnen, mit einer Anfahrtspauschale von {prix:visite-domicile}.
 
 Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Nager, Frettchen, Vögel, Reptilien) werden in der Konsultation wie Hunde und Katzen empfangen. Die Seite [Chirurgie in Payerne](/de/payerne/leistungen/chirurgie/) beschreibt, wie ein Operationstag abläuft. Die Seite [Leistungen](/de/payerne/leistungen/) beschreibt jede Leistung, die in der Praxis erbracht wird.
 
@@ -58,7 +58,7 @@ Die Fahrzeiten aus der Broye und die Links zur Route stehen auf der Seite [Konta
 
 ## Im Notfall
 
-Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet 99 Franken Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
+Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet {prix:supplement-urgence-jour} Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
 
 Ausserhalb der Öffnungszeiten rufen Sie Vet'Urgences Fribourg an, den Notfalldienst von Vetmint in Givisiez, täglich von 8 Uhr bis Mitternacht geöffnet. Nach Mitternacht nennt Ihnen sein Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Ein Notfallzuschlag kommt zu den Behandlungen hinzu.
 
@@ -70,9 +70,9 @@ Die Anzeichen, bei denen Sie anrufen müssen, stehen auf der Seite [Notfall](/de
 
 ## Vorsorge, Preise und Abonnemente
 
-In Payerne kostet die Konsultation von 30 Minuten 57 Franken. Diese Zeit genügt, um Ihr Tier vollständig zu untersuchen, über Gewicht, Appetit und Verhalten zu sprechen und Ihre Fragen zu beantworten. Der Jahrescheck mit den Impfungen kostet 94 Franken für einen Hund und 75 Franken für ein Kaninchen. Für eine Katze kostet er 70 Franken, wenn sie drinnen lebt, und 98 Franken, wenn sie Freigang hat. Für Reisen kostet der Check mit der Tollwutimpfung 77 Franken.
+In Payerne kostet die Konsultation von 30 Minuten {prix:consultation}. Diese Zeit genügt, um Ihr Tier vollständig zu untersuchen, über Gewicht, Appetit und Verhalten zu sprechen und Ihre Fragen zu beantworten. Der Jahrescheck mit den Impfungen kostet {prix:bilan-chien} für einen Hund und {prix:bilan-lapin} für ein Kaninchen. Für eine Katze kostet er {prix:bilan-chat-interieur}, wenn sie drinnen lebt, und {prix:bilan-chat-exterieur}, wenn sie Freigang hat. Für Reisen kostet der Check mit der Tollwutimpfung {prix:bilan-rage}.
 
-Der Präventionsplan für Welpen oder Kätzchen kostet 515 Franken für ein Jahr. Er umfasst die Konsultationen nach Termin, die Impfungen, die Entwurmungen, den Mikrochip und den Pass; die Kastration oder Sterilisation kann dazukommen. Die [monatlichen Abonnemente](/de/payerne/abonnemente/) verteilen die Vorsorgebehandlungen eines erwachsenen Hundes oder einer erwachsenen Katze. Die Praxis akzeptiert Karten und TWINT.
+Der Präventionsplan für Welpen oder Kätzchen kostet {prix:plan-prevention} für ein Jahr. Er umfasst die Konsultationen nach Termin, die Impfungen, die Entwurmungen, den Mikrochip und den Pass; die Kastration oder Sterilisation kann dazukommen. Die [monatlichen Abonnemente](/de/payerne/abonnemente/) verteilen die Vorsorgebehandlungen eines erwachsenen Hundes oder einer erwachsenen Katze. Die Praxis akzeptiert Karten und TWINT.
 
 Alle Preise stehen auf der Seite [Preise](/de/payerne/preise/).
 

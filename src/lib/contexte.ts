@@ -1,18 +1,21 @@
 // Ce qu'un gabarit sait d'une page : sa langue, ses textes d'interface, son HTML avec les données
-// de la clinique, sa clinique, ses adresses dans les deux langues et son fil d'Ariane.
+// de la clinique et les prix de sa grille, sa clinique, ses adresses dans les deux langues et son
+// fil d'Ariane.
 
 import type { Langue } from '../config.ts';
 import { LANGUES } from '../config.ts';
 import { textes, type Catalogue } from '../i18n/index.ts';
 import { laClinique, lesCliniques, pointerVersLesSitesActuels, type Clinique } from './cliniques.ts';
 import { remplirLesDonnees } from './donnees-de-la-clinique.ts';
+import { laGrille } from './grilles.ts';
+import { remplacerLesPrixDuHtml } from './prix.ts';
 import { cleDe, langueDe, laPage, titreDe, type Page } from './pages.ts';
 
 export interface Contexte {
   page: Page;
   langue: Langue;
   t: Catalogue;
-  /** Le HTML du texte, avec les blocs de données remplis. */
+  /** Le HTML du texte, avec les blocs de données remplis et les jetons {prix:<cle>} remplacés. */
   html: string;
   clinique?: Clinique;
   /** L'adresse de la page dans chaque langue où elle existe. */
@@ -88,7 +91,10 @@ export async function contexteDe(page: Page): Promise<Contexte> {
   const t = textes(langue);
   const clinique = page.data.clinique ? await laClinique(page.data.clinique) : undefined;
   const cliniques = await lesCliniques();
-  const html = pointerVersLesSitesActuels(remplirLesDonnees(page.rendered?.html ?? '', cliniques, langue, page.id, clinique?.id), cliniques);
+  const grille = clinique ? await laGrille(clinique.id) : undefined;
+  const avecLesDonnees = remplirLesDonnees(page.rendered?.html ?? '', cliniques, langue, page.id, clinique?.id);
+  const avecLesPrix = grille ? remplacerLesPrixDuHtml(avecLesDonnees, grille.valeurs, langue) : avecLesDonnees;
+  const html = pointerVersLesSitesActuels(avecLesPrix, cliniques);
   const adresses: Contexte['adresses'] = {};
   for (const l of LANGUES) {
     const traduction = await laPage(l, cleDe(page));
