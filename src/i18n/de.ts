@@ -137,7 +137,7 @@ export const de: Catalogue = {
     autresServices: 'Weitere Leistungen der Praxis',
     titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
       `${nom}${chienEtChat ? ' für Hund und Katze' : ''} in ${lieu}${marque ? ' | Vetmint' : ''}`,
-    h1DansLeCabinet: (nom: string, lieu: string) => `${nom} in ${lieu}`,
+    h1DansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean) => `${nom}${chienEtChat ? ' für Hunde und Katzen' : ''} in ${lieu}`,
     descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
       `${nom} in ${lieu} für ${especes}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,

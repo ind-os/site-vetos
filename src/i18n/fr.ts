@@ -152,7 +152,7 @@ export const fr = {
     autresServices: 'Les autres soins du cabinet',
     titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
       `${nom}${chienEtChat ? ' chien et chat' : ''} à ${lieu}${marque ? ' | Vetmint' : ''}`,
-    h1DansLeCabinet: (nom: string, lieu: string) => `${nom} à ${lieu}`,
+    h1DansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean) => `${nom}${chienEtChat ? ' pour chiens et chats' : ''} à ${lieu}`,
     descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
       `${nom} à ${lieu} pour ${especes} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,

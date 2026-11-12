@@ -90,7 +90,7 @@ async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
             clinique: cabinet.id,
             url,
             title: titreDansLeCabinet(t, nom, cabinet.lieu, chienEtChat),
-            h1: t.services.h1DansLeCabinet(nom, cabinet.lieu),
+            h1: t.services.h1DansLeCabinet(nom, cabinet.lieu, chienEtChat),
             description: t.services.descriptionDansLeCabinet(nom, cabinet.lieu, especes, cabinet.telephone.affiche),
             recherche: t.services.rechercheDansLeCabinet(nom, cabinet.lieu),
           },
