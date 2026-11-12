@@ -9,16 +9,17 @@ Tout le site existe en français et en allemand. Le français est la langue de r
 | Une page | `src/content/pages/fr/<chemin>.md` | `src/content/pages/de/<chemin>.md`, même chemin, même nom de fichier |
 | Les textes de l'interface (menus, boutons, titres des blocs) | `src/i18n/fr.ts` | `src/i18n/de.ts`, mêmes clés |
 | Les textes d'une fiche de clinique (fonctions, accès, tarif de garde) | champ `fr` | champ `de` du même objet, dans `src/donnees/cliniques/<clinique>.json` |
+| Le libellé d'un prix | champ `libelle.fr` | champ `libelle.de`, dans `src/donnees/tarifs/<cabinet>.json` |
 | Le texte alternatif d'une photo | champ `alt.fr` | champ `alt.de`, dans `src/assets/images/catalogue.json` |
 
 Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/payerne/equipe.md`. Le lien « DE » ou « FR » de l'en-tête mène de l'une à l'autre. La construction s'arrête si une page n'a pas sa traduction, ou si une clé de `fr.ts` ou de `de.ts` manque dans l'autre.
 
 ## Écrire une page allemande
 
-1. Copier l'en-tête de la page française et traduire `title`, `description`, `h1`, `nom`, `recherche` et `resume`. `title` garde 60 caractères au plus ; `description` 150 à 160 caractères.
+1. Copier l'en-tête de la page française et traduire `title`, `description`, `h1`, `nom`, `recherche`, `resume` et `en_phrase` (sa forme allemande est dans [format-des-pages.md](format-des-pages.md)). `title` garde 60 caractères au plus ; `description` 150 à 160 caractères.
 2. Remplacer `url` par l'adresse allemande de la table ci-dessous.
 3. Garder tels quels `type`, `clinique`, `redige_le`, `especes` et `ordre`.
-4. Traduire le corps phrase par phrase, sans rien ajouter ni retirer. Les faits, les chiffres, les prix et les noms restent identiques.
+4. Traduire le corps phrase par phrase, sans rien ajouter ni retirer. Les faits, les chiffres et les noms restent identiques ; chaque jeton de prix, `{prix:<cle>}`, se recopie tel quel.
 5. Remplacer chaque lien interne par l'adresse allemande de la même page. Les liens `tel:`, `mailto:` et les adresses externes ne changent pas.
 6. Garder les blocs de données et leurs marqueurs `<!-- donnees: horaires -->` et `<!-- /donnees -->` ; traduire les lignes entre les marqueurs.
 7. Vérifier : `node outils/verifier-les-pages.mjs --doublons src/content/pages/de/<chemin>.md`.
@@ -29,15 +30,16 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 - Orthographe suisse : « ss » à la place de « ß » (« Strasse », « schliessen », « Grösse »).
 - Phrases courtes, comme en français. Pas de tiret d'incise, pas de point d'exclamation.
 - Les noms de lieu des cliniques restent en français : Payerne, Bussigny, Fribourg Ouest, Saint-Légier. Les cantons se traduisent : Waadt, Freiburg, Neuenburg. Les lacs aussi : Neuenburgersee, Genfersee.
-- Heures : « 8 Uhr », « 13.45 Uhr », « 8–12 Uhr ». Prix : « 57 Franken » dans une phrase, « CHF 57.– » dans un tableau.
+- Heures : « 8 Uhr », « 13.45 Uhr », « 8–12 Uhr ».
+- Prix : le même jeton qu'en français. Le site écrit le montant de la grille à la forme allemande ([grille-des-prix.md](grille-des-prix.md), « Les formes d'un montant »).
 - Les sigles se traduisent : CFF devient SBB.
 
 ## Le vocabulaire
 
 | Français | Allemand |
 |---|---|
-| clinique vétérinaire Vetmint Payerne | Tierarztpraxis Vetmint Payerne |
-| la clinique, les cliniques | die Praxis, die Praxen |
+| cabinet vétérinaire Vetmint Payerne | Tierarztpraxis Vetmint Payerne |
+| le cabinet, les cabinets | die Praxis, die Praxen |
 | vétérinaire | Tierärztin, Tierarzt ; au pluriel Tierärztinnen und Tierärzte |
 | assistante en médecine vétérinaire (AMV) | Tiermedizinische Praxisassistentin (TPA) |
 | consultation | Konsultation |
@@ -67,8 +69,6 @@ L'adresse allemande d'une page est l'adresse française précédée de `/de/`, a
 | `/` | `/de/` |
 | `/cabinets/` | `/de/praxen/` |
 | `/urgences/` | `/de/notfall/` |
-| `/tarifs/` | `/de/preise/` |
-| `/abonnements/` | `/de/abonnemente/` |
 | `/a-propos/` | `/de/ueber-uns/` |
 | `/remettre-un-cabinet/` | `/de/praxisuebergabe/` |
 | `/emploi/` | `/de/jobs/` |

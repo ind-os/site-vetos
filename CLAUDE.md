@@ -13,12 +13,15 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe e
 
 - `src/content/pages/fr/` et `src/content/pages/de/` : les textes, une page par fichier, dans chaque langue. `fr/payerne/equipe.md` est la page `/payerne/equipe/` ; `de/payerne/equipe.md` est sa traduction.
 - `src/donnees/cliniques/` : la fiche de chaque clinique. Horaires, fermetures, annonce, équipe, services, téléphone, rendez-vous.
+- `src/donnees/tarifs/` : la grille des prix de chaque cabinet. Chaque prix affiché sur le site en vient.
 - `src/i18n/fr.ts` et `src/i18n/de.ts` : les petits textes des menus et des boutons.
 - `src/assets/images/` : les photos et leur catalogue.
 - `src/composants/` : les blocs du site. La page `/styleguide/` les montre tous.
 - `docs/` : les règles du site. `docs/plan-des-pages.md` dit quelle page vit où. `docs/structure-des-pages.md` dit ce que contient chaque type de page, dans quel ordre et à quelle longueur. `docs/verifications.md` dit ce que le site vérifie tout seul.
 
-Ne modifie pas `Dockerfile`, `nginx.conf` ni `src/pages/healthz.json.ts` : ils servent à publier le site. `.github/` et `.claude/` te sont fermés, à une exception près : la skill `confirmer-les-faits-du-site` se retire elle-même une fois ses questions posées.
+Ne modifie pas `Dockerfile`, `nginx.conf`, `src/pages/healthz.json.ts` ni `.github/` : ils servent à publier le site.
+
+Ce fichier et le dossier `.claude/` (les skills, les réglages) sont la façon dont tu travailles sur ce site. Ils évoluent quand la personne le décide. Avant de les modifier, dis-lui en deux phrases ce qui change dans ta façon de travailler et pourquoi, puis attends son accord : Claude Code lui demande aussi de valider chaque modification.
 
 ## Au début de chaque conversation
 
@@ -51,16 +54,19 @@ Fais la modification qu'elle demande (geste 2), puis ouvre la page modifiée dan
 
 ### 2. Modifier le site
 
+Chaque information vit à un seul endroit : la fiche pour les horaires, la garde, l'équipe et les services ; la grille pour les prix ; la page commune d'un service pour son explication. Tu ne la recopies pas ailleurs : les pages l'affichent depuis cet endroit.
+
 Chaque modification se fait dans les deux langues : le français d'abord, puis la même chose en allemand. Les règles sont dans `docs/` ; lis le document du cas avant de modifier.
 
 - **Un horaire, une fermeture, une annonce en haut des pages d'une clinique** : la fiche de la clinique, `src/donnees/cliniques/<clinique>.json` (`docs/fiche-clinique.md`, « Les gestes courants »). Toutes les pages de la clinique suivent.
+- **Un prix** : son montant dans la grille du cabinet, `src/donnees/tarifs/<cabinet>.json` (`docs/grille-des-prix.md`, « Les gestes courants »), jamais dans une page. Chaque page qui l'affiche suit. Un prix de plus : une entrée dans la grille, puis son jeton dans le texte, dans les deux langues.
 - **Un texte d'une page** : son fichier dans `src/content/pages/fr/`, puis le même dans `src/content/pages/de/`. Suis la skill `rediger-une-page`.
 - **Une nouvelle page** : un nouveau fichier dans chaque langue, au chemin que donne `docs/plan-des-pages.md`, avec les sections que donne `docs/structure-des-pages.md`. Suis la skill `rediger-une-page`.
-- **Un prix, un numéro ou un fait qui apparaît sur plusieurs pages** : cherche chaque endroit dans les deux langues, `grep -rn "<valeur>" src/content/pages src/donnees`, et corrige partout. Un horaire ou un numéro de garde se change dans la fiche, jamais dans les pages.
+- **Un numéro ou un fait qui apparaît sur plusieurs pages** : cherche chaque endroit dans les deux langues, `grep -rn "<valeur>" src/content/pages src/donnees`, puis corrige partout. Un horaire ou un numéro de garde se change dans la fiche, jamais dans les pages.
 - **Un texte d'un menu ou d'un bouton** : `src/i18n/fr.ts` et la même clé dans `src/i18n/de.ts`.
 - **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
 - **Une personne qui arrive ou qui part** : la fiche de la clinique et sa photo (`docs/fiche-clinique.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
-- **Un service en plus ou en moins dans une clinique** : la liste `services` de la fiche (`docs/fiche-clinique.md`, « Les gestes courants »). Sa page dans la clinique reprend toute seule la page commune du service, dans les deux langues.
+- **Un service** : en plus ou en moins dans un cabinet, la liste `services` de sa fiche (`docs/fiche-clinique.md`, « Les gestes courants ») ; sa page dans le cabinet se fabrique seule, avec ses prix et son explication (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Son explication se corrige dans sa page commune, `services/<service>.md`, dans les deux langues, avec la skill `rediger-une-page` : la correction vaut pour tous les cabinets.
 - **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 

@@ -54,7 +54,7 @@ L'entrée du catalogue :
 {
   "fichier": "payerne-locaux-entree.jpg",
   "sujet": "payerne:locaux",
-  "alt": { "fr": "L'entrée de plain-pied de la clinique de Payerne", "de": "Der ebenerdige Eingang der Praxis in Payerne" },
+  "alt": { "fr": "L'entrée de plain-pied du cabinet de Payerne", "de": "Der ebenerdige Eingang der Praxis in Payerne" },
   "point_focal": { "x": 0.5, "y": 0.4 },
   "source": "https://…"
 }
@@ -64,7 +64,7 @@ L'entrée du catalogue :
 |---|---|
 | `fichier` | le nom du fichier dans `src/assets/images/` |
 | `sujet` | ce que les gabarits demandent : `accueil`, `espece:chien`, `service:<service>`, `conseil:<conseil>` ; pour une clinique, `<clinique>:accueil`, `<clinique>:locaux` (l'entrée, la réception, une façade), `<clinique>:service:<service>`, `<clinique>:equipe:<Prénom Nom>` avec le nom tel qu'il est dans la fiche. La construction refuse un sujet qui nomme une clinique ou une personne absente des fiches |
-| `alt` | ce que montre la photo, en français et en allemand : « La salle de radiographie de la clinique de Payerne » |
+| `alt` | ce que montre la photo, en français et en allemand : « La salle de radiographie du cabinet de Payerne » |
 | `point_focal` | le point à garder visible quand la photo est recadrée, `x` et `y` de 0 à 1 depuis le coin haut gauche ; absent, le centre |
 | `source` | facultatif : d'où vient la photo |
 

@@ -4,6 +4,8 @@ Chaque clinique a sa fiche, `src/donnees/cliniques/<clinique>.json`. Elle porte 
 
 Les horaires, le statut d'ouverture, les fermetures, le bandeau et le numéro de garde s'affichent par un seul fichier, `src/lib/donnees-de-la-clinique.ts` ; `src/lib/balisage.ts` lit aussi les horaires de la fiche pour les moteurs de recherche.
 
+Les prix ne sont pas dans la fiche : ils vivent dans la grille des prix, `src/donnees/tarifs/<clinique>.json` ([grille-des-prix.md](grille-des-prix.md)). Seul le coût à la minute d'un numéro de garde en 0900 s'écrit dans la fiche, dans le champ `garde`.
+
 ## Les champs
 
 | Champ | Contenu |
@@ -16,9 +18,9 @@ Les horaires, le statut d'ouverture, les fermetures, le bandeau et le numéro de
 | `telephone`, `whatsapp` | `{ "affiche": "026 660 16 16", "international": "+41266601616" }` ; `whatsapp` seulement si la clinique en a un |
 | `email` | l'adresse de la clinique |
 | `especes` | `chien`, `chat`, `nac` |
-| `services` | les services pratiqués sur place, par le nom de leur page commune : chacun a sa page `/<clinique>/services/<service>/`, reprise de la page commune, et son lien dans le menu Services de la clinique |
+| `services` | les services pratiqués sur place, par le nom de leur page commune : chacun a sa page `/<clinique>/services/<service>/` et son lien dans le menu Services de la clinique ; le site fabrique la page ([structure-des-pages.md](structure-des-pages.md), « Un service dans le cabinet ») |
 | `urgences` | `true` si la clinique reçoit les urgences : elle a alors sa page Urgences |
-| `equipe` | une entrée par personne : `nom`, `titre`, `fonction` (dans les deux langues), `langues` (`fr`, `de`, `en`…), `domaines` |
+| `equipe` | une entrée par personne : `nom`, `titre`, `fonction` (dans les deux langues), `langues` (`fr`, `de`, `en`…), `domaines`. La page de chaque service nomme les personnes dont la fonction commence par « Vétérinaire » |
 | `acces` | `repere`, `parking`, `transports`, `accessibilite`, dans les deux langues ; les trois premiers s'affichent sur l'accueil et le contact, `accessibilite` sert à écrire l'accès de plain-pied de la page Contact |
 | `communes` | les communes d'où viennent les clients ; aucun gabarit ne les affiche, elles servent à écrire « D'où viennent nos clients » sur l'accueil et le contact |
 | `horaires` | les plages de chaque jour, `"lundi": ["08:00-12:00", "14:00-18:00"]`, heures de 00 à 24, début avant fin, dans l'ordre qu'on veut ; un jour vide est fermé |
@@ -37,5 +39,5 @@ Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }
 - **Poser une annonce** : remplir `bandeau` avec sa date de fin. Elle s'affiche en haut de chaque page de la clinique jusqu'à cette date. La remettre à `null` pour la retirer.
 - **Ajouter une personne** : ajouter une entrée dans `equipe`, puis sa photo au catalogue, sujet `<clinique>:equipe:<nom>` ([charte-graphique.md](charte-graphique.md), « Le catalogue des photos »). Son portrait s'écrit sur la page Équipe, dans les deux langues.
 - **Retirer une personne** : retirer son entrée de `equipe`, sa photo du catalogue et du dossier des images, puis son portrait de la page Équipe, dans les deux langues.
-- **Ajouter un service** : l'ajouter à `services`, par le nom de sa page commune. Sa page dans la clinique et son lien dans le menu apparaissent seuls, avec le texte de la page commune.
+- **Ajouter un service** : l'ajouter à `services`, par le nom de sa page commune. Sa page dans la clinique et son lien dans le menu apparaissent seuls. Ses prix sont ceux de la grille qui portent ce `service` ([grille-des-prix.md](grille-des-prix.md)).
 - **Retirer un service** : le retirer de `services`. Sa page dans la clinique disparaît ; `pnpm verifier` signale les liens des autres pages qui y menaient.

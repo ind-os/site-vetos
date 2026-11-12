@@ -25,10 +25,11 @@ Passe chaque point, et note ce qui s'écarte des conventions :
 
 1. **La structure des pages** : pour chaque type de page, compare deux ou trois pages avec son plan dans `docs/structure-des-pages.md`. Les sections attendues sont là, dans l'ordre ; une section de plus ou de moins est notée.
 2. **Les blocs** : un style répété dans trois blocs de `src/composants/` ou de `src/gabarits/` (même cadre, même grille, mêmes marges) ; un mouvement au survol (`transform`, `translate`, `scale`, `rotate`) ; une valeur écrite en dur là où un jeton de `src/styles/charte.css` existe.
-3. **Les faits** : un prix, un numéro de téléphone, une adresse ou un horaire qui diffère entre la fiche d'une clinique et ses textes, ou entre deux pages. `grep -rn "<nombre>" src/content/pages src/donnees` sur chaque prix et chaque numéro des pages Tarifs, Urgences et Contact.
-4. **Ce que rien n'utilise** : une clé de `src/i18n/fr.ts` qu'aucun composant ni gabarit ne lit ; une photo de `src/assets/images/catalogue.json` dont le sujet n'est demandé par aucune page ni aucun gabarit ; un bloc de `src/composants/` que rien n'importe hors du styleguide.
-5. **Les renvois** : un commentaire du code, une doc ou une skill qui cite un fichier, une section ou une commande qui n'existe pas.
-6. **Les deux langues** : une page dont la traduction n'a pas le même nombre de sections, de liens ou de blocs de données.
+3. **Les faits** : un numéro de téléphone, une adresse ou un horaire qui diffère entre la fiche d'une clinique et ses textes, ou entre deux pages. `grep -rn "<nombre>" src/content/pages src/donnees` sur chaque numéro des pages Urgences et Contact. Les prix viennent de la grille de chaque cabinet : la page `/grille-des-prix/` montre chaque prix et les pages qui l'affichent ; un prix affiché sur aucune page se signale.
+4. **Les pages de service des cabinets** : ouvre-en deux par cabinet. Le premier paragraphe de la page commune se lit seul, les prix du soin sont ceux de la grille, « Tout lire » déplie le texte.
+5. **Ce que rien n'utilise** : une clé de `src/i18n/fr.ts` qu'aucun composant ni gabarit ne lit ; une photo de `src/assets/images/catalogue.json` dont le sujet n'est demandé par aucune page ni aucun gabarit ; un bloc de `src/composants/` que rien n'importe hors du styleguide.
+6. **Les renvois** : un commentaire du code, une doc ou une skill qui cite un fichier, une section ou une commande qui n'existe pas.
+7. **Les deux langues** : une page dont la traduction n'a pas le même nombre de sections, de liens ou de blocs de données.
 
 ## 4. Rapporter
 

@@ -40,7 +40,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 | `rendez-vous` | rendez-vous | bouton du module de réservation et téléphone |
 | `questions-frequentes` | questions fréquentes | chaque question ### en accordéon |
 | `urgences` | urgences de la clinique | numéro de garde et tarif en premier |
-| `service-clinique` | un service dans une clinique | le texte de la page commune, photo, carte de la clinique, autres soins |
+| `service-clinique` | un service dans un cabinet | toute la page, sans texte écrit : le chapeau tiré de la fiche, le rendez-vous, les prix de la grille, le soin en bref, les autres soins ; photo, carte du cabinet à côté ([structure-des-pages.md](structure-des-pages.md), « Un service dans le cabinet »). Autour d'une page écrite pour un soin propre au cabinet : photo, carte du cabinet, autres soins |
 
 ## Les pages communes
 
@@ -61,7 +61,7 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 
 Les services, dans l'ordre du champ `ordre` : prevention, chirurgie, chirurgie-orthopedique, dentisterie, radiographie, echographie, endoscopie, hospitalisation, analyses-sanguines, laser, nac, visites-a-domicile. Les urgences n'ont pas de page de service : la liste des services et le menu mènent à `/urgences/`. Les anciennes adresses (consultation, vaccins, puce, stérilisation, éleveurs, douleur, soins dentaires, analyses, soins à domicile) renvoient vers la page qui les a reprises (`astro.config.mjs`).
 
-## Les pages d'une clinique
+## Les pages d'un cabinet
 
 Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa fiche, `src/donnees/cliniques/<clinique>.json` ([fiche-clinique.md](fiche-clinique.md)). Toute clinique a les mêmes pages, dans les deux langues :
 
@@ -76,14 +76,24 @@ Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa f
 | `/<clinique>/rendez-vous/` | `rendez-vous.md` | `rendez-vous` |
 | `/<clinique>/questions-frequentes/` | `questions-frequentes.md` | `questions-frequentes` |
 | `/<clinique>/urgences/` | `urgences.md`, si la fiche dit `"urgences": true` | `urgences` |
-| `/<clinique>/services/<service>/` | aucun fichier : la page commune `services/<service>.md`, reprise pour chaque service du champ `services` de la fiche | `service-clinique` |
+| `/<clinique>/services/<service>/` | aucun fichier : le site fabrique la page pour chaque service du champ `services` de la fiche | `service-clinique` |
 
-Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Les pages de service d'une clinique se fabriquent toutes seules, depuis la liste `services` de sa fiche et les pages communes. Une clinique peut avoir une page de service écrite, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
+Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Les pages de service d'une clinique se fabriquent toutes seules, depuis sa fiche, sa grille des prix ([grille-des-prix.md](grille-des-prix.md)) et la page commune de chaque service (`src/lib/pages.ts`). Une clinique peut avoir une page de service écrite, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
+
+## Les pages internes et les textes des soins
+
+Le site fabrique aussi, sans fichier Markdown, des adresses qui ne sont pas des pages du site public. Aucune n'est dans le plan du site ; `robots.txt` les ferme aux moteurs de recherche.
+
+| Adresse | Ce qu'elle montre |
+|---|---|
+| `/styleguide/` | chaque bloc du site ([charte-graphique.md](charte-graphique.md)) |
+| `/grille-des-prix/` | les grilles des prix de tous les cabinets, avec les pages qui affichent chaque prix ([grille-des-prix.md](grille-des-prix.md)) |
+| `/textes-des-soins/<langue>/<service>.html` | le texte de la page commune d'un service, sans son chapeau ni ses sections qui mènent aux cabinets. Un morceau de page, sans en-tête ni menu, que la page du service dans un cabinet charge au clic ([structure-des-pages.md](structure-des-pages.md), « Un service dans le cabinet ») |
 
 ## Ce que le site vérifie
 
-À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, une clinique en ligne incomplète ou un service sans page commune, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
+À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, une clinique en ligne incomplète, un service sans page commune ou un jeton de prix absent de la grille, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
 
-## Les cliniques pas encore en ligne
+## Les cabinets pas encore en ligne
 
 Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. Leurs pages peuvent déjà être écrites : la prévisualisation les construit et les montre ; la construction du site en ligne les laisse de côté, ni page, ni plan du site, ni traduction exigée, tant que la fiche dit `"en_ligne": false`. La procédure est dans la skill `mettre-une-clinique-en-ligne`.

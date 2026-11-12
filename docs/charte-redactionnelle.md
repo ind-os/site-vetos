@@ -1,6 +1,6 @@
 # Charte de rédaction
 
-Règles d'écriture de tous les textes de vetmint.ch : les pages communes au groupe et les pages des huit cliniques. Le français est la langue de rédaction ; l'allemand en est la traduction ([traduction.md](traduction.md)). Le format du fichier est dans [format-des-pages.md](format-des-pages.md), les sections de chaque type de page dans [structure-des-pages.md](structure-des-pages.md), l'emplacement de chaque page dans [plan-des-pages.md](plan-des-pages.md).
+Règles d'écriture de tous les textes de vetmint.ch : les pages communes au groupe et les pages des huit cabinets. Le français est la langue de rédaction ; l'allemand en est la traduction ([traduction.md](traduction.md)). Le format du fichier est dans [format-des-pages.md](format-des-pages.md), les sections de chaque type de page dans [structure-des-pages.md](structure-des-pages.md), l'emplacement de chaque page dans [plan-des-pages.md](plan-des-pages.md).
 
 1. La voix
 2. Le vocabulaire
@@ -20,7 +20,7 @@ Un texte Vetmint est écrit par des gens qui soignent des animaux tous les jours
 - **Le propriétaire comme interlocuteur.** Le texte répond aux questions qu'il se pose, avec ses mots, sans le flatter ni lui faire la leçon. Les intertitres reprennent la question telle qu'elle se pose au comptoir : « Mon chat est-il en surpoids ? ».
 - **La consigne nette quand la santé de l'animal en dépend.** « Ne mettez jamais un lapin à jeun avant une opération. »
 - **Le chiffre et le délai précis.** « Le vaccin contre la rage doit dater de 21 jours au moins le jour du voyage. »
-- **Ce qu'un prix comprend.** « La stérilisation d'une chatte coûte 260 francs. Ce prix comprend l'examen avant l'anesthésie, l'anesthésie gazeuse avec perfusion et surveillance, l'opération, l'anti-inflammatoire et le traitement de la douleur. »
+- **Ce qu'un prix comprend.** « La stérilisation d'une chatte coûte {prix:sterilisation-chatte}. Ce prix comprend l'examen avant l'anesthésie, l'anesthésie gazeuse avec perfusion et surveillance, l'opération, l'anti-inflammatoire et le traitement de la douleur. »
 - **La franchise sur les limites.** Le texte dit ce qu'un soin ne fait pas, ce qu'il coûte et quand il est frustrant : « Le traitement n'élimine pas le parasite. Il l'endort et évite la contamination des autres lapins. »
 - **Les repères locaux.** Parking, arrêt de bus, sortie d'autoroute, étage, accès en fauteuil roulant, commerce voisin, communes d'où viennent les clients.
 
@@ -28,22 +28,22 @@ Un texte Vetmint est écrit par des gens qui soignent des animaux tous les jours
 
 | À éviter | À écrire |
 |---|---|
-| Votre partenaire santé, au service de vos animaux. | Clinique vétérinaire pour chiens, chats et lapins à Bussigny. Consultations de 30 minutes, sur rendez-vous. |
+| Votre partenaire santé, au service de vos animaux. | Cabinet vétérinaire pour chiens, chats et lapins à Bussigny. Consultations de 30 minutes, sur rendez-vous. |
 | Formés et expérimentés, tous les membres de l'équipe prodiguent des soins de qualité. | Deux vétérinaires et trois assistantes en médecine vétérinaire reçoivent chiens, chats, lapins et rongeurs. |
-| Un matériel à la pointe de la technologie. | La clinique dispose d'une radiographie numérique et d'analyseurs sanguins : la plupart des résultats sont connus pendant la consultation. |
+| Un matériel à la pointe de la technologie. | Le cabinet dispose d'une radiographie numérique et d'analyseurs sanguins : la plupart des résultats sont connus pendant la consultation. |
 | Votre animal mérite le meilleur ! | La consultation dure 30 minutes : le temps d'examiner votre animal en entier. |
 | Vous trouverez sur cette page notre offre NAC. Cliquez ici pour nous écrire. | Écrire à payerne@vetmint.ch |
 | Biopsies, envoi au laboratoire. | Nous prélevons les biopsies sur place et les envoyons à un laboratoire externe. Le résultat arrive en cinq à sept jours ouvrables. |
 | Si un lapin ne mange pas depuis plus de 6h c'est urgent. | Un lapin qui ne mange plus ou ne fait plus de crottes depuis six heures est une urgence. Appelez sans attendre le lendemain. |
-| NOUVEAU : ouverture le jeudi jusqu'à 20 h ! | Le jeudi, la clinique ferme à 20 h. |
+| NOUVEAU : ouverture le jeudi jusqu'à 20 h ! | Le jeudi, le cabinet ferme à 20 h. |
 | CONTACTEZ-NOUS | Nous contacter |
 | votre compagnon à quatre pattes | votre chien |
 
 ### 1.3 Qui parle
 
 - Le texte vouvoie le propriétaire, partout, portraits d'équipe compris.
-- Sur les pages d'une clinique, « nous » est l'équipe de cette clinique ; « Vetmint » est nommé quand on parle du groupe (tarifs communs, autres cliniques). Sur les pages communes, « nous » est Vetmint et « nos cliniques » désigne les huit.
-- Le lieu de soins s'appelle « clinique », jamais « cabinet ». On écrit « la clinique Vetmint Bussigny », « la clinique vétérinaire Vetmint de Payerne », puis « la clinique ».
+- Sur les pages d'un cabinet, « nous » est l'équipe de ce cabinet ; « Vetmint » est nommé quand on parle du groupe ou des autres cabinets. Sur les pages communes, « nous » est Vetmint et « nos cabinets » désigne les huit.
+- Le lieu de soins s'appelle « cabinet », jamais « clinique » (2.4). On écrit « le cabinet Vetmint Bussigny », « le cabinet vétérinaire Vetmint Payerne », puis « le cabinet ».
 - La chaleur passe par l'attention aux détails qui comptent pour le propriétaire (le temps pris, le prix annoncé, le parking, le coup de fil du lendemain) et par le « vous » direct, pas par des formules. « Nous nous réjouissons de vous rencontrer » reste possible une fois, à la fin d'un portrait.
 
 ### 1.4 L'animal
@@ -52,19 +52,21 @@ L'espèce quand elle est connue (« votre chat », « votre chienne »), « votr
 
 ### 1.5 Les personnes
 
-- Prénom, nom et fonction : « Louise Schneider, vétérinaire ». « Dr » ou « Dre » seulement si la personne porte un doctorat et le souhaite. Même règle dans les huit cliniques.
+- Prénom, nom et fonction : « Louise Schneider, vétérinaire ». « Dr » ou « Dre » seulement si la personne porte un doctorat et le souhaite. Même règle dans les huit cabinets.
 - Le chapeau d'une page Équipe est à la troisième personne. Un portrait peut être à la première personne quand la personne l'a écrit ou validé.
-- Un portrait dit le parcours, ce que la personne fait à la clinique, les animaux qu'elle suit de préférence, les langues qu'elle parle, puis une ou deux phrases personnelles. Un portrait sans photo reste un portrait.
+- Un portrait dit le parcours, ce que la personne fait au cabinet, les animaux qu'elle suit de préférence, les langues qu'elle parle, puis une ou deux phrases personnelles. Un portrait sans photo reste un portrait.
 
 ### 1.6 Ce que les pages ne contiennent pas
 
 - **Aucun slogan.** Sous un titre, une phrase de fait.
-- **Aucun avis client.** Les fiches Google des cliniques les portent.
-- **Aucune actualité datée.** Ni « nouveau », ni « désormais », ni « dès maintenant », ni « cette année ». La page décrit l'état présent ; une annonce passe par le bandeau de la fiche de la clinique ([fiche-clinique.md](fiche-clinique.md)).
+- **Aucun avis client.** Les fiches Google des cabinets les portent.
+- **Aucune actualité datée.** Ni « nouveau », ni « désormais », ni « dès maintenant », ni « cette année ». La page décrit l'état présent ; une annonce passe par le bandeau de la fiche du cabinet ([fiche-clinique.md](fiche-clinique.md)).
 - **Aucune phrase sur la page elle-même.** Le lien porte sur l'action ou l'objet : « Prendre rendez-vous », « Le plan de prévention chiot ».
 - **Aucun texte qui parle de Vetmint au lieu de parler au propriétaire.** « Le plan de prévention chiot couvre pendant un an les consultations, les vaccins, les vermifuges, la puce électronique et le passeport de votre chiot », pas « notre philosophie nous pousse à proposer toujours plus de prévention ».
-- **Une marque seulement quand elle est le conseil réel de la clinique**, introduite par « par exemple ». Pas de liste de marques d'aliments ou de compléments. Un lien externe mène à un site de référence tenu par des vétérinaires ou une association reconnue, qu'il nomme.
-- **Aucun prix sur une page commune** (accueil, services, conseils, urgences, à propos) : la page ne dit pas que les prix diffèrent d'un cabinet à l'autre. Elle dit de quoi dépend le prix, précise « sur devis, au cabinet » quand le prix dépend du cas, et renvoie vers la page Tarifs du cabinet, par la liste des cabinets (`/cabinets/`). Les prix restent sur les pages de chaque cabinet : Tarifs, Abonnements, services, urgences. Seule exception : le coût à la minute d'un numéro de garde en 0900, qui s'affiche à côté du numéro.
+- **Une marque seulement quand elle est le conseil réel du cabinet**, introduite par « par exemple ». Pas de liste de marques d'aliments ou de compléments. Un lien externe mène à un site de référence tenu par des vétérinaires ou une association reconnue, qu'il nomme.
+- **Aucune comparaison entre cabinets sur une page commune** : ni équipement, ni espace, ni prix, ni service en plus dans un cabinet. Une page commune nomme seulement les cabinets où se fait un soin que les autres ne font pas, pour que le propriétaire sache où aller.
+- **Aucun montant sur une page commune** (accueil, services, conseils, urgences, à propos). La page dit de quoi dépend le prix, précise « sur devis, au cabinet » quand le prix dépend du cas, puis renvoie vers la page Tarifs du cabinet, par la liste des cabinets (`/cabinets/`).
+- **Sur une page d'un cabinet, un montant s'écrit uniquement par son jeton** `{prix:<cle>}`, qui affiche le prix de la grille du cabinet ([grille-des-prix.md](grille-des-prix.md)). Seule exception, sur toutes les pages : le coût à la minute d'un numéro de garde en 0900, écrit dans la fiche du cabinet et affiché à côté du numéro.
 
 ## 2. Le vocabulaire
 
@@ -168,7 +170,7 @@ Le script `outils/verifier-les-pages.mjs` signale la plupart d'entre eux.
 ### 2.4 Les orthographes de référence
 
 - vétérinaire, vétérinaires (jamais « véterinaire », « veterinaire ») ; assistante en médecine vétérinaire (AMV)
-- cabinet, cabinet vétérinaire, pour chaque lieu Vetmint ; en allemand Praxis, Tierarztpraxis. Jamais « clinique » ni « Klinik » pour un lieu Vetmint : l'appellation est protégée. Le mot reste pour un autre établissement (« une clinique de référence ») et pour l'adjectif médical (« l'examen clinique »). Attention aux accords : « le cabinet est ouvert », « il vous rappelle ». L'adresse de la liste des cabinets est `/cabinets/`.
+- cabinet, cabinet vétérinaire, pour chaque lieu Vetmint ; en allemand Praxis, Tierarztpraxis. Jamais « clinique » ni « Klinik » pour un lieu Vetmint : l'appellation est protégée. Le mot reste pour un autre établissement (« une clinique de référence ») et pour l'adjectif médical (« l'examen clinique »). Attention aux accords : « le cabinet est ouvert », « il vous rappelle ». L'adresse de la liste des cabinets est `/cabinets/`. Le code garde le nom `clinique` pour un cabinet : le champ `clinique` de l'en-tête, les fiches de `src/donnees/cliniques/`, les types `accueil-clinique`, `services-clinique` et `service-clinique`. Ces noms ne s'affichent jamais.
 - Vetmint (jamais « VetMint », « VETMINT ») ; les raisons sociales « Vetmint Bussigny SA », « Vetmint Payerne SA » restent dans le pied de page et les mentions légales
 - coryza, typhus, leucose, parvovirose, leptospirose, maladie de Carré, hépatite contagieuse, rage
 - rez-de-chaussée, hospitalisation, annulation, e-mail, WhatsApp, TWINT
@@ -176,27 +178,27 @@ Le script `outils/verifier-les-pages.mjs` signale la plupart d'entre eux.
 - Dr, Dre (sans point) ; méd. vét. ; Vetsuisse ; ANIS ; AMICUS
 - *Encephalitozoon cuniculi*, *Oryctolagus cuniculus* (noms latins en italique)
 
-Les cliniques :
+Les cabinets :
 
 | Nom | Ne pas écrire |
 |---|---|
 | Bussigny | |
 | La Chaux-de-Fonds | La Chaux de fonds, Chaux-de-fonds, CDF (sauf dans l'adresse e-mail cdf@vetmint.ch) |
 | Domdidier | |
-| Fribourg Ouest (la clinique est à Givisiez) | Fribourg-Ouest, Fribourg seul dans un titre |
-| Lac-de-Joux (la clinique est à L'Abbaye) | Lac de Joux, lac-de-Joux |
+| Fribourg Ouest (le cabinet est à Givisiez) | Fribourg-Ouest, Fribourg seul dans un titre |
+| Lac-de-Joux (le cabinet est à L'Abbaye) | Lac de Joux, lac-de-Joux |
 | Payerne | |
 | Saint-Blaise | St-Blaise |
 | Saint-Légier (commune de Saint-Légier-La Chiésaz) | St-Légier, Saint-Legier, Saint-Légier-La-Chiésaz |
 
-Les adresses, téléphones et e-mails des cliniques sont dans leur fiche (`src/donnees/cliniques/<clinique>.json`), qui fait foi.
+Les adresses, téléphones et e-mails des cabinets sont dans leur fiche (`src/donnees/cliniques/<clinique>.json`), qui fait foi.
 
 ## 3. La typographie
 
 - Une espace insécable avant « : », « ; », « ! », « ? » et à l'intérieur des guillemets « ». Dans un fichier Markdown, l'espace insécable est le caractère U+00A0.
 - Guillemets français « » ; apostrophe droite ' dans les fichiers.
 - Nombres : espace insécable comme séparateur de milliers (1 200), virgule décimale (1,70).
-- Prix : « 58 francs » dans une phrase, « 58 CHF » dans un tableau ou une liste de tarifs, « 1,70 franc la minute » pour un numéro surtaxé. Jamais « Fr. », « .- », « CHF 58.- ».
+- Prix : la forme est posée par le site. Le texte écrit le jeton du prix ; le site affiche le montant de la grille du cabinet, à la forme d'une phrase ou d'un tableau ([grille-des-prix.md](grille-des-prix.md), « Les formes d'un montant »). Le coût à la minute d'un numéro de garde, seul montant tapé, suit la forme du même document.
 - Heures : « 8 h », « 8 h 30 », « de 7 h 30 à 12 h », « lundi à vendredi ». Jamais « 08h00 », « 8.00 », « 08.00 – 12.00 ».
 - Dates : « 29 avril 2025 ».
 - Téléphones : « 021 703 25 30 » à l'écran, lien `tel:+41217032530`. Numéros de garde : « 0900 80 70 60 », lien `tel:0900807060`.
@@ -210,22 +212,22 @@ Un fait ne s'invente jamais : un nom de personne, un diplôme, un prix, un horai
 
 - Un fait qui manque se demande à la personne. Si elle ne le connaît pas, la phrase est retirée ; le texte ne garde jamais de blanc à remplir.
 - Deux sources qui se contredisent : on demande à la personne laquelle est juste ; on ne choisit pas la plus plausible.
-- Un fait d'une clinique ne vaut pas pour une autre : la description des locaux de Saint-Légier ne décrit pas Bussigny.
-- Une explication médicale s'écrit à partir des connaissances vétérinaires courantes, au conditionnel de la pratique (« en général », « selon le protocole choisi par le vétérinaire »), sans marque de produit ni dose. Une fréquence, un âge ou un délai propre à une clinique (jour d'opération, heure de retour à la maison, délai de rendez-vous) est un fait local : il se demande.
+- Un fait d'un cabinet ne vaut pas pour un autre : la description des locaux de Saint-Légier ne décrit pas Bussigny.
+- Une explication médicale s'écrit à partir des connaissances vétérinaires courantes, au conditionnel de la pratique (« en général », « selon le protocole choisi par le vétérinaire »), sans marque de produit ni dose. Une fréquence, un âge ou un délai propre à un cabinet (jour d'opération, heure de retour à la maison, délai de rendez-vous) est un fait local : il se demande.
 
 ## 5. Le référencement
 
 « Script » signifie que `outils/verifier-les-pages.mjs` contrôle la règle ([verifications.md](verifications.md)).
 
 - **Une recherche par page.** L'en-tête nomme l'expression visée (`recherche`), par exemple « radiographie chien Payerne ». Elle apparaît dans le title, dans le H1 ou sa première phrase, puis dans le premier paragraphe, en français naturel, sans répétition forcée.
-- **Le title fait 60 caractères au plus** et contient le sujet et le lieu sur une page d'une clinique, le sujet et « Vetmint » sur une page commune. Script.
+- **Le title fait 60 caractères au plus** et contient le sujet et le lieu sur une page d'un cabinet, le sujet et « Vetmint » sur une page commune. Script.
 - **La description fait 150 à 160 caractères**, propre à la page : le fait principal et une raison de cliquer, sans slogan. Script.
-- **Un seul H1**, qui nomme le sujet et, sur une page d'une clinique, la ville. Il vient de l'en-tête ; le corps commence par un H2 et les niveaux se suivent sans saut. Script.
+- **Un seul H1**, qui nomme le sujet et, sur une page d'un cabinet, la ville. Il vient de l'en-tête ; le corps commence par un H2 et les niveaux se suivent sans saut. Script.
 - **Un intertitre toutes les 200 à 300 mots.** Script.
 - **Des phrases courtes** : vingt mots en moyenne, trente au plus sauf énumération. Script.
 - **Le volume est dans la fourchette du type de page** ([structure-des-pages.md](structure-des-pages.md)). Il vient des faits et des questions réelles, jamais de la répétition : si les faits manquent, la page reste courte. Script.
-- **Aucune page ne partage plus de 20 % de son texte avec une autre.** Une page d'une clinique ne reprend jamais un paragraphe d'une autre clinique en changeant la ville. Script.
-- **Une page d'une clinique contient au moins cinq faits qui ne valent que pour elle** : adresse, repère, parking, transports, communes, noms de l'équipe, jours, équipements.
-- **Les liens internes** sont relatifs et suivent le plan : les pages d'une clinique renvoient vers son rendez-vous, ses pages de service et les pages communes ; la page d'un service dans une clinique renvoie à la page commune du service ; une page commune de service renvoie vers les cliniques qui le pratiquent. Le script contrôle les liens obligatoires de chaque type de page ([structure-des-pages.md](structure-des-pages.md)).
+- **Aucune page ne partage plus de 20 % de son texte avec une autre.** Une page d'un cabinet ne reprend jamais un paragraphe d'un autre cabinet en changeant la ville. Script.
+- **Une page d'un cabinet contient au moins cinq faits qui ne valent que pour lui** : adresse, repère, parking, transports, communes, noms de l'équipe, jours, équipements.
+- **Les liens internes** sont relatifs et suivent le plan : les pages d'un cabinet renvoient vers son rendez-vous, ses pages de service et les pages communes ; une page commune de service renvoie vers les cabinets qui le pratiquent. Le script contrôle les liens obligatoires de chaque type de page ([structure-des-pages.md](structure-des-pages.md)).
 - **Les mots du propriétaire d'abord** (2.1), le terme médical entre parenthèses s'il est utile.
-- **Chaque photo a un texte alternatif** qui décrit ce qu'elle montre, dans le catalogue des photos ([charte-graphique.md](charte-graphique.md)) : « La salle de radiographie de la clinique de Payerne ».
+- **Chaque photo a un texte alternatif** qui décrit ce qu'elle montre, dans le catalogue des photos ([charte-graphique.md](charte-graphique.md)) : « La salle de radiographie du cabinet de Payerne ».

@@ -9,12 +9,12 @@ Une page est un fichier Markdown avec un en-tête YAML. Astro vérifie l'en-têt
 type: accueil-clinique
 clinique: payerne
 url: /payerne/
-title: "Vétérinaire à Payerne : clinique Vetmint Payerne"
-description: "Clinique vétérinaire à Payerne pour chiens, chats, lapins et rongeurs. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
-h1: Clinique vétérinaire Vetmint Payerne
+title: "Vétérinaire à Payerne : cabinet Vetmint Payerne"
+description: "Cabinet vétérinaire à Payerne pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
+h1: Cabinet vétérinaire Vetmint Payerne
 recherche: vétérinaire Payerne
 redige_le: 2026-10-16
-resume: Chiens, chats, lapins et rongeurs, route du Châtelard 13.
+resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minutes sur rendez-vous.
 ---
 ```
 
@@ -32,6 +32,7 @@ resume: Chiens, chats, lapins et rongeurs, route du Châtelard 13.
 | `ordre` | facultatif | la position dans une liste (services, conseils) |
 | `resume` | facultatif | une phrase de 20 mots au plus, pour les cartes et l'accroche |
 | `especes` | service et conseil ; obligatoire sur une page `conseil-categorie`, dont il donne l'espèce | `[chien, chat, nac]` |
+| `en_phrase` | page commune d'un service ; obligatoire quand une fiche cite le service | le nom du soin tel qu'il s'écrit dans une phrase, avec son article : « la radiographie », « les visites à domicile » ; en allemand, à l'accusatif : « das Röntgen », « den Ultraschall », « Hausbesuche ». La page du service dans chaque cabinet l'écrit dans son chapeau et dans son lien « Tout lire sur … » ([structure-des-pages.md](structure-des-pages.md)) |
 
 Une valeur qui contient « : » se met entre guillemets.
 
@@ -46,6 +47,14 @@ Une valeur qui contient « : » se met entre guillemets.
 - Tableaux Markdown pour les prix et les calendriers.
 - Pas d'image dans le corps : les gabarits placent les photos. Script.
 - Pas de HTML, hors les marqueurs des blocs de données ci-dessous. Script.
+
+## Les prix
+
+Sur une page d'un cabinet, un montant s'écrit par son jeton, `{prix:<cle>}`, dans le corps et dans les champs `description` et `resume`. Le site le remplace par le montant de la grille du cabinet. La grille, les endroits où un jeton ne s'écrit jamais et les formes d'un montant sont dans [grille-des-prix.md](grille-des-prix.md).
+
+```markdown
+| Consultation sur rendez-vous | 30 minutes avec un vétérinaire, examen complet et conseils | {prix:consultation} |
+```
 
 ## Blocs de données
 
@@ -67,4 +76,4 @@ Un bloc appartient à la clinique du champ `clinique`. Sur une page qui présent
 node outils/verifier-les-pages.mjs --doublons src/content/pages/fr/payerne/tarifs.md
 ```
 
-Le script contrôle l'en-tête, le title, la description, le H1 et les titres, le volume du type de page, les liens obligatoires, les tournures interdites, le HTML et les images dans le corps, et, avec `--doublons`, la part de texte commune avec les autres pages de la même langue (20 % au plus). Une page allemande passe les contrôles de forme. `pnpm verifier` passe toutes les pages, sans la mesure des doublons ([verifications.md](verifications.md)).
+Le script contrôle l'en-tête, le title, la description, le H1 et les titres, le volume du type de page, les liens obligatoires, les tournures interdites, les prix, le HTML et les images dans le corps et, avec `--doublons`, la part de texte commune avec les autres pages de la même langue (20 % au plus). Une page allemande passe les contrôles de forme. `pnpm verifier` passe toutes les pages, sans la mesure des doublons ([verifications.md](verifications.md)).

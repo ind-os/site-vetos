@@ -3,7 +3,6 @@
   "permissions": {
     "deny": [
       "Edit(/.github/**)",
-      "Edit(/.claude/**)",
       "Edit(/Dockerfile)",
       "Edit(/nginx.conf)",
       "Edit(/src/pages/healthz.json.ts)",
@@ -19,6 +18,10 @@
       "Bash(git push -f*)",
       "Bash(git push * --force*)",
       "Bash(git push * -f*)"
+    ],
+    "ask": [
+      "Edit(/.claude/**)",
+      "Edit(/CLAUDE.md)"
     ],
     "allow": [
       "Bash(node --version)",
