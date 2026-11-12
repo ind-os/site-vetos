@@ -7,8 +7,7 @@
 
 import { getCollection, type CollectionEntry } from 'astro:content';
 import { LANGUE_PAR_DEFAUT, LANGUES, type Langue } from '../config.ts';
-import { textes, type Catalogue } from '../i18n/index.ts';
-import { enumerer } from './format.ts';
+import { textes } from '../i18n/index.ts';
 import { lesGrilles } from './grilles.ts';
 import { remplacerLesPrix } from './prix.ts';
 import type { TypeDePage } from './types-de-page.ts';
@@ -51,19 +50,18 @@ export async function toutesLesPages(): Promise<Page[]> {
   return [...ecrites.map(avecLesPrix), ...(await pagesDeServiceDesCabinets(ecrites))];
 }
 
-/** Le premier title de 60 caractères au plus : sans « | Vetmint », puis sans « chien et chat ». */
-function titreDansLeCabinet(t: Catalogue, nom: string, lieu: string, chienEtChat: boolean): string {
-  const essais = [t.services.titreDansLeCabinet(nom, lieu, chienEtChat, true), t.services.titreDansLeCabinet(nom, lieu, chienEtChat, false)];
-  essais.push(t.services.titreDansLeCabinet(nom, lieu, false, false));
-  return essais.find((titre) => [...titre].length <= 60) ?? essais.at(-1)!;
+/** Le premier title de 60 caractères au plus : le H1 avec « | Vetmint », le H1 seul, puis le nom court du soin. */
+function titreDansLeCabinet(h1: string, nomCourt: string): string {
+  const essais = [`${h1} | Vetmint`, h1, `${nomCourt} | Vetmint`, nomCourt];
+  return essais.find((titre) => [...titre].length <= 60) ?? nomCourt;
 }
 
 /**
  * Chaque service de la fiche d'un cabinet a sa page, /payerne/services/radiographie/, sans fichier
  * à écrire. Le site la fabrique avec la fiche du cabinet, sa grille des prix et la page commune du
- * service (gabarit ServiceClinique) : son title, son H1 et sa description nomment le lieu, et son
- * adresse canonique est elle-même. Une page écrite dans le dossier du cabinet, pour un soin qu'il
- * est seul à pratiquer, garde son texte.
+ * service (gabarit ServiceClinique) : son title, son H1 et sa description reprennent le titre de la
+ * page commune du service, avec le lieu, et son adresse canonique est elle-même. Une page écrite
+ * dans le dossier du cabinet, pour un soin qu'il est seul à pratiquer, garde son texte.
  */
 async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
   const existe = (id: string) => ecrites.some((p) => p.id === id);
@@ -78,9 +76,9 @@ async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
         const prefixe = langue === LANGUE_PAR_DEFAUT ? '' : `/${langue}`;
         const url = `${prefixe}/${cabinet.id}${commune.data.url.slice(prefixe.length)}`;
         const nom = commune.data.nom ?? titreDe(commune);
-        const especesDuService = commune.data.especes ?? ['chien', 'chat', 'nac'];
-        const chienEtChat = especesDuService.includes('chien') && especesDuService.includes('chat');
-        const especes = enumerer(cabinet.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
+        // Le titre du soin choisi pour sa page commune, avant les deux-points : « Dentisterie du chien
+        // et du chat », « Prévention », « Hospitalisation du chien, du chat et des NAC ».
+        const h1 = t.services.h1DansLeCabinet(titreDe(commune).split(/\s*:\s/)[0], cabinet.lieu);
         pages.push({
           ...commune,
           id,
@@ -89,9 +87,9 @@ async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
             type: 'service-clinique',
             clinique: cabinet.id,
             url,
-            title: titreDansLeCabinet(t, nom, cabinet.lieu, chienEtChat),
-            h1: t.services.h1DansLeCabinet(nom, cabinet.lieu, chienEtChat),
-            description: t.services.descriptionDansLeCabinet(nom, cabinet.lieu, especes, cabinet.telephone.affiche),
+            title: titreDansLeCabinet(h1, t.services.h1DansLeCabinet(nom, cabinet.lieu)),
+            h1,
+            description: t.services.descriptionDansLeCabinet(h1, cabinet.lieu, cabinet.telephone.affiche),
             recherche: t.services.rechercheDansLeCabinet(nom, cabinet.lieu),
           },
         });

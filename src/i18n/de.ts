@@ -135,11 +135,9 @@ export const de: Catalogue = {
     pratiqueA: (lieu: string) => `Diese Leistung in ${lieu}`,
     pageGenerale: 'Alles über diese Leistung',
     autresServices: 'Weitere Leistungen der Praxis',
-    titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
-      `${nom}${chienEtChat ? ' für Hund und Katze' : ''} in ${lieu}${marque ? ' | Vetmint' : ''}`,
-    h1DansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean) => `${nom}${chienEtChat ? ' für Hunde und Katzen' : ''} in ${lieu}`,
-    descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
-      `${nom} in ${lieu} für ${especes}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
+    h1DansLeCabinet: (titreDuSoin: string, lieu: string) => `${titreDuSoin} in ${lieu}`,
+    descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
+      `${h1}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,
     infosPratiques: (lieu: string) => `Praktisches zur Praxis in ${lieu}`,
     ouSeTrouve: (lieu: string) => `Wo befindet sich die Praxis Vetmint ${lieu}?`,

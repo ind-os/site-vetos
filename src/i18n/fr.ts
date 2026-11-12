@@ -150,11 +150,9 @@ export const fr = {
     pratiqueA: (lieu: string) => `Ce soin à ${lieu}`,
     pageGenerale: 'Tout savoir sur ce soin',
     autresServices: 'Les autres soins du cabinet',
-    titreDansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean, marque: boolean) =>
-      `${nom}${chienEtChat ? ' chien et chat' : ''} à ${lieu}${marque ? ' | Vetmint' : ''}`,
-    h1DansLeCabinet: (nom: string, lieu: string, chienEtChat: boolean) => `${nom}${chienEtChat ? ' pour chiens et chats' : ''} à ${lieu}`,
-    descriptionDansLeCabinet: (nom: string, lieu: string, especes: string, telephone: string) =>
-      `${nom} à ${lieu} pour ${especes} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
+    h1DansLeCabinet: (titreDuSoin: string, lieu: string) => `${titreDuSoin} à ${lieu}`,
+    descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
+      `${h1} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,
     infosPratiques: (lieu: string) => `Infos pratiques à ${lieu}`,
     ouSeTrouve: (lieu: string) => `Où se trouve le cabinet Vetmint ${lieu}\u00a0?`,
