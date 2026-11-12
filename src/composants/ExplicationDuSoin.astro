@@ -1,8 +1,10 @@
 ---
 // L'explication d'un soin sur sa page dans un cabinet : le premier paragraphe de la page commune
-// du service, puis un lien qui déplie le reste de son texte dans la page, chargé au clic
-// (src/lib/explication-du-soin.ts). Sans JavaScript, ou si le chargement échoue, le lien ouvre la
-// page commune. Le texte déplié n'est pas dans la page : elle reste propre au cabinet.
+// du service, dont la fin s'efface sous un voile, et un bouton qui déplie le reste du texte dans
+// la page, chargé au clic (src/lib/explication-du-soin.ts). Déplié, le bouton passe sous le texte
+// pour le replier. Sans JavaScript, ou si le chargement échoue, le bouton ouvre la page commune et
+// le paragraphe s'affiche en entier. Le texte déplié n'est pas dans la page : elle reste propre au
+// cabinet.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import Prose from './Prose.astro';
@@ -26,34 +28,44 @@ const id = 'explication-du-soin';
 
 <section class="bloc explication-du-soin" aria-labelledby={id} data-explication-du-soin>
   <h2 id={id}>{t.enBref}</h2>
-  <Prose html={bref} />
-  <a
-    class="lien-fort"
-    href={pageCommune}
-    data-texte-complet={texteComplet}
-    data-ouvrir={t.toutLire(enPhrase)}
-    data-replier={t.replier}
-    data-ouverture={t.ouverture}
-    aria-controls={`${id}-texte`}>{t.toutLire(enPhrase)}</a
-  >
+  <div class="explication-du-soin__apercu">
+    <Prose html={bref} />
+  </div>
   <div class="prose explication-du-soin__texte" id={`${id}-texte`} hidden></div>
+  <p class="explication-du-soin__action">
+    <a
+      class="bouton bouton--secondaire"
+      href={pageCommune}
+      data-texte-complet={texteComplet}
+      data-ouvrir={t.toutLire(enPhrase)}
+      data-replier={t.replier}
+      data-ouverture={t.ouverture}
+      aria-controls={`${id}-texte`}
+      ><span data-libelle>{t.toutLire(enPhrase)}</span><svg class="explication-du-soin__fleche" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true"
+        ><path class="explication-du-soin__bas" d="M3 6l5 5 5-5" /><path class="explication-du-soin__haut" d="M3 10l5-5 5 5" /></svg
+      ></a
+    >
+  </p>
 </section>
 
 <script>
-  // Le lien devient un bouton qui déplie et replie le texte complet. Le texte se charge au premier
-  // clic ; si le chargement échoue, le lien ouvre la page commune.
+  // Le lien devient un bouton qui déplie et replie le texte complet. Replié, la fin du premier
+  // paragraphe s'efface sous un voile (data-replie). Le texte se charge au premier clic ; si le
+  // chargement échoue, le lien ouvre la page commune.
   document.querySelectorAll<HTMLElement>('[data-explication-du-soin]').forEach((section) => {
     const lien = section.querySelector<HTMLAnchorElement>('a[data-texte-complet]');
+    const libelle = lien?.querySelector<HTMLElement>('[data-libelle]');
     const texte = section.querySelector<HTMLElement>('.explication-du-soin__texte');
-    if (!lien || !texte) return;
+    if (!lien || !libelle || !texte) return;
     const { texteComplet, ouvrir = '', replier = '', ouverture = '' } = lien.dataset;
     let charge = false;
+    section.toggleAttribute('data-replie', true);
     lien.setAttribute('role', 'button');
     lien.setAttribute('aria-expanded', 'false');
     lien.addEventListener('click', async (evenement) => {
       evenement.preventDefault();
       if (!charge) {
-        lien.textContent = ouverture;
+        libelle.textContent = ouverture;
         try {
           const reponse = await fetch(texteComplet ?? '');
           if (!reponse.ok) throw new Error(String(reponse.status));
@@ -64,15 +76,36 @@ const id = 'explication-du-soin';
           return;
         }
       }
-      const ouvert = texte.hidden;
-      texte.hidden = !ouvert;
-      lien.setAttribute('aria-expanded', String(ouvert));
-      lien.textContent = ouvert ? replier : ouvrir;
-      if (!ouvert) section.scrollIntoView({ block: 'start' });
+      const ouvrirLeTexte = texte.hidden;
+      texte.hidden = !ouvrirLeTexte;
+      section.toggleAttribute('data-replie', !ouvrirLeTexte);
+      lien.setAttribute('aria-expanded', String(ouvrirLeTexte));
+      libelle.textContent = ouvrirLeTexte ? replier : ouvrir;
+      if (!ouvrirLeTexte) section.scrollIntoView({ block: 'start' });
     });
   });
 </script>
 
 <style>
-  .explication-du-soin__texte { margin-top: var(--espace-2); }
+  /* Replié : le paragraphe s'arrête après quatre lignes environ, et sa fin s'efface vers le fond de
+     la page. Le bouton se pose sur le bas du voile. */
+  .explication-du-soin[data-replie] .explication-du-soin__apercu {
+    position: relative;
+    max-height: 6.5em;
+    overflow: hidden;
+  }
+  .explication-du-soin[data-replie] .explication-du-soin__apercu::after {
+    content: "";
+    position: absolute;
+    inset: auto 0 0;
+    height: 4.5em;
+    background: linear-gradient(to bottom, transparent, var(--blanc) 90%);
+    pointer-events: none;
+  }
+  .explication-du-soin__action { display: flex; justify-content: center; margin: 0; }
+  .explication-du-soin[data-replie] .explication-du-soin__action { position: relative; margin-top: calc(-1 * var(--espace-4)); }
+  .explication-du-soin__fleche { flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+  .explication-du-soin__haut,
+  [aria-expanded="true"] .explication-du-soin__bas { display: none; }
+  [aria-expanded="true"] .explication-du-soin__haut { display: inline; }
 </style>
