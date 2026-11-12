@@ -51,3 +51,33 @@ export function texteComplet(html: string, adresseDesCabinets: string, cliniques
 export function adresseDuTexteComplet(langue: Langue, service: string): string {
   return `/textes-des-soins/${langue}/${service}.html`;
 }
+
+/** Les adresses qu'une phrase de conseil de rendez-vous ne garde pas, ou qu'elle remplace. */
+interface LiensDuRendezVous {
+  /** La liste des cabinets et l'index des conseils santé : une phrase qui y mène ne sert pas sur la page d'un cabinet. */
+  aRetirer: string[];
+  /** La page Urgences du réseau, et celle du cabinet qui la remplace s'il en a une. */
+  urgences: string;
+  urgencesDuCabinet?: string;
+}
+
+/**
+ * Les conseils de rendez-vous propres à un soin, tirés de la section « Prendre rendez-vous » de sa
+ * page commune (celle dont le titre contient `titreDeLaSection`) : son premier paragraphe, sans les
+ * phrases qui mènent à la liste des cabinets ou aux conseils santé, avec « le cabinet » à la place
+ * de « le cabinet le plus proche » et la page Urgences du cabinet à la place de celle du réseau.
+ * Rien si la page n'a pas cette section.
+ */
+export function conseilsDeRendezVous(html: string, titreDeLaSection: string, liens: LiensDuRendezVous): string {
+  const section = sections(html, 2).sections.find((s) => s.titre.toLowerCase().includes(titreDeLaSection.toLowerCase()));
+  const paragraphe = section ? blocsDeLIntroduction(section.contenu).find((bloc) => bloc.startsWith('<p') && !PARAGRAPHE_BOUTON.test(bloc)) : undefined;
+  if (!paragraphe) return '';
+  const contenu = paragraphe.replace(/^<p[^>]*>|<\/p>$/g, '');
+  const menePar = (phrase: string, debut: string) => phrase.includes(`href="${debut}`);
+  const phrases = contenu
+    .split(/(?<=[.?!])\s+(?=[A-ZÀ-ÖØ-Ý«])/)
+    .filter((phrase) => !liens.aRetirer.some((adresse) => menePar(phrase, adresse)))
+    .map((phrase) => phrase.replace(/ le cabinet le plus proche/g, ' le cabinet').replace(/ die (?:nächste|nächstgelegene) Praxis/g, ' die Praxis'))
+    .map((phrase) => (liens.urgencesDuCabinet ? phrase.replaceAll(`href="${liens.urgences}"`, `href="${liens.urgencesDuCabinet}"`) : phrase));
+  return phrases.length > 0 ? `<p>${phrases.join(' ')}</p>` : '';
+}

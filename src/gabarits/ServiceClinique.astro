@@ -1,27 +1,28 @@
 ---
 // Un service dans un cabinet, fabriqué par le site pour chaque service de la fiche
-// (src/lib/pages.ts, docs/structure-des-pages.md) : la présentation du soin dans le cabinet, le
-// bouton de rendez-vous, les prix du soin lus dans la grille du cabinet, les infos pratiques tirées
+// (src/lib/pages.ts, docs/structure-des-pages.md) : la présentation du soin dans le cabinet, un
+// encadré de rendez-vous avec les conseils propres au soin, les prix du soin lus dans la grille du
+// cabinet, les infos pratiques tirées
 // de la fiche, puis l'explication de la page commune, en bref, et dépliée au clic. À côté, la carte
 // du cabinet ; en bas, ses autres soins.
 // Une page écrite dans le dossier du cabinet, pour un soin qu'il est seul à pratiquer, garde son
 // texte et renvoie à la page commune si elle existe.
 import type { Contexte } from '../lib/contexte.ts';
 import { servicesDeLaClinique } from '../lib/cliniques.ts';
-import { adresseDuTexteComplet, premierParagraphe } from '../lib/explication-du-soin.ts';
+import { adresseDuTexteComplet, conseilsDeRendezVous, premierParagraphe } from '../lib/explication-du-soin.ts';
 import { echapper, enumerer, lienTelephone } from '../lib/format.ts';
 import { balisageDesQuestions } from '../lib/balisage.ts';
 import { laGrille } from '../lib/grilles.ts';
 import { premierePhoto } from '../lib/images.ts';
 import { adresse, estFabriquee, laPage, slugDe } from '../lib/pages.ts';
 import { formaterMontant } from '../lib/prix.ts';
-import BoutonRendezVous from '../composants/BoutonRendezVous.astro';
 import CarteClinique from '../composants/CarteClinique.astro';
 import ExplicationDuSoin from '../composants/ExplicationDuSoin.astro';
 import Pastilles from '../composants/Pastilles.astro';
 import PrixDuSoin from '../composants/PrixDuSoin.astro';
 import Prose from '../composants/Prose.astro';
 import QuestionsFrequentes from '../composants/QuestionsFrequentes.astro';
+import RendezVousDuSoin from '../composants/RendezVousDuSoin.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
@@ -69,6 +70,13 @@ const lignes = (grille?.grille.prix ?? [])
   .filter((p) => p.service === slug)
   .map((p) => ({ libelle: p.libelle[langue], montant: formaterMontant(grille!.valeurs.get(p.cle)!, langue, 'tableau') }));
 const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
+const conseils = fabriquee
+  ? conseilsDeRendezVous(html, t.rendezVous.bouton, {
+      aRetirer: [await adresse(langue, 'cliniques'), await adresse(langue, 'conseils/index')],
+      urgences: await adresse(langue, 'urgences'),
+      urgencesDuCabinet: clinique.urgences ? await adresse(langue, `${clinique.id}/urgences`) : undefined,
+    })
+  : '';
 ---
 
 <PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []}>
@@ -76,9 +84,7 @@ const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
     fabriquee ? (
       <>
         <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
-        <p class="service-clinique__rendez-vous">
-          <BoutonRendezVous clinique={clinique} langue={langue} />
-        </p>
+        <RendezVousDuSoin clinique={clinique} conseils={conseils} langue={langue} />
         <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
         <section class="bloc" aria-labelledby="infos-pratiques">
           <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
@@ -111,7 +117,3 @@ const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
     {!fabriquee && commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
   </Fragment>
 </PageInterieure>
-
-<style>
-  .service-clinique__rendez-vous { margin-top: var(--espace-4); }
-</style>

@@ -1,0 +1,48 @@
+---
+// Le rendez-vous sur la page d'un soin dans un cabinet : un encadré sur fond gris bleuté, avec
+// son titre, les conseils de rendez-vous propres au soin (tirés de sa page commune,
+// src/lib/explication-du-soin.ts), le bouton de l'agenda du cabinet et son téléphone.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import { lienTelephone } from '../lib/format.ts';
+import Bouton from './Bouton.astro';
+import BoutonRendezVous from './BoutonRendezVous.astro';
+import Prose from './Prose.astro';
+
+interface Props {
+  clinique: Clinique;
+  /** Les conseils de rendez-vous du soin, en HTML ; à défaut, une phrase commune à tous les soins. */
+  conseils: string;
+  langue: Langue;
+}
+
+const { clinique, conseils, langue } = Astro.props;
+const t = textes(langue);
+const id = 'rendez-vous-du-soin';
+---
+
+<section class="rendez-vous-du-soin" aria-labelledby={id}>
+  <h2 id={id}>{t.services.rendezVousA(clinique.lieu)}</h2>
+  <Prose html={conseils || `<p>${t.services.rendezVousParDefaut}</p>`} />
+  <div class="rendez-vous-du-soin__actions">
+    <BoutonRendezVous clinique={clinique} langue={langue} />
+    <Bouton variante="secondaire" href={lienTelephone(clinique.telephone.international)}>{t.telephone.appeler(clinique.telephone.affiche)}</Bouton>
+  </div>
+</section>
+
+<style>
+  .rendez-vous-du-soin {
+    display: grid;
+    gap: var(--espace-4);
+    max-width: var(--lecture);
+    padding: var(--espace-5);
+    border-radius: var(--rayon-photo);
+    background: var(--gris-bleute);
+  }
+  @media (min-width: 48rem) {
+    .rendez-vous-du-soin { padding: var(--espace-6); }
+  }
+  .rendez-vous-du-soin h2 { margin: 0; font-size: var(--titre-3); }
+  .rendez-vous-du-soin__actions { display: flex; flex-wrap: wrap; gap: var(--espace-3); margin-top: var(--espace-2); }
+</style>

@@ -139,6 +139,8 @@ export const de: Catalogue = {
     descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
       `${h1}: Preise der Praxis, Termin und Erklärung der Leistung. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom} ${lieu}`,
+    rendezVousA: (lieu: string) => `Termin in ${lieu} vereinbaren`,
+    rendezVousParDefaut: 'Buchen Sie online oder rufen Sie die Praxis an.',
     infosPratiques: (lieu: string) => `Praktisches zur Praxis in ${lieu}`,
     ouSeTrouve: (lieu: string) => `Wo befindet sich die Praxis Vetmint ${lieu}?`,
     adresseDuCabinet: (rue: string, npa: string, localite: string) => `Die Praxis liegt an der ${rue}, ${npa} ${localite}.`,

@@ -25,6 +25,7 @@ import Photo from '../../composants/Photo.astro';
 import PrixDuSoin from '../../composants/PrixDuSoin.astro';
 import Prose from '../../composants/Prose.astro';
 import QuestionsFrequentes from '../../composants/QuestionsFrequentes.astro';
+import RendezVousDuSoin from '../../composants/RendezVousDuSoin.astro';
 import ReseauDesCliniques from '../../composants/ReseauDesCliniques.astro';
 import Section from '../../composants/Section.astro';
 import SectionsEnCartes from '../../composants/SectionsEnCartes.astro';
@@ -288,6 +289,10 @@ ${htmlDeLaGarde(payerne, langue)}
       <Exemple titre="Pastilles" description="Des liens courts en pastilles : sur la page d’un soin dans une clinique, les autres soins de la clinique. Le titre visible au-dessus nomme la liste : son id se passe à idDuTitre." fichier="composants/Pastilles.astro" code={`<h2 id="autres-services">Les autres soins de la clinique</h2>\n<Pastilles liens={[{ libelle: 'Radiographie', href: '/payerne/services/radiographie/' }]} idDuTitre="autres-services" />`}>
         <p class="surtitre" id="pastilles-exemple">Les autres soins à Payerne</p>
         <Pastilles liens={[{ libelle: 'Consultation', href: '#' }, { libelle: 'Vaccination du chien', href: '#' }, { libelle: 'Radiographie', href: '#' }, { libelle: 'Soins dentaires', href: '#' }]} idDuTitre="pastilles-exemple" />
+      </Exemple>
+
+      <Exemple titre="Rendez-vous d’un soin" description="Sur la page d’un service dans un cabinet, sous la présentation du soin : un encadré gris bleuté avec les conseils de rendez-vous propres au soin, tirés de la section « Prendre rendez-vous » de sa page commune, le bouton de l’agenda du cabinet et son téléphone. Sans conseils pour ce soin, une phrase commune les remplace." fichier="composants/RendezVousDuSoin.astro" code={`<RendezVousDuSoin clinique={clinique} conseils={html} langue={langue} />`}>
+        <RendezVousDuSoin clinique={payerne} conseils="<p>Le détartrage se programme après une consultation : le vétérinaire examine la bouche et vous remet un devis avec le nombre probable d’extractions. Dites au téléphone que vous venez pour les dents.</p>" langue={langue} />
       </Exemple>
 
       <Exemple titre="Prix d’un soin" description="Les prix d’un soin dans un cabinet, lus dans sa grille (docs/grille-des-prix.md) : prestation et prix, puis le lien vers la page Tarifs du cabinet. Sans prix pour ce soin, une phrase dit que le vétérinaire annonce le prix avant de commencer. Sur la page d’un service dans un cabinet." fichier="composants/PrixDuSoin.astro" code={`<PrixDuSoin lignes={[{ libelle: 'Détartrage et polissage, anesthésie comprise', montant: '325 CHF' }]} lieu="Payerne" tarifs="/payerne/tarifs/" langue={langue} />`}>

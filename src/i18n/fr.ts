@@ -154,6 +154,8 @@ export const fr = {
     descriptionDansLeCabinet: (h1: string, lieu: string, telephone: string) =>
       `${h1} : tarifs du cabinet, rendez-vous et explication du soin. Vetmint ${lieu}, ${telephone}.`,
     rechercheDansLeCabinet: (nom: string, lieu: string) => `${nom.toLowerCase()} ${lieu}`,
+    rendezVousA: (lieu: string) => `Prendre rendez-vous à ${lieu}`,
+    rendezVousParDefaut: 'Réservez en ligne ou appelez le cabinet.',
     infosPratiques: (lieu: string) => `Infos pratiques à ${lieu}`,
     ouSeTrouve: (lieu: string) => `Où se trouve le cabinet Vetmint ${lieu}\u00a0?`,
     adresseDuCabinet: (rue: string, npa: string, localite: string) => `Le cabinet se trouve ${aLaRue(rue)}, ${npa} ${localite}.`,
