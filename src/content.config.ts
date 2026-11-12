@@ -51,8 +51,12 @@ const pages = defineCollection({
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).optional(),
     /** Le nom du soin dans une phrase, avec son article : « la radiographie », « das Röntgen ». Page commune d'un service. */
     en_phrase: z.string().optional(),
-    /** Les soins que couvre le service, avec les mots que l'on cherche, à l'accusatif : « les soins dentaires : le détartrage… ». Page commune d'un service. */
-    soins_couverts: z.string().optional(),
+    /**
+     * La présentation du soin dans un cabinet, avec les mots que l'on cherche, valable pour chaque
+     * cabinet : « Le cabinet {cabinet} propose des soins dentaires… ». {cabinet} devient « Vetmint
+     * Payerne ». Page commune d'un service.
+     */
+    presentation_dans_le_cabinet: z.string().optional(),
   }),
 });
 

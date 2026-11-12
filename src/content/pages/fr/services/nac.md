@@ -6,7 +6,7 @@ description: "Médecine avancée des NAC chez Vetmint : lapins, rongeurs, oisea
 h1: "Médecine avancée des NAC : du lapin au reptile"
 nom: Médecine avancée des NAC
 en_phrase: "la médecine avancée des NAC"
-soins_couverts: "la médecine et la chirurgie avancées des lapins, des rongeurs, des furets, des oiseaux et des reptiles"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} soigne les nouveaux animaux de compagnie : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Un vétérinaire formé en médecine et en chirurgie avancées des NAC y reçoit les cas difficiles que lui adressent les autres cabinets Vetmint."
 recherche: vétérinaire NAC
 redige_le: 2026-11-10
 ordre: 11

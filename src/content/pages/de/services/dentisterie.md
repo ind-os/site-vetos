@@ -6,7 +6,7 @@ description: "Zahnmedizin bei Hund und Katze bei Vetmint: Zahnsteinentfernung in
 h1: "Zahnmedizin bei Hund und Katze: Zahnstein und Extraktionen"
 nom: Zahnmedizin
 en_phrase: "die Zahnmedizin"
-soins_couverts: "die Zahnbehandlung: Zahnsteinentfernung unter Narkose, Zahnröntgen und Zahnextraktionen"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} bietet Zahnbehandlungen für alle Ihre Tiere an, für Hunde, Katzen und Heimtiere. Vor Ort verfügen wir über die Ausrüstung für Zahnsteinentfernung, Politur und Zahnextraktionen. Die Praxis macht auch Zahnröntgenbilder, um eine genauere Diagnose zu stellen und die Behandlung gezielt zu planen."
 recherche: Zahnsteinentfernung Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

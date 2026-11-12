@@ -6,7 +6,7 @@ description: "Chirurgie bei Vetmint: Kastration, Sterilisation, Knoten, Wunde, v
 h1: "Chirurgie: Kastration, Sterilisation und Weichteile"
 nom: Chirurgie
 en_phrase: "die Chirurgie"
-soins_couverts: "die Sterilisation, die Kastration und die Weichteilchirurgie, etwa die Entfernung eines Knotens oder eines verschluckten Gegenstands"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} operiert alle Ihre Tiere, Hunde, Katzen und Heimtiere. Die häufigsten Eingriffe sind die Sterilisation und die Kastration, danach die Entfernung eines Knotens, das Schliessen einer Wunde, die Entfernung eines verschluckten Gegenstands und der Kaiserschnitt. Die Narkose wird vom Einschlafen bis zum Aufwachen ständig überwacht."
 recherche: Tierarzt Chirurgie
 redige_le: 2026-11-10
 ordre: 2

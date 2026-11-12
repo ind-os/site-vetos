@@ -6,7 +6,7 @@ description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen, Nager, Vögel u
 h1: "Erweiterte Heimtiermedizin: vom Kaninchen bis zum Reptil"
 nom: Erweiterte Heimtiermedizin
 en_phrase: "die erweiterte Heimtiermedizin"
-soins_couverts: "die erweiterte Medizin und Chirurgie für Kaninchen, Nager, Frettchen, Vögel und Reptilien"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} behandelt Heimtiere: Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Ein in erweiterter Heimtiermedizin und -chirurgie ausgebildeter Tierarzt übernimmt dort die schwierigen Fälle, die ihm die anderen Vetmint-Praxen überweisen."
 recherche: Tierarzt Heimtiere
 redige_le: 2026-11-10
 ordre: 11

@@ -6,7 +6,7 @@ description: "Prévention chez Vetmint : bilan de santé de 30 minutes, vaccins
 h1: "Prévention : bilan de santé, vaccins et puce"
 nom: Prévention
 en_phrase: "la prévention"
-soins_couverts: "le bilan de santé annuel, les vaccins, la puce électronique et les vermifuges"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} assure la prévention de tous vos animaux, chiens, chats ou NAC. Le bilan de santé annuel, les vaccins, la puce électronique et les vermifuges se font pendant une consultation de 30 minutes, le temps d'examiner votre animal en entier. Le vétérinaire choisit les vaccins selon la vie de votre animal."
 recherche: prévention chien chat
 redige_le: 2026-11-10
 ordre: 1

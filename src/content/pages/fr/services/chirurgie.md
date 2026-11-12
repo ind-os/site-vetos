@@ -6,7 +6,7 @@ description: "Chirurgie chez Vetmint : stérilisation, castration, grosseur, pl
 h1: "Chirurgie : stérilisation, castration et tissus mous"
 nom: Chirurgie
 en_phrase: "la chirurgie"
-soins_couverts: "la stérilisation, la castration et la chirurgie des tissus mous, comme le retrait d'une grosseur ou d'un objet avalé"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} opère tous vos animaux, chiens, chats ou NAC. Les interventions les plus courantes sont la stérilisation et la castration, puis le retrait d'une grosseur, la fermeture d'une plaie, le retrait d'un objet avalé et la césarienne. L'anesthésie est surveillée en continu, de l'endormissement au réveil."
 recherche: chirurgie vétérinaire
 redige_le: 2026-11-10
 ordre: 2

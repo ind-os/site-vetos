@@ -6,7 +6,7 @@ description: "Radiographie numérique du chien, du chat et du lapin dans les hui
 h1: Radiographie du chien et du chat
 nom: Radiographie
 en_phrase: "la radiographie"
-soins_couverts: "la radiographie numérique des os, des poumons, du cœur et du ventre, avec les clichés officiels de dysplasie"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} dispose d'une radiographie numérique pour tous vos animaux, chiens, chats ou NAC. L'image des os, des poumons, du cœur ou du ventre s'affiche à l'écran en quelques minutes. Le vétérinaire vous l'explique aussitôt. Le cabinet réalise aussi les clichés officiels de dépistage de la dysplasie."
 recherche: radiographie chien chat
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

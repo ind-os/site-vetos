@@ -6,7 +6,7 @@ description: "Orthopädische Chirurgie bei Vetmint: Knochenbruch, Kreuzbandriss,
 h1: "Orthopädische Chirurgie: Knochen, Bänder und Gelenke"
 nom: Orthopädische Chirurgie
 en_phrase: "die orthopädische Chirurgie"
-soins_couverts: "die Chirurgie an Knochen, Bändern und Gelenken: Knochenbruch, Kreuzbandriss, verrutschende Kniescheibe"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} operiert Knochen, Bänder und Gelenke von Hunden, Katzen und kleinen Tieren. Eine auf Chirurgie spezialisierte Tierärztin versorgt Knochenbrüche, behandelt den Kreuzbandriss und bringt eine verrutschende Kniescheibe an ihren Platz zurück. Danach begleitet sie die Rehabilitation Ihres Tiers."
 recherche: orthopädische Chirurgie Hund
 redige_le: 2026-11-10
 ordre: 3

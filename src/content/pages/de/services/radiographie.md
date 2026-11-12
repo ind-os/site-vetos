@@ -6,7 +6,7 @@ description: "Digitales Röntgen bei Hund, Katze und Kaninchen in den acht Vetmi
 h1: Röntgen bei Hund und Katze
 nom: Röntgen
 en_phrase: "das Röntgen"
-soins_couverts: "das digitale Röntgen von Knochen, Lunge, Herz und Bauch, mit den offiziellen Dysplasie-Aufnahmen"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} verfügt über ein digitales Röntgengerät für alle Ihre Tiere, Hunde, Katzen und Heimtiere. Das Bild von Knochen, Lunge, Herz oder Bauch erscheint in wenigen Minuten auf dem Bildschirm. Die Tierärztin oder der Tierarzt erklärt es Ihnen sofort. Die Praxis macht auch die offiziellen Aufnahmen für die Dysplasie-Untersuchung."
 recherche: Röntgen Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

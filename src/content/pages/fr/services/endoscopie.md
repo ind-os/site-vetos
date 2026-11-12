@@ -6,7 +6,7 @@ description: "Endoscopie chez Vetmint : une caméra fine qui regarde l'estomac,
 h1: Endoscopie du chien et du chat
 nom: Endoscopie
 en_phrase: "l'endoscopie"
-soins_couverts: "l'endoscopie de l'estomac, de l'intestin, du nez et des bronches, sous anesthésie générale"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} pratique l'endoscopie chez le chien et le chat. Une caméra fine et souple montre l'intérieur de l'estomac, de l'intestin, du nez ou des bronches, sans ouvrir le ventre. Sous anesthésie générale, le vétérinaire peut y faire un prélèvement ou retirer un objet avalé."
 recherche: endoscopie chien chat
 redige_le: 2026-11-10
 ordre: 7

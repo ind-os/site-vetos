@@ -6,7 +6,7 @@ description: "Tierärztliche Hausbesuche bei Vetmint: Konsultation, Impfungen un
 h1: Tierärztliche Hausbesuche
 nom: Hausbesuche
 en_phrase: "Hausbesuche"
-soins_couverts: "Hausbesuche: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tiers"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} kommt für die üblichen Behandlungen Ihrer Tiere zu Ihnen nach Hause, für Hunde, Katzen und Heimtiere: Konsultation, Impfungen, Kontrolle eines älteren oder kranken Tiers. Die Hausbesuche finden während der Öffnungszeiten der Praxis statt, nach Terminvereinbarung. Zum Preis der Konsultation kommt eine Anfahrtspauschale hinzu."
 recherche: Tierarzt Hausbesuch
 redige_le: 2026-11-10
 ordre: 12

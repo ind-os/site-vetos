@@ -6,7 +6,7 @@ description: "Stationäre Betreuung von Hund, Katze und Kaninchen bei Vetmint: I
 h1: Stationäre Betreuung von Hund, Katze und Heimtieren
 nom: Stationäre Betreuung
 en_phrase: "die stationäre Betreuung"
-soins_couverts: "die stationäre Betreuung: Infusion, Medikamente über die Vene, Sauerstoff und Überwachung nach einer Operation"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} nimmt alle Ihre Tiere stationär auf, Hunde, Katzen und Heimtiere, wenn sie nicht zu Hause behandelt werden können. Ihr Tier erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an."
 recherche: stationäre Betreuung Hund Katze
 redige_le: 2026-11-10
 especes: [chien, chat, nac]

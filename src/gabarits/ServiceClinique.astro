@@ -1,14 +1,16 @@
 ---
 // Un service dans un cabinet, fabriqué par le site pour chaque service de la fiche
-// (src/lib/pages.ts, docs/structure-des-pages.md) : un chapeau tiré de la fiche, le bouton de
-// rendez-vous, les prix du soin lus dans la grille du cabinet, puis l'explication de la page
-// commune, en bref, et dépliée au clic. À côté, la carte du cabinet ; en bas, ses autres soins.
+// (src/lib/pages.ts, docs/structure-des-pages.md) : la présentation du soin dans le cabinet, le
+// bouton de rendez-vous, les prix du soin lus dans la grille du cabinet, les infos pratiques tirées
+// de la fiche, puis l'explication de la page commune, en bref, et dépliée au clic. À côté, la carte
+// du cabinet ; en bas, ses autres soins.
 // Une page écrite dans le dossier du cabinet, pour un soin qu'il est seul à pratiquer, garde son
 // texte et renvoie à la page commune si elle existe.
 import type { Contexte } from '../lib/contexte.ts';
 import { servicesDeLaClinique } from '../lib/cliniques.ts';
 import { adresseDuTexteComplet, premierParagraphe } from '../lib/explication-du-soin.ts';
-import { echapper, enumerer } from '../lib/format.ts';
+import { echapper, enumerer, lienTelephone } from '../lib/format.ts';
+import { balisageDesQuestions } from '../lib/balisage.ts';
 import { laGrille } from '../lib/grilles.ts';
 import { premierePhoto } from '../lib/images.ts';
 import { adresse, estFabriquee, laPage, slugDe } from '../lib/pages.ts';
@@ -19,6 +21,7 @@ import ExplicationDuSoin from '../composants/ExplicationDuSoin.astro';
 import Pastilles from '../composants/Pastilles.astro';
 import PrixDuSoin from '../composants/PrixDuSoin.astro';
 import Prose from '../composants/Prose.astro';
+import QuestionsFrequentes from '../composants/QuestionsFrequentes.astro';
 import PageInterieure from './PageInterieure.astro';
 
 interface Props {
@@ -34,26 +37,33 @@ const commune = await laPage(langue, `services/${slug}`);
 const photoDuService = premierePhoto([`${clinique.id}:service:${slug}`, `service:${slug}`], langue);
 const autres = (await servicesDeLaClinique(clinique, langue)).filter((s) => s.service !== slug);
 
-// La page fabriquée : le chapeau dit les soins couverts et les espèces reçues, l'adresse, les
-// vétérinaires et les communes d'où viennent les clients, d'après la fiche du cabinet.
+// La page fabriquée : le chapeau est la présentation du soin, écrite une fois dans la page commune
+// pour tous les cabinets. Les infos pratiques du cabinet, tirées de sa fiche, sont des questions
+// sous les prix : l'adresse et l'accès, les vétérinaires, les communes, le rendez-vous.
 const enPhrase = page.data.en_phrase ?? (page.data.nom ?? '').toLowerCase();
-const especesDuService = page.data.especes ?? ['chien', 'chat', 'nac'];
-const especes = enumerer(
-  clinique.especes.filter((e) => especesDuService.includes(e)).map((e) => t.services.especesDansUnePhrase[e]),
-  langue,
-);
-const { rue, localite } = clinique.adresse;
+const chapeau = (page.data.presentation_dans_le_cabinet ?? '').replaceAll('{cabinet}', clinique.nom).replaceAll("'", '’');
+const { rue, npa, localite } = clinique.adresse;
+const acces = clinique.acces;
+const phrase = (texte?: string) => (texte ? `${texte.replace(/[.\s]+$/, '')}.` : '');
 const veterinaires = (clinique.equipe ?? []).filter((p) => /^(vétérinaire|tierärzt|tierarzt)/i.test(p.fonction[langue])).map((p) => p.nom);
-const communes = (clinique.communes ?? []).filter((c) => c !== localite && c !== clinique.lieu).slice(0, 4);
-const chapeau = [
-  t.services.introDuCabinet(clinique.lieu, page.data.soins_couverts ?? enPhrase, especes),
-  t.services.adresseDuCabinet(rue, localite),
-  veterinaires.length > 0 ? t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length) : '',
-  communes.length > 0 ? t.services.clientsDuCabinet(localite, enumerer(communes, langue)) : '',
-]
-  .filter(Boolean)
-  .join(' ')
-  .replaceAll("'", '’');
+const communes = (clinique.communes ?? []).filter((c) => c !== localite && c !== clinique.lieu);
+const lien = (numero: { affiche: string; international: string }) => `<a href="${lienTelephone(numero.international)}">${echapper(numero.affiche)}</a>`;
+const whatsapp = clinique.whatsapp
+  ? clinique.whatsapp.international === clinique.telephone.international
+    ? t.services.memeNumero
+    : lien(clinique.whatsapp)
+  : '';
+const infosPratiques = [
+  {
+    question: t.services.ouSeTrouve(clinique.lieu),
+    reponse: `<p>${echapper([t.services.adresseDuCabinet(rue, npa, localite), phrase(acces?.parking?.[langue]), phrase(acces?.transports?.[langue]), phrase(acces?.accessibilite?.[langue])].filter(Boolean).join(' '))}</p>`,
+  },
+  ...(veterinaires.length > 0
+    ? [{ question: t.services.quiPratique(enPhrase, clinique.lieu), reponse: `<p>${echapper(t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length))}</p>` }]
+    : []),
+  ...(communes.length > 0 ? [{ question: t.services.estProche, reponse: `<p>${echapper(t.services.clientsDuCabinet(localite, enumerer(communes, langue)))}</p>` }] : []),
+  { question: t.services.commentPrendreRendezVous(enPhrase), reponse: `<p>${t.services.rendezVousParTelephone(lien(clinique.telephone), whatsapp)}</p>` },
+].map((q) => ({ question: q.question.replaceAll("'", '’'), reponse: q.reponse.replaceAll("'", '’') }));
 const grille = await laGrille(clinique.id);
 const lignes = (grille?.grille.prix ?? [])
   .filter((p) => p.service === slug)
@@ -61,7 +71,7 @@ const lignes = (grille?.grille.prix ?? [])
 const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
 ---
 
-<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)}>
+<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []}>
   {
     fabriquee ? (
       <>
@@ -70,6 +80,10 @@ const tarifs = fabriquee ? await adresse(langue, `${clinique.id}/tarifs`) : '';
           <BoutonRendezVous clinique={clinique} langue={langue} />
         </p>
         <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+        <section class="bloc" aria-labelledby="infos-pratiques">
+          <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
+          <QuestionsFrequentes questions={infosPratiques} />
+        </section>
         {commune && (
           <ExplicationDuSoin
             bref={premierParagraphe(html)}

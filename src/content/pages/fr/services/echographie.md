@@ -6,7 +6,7 @@ description: "Échographie du ventre, du cœur et de gestation chez Vetmint : 1
 h1: Échographie du chien et du chat
 nom: Échographie
 en_phrase: "l'échographie"
-soins_couverts: "l'échographie du ventre, du cœur et de la gestation, sans rayons X et sans douleur"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} réalise l'échographie de vos chiens et de vos chats. L'examen montre le ventre, le cœur ou une gestation en images qui bougent, sans rayons X et sans douleur. Il dure 15 à 25 minutes, le plus souvent sur un animal éveillé."
 recherche: échographie chien chat
 redige_le: 2026-11-10
 especes: [chien, chat]

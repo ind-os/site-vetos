@@ -6,7 +6,7 @@ description: "Vorsorge bei Vetmint: Gesundheitscheck von 30 Minuten, Impfungen f
 h1: "Prävention: Gesundheitscheck, Impfungen und Mikrochip"
 nom: Prävention
 en_phrase: "die Prävention"
-soins_couverts: "den jährlichen Gesundheitscheck, die Impfungen, den Mikrochip und die Entwurmung"
+presentation_dans_le_cabinet: "Die Praxis {cabinet} übernimmt die Vorsorge für alle Ihre Tiere, Hunde, Katzen und Heimtiere. Jahrescheck, Impfungen, Mikrochip und Entwurmung finden in einer Konsultation von 30 Minuten statt, genug Zeit, um Ihr Tier vollständig zu untersuchen. Die Tierärztin oder der Tierarzt wählt die Impfungen nach dem Leben Ihres Tiers."
 recherche: Vorsorge Hund Katze
 redige_le: 2026-11-10
 ordre: 1

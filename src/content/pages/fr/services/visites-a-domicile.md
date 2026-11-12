@@ -6,7 +6,7 @@ description: "Visites vétérinaires à domicile chez Vetmint : consultation, v
 h1: Visites vétérinaires à domicile
 nom: Visites à domicile
 en_phrase: "les visites à domicile"
-soins_couverts: "les visites à domicile : consultation, vaccins, contrôle d'un animal âgé ou malade"
+presentation_dans_le_cabinet: "Le cabinet {cabinet} se déplace chez vous pour les soins courants de vos animaux, chiens, chats ou NAC : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu aux heures d'ouverture du cabinet, sur rendez-vous. Un forfait de déplacement s'ajoute au prix de la consultation."
 recherche: vétérinaire à domicile
 redige_le: 2026-11-10
 ordre: 12
