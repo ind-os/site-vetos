@@ -81,16 +81,23 @@ const conseils = fabriquee
 
 <PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []}>
   {
-    fabriquee ? (
-      <>
+    fabriquee && (
+      <div slot="haut" class="service-clinique__haut">
         <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
-        <RendezVousDuSoin clinique={clinique} conseils={conseils} langue={langue} />
-        <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
-        <section class="bloc" aria-labelledby="infos-pratiques">
+        <div class="service-clinique__duo">
+          <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+          <RendezVousDuSoin clinique={clinique} conseils={conseils} langue={langue} />
+        </div>
+        <section class="bloc service-clinique__infos" aria-labelledby="infos-pratiques">
           <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
           <QuestionsFrequentes questions={infosPratiques} />
         </section>
-        {commune && (
+      </div>
+    )
+  }
+  {
+    fabriquee
+      ? commune && (
           <ExplicationDuSoin
             bref={premierParagraphe(html)}
             enPhrase={enPhrase}
@@ -98,11 +105,8 @@ const conseils = fabriquee
             texteComplet={adresseDuTexteComplet(langue, slug)}
             langue={langue}
           />
-        )}
-      </>
-    ) : (
-      <Prose html={html} chapeau />
-    )
+        )
+      : <Prose html={html} chapeau />
   }
   {
     autres.length > 0 && (
@@ -117,3 +121,15 @@ const conseils = fabriquee
     {!fabriquee && commune && <a class="lien-fort" href={commune.data.url}>{t.services.pageGenerale}</a>}
   </Fragment>
 </PageInterieure>
+
+<style>
+  /* Le haut de la page, sur toute la largeur : la présentation, les prix et le rendez-vous côte à
+     côte, puis les infos pratiques en deux colonnes. La carte du cabinet n'apparaît qu'ensuite, à
+     côté de l'explication du soin, et reste visible pendant la lecture. */
+  .service-clinique__haut { display: grid; gap: var(--espace-7); padding-bottom: var(--espace-4); }
+  .service-clinique__duo { display: grid; gap: var(--espace-6); align-items: start; }
+  @media (min-width: 64rem) {
+    .service-clinique__duo { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--espace-7); }
+    .service-clinique__infos :global(.faq) { max-width: none; grid-template-columns: repeat(2, minmax(0, 1fr)); align-items: start; }
+  }
+</style>
