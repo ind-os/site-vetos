@@ -79,41 +79,49 @@ const conseils = fabriquee
   : '';
 ---
 
-<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []}>
+<PageInterieure contexte={contexte} photo={photoDuService} surtitre={t.services.pratiqueA(clinique.lieu)} balisage={fabriquee ? [balisageDesQuestions(infosPratiques, langue)] : []} cote={fabriquee ? false : undefined}>
   {
-    fabriquee && (
-      <div slot="haut" class="avec-cote service-clinique__fiche">
-        <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
-        <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+    fabriquee ? (
+      <div class="service-clinique">
+        <div class="service-clinique__fiche">
+          <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
+          <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+          <section class="bloc" aria-labelledby="infos-pratiques">
+            <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
+            <QuestionsFrequentes questions={infosPratiques} variante="filets" />
+          </section>
+        </div>
         <div class="service-clinique__rendez-vous">
           <RendezVousDuSoin clinique={clinique} conseils={conseils} langue={langue} />
         </div>
-        <section class="bloc" aria-labelledby="infos-pratiques">
-          <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
-          <QuestionsFrequentes questions={infosPratiques} variante="filets" />
-        </section>
+        <div class="service-clinique__lecture">
+          {commune && (
+            <ExplicationDuSoin
+              bref={premierParagraphe(html)}
+              enPhrase={enPhrase}
+              pageCommune={commune.data.url}
+              texteComplet={adresseDuTexteComplet(langue, slug)}
+              langue={langue}
+            />
+          )}
+          {autres.length > 0 && (
+            <section class="bloc service-clinique__autres">
+              <h2 id="autres-services">{t.services.autresServices}</h2>
+              <Pastilles liens={autres} idDuTitre="autres-services" />
+            </section>
+          )}
+        </div>
       </div>
-    )
-  }
-  {
-    fabriquee
-      ? commune && (
-          <ExplicationDuSoin
-            bref={premierParagraphe(html)}
-            enPhrase={enPhrase}
-            pageCommune={commune.data.url}
-            texteComplet={adresseDuTexteComplet(langue, slug)}
-            langue={langue}
-          />
-        )
-      : <Prose html={html} chapeau />
-  }
-  {
-    autres.length > 0 && (
-      <section class:list={['bloc', { 'service-clinique__autres': fabriquee }]}>
-        <h2 id="autres-services">{t.services.autresServices}</h2>
-        <Pastilles liens={autres} idDuTitre="autres-services" />
-      </section>
+    ) : (
+      <>
+        <Prose html={html} chapeau />
+        {autres.length > 0 && (
+          <section class="bloc">
+            <h2 id="autres-services">{t.services.autresServices}</h2>
+            <Pastilles liens={autres} idDuTitre="autres-services" />
+          </section>
+        )}
+      </>
     )
   }
   <Fragment slot="cote">
@@ -123,18 +131,19 @@ const conseils = fabriquee
 </PageInterieure>
 
 <style>
-  /* La page tient sur une seule grille, celle du corps et de sa colonne (.avec-cote) : à gauche ce
-     qui se lit, à droite ce qui sert à agir. La fiche du soin dans le cabinet ouvre la page : la
-     présentation, le prix et les infos pratiques à gauche, l'encadré de rendez-vous dans la
-     colonne. Un filet la sépare de l'explication du soin, où la carte du cabinet prend la colonne
-     et reste visible pendant la lecture. Sur un petit écran, tout s'empile dans l'ordre de la
-     page : présentation, prix, rendez-vous, infos pratiques. */
-  .service-clinique__fiche { padding-bottom: var(--espace-7); border-bottom: 1px solid var(--trait-leger); }
+  /* La page fabriquée a sa propre grille, celle du corps et de sa colonne : à gauche ce qui se lit,
+     la fiche du soin (présentation, prix, infos pratiques) puis son explication ; à droite
+     l'encadré de rendez-vous, seul, qui tient lieu de carte du cabinet et reste visible du haut au
+     bas de la page. Sur un petit écran, tout s'empile : la fiche, le rendez-vous, l'explication. */
+  .service-clinique,
+  .service-clinique__fiche,
+  .service-clinique__lecture { display: grid; gap: var(--espace-7); align-content: start; min-width: 0; }
   @media (min-width: 64rem) {
-    /* La dernière rangée prend la hauteur qui reste quand l'encadré dépasse les trois blocs. */
-    .service-clinique__fiche { grid-template-rows: auto auto 1fr; row-gap: var(--espace-7); }
-    .service-clinique__fiche > :global(*) { grid-column: 1; }
-    .service-clinique__fiche > .service-clinique__rendez-vous { grid-column: 2; grid-row: 1 / span 3; }
+    .service-clinique { grid-template-columns: minmax(0, 1fr) var(--largeur-cote); column-gap: var(--espace-8); }
+    .service-clinique__fiche { grid-column: 1; grid-row: 1; }
+    .service-clinique__lecture { grid-column: 1; grid-row: 2; }
+    .service-clinique__rendez-vous { grid-column: 2; grid-row: 1 / span 2; }
+    .service-clinique__rendez-vous > :global(*) { position: sticky; top: var(--espace-5); }
   }
   /* Les autres soins ferment la lecture, sous un filet, dans la largeur du texte. */
   .service-clinique__autres { max-width: var(--lecture); padding-top: var(--espace-6); border-top: 1px solid var(--trait-leger); }
