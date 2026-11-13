@@ -52,7 +52,7 @@ export async function problemesDuSite(): Promise<string[]> {
     if (!prefixe && LANGUES.some((l) => url.startsWith(`/${l}/`))) problemes.push(`${fichier} : l'adresse ${url} ne doit pas commencer par un préfixe de langue.`);
     const dossier = cle.split('/')[0];
     if (clinique && clinique !== dossier) problemes.push(`${fichier} : le champ clinique (${clinique}) ne correspond pas au dossier ${dossier}/.`);
-    if (typesDeClinique.includes(type) && !clinique) problemes.push(`${fichier} : le champ clinique manque, une page de type ${type} appartient à une clinique.`);
+    if (typesDeClinique.includes(type) && !clinique) problemes.push(`${fichier} : le champ clinique manque, une page de type ${type} appartient à un cabinet.`);
     if (!typesDeClinique.includes(type) && clinique) problemes.push(`${fichier} : le champ clinique est de trop, une page de type ${type} est une page commune.`);
     if (type === 'conseil-categorie' && !especes?.length) problemes.push(`${fichier} : le champ especes manque, une page de type conseil-categorie nomme son espèce (chien, chat ou nac).`);
   }
@@ -75,7 +75,7 @@ export async function problemesDuSite(): Promise<string[]> {
     if (!clinique.en_ligne) continue;
     for (const langue of LANGUES) {
       for (const cle of pagesObligatoires(clinique)) {
-        if (!existe(langue, cle)) problemes.push(`La clinique ${clinique.id} est en ligne mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
+        if (!existe(langue, cle)) problemes.push(`Le cabinet ${clinique.id} est en ligne mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
       }
     }
   }

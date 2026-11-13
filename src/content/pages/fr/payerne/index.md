@@ -23,7 +23,7 @@ Appelez le [026 660 16 16](tel:+41266601616) ou écrivez sur WhatsApp au même n
 - Samedi et dimanche : fermé
 <!-- /donnees -->
 
-Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, de 8 h 30 à 15 h, jamais les deux le même jour. Téléphonez avant de venir.
+Le samedi, les cabinets de Payerne et de Domdidier ouvrent à tour de rôle, jamais les deux le même jour. Téléphonez avant de venir.
 
 ## Les soins sur place
 

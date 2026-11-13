@@ -1,9 +1,10 @@
 // La découpe du HTML d'une page Markdown, pour que les gabarits placent ses morceaux :
 // sections ##, questions ###.
 
-/** Le texte d'un fragment HTML, sans balises. */
+/** Le texte d'un fragment HTML, sans balises ; la fin d'un élément de bloc laisse une espace. */
 export function texteDe(html: string): string {
   return html
+    .replace(/<\/(p|li|dt|dd|div|h[1-6]|td|th)>|<br\s*\/?>/gi, ' ')
     .replace(/<[^>]+>/g, '')
     .replace(/&#x27;|&#39;/g, "'")
     .replace(/&quot;/g, '"')

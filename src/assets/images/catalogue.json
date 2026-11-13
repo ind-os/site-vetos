@@ -653,5 +653,200 @@
       "de": "Logo von Vet'Urgence Neuchâtel"
     },
     "source": "https://vet-urgence-neuchatel.ch/assets/images/image10.jpg"
+  },
+  {
+    "fichier": "domdidier-accueil-veterinaire-chiot-chaton.jpg",
+    "sujet": "domdidier:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en blouse blanche tient dans ses bras un chiot cocker et un chaton roux",
+      "de": "Eine Tierärztin im weissen Kittel hält einen Cockerspaniel-Welpen und ein rotes Kätzchen im Arm"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+  },
+  {
+    "fichier": "domdidier-accueil-veterinaire-basset.jpg",
+    "sujet": "domdidier:accueil",
+    "alt": {
+      "fr": "Un vétérinaire à lunettes serre contre lui un basset tricolore, sous une lampe d'opération",
+      "de": "Ein Tierarzt mit Brille drückt einen dreifarbigen Basset an sich, unter einer Operationsleuchte"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.4
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/02/HR_p1-Collabo_Crop.jpg"
+  },
+  {
+    "fichier": "domdidier-accueil-veterinaires-examen-oreille.jpg",
+    "sujet": "domdidier:accueil",
+    "alt": {
+      "fr": "Deux vétérinaires examinent l'oreille d'un petit chien blanc à l'otoscope",
+      "de": "Zwei Tierärzte untersuchen mit dem Otoskop das Ohr eines kleinen weissen Hundes"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.5
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme-AMV_chien.jpg"
+  },
+  {
+    "fichier": "domdidier-locaux-reception.jpg",
+    "sujet": "domdidier:locaux",
+    "alt": {
+      "fr": "Au comptoir de la réception du cabinet de Domdidier, un vétérinaire et deux assistantes regardent un écran",
+      "de": "Am Empfangstresen der Praxis Domdidier schauen ein Tierarzt und zwei Assistentinnen auf einen Bildschirm"
+    },
+    "point_focal": {
+      "x": 0.6,
+      "y": 0.4
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Vetmint-domdidier-reception-Ewen-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-locaux-salle-d-attente.jpg",
+    "sujet": "domdidier:locaux",
+    "alt": {
+      "fr": "La salle d'attente du cabinet de Domdidier, vue depuis sa porte",
+      "de": "Das Wartezimmer der Praxis Domdidier, von der Tür aus gesehen"
+    },
+    "point_focal": {
+      "x": 0.4,
+      "y": 0.5
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Salle-attente_2-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-locaux-salle-de-consultation.jpg",
+    "sujet": "domdidier:locaux",
+    "alt": {
+      "fr": "La salle de consultation 2 du cabinet de Domdidier, avec sa table d'examen réglable en hauteur",
+      "de": "Das Sprechzimmer 2 der Praxis Domdidier mit seinem höhenverstellbaren Untersuchungstisch"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Consultation_2a--scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-locaux-salle-de-radiologie.jpg",
+    "sujet": "domdidier:locaux",
+    "alt": {
+      "fr": "La porte ouverte de la salle de radiographie du cabinet de Domdidier",
+      "de": "Die offene Tür des Röntgenraums der Praxis Domdidier"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.45
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Radiologie-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-locaux-salle-de-radiologie.jpg",
+    "sujet": "domdidier:service:radiographie",
+    "alt": {
+      "fr": "La porte ouverte de la salle de radiographie du cabinet de Domdidier",
+      "de": "Die offene Tür des Röntgenraums der Praxis Domdidier"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.45
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Radiologie-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-service-dentisterie-chat.jpg",
+    "sujet": "domdidier:service:dentisterie",
+    "alt": {
+      "fr": "Un vétérinaire masqué soigne les dents d'un chat endormi au cabinet de Domdidier",
+      "de": "Ein Tierarzt mit Maske behandelt in der Praxis Domdidier die Zähne einer schlafenden Katze"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Alex_intervention-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-service-chirurgie-moniteur.jpg",
+    "sujet": "domdidier:service:chirurgie",
+    "alt": {
+      "fr": "Le moniteur d'anesthésie et la bonbonne de chaux sodée de la salle d'opération du cabinet de Domdidier",
+      "de": "Der Narkosemonitor und der Atemkalkbehälter im Operationssaal der Praxis Domdidier"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.4
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Technique_1-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-equipe-diana-rodrigues.jpg",
+    "sujet": "domdidier:equipe:Diana Rodrigues",
+    "alt": {
+      "fr": "Diana Rodrigues, vétérinaire, sourit avec un petit chien beige contre elle",
+      "de": "Diana Rodrigues, Tierärztin, lächelt mit einem kleinen beigen Hund im Arm"
+    },
+    "point_focal": {
+      "x": 0.35,
+      "y": 0.39
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Diana-.jpg"
+  },
+  {
+    "fichier": "domdidier-equipe-pascale-bonny.jpg",
+    "sujet": "domdidier:equipe:Pascale Bonny",
+    "alt": {
+      "fr": "Pascale Bonny, vétérinaire en tenue bleue, assise dans l'herbe à côté d'un chien noir et blanc",
+      "de": "Pascale Bonny, Tierärztin in blauer Berufskleidung, sitzt im Gras neben einem schwarz-weissen Hund"
+    },
+    "point_focal": {
+      "x": 0.49,
+      "y": 0.26
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Pascale-scaled.jpg"
+  },
+  {
+    "fichier": "domdidier-equipe-manon-bernheim.jpg",
+    "sujet": "domdidier:equipe:Manon Bernheim",
+    "alt": {
+      "fr": "Manon Bernheim, apprentie assistante en médecine vétérinaire, en tenue turquoise au cabinet",
+      "de": "Manon Bernheim, Lernende Tiermedizinische Praxisassistentin, in türkisfarbener Berufskleidung in der Praxis"
+    },
+    "point_focal": {
+      "x": 0.51,
+      "y": 0.25
+    },
+    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Manon-scaled.jpg"
+  },
+  {
+    "fichier": "bussigny-accueil-veterinaire-chiot.jpg",
+    "sujet": "bussigny:accueil",
+    "alt": {
+      "fr": "Un vétérinaire aux cheveux gris, en blouse blanche, tient un chiot tricolore dans ses bras",
+      "de": "Ein grauhaariger Tierarzt im weissen Kittel hält einen dreifarbigen Welpen im Arm"
+    },
+    "point_focal": {
+      "x": 0.57,
+      "y": 0.45
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/02/HR-Vieux-veto-HR.jpeg"
+  },
+  {
+    "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
+    "sujet": "bussigny:equipe:Philippe Boudaroua",
+    "alt": {
+      "fr": "Philippe Boudaroua, vétérinaire, sourit à côté d'un grand chien blanc à poil long",
+      "de": "Philippe Boudaroua, Tierarzt, lächelt neben einem grossen weissen, langhaarigen Hund"
+    },
+    "point_focal": {
+      "x": 0.33,
+      "y": 0.33
+    },
+    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2026/08/PB.png"
   }
 ]

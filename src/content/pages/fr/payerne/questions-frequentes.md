@@ -15,11 +15,11 @@ Ces questions sont celles que nos clients posent le plus souvent au téléphone 
 
 ### Le cabinet est-il ouvert le samedi ?
 
-Pas chaque samedi. Le cabinet ouvre du lundi au vendredi, de 8 h à 18 h. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, de 8 h 30 à 15 h : jamais les deux le même jour. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les heures libres sont sur la page [Rendez-vous](/payerne/rendez-vous/).
+Pas chaque samedi : le cabinet ouvre à tour de rôle avec celui de Domdidier, jamais les deux le même jour. Téléphonez avant de venir un samedi. Le reste du week-end, le numéro de garde répond. Les horaires de chaque jour sont sur la page [Contact](/payerne/contact/), les heures libres sur la page [Rendez-vous](/payerne/rendez-vous/).
 
 ### Puis-je déposer mon animal le matin et le reprendre le soir ?
 
-Pour une opération, un détartrage ou une série d'examens, oui. Vous l'amenez dès 8 h et vous le reprenez en fin de journée, jusqu'à 18 h. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous. Pour un autre motif, demandez-le en prenant rendez-vous : l'équipe vous dit si c'est possible.
+Pour une opération, un détartrage ou une série d'examens, oui. Vous l'amenez à l'ouverture et vous le reprenez en fin de journée, avant la fermeture. Si votre horaire de travail ne le permet pas, dites-le en prenant rendez-vous : l'équipe cherche une autre heure avec vous. Pour un autre motif, demandez-le en prenant rendez-vous : l'équipe vous dit si c'est possible.
 
 ## Prix et paiement
 

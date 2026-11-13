@@ -78,7 +78,7 @@ const TITRE_2 = /<h2[^>]*>([\s\S]*?)<\/h2>/g;
 
 /**
  * Remplace les blocs de données d'une page par la valeur de la fiche. La clinique d'un bloc est
- * celle de la page ; sur une page qui présente plusieurs cliniques (/cliniques/), c'est celle que
+ * celle de la page ; sur une page qui présente plusieurs cliniques (/cabinets/), c'est celle que
  * nomme le dernier titre ## qui précède le bloc (« ## Vetmint Payerne »). `idDeLaPage` est
  * l'identifiant de la page, « fr/cliniques », nommé dans les messages d'erreur.
  */
@@ -89,7 +89,7 @@ export function remplirLesDonnees(html: string, cliniques: Clinique[], langue: L
     const titre = titres.filter((t) => t.position < position).at(-1)?.texte;
     const id = cliniqueDeLaPage ?? cliniques.find((c) => c.nom.toLowerCase() === titre)?.id;
     const clinique = cliniques.find((c) => c.id === id);
-    if (!clinique) throw new Error(`${fichier} : le bloc « donnees: ${type} » n'a pas de clinique. La page n'a pas de champ « clinique » et aucun titre ## ne nomme une clinique avant le bloc.`);
+    if (!clinique) throw new Error(`${fichier} : le bloc « donnees: ${type} » n'a pas de cabinet. La page n'a pas de champ « clinique » et aucun titre ## ne nomme un cabinet avant le bloc.`);
     if (type === 'horaires') return htmlDesHoraires(clinique, langue);
     if (type === 'fermetures') return htmlDesFermetures(clinique, langue);
     if (type === 'garde') return htmlDeLaGarde(clinique, langue);

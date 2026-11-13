@@ -60,7 +60,7 @@ L'espèce quand elle est connue (« votre chat », « votre chienne »), « votr
 
 - **Aucun slogan.** Sous un titre, une phrase de fait.
 - **Aucun avis client.** Les fiches Google des cabinets les portent.
-- **Aucune actualité datée.** Ni « nouveau », ni « désormais », ni « dès maintenant », ni « cette année ». La page décrit l'état présent ; une annonce passe par le bandeau de la fiche du cabinet ([fiche-clinique.md](fiche-clinique.md)).
+- **Aucune actualité datée.** Ni « nouveau », ni « désormais », ni « dès maintenant », ni « cette année ». La page décrit l'état présent ; une annonce passe par le bandeau de la fiche du cabinet ([fiche-du-cabinet.md](fiche-du-cabinet.md)).
 - **Aucune phrase sur la page elle-même.** Le lien porte sur l'action ou l'objet : « Prendre rendez-vous », « Le plan de prévention chiot ».
 - **Aucun texte qui parle de Vetmint au lieu de parler au propriétaire.** « Le plan de prévention chiot couvre pendant un an les consultations, les vaccins, les vermifuges, la puce électronique et le passeport de votre chiot », pas « notre philosophie nous pousse à proposer toujours plus de prévention ».
 - **Une marque seulement quand elle est le conseil réel du cabinet**, introduite par « par exemple ». Pas de liste de marques d'aliments ou de compléments. Un lien externe mène à un site de référence tenu par des vétérinaires ou une association reconnue, qu'il nomme.
@@ -170,7 +170,7 @@ Le script `outils/verifier-les-pages.mjs` signale la plupart d'entre eux.
 ### 2.4 Les orthographes de référence
 
 - vétérinaire, vétérinaires (jamais « véterinaire », « veterinaire ») ; assistante en médecine vétérinaire (AMV)
-- cabinet, cabinet vétérinaire, pour chaque lieu Vetmint ; en allemand Praxis, Tierarztpraxis. Jamais « clinique » ni « Klinik » pour un lieu Vetmint : l'appellation est protégée. Le mot reste pour un autre établissement (« une clinique de référence ») et pour l'adjectif médical (« l'examen clinique »). Attention aux accords : « le cabinet est ouvert », « il vous rappelle ». L'adresse de la liste des cabinets est `/cabinets/`. Le code garde le nom `clinique` pour un cabinet : le champ `clinique` de l'en-tête, les fiches de `src/donnees/cliniques/`, les types `accueil-clinique`, `services-clinique` et `service-clinique`. Ces noms ne s'affichent jamais.
+- cabinet, cabinet vétérinaire, pour chaque lieu Vetmint ; en allemand Praxis, Tierarztpraxis. Jamais « clinique » ni « Klinik » pour un lieu Vetmint : l'appellation est protégée. Le mot reste pour un autre établissement (« une clinique de référence ») et pour l'adjectif médical (« l'examen clinique »). Attention aux accords : « le cabinet est ouvert », « il vous rappelle ». L'adresse de la liste des cabinets est `/cabinets/`. Le code garde le nom `clinique` pour un cabinet : le champ `clinique` de l'en-tête, les fiches de `src/donnees/cliniques/`, les types `accueil-clinique`, `services-clinique` et `service-clinique`. Ces noms ne s'affichent jamais. La doc, les skills et `CLAUDE.md` disent « cabinet » eux aussi : `clinique` n'y paraît que pour citer un nom du code.
 - Vetmint (jamais « VetMint », « VETMINT ») ; les raisons sociales « Vetmint Bussigny SA », « Vetmint Payerne SA » restent dans le pied de page et les mentions légales
 - coryza, typhus, leucose, parvovirose, leptospirose, maladie de Carré, hépatite contagieuse, rage
 - rez-de-chaussée, hospitalisation, annulation, e-mail, WhatsApp, TWINT
@@ -191,7 +191,7 @@ Les cabinets :
 | Saint-Blaise | St-Blaise |
 | Saint-Légier (commune de Saint-Légier-La Chiésaz) | St-Légier, Saint-Legier, Saint-Légier-La-Chiésaz |
 
-Les adresses, téléphones et e-mails des cabinets sont dans leur fiche (`src/donnees/cliniques/<clinique>.json`), qui fait foi.
+Les adresses, téléphones et e-mails des cabinets sont dans leur fiche (`src/donnees/cliniques/<cabinet>.json`), qui fait foi.
 
 ## 3. La typographie
 

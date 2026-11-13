@@ -50,7 +50,7 @@ const servicesDUrgence = [
 // dix jours et dure trois jours : l'exemple reste à venir quel que soit le jour de la construction.
 const dansNJours = (n: number) => new Date(Date.now() + n * 86_400_000).toISOString().slice(0, 10);
 const avecDeuxGardes = { ...payerne, garde: { ...payerne.garde, autre: { nom: "Vet'Urgences Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, tarif: { fr: 'numéro gratuit, de 8 h à minuit', de: 'kostenlose Nummer, von 8 bis 24 Uhr' } } } };
-const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'La clinique ferme à 16 h ce vendredi.', de: '' }, niveau: 'info' as const } };
+const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'Le cabinet ferme à 16 h ce vendredi.', de: '' }, niveau: 'info' as const } };
 const avecBandeauUrgent = { ...payerne, bandeau: { texte: { fr: 'Le téléphone est en dérangement ce matin : écrivez sur WhatsApp.', de: '' }, niveau: 'urgent' as const } };
 const avecFermeture = { ...payerne, fermetures: [{ du: dansNJours(10), au: dansNJours(12), motif: { fr: 'formation de l’équipe', de: '' } }] };
 
@@ -92,7 +92,7 @@ const sectionsExemple = sections(`
 <p>Route du Châtelard 13, 1530 Payerne. Téléphone <a href="#">026 660 16 16</a>.</p>
 ${htmlDeLaGarde(payerne, langue)}
 <p>Chiens, chats, lapins et rongeurs.</p>
-<p><a class="bouton bouton--principal" href="#">La clinique Vetmint Payerne</a></p>
+<p><a class="bouton bouton--principal" href="#">Le cabinet Vetmint Payerne</a></p>
 <h2>Une section plus courte</h2>
 <p>Son bouton se pose à la même hauteur que celui de la carte voisine.</p>
 <p><a class="bouton bouton--principal" href="#">Un bouton</a></p>`, 2).sections;
@@ -108,7 +108,7 @@ ${htmlDeLaGarde(payerne, langue)}
       <a href="#fondations">Fondations</a>
       <a href="#actions">Actions</a>
       <a href="#urgence">Urgence</a>
-      <a href="#donnees">Données de la clinique</a>
+      <a href="#donnees">Données du cabinet</a>
       <a href="#cartes">Cartes</a>
       <a href="#texte">Texte</a>
       <a href="#mise-en-page">Mise en page</a>
@@ -138,11 +138,11 @@ ${htmlDeLaGarde(payerne, langue)}
       </Exemple>
 
       <Exemple titre="Typographie" description="Titres en Nunito 800, marine. Texte en Nunito Sans 17 px, interligne 1,55. Le surtitre, en petites capitales menthe, situe la page." fichier="styles/charte.css">
-        <p class="surtitre">Clinique vétérinaire · Payerne (VD)</p>
+        <p class="surtitre">Cabinet vétérinaire · Payerne (VD)</p>
         <p class="apercu-titre apercu-titre--1">Titre de page, h1</p>
         <p class="apercu-titre apercu-titre--2">Titre de section, h2</p>
         <p class="apercu-titre apercu-titre--3">Titre de carte, h3</p>
-        <p>Le texte courant. La clinique reçoit les chiens, les chats, les lapins et les rongeurs à la route du Châtelard 13.</p>
+        <p>Le texte courant. Le cabinet reçoit les chiens, les chats, les lapins et les rongeurs à la route du Châtelard 13.</p>
       </Exemple>
 
       <Exemple titre="Photo" description="Une photo du catalogue (src/assets/images/catalogue.json), encadrée, recadrée sur son point focal. Elle ne porte jamais de texte. Coins de 16 px ; arrondi={false} pour une photo qui touche les bords d’une carte." fichier="composants/Photo.astro" code={`<Photo photo={photo('payerne:locaux', langue)} ratio="4 / 3" largeur={360} />\n<Photo photo={photo('payerne:locaux', langue)} ratio="4 / 3" largeur={360} arrondi={false} />`}>
@@ -156,9 +156,9 @@ ${htmlDeLaGarde(payerne, langue)}
     <section id="actions">
       <h2>Actions</h2>
 
-      <Exemple titre="Bouton" description="En pilule, en aplat. Principal, menthe plein : l’action de la page, une seule par bloc. Secondaire, contour marine : l’action d’à côté. Dans le Markdown, un lien seul sur sa ligne devient un bouton principal. « large » prend toute la largeur de son conteneur, dans une carte." fichier="composants/Bouton.astro" code={`<Bouton href="/cabinets/">Trouver son cabinet</Bouton>\n<Bouton variante="secondaire" href="tel:+41266601616">Appeler le 026 660 16 16</Bouton>\n<Bouton taille="petit">Petit bouton</Bouton>\n<Bouton href="/cliniques/" taille="petit" large>Toute la largeur</Bouton>`}>
+      <Exemple titre="Bouton" description="En pilule, en aplat. Principal, menthe plein : l’action de la page, une seule par bloc. Secondaire, contour marine : l’action d’à côté. Dans le Markdown, un lien seul sur sa ligne devient un bouton principal. « large » prend toute la largeur de son conteneur, dans une carte." fichier="composants/Bouton.astro" code={`<Bouton href="/cabinets/">Trouver son cabinet</Bouton>\n<Bouton variante="secondaire" href="tel:+41266601616">Appeler le 026 660 16 16</Bouton>\n<Bouton taille="petit">Petit bouton</Bouton>\n<Bouton href="/cabinets/" taille="petit" large>Toute la largeur</Bouton>`}>
         <div class="rangee">
-          <Bouton href="#">Trouver sa clinique</Bouton>
+          <Bouton href="#">Trouver son cabinet</Bouton>
           <Bouton variante="secondaire" href="#">Appeler le 026 660 16 16</Bouton>
           <Bouton taille="petit">Petit bouton</Bouton>
           <Bouton taille="petit" variante="secondaire">Petit secondaire</Bouton>
@@ -166,14 +166,14 @@ ${htmlDeLaGarde(payerne, langue)}
         <div class="etroit"><Bouton href="#" taille="petit" large>Toute la largeur</Bouton></div>
       </Exemple>
 
-      <Exemple titre="Bouton de rendez-vous" description="Ouvre l’agenda de la clinique dans un panneau à droite (Calendly), ou dans un onglet (VetLink). Calendly se charge quand le visiteur survole le bouton ou y pose le focus, et le panneau s’ouvre au clic. Sans JavaScript, le lien ouvre un onglet." fichier="composants/BoutonRendezVous.astro" code={`<BoutonRendezVous clinique={clinique} langue={langue} />`}>
+      <Exemple titre="Bouton de rendez-vous" description="Ouvre l’agenda du cabinet dans un panneau à droite (Calendly), ou dans un onglet (VetLink). Calendly se charge quand le visiteur survole le bouton ou y pose le focus, et le panneau s’ouvre au clic. Sans JavaScript, le lien ouvre un onglet." fichier="composants/BoutonRendezVous.astro" code={`<BoutonRendezVous clinique={clinique} langue={langue} />`}>
         <div class="rangee">
           <BoutonRendezVous clinique={payerne} langue={langue} />
           <BoutonRendezVous clinique={payerne} langue={langue} variante="secondaire" taille="petit" />
         </div>
       </Exemple>
 
-      <Exemple titre="Rendez-vous à côté du texte" description="Sur les pages longues qui ne sont pas celles d’une clinique (un service, un conseil). La carte reste visible pendant la lecture. Le bouton mène au choix de la clinique." fichier="composants/AppelRendezVous.astro" code={`<AppelRendezVous langue={langue} />`}>
+      <Exemple titre="Rendez-vous à côté du texte" description="Sur les pages longues qui ne sont pas celles d’un cabinet (un service, un conseil). La carte reste visible pendant la lecture. Le bouton mène au choix du cabinet." fichier="composants/AppelRendezVous.astro" code={`<AppelRendezVous langue={langue} />`}>
         <div class="etroit"><AppelRendezVous langue={langue} /></div>
       </Exemple>
     </section>
@@ -185,7 +185,7 @@ ${htmlDeLaGarde(payerne, langue)}
         <div class="rangee"><CroixSuisse /> <CroixSuisse taille="32px" /></div>
       </Exemple>
 
-      <Exemple titre="Rappel d’urgence" description="Le numéro de garde, cliquable, avec son tarif : le même libellé que le bloc « donnees: garde » d’une page. En ligne sous l’accueil d’une clinique ; en bloc, plus grand, en tête de sa page Urgences. Un second service de garde de la région (« garde.autre » de la fiche) s’ajoute en dessous, sous son nom." fichier="composants/AppelUrgence.astro" code={`<AppelUrgence clinique={clinique} langue={langue} />\n<AppelUrgence clinique={clinique} langue={langue} forme="bloc" />`}>
+      <Exemple titre="Rappel d’urgence" description="Le numéro de garde, cliquable, avec son tarif : le même libellé que le bloc « donnees: garde » d’une page. En ligne sous l’accueil d’un cabinet ; en bloc, plus grand, en tête de sa page Urgences. Un second service de garde de la région (« garde.autre » de la fiche) s’ajoute en dessous, sous son nom." fichier="composants/AppelUrgence.astro" code={`<AppelUrgence clinique={clinique} langue={langue} />\n<AppelUrgence clinique={clinique} langue={langue} forme="bloc" />`}>
         <AppelUrgence clinique={payerne} langue={langue} />
         <AppelUrgence clinique={payerne} langue={langue} forme="bloc" />
         <AppelUrgence clinique={avecDeuxGardes} langue={langue} />
@@ -197,8 +197,8 @@ ${htmlDeLaGarde(payerne, langue)}
     </section>
 
     <section id="donnees">
-      <h2>Données de la clinique</h2>
-      <p class="intro">Ces blocs lisent la fiche de la clinique (<code>src/donnees/cliniques/&lt;clinique&gt;.json</code>). Pour changer un horaire, une fermeture ou une annonce, on change la fiche : toutes les pages suivent.</p>
+      <h2>Données du cabinet</h2>
+      <p class="intro">Ces blocs lisent la fiche du cabinet (<code>src/donnees/cliniques/&lt;cabinet&gt;.json</code>). Pour changer un horaire, une fermeture ou une annonce, on change la fiche : toutes les pages suivent.</p>
 
       <Exemple titre="Horaires" description="Les jours qui ont les mêmes plages se regroupent. La ligne « Ouvert maintenant » se calcule dans le navigateur, à l’heure de Zurich. Les fermetures annoncées s’ajoutent dessous jusqu’à leur dernier jour. Sur fond marine, dans le pied de page, les filets et le statut passent en clair." fichier="composants/Horaires.astro" code={`<Horaires clinique={clinique} langue={langue} />`}>
         <div class="trois">
@@ -208,11 +208,11 @@ ${htmlDeLaGarde(payerne, langue)}
         </div>
       </Exemple>
 
-      <Exemple titre="Statut d’ouverture" description="Seul, pour une carte de clinique. Le point menthe dit ouvert, gris fermé." fichier="composants/StatutOuverture.astro" code={`<StatutOuverture clinique={clinique} langue={langue} />`}>
+      <Exemple titre="Statut d’ouverture" description="Seul, pour une carte de cabinet. Le point menthe dit ouvert, gris fermé." fichier="composants/StatutOuverture.astro" code={`<StatutOuverture clinique={clinique} langue={langue} />`}>
         <StatutOuverture clinique={payerne} langue={langue} />
       </Exemple>
 
-      <Exemple titre="Bandeau d’annonce" description="En haut de chaque page de la clinique, jusqu’à sa date de fin (champ bandeau de la fiche). « urgent » le pose en rouge." fichier="composants/BandeauAnnonce.astro" code={`"bandeau": { "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`}>
+      <Exemple titre="Bandeau d’annonce" description="En haut de chaque page du cabinet, jusqu’à sa date de fin (champ bandeau de la fiche). « urgent » le pose en rouge." fichier="composants/BandeauAnnonce.astro" code={`"bandeau": { "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`}>
         <BandeauAnnonce clinique={avecBandeau} langue={langue} />
         <BandeauAnnonce clinique={avecBandeauUrgent} langue={langue} />
       </Exemple>
@@ -221,14 +221,14 @@ ${htmlDeLaGarde(payerne, langue)}
     <section id="cartes">
       <h2>Cartes</h2>
 
-      <Exemple titre="Carte" description="Fond blanc, filet gris, coins de 12 px. Elle porte un bloc d’information, avec un lien qui la termine. Son titre est un h3 par défaut ; dans une page, une carte posée directement dans une section prend niveau={2}." fichier="composants/Carte.astro" code={`<Carte titre="Venir à la clinique" niveau={2} href="/payerne/contact/" lien="Itinéraire">\n  <p>Route du Châtelard 13, 1530 Payerne</p>\n</Carte>`} fond="gris">
+      <Exemple titre="Carte" description="Fond blanc, filet gris, coins de 12 px. Elle porte un bloc d’information, avec un lien qui la termine. Son titre est un h3 par défaut ; dans une page, une carte posée directement dans une section prend niveau={2}." fichier="composants/Carte.astro" code={`<Carte titre="Venir au cabinet" niveau={2} href="/payerne/contact/" lien="Itinéraire">\n  <p>Route du Châtelard 13, 1530 Payerne</p>\n</Carte>`} fond="gris">
         <div class="trois">
-          <Carte titre="Venir à la clinique" href="#" lien="Itinéraire"><p>Route du Châtelard 13, 1530 Payerne</p><p>Places de parc gratuites à proximité.</p></Carte>
+          <Carte titre="Venir au cabinet" href="#" lien="Itinéraire"><p>Route du Châtelard 13, 1530 Payerne</p><p>Places de parc gratuites à proximité.</p></Carte>
           <Carte titre="Nous joindre"><p><a class="lien-fort" href="#">026 660 16 16</a></p><p>payerne@vetmint.ch</p></Carte>
         </div>
       </Exemple>
 
-      <Exemple titre="Carte de clinique" description="Une clinique : nom, statut, adresse, téléphone, rendez-vous. Le lien mène à ses pages, ou à l’adresse hors ligne de sa fiche tant qu’elle n’est pas en ligne. Sur les pages de la clinique elle-même, lienVersLaClinique={false} retire ce lien." fichier="composants/CarteClinique.astro" code={`<CarteClinique clinique={clinique} langue={langue} />\n<CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />`} fond="gris">
+      <Exemple titre="Carte de cabinet" description="Un cabinet : nom, statut, adresse, téléphone, rendez-vous. Le lien mène à ses pages, ou à l’adresse hors ligne de sa fiche tant qu’il n’est pas en ligne. Sur les pages du cabinet lui-même, lienVersLaClinique={false} retire ce lien." fichier="composants/CarteClinique.astro" code={`<CarteClinique clinique={clinique} langue={langue} />\n<CarteClinique clinique={clinique} langue={langue} niveau={2} lienVersLaClinique={false} />`} fond="gris">
         <div class="trois">
           <CarteClinique clinique={payerne} langue={langue} />
           <CarteClinique clinique={cliniques[0]} langue={langue} />
@@ -257,11 +257,11 @@ ${htmlDeLaGarde(payerne, langue)}
         </div>
       </Exemple>
 
-      <Exemple titre="Carte des cliniques" description="La Suisse romande en SVG, sans bibliothèque de carte : les lacs, et les autoroutes A1, A5, A9 et A12 comme repères. Tous les points sont marine ; chacun mène à sa clinique. Le point survolé ou sous le focus clavier passe en menthe, comme celui de la clinique survolée dans la liste." fichier="composants/CarteDesCliniques.astro" code={`<CarteDesCliniques cliniques={cliniques} langue={langue} />`}>
+      <Exemple titre="Carte des cabinets" description="La Suisse romande en SVG, sans bibliothèque de carte : les lacs, et les autoroutes A1, A5, A9 et A12 comme repères. Tous les points sont marine ; chacun mène à son cabinet. Le point survolé ou sous le focus clavier passe en menthe, comme celui du cabinet survolé dans la liste." fichier="composants/CarteDesCliniques.astro" code={`<CarteDesCliniques cliniques={cliniques} langue={langue} />`}>
         <div class="etroit"><CarteDesCliniques cliniques={cliniques} langue={langue} /></div>
       </Exemple>
 
-      <Exemple titre="Carte et cliniques" description="La carte à côté des cliniques, sur l’accueil et la page des cliniques. Sur un grand écran, elle reste visible le long de la liste. Passer sur une clinique allume son point, et passer sur un point allume sa clinique. Seule la couleur change." fichier="composants/ReseauDesCliniques.astro" code={`<ReseauDesCliniques cliniques={cliniques} langue={langue} />`}>
+      <Exemple titre="Carte et cabinets" description="La carte à côté des cabinets, sur l’accueil et la page des cabinets. Sur un grand écran, elle reste visible le long de la liste. Passer sur un cabinet allume son point, et passer sur un point allume son cabinet. Seule la couleur change." fichier="composants/ReseauDesCliniques.astro" code={`<ReseauDesCliniques cliniques={cliniques} langue={langue} />`}>
         <ReseauDesCliniques cliniques={cliniques} langue={langue} />
       </Exemple>
     </section>
@@ -269,11 +269,11 @@ ${htmlDeLaGarde(payerne, langue)}
     <section id="texte">
       <h2>Texte</h2>
 
-      <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile (le second tableau, à voir sur un téléphone). Une ligne dont la première case est vide continue celle du dessus : un second numéro sous le premier, par exemple. Une citation se met à part. Un bloc de données (horaires, garde) se remplit avec la fiche de la clinique." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
+      <Exemple titre="Texte d’une page" description="Le Markdown d’une page, mis en forme. Une liste dont chaque point commence par un lien devient une liste de cartes. Un tableau défile sur un petit écran ; de trois colonnes ou plus, il s’empile (le second tableau, à voir sur un téléphone). Une ligne dont la première case est vide continue celle du dessus : un second numéro sous le premier, par exemple. Une citation se met à part. Un bloc de données (horaires, garde) se remplit avec la fiche du cabinet." fichier="composants/Prose.astro" code={`<Prose html={html} chapeau />`}>
         <Prose html={proseExemple} chapeau />
       </Exemple>
 
-      <Exemple titre="Texte en cartes" description="Le texte d’une page coupé à chaque titre ## (ou ###) : une carte par section, deux par ligne sur un grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de sa carte. Sur la page des cliniques (##) et pour les postes ouverts de la page Emploi (###)." fichier="composants/SectionsEnCartes.astro" code={`<SectionsEnCartes sections={sections(html, 2).sections} />`} fond="gris">
+      <Exemple titre="Texte en cartes" description="Le texte d’une page coupé à chaque titre ## (ou ###) : une carte par section, deux par ligne sur un grand écran, une seule sur un téléphone. Le bouton qui termine une section se pose en bas de sa carte. Sur la page des cabinets (##) et pour les postes ouverts de la page Emploi (###)." fichier="composants/SectionsEnCartes.astro" code={`<SectionsEnCartes sections={sections(html, 2).sections} />`} fond="gris">
         <SectionsEnCartes sections={sectionsExemple} />
       </Exemple>
 
@@ -293,7 +293,7 @@ ${htmlDeLaGarde(payerne, langue)}
         />
       </Exemple>
 
-      <Exemple titre="Pastilles" description="Des liens courts en pastilles : sur la page d’un soin dans une clinique, les autres soins de la clinique. Le titre visible au-dessus nomme la liste : son id se passe à idDuTitre." fichier="composants/Pastilles.astro" code={`<h2 id="autres-services">Les autres soins de la clinique</h2>\n<Pastilles liens={[{ libelle: 'Radiographie', href: '/payerne/services/radiographie/' }]} idDuTitre="autres-services" />`}>
+      <Exemple titre="Pastilles" description="Des liens courts en pastilles : sur la page d’un soin dans un cabinet, les autres soins du cabinet. Le titre visible au-dessus nomme la liste : son id se passe à idDuTitre." fichier="composants/Pastilles.astro" code={`<h2 id="autres-services">Les autres soins du cabinet</h2>\n<Pastilles liens={[{ libelle: 'Radiographie', href: '/payerne/services/radiographie/' }]} idDuTitre="autres-services" />`}>
         <p class="surtitre" id="pastilles-exemple">Les autres soins à Payerne</p>
         <Pastilles liens={[{ libelle: 'Consultation', href: '#' }, { libelle: 'Vaccination du chien', href: '#' }, { libelle: 'Radiographie', href: '#' }, { libelle: 'Soins dentaires', href: '#' }]} idDuTitre="pastilles-exemple" />
       </Exemple>
@@ -323,7 +323,7 @@ ${htmlDeLaGarde(payerne, langue)}
       <Exemple titre="Accueil" description="Le premier écran d’un accueil : surtitre, titre, accroche, boutons, et la photo encadrée à côté du titre. Le rappel d’urgence se pose dessous." fichier="composants/Accueil.astro" code={`<Accueil surtitre="…" titre="…" accroche="…" photo={photo}>\n  <Fragment slot="actions">…</Fragment>\n</Accueil>`}>
         <!-- inert : l'exemple n'est pas lu comme un titre de la page, qui garde un seul h1 -->
         <div inert>
-          <Accueil surtitre="Clinique vétérinaire · Payerne (VD)" titre="Clinique vétérinaire Vetmint Payerne" accroche="Route du Châtelard 13, 1530 Payerne" photo={photo('payerne:accueil', langue, 1)}>
+          <Accueil surtitre="Cabinet vétérinaire · Payerne (VD)" titre="Cabinet vétérinaire Vetmint Payerne" accroche="Route du Châtelard 13, 1530 Payerne" photo={photo('payerne:accueil', langue, 1)}>
             <Fragment slot="actions">
               <BoutonRendezVous clinique={payerne} langue={langue} />
               <Bouton variante="secondaire" href="#">Appeler le 026 660 16 16</Bouton>
@@ -337,13 +337,13 @@ ${htmlDeLaGarde(payerne, langue)}
         <div inert><TeteDePage titre="Radiographie à Payerne" fil={[{ libelle: 'Accueil', href: '#' }, { libelle: 'Payerne', href: '#' }, { libelle: 'Radiographie', href: '#' }]} etiquetteDuFil="Exemple" surtitre="Ce soin à Payerne" photo={photo('service:radiographie', langue)} /></div>
       </Exemple>
 
-      <Exemple titre="Section" description="Une bande de la page, dans la largeur du site. Les fonds blanc et gris bleuté alternent d’une section à l’autre." fichier="composants/Section.astro" code={`<Section titre="Les soins de la clinique" fond="gris" id="services">…</Section>`}>
+      <Exemple titre="Section" description="Une bande de la page, dans la largeur du site. Les fonds blanc et gris bleuté alternent d’une section à l’autre." fichier="composants/Section.astro" code={`<Section titre="Les soins du cabinet" fond="gris" id="services">…</Section>`}>
         <Section titre="Une section sur fond gris" fond="gris"><p>Le contenu de la section.</p></Section>
       </Exemple>
 
-      <Exemple titre="Sous-section" description="Une partie du corps d’une page, sous le texte : son titre h2, à la taille d’un titre de carte, puis son contenu. Des cartes s’y rangent en grille (classe .grille-de-cartes : --min, la largeur minimale d’une colonne, 15rem par défaut ; --gap, l’écart, --espace-4 par défaut)." fichier="styles/charte.css" code={`<section class="bloc">\n  <h2>Les services de la clinique</h2>\n  <div class="grille-de-cartes" style="--min: 16rem">…</div>\n</section>`}>
+      <Exemple titre="Sous-section" description="Une partie du corps d’une page, sous le texte : son titre h2, à la taille d’un titre de carte, puis son contenu. Des cartes s’y rangent en grille (classe .grille-de-cartes : --min, la largeur minimale d’une colonne, 15rem par défaut ; --gap, l’écart, --espace-4 par défaut)." fichier="styles/charte.css" code={`<section class="bloc">\n  <h2>Les services du cabinet</h2>\n  <div class="grille-de-cartes" style="--min: 16rem">…</div>\n</section>`}>
         <section class="bloc">
-          <h2>Les services de la clinique</h2>
+          <h2>Les services du cabinet</h2>
           <div class="grille-de-cartes" style="--min: 16rem">
             <CarteService titre="Radiographie" resume="Os, poumons, ventre." href="#" lien="Voir le service" />
             <CarteService titre="Échographie" resume="Le ventre, le cœur et la gestation." href="#" lien="Voir le service" />
@@ -351,7 +351,7 @@ ${htmlDeLaGarde(payerne, langue)}
         </section>
       </Exemple>
 
-      <Exemple titre="Colonne latérale" description="Le corps d’une page et une colonne à côté (classe .avec-cote) : dès 1 024 px de large, la colonne de 20rem (--largeur-cote) se place à droite et reste visible pendant la lecture (.avec-cote__cote). En dessous, elle suit le corps. Les pages intérieures et l’accueil d’une clinique l’utilisent." fichier="styles/charte.css" code={`<div class="avec-cote">\n  <div>Le corps de la page</div>\n  <aside class="avec-cote__cote">…</aside>\n</div>`}>
+      <Exemple titre="Colonne latérale" description="Le corps d’une page et une colonne à côté (classe .avec-cote) : dès 1 024 px de large, la colonne de 20rem (--largeur-cote) se place à droite et reste visible pendant la lecture (.avec-cote__cote). En dessous, elle suit le corps. Les pages intérieures et l’accueil d’un cabinet l’utilisent." fichier="styles/charte.css" code={`<div class="avec-cote">\n  <div>Le corps de la page</div>\n  <aside class="avec-cote__cote">…</aside>\n</div>`}>
         <div class="avec-cote">
           <Prose html="<p>Le corps de la page : le texte, les cartes, les sous-sections. Il prend toute la largeur qui reste à côté de la colonne.</p>" />
           <aside class="avec-cote__cote"><AppelRendezVous langue={langue} /></aside>

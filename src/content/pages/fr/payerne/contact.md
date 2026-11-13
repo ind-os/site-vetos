@@ -31,7 +31,7 @@ Sur WhatsApp, une photo de la plaie ou de la grosseur aide le vétérinaire à j
 - Aucune fermeture prévue
 <!-- /donnees -->
 
-Le cabinet est ouvert toute l'année. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, de 8 h 30 à 15 h, jamais les deux le même jour : téléphonez avant de venir.
+Le cabinet est ouvert toute l'année. Le samedi, il ouvre à tour de rôle avec le cabinet de Domdidier, jamais les deux le même jour : téléphonez avant de venir.
 
 ## En voiture
 

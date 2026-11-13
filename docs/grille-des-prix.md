@@ -39,7 +39,7 @@ Le site écrit le montant à la forme de la langue et de l'endroit : la forme d'
 
 ## Le coût à la minute d'un numéro de garde
 
-Seul montant tapé à la main : le coût à la minute d'un numéro de garde en 0900. Il vit dans le champ `garde` de la fiche du cabinet ([fiche-clinique.md](fiche-clinique.md)) et s'écrit à côté du numéro : « 2 francs la minute », « 2 CHF/min » dans un tableau ; en allemand « 2 Franken pro Minute », « CHF 2.–/Min. » dans un tableau.
+Seul montant tapé à la main : le coût à la minute d'un numéro de garde en 0900. Il vit dans le champ `garde` de la fiche du cabinet ([fiche-du-cabinet.md](fiche-du-cabinet.md)) et s'écrit à côté du numéro : « 2 francs la minute », « 2 CHF/min » dans un tableau ; en allemand « 2 Franken pro Minute », « CHF 2.–/Min. » dans un tableau.
 
 ## La page `/grille-des-prix/`
 

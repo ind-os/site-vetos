@@ -24,7 +24,7 @@ Die meisten Heimtiere sind in der Natur Beutetiere. Sie verbergen Schmerz und Kr
 
 Auch ihr Körper hat seine Regeln. Die Zähne von Kaninchen und Meerschweinchen wachsen ein Leben lang und nutzen sich nur durch Heu ab. Die Verdauung des Kaninchens darf nie stillstehen: Ein Kaninchen, das seit sechs Stunden nicht mehr frisst, ist ein Notfall. Ein Vogel atmet über empfindliche Luftsäcke und verträgt Stress schlecht. Ein Reptil ist auf die Wärme seines Terrariums angewiesen, um zu verdauen und zu genesen.
 
-Die Tierärztin oder der Tierarzt für Heimtiere kennt diese Unterschiede. Sie oder er passt Untersuchung, Medikamentendosen, Narkose und Dauer des Klinikaufenthalts an jede Art an. Viele Medikamente, die für einen Hund ungefährlich sind, sind für ein Kaninchen oder ein Meerschweinchen giftig.
+Die Tierärztin oder der Tierarzt für Heimtiere kennt diese Unterschiede. Sie oder er passt Untersuchung, Medikamentendosen, Narkose und Dauer der stationären Betreuung an jede Art an. Viele Medikamente, die für einen Hund ungefährlich sind, sind für ein Kaninchen oder ein Meerschweinchen giftig.
 
 ## Die Vorsorge
 

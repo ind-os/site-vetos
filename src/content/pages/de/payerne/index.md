@@ -23,7 +23,7 @@ Rufen Sie die [026 660 16 16](tel:+41266601616) an oder schreiben Sie auf WhatsA
 - Samstag und Sonntag: geschlossen
 <!-- /donnees -->
 
-Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, von 8.30 bis 15 Uhr, nie beide am selben Tag. Rufen Sie vor dem Besuch an.
+Am Samstag öffnen die Praxen Payerne und Domdidier abwechselnd, nie beide am selben Tag. Rufen Sie vor dem Besuch an.
 
 ## Die Leistungen vor Ort
 

@@ -1,6 +1,6 @@
 ---
 name: rediger-une-page
-description: "À suivre pour écrire, réécrire ou traduire un texte du site Vetmint : une page d'une clinique, un service, un conseil santé, une page commune, un title ou une description. Donne les gestes dans l'ordre, du choix du fichier à la page vérifiée en français et en allemand."
+description: "À suivre pour écrire, réécrire ou traduire un texte du site Vetmint : une page d'un cabinet, un service, un conseil santé, une page commune, un title ou une description. Donne les gestes dans l'ordre, du choix du fichier à la page vérifiée en français et en allemand."
 ---
 
 # Rédiger une page
@@ -12,13 +12,13 @@ Les règles et le pourquoi sont dans `docs/` : le plan des pages (`docs/plan-des
 1. Trouve le type de la page et son fichier dans `docs/plan-des-pages.md`. Une page qui existe se modifie dans son fichier ; une page nouvelle prend le chemin et le type du plan.
 2. La page d'un service dans un cabinet n'a pas de fichier : le site la fabrique avec la fiche du cabinet, sa grille des prix et la page commune du service (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Elle se modifie à ces trois endroits, jamais ailleurs.
 3. Lis le plan du type dans `docs/structure-des-pages.md` : les sections dans l'ordre, le volume, la forme du title, du H1 et de la description, les liens obligatoires.
-4. Ouvre une page existante du même type (champ `type` de l'en-tête) et prends-la pour modèle. Pour une page d'une clinique, la même page de Payerne.
+4. Ouvre une page existante du même type (champ `type` de l'en-tête) et prends-la pour modèle. Pour une page d'un cabinet, la même page de Payerne.
 5. Si la demande de la personne s'écarte du plan (une section en moins, un ordre différent, un texte bien plus long ou plus court), dis-le-lui avant d'écrire : ce que le plan prévoit, et ce que sa demande change pour l'homogénéité du site. Fais ce qu'elle décide.
 6. Note la recherche visée par la page : une seule expression, par exemple « radiographie chien Payerne ».
 
 ## 2. Rassembler les faits
 
-1. La fiche de la clinique : `src/donnees/cliniques/<clinique>.json`.
+1. La fiche du cabinet : `src/donnees/cliniques/<cabinet>.json`.
 2. La grille des prix du cabinet : `src/donnees/tarifs/<cabinet>.json`. Un prix absent de la grille s'y ajoute d'abord (`docs/grille-des-prix.md`, « Les gestes courants »).
 3. Les pages du site qui parlent du sujet : `grep -rl "<mot>" src/content/pages/fr/`.
 4. La personne qui demande la modification : un prix, un horaire, un nom qu'elle donne fait foi.
@@ -32,7 +32,7 @@ Un fait qui manque ne s'invente pas (charte, section 4). Ne s'inventent jamais :
 2. Le corps, section par section, dans l'ordre du plan du type et sur le modèle de la page choisie. Le H1 n'est pas dans le corps.
 3. Les horaires et le numéro de garde dans leur bloc de données, chaque prix par son jeton `{prix:<cle>}` : jamais écrits à la main.
 4. Les liens vers les pages liées (rendez-vous, tarifs, page commune du service) ; les téléphones en `tel:+41…`.
-5. Relis une fois contre la voix de la charte : phrases courtes, aucun slogan, aucun adjectif de valeur, aucun tiret d'incise, aucun point d'exclamation.
+5. Relis une fois contre la voix de la charte : phrases courtes, aucun slogan, aucun adjectif de valeur, aucun tiret d'incise, aucun point d'exclamation. Chaque lieu Vetmint est un « cabinet », jamais une « clinique » (charte, 2.4), même quand la source dit « clinique ».
 
 Pour une page commune de service, son premier paragraphe s'affiche seul sur la page du soin dans chaque cabinet, et le reste du texte s'y déplie au clic. Ce premier paragraphe se lit sans la suite et reste vrai pour chaque cabinet.
 
@@ -46,7 +46,7 @@ Si la page partage plus de 20 % de son texte avec une autre, réécris les passa
 
 ## 4. Traduire en allemand
 
-1. Crée ou modifie `src/content/pages/de/<chemin>.md`, même chemin que le français, en suivant `docs/traduction.md` : en-tête, adresse allemande, liens, blocs, jetons de prix identiques, style suisse.
+1. Crée ou modifie `src/content/pages/de/<chemin>.md`, même chemin que le français, en suivant `docs/traduction.md` : en-tête, adresse allemande, liens, blocs, jetons de prix identiques, style suisse, « Praxis » pour un cabinet, jamais « Klinik ».
 2. Une modification du français se reporte dans l'allemand le même jour, phrase par phrase.
 
 Vérifie :

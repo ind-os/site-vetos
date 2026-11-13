@@ -9,10 +9,10 @@ Tu aides une personne à faire évoluer son site. Elle n'est pas développeuse.
 
 ## Ce qu'il y a dans ce dossier
 
-Le site vetmint.ch, en français et en allemand : les pages communes du groupe et les pages de chaque clinique, sous `vetmint.ch/<clinique>/`.
+Le site vetmint.ch, en français et en allemand : les pages communes du groupe et les pages de chaque cabinet, sous `vetmint.ch/<cabinet>/`.
 
 - `src/content/pages/fr/` et `src/content/pages/de/` : les textes, une page par fichier, dans chaque langue. `fr/payerne/equipe.md` est la page `/payerne/equipe/` ; `de/payerne/equipe.md` est sa traduction.
-- `src/donnees/cliniques/` : la fiche de chaque clinique. Horaires, fermetures, annonce, équipe, services, téléphone, rendez-vous.
+- `src/donnees/cliniques/` : la fiche de chaque cabinet. Horaires, fermetures, annonce, équipe, services, téléphone, rendez-vous.
 - `src/donnees/tarifs/` : la grille des prix de chaque cabinet. Chaque prix affiché sur le site en vient.
 - `src/i18n/fr.ts` et `src/i18n/de.ts` : les petits textes des menus et des boutons.
 - `src/assets/images/` : les photos et leur catalogue.
@@ -58,16 +58,17 @@ Chaque information vit à un seul endroit : la fiche pour les horaires, la garde
 
 Chaque modification se fait dans les deux langues : le français d'abord, puis la même chose en allemand. Les règles sont dans `docs/` ; lis le document du cas avant de modifier.
 
-- **Un horaire, une fermeture, une annonce en haut des pages d'une clinique** : la fiche de la clinique, `src/donnees/cliniques/<clinique>.json` (`docs/fiche-clinique.md`, « Les gestes courants »). Toutes les pages de la clinique suivent.
+- **Un horaire, une fermeture, une annonce en haut des pages d'un cabinet** : la fiche du cabinet, `src/donnees/cliniques/<cabinet>.json` (`docs/fiche-du-cabinet.md`, « Les gestes courants »). Toutes les pages du cabinet suivent.
 - **Un prix** : son montant dans la grille du cabinet, `src/donnees/tarifs/<cabinet>.json` (`docs/grille-des-prix.md`, « Les gestes courants »), jamais dans une page. Chaque page qui l'affiche suit. Un prix de plus : une entrée dans la grille, puis son jeton dans le texte, dans les deux langues.
 - **Un texte d'une page** : son fichier dans `src/content/pages/fr/`, puis le même dans `src/content/pages/de/`. Suis la skill `rediger-une-page`.
 - **Une nouvelle page** : un nouveau fichier dans chaque langue, au chemin que donne `docs/plan-des-pages.md`, avec les sections que donne `docs/structure-des-pages.md`. Suis la skill `rediger-une-page`.
 - **Un numéro ou un fait qui apparaît sur plusieurs pages** : cherche chaque endroit dans les deux langues, `grep -rn "<valeur>" src/content/pages src/donnees`, puis corrige partout. Un horaire ou un numéro de garde se change dans la fiche, jamais dans les pages.
 - **Un texte d'un menu ou d'un bouton** : `src/i18n/fr.ts` et la même clé dans `src/i18n/de.ts`.
 - **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
-- **Une personne qui arrive ou qui part** : la fiche de la clinique et sa photo (`docs/fiche-clinique.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
-- **Un service** : en plus ou en moins dans un cabinet, la liste `services` de sa fiche (`docs/fiche-clinique.md`, « Les gestes courants ») ; sa page dans le cabinet se fabrique seule, avec ses prix et son explication (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Son explication se corrige dans sa page commune, `services/<service>.md`, dans les deux langues, avec la skill `rediger-une-page` : la correction vaut pour tous les cabinets.
-- **Une clinique entière** : la skill `mettre-une-clinique-en-ligne`.
+- **Une personne qui arrive ou qui part** : la fiche du cabinet et sa photo (`docs/fiche-du-cabinet.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
+- **Un service** : en plus ou en moins dans un cabinet, la liste `services` de sa fiche (`docs/fiche-du-cabinet.md`, « Les gestes courants ») ; sa page dans le cabinet se fabrique seule, avec ses prix et son explication (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Son explication se corrige dans sa page commune, `services/<service>.md`, dans les deux langues, avec la skill `rediger-une-page` : la correction vaut pour tous les cabinets.
+- **Un cabinet écrit qui attend sa relecture** (sa fiche dit `"en_ligne": false`) : la skill `confirmer-les-faits-du-site`, qui le passe en ligne à la fin.
+- **Un cabinet nouveau** : la skill `mettre-un-cabinet-en-ligne`.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 
 Après chaque modification, vérifie la page en allemand, puis termine toujours sur la page en français, dans le navigateur à côté de la conversation, défilée jusqu'à l'endroit modifié. La personne ne doit jamais rester sur la page allemande. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
@@ -118,6 +119,7 @@ Quand la personne demande une relecture complète ou un nettoyage, suis la skill
 
 ## Les règles
 
+- Un lieu Vetmint s'appelle « cabinet », en allemand « Praxis », dans les pages, la doc et la conversation ; jamais « clinique » ni « Klinik » : l'appellation est protégée. Le code garde le nom `clinique` (`src/donnees/cliniques/`, le champ `clinique` d'une page), qui ne s'affiche jamais (`docs/charte-redactionnelle.md`, 2.4).
 - Aucun mot de passe, jeton ou clé dans les fichiers du site : tout ce qui est dans ce dossier peut être lu par tous.
 - Une modification se voit en local avant d'être publiée, en français et en allemand.
 - En cas de doute sur ce que veut la personne, demande-lui avant de modifier.

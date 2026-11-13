@@ -19,6 +19,10 @@
     "affiche": "026 675 38 88",
     "international": "+41266753888"
   },
+  "whatsapp": {
+    "affiche": "026 675 38 88",
+    "international": "+41266753888"
+  },
   "email": "domdidier@vetmint.ch",
   "especes": [
     "chien",
@@ -66,5 +70,92 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintdomdidier/rendezvous"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Diana Rodrigues",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr",
+        "pt",
+        "en"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        },
+        {
+          "fr": "médecine des petits animaux",
+          "de": "Kleintiermedizin"
+        }
+      ]
+    },
+    {
+      "nom": "Pascale Bonny",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        }
+      ]
+    },
+    {
+      "nom": "Manon Bernheim",
+      "titre": null,
+      "fonction": {
+        "fr": "Apprentie assistante en médecine vétérinaire",
+        "de": "Lernende Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr",
+        "es"
+      ],
+      "domaines": []
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Route de Saint-Aubin 58, au nord-ouest du centre de Domdidier, en direction de Saint-Aubin",
+      "de": "Route de Saint-Aubin 58, nordwestlich des Zentrums von Domdidier, in Richtung Saint-Aubin"
+    },
+    "parking": {
+      "fr": "Places de parc à proximité et une place de dépose de plain-pied devant l'entrée",
+      "de": "Parkplätze in der Nähe und ein ebenerdiger Halteplatz vor dem Eingang"
+    },
+    "transports": {
+      "fr": "Gare de Domdidier à environ 10 minutes à pied",
+      "de": "Bahnhof Domdidier, etwa 10 Minuten zu Fuss"
+    },
+    "accessibilite": {
+      "fr": "Entrée de plain-pied, avec un accès direct depuis la place de dépose",
+      "de": "Ebenerdiger Eingang, direkt vom Halteplatz aus erreichbar"
+    }
+  },
+  "communes": [
+    "Domdidier",
+    "Dompierre",
+    "Russy",
+    "Léchelles",
+    "Avenches",
+    "Saint-Aubin",
+    "Gletterens",
+    "Vallon",
+    "Misery-Courtion",
+    "Montagny",
+    "Corcelles-près-Payerne",
+    "Payerne"
+  ]
 }

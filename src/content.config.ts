@@ -1,6 +1,6 @@
 // Les trois collections du site, vérifiées à chaque construction :
 // - « pages » : les textes, un fichier Markdown par page et par langue (docs/format-des-pages.md) ;
-// - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-clinique.md) ;
+// - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-du-cabinet.md) ;
 // - « tarifs » : la grille des prix de chaque cabinet, un fichier JSON (docs/grille-des-prix.md).
 // Un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ,
 // dans un message en français.

@@ -1,6 +1,6 @@
 // Les fiches des cliniques, lues dans la collection « cliniques » (src/donnees/cliniques/).
 // Une fiche porte les faits stables d'une clinique et ses données qui changent souvent
-// (horaires, fermetures, bandeau) : docs/fiche-clinique.md.
+// (horaires, fermetures, bandeau) : docs/fiche-du-cabinet.md.
 
 import { getCollection, type CollectionEntry } from 'astro:content';
 import type { Langue } from '../config.ts';
@@ -66,7 +66,7 @@ export async function servicesDeLaClinique(clinique: Clinique, langue: Langue): 
       const commune = await laPage(langue, `services/${service}`);
       const ici = await laPage(langue, `${clinique.id}/services/${service}`);
       if (!ici) {
-        const message = `La clinique ${clinique.id} cite le service « ${service} » : src/content/pages/${langue}/${clinique.id}/services/${service}.md manque.`;
+        const message = `Le cabinet ${clinique.id} cite le service « ${service} » : src/content/pages/${langue}/${clinique.id}/services/${service}.md manque.`;
         if (!import.meta.env.DEV) throw new Error(message);
         console.warn(`${message} Le lien mène à la page commune.`);
       }

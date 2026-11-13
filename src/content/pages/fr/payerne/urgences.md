@@ -33,7 +33,7 @@ Une urgence reçue pendant les heures d'ouverture coûte la consultation, {prix:
 
 ## En dehors des heures d'ouverture
 
-Appelez le numéro de garde donné sous « Que faire maintenant ». Il joint Vet'Urgences Fribourg, le service d'urgence de Vetmint, ouvert tous les jours de 8 h à minuit à la route des Fluides 5, à Givisiez. Un vétérinaire évalue la situation avec vous et vous dit s'il faut venir. Le conseil au téléphone est gratuit. Après minuit, le répondeur vous donne le numéro du vétérinaire de garde. Le détail est sur [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/). Un supplément d'urgence s'ajoute aux soins.
+Appelez le numéro de garde donné sous « Que faire maintenant ». Il joint Vet'Urgences Fribourg, le service d'urgence de Vetmint, ouvert tous les jours de 8 h à minuit à la route des Fluides 5, à Givisiez. Un vétérinaire évalue la situation avec vous et vous dit s'il faut venir. Le conseil au téléphone est gratuit. Après minuit, le répondeur vous donne le numéro du vétérinaire de garde. Le détail est sur [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/). Un supplément d'urgence s'ajoute aux soins.
 
 ## Les signes qui imposent d'appeler
 

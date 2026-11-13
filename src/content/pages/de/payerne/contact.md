@@ -31,7 +31,7 @@ Auf WhatsApp hilft ein Foto der Wunde oder des Knotens der Tierärztin oder dem 
 - Keine Schliessung vorgesehen
 <!-- /donnees -->
 
-Die Praxis ist das ganze Jahr geöffnet. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, von 8.30 bis 15 Uhr, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
+Die Praxis ist das ganze Jahr geöffnet. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, nie beide am selben Tag: Rufen Sie vor dem Besuch an.
 
 ## Mit dem Auto
 

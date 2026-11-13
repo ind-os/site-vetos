@@ -68,5 +68,75 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/bussigny-vetmint/consultation-generale"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Pascal Wicki",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "médecine générale",
+          "de": "Allgemeinmedizin"
+        },
+        {
+          "fr": "médecines complémentaires et naturelles",
+          "de": "Komplementär- und Naturheilmedizin"
+        }
+      ]
+    },
+    {
+      "nom": "Philippe Boudaroua",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "médecine générale",
+          "de": "Allgemeinmedizin"
+        }
+      ]
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Rue de l'Industrie 8, dans la zone d'activités de Bussigny, à côté de la Migros",
+      "de": "Rue de l'Industrie 8, im Gewerbegebiet von Bussigny, neben der Migros"
+    },
+    "parking": {
+      "fr": "Nombreuses places de parc à proximité, dans la zone d'activités",
+      "de": "Zahlreiche Parkplätze in der Nähe, im Gewerbegebiet"
+    },
+    "transports": {
+      "fr": "Gare CFF de Bussigny et arrêt de bus « Bussigny, gare » à trois minutes à pied",
+      "de": "Bahnhof SBB Bussigny und Bushaltestelle «Bussigny, gare», drei Minuten zu Fuss"
+    },
+    "accessibilite": {
+      "fr": "Cabinet au rez-de-chaussée, accès facilité pour les personnes à mobilité réduite",
+      "de": "Praxis im Erdgeschoss, erleichterter Zugang für Menschen mit eingeschränkter Mobilität"
+    }
+  },
+  "communes": [
+    "Bussigny",
+    "Crissier",
+    "Renens",
+    "Ecublens",
+    "Villars-Sainte-Croix",
+    "Echandens",
+    "Mex",
+    "Vufflens-la-Ville",
+    "Penthaz",
+    "Sullens"
+  ]
 }

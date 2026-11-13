@@ -1,6 +1,6 @@
 # Plan des pages
 
-Le site est vetmint.ch, en français et en allemand. Il réunit les pages communes au groupe et les pages de chaque clinique, sous `vetmint.ch/<clinique>/`. Les pages communes sont écrites une fois ; les pages des cliniques y renvoient.
+Le site est vetmint.ch, en français et en allemand. Il réunit les pages communes au groupe et les pages de chaque cabinet, sous `vetmint.ch/<cabinet>/`. Les pages communes sont écrites une fois ; les pages des cabinets y renvoient.
 
 ## Une page, un fichier
 
@@ -23,23 +23,23 @@ Le champ `type` de l'en-tête choisit le gabarit de la page (`src/gabarits/`). T
 
 | Type | Page | Ce que le gabarit ajoute au texte |
 |---|---|---|
-| `accueil-groupe` | accueil de vetmint.ch | premier écran, carte et cartes des huit cliniques |
-| `cliniques` | les cliniques | carte et cartes des huit cliniques, avec leur bouton de rendez-vous |
+| `accueil-groupe` | accueil de vetmint.ch | premier écran, carte et cartes des huit cabinets |
+| `cliniques` | les cabinets | carte et cartes des huit cabinets, avec leur bouton de rendez-vous |
 | `service-index` | tous les services | listes de liens en cartes, rendez-vous à côté |
-| `service` | un service, page commune | photo, à côté le rendez-vous et les cliniques qui le pratiquent |
+| `service` | un service, page commune | photo, à côté le rendez-vous et les cabinets qui le pratiquent |
 | `urgences-groupe` | urgences de tout Vetmint | à côté, nos services d’urgence : logo et numéro gratuit, avant le texte sur un téléphone |
 | `conseil-index`, `conseil-categorie` | conseils santé, par espèce | cartes des conseils, rendez-vous à côté |
 | `conseil` | un conseil santé | photo, rendez-vous à côté, trois conseils de la même espèce |
 | `simple` | à propos, pages légales | rien |
 | `emploi` | emploi | une carte par poste ouvert, deux par ligne |
-| `accueil-clinique` | accueil d'une clinique | premier écran avec rendez-vous et urgence, horaires, accès, aperçu de l'équipe |
-| `services-clinique` | les services d'une clinique | une carte par soin de la fiche |
+| `accueil-clinique` | accueil d'un cabinet | premier écran avec rendez-vous et urgence, horaires, accès, aperçu de l'équipe |
+| `services-clinique` | les services d'un cabinet | une carte par soin de la fiche |
 | `equipe` | équipe | une carte par personne de la fiche |
 | `contact` | contact | téléphone en grand, e-mail, WhatsApp, adresse, itinéraires, horaires, photos des locaux |
-| `tarifs`, `abonnements` | tarifs et abonnements de la clinique | carte de la clinique à côté |
+| `tarifs`, `abonnements` | tarifs et abonnements du cabinet | carte du cabinet à côté |
 | `rendez-vous` | rendez-vous | bouton du module de réservation et téléphone |
 | `questions-frequentes` | questions fréquentes | chaque question ### en accordéon |
-| `urgences` | urgences de la clinique | numéro de garde et tarif en premier |
+| `urgences` | urgences du cabinet | numéro de garde et tarif en premier |
 | `service-clinique` | un service dans un cabinet | toute la page, sans texte écrit : le chapeau tiré de la fiche, le rendez-vous, les prix de la grille, le soin en bref, les autres soins ; photo, carte du cabinet à côté ([structure-des-pages.md](structure-des-pages.md), « Un service dans le cabinet »). Autour d'une page écrite pour un soin propre au cabinet : photo, carte du cabinet, autres soins |
 
 ## Les pages communes
@@ -63,22 +63,22 @@ Les services, dans l'ordre du champ `ordre` : prevention, chirurgie, chirurgie-o
 
 ## Les pages d'un cabinet
 
-Chaque clinique a son dossier, `src/content/pages/<langue>/<clinique>/`, et sa fiche, `src/donnees/cliniques/<clinique>.json` ([fiche-clinique.md](fiche-clinique.md)). Toute clinique a les mêmes pages, dans les deux langues :
+Chaque cabinet a son dossier, `src/content/pages/<langue>/<cabinet>/`, et sa fiche, `src/donnees/cliniques/<cabinet>.json` ([fiche-du-cabinet.md](fiche-du-cabinet.md)). Tout cabinet a les mêmes pages, dans les deux langues :
 
 | Adresse | Fichier | Type |
 |---|---|---|
-| `/<clinique>/` | `index.md` | `accueil-clinique` |
-| `/<clinique>/services/` | `services/index.md` | `services-clinique` |
-| `/<clinique>/equipe/` | `equipe.md` | `equipe` |
-| `/<clinique>/contact/` | `contact.md` | `contact` |
-| `/<clinique>/tarifs/` | `tarifs.md` | `tarifs` |
-| `/<clinique>/abonnements/` | `abonnements.md` | `abonnements` |
-| `/<clinique>/rendez-vous/` | `rendez-vous.md` | `rendez-vous` |
-| `/<clinique>/questions-frequentes/` | `questions-frequentes.md` | `questions-frequentes` |
-| `/<clinique>/urgences/` | `urgences.md`, si la fiche dit `"urgences": true` | `urgences` |
-| `/<clinique>/services/<service>/` | aucun fichier : le site fabrique la page pour chaque service du champ `services` de la fiche | `service-clinique` |
+| `/<cabinet>/` | `index.md` | `accueil-clinique` |
+| `/<cabinet>/services/` | `services/index.md` | `services-clinique` |
+| `/<cabinet>/equipe/` | `equipe.md` | `equipe` |
+| `/<cabinet>/contact/` | `contact.md` | `contact` |
+| `/<cabinet>/tarifs/` | `tarifs.md` | `tarifs` |
+| `/<cabinet>/abonnements/` | `abonnements.md` | `abonnements` |
+| `/<cabinet>/rendez-vous/` | `rendez-vous.md` | `rendez-vous` |
+| `/<cabinet>/questions-frequentes/` | `questions-frequentes.md` | `questions-frequentes` |
+| `/<cabinet>/urgences/` | `urgences.md`, si la fiche dit `"urgences": true` | `urgences` |
+| `/<cabinet>/services/<service>/` | aucun fichier : le site fabrique la page pour chaque service du champ `services` de la fiche | `service-clinique` |
 
-Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Les pages de service d'une clinique se fabriquent toutes seules, depuis sa fiche, sa grille des prix ([grille-des-prix.md](grille-des-prix.md)) et la page commune de chaque service (`src/lib/pages.ts`). Une clinique peut avoir une page de service écrite, pour un soin qu'elle est seule à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de clinique porte toujours un type de clinique et le champ `clinique`.
+Cette liste est dans `src/lib/types-de-page.ts` (`PAGES_DE_CLINIQUE`). Les pages de service d'un cabinet se fabriquent toutes seules, depuis sa fiche, sa grille des prix ([grille-des-prix.md](grille-des-prix.md)) et la page commune de chaque service (`src/lib/pages.ts`). Un cabinet peut avoir une page de service écrite, pour un soin qu'il est seul à pratiquer : `services/<soin>.md` dans son dossier, type `service-clinique`, dans les deux langues ; le soin n'a pas besoin d'une page commune. Une page d'un dossier de cabinet porte toujours un type de page de cabinet et le champ `clinique`.
 
 ## Les pages internes et les textes des soins
 
@@ -92,8 +92,8 @@ Le site fabrique aussi, sans fichier Markdown, des adresses qui ne sont pas des 
 
 ## Ce que le site vérifie
 
-À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, une clinique en ligne incomplète, un service sans page commune ou un jeton de prix absent de la grille, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
+À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, un cabinet en ligne incomplet, un service sans page commune ou un jeton de prix absent de la grille, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
 
 ## Les cabinets pas encore en ligne
 
-Les huit cliniques ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, la clinique figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où la clinique passe en ligne. Leurs pages peuvent déjà être écrites : la prévisualisation les construit et les montre ; la construction du site en ligne les laisse de côté, ni page, ni plan du site, ni traduction exigée, tant que la fiche dit `"en_ligne": false`. La procédure est dans la skill `mettre-une-clinique-en-ligne`.
+Les huit cabinets ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, le cabinet figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où le cabinet passe en ligne. Leurs pages peuvent déjà être écrites : la prévisualisation les construit et les montre ; la construction du site en ligne les laisse de côté, ni page, ni plan du site, ni traduction exigée, tant que la fiche dit `"en_ligne": false`. La procédure est dans la skill `mettre-un-cabinet-en-ligne`.

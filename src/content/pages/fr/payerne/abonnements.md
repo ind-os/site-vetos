@@ -3,7 +3,7 @@ type: abonnements
 clinique: payerne
 url: /payerne/abonnements/
 title: "Abonnement vétérinaire et plan de prévention à Payerne"
-description: "À Payerne, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an : consultations, vaccins, vermifuges, puce. Abonnements dès {prix:abonnement-adulte-chien} par mois."
+description: "À Payerne, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an : consultations, vaccins, vermifuges, puce. Abonnements dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à Payerne
 recherche: abonnement vétérinaire Payerne
 redige_le: 2026-11-03

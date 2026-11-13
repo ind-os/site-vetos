@@ -21,7 +21,7 @@ resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minute
 | Champ | Présence | Contenu |
 |---|---|---|
 | `type` | toujours | le type de page ([plan-des-pages.md](plan-des-pages.md)) |
-| `clinique` | page d'une clinique | l'identifiant de la clinique, celui de son dossier (`payerne`) |
+| `clinique` | page d'un cabinet | l'identifiant du cabinet, celui de son dossier (`payerne`) |
 | `url` | toujours | l'adresse de la page, qui commence et finit par `/` ; en allemand, elle commence par `/de/` |
 | `title` | toujours | 60 caractères au plus |
 | `description` | toujours | 150 à 160 caractères |
@@ -42,7 +42,7 @@ Une valeur qui contient « : » se met entre guillemets.
 - Le corps commence par le chapeau, un paragraphe un peu plus grand ; puis des sections `##` et des sous-sections `###`.
 - Un appel à l'action est un lien seul sur sa ligne : `[Prendre rendez-vous](/payerne/rendez-vous/)`. Il devient un bouton.
 - Une liste dont chaque point commence par un lien devient une liste de cartes : `- [Radiographie](/services/radiographie/) : os, poumons, ventre.`
-- Les liens vers le site sont relatifs et écrits avec l'adresse de la page dans la langue de la page : `/payerne/contact/`, `/de/payerne/kontakt/`. Un lien vers une clinique pas encore en ligne garde son adresse définitive ([plan-des-pages.md](plan-des-pages.md)).
+- Les liens vers le site sont relatifs et écrits avec l'adresse de la page dans la langue de la page : `/payerne/contact/`, `/de/payerne/kontakt/`. Un lien vers un cabinet pas encore en ligne garde son adresse définitive ([plan-des-pages.md](plan-des-pages.md)).
 - Téléphones : `[026 660 16 16](tel:+41266601616)`. E-mails : `[payerne@vetmint.ch](mailto:payerne@vetmint.ch)`.
 - Questions fréquentes : chaque question est un `###`, la réponse suit.
 - Tableaux Markdown pour les prix et les calendriers.
@@ -59,7 +59,7 @@ Sur une page d'un cabinet, un montant s'écrit par son jeton, `{prix:<cle>}`, da
 
 ## Blocs de données
 
-Les horaires, les fermetures et le numéro de garde viennent de la fiche de la clinique ([fiche-clinique.md](fiche-clinique.md)). Dans une page, le passage qui les affiche est encadré par deux commentaires ; le texte entre eux est remplacé, à la construction, par la valeur de la fiche.
+Les horaires, les fermetures et le numéro de garde viennent de la fiche du cabinet ([fiche-du-cabinet.md](fiche-du-cabinet.md)). Dans une page, le passage qui les affiche est encadré par deux commentaires ; le texte entre eux est remplacé, à la construction, par la valeur de la fiche.
 
 ```markdown
 <!-- donnees: horaires -->
@@ -69,7 +69,7 @@ Les horaires, les fermetures et le numéro de garde viennent de la fiche de la c
 
 Blocs : `horaires`, `fermetures`, `garde`. Le texte autour reste vrai quelle que soit la valeur du jour : il dit quand appeler la garde, sans redonner le numéro.
 
-Un bloc appartient à la clinique du champ `clinique`. Sur une page qui présente plusieurs cliniques (`/cabinets/`), il appartient à la clinique que nomme le titre `##` qui le précède (« ## Vetmint Payerne »).
+Un bloc appartient au cabinet du champ `clinique`. Sur une page qui présente plusieurs cabinets (`/cabinets/`), il appartient au cabinet que nomme le titre `##` qui le précède (« ## Vetmint Payerne »).
 
 ## Vérifier une page
 

@@ -5,8 +5,8 @@ Ce que contient chaque type de page, dans quel ordre et à quelle longueur. Ces 
 ## Lire un plan
 
 - Chaque plan donne l'objectif de la page, la recherche qu'elle vise, le modèle de son title et de son H1, ses sections dans l'ordre, son volume et ses liens obligatoires. « Script » : `outils/verifier-les-pages.mjs` contrôle la règle ([verifications.md](verifications.md)).
-- Le volume est une fourchette de mots du corps, élargie pour une page allemande. Les liens obligatoires sont des adresses relatives ; `/<cabinet>/…` désigne le cabinet de la page, par l'identifiant de sa fiche (`/payerne/…`). Le title fait 60 caractères au plus, la description 150 à 160 ([format-des-pages.md](format-des-pages.md)).
-- Le chapeau est le premier paragraphe, sans titre. Les sections sont des `##`, leurs sous-sections des `###`. Le H1 n'est pas dans le corps. Les horaires, les fermetures et la garde s'écrivent dans un bloc de données ; un prix, par son jeton `{prix:<cle>}` ([grille-des-prix.md](grille-des-prix.md), « Le jeton »).
+- Le volume est une fourchette de mots du corps, élargie pour une page allemande. Les liens obligatoires sont des adresses relatives ; `/<cabinet>/…` désigne le cabinet de la page, par l'identifiant de sa fiche (`/payerne/…`). Le title fait 60 caractères au plus, la description 150 à 160 ([format-des-pages.md](format-des-pages.md)). Quand le nom du lieu fait dépasser le modèle de title, la fin du title se raccourcit ; le lieu et la recherche visée restent.
+- Le chapeau est le premier paragraphe, sans titre. Les sections sont des `##`, leurs sous-sections des `###`. Le H1 n'est pas dans le corps. Les horaires, les fermetures et la garde s'écrivent dans un bloc de données ; un prix, par son jeton `{prix:<cle>}` ([grille-des-prix.md](grille-des-prix.md), « Le jeton »). Une phrase n'écrit pas une heure d'ouverture : elle renvoie aux horaires du bloc (« aux heures d'ouverture », « appelez avant de venir le samedi »), pour qu'un horaire changé dans la fiche le soit partout.
 - Une page d'un cabinet prend la même page de Payerne pour modèle, avec ses propres faits. Sa traduction allemande garde les mêmes sections ([traduction.md](traduction.md)). Ce que le gabarit ajoute autour du texte est dans [plan-des-pages.md](plan-des-pages.md) : le texte ne le redit pas.
 - Une page commune ne donne aucun montant et ne compare pas les cabinets ([charte-redactionnelle.md](charte-redactionnelle.md), 1.6).
 
@@ -76,9 +76,9 @@ Exception : un soin qu'un cabinet est seul à pratiquer, sans page commune, a sa
 
 1. Chapeau, à la troisième personne : le nombre de personnes par fonction, les langues parlées, les animaux suivis. Puis le bouton « Prendre rendez-vous ».
 2. Les vétérinaires : un `###` par personne, nom et fonction ; diplôme et année, parcours en deux phrases, ce qu'elle fait au cabinet, les animaux qu'elle suit de préférence, les langues, une ou deux phrases personnelles. 120 à 200 mots par personne. Puis un `###`, « Voir le même vétérinaire d'une visite à l'autre » : comment demander le vétérinaire qui suit l'animal.
-3. Les assistantes en médecine vétérinaire : ce qu'elles font au cabinet, puis un `###` par personne, 50 à 100 mots.
-4. Les apprentis : comment se passe l'apprentissage au cabinet, puis un `###` par personne, plus court.
-5. Les intervenants externes, s'il y en a : qui vient, pour quoi, à quel rythme.
+3. Les assistantes en médecine vétérinaire : ce qu'elles font au cabinet, puis un `###` par personne, 50 à 100 mots. Sans assistante nommée dans la fiche, la section n'existe pas.
+4. Les apprentis : comment se passe l'apprentissage au cabinet, puis un `###` par personne, plus court. Sans apprenti dans la fiche, la section n'existe pas.
+5. Les intervenants externes, s'il y en a : qui vient, pour quoi, à quel rythme. Ils ne sont pas dans le champ `equipe` de la fiche, qui donne les cartes de l'équipe et les portraits de l'accueil : seule cette section les présente.
 6. Comment l'équipe reçoit votre animal : trois `###`, à l'accueil, en consultation, le jour d'une opération ; puis le téléphone et le bouton « Prendre rendez-vous ».
 7. Travailler au cabinet : une phrase et le lien vers la page Emploi.
 

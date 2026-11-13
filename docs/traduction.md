@@ -8,7 +8,7 @@ Tout le site existe en français et en allemand. Le français est la langue de r
 |---|---|---|
 | Une page | `src/content/pages/fr/<chemin>.md` | `src/content/pages/de/<chemin>.md`, même chemin, même nom de fichier |
 | Les textes de l'interface (menus, boutons, titres des blocs) | `src/i18n/fr.ts` | `src/i18n/de.ts`, mêmes clés |
-| Les textes d'une fiche de clinique (fonctions, accès, tarif de garde) | champ `fr` | champ `de` du même objet, dans `src/donnees/cliniques/<clinique>.json` |
+| Les textes d'une fiche de cabinet (fonctions, accès, tarif de garde) | champ `fr` | champ `de` du même objet, dans `src/donnees/cliniques/<cabinet>.json` |
 | Le libellé d'un prix | champ `libelle.fr` | champ `libelle.de`, dans `src/donnees/tarifs/<cabinet>.json` |
 | Le texte alternatif d'une photo | champ `alt.fr` | champ `alt.de`, dans `src/assets/images/catalogue.json` |
 
@@ -29,7 +29,7 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 - Vouvoiement : « Sie ».
 - Orthographe suisse : « ss » à la place de « ß » (« Strasse », « schliessen », « Grösse »).
 - Phrases courtes, comme en français. Pas de tiret d'incise, pas de point d'exclamation.
-- Les noms de lieu des cliniques restent en français : Payerne, Bussigny, Fribourg Ouest, Saint-Légier. Les cantons se traduisent : Waadt, Freiburg, Neuenburg. Les lacs aussi : Neuenburgersee, Genfersee.
+- Les noms de lieu des cabinets restent en français : Payerne, Bussigny, Fribourg Ouest, Saint-Légier. Les cantons se traduisent : Waadt, Freiburg, Neuenburg. Les lacs aussi : Neuenburgersee, Genfersee.
 - Heures : « 8 Uhr », « 13.45 Uhr », « 8–12 Uhr ».
 - Prix : le même jeton qu'en français. Le site écrit le montant de la grille à la forme allemande ([grille-des-prix.md](grille-des-prix.md), « Les formes d'un montant »).
 - Les sigles se traduisent : CFF devient SBB.
@@ -60,7 +60,7 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 
 ## Les adresses allemandes
 
-L'adresse allemande d'une page est l'adresse française précédée de `/de/`, avec chaque morceau traduit. Les identifiants des cliniques ne se traduisent pas.
+L'adresse allemande d'une page est l'adresse française précédée de `/de/`, avec chaque morceau traduit. Les identifiants des cabinets ne se traduisent pas.
 
 ### Pages communes
 
@@ -82,7 +82,7 @@ L'adresse allemande d'une page est l'adresse française précédée de `/de/`, a
 
 ### Services
 
-Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. La page des services d'une clinique : `/<clinique>/services/` devient `/de/<clinique>/leistungen/`. La page d'un service dans une clinique : `/<clinique>/services/<service>/` devient `/de/<clinique>/leistungen/<Leistung>/`.
+Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. La page des services d'un cabinet : `/<cabinet>/services/` devient `/de/<cabinet>/leistungen/`. La page d'un service dans un cabinet : `/<cabinet>/services/<service>/` devient `/de/<cabinet>/leistungen/<Leistung>/`.
 
 | Service | Leistung |
 |---|---|
@@ -127,9 +127,9 @@ Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. 
 | `nebulisations-et-inhalations` | `inhalation` |
 | `peca-pecalbo` | `peca-pecalbo` |
 
-### Pages d'une clinique
+### Pages d'un cabinet
 
-Pour chaque clinique, par exemple `payerne` :
+Pour chaque cabinet, par exemple `payerne` :
 
 | Français | Allemand |
 |---|---|

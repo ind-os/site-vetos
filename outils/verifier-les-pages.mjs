@@ -71,18 +71,18 @@ const LIENS_OBLIGATOIRES = {
   ],
   'accueil-clinique': [
     ['rendez-vous', '^/{c}/rendez-vous/$'], ['équipe', '^/{c}/equipe/$'], ['contact', '^/{c}/contact/$'],
-    ['urgences', '^/{c}/urgences/$'], ['tarifs', '^/{c}/tarifs/$'], ['une page de service de la clinique', '^/{c}/services/'],
+    ['urgences', '^/{c}/urgences/$'], ['tarifs', '^/{c}/tarifs/$'], ['une page de service du cabinet', '^/{c}/services/'],
     ['téléphone', '^tel:'],
   ],
   'equipe': [['rendez-vous', '^/{c}/rendez-vous/$'], ['emploi', '^/emploi/$']],
   'urgences': [
-    ['téléphone de la clinique', '^tel:\\+41'], ['numéro de garde ou second numéro', '^tel:'], ['contact', '^/{c}/contact/$'],
+    ['téléphone du cabinet', '^tel:\\+41'], ['numéro de garde ou second numéro', '^tel:'], ['contact', '^/{c}/contact/$'],
     ['tarifs', '^/{c}/tarifs/$'],
   ],
   'contact': [['rendez-vous', '^/{c}/rendez-vous/$'], ['urgences', '^/{c}/urgences/$'], ['téléphone', '^tel:'], ['e-mail', '^mailto:']],
   'rendez-vous': [['téléphone', '^tel:'], ['urgences', '^/{c}/urgences/$'], ['contact', '^/{c}/contact/$']],
   'questions-frequentes': [['rendez-vous', '^/{c}/rendez-vous/$']],
-  'tarifs': [['abonnements', '^/{c}/abonnements/$'], ['une page de service de la clinique', '^/{c}/services/'], ['rendez-vous', '^/{c}/rendez-vous/$']],
+  'tarifs': [['abonnements', '^/{c}/abonnements/$'], ['une page de service du cabinet', '^/{c}/services/'], ['rendez-vous', '^/{c}/rendez-vous/$']],
   'abonnements': [['tarifs', '^/{c}/tarifs/$'], ['rendez-vous', '^/{c}/rendez-vous/$']],
   'service-clinique': [
     ['page commune du service', '^/services/[a-z-]+/$'], ['rendez-vous', '^/{c}/rendez-vous/$'], ['tarifs', '^/{c}/tarifs/$'],

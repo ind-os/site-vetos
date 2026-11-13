@@ -2,8 +2,8 @@
 type: tarifs
 clinique: payerne
 url: /payerne/tarifs/
-title: "Tarif vétérinaire à Payerne : vaccins, opérations, urgences"
-description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
+title: "Tarif vétérinaire à Payerne : vaccins, opérations, urgences"
+description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint Payerne
 recherche: tarif vétérinaire Payerne
 redige_le: 2026-11-03
@@ -90,7 +90,7 @@ Ce qu'il faut faire selon l'heure est sur la page [Urgences](/payerne/urgences/)
 
 | Prestation | Ce que vous payez | Prix |
 |---|---|---|
-| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, aux heures d'ouverture du cabinet ; les soins s'ajoutent | {prix:visite-domicile} |
+| Visite à domicile | déplacement du vétérinaire dans le district de la Broye, aux heures d'ouverture du cabinet ; les soins s'ajoutent | {prix:visite-domicile} |
 
 Prévenez au moins 24 heures avant si vous devez annuler une visite à domicile : sinon, elle vous est facturée.
 

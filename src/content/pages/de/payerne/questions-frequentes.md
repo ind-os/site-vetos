@@ -15,11 +15,11 @@ Diese Fragen stellen unsere Kundinnen und Kunden am Telefon und am Empfang der T
 
 ### Ist die Praxis am Samstag geöffnet?
 
-Nicht an jedem Samstag. Die Praxis ist von Montag bis Freitag von 8 bis 18 Uhr geöffnet. Am Samstag öffnet sie abwechselnd mit der Praxis Domdidier, von 8.30 bis 15 Uhr: nie beide am selben Tag. Rufen Sie an einem Samstag vor dem Besuch an. Am übrigen Wochenende antwortet die Notfallnummer. Die freien Termine stehen auf der Seite [Termin](/de/payerne/termin/).
+Nicht an jedem Samstag: Die Praxis öffnet abwechselnd mit der Praxis Domdidier, nie beide am selben Tag. Rufen Sie an einem Samstag vor dem Besuch an. Am übrigen Wochenende antwortet die Notfallnummer. Die Öffnungszeiten jedes Tages stehen auf der Seite [Kontakt](/de/payerne/kontakt/), die freien Termine auf der Seite [Termin](/de/payerne/termin/).
 
 ### Kann ich mein Tier am Morgen abgeben und am Abend abholen?
 
-Bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen: ja. Sie bringen Ihr Tier ab 8 Uhr und holen es am Ende des Tages ab, bis 18 Uhr. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit. Bei einem anderen Anlass fragen Sie bei der Terminvereinbarung: Das Team sagt Ihnen, ob es möglich ist.
+Bei einer Operation, einer Zahnsteinentfernung oder einer Reihe von Untersuchungen: ja. Sie bringen Ihr Tier bei Praxisöffnung und holen es am Ende des Tages ab, vor Praxisschluss. Wenn Ihre Arbeitszeit das nicht erlaubt, sagen Sie es bei der Terminvereinbarung: Das Team sucht mit Ihnen eine andere Zeit. Bei einem anderen Anlass fragen Sie bei der Terminvereinbarung: Das Team sagt Ihnen, ob es möglich ist.
 
 ## Preise und Zahlung
 
