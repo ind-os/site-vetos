@@ -3,13 +3,13 @@ type: contact
 clinique: domdidier
 url: /de/domdidier/kontakt/
 title: "Kontakt, Anfahrt und Parkplatz: Tierarzt Vetmint Domdidier"
-description: "Tierarztpraxis Vetmint Domdidier, Route de Saint-Aubin 58. Parkplätze, ebenerdiger Halteplatz, Bahnhof 10 Minuten zu Fuss. 026 675 38 88. Ganze Broye."
+description: "Tierarztpraxis Vetmint Domdidier, Route de Saint-Aubin 58. Zwei Parkplätze vor der Tür, Bahnhof 10 Minuten zu Fuss. 026 675 38 88. Ganze Broye."
 h1: "So finden Sie uns in Domdidier"
 recherche: "Kontakt Tierarzt Domdidier"
 redige_le: 2026-11-13
 ---
 
-Kontakt und Anfahrt der Tierarztpraxis Vetmint Domdidier: Sie befindet sich an der Route de Saint-Aubin 58, nordwestlich des Dorfzentrums. Während der Öffnungszeiten ist ein Anruf am schnellsten. Vor der Tür erspart Ihnen ein ebenerdiger Halteplatz jede Stufe mit einem schweren Tier.
+Kontakt und Anfahrt der Tierarztpraxis Vetmint Domdidier: Sie befindet sich an der Route de Saint-Aubin 58, nordwestlich des Dorfzentrums. Während der Öffnungszeiten ist ein Anruf am schnellsten. Zwei Parkplätze liegen direkt vor der Tür: Mit einem schweren Tier sind es nur wenige Schritte.
 
 ## Kontaktdaten
 
@@ -36,7 +36,7 @@ Die Praxis ist das ganze Jahr geöffnet. Am Samstag öffnet sie abwechselnd mit 
 
 ## Mit dem Auto
 
-Verlassen Sie die Autobahn A1 bei der Ausfahrt Avenches und folgen Sie dann der Richtung Domdidier. Im Dorf nehmen Sie die Route de Saint-Aubin bis zur Nummer 58. Parkplätze befinden sich in der Nähe der Praxis. Wenn Ihr Tier nicht laufen kann oder in einer grossen Box reist, halten Sie zuerst auf dem Halteplatz vor dem Eingang. Sie bringen es hinein und stellen danach das Auto ab.
+Verlassen Sie die Autobahn A1 bei der Ausfahrt Avenches und folgen Sie dann der Richtung Domdidier. Im Dorf nehmen Sie die Route de Saint-Aubin bis zur Nummer 58. Zwei Parkplätze liegen direkt vor der Praxis. Wenn Ihr Tier nicht laufen kann oder in einer grossen Box reist, parkieren Sie auf einem davon: Die Tür ist nur wenige Meter entfernt.
 
 ## Mit dem öffentlichen Verkehr
 
@@ -44,7 +44,7 @@ Der Bahnhof Domdidier liegt etwa zehn Minuten zu Fuss von der Praxis entfernt. E
 
 ## Zugang im Rollstuhl und mit einem schwer zu tragenden Tier
 
-Der Eingang ist ebenerdig, ohne Stufe. Der Halteplatz bietet direkten Zugang dazu. Das Wartezimmer ist mit den beiden Sprechzimmern verbunden. Wenn Ihr Hund nicht mehr läuft oder zu schwer für Sie ist, rufen Sie vor der Ankunft an, um das Team zu informieren. Für ein Tier, das die Fahrt schlecht verträgt, kann auch eine Tierärztin zu Ihnen nach Hause kommen: siehe [Hausbesuche](/de/domdidier/leistungen/hausbesuche/).
+Der Eingang der Praxis hat Stufen. Das Wartezimmer ist mit den beiden Sprechzimmern verbunden. Wenn Sie im Rollstuhl unterwegs sind oder Ihr Hund nicht mehr läuft oder zu schwer für Sie ist, rufen Sie vor der Ankunft an, um das Team zu informieren. Für ein Tier, das die Fahrt schlecht verträgt, kann auch eine Tierärztin zu Ihnen nach Hause kommen: siehe [Hausbesuche](/de/domdidier/leistungen/hausbesuche/).
 
 ## Woher unsere Kundschaft kommt
 

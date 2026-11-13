@@ -116,7 +116,7 @@
       ]
     },
     {
-      "nom": "Jessy Dizerens",
+      "nom": "Claudia Marchegiani",
       "titre": null,
       "fonction": {
         "fr": "Assistante en médecine vétérinaire",
@@ -124,7 +124,7 @@
       },
       "langues": [
         "fr",
-        "de"
+        "it"
       ],
       "domaines": [
         {
@@ -138,14 +138,15 @@
       ]
     },
     {
-      "nom": "Sandra Maeder",
+      "nom": "Djamila Wyssbrod",
       "titre": null,
       "fonction": {
         "fr": "Assistante en médecine vétérinaire",
         "de": "Tiermedizinische Praxisassistentin"
       },
       "langues": [
-        "fr"
+        "fr",
+        "pt"
       ],
       "domaines": [
         {
@@ -155,27 +156,6 @@
         {
           "fr": "assistance en consultation et au bloc",
           "de": "Assistenz in der Sprechstunde und im OP"
-        }
-      ]
-    },
-    {
-      "nom": "Afonso Jesus Costa",
-      "titre": null,
-      "fonction": {
-        "fr": "Apprenti assistant en médecine vétérinaire",
-        "de": "Lernender Tiermedizinischer Praxisassistent"
-      },
-      "langues": [
-        "fr"
-      ],
-      "domaines": [
-        {
-          "fr": "accueil",
-          "de": "Empfang"
-        },
-        {
-          "fr": "soins",
-          "de": "Pflege"
         }
       ]
     },
@@ -183,8 +163,8 @@
       "nom": "Annie Pasquier",
       "titre": null,
       "fonction": {
-        "fr": "Préapprentie assistante en médecine vétérinaire",
-        "de": "Vorlehre als Tiermedizinische Praxisassistentin"
+        "fr": "Apprentie assistante en médecine vétérinaire",
+        "de": "Lernende Tiermedizinische Praxisassistentin"
       },
       "langues": [
         "fr"
@@ -207,16 +187,16 @@
       "de": "Route du Châtelard 13, südwestlich des Zentrums von Payerne"
     },
     "parking": {
-      "fr": "Places de parc gratuites à proximité et une place de dépose de plain-pied devant l'entrée",
-      "de": "Kostenlose Parkplätze in der Nähe und ein ebenerdiger Halteplatz vor dem Eingang"
+      "fr": "Places de parc gratuites à proximité, dont une juste devant la porte d'entrée",
+      "de": "Kostenlose Parkplätze in der Nähe, einer davon direkt vor der Eingangstür"
     },
     "transports": {
       "fr": "Gare CFF de Payerne à environ 20 minutes à pied",
       "de": "Bahnhof SBB Payerne, etwa 20 Minuten zu Fuss"
     },
     "accessibilite": {
-      "fr": "Entrée de plain-pied, avec accès direct depuis la place de dépose",
-      "de": "Ebenerdiger Eingang, direkt vom Halteplatz aus erreichbar"
+      "fr": "Entrée de plain-pied",
+      "de": "Ebenerdiger Eingang"
     }
   },
   "communes": [

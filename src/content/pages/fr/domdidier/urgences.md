@@ -22,7 +22,7 @@ En cas d'urgence vétérinaire à Domdidier, téléphonez avant de prendre la ro
 
 ## Pendant les heures d'ouverture
 
-Le cabinet de la route de Saint-Aubin reçoit les urgences sans rendez-vous, entre deux consultations. Votre appel laisse à l'équipe le temps de libérer une salle et, si besoin, de préparer la salle d'opération. En arrivant, arrêtez-vous sur la place de dépose de plain-pied, devant l'entrée : vous portez votre animal à l'intérieur sans détour.
+Le cabinet de la route de Saint-Aubin reçoit les urgences sans rendez-vous, entre deux consultations. Votre appel laisse à l'équipe le temps de libérer une salle et, si besoin, de préparer la salle d'opération. En arrivant, garez-vous sur l'une des deux places de parc devant le cabinet : la porte est à quelques pas.
 
 <!-- donnees: horaires -->
 - Lundi, mardi, mercredi et vendredi : 8 h à 18 h
@@ -85,4 +85,4 @@ Au cabinet, vous réglez les soins sur place, une fois votre animal soigné, par
 
 ## Pour ce qui n'est pas urgent
 
-Une petite toux, une griffe cassée ou une oreille qui gratte depuis quelques jours peuvent attendre le lendemain. [Réservez une consultation](/domdidier/rendez-vous/) de 30 minutes. L'accès et la place de dépose sont décrits sur la page [Contact](/domdidier/contact/).
+Une petite toux, une griffe cassée ou une oreille qui gratte depuis quelques jours peuvent attendre le lendemain. [Réservez une consultation](/domdidier/rendez-vous/) de 30 minutes. L'accès et le parking sont décrits sur la page [Contact](/domdidier/contact/).

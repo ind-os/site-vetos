@@ -51,10 +51,10 @@ Appelez le numéro de garde. Il joint Vet'Urgences Fribourg, le service d'urgenc
 
 ### Mon chat est très stressé chez le vétérinaire. Que faites-vous pour lui ?
 
-Si votre chat panique, signalez-le en arrivant : il peut entrer directement en salle, sans croiser de chien. L'équipe est formée à manipuler les animaux anxieux. En hospitalisation, la cage est choisie selon la durée du séjour.
+Si votre chat panique, signalez-le en arrivant : il passe directement en salle de consultation, sans attendre parmi les chiens. Il traverse seulement la salle d'attente. L'équipe est formée à manipuler les animaux anxieux. En hospitalisation, la cage est choisie selon la durée du séjour.
 
 ## Accès
 
 ### Peut-on se garer près du cabinet ?
 
-Oui. Des places de parc gratuites se trouvent à proximité de la route du Châtelard 13. Une place de dépose de plain-pied, devant l'entrée, donne un accès direct : pratique pour un grand chien qui marche mal ou une caisse lourde. L'itinéraire et l'accès en train sont sur la page [Contact](/payerne/contact/).
+Oui. Des places de parc gratuites se trouvent à proximité de la route du Châtelard 13. Une place de parc se trouve juste devant la porte d'entrée : pratique pour un grand chien qui marche mal ou une caisse lourde. L'itinéraire et l'accès en train sont sur la page [Contact](/payerne/contact/).

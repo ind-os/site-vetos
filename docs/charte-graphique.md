@@ -21,7 +21,7 @@ Avant de colorer un élément, on sait ce que la couleur code. Sinon, il reste g
 
 Toute couleur est un jeton de `src/styles/charte.css`, avec son sens en commentaire. Un composant, un gabarit ou un script n'écrit jamais une couleur en dur. Script. Les jetons qui découlent de la table :
 
-- `--trait` `#DCE5EA`, le filet des cartes ; `--trait-leger`, les filets de séparation ; `--menthe-trait` `#BFE3DE`, le filet d'une pastille de service ; `--menthe-pale`, le fond d'une pastille ; `--urgence-pale`, le fond du rappel d'urgence.
+- `--trait` `#DCE5EA`, le filet des cartes ; `--trait-leger`, les filets de séparation ; `--menthe-trait` `#BFE3DE`, le filet d'une pastille de service ; `--menthe-pale`, le fond d'une pastille ; les deux aussi pour l'encart de campagne, une offre autour d'un soin, jamais en rouge ; `--urgence-pale`, le fond du rappel d'urgence.
 - `--lac` `#D6E5EE`, les lacs de la carte des cabinets.
 - `--autoroute` `#E2A24A` et `--autoroute-plaque` `#9B3B26`, les autoroutes de la carte des cabinets et leur plaque. Un repère pour venir au cabinet, rien d'autre ; la plaque n'est pas le rouge de l'urgence.
 - Sur le fond marine : `--sur-marine` et `--sur-marine-lien` pour le texte et les liens, `--sur-marine-filet` pour les filets du pied de page et des horaires, `--sur-marine-fond` pour un encadré, les fermetures.

@@ -1,7 +1,8 @@
-// Les trois collections du site, vérifiées à chaque construction :
+// Les quatre collections du site, vérifiées à chaque construction :
 // - « pages » : les textes, un fichier Markdown par page et par langue (docs/format-des-pages.md) ;
 // - « cliniques » : la fiche de chaque clinique, un fichier JSON (docs/fiche-du-cabinet.md) ;
-// - « tarifs » : la grille des prix de chaque cabinet, un fichier JSON (docs/grille-des-prix.md).
+// - « tarifs » : la grille des prix de chaque cabinet, un fichier JSON (docs/grille-des-prix.md) ;
+// - « campagnes » : les campagnes du réseau, un fichier JSON chacune (docs/campagnes.md).
 // Un champ manquant ou mal écrit arrête la construction avec le nom du fichier et du champ,
 // dans un message en français.
 
@@ -51,6 +52,17 @@ const pages = defineCollection({
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).optional(),
     /** Le nom du soin dans une phrase, avec son article : « la radiographie », « das Röntgen ». Page commune d'un service. */
     en_phrase: z.string().optional(),
+    /**
+     * Le soin dans « Comment prendre rendez-vous pour… ? », quand l'article de `en_phrase` ne
+     * convient pas : « une prise de sang ». Sans lui, `en_phrase`. Page commune d'un service.
+     */
+    pour_un_rendez_vous: z.string().optional(),
+    /**
+     * La question « Qui pratique {en_phrase} à {Ville} ? » écrite autrement, en entier : « Quel
+     * vétérinaire fait des visites à domicile ? ». {lieu} devient le lieu du cabinet. Page commune
+     * d'un service.
+     */
+    question_qui_pratique: z.string().optional(),
     /**
      * La présentation du soin dans un cabinet, avec les mots que l'on cherche, valable pour chaque
      * cabinet : « Le cabinet {cabinet} propose des soins dentaires… ». {cabinet} devient « Vetmint
@@ -186,4 +198,33 @@ const tarifs = defineCollection({
     }),
 });
 
-export const collections = { pages, cliniques, tarifs };
+const campagnes = defineCollection({
+  // L'identifiant d'une campagne est le nom de son fichier : src/donnees/campagnes/trimestre-dentaire.json.
+  loader: glob({ pattern: '*.json', base: './src/donnees/campagnes' }),
+  schema: z.object({
+    /** L'interrupteur : false retire l'encart tout de suite, quelles que soient les dates. */
+    active: z.boolean(),
+    /** Le premier jour de la campagne. Sans date, elle commence dès qu'elle est active. */
+    du: date.optional(),
+    /** Le dernier jour de la campagne : l'encart disparaît le lendemain. */
+    jusqu_au: date,
+    titre: texte,
+    texte,
+    /**
+     * Où mène le bouton. « contact » : « Pour plus d'informations, contactez votre cabinet », vers
+     * la liste des cabinets ; dans un cabinet, vers sa page Contact. « service » : vers la page du
+     * service, celle du cabinet dans un cabinet.
+     */
+    bouton: z.enum(['contact', 'service']).default('contact'),
+    /** Le nom de la page commune du service, pour le bouton « service ». */
+    service: z.string().optional(),
+    /** Le sujet de la photo dans le catalogue : « service:dentisterie ». */
+    photo: z.string().optional(),
+    /** Les cabinets où l'encart s'affiche, par leur identifiant. Sans liste, tous. */
+    cabinets: z.array(z.string()).optional(),
+    /** L'encart s'affiche aussi sur l'accueil du site. Vrai par défaut. */
+    accueil_du_site: z.boolean().default(true),
+  }),
+});
+
+export const collections = { pages, cliniques, tarifs, campagnes };

@@ -22,7 +22,7 @@ Bei einem tierärztlichen Notfall in Domdidier rufen Sie an, bevor Sie losfahren
 
 ## Während der Öffnungszeiten
 
-Die Praxis an der Route de Saint-Aubin empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Ihr Anruf gibt dem Team Zeit, einen Raum freizumachen und bei Bedarf den Operationssaal vorzubereiten. Halten Sie bei der Ankunft auf dem ebenerdigen Halteplatz vor dem Eingang: Sie tragen Ihr Tier ohne Umweg hinein.
+Die Praxis an der Route de Saint-Aubin empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Ihr Anruf gibt dem Team Zeit, einen Raum freizumachen und bei Bedarf den Operationssaal vorzubereiten. Parkieren Sie bei der Ankunft auf einem der zwei Parkplätze vor der Praxis: Die Tür ist nur wenige Schritte entfernt.
 
 <!-- donnees: horaires -->
 - Montag, Dienstag, Mittwoch und Freitag: 8–18 Uhr
@@ -85,4 +85,4 @@ In der Praxis bezahlen Sie die Behandlungen vor Ort, sobald Ihr Tier versorgt is
 
 ## Was kein Notfall ist
 
-Ein leichter Husten, eine abgebrochene Kralle oder ein Ohr, das seit ein paar Tagen juckt, können bis zum nächsten Tag warten. [Reservieren Sie eine Konsultation](/de/domdidier/termin/) von 30 Minuten. Den Zugang und den Halteplatz beschreibt die Seite [Kontakt](/de/domdidier/kontakt/).
+Ein leichter Husten, eine abgebrochene Kralle oder ein Ohr, das seit ein paar Tagen juckt, können bis zum nächsten Tag warten. [Reservieren Sie eine Konsultation](/de/domdidier/termin/) von 30 Minuten. Den Zugang und den Parkplatz beschreibt die Seite [Kontakt](/de/domdidier/kontakt/).

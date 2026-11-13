@@ -44,7 +44,7 @@ Les [NAC](/services/nac/) (lapins, rongeurs, furets, oiseaux, reptiles) sont re�
 
 Claire-Lise Tinguely est vétérinaire, diplômée de la faculté Vetsuisse de Berne en 2018. Elle a travaillé dans la région bernoise puis dans une grande clinique pour petits animaux près de Zurich, avant de revenir dans sa région natale. Tiago Capelo est le second vétérinaire du cabinet.
 
-Jessy Dizerens et Sandra Maeder, assistantes en médecine vétérinaire, vous accueillent au comptoir et assistent les vétérinaires en consultation et au bloc. Jessy a fait son apprentissage au cabinet. Le cabinet forme aussi Afonso Jesus Costa, apprenti depuis 2023. Annie Pasquier y fait son préapprentissage. L'équipe parle français ; Claire-Lise Tinguely et Jessy Dizerens parlent aussi allemand.
+Claudia Marchegiani et Djamila Wyssbrod, assistantes en médecine vétérinaire, vous accueillent au comptoir et assistent les vétérinaires en consultation et au bloc. Le cabinet forme aussi Annie Pasquier, apprentie assistante en médecine vétérinaire. L'équipe parle français. Claire-Lise Tinguely parle aussi allemand, Claudia Marchegiani italien et Djamila Wyssbrod portugais.
 
 Leurs portraits sont sur la page [Équipe](/payerne/equipe/).
 
@@ -52,13 +52,13 @@ Leurs portraits sont sur la page [Équipe](/payerne/equipe/).
 
 L'entrée donne sur la réception et la salle d'attente. Derrière, la salle de préparation ouvre sur la salle d'opération et sur la salle de radiographie. Le laboratoire transmet ses résultats à l'ordinateur du vétérinaire : la plupart des prises de sang sont lues en une demi-heure environ, pendant la consultation.
 
-Des places de parc gratuites se trouvent à proximité. Une place de dépose est aménagée de plain-pied devant l'entrée, avec un accès direct : un grand chien qui marche mal ou une caisse lourde passent sans marche. Depuis l'A1, la sortie Payerne est à cinq minutes ; la gare CFF est à une vingtaine de minutes à pied.
+Des places de parc gratuites se trouvent à proximité. Une place de parc se trouve juste devant la porte d'entrée : avec un grand chien qui marche mal ou une caisse lourde, vous n'avez que quelques pas à faire. Depuis l'A1, la sortie Payerne est à cinq minutes ; la gare CFF est à une vingtaine de minutes à pied.
 
 Les temps de trajet depuis la Broye et les liens d'itinéraire figurent sur la page [Contact et accès](/payerne/contact/).
 
 ## En cas d'urgence
 
-Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de dépose. Une urgence reçue pendant les heures d'ouverture coûte {prix:supplement-urgence-jour} de supplément, en plus de la consultation et des soins.
+Pendant les heures d'ouverture, appelez le [026 660 16 16](tel:+41266601616) avant de partir. L'équipe libère une salle et peut vous demander de vous garer sur la place de parc devant la porte d'entrée. Une urgence reçue pendant les heures d'ouverture coûte {prix:supplement-urgence-jour} de supplément, en plus de la consultation et des soins.
 
 En dehors des heures d'ouverture, appelez Vet'Urgences Fribourg, le service d'urgence de Vetmint à Givisiez, ouvert tous les jours de 8 h à minuit. Après minuit, son répondeur vous donne le numéro du vétérinaire de garde. Un supplément d'urgence s'ajoute aux soins.
 

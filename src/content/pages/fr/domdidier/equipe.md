@@ -3,14 +3,14 @@ type: equipe
 clinique: domdidier
 url: /domdidier/equipe/
 title: L'équipe vétérinaire de Vetmint Domdidier
-description: "Diana Rodrigues et Pascale Bonny, vétérinaires à Domdidier, avec une apprentie, un anesthésiste et un médecin-dentiste. Parcours, langues, façon de travailler."
+description: "Trois vétérinaires à Domdidier, Diana Rodrigues, Pascale Bonny et Rita Ferrao, avec deux assistantes, deux jeunes en formation et deux spécialistes externes."
 h1: L'équipe de Vetmint Domdidier
 recherche: équipe vétérinaire Domdidier
 redige_le: 2026-11-13
-resume: Deux vétérinaires et une apprentie, route de Saint-Aubin 58, en français, en portugais, en anglais et en espagnol.
+resume: Trois vétérinaires, deux assistantes, une apprentie et une préapprentie, route de Saint-Aubin 58.
 ---
 
-L'équipe vétérinaire du cabinet Vetmint Domdidier compte deux vétérinaires, Diana Rodrigues et Pascale Bonny. Manon Bernheim y fait son apprentissage d'assistante en médecine vétérinaire. Elles reçoivent les chiens, les chats et tous les NAC, route de Saint-Aubin 58. On y consulte en français, en portugais et en anglais ; Manon Bernheim parle aussi espagnol. Pour les opérations lourdes et certains soins dentaires, deux spécialistes viennent de l'extérieur.
+L'équipe vétérinaire du cabinet Vetmint Domdidier compte trois vétérinaires : Diana Rodrigues, Pascale Bonny et Rita Ferrao. Gwladys Rouillon et Sophia Domah sont assistantes en médecine vétérinaire. Manon Bernheim y fait son apprentissage d'assistante en médecine vétérinaire ; Alessia Vaucher, son préapprentissage. Elles reçoivent les chiens, les chats et tous les NAC, route de Saint-Aubin 58. On y consulte en français, en portugais et en anglais ; Manon Bernheim parle aussi espagnol. Pour les opérations lourdes et certains soins dentaires, deux spécialistes viennent de l'extérieur.
 
 [Prendre rendez-vous](/domdidier/rendez-vous/)
 
@@ -36,9 +36,13 @@ Hors du cabinet, Pascale randonne, grimpe en montagne et part en balade à cheva
 
 Un animal suivi au long cours gagne à revoir la même vétérinaire : un chat âgé dont on surveille les reins, un chien qui a de l'arthrose (usure douloureuse des articulations). Vous n'avez pas à tout réexpliquer. Elle connaît son dossier, ses traitements et sa façon de réagir à l'examen. En réservant, nommez la vétérinaire qui connaît déjà votre animal, au téléphone ou dans votre demande en ligne. En urgence, c'est la vétérinaire présente qui le reçoit, après avoir lu son dossier.
 
-## L'apprentie
+## Les assistantes en médecine vétérinaire
 
-Le cabinet de Domdidier forme une apprentie assistante en médecine vétérinaire. L'apprentissage dure trois ans et mène au certificat fédéral de capacité (CFC). L'apprentie alterne le travail au cabinet et les cours de l'école professionnelle. Au cabinet, elle apprend l'accueil, les soins aux animaux, le laboratoire et l'aide au bloc opératoire, aux côtés des vétérinaires.
+Gwladys Rouillon et Sophia Domah sont les assistantes en médecine vétérinaire (AMV) du cabinet de Domdidier.
+
+## Les apprenties
+
+Le cabinet de Domdidier forme des assistantes en médecine vétérinaire. L'apprentissage dure trois ans et mène au certificat fédéral de capacité (CFC). L'apprentie alterne le travail au cabinet et les cours de l'école professionnelle. Au cabinet, elle apprend l'accueil, les soins aux animaux, le laboratoire et l'aide au bloc opératoire, aux côtés des vétérinaires. Alessia Vaucher y fait son préapprentissage, l'année qui précède l'apprentissage.
 
 ### Manon Bernheim, apprentie assistante en médecine vétérinaire
 
@@ -70,10 +74,10 @@ La consultation dure 30 minutes. Le vétérinaire commence par ce que vous avez 
 
 Votre animal arrive le matin. Un chien ou un chat reste à jeun depuis le repas du soir, tandis qu'un lapin ou un rongeur mange jusqu'au départ. Le vétérinaire l'examine avant l'anesthésie, puis l'animal passe en salle de préparation et en salle d'opération. Après le réveil, le cabinet vous appelle. Après une stérilisation, vous reprenez votre animal en fin de journée. Les soins faits sur place sont décrits sur la page [Services](/domdidier/services/).
 
-Pour un rendez-vous avec l'une des deux vétérinaires, appelez le [026 675 38 88](tel:+41266753888) ou réservez en ligne.
+Pour un rendez-vous avec l'une des trois vétérinaires, appelez le [026 675 38 88](tel:+41266753888) ou réservez en ligne.
 
 [Prendre rendez-vous](/domdidier/rendez-vous/)
 
 ## Travailler au cabinet
 
-Le cabinet de Domdidier forme une apprentie et recrute avec le groupe Vetmint. Les postes ouverts dans les huit cabinets figurent sur la page [Emploi](/emploi/).
+Le cabinet de Domdidier forme une apprentie et une préapprentie et recrute avec le groupe Vetmint. Les postes ouverts dans les huit cabinets figurent sur la page [Emploi](/emploi/).

@@ -38,4 +38,4 @@ Si aucune heure ne vous convient à Domdidier, le cabinet Vetmint de [Payerne](/
 
 ## Pour une urgence
 
-Une urgence ne se réserve pas en ligne : téléphonez. La page [Urgences](/domdidier/urgences/) donne le bon numéro selon l'heure. La page [Contact](/domdidier/contact/) décrit l'accès et la place de dépose.
+Une urgence ne se réserve pas en ligne : téléphonez. La page [Urgences](/domdidier/urgences/) donne le bon numéro selon l'heure. La page [Contact](/domdidier/contact/) décrit l'accès et le parking.

@@ -3,13 +3,13 @@ type: contact
 clinique: payerne
 url: /payerne/contact/
 title: "Contact, accès et parking : vétérinaire Vetmint Payerne"
-description: "Cabinet vétérinaire Vetmint Payerne, route du Châtelard 13. Parking gratuit, dépose de plain-pied, gare CFF à 20 minutes à pied. 026 660 16 16. Toute la Broye."
+description: "Cabinet vétérinaire Vetmint Payerne, route du Châtelard 13. Parking gratuit devant la porte, gare CFF à 20 minutes à pied. 026 660 16 16. Toute la Broye."
 h1: Nous trouver à Payerne
 recherche: contact vétérinaire Payerne
 redige_le: 2026-10-16
 ---
 
-Le cabinet vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de dépose de plain-pied devant l'entrée vous évite les marches avec un animal lourd.
+Le cabinet vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de parc juste devant la porte d'entrée vous évite de porter loin un animal lourd.
 
 ## Coordonnées
 
@@ -35,7 +35,7 @@ Le cabinet est ouvert toute l'année. Le samedi, il ouvre à tour de rôle avec 
 
 ## En voiture
 
-Depuis l'autoroute A1, prenez la sortie Payerne : le cabinet est à cinq minutes. Des places de parc gratuites se trouvent à proximité de l'entrée. Si votre animal ne peut pas marcher ou voyage dans une grande caisse, arrêtez-vous sur la place de dépose, devant la porte. Une personne de l'équipe vient vous aider à le porter si vous le demandez en appelant depuis la voiture.
+Depuis l'autoroute A1, prenez la sortie Payerne : le cabinet est à cinq minutes. Des places de parc gratuites se trouvent à proximité de l'entrée. Si votre animal ne peut pas marcher ou voyage dans une grande caisse, garez-vous sur la place de parc juste devant la porte d'entrée. Une personne de l'équipe vient vous aider à le porter si vous le demandez en appelant depuis la voiture.
 
 ## En transports publics
 
@@ -43,7 +43,7 @@ La gare CFF de Payerne est à une vingtaine de minutes à pied. Les trains y arr
 
 ## Accès en fauteuil roulant et avec un animal difficile à porter
 
-L'entrée est de plain-pied, sans marche, depuis la place de dépose. La réception, la salle d'attente, les deux salles de consultation et la salle de soins sont au même niveau. Un animal anxieux ou agressif peut entrer directement en salle de consultation : dites-le en arrivant, l'équipe vous évite la salle d'attente.
+L'entrée est de plain-pied, sans marche. La réception, la salle d'attente, les deux salles de consultation et la salle de soins sont au même niveau. Un animal anxieux ou agressif peut passer directement en salle de consultation, sans attendre : dites-le en arrivant. Il traverse la salle d'attente, mais n'y reste pas.
 
 ## D'où viennent nos clients
 

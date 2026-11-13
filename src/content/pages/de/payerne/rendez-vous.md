@@ -37,4 +37,4 @@ Rechnen Sie in der Regel mit zwei bis drei Werktagen, bis ein Termin frei ist. W
 
 ## Im Notfall
 
-Ein Tier, dem es schlecht geht, wartet nicht auf einen freien Termin. Die Nummern, die Sie bei Tag und bei Nacht anrufen können, stehen auf der Seite [Notfall](/de/payerne/notfall/); der Parkplatz und der Halteplatz auf der Seite [Kontakt](/de/payerne/kontakt/).
+Ein Tier, dem es schlecht geht, wartet nicht auf einen freien Termin. Die Nummern, die Sie bei Tag und bei Nacht anrufen können, stehen auf der Seite [Notfall](/de/payerne/notfall/); der Parkplatz auf der Seite [Kontakt](/de/payerne/kontakt/).

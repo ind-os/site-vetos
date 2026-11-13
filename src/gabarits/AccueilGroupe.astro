@@ -1,9 +1,11 @@
 ---
-// L'accueil de vetmint.ch : le premier écran, la carte et les huit cliniques avec leur statut,
+// L'accueil de vetmint.ch : le premier écran, l'encart de la campagne en cours, la carte et les huit cliniques avec leur statut,
 // puis le texte de la page et les derniers conseils santé.
 import type { Contexte } from '../lib/contexte.ts';
 import { lesCliniques } from '../lib/cliniques.ts';
 import { balisageDuGroupe } from '../lib/balisage.ts';
+import { campagneDuJour } from '../lib/campagnes.ts';
+import EncartCampagne from '../composants/EncartCampagne.astro';
 import { photo } from '../lib/images.ts';
 import { adresse } from '../lib/pages.ts';
 import Accueil from '../composants/Accueil.astro';
@@ -21,6 +23,7 @@ const { contexte } = Astro.props;
 const { page, langue, t, html, adresses, titre } = contexte;
 const cliniques = await lesCliniques();
 const photoDAccueil = photo('accueil', langue);
+const campagne = await campagneDuJour();
 ---
 
 <Base langue={langue} titre={page.data.title} description={page.data.description} adresses={adresses} image={photoDAccueil?.src} balisage={[balisageDuGroupe()]}>
@@ -30,6 +33,8 @@ const photoDAccueil = photo('accueil', langue);
       <Bouton variante="secondaire" href={await adresse(langue, 'urgences')}>{t.navigation.urgences}</Bouton>
     </Fragment>
   </Accueil>
+
+  {campagne && <div class="conteneur campagne"><EncartCampagne campagne={campagne} langue={langue} /></div>}
 
   <Section fond="gris" titre={t.cliniques.trouver} id="cliniques">
     <ReseauDesCliniques cliniques={cliniques} langue={langue} />
@@ -42,4 +47,5 @@ const photoDAccueil = photo('accueil', langue);
 
 <style>
   .texte { padding-block: var(--section-y) var(--espace-8); }
+  .campagne { padding-bottom: var(--section-y); }
 </style>

@@ -65,7 +65,7 @@ Wählen Sie die Notfallnummer: Sie führt zu Vet'Urgences Fribourg, dem Notfalld
 
 ### Wo kann ich parkieren?
 
-Auf den Parkplätzen in der Nähe der Praxis. Vor dem Eingang dient ein ebenerdiger Halteplatz zum Ausladen eines grossen Hundes oder einer schweren Box, mit direktem Zugang zur Tür. Die Anfahrt ab der Autobahn und ab dem Bahnhof steht auf der Seite [Kontakt](/de/domdidier/kontakt/).
+Auf einem der zwei Parkplätze direkt vor der Praxis. Mit einem grossen Hund oder einer schweren Box sind es nur wenige Schritte bis zur Tür. Die Anfahrt ab der Autobahn und ab dem Bahnhof steht auf der Seite [Kontakt](/de/domdidier/kontakt/).
 
 ### In welchen Sprachen kann ich die Sprechstunde besuchen?
 

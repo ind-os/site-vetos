@@ -3,14 +3,14 @@ type: equipe
 clinique: domdidier
 url: /de/domdidier/team/
 title: "Das Tierärzteteam von Vetmint Domdidier"
-description: "Diana Rodrigues und Pascale Bonny, Tierärztinnen in Domdidier, mit einer Lernenden, einem Anästhesisten und einem Zahnarzt. Werdegang, Sprachen, Arbeitsweise."
+description: "Drei Tierärztinnen in Domdidier, Diana Rodrigues, Pascale Bonny und Rita Ferrao, mit zwei Assistentinnen, zwei jungen Frauen in Ausbildung und zwei Fachleuten."
 h1: "Das Team von Vetmint Domdidier"
 recherche: "Tierärzteteam Domdidier"
 redige_le: 2026-11-13
-resume: "Zwei Tierärztinnen und eine Lernende, Route de Saint-Aubin 58, auf Französisch, Portugiesisch, Englisch und Spanisch."
+resume: "Drei Tierärztinnen, zwei Assistentinnen, eine Lernende und eine Vorlernende, Route de Saint-Aubin 58."
 ---
 
-Zum Tierärzteteam der Praxis Vetmint Domdidier gehören zwei Tierärztinnen, Diana Rodrigues und Pascale Bonny. Manon Bernheim macht dort ihre Lehre als Tiermedizinische Praxisassistentin. Sie empfangen Hunde, Katzen und alle Heimtiere an der Route de Saint-Aubin 58. Die Sprechstunde findet auf Französisch, Portugiesisch und Englisch statt; Manon Bernheim spricht auch Spanisch. Für grössere Operationen und bestimmte Zahnbehandlungen kommen zwei Fachleute von aussen.
+Zum Tierärzteteam der Praxis Vetmint Domdidier gehören drei Tierärztinnen: Diana Rodrigues, Pascale Bonny und Rita Ferrao. Gwladys Rouillon und Sophia Domah sind Tiermedizinische Praxisassistentinnen. Manon Bernheim macht dort ihre Lehre als Tiermedizinische Praxisassistentin; Alessia Vaucher absolviert ihre Vorlehre. Sie empfangen Hunde, Katzen und alle Heimtiere an der Route de Saint-Aubin 58. Die Sprechstunde findet auf Französisch, Portugiesisch und Englisch statt; Manon Bernheim spricht auch Spanisch. Für grössere Operationen und bestimmte Zahnbehandlungen kommen zwei Fachleute von aussen.
 
 [Termin vereinbaren](/de/domdidier/termin/)
 
@@ -36,9 +36,13 @@ Ausserhalb der Praxis wandert Pascale, klettert in den Bergen und unternimmt Aus
 
 Ein Tier, das über lange Zeit betreut wird, profitiert davon, dieselbe Tierärztin wiederzusehen: eine ältere Katze, deren Nieren überwacht werden, ein Hund mit Arthrose (schmerzhafte Abnutzung der Gelenke). Sie müssen nicht alles neu erklären. Die Tierärztin kennt seine Akte, seine Behandlungen und seine Reaktionen bei der Untersuchung. Nennen Sie bei der Reservation die Tierärztin, die Ihr Tier schon kennt, am Telefon oder in Ihrer Online-Anfrage. Bei einem Notfall empfängt die anwesende Tierärztin Ihr Tier, nachdem sie seine Akte gelesen hat.
 
-## Die Lernende
+## Die Tiermedizinischen Praxisassistentinnen
 
-Die Praxis Domdidier bildet eine Lernende zur Tiermedizinischen Praxisassistentin aus. Die Lehre dauert drei Jahre und führt zum Eidgenössischen Fähigkeitszeugnis (EFZ). Die Lernende arbeitet abwechselnd in der Praxis und besucht den Unterricht der Berufsschule. In der Praxis lernt sie Empfang, Tierpflege, Labor und Mithilfe im Operationssaal, an der Seite der Tierärztinnen.
+Gwladys Rouillon und Sophia Domah sind die Tiermedizinischen Praxisassistentinnen (TPA) der Praxis Domdidier.
+
+## Die Lernenden
+
+Die Praxis Domdidier bildet Tiermedizinische Praxisassistentinnen aus. Die Lehre dauert drei Jahre und führt zum Eidgenössischen Fähigkeitszeugnis (EFZ). Die Lernende arbeitet abwechselnd in der Praxis und besucht den Unterricht der Berufsschule. In der Praxis lernt sie Empfang, Tierpflege, Labor und Mithilfe im Operationssaal, an der Seite der Tierärztinnen. Alessia Vaucher absolviert hier ihre Vorlehre, das Jahr vor der Lehre.
 
 ### Manon Bernheim, Lernende Tiermedizinische Praxisassistentin
 
@@ -70,10 +74,10 @@ Die Konsultation dauert 30 Minuten. Die Tierärztin oder der Tierarzt beginnt mi
 
 Ihr Tier kommt am Morgen. Ein Hund oder eine Katze bleibt seit der Abendmahlzeit nüchtern, ein Kaninchen oder ein Nager dagegen frisst bis zum Aufbruch. Die Tierärztin oder der Tierarzt untersucht das Tier vor der Narkose, dann kommt es in den Vorbereitungsraum und in den Operationssaal. Nach dem Aufwachen ruft Sie die Praxis an. Nach einer Sterilisation holen Sie Ihr Tier am Ende des Tages ab. Die Behandlungen vor Ort sind auf der Seite [Leistungen](/de/domdidier/leistungen/) beschrieben.
 
-Für einen Termin bei einer der beiden Tierärztinnen rufen Sie die [026 675 38 88](tel:+41266753888) an oder reservieren Sie online.
+Für einen Termin bei einer der drei Tierärztinnen rufen Sie die [026 675 38 88](tel:+41266753888) an oder reservieren Sie online.
 
 [Termin vereinbaren](/de/domdidier/termin/)
 
 ## In der Praxis arbeiten
 
-Die Praxis Domdidier bildet eine Lernende aus und stellt mit der Vetmint-Gruppe Personal ein. Die offenen Stellen in den acht Praxen stehen auf der Seite [Jobs](/de/jobs/).
+Die Praxis Domdidier bildet eine Lernende und eine Vorlernende aus und stellt mit der Vetmint-Gruppe Personal ein. Die offenen Stellen in den acht Praxen stehen auf der Seite [Jobs](/de/jobs/).

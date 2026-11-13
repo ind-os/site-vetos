@@ -5,7 +5,8 @@ title: "Analyse sanguine du chien et du chat : délais | Vetmint"
 description: "Analyse sanguine chez Vetmint : prise de sang, urine, selles et peau, la plupart des résultats pendant la consultation, biopsies au laboratoire externe."
 h1: "Analyse sanguine : sang, urine, peau et biopsies"
 nom: Analyse sanguine
-en_phrase: "l'analyse sanguine"
+en_phrase: "la prise de sang"
+pour_un_rendez_vous: "une prise de sang"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} réalise les analyses de sang de tous vos animaux, chiens, chats ou NAC, dans son propre laboratoire. La plupart des résultats sont disponibles presque immédiatement. Pour des examens plus spécifiques, l'échantillon part dans un laboratoire externe."
 recherche: analyse de sang chien chat
 redige_le: 2026-11-10

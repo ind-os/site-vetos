@@ -1,7 +1,9 @@
 ---
-// L'équipe d'une clinique : une carte par personne d'après la fiche, avec son portrait s'il
-// existe, puis le texte de la page.
+// L'équipe d'une clinique : une carte par personne d'après la fiche, avec sa photo s'il y en a
+// une, puis le texte de la page. Le portrait de chaque personne (son ### dans le Markdown) quitte
+// le fil du texte et s'ouvre depuis sa carte (src/lib/equipe.ts).
 import type { Contexte } from '../lib/contexte.ts';
+import { portraitsDeLEquipe } from '../lib/equipe.ts';
 import { enumerer } from '../lib/format.ts';
 import { photo } from '../lib/images.ts';
 import CarteMembre from '../composants/CarteMembre.astro';
@@ -15,6 +17,7 @@ interface Props {
 const { contexte } = Astro.props;
 const { langue, t, html } = contexte;
 const clinique = contexte.clinique!;
+const { html: texte, portraits } = portraitsDeLEquipe(html, clinique.equipe.map((m) => m.nom));
 ---
 
 <PageInterieure contexte={contexte} cote={false}>
@@ -29,9 +32,11 @@ const clinique = contexte.clinique!;
           langues={m.langues.length ? t.clinique.langues(enumerer(m.langues.map((l) => t.langues[l]), langue)) : undefined}
           photo={photo(`${clinique.id}:equipe:${m.nom}`, langue)}
           niveau={2}
+          portrait={portraits.get(m.nom)}
+          langue={langue}
         />
       ))
     }
   </div>
-  <Prose html={html} chapeau />
+  <Prose html={texte} chapeau />
 </PageInterieure>

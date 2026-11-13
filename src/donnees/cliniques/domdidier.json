@@ -113,6 +113,36 @@
       ]
     },
     {
+      "nom": "Rita Ferrao",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [],
+      "domaines": []
+    },
+    {
+      "nom": "Gwladys Rouillon",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [],
+      "domaines": []
+    },
+    {
+      "nom": "Sophia Domah",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [],
+      "domaines": []
+    },
+    {
       "nom": "Manon Bernheim",
       "titre": null,
       "fonction": {
@@ -124,6 +154,16 @@
         "es"
       ],
       "domaines": []
+    },
+    {
+      "nom": "Alessia Vaucher",
+      "titre": null,
+      "fonction": {
+        "fr": "Préapprentie assistante en médecine vétérinaire",
+        "de": "Vorlehre als Tiermedizinische Praxisassistentin"
+      },
+      "langues": [],
+      "domaines": []
     }
   ],
   "acces": {
@@ -132,16 +172,16 @@
       "de": "Route de Saint-Aubin 58, nordwestlich des Zentrums von Domdidier, in Richtung Saint-Aubin"
     },
     "parking": {
-      "fr": "Places de parc à proximité et une place de dépose de plain-pied devant l'entrée",
-      "de": "Parkplätze in der Nähe und ein ebenerdiger Halteplatz vor dem Eingang"
+      "fr": "Deux places de parc juste devant le cabinet",
+      "de": "Zwei Parkplätze direkt vor der Praxis"
     },
     "transports": {
       "fr": "Gare de Domdidier à environ 10 minutes à pied",
       "de": "Bahnhof Domdidier, etwa 10 Minuten zu Fuss"
     },
     "accessibilite": {
-      "fr": "Entrée de plain-pied, avec un accès direct depuis la place de dépose",
-      "de": "Ebenerdiger Eingang, direkt vom Halteplatz aus erreichbar"
+      "fr": "L'entrée du cabinet a des marches",
+      "de": "Der Eingang der Praxis hat Stufen"
     }
   },
   "communes": [

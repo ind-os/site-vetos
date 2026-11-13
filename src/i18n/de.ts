@@ -146,6 +146,8 @@ export const de: Catalogue = {
     veterinairesDuCabinet: (noms: string, _nombre: number) => `Das tierärztliche Team der Praxis: ${noms}.`,
     estProche: 'Ist die Praxis in meiner Nähe?',
     clientsDuCabinet: (localite: string, communes: string) => `Die Kundschaft kommt aus ${localite} und Umgebung: ${communes}.`,
+    voirLaPageContact: (lien: string) => `Anfahrt und Parkplatz stehen auf der Seite ${lien}.`,
+    pageContact: 'Kontakt',
     commentPrendreRendezVous: (enPhrase: string) => `Wie vereinbare ich einen Termin für ${enPhrase}?`,
     rendezVousParTelephone: (telephone: string, whatsapp: string) =>
       `Rufen Sie ${telephone} an${whatsapp ? `, schreiben Sie per WhatsApp an ${whatsapp}` : ''} oder buchen Sie online über die Schaltfläche «Termin vereinbaren».`,
@@ -180,5 +182,19 @@ export const de: Catalogue = {
 
   tableau: {
     nom: 'Tabelle',
+  },
+
+  equipe: {
+    enSavoirPlus: 'Mehr erfahren',
+    fermer: 'Porträt schliessen',
+  },
+
+  campagne: {
+    jusquAu: (date: string) => `Bis ${date}`,
+    decouvrir: 'Zum Angebot',
+    contacterVotreCabinet: 'Für weitere Informationen wenden Sie sich an Ihre Vetmint-Praxis.',
+    contacterLeCabinet: (lieu: string) => `Für weitere Informationen wenden Sie sich an die Praxis Vetmint ${lieu}.`,
+    boutonCabinets: 'Ihre Praxis finden',
+    boutonContact: 'Praxis kontaktieren',
   },
 };

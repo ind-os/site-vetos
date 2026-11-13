@@ -3,14 +3,14 @@ type: accueil-clinique
 clinique: domdidier
 url: /de/domdidier/
 title: "Tierarzt in Domdidier: Tierarztpraxis Vetmint Domdidier"
-description: "Tierarztpraxis in Domdidier für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten, Lasertherapie, Ultraschall, ebenerdiger Halteplatz. 026 675 38 88."
+description: "Tierarztpraxis in Domdidier für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten, Lasertherapie, Ultraschall, Parkplätze vor der Tür. 026 675 38 88."
 h1: "Tierarztpraxis Vetmint Domdidier"
 recherche: "Tierarzt Domdidier"
 redige_le: 2026-11-13
-resume: "Hunde, Katzen und Heimtiere, Route de Saint-Aubin 58. Zwei Tierärztinnen, Konsultationen von 30 Minuten nach Termin."
+resume: "Hunde, Katzen und Heimtiere, Route de Saint-Aubin 58. Drei Tierärztinnen, Konsultationen von 30 Minuten nach Termin."
 ---
 
-Ihre Tierärztin in Domdidier empfängt Sie in der Tierarztpraxis Vetmint Domdidier, Route de Saint-Aubin 58, mit Ihrem Hund, Ihrer Katze oder Ihrem Heimtier. Zwei Tierärztinnen, Diana Rodrigues und Pascale Bonny, halten dort Sprechstunde. Manon Bernheim lernt dort den Beruf der Tiermedizinischen Praxisassistentin. Jeder Termin dauert 30 Minuten, die Zeit, um Ihr Tier von Kopf bis Schwanz zu untersuchen.
+Ihre Tierärztin in Domdidier empfängt Sie in der Tierarztpraxis Vetmint Domdidier, Route de Saint-Aubin 58, mit Ihrem Hund, Ihrer Katze oder Ihrem Heimtier. Drei Tierärztinnen, Diana Rodrigues, Pascale Bonny und Rita Ferrao, halten dort Sprechstunde. Gwladys Rouillon und Sophia Domah sind dort Tiermedizinische Praxisassistentinnen. Manon Bernheim lernt dort den Beruf; Alessia Vaucher absolviert ihre Vorlehre. Jeder Termin dauert 30 Minuten, die Zeit, um Ihr Tier von Kopf bis Schwanz zu untersuchen.
 
 [Termin vereinbaren](/de/domdidier/termin/)
 
@@ -47,7 +47,9 @@ Diana Rodrigues hat 2013 in Portugal ihr Tierarztdiplom erworben. Seit 2016 lebt
 
 Pascale Bonny hat 2019 ihr Diplom an der Vetsuisse-Fakultät Bern erworben. Sie begann bei den Pferden, am Schweizerischen Institut für Pferdemedizin (ISME) in Avenches, und arbeitete danach in einer Gemischtpraxis in Graubünden. Sie stammt aus der Region und ist zurückgekehrt, um zum Team in Domdidier zu stossen. Sie hält Sprechstunde auf Französisch.
 
-Manon Bernheim macht seit Juli 2024 ihre Lehre als Tiermedizinische Praxisassistentin in der Praxis. Sie spricht Französisch und Spanisch.
+Rita Ferrao ist die dritte Tierärztin der Praxis. Gwladys Rouillon und Sophia Domah, Tiermedizinische Praxisassistentinnen, ergänzen das Team.
+
+Manon Bernheim macht seit Juli 2024 ihre Lehre als Tiermedizinische Praxisassistentin in der Praxis. Sie spricht Französisch und Spanisch. Alessia Vaucher absolviert dort ihre Vorlehre.
 
 Ihre Porträts finden Sie auf der Seite [Team](/de/domdidier/team/).
 
@@ -55,7 +57,7 @@ Ihre Porträts finden Sie auf der Seite [Team](/de/domdidier/team/).
 
 Die Tierarztpraxis Moser ist 2021 zur Tierarztpraxis Vetmint Domdidier geworden. Empfang und Wartezimmer führen zu zwei Sprechzimmern. Dahinter verbindet ein Vorbereitungsraum zwei Operationssäle: einen für sterile Eingriffe, den anderen für Zähne und Wunden. Dazu kommen ein Röntgenraum, das Labor und der Raum für die stationäre Betreuung.
 
-Parkplätze befinden sich in der Nähe. Vor dem Eingang bietet ein ebenerdiger Halteplatz direkten Zugang: Ein Hund, der schlecht läuft, oder eine schwere Box kommt ohne Stufe hinein. Ab der Autobahn A1 nehmen Sie die Ausfahrt Avenches. Mit dem Zug liegt der Bahnhof Domdidier etwa zehn Minuten zu Fuss entfernt.
+Zwei Parkplätze liegen direkt vor der Praxis: Mit einem Hund, der schlecht läuft, oder einer schweren Box sind es nur wenige Schritte bis zur Tür. Ab der Autobahn A1 nehmen Sie die Ausfahrt Avenches. Mit dem Zug liegt der Bahnhof Domdidier etwa zehn Minuten zu Fuss entfernt.
 
 Die Route und die Fahrzeiten aus den umliegenden Dörfern stehen auf der Seite [Kontakt und Anfahrt](/de/domdidier/kontakt/).
 

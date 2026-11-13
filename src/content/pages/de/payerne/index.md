@@ -44,7 +44,7 @@ Die [Heimtiere](/de/leistungen/heimtiere/) (Kaninchen, Nager, Frettchen, Vögel,
 
 Claire-Lise Tinguely ist Tierärztin und hat 2018 an der Vetsuisse-Fakultät Bern diplomiert. Sie hat in der Region Bern gearbeitet und danach in einer grossen Kleintierklinik bei Zürich, bevor sie in ihre Heimatregion zurückgekehrt ist. Tiago Capelo ist der zweite Tierarzt der Praxis.
 
-Jessy Dizerens und Sandra Maeder, Tiermedizinische Praxisassistentinnen, empfangen Sie am Empfang und unterstützen die Tierärztinnen und Tierärzte in der Konsultation und im Operationssaal. Jessy hat ihre Lehre in der Praxis gemacht. Die Praxis bildet auch Afonso Jesus Costa aus, Lernender seit 2023. Annie Pasquier absolviert dort ihre Vorlehre. Das Team spricht Französisch; Claire-Lise Tinguely und Jessy Dizerens sprechen auch Deutsch.
+Claudia Marchegiani und Djamila Wyssbrod, Tiermedizinische Praxisassistentinnen, empfangen Sie am Empfang und unterstützen die Tierärztinnen und Tierärzte in der Konsultation und im Operationssaal. Die Praxis bildet auch Annie Pasquier aus, Lernende Tiermedizinische Praxisassistentin. Das Team spricht Französisch. Claire-Lise Tinguely spricht auch Deutsch, Claudia Marchegiani Italienisch und Djamila Wyssbrod Portugiesisch.
 
 Ihre Porträts finden Sie auf der Seite [Team](/de/payerne/team/).
 
@@ -52,13 +52,13 @@ Ihre Porträts finden Sie auf der Seite [Team](/de/payerne/team/).
 
 Der Eingang führt zum Empfang und zum Wartezimmer. Dahinter öffnet sich der Vorbereitungsraum zum Operationssaal und zum Röntgenraum. Das Labor übermittelt seine Ergebnisse an den Computer der Tierärztin oder des Tierarztes: Die meisten Blutuntersuchungen sind in etwa einer halben Stunde ausgewertet, noch während der Konsultation.
 
-Kostenlose Parkplätze befinden sich in der Nähe. Vor dem Eingang ist ein ebenerdiger Halteplatz mit direktem Zugang eingerichtet: Ein grosser Hund, der schlecht läuft, oder eine schwere Box kommen ohne Stufe hinein. Ab der A1 ist die Ausfahrt Payerne fünf Minuten entfernt; der SBB-Bahnhof liegt etwa zwanzig Minuten zu Fuss entfernt.
+Kostenlose Parkplätze befinden sich in der Nähe. Ein Parkplatz liegt direkt vor der Eingangstür: Mit einem grossen Hund, der schlecht läuft, oder einer schweren Box sind es nur wenige Schritte. Ab der A1 ist die Ausfahrt Payerne fünf Minuten entfernt; der SBB-Bahnhof liegt etwa zwanzig Minuten zu Fuss entfernt.
 
 Die Fahrzeiten aus der Broye und die Links zur Route stehen auf der Seite [Kontakt und Anfahrt](/de/payerne/kontakt/).
 
 ## Im Notfall
 
-Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Halteplatz zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet {prix:supplement-urgence-jour} Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
+Rufen Sie während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) an, bevor Sie losfahren. Das Team macht einen Raum frei und kann Sie bitten, auf dem Parkplatz vor der Eingangstür zu parkieren. Ein Notfall, der während der Öffnungszeiten empfangen wird, kostet {prix:supplement-urgence-jour} Zuschlag, zusätzlich zur Konsultation und zu den Behandlungen.
 
 Ausserhalb der Öffnungszeiten rufen Sie Vet'Urgences Fribourg an, den Notfalldienst von Vetmint in Givisiez, täglich von 8 Uhr bis Mitternacht geöffnet. Nach Mitternacht nennt Ihnen sein Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Ein Notfallzuschlag kommt zu den Behandlungen hinzu.
 

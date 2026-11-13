@@ -520,50 +520,11 @@
     "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/10/Claire-scaled-e1760103492798.jpg"
   },
   {
-    "fichier": "payerne-equipe-jessy-dizerens.jpg",
-    "sujet": "payerne:equipe:Jessy Dizerens",
-    "alt": {
-      "fr": "Jessy Dizerens, assistante en médecine vétérinaire, dans un pré avec un chiot bouvier bernois dans les bras",
-      "de": "Jessy Dizerens, Tiermedizinische Praxisassistentin, auf einer Wiese mit einem Berner-Sennenhund-Welpen im Arm"
-    },
-    "point_focal": {
-      "x": 0.5,
-      "y": 0.3
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/09/Jessy-scaled-e1759137087792-1454x1536.jpg"
-  },
-  {
-    "fichier": "payerne-equipe-sandra-maeder.jpg",
-    "sujet": "payerne:equipe:Sandra Maeder",
-    "alt": {
-      "fr": "Sandra Maeder, assistante en médecine vétérinaire, assise à côté d'un berger allemand",
-      "de": "Sandra Maeder, Tiermedizinische Praxisassistentin, sitzt neben einem Deutschen Schäferhund"
-    },
-    "point_focal": {
-      "x": 0.45,
-      "y": 0.35
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/09/Sandra-scaled-e1759137860441-1805x2048.jpg"
-  },
-  {
-    "fichier": "payerne-equipe-afonso-jesus-costa.jpg",
-    "sujet": "payerne:equipe:Afonso Jesus Costa",
-    "alt": {
-      "fr": "Afonso Jesus Costa, apprenti assistant en médecine vétérinaire, en tenue de soins turquoise",
-      "de": "Afonso Jesus Costa, Lernender Tiermedizinischer Praxisassistent, in türkisfarbener Berufskleidung"
-    },
-    "point_focal": {
-      "x": 0.5,
-      "y": 0.4
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2024/10/AC-1.png"
-  },
-  {
     "fichier": "payerne-equipe-annie-pasquier.jpg",
     "sujet": "payerne:equipe:Annie Pasquier",
     "alt": {
-      "fr": "Annie Pasquier, préapprentie assistante en médecine vétérinaire, tient une chatte écaille de tortue dans ses bras",
-      "de": "Annie Pasquier, Vorlernende Tiermedizinische Praxisassistentin, hält eine Schildpattkatze im Arm"
+      "fr": "Annie Pasquier, apprentie assistante en médecine vétérinaire, tient une chatte écaille de tortue dans ses bras",
+      "de": "Annie Pasquier, Lernende Tiermedizinische Praxisassistentin, hält eine Schildpattkatze im Arm"
     },
     "point_focal": {
       "x": 0.5,

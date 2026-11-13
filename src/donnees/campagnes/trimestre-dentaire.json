@@ -1,0 +1,13 @@
+{
+  "active": true,
+  "jusqu_au": "2026-12-31",
+  "titre": {
+    "fr": "Trimestre dentaire",
+    "de": "Zahnquartal"
+  },
+  "texte": {
+    "fr": "Le contrôle des dents de votre chien ou de votre chat est offert dans tous nos cabinets. Si un soin est nécessaire, il bénéficie d’une réduction.",
+    "de": "Die Zahnkontrolle Ihres Hundes oder Ihrer Katze ist in allen unseren Praxen kostenlos. Ist eine Behandlung nötig, erhalten Sie eine Ermässigung."
+  },
+  "photo": "service:dentisterie"
+}

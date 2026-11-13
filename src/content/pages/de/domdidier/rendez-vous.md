@@ -38,4 +38,4 @@ Wenn Ihnen in Domdidier keine Zeit passt, hat die Vetmint-Praxis in [Payerne](/d
 
 ## Im Notfall
 
-Ein Notfall wird nicht online reserviert: Rufen Sie an. Die Seite [Notfall](/de/domdidier/notfall/) nennt die richtige Nummer je nach Uhrzeit. Die Seite [Kontakt](/de/domdidier/kontakt/) beschreibt den Zugang und den Halteplatz.
+Ein Notfall wird nicht online reserviert: Rufen Sie an. Die Seite [Notfall](/de/domdidier/notfall/) nennt die richtige Nummer je nach Uhrzeit. Die Seite [Kontakt](/de/domdidier/kontakt/) beschreibt den Zugang und den Parkplatz.

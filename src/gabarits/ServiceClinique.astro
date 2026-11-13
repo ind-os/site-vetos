@@ -60,10 +60,17 @@ const infosPratiques = [
     reponse: `<p>${echapper([t.services.adresseDuCabinet(rue, npa, localite), phrase(acces?.parking?.[langue]), phrase(acces?.transports?.[langue]), phrase(acces?.accessibilite?.[langue])].filter(Boolean).join(' '))}</p>`,
   },
   ...(veterinaires.length > 0
-    ? [{ question: t.services.quiPratique(enPhrase, clinique.lieu), reponse: `<p>${echapper(t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length))}</p>` }]
+    ? [{ question: page.data.question_qui_pratique?.replaceAll('{lieu}', clinique.lieu) ?? t.services.quiPratique(enPhrase, clinique.lieu), reponse: `<p>${echapper(t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length))}</p>` }]
     : []),
-  ...(communes.length > 0 ? [{ question: t.services.estProche, reponse: `<p>${echapper(t.services.clientsDuCabinet(localite, enumerer(communes, langue)))}</p>` }] : []),
-  { question: t.services.commentPrendreRendezVous(enPhrase), reponse: `<p>${t.services.rendezVousParTelephone(lien(clinique.telephone), whatsapp)}</p>` },
+  ...(communes.length > 0
+    ? [
+        {
+          question: t.services.estProche,
+          reponse: `<p>${echapper(t.services.clientsDuCabinet(localite, enumerer(communes, langue)))} ${t.services.voirLaPageContact(`<a href="${await adresse(langue, `${clinique.id}/contact`)}">${echapper(t.services.pageContact)}</a>`)}</p>`,
+        },
+      ]
+    : []),
+  { question: t.services.commentPrendreRendezVous(page.data.pour_un_rendez_vous ?? enPhrase), reponse: `<p>${t.services.rendezVousParTelephone(lien(clinique.telephone), whatsapp)}</p>` },
 ].map((q) => ({ question: q.question.replaceAll("'", '’'), reponse: q.reponse.replaceAll("'", '’') }));
 const grille = await laGrille(clinique.id);
 const lignes = (grille?.grille.prix ?? [])

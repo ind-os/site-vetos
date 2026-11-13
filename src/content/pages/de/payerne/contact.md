@@ -3,13 +3,13 @@ type: contact
 clinique: payerne
 url: /de/payerne/kontakt/
 title: "Kontakt, Anfahrt und Parkplatz: Tierarzt Vetmint Payerne"
-description: "Tierarztpraxis Vetmint Payerne, Route du Châtelard 13. Gratis-Parkplätze, ebenerdiger Halteplatz, SBB-Bahnhof 20 Minuten zu Fuss. 026 660 16 16. Ganze Broye."
+description: "Tierarztpraxis Vetmint Payerne, Route du Châtelard 13. Gratis-Parkplätze vor der Tür, SBB-Bahnhof 20 Minuten zu Fuss. 026 660 16 16. Ganze Broye."
 h1: "So finden Sie uns in Payerne"
 recherche: "Kontakt Tierarzt Payerne"
 redige_le: 2026-10-16
 ---
 
-Die Tierarztpraxis Vetmint Payerne befindet sich an der Route du Châtelard 13 in Payerne. Für einen raschen Kontakt während der Öffnungszeiten ist das Telefon am einfachsten. Ein ebenerdiger Halteplatz vor dem Eingang erspart Ihnen Stufen mit einem schweren Tier.
+Die Tierarztpraxis Vetmint Payerne befindet sich an der Route du Châtelard 13 in Payerne. Für einen raschen Kontakt während der Öffnungszeiten ist das Telefon am einfachsten. Ein Parkplatz direkt vor der Eingangstür erspart Ihnen lange Wege mit einem schweren Tier.
 
 ## Kontaktdaten
 
@@ -35,7 +35,7 @@ Die Praxis ist das ganze Jahr geöffnet. Am Samstag öffnet sie abwechselnd mit 
 
 ## Mit dem Auto
 
-Nehmen Sie ab der Autobahn A1 die Ausfahrt Payerne: Die Praxis ist fünf Minuten entfernt. Kostenlose Parkplätze befinden sich in der Nähe des Eingangs. Wenn Ihr Tier nicht laufen kann oder in einer grossen Box reist, halten Sie auf dem Halteplatz vor der Tür. Eine Person des Teams hilft Ihnen, es zu tragen, wenn Sie darum bitten, indem Sie aus dem Auto anrufen.
+Nehmen Sie ab der Autobahn A1 die Ausfahrt Payerne: Die Praxis ist fünf Minuten entfernt. Kostenlose Parkplätze befinden sich in der Nähe des Eingangs. Wenn Ihr Tier nicht laufen kann oder in einer grossen Box reist, parkieren Sie auf dem Parkplatz direkt vor der Eingangstür. Eine Person des Teams hilft Ihnen, es zu tragen, wenn Sie darum bitten, indem Sie aus dem Auto anrufen.
 
 ## Mit dem öffentlichen Verkehr
 
@@ -43,7 +43,7 @@ Der SBB-Bahnhof Payerne liegt etwa zwanzig Minuten zu Fuss entfernt. Die Züge k
 
 ## Zugang im Rollstuhl und mit einem schwer zu tragenden Tier
 
-Der Eingang ist ebenerdig, ohne Stufe, ab dem Halteplatz. Der Empfang, das Wartezimmer, die beiden Sprechzimmer und der Behandlungsraum liegen auf derselben Ebene. Ein ängstliches oder aggressives Tier kann direkt ins Sprechzimmer gehen: Sagen Sie es bei der Ankunft, das Team erspart Ihnen das Wartezimmer.
+Der Eingang ist ebenerdig, ohne Stufe. Der Empfang, das Wartezimmer, die beiden Sprechzimmer und der Behandlungsraum liegen auf derselben Ebene. Ein ängstliches oder aggressives Tier kann ohne Wartezeit direkt ins Sprechzimmer: Sagen Sie es bei der Ankunft. Es geht durch das Wartezimmer, bleibt aber nicht dort.
 
 ## Woher unsere Kundschaft kommt
 

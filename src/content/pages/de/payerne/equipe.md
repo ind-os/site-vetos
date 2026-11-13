@@ -3,14 +3,14 @@ type: equipe
 clinique: payerne
 url: /de/payerne/team/
 title: "Das Tierärzteteam von Vetmint Payerne"
-description: "Tierärztin und Tierarzt in Payerne, Claire-Lise Tinguely und Tiago Capelo, mit zwei Assistentinnen und zwei Lernenden. Wer was macht, in welcher Sprache."
+description: "Tierärztin und Tierarzt in Payerne, Claire-Lise Tinguely und Tiago Capelo, mit zwei Assistentinnen und einer Lernenden. Wer was macht, in welcher Sprache."
 h1: "Das Team von Vetmint Payerne"
 recherche: "Tierärzteteam Payerne"
 redige_le: 2026-10-16
-resume: "Eine Tierärztin, ein Tierarzt, zwei Assistentinnen, ein Lernender und eine Vorlernende, Route du Châtelard 13."
+resume: "Eine Tierärztin, ein Tierarzt, zwei Assistentinnen und eine Lernende, Route du Châtelard 13."
 ---
 
-Sechs Personen kümmern sich in der Tierarztpraxis Vetmint Payerne um die Tiere: eine Tierärztin und ein Tierarzt, zwei Tiermedizinische Praxisassistentinnen, ein Lernender und eine Vorlernende. Sie empfangen Hunde, Katzen und alle Heimtiere an der Route du Châtelard 13. Am Empfang wie in der Konsultation spricht das Team Französisch, Englisch und Portugiesisch; Claire-Lise Tinguely und Jessy Dizerens sprechen auch Deutsch.
+Fünf Personen kümmern sich in der Tierarztpraxis Vetmint Payerne um die Tiere: eine Tierärztin und ein Tierarzt, zwei Tiermedizinische Praxisassistentinnen und eine Lernende. Sie empfangen Hunde, Katzen und alle Heimtiere an der Route du Châtelard 13. Am Empfang wie in der Konsultation spricht das Team Französisch. Claire-Lise Tinguely spricht auch Deutsch, Claudia Marchegiani Italienisch und Djamila Wyssbrod Portugiesisch.
 
 [Termin vereinbaren](/de/payerne/termin/)
 
@@ -36,31 +36,27 @@ Ein Tier, das wegen einer langen Krankheit betreut wird, etwa einer Niereninsuff
 
 Tiermedizinische Praxisassistentinnen (TPA) haben ein Eidgenössisches Fähigkeitszeugnis (EFZ). In Payerne beantworten sie das Telefon, vereinbaren die Termine und empfangen Sie am Empfang. In der Konsultation halten sie das Tier, bereiten die Proben vor und führen die Analysen im Labor durch. An Operationstagen bereiten sie den Raum vor und überwachen zusammen mit der Tierärztin oder dem Tierarzt die Narkose. Am Tag nach einer Operation ruft Sie eine von ihnen an, um zu fragen, wie die Nacht verlaufen ist.
 
-### Jessy Dizerens, Tiermedizinische Praxisassistentin
+### Claudia Marchegiani, Tiermedizinische Praxisassistentin
 
-Jessy Dizerens hat ihre ganze Lehre in der Praxis Payerne gemacht. Sie kennt deshalb die Räume, die Tierärztinnen und Tierärzte und viele Kundinnen und Kunden seit ihren Anfängen. Schon als Kind wusste sie, dass sie mit Tieren arbeiten wollte. Ab ihrem 13. Lebensjahr kümmerte sie sich zwei Jahre lang um zwei Esel. Danach verbrachte sie ein Jahr als Au-pair auf einem Bauernhof in der Deutschschweiz, mitten unter Tieren.
+Claudia Marchegiani ist Tiermedizinische Praxisassistentin in der Praxis Payerne. Sie spricht Italienisch und Französisch: Am Telefon wie am Empfang können Sie mit ihr Italienisch sprechen.
 
-### Sandra Maeder, Tiermedizinische Praxisassistentin
+### Djamila Wyssbrod, Tiermedizinische Praxisassistentin
 
-Sandra Maeder hat im Juli 2022 ihr EFZ als Tiermedizinische Praxisassistentin erhalten. Im Oktober 2024 ist sie zum Vetmint-Team gestossen. Der Beruf verbindet für sie ihre zwei Interessen, die Tiere und die Gesundheit. Ausserhalb der Praxis verbringt sie ihre Freizeit im Wald und in den Bergen.
+Djamila Wyssbrod ist Tiermedizinische Praxisassistentin in der Praxis Payerne. Sie spricht Portugiesisch und Französisch: Sie können ihr auf Portugiesisch erklären, was Ihnen an Ihrem Tier aufgefallen ist.
 
 ## Die Lernenden
 
-Die Praxis Payerne bildet Tiermedizinische Praxisassistentinnen und Praxisassistenten aus. Die Lehre dauert drei Jahre: Die Lernenden arbeiten in der Praxis und besuchen den Unterricht der Berufsschule. Sie lernen Empfang, Pflege, Labor und Mithilfe im Operationssaal, immer an der Seite einer diplomierten Assistentin oder einer Tierärztin oder eines Tierarztes. Jessy Dizerens hat diesen Weg hier zurückgelegt, bevor sie angestellt wurde.
+Die Praxis Payerne bildet Tiermedizinische Praxisassistentinnen und Praxisassistenten aus. Die Lehre dauert drei Jahre: Die Lernenden arbeiten in der Praxis und besuchen den Unterricht der Berufsschule. Sie lernen Empfang, Pflege, Labor und Mithilfe im Operationssaal, immer an der Seite einer diplomierten Assistentin oder einer Tierärztin oder eines Tierarztes.
 
-### Afonso Jesus Costa, Lernender Tiermedizinischer Praxisassistent
+### Annie Pasquier, Lernende Tiermedizinische Praxisassistentin
 
-Afonso Jesus Costa hat seine Lehre 2023 bei Vetmint begonnen. Er wollte immer mit Tieren arbeiten. Zu Hause lebt er mit seinen Eltern, seinem Bruder, seiner Schwester und einer neunjährigen Labradorhündin. In seiner Freizeit treibt er Sport, schaut japanische Animationsfilme und spielt Videospiele.
-
-### Annie Pasquier, Vorlernende Tiermedizinische Praxisassistentin
-
-Annie Pasquier ist im Sommer 2025 für eine Vorlehre zum Team gestossen, das Jahr vor der Lehre. Sie hat diesen Beruf gewählt, weil sie sich seit ihrer Kindheit gern um Tiere kümmert. Sie turnt am Gerät und reitet. Zu Hause lebt sie mit ihrer Familie und ihrer Katze Zia.
+Annie Pasquier ist im Sommer 2025 für eine Vorlehre zum Team gestossen, das Jahr vor der Lehre. Heute macht sie hier ihre Lehre. Sie hat diesen Beruf gewählt, weil sie sich seit ihrer Kindheit gern um Tiere kümmert. Sie turnt am Gerät und reitet. Zu Hause lebt sie mit ihrer Familie und ihrer Katze Zia.
 
 ## Wie das Team Ihr Tier empfängt
 
 ### Am Empfang
 
-Der Empfang führt ins Wartezimmer. Das Team ist geschult, den Stress der Tiere zu verringern. Es fasst sie wenig an und lässt sie, wenn möglich, allein aus ihrer Transportbox kommen. Es bietet ein Leckerli an, wenn ihr Futterplan es erlaubt. Eine sehr ängstliche Katze kann in ihrer mit einem Tuch bedeckten Box warten statt im Wartezimmer.
+Der Empfang führt ins Wartezimmer. Das Team ist geschult, den Stress der Tiere zu verringern. Es fasst sie wenig an und lässt sie, wenn möglich, allein aus ihrer Transportbox kommen. Es bietet ein Leckerli an, wenn ihr Futterplan es erlaubt. Eine sehr ängstliche Katze kann in ihrer mit einem Tuch bedeckten Box direkt ins Sprechzimmer, statt im Wartezimmer zu warten.
 
 ### In der Konsultation
 

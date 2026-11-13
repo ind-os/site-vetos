@@ -22,7 +22,7 @@ En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal
 
 ## Pendant les heures d'ouverture
 
-Le cabinet reçoit les urgences sans rendez-vous, entre deux consultations. Téléphonez d'abord, même si vous êtes à deux minutes de la route du Châtelard. L'équipe libère une salle et prépare le matériel. Elle peut vous demander de vous garer sur la place de dépose de plain-pied : vous entrez directement, sans traverser la salle d'attente.
+Le cabinet reçoit les urgences sans rendez-vous, entre deux consultations. Téléphonez d'abord, même si vous êtes à deux minutes de la route du Châtelard. L'équipe libère une salle et prépare le matériel. Elle peut vous demander de vous garer sur la place de parc juste devant la porte d'entrée.
 
 <!-- donnees: horaires -->
 - Lundi à vendredi : 8 h à 18 h

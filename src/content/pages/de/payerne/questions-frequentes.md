@@ -51,10 +51,10 @@ Rufen Sie die Notfallnummer an. Sie verbindet Sie mit Vet'Urgences Fribourg, dem
 
 ### Meine Katze ist beim Tierarzt sehr gestresst. Was tun Sie für sie?
 
-Wenn Ihre Katze in Panik gerät, sagen Sie es bei der Ankunft: Sie kann direkt ins Zimmer gehen, ohne einem Hund zu begegnen. Das Team ist geschult, ängstliche Tiere zu handhaben. Bei der stationären Betreuung wird der Käfig nach der Dauer des Aufenthalts gewählt.
+Wenn Ihre Katze in Panik gerät, sagen Sie es bei der Ankunft: Sie kommt direkt ins Sprechzimmer, ohne zwischen Hunden zu warten. Sie geht nur durch das Wartezimmer. Das Team ist geschult, ängstliche Tiere zu handhaben. Bei der stationären Betreuung wird der Käfig nach der Dauer des Aufenthalts gewählt.
 
 ## Anfahrt
 
 ### Kann man in der Nähe der Praxis parkieren?
 
-Ja. Kostenlose Parkplätze befinden sich in der Nähe der Route du Châtelard 13. Ein ebenerdiger Halteplatz vor dem Eingang bietet direkten Zugang: praktisch für einen grossen Hund, der schlecht läuft, oder eine schwere Box. Die Route und die Anreise mit dem Zug stehen auf der Seite [Kontakt](/de/payerne/kontakt/).
+Ja. Kostenlose Parkplätze befinden sich in der Nähe der Route du Châtelard 13. Ein Parkplatz liegt direkt vor der Eingangstür: praktisch für einen grossen Hund, der schlecht läuft, oder eine schwere Box. Die Route und die Anreise mit dem Zug stehen auf der Seite [Kontakt](/de/payerne/kontakt/).

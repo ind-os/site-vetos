@@ -65,7 +65,7 @@ Composez le numéro de garde : il aboutit chez Vet'Urgences Fribourg, le servic
 
 ### Où se garer ?
 
-Sur les places de parc proches du cabinet. Devant l'entrée, une place de dépose de plain-pied sert à décharger un grand chien ou une caisse lourde, avec un accès direct à la porte. L'itinéraire depuis l'autoroute et la gare est sur la page [Contact](/domdidier/contact/).
+Sur l'une des deux places de parc juste devant le cabinet. Avec un grand chien ou une caisse lourde, la porte est à quelques pas. L'itinéraire depuis l'autoroute et la gare est sur la page [Contact](/domdidier/contact/).
 
 ### Dans quelles langues puis-je consulter ?
 

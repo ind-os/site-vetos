@@ -1,0 +1,72 @@
+---
+// L'encart d'une campagne du réseau (src/donnees/campagnes/, docs/campagnes.md) : une offre
+// limitée dans le temps, sous le premier écran de l'accueil du site et de l'accueil des cabinets.
+// Fond menthe pâle, photo à gauche (dessus sur smartphone), date de fin, titre, phrase, bouton :
+// par défaut « contactez votre cabinet », vers la liste des cabinets ou la page Contact du cabinet.
+// Jamais en rouge : le rouge est l'urgence, pas une promotion.
+import type { Langue } from '../config.ts';
+import { textes } from '../i18n/index.ts';
+import { lienDeLaCampagne, photoDeLaCampagne, type Campagne } from '../lib/campagnes.ts';
+import type { Clinique } from '../lib/cliniques.ts';
+import { formaterDate } from '../lib/format.ts';
+import Bouton from './Bouton.astro';
+import Photo from './Photo.astro';
+
+interface Props {
+  campagne: Campagne;
+  langue: Langue;
+  /** Le cabinet de l'accueil : le bouton mène à sa page du service. */
+  clinique?: Clinique;
+}
+
+const { campagne, langue, clinique } = Astro.props;
+const t = textes(langue).campagne;
+const lien = await lienDeLaCampagne(campagne, langue, clinique);
+const image = photoDeLaCampagne(campagne, langue);
+---
+
+<aside class:list={['campagne', { 'campagne--avec-photo': image }]} aria-label={campagne.titre[langue]}>
+  {image && <Photo photo={image} ratio="4 / 3" largeur={360} arrondi={false} class="campagne__photo" />}
+  <div class="campagne__texte">
+    <p class="campagne__date">{t.jusquAu(formaterDate(campagne.jusqu_au, langue, false))}</p>
+    <h2 class="campagne__titre">{campagne.titre[langue]}</h2>
+    <p>{campagne.texte[langue]}</p>
+    {
+      campagne.bouton === 'contact' ? (
+        <>
+          <p>{clinique ? t.contacterLeCabinet(clinique.lieu) : t.contacterVotreCabinet}</p>
+          {lien && <Bouton href={lien} taille="petit">{clinique ? t.boutonContact : t.boutonCabinets}</Bouton>}
+        </>
+      ) : (
+        lien && <Bouton href={lien} taille="petit">{t.decouvrir}</Bouton>
+      )
+    }
+  </div>
+</aside>
+
+<style>
+  .campagne {
+    display: grid;
+    overflow: hidden;
+    border: 1px solid var(--menthe-trait);
+    border-radius: var(--rayon-carte);
+    background: var(--menthe-pale);
+  }
+  .campagne :global(.campagne__photo) { display: block; width: 100%; height: 100%; }
+  .campagne :global(.campagne__photo img) { width: 100%; height: 100%; object-fit: cover; }
+  .campagne__texte { display: grid; gap: var(--espace-2); justify-items: start; align-content: center; padding: var(--marge-carte); color: var(--encre-douce); }
+  .campagne__date {
+    padding: var(--espace-1) var(--espace-3);
+    border: 1px solid var(--menthe-trait);
+    border-radius: var(--rayon-pilule);
+    background: var(--blanc);
+    color: var(--menthe-texte);
+    font-size: var(--texte-xs);
+    font-weight: 700;
+  }
+  .campagne__titre { font-size: var(--titre-2); color: var(--titre); }
+  .campagne__texte :global(.bouton) { margin-top: var(--espace-2); }
+  @media (min-width: 40rem) {
+    .campagne--avec-photo { grid-template-columns: minmax(0, 2fr) minmax(0, 3fr); }
+  }
+</style>

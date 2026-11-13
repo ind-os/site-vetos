@@ -59,8 +59,8 @@
   --menthe: #009C8C;          /* le « mint » du logo, décor ; jamais pour du texte */
   --menthe-texte: #007A70;    /* boutons et liens sur fond blanc, gris ou menthe pâle (contraste 4,5:1 au moins) */
   --menthe-fonce: #006B62;    /* survol des boutons et des liens */
-  --menthe-pale: #E6F4F2;     /* fond d'une pastille de service */
-  --menthe-trait: #BFE3DE;    /* filet d'une pastille de service */
+  --menthe-pale: #E6F4F2;     /* fond d'une pastille de service et de l'encart de campagne */
+  --menthe-trait: #BFE3DE;    /* filet d'une pastille de service et de l'encart de campagne */
   --gris-bleute: #F2F6F8;     /* fond des sections alternées */
   --lac: #D6E5EE;             /* les lacs de la carte des cliniques */
   --autoroute: #E2A24A;       /* les autoroutes de la carte des cliniques */

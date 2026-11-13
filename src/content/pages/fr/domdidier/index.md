@@ -3,14 +3,14 @@ type: accueil-clinique
 clinique: domdidier
 url: /domdidier/
 title: "Vétérinaire à Domdidier : cabinet Vetmint Domdidier"
-description: "Cabinet vétérinaire à Domdidier pour chiens, chats et NAC. Consultation de 30 minutes, laser, échographie, place de dépose de plain-pied. 026 675 38 88."
+description: "Cabinet vétérinaire à Domdidier pour chiens, chats et NAC. Consultation de 30 minutes, laser, échographie, parc devant la porte. 026 675 38 88."
 h1: Cabinet vétérinaire Vetmint Domdidier
 recherche: vétérinaire Domdidier
 redige_le: 2026-11-13
-resume: Chiens, chats et NAC, route de Saint-Aubin 58. Deux vétérinaires, consultations de 30 minutes sur rendez-vous.
+resume: Chiens, chats et NAC, route de Saint-Aubin 58. Trois vétérinaires, consultations de 30 minutes sur rendez-vous.
 ---
 
-Votre vétérinaire à Domdidier vous reçoit au cabinet Vetmint Domdidier, route de Saint-Aubin 58, avec votre chien, votre chat ou votre NAC. Deux vétérinaires, Diana Rodrigues et Pascale Bonny, y consultent. Manon Bernheim y apprend le métier d'assistante en médecine vétérinaire. Chaque rendez-vous dure 30 minutes, le temps d'examiner votre animal de la tête à la queue.
+Votre vétérinaire à Domdidier vous reçoit au cabinet Vetmint Domdidier, route de Saint-Aubin 58, avec votre chien, votre chat ou votre NAC. Trois vétérinaires, Diana Rodrigues, Pascale Bonny et Rita Ferrao, y consultent. Gwladys Rouillon et Sophia Domah y sont assistantes en médecine vétérinaire. Manon Bernheim y apprend le métier ; Alessia Vaucher y fait son préapprentissage. Chaque rendez-vous dure 30 minutes, le temps d'examiner votre animal de la tête à la queue.
 
 [Prendre rendez-vous](/domdidier/rendez-vous/)
 
@@ -47,7 +47,9 @@ Diana Rodrigues a obtenu son diplôme de vétérinaire au Portugal en 2013. Inst
 
 Pascale Bonny a obtenu son diplôme à la faculté Vetsuisse de Berne en 2019. Elle a commencé auprès des chevaux, à l'Institut suisse de médecine équine (ISME) d'Avenches, puis a travaillé dans un cabinet mixte des Grisons. Originaire de la région, elle a choisi d'y revenir pour rejoindre l'équipe de Domdidier. Elle consulte en français.
 
-Manon Bernheim fait son apprentissage d'assistante en médecine vétérinaire au cabinet depuis juillet 2024. Elle parle français et espagnol.
+Rita Ferrao est la troisième vétérinaire du cabinet. Gwladys Rouillon et Sophia Domah, assistantes en médecine vétérinaire, complètent l'équipe.
+
+Manon Bernheim fait son apprentissage d'assistante en médecine vétérinaire au cabinet depuis juillet 2024. Elle parle français et espagnol. Alessia Vaucher y fait son préapprentissage.
 
 Leurs portraits sont sur la page [Équipe](/domdidier/equipe/).
 
@@ -55,7 +57,7 @@ Leurs portraits sont sur la page [Équipe](/domdidier/equipe/).
 
 Le cabinet vétérinaire Moser est devenu le cabinet Vetmint Domdidier en 2021. La réception et la salle d'attente donnent sur deux salles de consultation. Derrière, une salle de préparation relie deux salles d'opération : l'une pour les opérations stériles, l'autre pour les dents et les plaies. S'y ajoutent une salle de radiographie, le laboratoire et la salle d'hospitalisation.
 
-Des places de parc se trouvent à proximité. Devant l'entrée, une place de dépose de plain-pied donne un accès direct : un chien qui marche mal ou une caisse lourde entre sans franchir de marche. Depuis l'autoroute A1, prenez la sortie Avenches. En train, la gare de Domdidier est à une dizaine de minutes à pied.
+Deux places de parc se trouvent juste devant le cabinet : avec un chien qui marche mal ou une caisse lourde, la porte est à quelques pas. Depuis l'autoroute A1, prenez la sortie Avenches. En train, la gare de Domdidier est à une dizaine de minutes à pied.
 
 L'itinéraire et les temps de trajet depuis les villages voisins sont sur la page [Contact et accès](/domdidier/contact/).
 

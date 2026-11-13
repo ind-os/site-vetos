@@ -22,7 +22,7 @@ Bei einem tierärztlichen Notfall in Payerne rufen Sie an, bevor Sie losfahren. 
 
 ## Während der Öffnungszeiten
 
-Die Praxis empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Rufen Sie zuerst an, auch wenn Sie nur zwei Minuten von der Route du Châtelard entfernt sind. Das Team macht einen Raum frei und bereitet das Material vor. Es kann Sie bitten, auf dem ebenerdigen Halteplatz zu parkieren: Sie treten direkt ein, ohne das Wartezimmer zu durchqueren.
+Die Praxis empfängt Notfälle ohne Termin, zwischen zwei Konsultationen. Rufen Sie zuerst an, auch wenn Sie nur zwei Minuten von der Route du Châtelard entfernt sind. Das Team macht einen Raum frei und bereitet das Material vor. Es kann Sie bitten, auf dem Parkplatz direkt vor der Eingangstür zu parkieren.
 
 <!-- donnees: horaires -->
 - Montag bis Freitag: 8–18 Uhr

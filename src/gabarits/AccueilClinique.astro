@@ -1,5 +1,6 @@
 ---
-// L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; les
+// L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; l'encart
+// de la campagne en cours ; les
 // horaires, l'accès et les contacts ; le texte de la page avec la carte de la clinique à côté ;
 // un aperçu de l'équipe. La liste des soins est sur la page Services de la clinique.
 import type { Contexte } from '../lib/contexte.ts';
@@ -8,7 +9,9 @@ import { enumerer, lienTelephone, lienWhatsapp } from '../lib/format.ts';
 import { photo, photos } from '../lib/images.ts';
 import { adresse } from '../lib/pages.ts';
 import { balisageDeLaClinique, balisageDuGroupe } from '../lib/balisage.ts';
+import { campagneDuJour } from '../lib/campagnes.ts';
 import AppelUrgence from '../composants/AppelUrgence.astro';
+import EncartCampagne from '../composants/EncartCampagne.astro';
 import Accueil from '../composants/Accueil.astro';
 import Bouton from '../composants/Bouton.astro';
 import BoutonRendezVous from '../composants/BoutonRendezVous.astro';
@@ -31,6 +34,7 @@ const id = clinique.id;
 const lien = (cle: string) => adresse(langue, `${id}/${cle}`);
 
 const photoDAccueil = photo(`${id}:accueil`, langue, 1) ?? photo('accueil', langue);
+const campagne = await campagneDuJour(clinique);
 const equipe = clinique.equipe.slice(0, 4);
 const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
 ---
@@ -43,6 +47,8 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
     </Fragment>
     <AppelUrgence clinique={clinique} langue={langue} />
   </Accueil>
+
+  {campagne && <div class="conteneur campagne"><EncartCampagne campagne={campagne} langue={langue} clinique={clinique} /></div>}
 
   <Section fond="gris">
     <div class="infos">
@@ -91,6 +97,7 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
 
 <style>
   .infos { display: grid; gap: var(--espace-4); }
+  .campagne { padding-bottom: var(--section-y); }
   /* La grille du texte et de sa colonne est la classe .avec-cote de src/styles/charte.css ; la
      colonne n'apparaît qu'à côté du texte. */
   .texte { padding-block: var(--section-y); }

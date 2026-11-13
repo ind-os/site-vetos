@@ -3,13 +3,13 @@ type: contact
 clinique: domdidier
 url: /domdidier/contact/
 title: "Contact, accès et parking : vétérinaire Vetmint Domdidier"
-description: "Cabinet vétérinaire Vetmint Domdidier, route de Saint-Aubin 58. Places de parc, dépose de plain-pied, gare à 10 minutes à pied. 026 675 38 88. Toute la Broye."
+description: "Cabinet vétérinaire Vetmint Domdidier, route de Saint-Aubin 58. Deux places de parc devant la porte, gare à 10 minutes à pied. 026 675 38 88. Toute la Broye."
 h1: Nous trouver à Domdidier
 recherche: contact vétérinaire Domdidier
 redige_le: 2026-11-13
 ---
 
-Contact et accès du cabinet vétérinaire Vetmint Domdidier : il se trouve au 58 de la route de Saint-Aubin, au nord-ouest du centre du village. Pendant les heures d'ouverture, le plus rapide reste de téléphoner. Devant la porte, une place de dépose de plain-pied vous évite toute marche avec un animal lourd.
+Contact et accès du cabinet vétérinaire Vetmint Domdidier : il se trouve au 58 de la route de Saint-Aubin, au nord-ouest du centre du village. Pendant les heures d'ouverture, le plus rapide reste de téléphoner. Deux places de parc se trouvent juste devant la porte : avec un animal lourd, vous n'avez que quelques pas à faire.
 
 ## Coordonnées
 
@@ -36,7 +36,7 @@ Le cabinet est ouvert toute l'année. Le samedi, il ouvre en alternance avec le 
 
 ## En voiture
 
-Sur l'autoroute A1, sortez à Avenches, puis suivez la direction de Domdidier. Dans le village, prenez la route de Saint-Aubin jusqu'au numéro 58. Des places de parc se trouvent à proximité du cabinet. Si votre animal ne marche pas ou voyage dans une grande caisse, arrêtez-vous d'abord sur la place de dépose, devant l'entrée. Vous le faites entrer, puis vous allez garer la voiture.
+Sur l'autoroute A1, sortez à Avenches, puis suivez la direction de Domdidier. Dans le village, prenez la route de Saint-Aubin jusqu'au numéro 58. Deux places de parc se trouvent juste devant le cabinet. Si votre animal ne marche pas ou voyage dans une grande caisse, garez-vous sur l'une d'elles : la porte est à quelques mètres.
 
 ## En transports publics
 
@@ -44,7 +44,7 @@ La gare de Domdidier est à une dizaine de minutes à pied du cabinet. Un chat, 
 
 ## Accès en fauteuil roulant et avec un animal difficile à porter
 
-L'entrée est de plain-pied, sans marche. La place de dépose y donne un accès direct. La salle d'attente communique avec les deux salles de consultation. Si votre chien ne marche plus ou pèse trop lourd pour vous, appelez avant d'arriver pour prévenir l'équipe. Pour un animal qui supporte mal le trajet, un vétérinaire peut aussi venir chez vous : voir les [visites à domicile](/domdidier/services/visites-a-domicile/).
+L'entrée du cabinet a des marches. La salle d'attente communique avec les deux salles de consultation. Si vous vous déplacez en fauteuil roulant, ou si votre chien ne marche plus ou pèse trop lourd pour vous, appelez avant d'arriver pour prévenir l'équipe. Pour un animal qui supporte mal le trajet, un vétérinaire peut aussi venir chez vous : voir les [visites à domicile](/domdidier/services/visites-a-domicile/).
 
 ## D'où viennent nos clients
 

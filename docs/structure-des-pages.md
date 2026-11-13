@@ -29,6 +29,8 @@ Ce que contient chaque type de page, dans quel ordre et à quelle longueur. Ces 
 8. D'où viennent nos clients : les communes, en une ou deux phrases.
 9. Conseils santé : deux ou trois conseils, selon les espèces reçues.
 
+Sous le premier écran, le gabarit pose l'encart de la campagne en cours, s'il y en a une ([campagnes.md](campagnes.md)). Le texte de la page n'en parle pas.
+
 Interdits : un slogan, un paragraphe commun à un autre cabinet, un avis client, une actualité datée (elle va dans le bandeau de la fiche).
 
 ### Les services du cabinet, `services-clinique`
@@ -52,7 +54,7 @@ Le contenu, dans l'ordre :
 1. Le chapeau : la présentation du soin dans le cabinet, champ `presentation_dans_le_cabinet` de la page commune ([format-des-pages.md](format-des-pages.md)), où `{cabinet}` devient le nom du cabinet, « Vetmint Payerne ». Trois phrases environ, écrites une fois pour tous les cabinets : ce que le cabinet fait pour ce soin, avec les mots que l'on cherche (« soins dentaires », « détartrage », « extractions »), sans fait propre à un seul cabinet.
 2. « Le prix à {Ville} » : les prix de la grille du cabinet dont le `service` est ce service, dans l'ordre de la grille ([grille-des-prix.md](grille-des-prix.md)), puis le lien « Tous les tarifs du cabinet ». Sans prix pour ce service : « Le prix dépend des examens choisis : le vétérinaire vous l'annonce avant de commencer. », puis le même lien.
 3. Le rendez-vous : un encadré sur fond gris bleuté, titré du nom du cabinet, avec son statut d'ouverture et son adresse, le bouton de l'agenda et le téléphone, puis, sous un filet, les conseils de rendez-vous propres au soin. Les deux boutons viennent avant les conseils, pour rester visibles dès le premier écran. Les conseils sont le premier paragraphe de la section « Prendre rendez-vous » de la page commune, sans les phrases qui mènent à la liste des cabinets ou aux conseils santé ; « le cabinet le plus proche » y devient « le cabinet », et le lien vers la page Urgences du réseau mène à celle du cabinet. Sans cette section dans la page commune, une phrase commune à tous les soins les remplace.
-4. « Infos pratiques à {Ville} » : des questions en accordéon, avec le balisage FAQPage, dont les réponses viennent de la fiche. Où se trouve le cabinet (adresse, `acces` : parking, transports, accessibilité) ; qui pratique {en_phrase} à {Ville} (les personnes de `equipe` dont la fonction commence par « Vétérinaire ») ; le cabinet est-il proche de chez moi (`communes`) ; comment prendre rendez-vous (téléphone, WhatsApp, module en ligne). Une question sans donnée dans la fiche ne s'affiche pas. Ce bloc est le texte propre au cabinet : il sert le visiteur qui arrive d'un moteur de recherche sans connaître Vetmint, et distingue la page de celle des autres cabinets.
+4. « Infos pratiques à {Ville} » : des questions en accordéon, avec le balisage FAQPage, dont les réponses viennent de la fiche. Où se trouve le cabinet (adresse, `acces` : parking, transports, accessibilité) ; qui pratique {en_phrase} à {Ville}, ou la question de `question_qui_pratique` (les personnes de `equipe` dont la fonction commence par « Vétérinaire ») ; le cabinet est-il proche de chez moi (`communes`, puis le lien vers la page Contact) ; comment prendre rendez-vous pour {pour_un_rendez_vous, sinon en_phrase} (téléphone, WhatsApp, module en ligne). Une question sans donnée dans la fiche ne s'affiche pas. Ce bloc est le texte propre au cabinet : il sert le visiteur qui arrive d'un moteur de recherche sans connaître Vetmint, et distingue la page de celle des autres cabinets.
 5. « Le soin en bref » : le premier paragraphe de la page commune, dont la fin s'efface sous un voile, puis le bouton « Tout lire sur {en_phrase} ». Il déplie dans la page le reste du texte de la page commune, chargé au clic depuis `/textes-des-soins/<langue>/<service>.html` ([plan-des-pages.md](plan-des-pages.md)) ; sans JavaScript, il ouvre la page commune. Le texte déplié laisse de côté les sections qui listent les cabinets ou mènent à la liste des cabinets : le prix général, les cabinets qui pratiquent le soin, prendre rendez-vous. Ses titres descendent d'un niveau. Google ne lit pas ce texte déplié sur la page du cabinet : la page reste propre au cabinet.
 6. « Les autres soins du cabinet ».
 
@@ -81,6 +83,8 @@ Exception : un soin qu'un cabinet est seul à pratiquer, sans page commune, a sa
 5. Les intervenants externes, s'il y en a : qui vient, pour quoi, à quel rythme. Ils ne sont pas dans le champ `equipe` de la fiche, qui donne les cartes de l'équipe et les portraits de l'accueil : seule cette section les présente.
 6. Comment l'équipe reçoit votre animal : trois `###`, à l'accueil, en consultation, le jour d'une opération ; puis le téléphone et le bouton « Prendre rendez-vous ».
 7. Travailler au cabinet : une phrase et le lien vers la page Emploi.
+
+Sur la page, chaque `###` qui commence par le nom d'une personne de la fiche, « Claire-Lise Tinguely, vétérinaire », quitte le fil du texte : il devient le portrait de sa carte, en haut de la page, qui s'ouvre d'un clic dans un panneau à droite. Le titre `###` garde donc la forme « Nom, fonction », avec le nom écrit comme dans la fiche. Le reste du texte s'affiche sous les cartes, dans l'ordre du plan.
 
 ### Contact, `contact`
 
@@ -190,6 +194,8 @@ Chaque tarif est un tableau : prestation, ce que vous payez, prix. Un forfait d'
 5. Conseils santé : par espèce.
 6. Travailler chez Vetmint.
 7. Vous êtes vétérinaire et pensez à remettre votre cabinet.
+
+Sous le premier écran, le gabarit pose l'encart de la campagne en cours, s'il y en a une ([campagnes.md](campagnes.md)). Le texte de la page n'en parle pas.
 
 ### Les cabinets, `cliniques`
 

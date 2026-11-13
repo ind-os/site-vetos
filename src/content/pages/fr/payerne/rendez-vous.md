@@ -37,4 +37,4 @@ Comptez en général deux à trois jours ouvrables pour obtenir un rendez-vous. 
 
 ## Pour une urgence
 
-Un animal qui va mal n'attend pas un rendez-vous. Les numéros à appeler, de jour comme de nuit, sont sur la page [Urgences](/payerne/urgences/) ; le parking et la place de dépose, sur la page [Contact](/payerne/contact/).
+Un animal qui va mal n'attend pas un rendez-vous. Les numéros à appeler, de jour comme de nuit, sont sur la page [Urgences](/payerne/urgences/) ; le parking, sur la page [Contact](/payerne/contact/).

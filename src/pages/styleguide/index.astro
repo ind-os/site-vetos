@@ -9,6 +9,8 @@ import AppelRendezVous from '../../composants/AppelRendezVous.astro';
 import AppelUrgence from '../../composants/AppelUrgence.astro';
 import BandeauAnnonce from '../../composants/BandeauAnnonce.astro';
 import Bouton from '../../composants/Bouton.astro';
+import EncartCampagne from '../../composants/EncartCampagne.astro';
+import type { Campagne } from '../../lib/campagnes.ts';
 import BoutonRendezVous from '../../composants/BoutonRendezVous.astro';
 import Carte from '../../composants/Carte.astro';
 import CarteClinique from '../../composants/CarteClinique.astro';
@@ -52,7 +54,17 @@ const dansNJours = (n: number) => new Date(Date.now() + n * 86_400_000).toISOStr
 const avecDeuxGardes = { ...payerne, garde: { ...payerne.garde, autre: { nom: "Vet'Urgences Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, tarif: { fr: 'numéro gratuit, de 8 h à minuit', de: 'kostenlose Nummer, von 8 bis 24 Uhr' } } } };
 const avecBandeau = { ...payerne, bandeau: { texte: { fr: 'Le cabinet ferme à 16 h ce vendredi.', de: '' }, niveau: 'info' as const } };
 const avecBandeauUrgent = { ...payerne, bandeau: { texte: { fr: 'Le téléphone est en dérangement ce matin : écrivez sur WhatsApp.', de: '' }, niveau: 'urgent' as const } };
-const avecFermeture = { ...payerne, fermetures: [{ du: dansNJours(10), au: dansNJours(12), motif: { fr: 'formation de l’équipe', de: '' } }] };
+const campagneExemple: Campagne = {
+  active: true,
+  jusqu_au: dansNJours(30),
+  titre: { fr: 'Trimestre dentaire', de: 'Zahnquartal' },
+  texte: { fr: 'Le contrôle des dents de votre chien ou de votre chat est offert.', de: 'Die Zahnkontrolle Ihres Hundes oder Ihrer Katze ist kostenlos.' },
+  bouton: 'contact',
+  service: 'dentisterie',
+  photo: 'service:dentisterie',
+  accueil_du_site: true,
+};
+const avecFermeture ={ ...payerne, fermetures: [{ du: dansNJours(10), au: dansNJours(12), motif: { fr: 'formation de l’équipe', de: '' } }] };
 
 // Les couleurs, lues dans src/styles/charte.css à la construction : chaque jeton de :root dont la
 // valeur est une couleur (ou un autre jeton de couleur), avec le commentaire de sa ligne, qui dit
@@ -216,6 +228,12 @@ ${htmlDeLaGarde(payerne, langue)}
         <BandeauAnnonce clinique={avecBandeau} langue={langue} />
         <BandeauAnnonce clinique={avecBandeauUrgent} langue={langue} />
       </Exemple>
+
+      <Exemple titre="Encart de campagne" description="Une offre du réseau limitée dans le temps, sous le premier écran de l’accueil du site et de l’accueil des cabinets (src/donnees/campagnes/, docs/campagnes.md). Il apparaît et disparaît seul selon ses dates ; « active »: false le retire. Par défaut, il invite à contacter son cabinet : sur l’accueil du site, le bouton mène à la liste des cabinets ; dans un cabinet, à sa page Contact. Avec « bouton »: « service », il mène à la page du soin. La photo est la même partout. Jamais en rouge." fichier="composants/EncartCampagne.astro" code={`<EncartCampagne campagne={campagne} langue={langue} clinique={clinique} />`}>
+        <EncartCampagne campagne={campagneExemple} langue={langue} />
+        <EncartCampagne campagne={campagneExemple} langue={langue} clinique={payerne} />
+        <EncartCampagne campagne={{ ...campagneExemple, bouton: 'service', photo: undefined }} langue={langue} />
+      </Exemple>
     </section>
 
     <section id="cartes">
@@ -250,10 +268,11 @@ ${htmlDeLaGarde(payerne, langue)}
         </div>
       </Exemple>
 
-      <Exemple titre="Carte d’une personne" description="Une personne de l’équipe. Sans photo, un cadre clair avec ses initiales garde la même place que le portrait." fichier="composants/CarteMembre.astro" code={`<CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />`} fond="gris">
+      <Exemple titre="Carte d’une personne" description="Une personne de l’équipe. Sans photo, un cadre clair avec ses initiales garde la même place que le portrait. Sur la page Équipe, la carte reçoit le portrait écrit de la personne : toute la carte s’ouvre d’un clic, « En savoir plus » à son pied, sur un panneau à droite avec la photo et le texte. L’adresse prend l’ancre de la personne, #claire-lise-tinguely, qui rouvre le panneau. Sur l’accueil du cabinet, la carte reste simple." fichier="composants/CarteMembre.astro" code={`<CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} portrait={html} langue={langue} />`} fond="gris">
         <div class="trois">
           <CarteMembre nom="Claire-Lise Tinguely" fonction="Vétérinaire" langues="Langues : français et allemand" photo={photo('payerne:equipe:Claire-Lise Tinguely', langue)} />
           <CarteMembre nom="Tiago Capelo" fonction="Vétérinaire" domaines="consultations et chirurgie" />
+          <CarteMembre nom="Annie Pasquier" fonction="Apprentie assistante en médecine vétérinaire" photo={photo('payerne:equipe:Annie Pasquier', langue)} portrait="<p>Le portrait de la personne, tiré de la page Équipe, s’ouvre dans ce panneau.</p>" langue={langue} />
         </div>
       </Exemple>
 
