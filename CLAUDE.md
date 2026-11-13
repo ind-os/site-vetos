@@ -25,11 +25,17 @@ Ce fichier et le dossier `.claude/` (les skills, les réglages) sont la façon d
 
 ## Au début de chaque conversation
 
-Avant de répondre au premier message, quel qu'il soit, prépare l'espace de travail. La personne voit ainsi son site à côté de la conversation dès le départ.
+Avant de répondre au premier message, quel qu'il soit, prépare l'espace de travail. La personne voit ainsi son site à côté de la conversation dès le départ, dans sa dernière version.
 
 1. Vérifie l'ordinateur, sans rien installer : `node --version`, `pnpm --version`, `gh auth status` et `git config user.email`. Si l'une échoue, ou répond vide, suis la skill `preparer-l-ordinateur`, puis reprends ici.
-2. Ouvre la prévisualisation (geste 1).
-3. Réponds ensuite à son message.
+2. Récupère la dernière version du site. Il vit sur la branche `main`, la seule qui se publie :
+
+       git switch main
+       git pull --rebase --autostash origin main
+
+   La seconde commande reprend ce qui a été publié depuis un autre ordinateur et garde une modification pas encore publiée. Si l'une des deux signale un conflit ou une erreur, arrête-toi et dis-le à la personne en mots simples, sans rien forcer ni effacer.
+3. Ouvre la prévisualisation (geste 1).
+4. Réponds ensuite à son message.
 
 ## Deux niveaux de règles
 
@@ -79,7 +85,7 @@ Seulement quand la personne le demande (« publie »), après avoir vu la modifi
 
 1. Vérifie le site : `pnpm verifier`. S'il échoue, lis le message : il nomme le fichier et la règle en cause. Corrige, montre la correction en local, puis recommence.
 2. Montre ce qui va partir : `git status`, et dis-le en mots simples.
-3. Reprends ce qui a pu être publié depuis un autre ordinateur : `git pull --rebase origin main`.
+3. Reprends ce qui a pu être publié depuis un autre ordinateur : `git pull --rebase --autostash origin main`.
 4. Enregistre la modification avec un message clair, en français, qui dit ce qui change sur le site :
 
        git add -A
