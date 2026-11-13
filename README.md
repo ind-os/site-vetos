@@ -15,7 +15,7 @@ Le site vetmint.ch, en français et en allemand : les pages communes du groupe V
 | `src/lib/` | la lecture des pages et des fiches, la navigation, les conseils, les horaires, le Markdown, le balisage |
 | `docs/` | les règles : plan des pages, structure des pages, format des pages, fiche du cabinet, charte graphique, charte de rédaction, traduction, et ce que le site vérifie |
 | `outils/` | la vérification des pages, de la charte et des liens, derrière `pnpm verifier` et `pnpm auditer` |
-| `.claude/skills/` | les procédures pour Claude Code : préparer l'ordinateur, rédiger une page, ajouter un cabinet ou le passer en ligne, modifier la mise en page, auditer le site, relire un cabinet en confirmant ses faits |
+| `.claude/skills/` | les procédures pour Claude Code : préparer l'ordinateur, rédiger une page, modifier la mise en page |
 
 ## Travailler dessus
 
@@ -79,6 +79,6 @@ paquet naît privé.
 ## Claude Code
 
 - `CLAUDE.md` : les gestes de Seb, pour Claude Code : vérifier l'ordinateur, prévisualiser, modifier le site, publier, revenir à une version d'avant ; et les deux niveaux de règles, ce que le site refuse et ce qui est convention.
-- `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, ajouter un cabinet ou le passer en ligne, modifier la mise en page, auditer le site de temps en temps, relire un cabinet écrit en confirmant ses faits, jusqu'à ce que chaque cabinet soit en ligne.
+- `.claude/skills/` : préparer l'ordinateur, rédiger ou traduire une page, modifier la mise en page.
 - `.claude/launch.json` : le volet navigateur de l'app Claude s'attache au serveur de `pnpm dev`, sur `http://localhost:4321`, sans le démarrer lui-même.
 - `.claude/settings.json` : Claude ne modifie ni `.github/`, ni `Dockerfile`, `nginx.conf` et la sonde `src/pages/healthz.json.ts` ; il demande l'accord de la personne avant de modifier `.claude/` ou `CLAUDE.md` ; il ne lance ni `gh secret`, ni `gh api`, ni `gh variable set` ou `delete`, ni les gestes de `gh auth` qui rendent ou changent le jeton, et ne force aucune poussée.

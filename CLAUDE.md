@@ -73,8 +73,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 - **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
 - **Une personne qui arrive ou qui part** : la fiche du cabinet et sa photo (`docs/fiche-du-cabinet.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
 - **Un service** : en plus ou en moins dans un cabinet, la liste `services` de sa fiche (`docs/fiche-du-cabinet.md`, « Les gestes courants ») ; sa page dans le cabinet se fabrique seule, avec ses prix et son explication (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Son explication se corrige dans sa page commune, `services/<service>.md`, dans les deux langues, avec la skill `rediger-une-page` : la correction vaut pour tous les cabinets.
-- **Un cabinet écrit qui attend sa relecture** (sa fiche dit `"en_ligne": false`) : la skill `confirmer-les-faits-du-site`, qui le passe en ligne à la fin.
-- **Un cabinet nouveau** : la skill `mettre-un-cabinet-en-ligne`.
+- **Un cabinet nouveau** : sa fiche (`docs/fiche-du-cabinet.md`), sa grille des prix (`docs/grille-des-prix.md`) et ses photos, puis ses pages dans les deux langues, aux chemins de `docs/plan-des-pages.md` (« Les pages d'un cabinet »), sur le modèle de Payerne, avec la skill `rediger-une-page`. Quand ses pages sont écrites, `"en_ligne": true` dans sa fiche le publie.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 
 Après chaque modification, vérifie la page en allemand, puis termine toujours sur la page en français, dans le navigateur à côté de la conversation, défilée jusqu'à l'endroit modifié. La personne ne doit jamais rester sur la page allemande. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
@@ -118,10 +117,6 @@ Quand la personne veut retrouver le site d'avant une modification.
 4. Montre-lui le résultat en local (geste 1), puis publie (geste 3).
 
 L'historique ne se réécrit jamais : ni `git reset` sur une modification déjà publiée, ni poussée forcée.
-
-### De temps en temps : relire tout le site
-
-Quand la personne demande une relecture complète ou un nettoyage, suis la skill `auditer-le-site`. Jamais à chaque modification : la vérification de chaque publication suffit.
 
 ## Les règles
 

@@ -50,7 +50,6 @@
       "Bash(git add*)",
       "Bash(git commit*)",
       "Bash(git revert*)",
-      "Bash(git rm -r .claude/skills/confirmer-les-faits-du-site)",
       "Bash(git push origin main)",
       "Bash(gh auth status*)",
       "Bash(gh run list*)",

@@ -85,4 +85,4 @@ Une page se construit avec les blocs existants (`src/composants/`). On ne crée 
 - chaque bloc de `src/composants/` est montré dans le styleguide, sauf EnTete, PiedDePage, Logo et TeteHtml, qui sont la structure de la page et non des blocs ;
 - aucune couleur n'est écrite en dur hors de `src/styles/`.
 
-Le reste de cette charte est une convention : le sens des couleurs, le survol sans mouvement, le choix d'un bloc existant, le style répété qui devient commun. La skill `auditer-le-site` la relit.
+Le reste de cette charte est une convention : le sens des couleurs, le survol sans mouvement, le choix d'un bloc existant, le style répété qui devient commun.

@@ -2,7 +2,7 @@
 
 Le site vérifie ses règles à trois moments. À la construction, donc aussi en prévisualisation, où le problème s'affiche dans le terminal sans arrêter le site. À `pnpm verifier`, avant chaque publication, en quelques secondes. À `pnpm auditer`, de temps en temps, avec les contrôles lents. Chaque message nomme le fichier et la règle en cause.
 
-Tout ce qui n'est pas dans ces tables est une convention : la doc dit la règle, Claude l'applique, et la skill `auditer-le-site` la relit.
+Tout ce qui n'est pas dans ces tables est une convention : la doc dit la règle, Claude l'applique.
 
 ## À la construction
 
@@ -66,7 +66,7 @@ Une page allemande passe les contrôles de forme : en-tête, title, description,
 
 ## Tout le reste est une convention
 
-La doc dit la règle, Claude l'applique, et prévient la personne quand une demande s'en écarte : ce que la convention prévoit, ce que la demande change pour l'homogénéité du site, puis il fait ce qu'elle décide. La skill `auditer-le-site` relit ces conventions de temps en temps.
+La doc dit la règle, Claude l'applique, et prévient la personne quand une demande s'en écarte : ce que la convention prévoit, ce que la demande change pour l'homogénéité du site, puis il fait ce qu'elle décide.
 
 | Convention | Doc |
 |---|---|
