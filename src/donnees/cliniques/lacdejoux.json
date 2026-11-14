@@ -2,6 +2,10 @@
   "id": "lacdejoux",
   "nom": "Vetmint Lac-de-Joux",
   "lieu": "Lac-de-Joux",
+  "lieu_en_phrase": {
+    "fr": { "a": "au Lac-de-Joux", "de": "du Lac-de-Joux" },
+    "de": { "a": "am Lac-de-Joux" }
+  },
   "canton": "VD",
   "raison_sociale": "Vetmint Lac de Joux SA",
   "adresse": {

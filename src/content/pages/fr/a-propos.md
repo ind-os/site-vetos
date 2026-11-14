@@ -22,7 +22,7 @@ Vetmint naît en 2021. Le groupe a ouvert trois cabinets et en a repris cinq :
 - 2021 : reprise du cabinet de Domdidier, ouverture du cabinet de Saint-Légier.
 - 2022 : ouverture du cabinet de Payerne.
 - 2023 : reprise du cabinet de Saint-Blaise.
-- 2024 : reprise des cabinets de La Chaux-de-Fonds et de Lac-de-Joux, à L'Abbaye.
+- 2024 : reprise des cabinets de La Chaux-de-Fonds et du Lac-de-Joux, à L'Abbaye.
 - 2025 : ouverture du cabinet de Fribourg Ouest, à Givisiez.
 - 2026 : reprise du cabinet de Bussigny.
 

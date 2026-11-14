@@ -9,6 +9,7 @@ import { getCollection, type CollectionEntry } from 'astro:content';
 import { LANGUE_PAR_DEFAUT, LANGUES, type Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import { lesGrilles } from './grilles.ts';
+import { lieuEnPhrase } from './lieu-en-phrase.ts';
 import { remplacerLesPrix } from './prix.ts';
 import type { TypeDePage } from './types-de-page.ts';
 
@@ -78,7 +79,8 @@ async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
         const nom = commune.data.nom ?? titreDe(commune);
         // Le titre du soin choisi pour sa page commune, avant les deux-points : « Dentisterie du chien
         // et du chat », « Prévention », « Hospitalisation du chien, du chat et des NAC ».
-        const h1 = t.services.h1DansLeCabinet(titreDe(commune).split(/\s*:\s/)[0], cabinet.lieu);
+        const aLieu = lieuEnPhrase(cabinet, langue).a;
+        const h1 = t.services.h1DansLeCabinet(titreDe(commune).split(/\s*:\s/)[0], aLieu);
         pages.push({
           ...commune,
           id,
@@ -87,7 +89,7 @@ async function pagesDeServiceDesCabinets(ecrites: Page[]): Promise<Page[]> {
             type: 'service-clinique',
             clinique: cabinet.id,
             url,
-            title: titreDansLeCabinet(h1, t.services.h1DansLeCabinet(nom, cabinet.lieu)),
+            title: titreDansLeCabinet(h1, t.services.h1DansLeCabinet(nom, aLieu)),
             h1,
             description: t.services.descriptionDansLeCabinet(h1, cabinet.lieu, cabinet.telephone.affiche),
             recherche: t.services.rechercheDansLeCabinet(nom, cabinet.lieu),

@@ -22,7 +22,7 @@ En trente minutes, le vétérinaire peut poser des questions précises sur la sa
 |---|---|---|
 | Consultation, sur rendez-vous | une demi-heure avec un vétérinaire : examen complet, réponses à vos questions, conseils | {prix:consultation} |
 
-Elle sert au contrôle annuel comme à un animal malade : voir [la prévention à Lac-de-Joux](/lacdejoux/services/prevention/).
+Elle sert au contrôle annuel comme à un animal malade : voir [la prévention au Lac-de-Joux](/lacdejoux/services/prevention/).
 
 ## Bilans de santé et vaccins
 
@@ -54,7 +54,7 @@ Un forfait couvre l'opération, le bloc opératoire, l'anesthésie et le traitem
 
 Le vétérinaire examine l'animal avant l'anesthésie. Chaque forfait inclut aussi une injection d'anti-inflammatoire. La chatte, la chienne et le chien sont perfusés par un cathéter (un petit tuyau posé dans une veine) et dorment sous gaz grâce à un tube dans la trachée. Le chat reçoit le cathéter et la même surveillance, mais ni tube ni perfusion. La lapine et le lapin s'endorment par injection, puis un gaz prolonge l'anesthésie.
 
-Deux contrôles après l'opération sont offerts pour la chienne, le chien, la lapine et le lapin. Un traitement supplémentaire éventuel s'ajoute au forfait. Un lapin ne se met jamais à jeun : il mange et boit jusqu'au moment de l'opération. Pour un cochon d'Inde, un rat, un chinchilla ou un dègue, le prix est annoncé avant de choisir la date. Les étapes sont décrites sur la page [chirurgie à Lac-de-Joux](/lacdejoux/services/chirurgie/).
+Deux contrôles après l'opération sont offerts pour la chienne, le chien, la lapine et le lapin. Un traitement supplémentaire éventuel s'ajoute au forfait. Un lapin ne se met jamais à jeun : il mange et boit jusqu'au moment de l'opération. Pour un cochon d'Inde, un rat, un chinchilla ou un dègue, le prix est annoncé avant de choisir la date. Les étapes sont décrites sur la page [chirurgie au Lac-de-Joux](/lacdejoux/services/chirurgie/).
 
 ## Les dents
 
@@ -64,7 +64,7 @@ Deux contrôles après l'opération sont offerts pour la chienne, le chien, la l
 | Extraction d'une dent | sur devis, selon la dent | {prix:extraction-dent} |
 | Extraction de toutes les dents | forfait avec examen préalable, cathéter, tube dans la trachée, gaz anesthésique surveillé et traitement de la douleur | {prix:extraction-totale} |
 
-Une extraction isolée s'ajoute au forfait de détartrage. Le déroulement est décrit sur la page [dentisterie à Lac-de-Joux](/lacdejoux/services/dentisterie/).
+Une extraction isolée s'ajoute au forfait de détartrage. Le déroulement est décrit sur la page [dentisterie au Lac-de-Joux](/lacdejoux/services/dentisterie/).
 
 ## Examens et analyses
 
@@ -96,7 +96,7 @@ Au comptoir, le règlement se fait à la fin du rendez-vous, par carte ou par TW
 
 Le plan de prévention d'un chiot ou d'un chaton coûte {prix:plan-prevention} pour la première année. Il réunit les consultations, les vaccins, les vermifuges, la puce et le passeport. Achetés un par un, ces soins coûteraient {prix:soins-chiot-un-par-un} pour un chiot et {prix:soins-chaton-un-par-un} pour un chaton. Un chien ou un chat de tout âge peut choisir un abonnement mensuel, qui étale la prévention sur douze mois.
 
-[Plan de prévention et abonnements à Lac-de-Joux](/lacdejoux/abonnements/)
+[Plan de prévention et abonnements au Lac-de-Joux](/lacdejoux/abonnements/)
 
 ## Comparer avec les autres cabinets
 

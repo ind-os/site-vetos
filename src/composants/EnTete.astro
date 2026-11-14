@@ -6,6 +6,7 @@
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import type { Clinique } from '../lib/cliniques.ts';
+import { lieuEnPhrase } from '../lib/lieu-en-phrase.ts';
 import { adresse } from '../lib/pages.ts';
 import Bouton from './Bouton.astro';
 import BoutonRendezVous from './BoutonRendezVous.astro';
@@ -45,7 +46,7 @@ const estCourant = (href: string) => href !== accueil && (courant === href || co
 
 <header class="entete" data-entete>
   <div class="conteneur entete__barre">
-    <Logo alt={t.site.logo} href={accueilDuSite} lieu={lieu ? { nom: lieu, href: accueil, libelle: t.site.accueilDuLieu(lieu) } : undefined} />
+    <Logo alt={t.site.logo} href={accueilDuSite} lieu={lieu ? { nom: lieu, href: accueil, libelle: t.site.accueilDuLieu(clinique ? lieuEnPhrase(clinique, langue).de : t.site.deLieu(lieu)) } : undefined} />
 
     <div class="entete__mobile">
       {urgence && <a class="entete__urgence-mobile" href={urgence.href} aria-label={urgence.libelle}><CroixSuisse taille="26px" /></a>}

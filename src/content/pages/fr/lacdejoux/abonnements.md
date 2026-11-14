@@ -3,7 +3,7 @@ type: abonnements
 clinique: lacdejoux
 url: /lacdejoux/abonnements/
 title: "Abonnement vétérinaire et plan de prévention, Lac-de-Joux"
-description: "Au cabinet de Lac-de-Joux, le plan de prévention d'un chiot ou d'un chaton coûte {prix:plan-prevention} pour une année. Abonnements mensuels dès {prix:abonnement-adulte-chien} par mois."
+description: "Au cabinet du Lac-de-Joux, le plan de prévention d'un chiot ou d'un chaton coûte {prix:plan-prevention} pour une année. Abonnements mensuels dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à L'Abbaye
 recherche: abonnement vétérinaire Lac-de-Joux
 ---
@@ -29,7 +29,7 @@ Vous venez d'adopter un chiot ou un chaton : le plan de prévention court sur d
 
 ### Ce qu'il coûte
 
-Une opération peut s'ajouter au plan : la castration d'un mâle ou la stérilisation d'une femelle ([chirurgie à Lac-de-Joux](/lacdejoux/services/chirurgie/)). Le tableau compare chaque formule au prix des mêmes soins achetés séparément.
+Une opération peut s'ajouter au plan : la castration d'un mâle ou la stérilisation d'une femelle ([chirurgie au Lac-de-Joux](/lacdejoux/services/chirurgie/)). Le tableau compare chaque formule au prix des mêmes soins achetés séparément.
 
 | Formule | Prix du plan | Soins achetés séparément | Économie |
 |---|---|---|---|
@@ -40,7 +40,7 @@ Une opération peut s'ajouter au plan : la castration d'un mâle ou la stérili
 | Chaton mâle avec castration | {prix:plan-chaton-castration} | {prix:soins-chaton-castration-un-par-un} | {prix:economie-plan-chaton-castration} |
 | Chaton femelle avec stérilisation | {prix:plan-chaton-sterilisation} | {prix:soins-chaton-sterilisation-un-par-un} | {prix:economie-plan-chaton-sterilisation} |
 
-Une opération seule, hors plan, a son prix sur la [grille de Lac-de-Joux](/lacdejoux/tarifs/).
+Une opération seule, hors plan, a son prix sur la [grille du Lac-de-Joux](/lacdejoux/tarifs/).
 
 ### Régler en quatre fois
 

@@ -13,6 +13,7 @@ import { adresseDuTexteComplet, conseilsDeRendezVous, premierParagraphe } from '
 import { echapper, enumerer, lienTelephone } from '../lib/format.ts';
 import { balisageDesQuestions } from '../lib/balisage.ts';
 import { laGrille } from '../lib/grilles.ts';
+import { lieuEnPhrase } from '../lib/lieu-en-phrase.ts';
 import { premierePhoto } from '../lib/images.ts';
 import { adresse, estFabriquee, laPage, slugDe } from '../lib/pages.ts';
 import { formaterMontant } from '../lib/prix.ts';
@@ -60,7 +61,7 @@ const infosPratiques = [
     reponse: `<p>${echapper([t.services.adresseDuCabinet(rue, npa, localite), phrase(acces?.parking?.[langue]), phrase(acces?.transports?.[langue]), phrase(acces?.accessibilite?.[langue])].filter(Boolean).join(' '))}</p>`,
   },
   ...(veterinaires.length > 0
-    ? [{ question: page.data.question_qui_pratique?.replaceAll('{lieu}', clinique.lieu) ?? t.services.quiPratique(enPhrase, clinique.lieu), reponse: `<p>${echapper(t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length))}</p>` }]
+    ? [{ question: page.data.question_qui_pratique?.replaceAll('{lieu}', clinique.lieu) ?? t.services.quiPratique(enPhrase, lieuEnPhrase(clinique, langue).a), reponse: `<p>${echapper(t.services.veterinairesDuCabinet(enumerer(veterinaires, langue), veterinaires.length))}</p>` }]
     : []),
   ...(communes.length > 0
     ? [
@@ -92,9 +93,9 @@ const conseils = fabriquee
       <div class="service-clinique">
         <div class="service-clinique__fiche">
           <Prose html={`<p>${echapper(chapeau)}</p>`} chapeau />
-          <PrixDuSoin lignes={lignes} lieu={clinique.lieu} tarifs={tarifs} langue={langue} />
+          <PrixDuSoin lignes={lignes} aLieu={lieuEnPhrase(clinique, langue).a} tarifs={tarifs} langue={langue} />
           <section class="bloc" aria-labelledby="infos-pratiques">
-            <h2 id="infos-pratiques">{t.services.infosPratiques(clinique.lieu)}</h2>
+            <h2 id="infos-pratiques">{t.services.infosPratiques(lieuEnPhrase(clinique, langue).a)}</h2>
             <QuestionsFrequentes questions={infosPratiques} variante="filets" />
           </section>
         </div>

@@ -98,6 +98,16 @@ const cliniques = defineCollection({
     nom: z.string(),
     /** Le nom de lieu affiché à côté du logo : « Fribourg Ouest ». */
     lieu: z.string(),
+    /**
+     * Le lieu dans une phrase, quand « à {lieu} » et « de {lieu} » ne se disent pas : « au Lac-de-Joux »,
+     * « du Lac-de-Joux » ; en allemand `a` remplace « in {lieu} » (src/lib/lieu-en-phrase.ts).
+     */
+    lieu_en_phrase: z
+      .object({
+        fr: z.object({ a: z.string().optional(), de: z.string().optional() }).optional(),
+        de: z.object({ a: z.string().optional(), de: z.string().optional() }).optional(),
+      })
+      .optional(),
     canton: z.string(),
     raison_sociale: z.string().optional(),
     adresse: z.object({ rue: z.string(), npa: z.string(), localite: z.string() }),

@@ -12,6 +12,7 @@ Les prix ne sont pas dans la fiche : ils vivent dans la grille des prix, `src/do
 |---|---|
 | `id` | l'identifiant, qui donne l'adresse : `payerne` pour `/payerne/` |
 | `nom`, `lieu`, `canton`, `raison_sociale` | « Vetmint Payerne », « Payerne », « VD », « Vetmint Payerne SA » |
+| `lieu_en_phrase` | facultatif : le lieu dans une phrase, quand « à {lieu} », « de {lieu} » et « in {lieu} » ne se disent pas. `{ "fr": { "a": "au Lac-de-Joux", "de": "du Lac-de-Joux" }, "de": { "a": "am Lac-de-Joux" } }`. Les phrases fabriquées par le site s'en servent : le H1 et le title des pages de soin, « Le prix au Lac-de-Joux », « Infos pratiques au Lac-de-Joux », « Accueil du cabinet du Lac-de-Joux » ; les textes écrits suivent la même tournure |
 | `adresse`, `coordonnees` | la rue, le NPA, la localité, affichés en entier sous le titre de l'accueil ; la latitude et la longitude à quatre décimales |
 | `telephone`, `whatsapp` | `{ "affiche": "026 660 16 16", "international": "+41266601616" }` ; `whatsapp` seulement si le cabinet en a un |
 | `email` | l'adresse du cabinet |

@@ -29,7 +29,7 @@ Sie haben gerade einen Welpen oder ein Kätzchen aufgenommen: Der Präventionspl
 
 ### Was er kostet
 
-Eine Operation kann zum Plan hinzukommen: die Kastration eines Rüden oder Katers, die Sterilisation einer Hündin oder Katze ([Chirurgie in Lac-de-Joux](/de/lacdejoux/leistungen/chirurgie/)). Die Tabelle vergleicht jede Formel mit dem Preis derselben Behandlungen, einzeln gekauft.
+Eine Operation kann zum Plan hinzukommen: die Kastration eines Rüden oder Katers, die Sterilisation einer Hündin oder Katze ([Chirurgie am Lac-de-Joux](/de/lacdejoux/leistungen/chirurgie/)). Die Tabelle vergleicht jede Formel mit dem Preis derselben Behandlungen, einzeln gekauft.
 
 | Formel | Preis des Plans | Einzeln gekaufte Behandlungen | Ersparnis |
 |---|---|---|---|
@@ -40,7 +40,7 @@ Eine Operation kann zum Plan hinzukommen: die Kastration eines Rüden oder Kater
 | Männliches Kätzchen, mit Kastration | {prix:plan-chaton-castration} | {prix:soins-chaton-castration-un-par-un} | {prix:economie-plan-chaton-castration} |
 | Weibliches Kätzchen, mit Sterilisation | {prix:plan-chaton-sterilisation} | {prix:soins-chaton-sterilisation-un-par-un} | {prix:economie-plan-chaton-sterilisation} |
 
-Der Preis einer einzelnen Operation ausserhalb des Plans steht in der [Preisliste von Lac-de-Joux](/de/lacdejoux/preise/).
+Der Preis einer einzelnen Operation ausserhalb des Plans steht in der [Preisliste der Praxis Lac-de-Joux](/de/lacdejoux/preise/).
 
 ### In vier Raten bezahlen
 

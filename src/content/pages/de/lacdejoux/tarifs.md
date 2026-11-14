@@ -22,7 +22,7 @@ In dreissig Minuten kann die Tierärztin oder der Tierarzt präzise Fragen zur G
 |---|---|---|
 | Konsultation, nach Termin | eine halbe Stunde mit einer Tierärztin oder einem Tierarzt: vollständige Untersuchung, Antworten auf Ihre Fragen, Ratschläge | {prix:consultation} |
 
-Sie dient der jährlichen Kontrolle wie einem kranken Tier: siehe [die Prävention in Lac-de-Joux](/de/lacdejoux/leistungen/praevention/).
+Sie dient der jährlichen Kontrolle wie einem kranken Tier: siehe [die Prävention am Lac-de-Joux](/de/lacdejoux/leistungen/praevention/).
 
 ## Gesundheitschecks und Impfungen
 
@@ -54,7 +54,7 @@ Eine Pauschale deckt die Operation, den Operationssaal, die Narkose und die Schm
 
 Die Tierärztin oder der Tierarzt untersucht das Tier vor der Narkose. Jede Pauschale enthält zudem eine Injektion eines Entzündungshemmers. Katze, Hündin und Rüde werden über einen Katheter (ein kleiner Schlauch in einer Vene) mit Infusion versorgt und schlafen unter Gas dank eines Tubus in der Luftröhre. Der Kater erhält den Katheter und dieselbe Überwachung, aber weder Tubus noch Infusion. Kaninchenhäsin und Kaninchenbock schlafen per Injektion ein, danach verlängert ein Gas die Narkose.
 
-Zwei Kontrollen nach der Operation sind für Hündin, Rüden, Kaninchenhäsin und Kaninchenbock kostenlos. Eine zusätzliche Behandlung kommt gegebenenfalls zur Pauschale hinzu. Ein Kaninchen wird nie nüchtern gehalten: Es frisst und trinkt bis zur Operation. Für ein Meerschweinchen, eine Ratte, ein Chinchilla oder einen Degu wird der Preis vor der Wahl des Termins genannt. Die Schritte sind auf der Seite [Chirurgie in Lac-de-Joux](/de/lacdejoux/leistungen/chirurgie/) beschrieben.
+Zwei Kontrollen nach der Operation sind für Hündin, Rüden, Kaninchenhäsin und Kaninchenbock kostenlos. Eine zusätzliche Behandlung kommt gegebenenfalls zur Pauschale hinzu. Ein Kaninchen wird nie nüchtern gehalten: Es frisst und trinkt bis zur Operation. Für ein Meerschweinchen, eine Ratte, ein Chinchilla oder einen Degu wird der Preis vor der Wahl des Termins genannt. Die Schritte sind auf der Seite [Chirurgie am Lac-de-Joux](/de/lacdejoux/leistungen/chirurgie/) beschrieben.
 
 ## Die Zähne
 
@@ -64,7 +64,7 @@ Zwei Kontrollen nach der Operation sind für Hündin, Rüden, Kaninchenhäsin un
 | Extraktion eines Zahns | nach Kostenvoranschlag, je nach Zahn | {prix:extraction-dent} |
 | Extraktion aller Zähne | Pauschale mit Voruntersuchung, Katheter, Tubus in der Luftröhre, überwachtem Narkosegas und Schmerzbehandlung | {prix:extraction-totale} |
 
-Eine einzelne Extraktion kommt zur Pauschale der Zahnsteinentfernung hinzu. Der Ablauf ist auf der Seite [Zahnmedizin in Lac-de-Joux](/de/lacdejoux/leistungen/zahnmedizin/) beschrieben.
+Eine einzelne Extraktion kommt zur Pauschale der Zahnsteinentfernung hinzu. Der Ablauf ist auf der Seite [Zahnmedizin am Lac-de-Joux](/de/lacdejoux/leistungen/zahnmedizin/) beschrieben.
 
 ## Untersuchungen und Analysen
 
@@ -96,7 +96,7 @@ Am Empfang erfolgt die Zahlung am Ende des Termins, mit Karte oder TWINT. Bei ei
 
 Der Präventionsplan für einen Welpen oder ein Kätzchen kostet {prix:plan-prevention} für das erste Jahr. Er umfasst die Konsultationen, die Impfungen, die Entwurmungen, den Chip und den Pass. Einzeln gekauft, würden diese Behandlungen {prix:soins-chiot-un-par-un} für einen Welpen und {prix:soins-chaton-un-par-un} für ein Kätzchen kosten. Ein Hund oder eine Katze jeden Alters kann ein monatliches Abonnement wählen, das die Vorsorge über zwölf Monate verteilt.
 
-[Präventionsplan und Abonnemente in Lac-de-Joux](/de/lacdejoux/abonnemente/)
+[Präventionsplan und Abonnemente am Lac-de-Joux](/de/lacdejoux/abonnemente/)
 
 ## Mit den anderen Praxen vergleichen
 

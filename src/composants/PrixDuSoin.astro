@@ -9,19 +9,20 @@ import { textes } from '../i18n/index.ts';
 interface Props {
   /** Le libellé et le montant déjà écrit de chaque prix, dans l'ordre de la grille. */
   lignes: { libelle: string; montant: string }[];
-  lieu: string;
+  /** Le lieu du cabinet dans une phrase : « à Payerne », « au Lac-de-Joux » (src/lib/lieu-en-phrase.ts). */
+  aLieu: string;
   /** L'adresse de la page Tarifs du cabinet. */
   tarifs: string;
   langue: Langue;
 }
 
-const { lignes, lieu, tarifs, langue } = Astro.props;
+const { lignes, aLieu, tarifs, langue } = Astro.props;
 const t = textes(langue).services;
 const id = 'prix-du-soin';
 ---
 
 <section class="bloc prix-du-soin" aria-labelledby={id}>
-  <h2 id={id}>{t.prixA(lieu)}</h2>
+  <h2 id={id}>{t.prixA(aLieu)}</h2>
   {
     lignes.length > 0 ? (
       <table class="prix-du-soin__liste" aria-labelledby={id}>
