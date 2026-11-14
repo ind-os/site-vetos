@@ -5,7 +5,6 @@ title: "Maladie dentaire du lapin : signes, causes, soins | Vetmint"
 description: "Maladie dentaire chez le lapin : les causes de la malocclusion, les signes qui doivent alerter, le parage des dents sous anesthésie, la prévention par le foin."
 h1: Maladie dentaire chez le lapin
 recherche: maladie dentaire lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 11
 resume: "Dents du lapin qui poussent de travers : causes, signes, parage sous anesthésie et prévention."

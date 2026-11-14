@@ -5,7 +5,6 @@ title: Legenot und Legestörungen beim Vogel | Vetmint
 description: "Legestörungen beim Vogel: Ei steckt fest, Weibchen kauert am Käfigboden, gelähmte Beine. Was zu häufiges Legen auslöst, der Notfall und die Vorbeugung."
 h1: Legestörungen beim Vogel
 recherche: Legenot Vogel
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 19
 resume: Ei steckt fest, Legen bricht ab, weiche Schale, bei Huhn, Wellensittich oder Kanarienvogel. Oft ein Notfall.

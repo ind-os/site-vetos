@@ -6,7 +6,6 @@ title: "Tierarztpreise in Bussigny: Impfungen, Operationen, Notfälle"
 description: "Preise der Praxis Vetmint Bussigny: Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Kastrationen, Zahnsteinentfernung, Notfälle und was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint Bussigny
 recherche: Tierarztpreise Bussigny
-redige_le: 2026-11-13
 ---
 
 Der Tarif der Tierarztpraxis Vetmint Bussigny passt in wenige Tabellen, mit dem Detail dessen, was Sie bezahlen. An der Rue de l'Industrie 8 kostet eine Konsultation von 30 Minuten {prix:consultation}. Die Sterilisation einer Katze, die Kastration eines Rüden oder die Zahnsteinentfernung haben einen Pauschalpreis, Narkose inbegriffen.

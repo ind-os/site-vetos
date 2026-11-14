@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarztpraxis Vetmint Bussigny"
 description: "Termin bei der Tierarztpraxis Vetmint Bussigny: online, per Telefon unter 021 703 25 30 oder am Schalter, auch am Samstag. Konsultation von 30 Minuten."
 h1: "Termin in Bussigny vereinbaren"
 recherche: "Termin Tierarzt Bussigny"
-redige_le: 2026-11-13
 ---
 
 Ihren Tierarzttermin in Bussigny vereinbaren Sie online, zu jeder Uhrzeit, im Kalender der Praxis. Während der Öffnungszeiten können Sie auch die [021 703 25 30](tel:+41217032530) anrufen oder am Schalter der Rue de l'Industrie 8 vorbeikommen. Am Ende der Konsultation legt das Team mit Ihnen die nächste Auffrischung fest.

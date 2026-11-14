@@ -1,12 +1,10 @@
 ---
 // Toutes les pages écrites en Markdown (src/content/pages/), dans les deux langues. L'adresse
 // d'une page est le champ `url` de son en-tête ; son type choisit son gabarit (src/gabarits/),
-// qui reçoit le contexte de la page. En prévisualisation, toutes les pages se construisent ; à la
-// construction, les pages d'une clinique dont la fiche dit `"en_ligne": false` sont laissées de
-// côté (pagesPubliables, src/lib/pages.ts).
+// qui reçoit le contexte de la page.
 import type { GetStaticPaths } from 'astro';
 import { contexteDe } from '../lib/contexte.ts';
-import { pagesPubliables, type Page } from '../lib/pages.ts';
+import { toutesLesPages, type Page } from '../lib/pages.ts';
 import { problemesDuSite } from '../lib/verifications.ts';
 import { GABARITS } from '../gabarits/index.ts';
 
@@ -17,7 +15,7 @@ export const getStaticPaths = (async () => {
     if (import.meta.env.PROD) throw new Error(message);
     console.warn(message);
   }
-  return (await pagesPubliables()).map((page) => ({
+  return (await toutesLesPages()).map((page) => ({
     params: { chemin: page.data.url.replace(/^\/|\/$/g, '') || undefined },
     props: { page },
   }));

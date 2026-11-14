@@ -6,7 +6,6 @@ title: "Tierarzt in La Chaux-de-Fonds: Tierarztpraxis Vetmint"
 description: "Tierarztpraxis in La Chaux-de-Fonds für Hunde, Katzen und Heimtiere, Avenue Léopold-Robert 12. Konsultation von 30 Minuten, Laser, Ultraschall. 032 914 03 48."
 h1: "Tierarztpraxis Vetmint La Chaux-de-Fonds"
 recherche: "Tierarzt La Chaux-de-Fonds"
-redige_le: 2026-11-14
 resume: "Hunde, Katzen und Heimtiere, Avenue Léopold-Robert 12. Zwei Tierärzte, Konsultationen von 30 Minuten nach Terminvereinbarung."
 ---
 

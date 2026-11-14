@@ -5,7 +5,6 @@ title: "PECA und PECALBO: Operation bei Ohrenentzündung | Vetmint"
 description: "PECA und PECALBO, Operation der schweren Ohrenentzündung beim Kaninchen: was entfernt wird, stationärer Aufenthalt, Ohrpflege zu Hause, Komplikationen."
 h1: "Informationsblatt zur Konsultation: PECA und PECALBO"
 recherche: "Operation Ohrenentzündung Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 21
 resume: "Die Operation der schweren Ohrenentzündung beim Kaninchen, der stationäre Aufenthalt danach und die Ohrpflege bei Ihnen zu Hause."

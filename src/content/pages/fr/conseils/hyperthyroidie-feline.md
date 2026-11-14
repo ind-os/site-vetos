@@ -5,7 +5,6 @@ title: "Hyperthyroïdie chez le chat : signes et traitement | Vetmint"
 description: "Hyperthyroïdie du chat : il maigrit en mangeant plus, s'agite ou a la diarrhée. Les signes, la prise de sang qui confirme, les traitements et le suivi."
 h1: Hyperthyroïdie chez le chat
 recherche: hyperthyroïdie chat
-redige_le: 2026-10-16
 especes: [chat]
 ordre: 4
 resume: Le chat de plus de 10 ans qui maigrit en mangeant plus a souvent une thyroïde trop active.

@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Payerne
 description: "Deux vétérinaires à Payerne, Claire-Lise Tinguely et Tiago Capelo, avec deux assistantes et une apprentie. Qui fait quoi au cabinet et dans quelle langue."
 h1: L'équipe de Vetmint Payerne
 recherche: équipe vétérinaire Payerne
-redige_le: 2026-10-16
 resume: Deux vétérinaires, deux assistantes et une apprentie, route du Châtelard 13.
 ---
 

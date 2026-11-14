@@ -18,7 +18,7 @@ import { lesCliniques } from './cliniques.ts';
 import { lesGrilles } from './grilles.ts';
 import { clesDesJetons } from './prix.ts';
 import { problemesDuCatalogue } from './images.ts';
-import { cleDe, estFabriquee, langueDe, pagesPubliables, toutesLesPages } from './pages.ts';
+import { cleDe, estFabriquee, langueDe, toutesLesPages } from './pages.ts';
 import { pagesObligatoires, TYPES_DE_PAGE_DE_CLINIQUE } from './types-de-page.ts';
 
 /** Le chemin du fichier d'une page, depuis la racine du dépôt. */
@@ -28,13 +28,12 @@ function fichierDe(langue: string, cle: string): string {
 
 export async function problemesDuSite(): Promise<string[]> {
   const pages = await toutesLesPages();
-  const publiables = await pagesPubliables();
   const cliniques = await lesCliniques();
   const problemes: string[] = [];
   const existe = (langue: string, cle: string) => pages.some((p) => langueDe(p) === langue && cleDe(p) === cle);
   const typesDeClinique: readonly string[] = TYPES_DE_PAGE_DE_CLINIQUE;
 
-  for (const page of publiables) {
+  for (const page of pages) {
     const langue = langueDe(page);
     const cle = cleDe(page);
     for (const autre of LANGUES) {
@@ -72,10 +71,9 @@ export async function problemesDuSite(): Promise<string[]> {
         if (commune && !commune.data.presentation_dans_le_cabinet?.includes('{cabinet}')) problemes.push(`${fichierDe(langue, `services/${service}`)} : le champ presentation_dans_le_cabinet manque ou ne contient pas {cabinet} (« Le cabinet {cabinet} propose des soins dentaires… »). Le chapeau de la page du service dans chaque cabinet l'utilise.`);
       }
     }
-    if (!clinique.en_ligne) continue;
     for (const langue of LANGUES) {
       for (const cle of pagesObligatoires(clinique)) {
-        if (!existe(langue, cle)) problemes.push(`Le cabinet ${clinique.id} est en ligne mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
+        if (!existe(langue, cle)) problemes.push(`Le cabinet ${clinique.id} a une fiche mais sa page ${fichierDe(langue, cle)} manque : crée ce fichier.`);
       }
     }
   }

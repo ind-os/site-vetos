@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Präventionsplan, Saint-Blaise"
 description: "In Saint-Blaise kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr. Monatliche Abonnemente für Hund oder Katze ab {prix:abonnement-adulte-chien} pro Monat."
 h1: Präventionsplan und Abonnemente in Saint-Blaise
 recherche: Tierarzt Abonnement Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 In der Praxis Saint-Blaise bezahlen ein tierärztliches Abonnement oder ein Präventionsplan die Vorsorge Ihres Tieres im Voraus. Der Plan deckt zu einem festen Preis das erste Jahr eines Welpen oder Kätzchens. Das Abonnement begleitet einen Hund oder eine Katze in jedem Alter und verteilt die Routinebehandlungen auf zwölf Monatsraten.

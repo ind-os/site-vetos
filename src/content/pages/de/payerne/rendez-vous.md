@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarztpraxis Vetmint Payerne"
 description: "Termin bei der Tierarztpraxis Vetmint Payerne: online, per Telefon unter 026 660 16 16, WhatsApp oder vor Ort. Konsultation von 30 Minuten. Was Sie mitbringen."
 h1: "Termin in Payerne vereinbaren"
 recherche: "Termin Tierarzt Payerne"
-redige_le: 2026-10-16
 ---
 
 Ihren Tierarzttermin in Payerne vereinbaren Sie online, direkt darunter, zu jeder Uhrzeit. Sie können auch während der Öffnungszeiten die [026 660 16 16](tel:+41266601616) anrufen, auf WhatsApp an dieselbe Nummer schreiben oder am Empfang der Route du Châtelard 13 vorbeikommen.

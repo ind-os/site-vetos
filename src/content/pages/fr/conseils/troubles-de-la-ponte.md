@@ -5,7 +5,6 @@ title: "Troubles de la ponte chez l'oiseau : signes, soins | Vetmint"
 description: "Troubles de la ponte chez l'oiseau : œuf bloqué, femelle en boule au fond de la cage, pattes paralysées. Ce qui fait trop pondre, l'urgence et la prévention."
 h1: Les troubles de la ponte chez l'oiseau
 recherche: troubles de la ponte oiseau
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 19
 resume: Œuf bloqué, ponte qui s'arrête, coquille molle, chez la poule, la perruche ou le canari. Souvent une urgence.

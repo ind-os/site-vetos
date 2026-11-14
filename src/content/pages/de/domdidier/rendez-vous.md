@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarztpraxis Vetmint Domdidier"
 description: "Termin bei der Tierarztpraxis Vetmint Domdidier: online, unter 026 675 38 88, per WhatsApp oder am Empfang. Konsultation von 30 Minuten. Was Sie mitbringen."
 h1: "Termin in Domdidier vereinbaren"
 recherche: "Termin Tierarzt Domdidier"
-redige_le: 2026-11-13
 ---
 
 Einen Tierarzttermin in Domdidier reservieren Sie online, zu jeder Uhrzeit, in der Agenda der Praxis. Während der Öffnungszeiten können Sie auch die [026 675 38 88](tel:+41266753888) anrufen, eine WhatsApp-Nachricht an dieselbe Nummer senden oder am Empfang an der Route de Saint-Aubin 58 vorbeikommen.

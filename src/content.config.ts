@@ -46,7 +46,6 @@ const pages = defineCollection({
     /** Le nom court de la page, pour les pastilles, les menus et le fil d'Ariane : « Radiographie ». */
     nom: z.string().optional(),
     recherche: z.string(),
-    redige_le: date,
     ordre: z.number().optional(),
     resume: z.string().optional(),
     especes: z.array(z.enum(['chien', 'chat', 'nac'])).optional(),
@@ -96,10 +95,6 @@ const cliniques = defineCollection({
   schema: z.object({
     /** L'identifiant, qui donne l'adresse : vetmint.ch/payerne/. */
     id: z.string(),
-    /** Vrai quand les pages de la clinique sont écrites et publiées sur ce site. */
-    en_ligne: z.boolean(),
-    /** L'adresse où mènent les liens vers la clinique tant que ses pages ne sont pas en ligne. */
-    adresse_hors_ligne: z.url(),
     nom: z.string(),
     /** Le nom de lieu affiché à côté du logo : « Fribourg Ouest ». */
     lieu: z.string(),

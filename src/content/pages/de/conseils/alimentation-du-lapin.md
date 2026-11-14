@@ -5,7 +5,6 @@ title: "Ernährung des Kaninchens: Heu, Grünfutter, Pellets | Vetmint"
 description: "Was ein Kaninchen frisst: der Heuanteil, das Grünfutter pro Kilo, die Pellets, verbotene Lebensmittel, das Calcium im Gemüse und das Wasser, das es braucht."
 h1: "Ernährung des Kaninchens"
 recherche: "Ernährung Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 9
 resume: "Die Ration des Kaninchens: Heu unbegrenzt, Grünfutter, wenig Pellets, tabu Lebensmittel und Wasser."

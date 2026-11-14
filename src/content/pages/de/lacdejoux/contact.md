@@ -6,7 +6,6 @@ title: "Kontakt und Anfahrt: Tierarzt Vetmint Lac-de-Joux"
 description: "Tierarztpraxis Vetmint Lac-de-Joux, Route de l'Hôtel-de-Ville 11 in L'Abbaye. Bushaltestelle zwei Minuten zu Fuss. 021 357 89 90. Ganzes Vallée de Joux."
 h1: "So finden Sie uns in L'Abbaye"
 recherche: "Kontakt Tierarzt Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Kontakt und Anfahrt: Die Tierarztpraxis Vetmint Lac-de-Joux befindet sich an der Route de l'Hôtel-de-Ville 11, im Zentrum von L'Abbaye, wenige Schritte vom Lac de Joux entfernt. Während der Öffnungszeiten ist ein Anruf am schnellsten. Ab Le Sentier rechnen Sie mit einer Viertelstunde im Auto.

@@ -8,7 +8,6 @@ nom: Stationäre Betreuung
 en_phrase: "die stationäre Betreuung"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} nimmt alle Ihre Tiere stationär auf, Hunde, Katzen und Heimtiere, wenn sie nicht zu Hause behandelt werden können. Ihr Tier erhält dort eine Infusion, Medikamente über die Vene, Sauerstoff oder eine Überwachung nach einer Operation. Die Tierärztin oder der Tierarzt ruft Sie jeden Tag an."
 recherche: stationäre Betreuung Hund Katze
-redige_le: 2026-11-10
 especes: [chien, chat, nac]
 ordre: 8
 resume: Warum ein Tier in der Praxis bleibt, bei Tag und bei Nacht, die Besuche und die Anrufe.

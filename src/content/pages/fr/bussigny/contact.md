@@ -6,7 +6,6 @@ title: "Contact, accès et parking : vétérinaire Vetmint Bussigny"
 description: "Cabinet vétérinaire Vetmint Bussigny, rue de l'Industrie 8, à côté de la Migros. Parking proche, gare à 3 minutes à pied. 021 703 25 30. Ouest lausannois."
 h1: Nous trouver à Bussigny
 recherche: contact vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 Le cabinet vétérinaire Vetmint Bussigny est au rez-de-chaussée de la rue de l'Industrie 8, juste à côté de la Migros. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. La gare de Bussigny est à trois minutes à pied.

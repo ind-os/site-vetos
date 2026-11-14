@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : vétérinaire Vetmint Saint-Légier"
 description: "Rendez-vous chez le vétérinaire Vetmint Saint-Légier : en ligne pour un vaccin, par téléphone au 021 683 10 10 pour le reste. Consultation de 30 minutes."
 h1: Prendre rendez-vous à Saint-Légier
 recherche: rendez-vous vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 À Saint-Légier, deux voies mènent au rendez-vous. Le vaccin, avec le bilan annuel, se réserve en ligne par VetLink. Pour tout autre motif, téléphonez au [021 683 10 10](tel:+41216831010) pendant les heures d'ouverture. Vous pouvez aussi écrire sur WhatsApp au [079 388 16 44](https://wa.me/41793881644) ou passer au comptoir de la route des Deux-Villages 21.

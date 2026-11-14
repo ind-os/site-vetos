@@ -8,14 +8,13 @@ import TeteDePage from '../composants/TeteDePage.astro';
 import { lesCliniques } from '../lib/cliniques.ts';
 import { formaterDate } from '../lib/format.ts';
 import { lesGrilles } from '../lib/grilles.ts';
-import { cleDe, estFabriquee, langueDe, pagesPubliables, titreDe, toutesLesPages } from '../lib/pages.ts';
+import { cleDe, estFabriquee, langueDe, titreDe, toutesLesPages } from '../lib/pages.ts';
 import { clesDesJetons, formaterMontant } from '../lib/prix.ts';
 
 const langue = 'fr';
 const cliniques = await lesCliniques();
 const grilles = await lesGrilles();
 const pages = (await toutesLesPages()).filter((p) => langueDe(p) === langue);
-const publiables = new Set((await pagesPubliables()).map((p) => p.id));
 const nomDuService = (service: string) => pages.find((p) => cleDe(p) === `services/${service}`)?.data.nom ?? service;
 
 /** Les pages d'un cabinet qui affichent un prix : celles qui écrivent son jeton, et la page de son service. */
@@ -27,7 +26,7 @@ function pagesDuPrix(cabinet: string, cle: string, service?: string) {
         ? service !== undefined && cleDe(p) === `${cabinet}/services/${service}`
         : clesDesJetons([p.body ?? '', p.data.description, p.data.resume ?? ''].join('\n')).includes(cle),
     )
-    .map((p) => ({ titre: titreDe(p), href: publiables.has(p.id) ? p.data.url : undefined }));
+    .map((p) => ({ titre: titreDe(p), href: p.data.url }));
 }
 
 const cabinets = cliniques.map((c) => {

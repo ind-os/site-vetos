@@ -11,8 +11,6 @@ Les prix ne sont pas dans la fiche : ils vivent dans la grille des prix, `src/do
 | Champ | Contenu |
 |---|---|
 | `id` | l'identifiant, qui donne l'adresse : `payerne` pour `/payerne/` |
-| `en_ligne` | `true` quand les pages du cabinet sont écrites dans les deux langues |
-| `adresse_hors_ligne` | l'adresse où mènent les liens vers le cabinet tant que ses pages ne sont pas en ligne |
 | `nom`, `lieu`, `canton`, `raison_sociale` | « Vetmint Payerne », « Payerne », « VD », « Vetmint Payerne SA » |
 | `adresse`, `coordonnees` | la rue, le NPA, la localité, affichés en entier sous le titre de l'accueil ; la latitude et la longitude à quatre décimales |
 | `telephone`, `whatsapp` | `{ "affiche": "026 660 16 16", "international": "+41266601616" }` ; `whatsapp` seulement si le cabinet en a un |

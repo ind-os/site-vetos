@@ -5,7 +5,6 @@ title: "Le groupe Vetmint : cabinets tenus par des vétérinaires"
 description: "Vetmint, huit cabinets vétérinaires romands tenus par des vétérinaires : qui dirige le groupe, son histoire depuis 2021, ce que partagent ses cabinets."
 h1: Le groupe Vetmint
 recherche: groupe Vetmint
-redige_le: 2026-10-16
 ---
 
 Vetmint est un groupe de huit cabinets vétérinaires en Suisse romande, tenu et géré par des vétérinaires. Le groupe Vetmint compte quatre cabinets dans le canton de Vaud, deux dans le canton de Fribourg et deux dans celui de Neuchâtel. Chaque cabinet est une société propre, comme Vetmint Payerne SA ou Vetmint Saint-Blaise SA. Vetmint SA, la société du groupe, a son siège administratif à Fribourg.

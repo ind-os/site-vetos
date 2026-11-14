@@ -8,7 +8,6 @@ nom: Chirurgie
 en_phrase: "die Chirurgie"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} operiert alle Ihre Tiere, Hunde, Katzen und Heimtiere. Wir führen die vorbeugenden Eingriffe durch, etwa die Kastration, die Sterilisation und die Zahnsteinentfernung. Wir machen auch anspruchsvollere Operationen, etwa die Entfernung eines Knotens oder eine Operation am Darm. Bei jeder Operation überwacht neben der Tierärztin oder dem Tierarzt, die oder der operiert, eine Assistentin Ihr Tier ohne Unterbrechung, vom Einschlafen bis zum Aufwachen."
 recherche: Tierarzt Chirurgie
-redige_le: 2026-11-10
 ordre: 2
 especes: [chien, chat, nac]
 resume: Die Kastration, die Sterilisation und die Operationen an Haut, Bauch und Organen.

@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarzt in La Chaux-de-Fonds"
 description: "Termin in der Tierarztpraxis Vetmint La Chaux-de-Fonds: online, unter 032 914 03 48 oder am Empfang. Konsultation oder Check von 30 Minuten. Was Sie mitbringen."
 h1: "Termin in La Chaux-de-Fonds vereinbaren"
 recherche: "Termin Tierarzt La Chaux-de-Fonds"
-redige_le: 2026-11-14
 ---
 
 Einen Termin beim Tierarzt in La Chaux-de-Fonds buchen Sie online, gleich hier unten, zu jeder Zeit. Während der Öffnungszeiten können Sie auch die [032 914 03 48](tel:+41329140348) anrufen oder am Empfang an der Avenue Léopold-Robert 12 vorbeikommen. Jede Konsultation dauert 30 Minuten.

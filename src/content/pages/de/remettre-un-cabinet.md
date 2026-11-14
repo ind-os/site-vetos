@@ -5,7 +5,6 @@ title: "Tierarztpraxis übergeben in der Westschweiz | Vetmint"
 description: "Sie denken daran, Ihre Tierarztpraxis zu übergeben? Vetmint übernimmt Praxen in der Westschweiz oder beteiligt sich daran, ohne Kosten und ohne Vermittler."
 h1: Eine Tierarztpraxis übergeben
 recherche: Tierarztpraxis übergeben
-redige_le: 2026-11-11
 ---
 
 Sie sind Tierärztin oder Tierarzt und denken daran, Ihre Tierarztpraxis zu übergeben, sich zusammenzuschliessen oder sich selbständig zu machen. Vetmint übernimmt Praxen in der Westschweiz, beteiligt sich an Praxen und unterstützt Tierärztinnen und Tierärzte, die sich niederlassen. Eine Tierärztin oder ein Tierarzt der Gruppe führt das Gespräch mit Ihnen, ohne Vermittler und streng vertraulich.

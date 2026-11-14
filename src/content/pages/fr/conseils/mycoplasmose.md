@@ -5,7 +5,6 @@ title: "Mycoplasmose du rat : signes, causes, traitement | Vetmint"
 description: "Mycoplasmose du rat : éternuements, souffle bruyant, larmes rouges. Pourquoi presque tous les rats la portent, quand consulter, le traitement et la prévention."
 h1: La mycoplasmose chez le rat
 recherche: mycoplasmose rat
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 17
 resume: L'infection respiratoire la plus fréquente du rat, souvent chronique, à soigner dès le premier éternuement.

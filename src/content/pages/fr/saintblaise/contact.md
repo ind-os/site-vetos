@@ -6,7 +6,6 @@ title: "Contact, accès et parking : vétérinaire Vetmint Saint-Blaise"
 description: "Cabinet vétérinaire Vetmint Saint-Blaise, rue des Bourguillards 11 : parking gratuit devant le cabinet, gare CFF à 6 minutes à pied. Téléphone 032 753 11 22."
 h1: Nous trouver à Saint-Blaise
 recherche: contact vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Le cabinet vétérinaire Vetmint Saint-Blaise est à la rue des Bourguillards 11, dans les locaux qu'il partage avec Vet'Urgences Neuchâtel. Pendant les heures d'ouverture, le téléphone reste le contact le plus rapide. Les places de parc gratuites sont devant le cabinet.

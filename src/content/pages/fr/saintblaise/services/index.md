@@ -6,7 +6,6 @@ title: "Services vétérinaires à Saint-Blaise | Vetmint"
 description: "Services vétérinaires à Saint-Blaise pour chiens, chats et NAC : consultation de 30 minutes à {prix:consultation}, chirurgie, dents, radiographie et échographie."
 h1: Les services à Saint-Blaise
 recherche: services vétérinaires Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Les services vétérinaires du cabinet Vetmint Saint-Blaise se font à la rue des Bourguillards 11, dans les locaux que le cabinet partage avec Vet'Urgences Neuchâtel. À chaque soin sa page : comment il se déroule à Saint-Blaise, qui s'en charge et son prix au cabinet.

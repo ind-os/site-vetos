@@ -18,7 +18,7 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 
 1. Copier l'en-tête de la page française et traduire `title`, `description`, `h1`, `nom`, `recherche`, `resume` et `en_phrase` (sa forme allemande est dans [format-des-pages.md](format-des-pages.md)). `title` garde 60 caractères au plus ; `description` 150 à 160 caractères.
 2. Remplacer `url` par l'adresse allemande de la table ci-dessous.
-3. Garder tels quels `type`, `clinique`, `redige_le`, `especes` et `ordre`.
+3. Garder tels quels `type`, `clinique`, `especes` et `ordre`.
 4. Traduire le corps phrase par phrase, sans rien ajouter ni retirer. Les faits, les chiffres et les noms restent identiques ; chaque jeton de prix, `{prix:<cle>}`, se recopie tel quel.
 5. Remplacer chaque lien interne par l'adresse allemande de la même page. Les liens `tel:`, `mailto:` et les adresses externes ne changent pas.
 6. Garder les blocs de données et leurs marqueurs `<!-- donnees: horaires -->` et `<!-- /donnees -->` ; traduire les lignes entre les marqueurs.

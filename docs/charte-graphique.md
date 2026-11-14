@@ -55,8 +55,7 @@ L'entrée du catalogue :
   "fichier": "payerne-locaux-entree.jpg",
   "sujet": "payerne:locaux",
   "alt": { "fr": "L'entrée de plain-pied du cabinet de Payerne", "de": "Der ebenerdige Eingang der Praxis in Payerne" },
-  "point_focal": { "x": 0.5, "y": 0.4 },
-  "source": "https://…"
+  "point_focal": { "x": 0.5, "y": 0.4 }
 }
 ```
 
@@ -66,7 +65,6 @@ L'entrée du catalogue :
 | `sujet` | ce que les gabarits demandent : `accueil`, `espece:chien`, `service:<service>`, `conseil:<conseil>` ; pour un cabinet, `<cabinet>:accueil`, `<cabinet>:locaux` (l'entrée, la réception, une façade), `<cabinet>:service:<service>`, `<cabinet>:equipe:<Prénom Nom>` avec le nom tel qu'il est dans la fiche. La construction refuse un sujet qui nomme un cabinet ou une personne absente des fiches |
 | `alt` | ce que montre la photo, en français et en allemand : « La salle de radiographie du cabinet de Payerne » |
 | `point_focal` | le point à garder visible quand la photo est recadrée, `x` et `y` de 0 à 1 depuis le coin haut gauche ; absent, le centre |
-| `source` | facultatif : d'où vient la photo |
 
 Plusieurs photos peuvent porter le même sujet ; le gabarit choisit laquelle il montre. Une photo que rien ne demande n'est pas servie.
 

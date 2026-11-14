@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Payerne"
 description: "Die Fragen, die unsere Kundschaft in Payerne am häufigsten stellt: Tier morgens abgeben, Preis einer Konsultation, Hausbesuch. Die Antworten des Teams."
 h1: "Ihre Fragen zur Praxis in Payerne"
 recherche: "Fragen Tierarztpraxis Payerne"
-redige_le: 2026-10-16
 ---
 
 Diese Fragen stellen unsere Kundinnen und Kunden am Telefon und am Empfang der Tierarztpraxis Vetmint Payerne am häufigsten. Jede Antwort verweist auf die Seite, die die Einzelheiten nennt.

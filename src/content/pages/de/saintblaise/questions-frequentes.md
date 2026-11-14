@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Saint-Blaise"
 description: "Die häufigsten Fragen aus Saint-Blaise: Notfälle am Abend, Preis einer Konsultation, Operationstag, Parkplatz. Die Antworten des Praxisteams, mit Links."
 h1: Ihre Fragen zur Praxis in Saint-Blaise
 recherche: Fragen Tierarztpraxis Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Die Fragen, die am Telefon und am Empfang der Tierarztpraxis Vetmint Saint-Blaise am häufigsten gestellt werden, mit der Antwort des Teams. Jede Antwort führt zur Seite, die mehr dazu sagt.

@@ -5,7 +5,6 @@ title: "Zahnerkrankung beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Zahnerkrankung beim Kaninchen: Ursachen der Malokklusion, Anzeichen, die aufmerksam machen sollen, Zahnkorrektur unter Narkose und Vorsorge durch Heu."
 h1: "Zahnerkrankung beim Kaninchen"
 recherche: "Zahnerkrankung Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 11
 resume: "Schief wachsende Kaninchenzähne: Ursachen, Anzeichen, Zahnkorrektur unter Narkose und Vorsorge."

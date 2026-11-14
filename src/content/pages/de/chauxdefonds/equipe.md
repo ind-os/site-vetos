@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint La Chaux-de-Fonds"
 description: "Zwei Tierärzte in La Chaux-de-Fonds, Raphaël Virapin und Philippe Boudaroua, mit zwei Assistentinnen. Ihr Werdegang, ihre Tiere und wie Sie sie verlangen."
 h1: "Das Team von Vetmint La Chaux-de-Fonds"
 recherche: "Tierärzteteam La Chaux-de-Fonds"
-redige_le: 2026-11-14
 resume: "Zwei Tierärzte und zwei Assistentinnen, Avenue Léopold-Robert 12, auf Französisch."
 ---
 

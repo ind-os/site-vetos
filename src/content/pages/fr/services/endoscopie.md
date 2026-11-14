@@ -8,7 +8,6 @@ nom: Endoscopie
 en_phrase: "l'endoscopie"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} pratique l'endoscopie chez le chien et le chat. Une caméra fine et souple montre l'intérieur de l'estomac, de l'intestin, du nez ou des bronches, sans ouvrir le ventre. Sous anesthésie générale, le vétérinaire peut y faire un prélèvement ou retirer un objet avalé."
 recherche: endoscopie chien chat
-redige_le: 2026-11-10
 ordre: 7
 especes: [chien, chat, nac]
 resume: Une caméra fine pour regarder l'estomac, l'intestin, le nez ou les bronches, et retirer un objet avalé sans opération.

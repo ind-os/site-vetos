@@ -6,7 +6,6 @@ title: "Tierarzt-Abonnement und Präventionsplan in Saint-Légier"
 description: "In Saint-Légier kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr. Abonnemente ab {prix:abonnement-adulte-chien} pro Monat: Konsultationen, Impfungen."
 h1: Präventionsplan und Abonnemente in Saint-Légier
 recherche: Tierarzt Abonnement Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Die Tierarztpraxis Vetmint Saint-Légier bietet zwei Möglichkeiten, die Vorsorge im Voraus zu bezahlen, als Plan oder als Abonnement. Der Präventionsplan betrifft das erste Jahr eines Welpen oder Kätzchens. Das monatliche Abonnement begleitet einen Hund oder eine Katze durch das ganze Leben: Die Routinebehandlungen werden in Monatsraten auf zwölf Monate verteilt.

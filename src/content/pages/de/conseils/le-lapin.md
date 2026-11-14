@@ -5,7 +5,6 @@ title: "Heimkaninchen: Haltung, Futter, Pflege | Vetmint"
 description: "Das Heimkaninchen: wie es lebt, wie viel Platz und welchen Boden es braucht, seine Heuration, die Impfungen und die Anzeichen, die zur Tierärztin führen."
 h1: "Das Kaninchen als Heimtier"
 recherche: "Heimkaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 1
 resume: "Leben mit einem Kaninchen: Wesen, Platz, Ration, Impfungen und Warnzeichen."

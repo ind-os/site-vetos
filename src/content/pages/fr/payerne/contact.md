@@ -6,7 +6,6 @@ title: "Contact, accès et parking : vétérinaire Vetmint Payerne"
 description: "Cabinet vétérinaire Vetmint Payerne, route du Châtelard 13. Parking gratuit devant la porte, gare CFF à 20 minutes à pied. 026 660 16 16. Toute la Broye."
 h1: Nous trouver à Payerne
 recherche: contact vétérinaire Payerne
-redige_le: 2026-10-16
 ---
 
 Le cabinet vétérinaire Vetmint Payerne est à la route du Châtelard 13, à Payerne. Pour un contact rapide pendant les heures d'ouverture, le téléphone reste le plus simple. Une place de parc juste devant la porte d'entrée vous évite de porter loin un animal lourd.

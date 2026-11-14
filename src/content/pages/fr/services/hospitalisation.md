@@ -8,7 +8,6 @@ nom: Hospitalisation
 en_phrase: "l'hospitalisation"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} hospitalise tous vos animaux, chiens, chats ou NAC, quand ils ne peuvent pas être soignés à la maison. Votre animal y reçoit une perfusion, des médicaments par voie veineuse, de l'oxygène ou une surveillance après une opération. Le vétérinaire vous appelle chaque jour."
 recherche: hospitalisation chien chat
-redige_le: 2026-11-10
 especes: [chien, chat, nac]
 ordre: 8
 resume: Pourquoi un animal reste au cabinet, le jour et la nuit, les visites, les appels et le prix.

@@ -6,7 +6,6 @@ title: "Kontakt, Anfahrt und Parkplatz: Tierarzt Vetmint Domdidier"
 description: "Tierarztpraxis Vetmint Domdidier, Route de Saint-Aubin 58. Zwei Parkplätze vor der Tür, Bahnhof 10 Minuten zu Fuss. 026 675 38 88. Ganze Broye."
 h1: "So finden Sie uns in Domdidier"
 recherche: "Kontakt Tierarzt Domdidier"
-redige_le: 2026-11-13
 ---
 
 Kontakt und Anfahrt der Tierarztpraxis Vetmint Domdidier: Sie befindet sich an der Route de Saint-Aubin 58, nordwestlich des Dorfzentrums. Während der Öffnungszeiten ist ein Anruf am schnellsten. Zwei Parkplätze liegen direkt vor der Tür: Mit einem schweren Tier sind es nur wenige Schritte.

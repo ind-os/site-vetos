@@ -5,7 +5,6 @@ title: "Notfall-Tierarzt: Nummern und Preise | Vetmint"
 description: "Tierärztlicher Notfall bei Vetmint: Vet'Urgences Fribourg in Givisiez und Vet'Urgences Neuchâtel in Saint-Blaise, von 8 bis 24 Uhr. Die Nummer jeder Praxis."
 h1: Notfälle und tierärztlicher Notfalldienst in den Vetmint-Praxen
 recherche: tierärztlicher Notfalldienst
-redige_le: 2026-11-11
 ordre: 19
 especes: [chien, chat, nac]
 resume: Unsere zwei Notfalldienste, täglich von 8 Uhr bis Mitternacht geöffnet, und die richtige Nummer je nach Uhrzeit und Praxis.

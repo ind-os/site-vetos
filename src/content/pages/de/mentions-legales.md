@@ -5,7 +5,6 @@ title: "Impressum der Vetmint-Website"
 description: "Herausgeberin der Vetmint-Website, Gesellschaften der acht Praxen, Hosting in der Schweiz, Urheberrechte und anwendbares Recht. Kontakt: ek@vetmint.ch."
 h1: "Impressum"
 recherche: "Impressum Vetmint"
-redige_le: 2026-10-16
 ---
 
 Das nachstehende Impressum gilt für die ganze Website vetmint.ch, einschliesslich der Seiten der acht Praxen. Die Website wird von der Vetmint SA herausgegeben. Jede Praxis wird von einer eigenen Gesellschaft betrieben, einer Tochtergesellschaft der Gruppe.

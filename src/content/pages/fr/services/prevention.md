@@ -8,7 +8,6 @@ nom: Prévention
 en_phrase: "la prévention"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} assure la prévention de tous vos animaux, chiens, chats ou NAC. Le bilan de santé annuel, les vaccins, la puce électronique et les vermifuges se font pendant une consultation de 30 minutes, le temps d'examiner votre animal en entier. Le vétérinaire choisit les vaccins selon la vie de votre animal."
 recherche: prévention chien chat
-redige_le: 2026-11-10
 ordre: 1
 especes: [chien, chat, nac]
 resume: Le bilan de santé de 30 minutes, les vaccins, la puce électronique, les vermifuges et le suivi des portées.

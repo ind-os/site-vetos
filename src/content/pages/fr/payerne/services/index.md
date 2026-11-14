@@ -6,7 +6,6 @@ title: "Services vétérinaires à Payerne | Vetmint"
 description: "Services vétérinaires à Payerne : chiens, chats et NAC. Consultation de 30 minutes à {prix:consultation}, vaccins, chirurgie, dentaire et radiographie."
 h1: Les services à Payerne
 recherche: services vétérinaires Payerne
-redige_le: 2026-11-04
 ---
 
 Les services vétérinaires du cabinet Vetmint Payerne se font à la route du Châtelard 13. Chaque soin a sa page. Elle dit comment il se passe ici, qui le pratique et ce qu'il coûte à Payerne.

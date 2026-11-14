@@ -5,7 +5,6 @@ title: "Die Vetmint-Gruppe: von Tierärzten geführte Praxen"
 description: "Vetmint: acht von Tierärztinnen und Tierärzten geführte Praxen in der Westschweiz. Wer die Gruppe leitet, ihre Geschichte seit 2021, was die Praxen teilen."
 h1: Die Vetmint-Gruppe
 recherche: Vetmint-Gruppe
-redige_le: 2026-10-16
 ---
 
 Vetmint ist eine Gruppe von acht Tierarztpraxen in der Westschweiz, geführt und geleitet von Tierärztinnen und Tierärzten. Die Vetmint-Gruppe zählt vier Praxen im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg. Jede Praxis ist eine eigene Gesellschaft, etwa Vetmint Payerne SA oder Vetmint Saint-Blaise SA. Vetmint SA, die Gesellschaft der Gruppe, hat ihren Verwaltungssitz in Freiburg.

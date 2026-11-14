@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à Payerne : qui appeler, à quelle heure"
 description: "Urgence à Payerne : pendant les heures d'ouverture, appelez le 026 660 16 16 ; la nuit et le week-end, le 026 466 34 35. Signes d'alerte et premiers gestes."
 h1: Urgence vétérinaire à Payerne
 recherche: urgence vétérinaire Payerne
-redige_le: 2026-10-16
 ---
 
 En cas d'urgence vétérinaire à Payerne, appelez avant de partir. Votre animal est blessé, respire mal ou ne se comporte plus comme d'habitude. Au téléphone, l'équipe du cabinet Vetmint Payerne vous dit quoi faire pendant le trajet et prépare votre arrivée.

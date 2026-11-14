@@ -5,7 +5,6 @@ title: "Gesundheitsratgeber für die Katze | Vetmint"
 description: "Gesundheitsratgeber für die Katze: Schilddrüse, Übergewicht, Blutuntersuchung. Impfungen für Wohnungs- und Freigängerkatzen, Kastration, Seniorkatzen."
 h1: "Gesundheitsratgeber für die Katze"
 recherche: "Gesundheitsratgeber Katze"
-redige_le: 2026-10-16
 especes: [chat]
 ---
 

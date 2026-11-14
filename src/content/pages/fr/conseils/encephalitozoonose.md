@@ -5,7 +5,6 @@ title: "Encéphalitozoonose du lapin : signes, traitement | Vetmint"
 description: "Encéphalitozoonose du lapin : tête penchée, cataracte, reins touchés. Comment le parasite se transmet, le test, le traitement et ce qu'on peut en attendre."
 h1: L'encéphalitozoonose du lapin
 recherche: encéphalitozoonose lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 15
 resume: Un parasite fréquent chez le lapin, souvent silencieux, qui peut toucher le cerveau, les yeux ou les reins.

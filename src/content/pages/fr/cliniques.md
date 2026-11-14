@@ -5,7 +5,6 @@ title: "Les cabinets vétérinaires Vetmint : adresses et horaires"
 description: "Les cabinets Vetmint à Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest, Lac-de-Joux, Payerne, Saint-Blaise et Saint-Légier : adresses, horaires, garde."
 h1: Nos cabinets
 recherche: cabinets Vetmint
-redige_le: 2026-10-16
 ---
 
 Vetmint compte huit cabinets vétérinaires, quatre dans le canton de Vaud, deux dans celui de Fribourg et deux dans celui de Neuchâtel. Chaque cabinet Vetmint reçoit sur rendez-vous. Nos deux services d'urgence, à Givisiez et à Saint-Blaise, reçoivent les urgences tous les jours jusqu'à minuit. Après minuit et dans les autres régions, un numéro de garde régional prend le relais.

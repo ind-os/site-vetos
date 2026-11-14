@@ -6,7 +6,6 @@ title: "Services vétérinaires à L'Abbaye | Vetmint Lac-de-Joux"
 description: "Services vétérinaires du cabinet Lac-de-Joux, à L'Abbaye, pour chiens, chats et NAC : consultation de 30 minutes à {prix:consultation}, chirurgie, dents, endoscopie."
 h1: Les services à L'Abbaye
 recherche: services vétérinaires Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Les services vétérinaires du cabinet Vetmint Lac-de-Joux se font au 11 de la route de l'Hôtel-de-Ville, hormis les visites à domicile. Chaque soin de la liste du menu mène à sa page, avec les vétérinaires qui le pratiquent, ses étapes et son prix.

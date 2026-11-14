@@ -6,7 +6,6 @@ title: "Tierarzt in Domdidier: Tierarztpraxis Vetmint Domdidier"
 description: "Tierarztpraxis in Domdidier für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten, Lasertherapie, Ultraschall, Parkplätze vor der Tür. 026 675 38 88."
 h1: "Tierarztpraxis Vetmint Domdidier"
 recherche: "Tierarzt Domdidier"
-redige_le: 2026-11-13
 resume: "Hunde, Katzen und Heimtiere, Route de Saint-Aubin 58. Drei Tierärztinnen, Konsultationen von 30 Minuten nach Termin."
 ---
 

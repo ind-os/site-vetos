@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Saint-Blaise"
 description: "Les questions que nos clients de Saint-Blaise posent le plus : urgences du soir, prix d'une consultation, jour d'opération, parking. Les réponses de l'équipe."
 h1: Vos questions sur le cabinet de Saint-Blaise
 recherche: questions cabinet vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Les questions qui reviennent le plus souvent au téléphone et au comptoir du cabinet vétérinaire Vetmint Saint-Blaise, avec la réponse de l'équipe. Chaque réponse mène à la page qui en dit plus.

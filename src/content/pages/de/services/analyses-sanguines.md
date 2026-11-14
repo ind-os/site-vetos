@@ -9,7 +9,6 @@ en_phrase: "die Blutentnahme"
 pour_un_rendez_vous: "eine Blutentnahme"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} macht die Blutanalysen aller Ihrer Tiere, Hunde, Katzen und Heimtiere, im eigenen Labor. Die meisten Ergebnisse liegen fast sofort vor. Für speziellere Untersuchungen geht die Probe an ein externes Labor."
 recherche: Blutanalyse Hund Katze
-redige_le: 2026-11-10
 especes: [chien, chat, nac]
 ordre: 9
 resume: Was das Labor der Praxen vor Ort untersucht, was ins externe Labor geht und die Wartezeiten.

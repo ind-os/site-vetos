@@ -5,7 +5,6 @@ title: "Conseils santé pour le chat | Vetmint"
 description: "Conseils santé pour le chat : hyperthyroïdie, surpoids, prise de sang. Vaccins du chat d'intérieur et d'extérieur, stérilisation, suivi du chat âgé dès 10 ans."
 h1: Conseils santé pour le chat
 recherche: conseils santé chat
-redige_le: 2026-10-16
 especes: [chat]
 ---
 

@@ -6,7 +6,6 @@ title: "Tierärztliche Leistungen in La Chaux-de-Fonds | Vetmint"
 description: "Leistungen in La Chaux-de-Fonds für Hunde, Katzen und Heimtiere: Konsultation von 30 Minuten zu {prix:consultation}, Impfungen, Chirurgie, Zähne, Laser, Ultraschall."
 h1: Die Leistungen in La Chaux-de-Fonds
 recherche: tierärztliche Leistungen La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 In La Chaux-de-Fonds befinden sich die tierärztlichen Leistungen von Vetmint an der Avenue Léopold-Robert 12, im Stadtzentrum. Jede Behandlung der Praxis hat ihre eigene Seite, mit den Tierärzten, die sie durchführen, ihrem Ablauf und ihrem Preis hier.

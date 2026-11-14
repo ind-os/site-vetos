@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint La Chaux-de-Fonds
 description: "Deux vétérinaires à La Chaux-de-Fonds, Raphaël Virapin et Philippe Boudaroua, avec deux assistantes. Leur parcours, leurs animaux et comment les demander."
 h1: L'équipe de Vetmint La Chaux-de-Fonds
 recherche: équipe vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 resume: Deux vétérinaires et deux assistantes, avenue Léopold-Robert 12, en français.
 ---
 

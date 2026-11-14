@@ -6,7 +6,6 @@ title: "Contact et accès : vétérinaire Vetmint La Chaux-de-Fonds"
 description: "Cabinet vétérinaire Vetmint La Chaux-de-Fonds, avenue Léopold-Robert 12, au centre-ville. Gare CFF à dix minutes à pied, bus transN. Tél. 032 914 03 48."
 h1: Nous trouver à La Chaux-de-Fonds
 recherche: contact vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Pour joindre votre vétérinaire à La Chaux-de-Fonds, le cabinet Vetmint est au numéro 12 de l'avenue Léopold-Robert, au centre-ville. Pendant les heures d'ouverture, le téléphone reste le moyen de contact le plus rapide. Depuis la gare CFF, vous venez à pied en une dizaine de minutes.

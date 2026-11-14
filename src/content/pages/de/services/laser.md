@@ -8,7 +8,6 @@ nom: Lasertherapie
 en_phrase: "die Lasertherapie"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} bietet die Lasertherapie für Hunde, Katzen und Kaninchen an. Das gezielt auf die kranke Stelle gerichtete Licht lindert Schmerzen, mindert Entzündungen und beschleunigt die Wundheilung. Es schneidet nicht und verbrennt nicht: Ihr Tier bleibt wach, ohne Spritze und ohne Rasur."
 recherche: Lasertherapie Tier
-redige_le: 2026-11-10
 ordre: 10
 especes: [chien, chat, nac]
 resume: Ein Licht, das Schmerzen lindert und die Heilung beschleunigt, ohne Schnitt und ohne Narkose, in Sitzungen von wenigen Minuten.

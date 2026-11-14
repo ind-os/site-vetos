@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint Saint-Légier"
 description: "Tierärzteteam in Saint-Légier: Romain Abos (Augen, Zähne, Katzen) und Louise Schneider (Ultraschall), zwei Assistentinnen und eine Lernende. Ihre Werdegänge."
 h1: "Das Team von Vetmint Saint-Légier"
 recherche: "Tierärzteteam Saint-Légier"
-redige_le: 2026-11-14
 resume: "Zwei Tierärzte, zwei Assistentinnen und eine Lernende, Route des Deux-Villages 21."
 ---
 

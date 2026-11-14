@@ -6,7 +6,6 @@ title: "Notfall beim Tier in Fribourg Ouest: wen Sie wann anrufen"
 description: "Notfall in Givisiez: während der Öffnungszeiten die Praxis unter 026 466 84 84, sonst die 026 466 34 35, Vet'Urgences Fribourg, im selben Gebäude. Warnzeichen."
 h1: "Tierärztlicher Notfall in Fribourg Ouest"
 recherche: "Notfall Tierarzt Fribourg Ouest"
-redige_le: 2026-11-13
 ---
 
 Bei einem tierärztlichen Notfall in Fribourg Ouest rufen Sie an, bevor Sie losfahren. Ihr Tier blutet, atmet schlecht, hat etwas Giftiges geschluckt oder kann nicht mehr stehen. Am Telefon sagt Ihnen das Team, was Sie während der Fahrt tun sollen, und bereitet ein Zimmer für Ihre Ankunft vor.

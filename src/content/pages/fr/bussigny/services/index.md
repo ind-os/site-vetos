@@ -6,7 +6,6 @@ title: "Services vétérinaires à Bussigny | Vetmint"
 description: "Services vétérinaires à Bussigny pour chiens, chats et NAC : consultation de 30 minutes à {prix:consultation}, vaccins, opérations, soins dentaires, échographie."
 h1: Les services à Bussigny
 recherche: services vétérinaires Bussigny
-redige_le: 2026-11-13
 ---
 
 Les services vétérinaires du cabinet Vetmint Bussigny se font tous au rez-de-chaussée de la rue de l'Industrie 8, à côté de la Migros. Chaque soin a sa page : le déroulement à Bussigny, le vétérinaire qui s'en occupe et son prix.

@@ -6,7 +6,6 @@ title: "Tierärztlicher Notfall in Saint-Blaise: wen anrufen"
 description: "Notfall in Saint-Blaise: tagsüber die Praxis unter 032 753 11 22; abends und am Wochenende Vet'Urgences Neuchâtel, kostenlos bis Mitternacht. Warnzeichen."
 h1: Tierärztlicher Notfall in Saint-Blaise
 recherche: Tierarzt Notfall Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Bei einem tierärztlichen Notfall in Saint-Blaise rufen Sie an, bevor Sie ins Auto steigen. Ein Hund, der auf der Strasse angefahren wurde. Eine Katze, die im Hochsommer unter dem Dach hechelt. Ein Kaninchen, das sein Heu nicht mehr anrührt. In jedem dieser Fälle sagt Ihnen die Person am Telefon, was Sie unterwegs tun sollen. Die Praxis und Vet'Urgences Neuchâtel haben dieselbe Adresse, aber nicht dieselben Öffnungszeiten.

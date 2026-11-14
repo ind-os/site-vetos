@@ -6,7 +6,6 @@ title: "Urgence vétérinaire Lac-de-Joux : qui appeler et quand"
 description: "Urgence à L'Abbaye : pendant les heures d'ouverture, appelez le 021 357 89 90 ; en dehors, Médi-Vet au 0900 022 022. Signes d'alerte et gestes utiles."
 h1: Urgence vétérinaire à L'Abbaye
 recherche: urgence vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 En cas d'urgence vétérinaire, avec le cabinet Vetmint Lac-de-Joux ou dans la vallée de Joux, téléphonez avant de prendre la route. Le bon numéro dépend de l'heure. Au bout du fil, l'équipe du cabinet ou le vétérinaire de garde évalue la situation et vous dit quoi faire pendant le trajet.

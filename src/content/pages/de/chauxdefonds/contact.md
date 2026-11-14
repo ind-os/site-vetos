@@ -6,7 +6,6 @@ title: "Kontakt und Anfahrt: Tierarzt Vetmint La Chaux-de-Fonds"
 description: "Tierarztpraxis Vetmint La Chaux-de-Fonds, Avenue Léopold-Robert 12, im Stadtzentrum. SBB-Bahnhof zehn Minuten zu Fuss, Busse von transN. Tel. 032 914 03 48."
 h1: "So finden Sie uns in La Chaux-de-Fonds"
 recherche: "Kontakt Tierarzt La Chaux-de-Fonds"
-redige_le: 2026-11-14
 ---
 
 Ihr Tierarzt in La Chaux-de-Fonds, die Praxis Vetmint, liegt an der Avenue Léopold-Robert 12, im Stadtzentrum. Während der Öffnungszeiten ist das Telefon der schnellste Weg. Vom SBB-Bahnhof kommen Sie in etwa zehn Minuten zu Fuss.

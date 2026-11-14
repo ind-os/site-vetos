@@ -6,7 +6,6 @@ title: "Vétérinaire à La Chaux-de-Fonds : cabinet Vetmint"
 description: "Cabinet vétérinaire à La Chaux-de-Fonds pour chiens, chats et NAC, avenue Léopold-Robert 12. Consultation de 30 minutes, laser, échographie. 032 914 03 48."
 h1: Cabinet vétérinaire Vetmint La Chaux-de-Fonds
 recherche: vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 resume: Chiens, chats et NAC, avenue Léopold-Robert 12. Deux vétérinaires, consultations de 30 minutes sur rendez-vous.
 ---
 

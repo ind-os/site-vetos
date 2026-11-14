@@ -5,7 +5,6 @@ title: "Sablose urinaire du lapin et du cochon d'Inde | Vetmint"
 description: "Sablose urinaire du lapin et du cochon d'Inde : urine épaisse et blanche, sang, douleur. Le rôle du calcium, les examens, le traitement et l'eau à donner."
 h1: La sablose urinaire chez le lapin et le cochon d'Inde
 recherche: sablose urinaire lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
 resume: Du sable de calcium dans la vessie du lapin ou du cochon d'Inde, prévenu par l'eau, l'alimentation et le mouvement.

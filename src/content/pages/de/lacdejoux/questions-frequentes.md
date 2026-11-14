@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Lac-de-Joux"
 description: "Die Fragen, die unsere Kundschaft im Vallée de Joux am häufigsten stellt: Tier tagsüber abgeben, Hausbesuche, Preise, Notfälle, Anreise mit Bus oder Zug."
 h1: "Ihre Fragen zur Praxis in L'Abbaye"
 recherche: "Fragen Tierarztpraxis Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Am Telefon wie am Empfang stellen die Kundinnen und Kunden aus dem Vallée de Joux dem Team in L'Abbaye oft dieselben Fragen. Hier finden Sie die Antworten der Tierarztpraxis Vetmint Lac-de-Joux, mit dem Link zur Seite, die das jeweilige Thema ausführt.

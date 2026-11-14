@@ -6,7 +6,6 @@ title: "Services vétérinaires à La Chaux-de-Fonds | Vetmint"
 description: "Services vétérinaires à La Chaux-de-Fonds pour chiens, chats et NAC : consultation de 30 minutes à {prix:consultation}, vaccins, chirurgie, dents, laser, échographie."
 h1: Les services à La Chaux-de-Fonds
 recherche: services vétérinaires La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 À La Chaux-de-Fonds, les services vétérinaires de Vetmint se trouvent au numéro 12 de l'avenue Léopold-Robert, au centre-ville. Chaque soin du cabinet est décrit sur sa propre page, avec les vétérinaires qui le pratiquent, son déroulement et son prix ici.

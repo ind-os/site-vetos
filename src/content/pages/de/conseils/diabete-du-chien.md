@@ -5,7 +5,6 @@ title: "Diabetes beim Hund: Anzeichen, Ursachen, Therapie | Vetmint"
 description: "Diabetes beim Hund: Er trinkt viel, uriniert mehr und nimmt trotz Appetit ab. Risikorassen, Alter, Notfallzeichen, Insulin, Ernährung und Nachkontrollen."
 h1: Diabetes beim Hund
 recherche: Diabetes Hund
-redige_le: 2026-10-16
 especes: [chien]
 ordre: 6
 resume: Ein Hund, der viel trinkt, mehr uriniert und abnimmt, kann zuckerkrank sein, eine Krankheit, die ein Leben lang behandelt wird.

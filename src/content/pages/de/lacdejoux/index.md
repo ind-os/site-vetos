@@ -6,7 +6,6 @@ title: "Tierarzt in L'Abbaye: Tierarztpraxis Vetmint Lac-de-Joux"
 description: "Tierarztpraxis im Vallée de Joux, in L'Abbaye, für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten, Chirurgie, Endoskopie, Notfälle. 021 357 89 90."
 h1: "Tierarztpraxis Vetmint Lac-de-Joux"
 recherche: "Tierarzt Lac-de-Joux"
-redige_le: 2026-11-14
 resume: "Hunde, Katzen und Heimtiere, Route de l'Hôtel-de-Ville 11 in L'Abbaye. Drei Tierärzte, Konsultationen von 30 Minuten nach Termin."
 ---
 

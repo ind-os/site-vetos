@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Präventionsplan in Payerne"
 description: "In Payerne kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr: Konsultationen, Impfungen, Mikrochip. Abonnemente ab {prix:abonnement-adulte-chien} pro Monat."
 h1: Präventionsplan und Abonnemente in Payerne
 recherche: Tierarzt Abonnement Payerne
-redige_le: 2026-11-03
 ---
 
 In Payerne regeln zwei Formen des tierärztlichen Abonnements die Vorsorge im Voraus. Der Präventionsplan bezahlt in einem Mal das erste Jahr eines Welpen oder Kätzchens. Das monatliche Abonnement begleitet einen Hund oder eine Katze in jedem Alter und verteilt den Preis der Routinebehandlungen auf zwölf Monate.

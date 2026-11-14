@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à Domdidier : qui appeler et quand"
 description: "Urgence à Domdidier : aux heures d'ouverture, appelez le 026 675 38 88 ; le soir, la nuit et le week-end, le 026 466 34 35. Signes d'alerte et gestes utiles."
 h1: Urgence vétérinaire à Domdidier
 recherche: urgence vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 En cas d'urgence vétérinaire à Domdidier, téléphonez avant de prendre la route. Le numéro à composer dépend de l'heure. Au bout du fil, l'équipe du cabinet ou le vétérinaire de garde évalue la situation et vous dit quoi faire pendant le trajet.

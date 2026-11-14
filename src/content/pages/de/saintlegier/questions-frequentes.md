@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Saint-Légier"
 description: "Die Fragen, die unsere Kundschaft in Saint-Légier am häufigsten stellt: Online-Impfung, Tier abgeben, Preis einer Konsultation, rotes Auge, Hausbesuch."
 h1: "Ihre Fragen zur Praxis in Saint-Légier"
 recherche: "Fragen Tierarztpraxis Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 Am Telefon und am Schalter der Tierarztpraxis Vetmint Saint-Légier kehren manche Fragen immer wieder. Jede Antwort ist kurz und führt zur Seite, die das Detail nennt.

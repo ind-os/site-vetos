@@ -5,7 +5,6 @@ title: "Gesundheitsratgeber für Hund, Katze und Heimtiere | Vetmint"
 description: "Gesundheitsratgeber der Vetmint-Praxen für Hund, Katze, Kaninchen und Heimtiere: Krankheiten, Warnzeichen, Pflege zu Hause und wann Sie anrufen sollten."
 h1: "Gesundheitsratgeber"
 recherche: "Gesundheitsratgeber Tiere"
-redige_le: 2026-10-16
 ---
 
 Dieser Gesundheitsratgeber erklärt die Krankheiten und Behandlungen, denen die Tierärztinnen und Tierärzte von Vetmint bei Tieren am häufigsten begegnen: bei Hund, Katze, Kaninchen, Nagern und Vögeln. Er stützt sich auf die Artikel, die unsere Tierärztinnen und Tierärzte geschrieben haben.

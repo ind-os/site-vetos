@@ -5,7 +5,6 @@ title: "Übergewichtige Katze: erkennen und abnehmen lassen | Vetmint"
 description: "Übergewichtige Katze: erkennen, die Risiken für ihre Gesundheit, das richtige Futter und die Ration, das Tempo der Gewichtsabnahme und Bewegungsideen."
 h1: Übergewicht bei der Katze
 recherche: Katze Übergewicht
-redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
 resume: Eine zu dicke Katze lebt kürzer; das Abnehmen dauert Monate, in einem genauen Tempo.

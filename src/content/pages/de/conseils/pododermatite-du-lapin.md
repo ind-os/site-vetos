@@ -5,7 +5,6 @@ title: "Pododermatitis beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Pododermatitis beim Kaninchen: die Wunde unter den Pfoten, ihre Ursachen, wann Sie zur Tierärztin gehen und wie sie behandelt wird, vom Boden bis zum Verband."
 h1: "Die Pododermatitis beim Kaninchen"
 recherche: "Pododermatitis Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
 resume: "Eine Wunde unter den Pfoten des Kaninchens, die zuerst über Boden, Gewicht und Bewegung behandelt wird."

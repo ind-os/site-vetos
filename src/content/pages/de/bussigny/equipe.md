@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint Bussigny"
 description: "Zwei Tierärzte in Bussigny: Dr. Pascal Wicki, seit 2000 niedergelassen und für Komplementärmedizin gelistet, dann Dr. Philippe Boudaroua. Wen Sie sehen."
 h1: "Das Team von Vetmint Bussigny"
 recherche: "Tierärzteteam Bussigny"
-redige_le: 2026-11-13
 resume: "Zwei Tierärzte, Dr. Pascal Wicki und Dr. Philippe Boudaroua, Rue de l'Industrie 8, auf Französisch."
 ---
 

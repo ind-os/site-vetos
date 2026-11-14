@@ -6,7 +6,6 @@ title: "Tierärztlicher Notfall Lac-de-Joux: wen Sie wann anrufen"
 description: "Notfall in L'Abbaye: während der Öffnungszeiten 021 357 89 90, ausserhalb Médi-Vet unter 0900 022 022. Warnzeichen und hilfreiche Handgriffe für unterwegs."
 h1: "Tierärztlicher Notfall in L'Abbaye"
 recherche: "Notfall Tierarzt Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Bei einem tierärztlichen Notfall, mit der Praxis Vetmint Lac-de-Joux oder im Vallée de Joux, rufen Sie an, bevor Sie losfahren. Welche Nummer die richtige ist, hängt von der Uhrzeit ab. Am Telefon beurteilt das Team der Praxis oder der tierärztliche Notfalldienst die Lage und sagt Ihnen, was Sie auf der Fahrt tun sollen.

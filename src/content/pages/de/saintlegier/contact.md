@@ -6,7 +6,6 @@ title: "Kontakt und Anfahrt: Tierarzt Vetmint Saint-Légier"
 description: "Tierarztpraxis Vetmint Saint-Légier, Route des Deux-Villages 21. Telefon, WhatsApp, E-Mail, Öffnungszeiten, Haltestelle Saint-Légier-Gare. 021 683 10 10."
 h1: "So finden Sie uns in Saint-Légier"
 recherche: "Kontakt Tierarzt Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 Um die Tierarztpraxis Vetmint Saint-Légier zu kontaktieren, kommen Sie zur Route des Deux-Villages 21 in Saint-Légier-La Chiésaz. Während der Öffnungszeiten erreichen Sie uns am direktesten per Telefon. WhatsApp und E-Mail eignen sich für eine Frage, die warten kann.

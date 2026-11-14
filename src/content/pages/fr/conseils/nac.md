@@ -5,7 +5,6 @@ title: "Conseils santé pour le lapin et les NAC | Vetmint"
 description: "Conseils santé pour le lapin, le cochon d'Inde, le rat et l'oiseau : alimentation, dents, oreilles, vaccin, stérilisation et signes qui imposent d'appeler."
 h1: Conseils santé pour le lapin et les NAC
 recherche: conseils santé lapin NAC
-redige_le: 2026-10-16
 especes: [nac]
 ---
 

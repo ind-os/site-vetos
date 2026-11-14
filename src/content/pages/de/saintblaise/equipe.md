@@ -6,7 +6,6 @@ title: Das Tierärzteteam von Vetmint Saint-Blaise
 description: "Dr. Philippe Boudaroua, Tierarzt, und Laura Franchini, Tierarztassistentin, empfangen Hunde, Katzen und Heimtiere in Saint-Blaise. Wen Sie dort treffen."
 h1: Das Team von Vetmint Saint-Blaise
 recherche: Tierärzteteam Saint-Blaise
-redige_le: 2026-11-14
 resume: Zwei Tierärzte und eine Tierarztassistentin, Rue des Bourguillards 11, auf Französisch.
 ---
 

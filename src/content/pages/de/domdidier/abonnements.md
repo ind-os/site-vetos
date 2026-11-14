@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Präventionsplan in Domdidier"
 description: "In Domdidier kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr: Impfungen, Entwurmungen, Mikrochip. Abonnemente ab {prix:abonnement-adulte-chien} pro Monat."
 h1: Präventionsplan und Abonnemente in Domdidier
 recherche: Tierarzt Abonnement Domdidier
-redige_le: 2026-11-13
 ---
 
 In der Praxis Domdidier lässt sich die Vorsorge Ihres Tieres auf zwei Arten im Voraus bezahlen: mit einem monatlichen tierärztlichen Abonnement oder mit einem Präventionsplan. Der Plan bezahlt in einem Mal die ersten zwölf Monate eines Jungtieres. Das Abonnement begleitet Ihren Hund oder Ihre Katze in jedem Alter und verteilt die üblichen Behandlungen auf zwölf Monatsraten.

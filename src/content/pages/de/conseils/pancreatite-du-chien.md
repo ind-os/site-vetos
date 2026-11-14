@@ -5,7 +5,6 @@ title: "Pankreatitis beim Hund: Anzeichen und Therapie | Vetmint"
 description: "Pankreatitis beim Hund: Erbrechen, schmerzhafter Bauch, Mattigkeit. Wann Sie anrufen sollten, die Untersuchungen, die Infusion und fettarme Mahlzeiten danach."
 h1: Pankreatitis beim Hund
 recherche: Pankreatitis Hund
-redige_le: 2026-10-16
 especes: [chien]
 ordre: 7
 resume: Ein Hund, der erbricht, Bauchschmerzen hat und nicht frisst, kann eine Pankreatitis haben, die rasch behandelt werden muss.

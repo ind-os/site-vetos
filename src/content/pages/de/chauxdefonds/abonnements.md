@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement in La Chaux-de-Fonds | Vetmint"
 description: "In La Chaux-de-Fonds kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr. Monatliche Abonnemente ab {prix:abonnement-adulte-chien} für einen erwachsenen Hund."
 h1: Präventionsplan und Abonnemente in La Chaux-de-Fonds
 recherche: Tierarzt Abonnement La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Für ein tierärztliches Abonnement in La Chaux-de-Fonds bietet die Praxis Vetmint an der Avenue Léopold-Robert zwei Formeln an, die die Vorsorge im Voraus bezahlen. Der Präventionsplan deckt mit einer einzigen Zahlung das erste Jahr eines Welpen oder Kätzchens. Das monatliche Abonnement begleitet einen Hund oder eine Katze in jedem Alter, mit einem festen Preis pro Monat.

@@ -6,7 +6,6 @@ title: "Tierarztpreise in Saint-Légier: Impfungen, Operationen"
 description: "Preise der Praxis Vetmint Saint-Légier: Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Kastrationen, Zahnstein, Laser. Was jeder Preis umfasst."
 h1: "Die Preise der Tierarztpraxis Vetmint Saint-Légier"
 recherche: "Tierarztpreise Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 Diese Seite veröffentlicht den Tarif der Praxis Vetmint Saint-Légier, Leistung für Leistung, mit dem Inhalt jedes Preises. Die Konsultation von 30 Minuten kostet {prix:consultation}. Kastrationen, Sterilisationen und die Zahnsteinentfernung sind Pauschalen: Narkose und Schmerzbehandlung sind darin enthalten.

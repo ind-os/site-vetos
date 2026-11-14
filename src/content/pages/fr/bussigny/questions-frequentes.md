@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Vetmint Bussigny"
 description: "Les questions que nos clients de Bussigny posent le plus : voir le Dr Wicki, le samedi, médecines complémentaires, prix, parking. Les réponses du cabinet."
 h1: Vos questions sur le cabinet de Bussigny
 recherche: questions cabinet vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 Les clients du cabinet vétérinaire Vetmint Bussigny posent souvent ces questions au téléphone et au comptoir. Chaque réponse mène à la page qui donne le détail.

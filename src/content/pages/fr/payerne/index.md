@@ -6,7 +6,6 @@ title: "Vétérinaire à Payerne : cabinet Vetmint Payerne"
 description: "Cabinet vétérinaire à Payerne pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
 h1: Cabinet vétérinaire Vetmint Payerne
 recherche: vétérinaire Payerne
-redige_le: 2026-10-16
 resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minutes sur rendez-vous.
 ---
 

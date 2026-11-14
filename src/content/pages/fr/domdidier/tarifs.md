@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Domdidier : vaccins et opérations"
 description: "Prix du cabinet Vetmint Domdidier : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que chaque prix comprend."
 h1: Les tarifs du cabinet Vetmint Domdidier
 recherche: tarif vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 Le tarif vétérinaire de Domdidier est public : chaque prix du cabinet figure avec ce qu'il comprend. La consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage sont des forfaits qui incluent l'anesthésie et le traitement de la douleur.

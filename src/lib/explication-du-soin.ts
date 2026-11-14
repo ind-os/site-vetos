@@ -5,7 +5,7 @@
 // elle reste propre au cabinet pour les moteurs de recherche.
 
 import type { Langue } from '../config.ts';
-import { pointerVersLesSitesActuels, type Clinique } from './cliniques.ts';
+import type { Clinique } from './cliniques.ts';
 import { sections } from './html.ts';
 
 /** Un paragraphe qui ne contient qu'un bouton : l'appel à l'action du chapeau. */
@@ -43,8 +43,7 @@ export function texteComplet(html: string, adresseDesCabinets: string, cliniques
       return partie.entete + sousSections.introduction + sousGardees.map((s) => s.entete + s.contenu).join('');
     });
   const texte = [...debut, ...gardees].join('\n');
-  const descendu = texte.replace(/<(\/?)h3(\s|>)/g, '<$1h4$2').replace(/<(\/?)h2(\s|>)/g, '<$1h3$2');
-  return pointerVersLesSitesActuels(descendu, cliniques);
+  return texte.replace(/<(\/?)h3(\s|>)/g, '<$1h4$2').replace(/<(\/?)h2(\s|>)/g, '<$1h3$2');
 }
 
 /** L'adresse du texte complet d'un service : /textes-des-soins/fr/radiographie.html. */

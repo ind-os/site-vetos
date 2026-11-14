@@ -5,7 +5,6 @@ title: "Gesundheitsratgeber für den Hund | Vetmint"
 description: "Gesundheitsratgeber für den Hund: Diabetes, Pankreatitis, Blutuntersuchung. Warnzeichen, wann Sie anrufen sollten, und die Vorsorge, die jedes Jahr ansteht."
 h1: "Gesundheitsratgeber für den Hund"
 recherche: "Gesundheitsratgeber Hund"
-redige_le: 2026-10-16
 especes: [chien]
 ---
 

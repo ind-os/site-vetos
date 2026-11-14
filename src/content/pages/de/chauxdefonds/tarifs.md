@@ -6,7 +6,6 @@ title: "Tierarztpreise in La Chaux-de-Fonds: Impfungen, Operationen"
 description: "Preise der Praxis Vetmint La Chaux-de-Fonds: Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Kastrationen, Zähne, Notfälle. Was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint La Chaux-de-Fonds
 recherche: Tierarztpreise La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Die Tierarztpreise von La Chaux-de-Fonds sind Zeile für Zeile veröffentlicht, so wie die Praxis Vetmint an der Avenue Léopold-Robert 12 sie anwendet. Rechnen Sie mit {prix:consultation} für 30 Minuten Konsultation. Eine Katze operieren, einen Rüden kastrieren oder Zahnstein entfernen kostet eine Pauschale, mit Narkose und Schmerzbehandlung.

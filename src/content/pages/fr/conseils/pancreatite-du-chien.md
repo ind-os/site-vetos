@@ -5,7 +5,6 @@ title: "Pancréatite chez le chien : signes et traitement | Vetmint"
 description: "Pancréatite du chien : vomissements, ventre douloureux, abattement. Quand appeler, les examens, la perfusion et les repas pauvres en graisses à donner ensuite."
 h1: Pancréatite chez le chien
 recherche: pancréatite chien
-redige_le: 2026-10-16
 especes: [chien]
 ordre: 7
 resume: Un chien qui vomit, souffre du ventre et refuse de manger peut faire une pancréatite, à soigner vite.

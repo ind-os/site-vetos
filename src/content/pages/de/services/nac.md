@@ -8,7 +8,6 @@ nom: Erweiterte Heimtiermedizin
 en_phrase: "die erweiterte Heimtiermedizin"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} behandelt Heimtiere: Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Ein in erweiterter Heimtiermedizin und -chirurgie ausgebildeter Tierarzt übernimmt dort die schwierigen Fälle, die ihm die anderen Vetmint-Praxen überweisen."
 recherche: Tierarzt Heimtiere
-redige_le: 2026-11-10
 ordre: 11
 especes: [nac]
 resume: Alle Heimtiere in allen acht Praxen, komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.

@@ -5,7 +5,6 @@ title: "Ratte als Heimtier: Käfig, Ernährung, Pflege | Vetmint"
 description: "Die Ratte als Heimtier: Leben in der Gruppe, Voliere, Alleinfutter, Sterilisation, Besuche je nach Alter und die Anzeichen, die einen Tierarztbesuch verlangen."
 h1: "Die Ratte als Heimtier"
 recherche: "Ratte als Heimtier"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 3
 resume: "Leben mit Ratten: Gruppe, Käfig, Ration, Sterilisation, Besuche je nach Alter und Warnzeichen."

@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : cabinet vétérinaire Vetmint Payerne"
 description: "Rendez-vous au cabinet Vetmint Payerne : en ligne, par téléphone au 026 660 16 16, sur WhatsApp ou sur place. Consultation de 30 minutes. Quoi apporter."
 h1: Prendre rendez-vous à Payerne
 recherche: rendez-vous vétérinaire Payerne
-redige_le: 2026-10-16
 ---
 
 Votre rendez-vous vétérinaire à Payerne se prend en ligne, juste en dessous, à toute heure. Vous pouvez aussi appeler le [026 660 16 16](tel:+41266601616) pendant les heures d'ouverture, écrire sur WhatsApp au même numéro ou passer au comptoir de la route du Châtelard 13.

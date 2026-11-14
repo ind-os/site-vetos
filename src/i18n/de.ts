@@ -102,7 +102,6 @@ export const de: Catalogue = {
     adresse: 'Adresse',
     services: 'Die Leistungen der Praxis',
     voirLaClinique: 'Zur Praxis',
-    siteActuel: 'Website der Praxis',
     equipe: 'Das Team',
     touteLEquipe: 'Das ganze Team',
     langues: (liste: string) => `Sprachen: ${liste}`,

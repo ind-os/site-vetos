@@ -5,7 +5,6 @@ title: "Kastration beim Kaninchen: Alter, Operation, Preis | Vetmint"
 description: "Häsin sterilisieren oder Rammler kastrieren: in welchem Alter, was die Operation verhindert, warum nie nüchtern gesetzt wird, die Zeit danach und die Preise."
 h1: "Kastration und Sterilisation beim Kaninchen"
 recherche: "Kastration Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 10
 resume: "Häsin sterilisieren oder Rammler kastrieren: Alter, Nutzen, Vorbereitung ohne Nüchternheit, Zeit danach und Preise."

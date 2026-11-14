@@ -5,7 +5,6 @@ title: "Otite chez le lapin : signes, causes, traitement | Vetmint"
 description: "Otite chez le lapin : les signes à repérer, pourquoi les lapins béliers sont plus touchés, les examens, le traitement selon l'oreille atteinte et la prévention."
 h1: Otite chez le lapin
 recherche: otite lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 12
 resume: "Otite du lapin : signes, causes, examens, traitement selon la partie de l'oreille touchée et prévention."

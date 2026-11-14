@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Fribourg Ouest : vaccins, opérations"
 description: "Prix du cabinet Vetmint Fribourg Ouest : consultation de 30 minutes à {prix:consultation}, NAC, vaccins, opérations, détartrage, urgences. Ce que comprend chaque prix."
 h1: Les tarifs du cabinet Vetmint Fribourg Ouest
 recherche: tarif vétérinaire Fribourg Ouest
-redige_le: 2026-11-13
 ---
 
 Le tarif vétérinaire du cabinet Vetmint Fribourg Ouest est publié ici prestation par prestation, avec ce que comprend chaque montant. À Givisiez, la consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage sont des forfaits, anesthésie comprise.

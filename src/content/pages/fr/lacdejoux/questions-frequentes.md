@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet Vetmint Lac-de-Joux"
 description: "Les questions que nos clients de la vallée de Joux posent le plus : dépose d'un animal pour la journée, visites à domicile, prix, urgences, venir en bus."
 h1: Vos questions sur le cabinet de L'Abbaye
 recherche: questions cabinet vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Au téléphone comme au comptoir, les clients de la vallée de Joux posent souvent les mêmes questions à l'équipe de L'Abbaye. Vous trouverez ici les réponses du cabinet vétérinaire Vetmint Lac-de-Joux, avec le lien vers la page qui détaille chaque sujet.

@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : cabinet vétérinaire Saint-Blaise"
 description: "Rendez-vous au cabinet Vetmint Saint-Blaise : en ligne à toute heure, au 032 753 11 22 ou au comptoir. Consultation de 30 minutes. Ce qu'il faut apporter."
 h1: Prendre rendez-vous à Saint-Blaise
 recherche: rendez-vous vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Votre rendez-vous vétérinaire à Saint-Blaise se réserve en ligne, à toute heure, dans l'agenda du cabinet. Vous pouvez aussi appeler le [032 753 11 22](tel:+41327531122) pendant les heures d'ouverture. Au comptoir de la rue des Bourguillards 11, vous fixez le prochain rappel en sortant de consultation. Le cabinet n'a pas de WhatsApp.

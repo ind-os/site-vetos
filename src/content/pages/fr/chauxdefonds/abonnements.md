@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et prévention à La Chaux-de-Fonds"
 description: "À La Chaux-de-Fonds, le plan de prévention du chiot ou du chaton coûte {prix:plan-prevention} pour un an. Abonnements mensuels dès {prix:abonnement-adulte-chien} pour un chien adulte."
 h1: Plan de prévention et abonnements à La Chaux-de-Fonds
 recherche: abonnement vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Pour un abonnement vétérinaire à La Chaux-de-Fonds, le cabinet Vetmint de l'avenue Léopold-Robert propose deux formules qui paient la prévention d'avance. Le plan de prévention couvre d'un seul paiement la première année d'un chiot ou d'un chaton. L'abonnement mensuel suit un chien ou un chat à tout âge, avec un prix fixe chaque mois.

@@ -6,7 +6,6 @@ title: "Tierarztpreise Lac-de-Joux: Impfungen, Operationen"
 description: "Preise der Praxis Vetmint Lac-de-Joux: Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Sterilisationen, Zahnstein, Notfälle. Mit Inhalt jedes Preises."
 h1: "Die Preise der Praxis Vetmint Lac-de-Joux"
 recherche: "Tierarztpreise Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Die Preise der Tierarztpraxis Vetmint Lac-de-Joux in L'Abbaye sind öffentlich: Jeder Preis steht mit seinem Inhalt da. Eine Konsultation von 30 Minuten kostet {prix:consultation}. Kastrationen, Sterilisationen und die Zahnsteinentfernung werden als Pauschale verrechnet: Narkose und Schmerzbehandlung sind inbegriffen.

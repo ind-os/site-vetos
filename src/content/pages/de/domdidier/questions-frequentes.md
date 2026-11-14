@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Domdidier"
 description: "Die Fragen, die unsere Kundschaft in Domdidier am häufigsten stellt: nach der Arbeit kommen, Preis einer Konsultation, Kaninchen, Laser, Parkplatz, Notfall."
 h1: "Ihre Fragen zur Praxis in Domdidier"
 recherche: "Fragen Tierarztpraxis Domdidier"
-redige_le: 2026-11-13
 ---
 
 Am Telefon wie am Empfang der Tierarztpraxis Vetmint Domdidier kommen bestimmte Fragen immer wieder. Jede Antwort ist kurz und führt zur Seite, die die Einzelheiten nennt.

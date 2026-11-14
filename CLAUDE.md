@@ -73,7 +73,7 @@ Chaque modification se fait dans les deux langues : le français d'abord, puis l
 - **Une photo nouvelle, remplacée ou retirée** : le fichier dans `src/assets/images/` et son entrée dans le catalogue (`docs/charte-graphique.md`, « Le catalogue des photos »).
 - **Une personne qui arrive ou qui part** : la fiche du cabinet et sa photo (`docs/fiche-du-cabinet.md`, « Les gestes courants »), puis la page Équipe dans les deux langues avec la skill `rediger-une-page`.
 - **Un service** : en plus ou en moins dans un cabinet, la liste `services` de sa fiche (`docs/fiche-du-cabinet.md`, « Les gestes courants ») ; sa page dans le cabinet se fabrique seule, avec ses prix et son explication (`docs/structure-des-pages.md`, « Un service dans le cabinet »). Son explication se corrige dans sa page commune, `services/<service>.md`, dans les deux langues, avec la skill `rediger-une-page` : la correction vaut pour tous les cabinets.
-- **Un cabinet nouveau** : sa fiche (`docs/fiche-du-cabinet.md`), sa grille des prix (`docs/grille-des-prix.md`) et ses photos, puis ses pages dans les deux langues, aux chemins de `docs/plan-des-pages.md` (« Les pages d'un cabinet »), sur le modèle de Payerne, avec la skill `rediger-une-page`. Quand ses pages sont écrites, `"en_ligne": true` dans sa fiche le publie.
+- **Un cabinet nouveau** : sa fiche (`docs/fiche-du-cabinet.md`), sa grille des prix (`docs/grille-des-prix.md`) et ses photos, puis ses pages dans les deux langues, aux chemins de `docs/plan-des-pages.md` (« Les pages d'un cabinet »), sur le modèle de Payerne, avec la skill `rediger-une-page`. Le cabinet paraît sur le site dès que sa fiche existe : `pnpm verifier` refuse la publication tant qu'une de ses pages manque.
 - **La mise en page ou un bloc** : la skill `modifier-la-mise-en-page`.
 
 Après chaque modification, vérifie la page en allemand, puis termine toujours sur la page en français, dans le navigateur à côté de la conversation, défilée jusqu'à l'endroit modifié. La personne ne doit jamais rester sur la page allemande. Le lien « DE » de l'en-tête passe d'une langue à l'autre.
@@ -100,8 +100,7 @@ Seulement quand la personne le demande (« publie »), après avoir vu la modifi
        gh run watch <numéro> --exit-status
 
 7. Vert : le site en ligne montre la modification. Son adresse : `gh variable get SITE_ADRESSE`. Donne-la à la personne.
-8. Si le journal dit « Rien n'est publié », le site n'est pas encore installé sur son serveur : dis-le à la personne. Rien n'est cassé.
-9. Rouge : lis ce qui a échoué, `gh run view <numéro> --log-failed`, et explique-le simplement.
+8. Rouge : lis ce qui a échoué, `gh run view <numéro> --log-failed`, et explique-le simplement.
    - Si la construction du site a échoué, la cause est la modification : corrige-la, vérifie-la en local, puis publie de nouveau.
    - Si l'attente du site en ligne a échoué, le site en ligne n'a pas repris la modification. Dis à la personne de prévenir la personne qui s'occupe de son serveur.
 

@@ -5,7 +5,6 @@ title: "Ohrenentzündung beim Kaninchen: Anzeichen, Pflege | Vetmint"
 description: "Ohrenentzündung beim Kaninchen: Anzeichen, warum Widderkaninchen häufiger betroffen sind, Untersuchungen, Behandlung je nach betroffenem Ohrteil und Vorsorge."
 h1: "Ohrenentzündung beim Kaninchen"
 recherche: "Ohrenentzündung Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 12
 resume: "Ohrenentzündung beim Kaninchen: Anzeichen, Ursachen, Untersuchungen, Behandlung je nach betroffenem Ohrteil und Vorsorge."

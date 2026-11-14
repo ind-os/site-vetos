@@ -5,7 +5,6 @@ title: "Emploi vétérinaire et AMV en Suisse romande | Vetmint"
 description: "Vetmint recrute des vétérinaires, des assistantes en médecine vétérinaire et des apprentis pour ses huit cabinets de Suisse romande. Postes et candidature."
 h1: Travailler chez Vetmint
 recherche: emploi vétérinaire Suisse romande
-redige_le: 2026-10-16
 ---
 
 Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est dirigé par des vétérinaires. Vous cherchez un emploi de vétérinaire ou d'assistante en médecine vétérinaire (AMV) en Suisse romande, ou une place d'apprentissage : nos cabinets recrutent.

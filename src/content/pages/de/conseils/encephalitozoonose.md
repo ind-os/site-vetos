@@ -5,7 +5,6 @@ title: "Encephalitozoonose beim Kaninchen: Anzeichen | Vetmint"
 description: "Encephalitozoonose beim Kaninchen: Schiefhaltung des Kopfes, Grauer Star, Nierenschäden. Übertragung des Parasiten, Bluttest, Behandlung und Aussichten."
 h1: Die Encephalitozoonose beim Kaninchen
 recherche: Encephalitozoonose Kaninchen
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 15
 resume: Ein häufiger, oft stiller Parasit beim Kaninchen, der Gehirn, Augen oder Nieren befallen kann.

@@ -21,12 +21,10 @@ export async function laClinique(id: string): Promise<Clinique> {
 }
 
 /**
- * Le lien vers une page d'une clinique : sa page sur ce site si elle est en ligne, sinon
- * le champ `adresse_hors_ligne` de sa fiche. `page` est la clé dans le dossier de la clinique : « index », « contact »,
+ * Le lien vers une page d'une clinique. `page` est la clé dans le dossier de la clinique : « index », « contact »,
  * « services/radiographie ».
  */
 export async function lienDeLaClinique(clinique: Clinique, langue: Langue, page = 'index'): Promise<string> {
-  if (!clinique.en_ligne) return clinique.adresse_hors_ligne;
   return adresse(langue, `${clinique.id}/${page}`);
 }
 
@@ -78,15 +76,3 @@ export async function servicesDeLaClinique(clinique: Clinique, langue: Langue): 
   return services.filter((s) => s !== undefined);
 }
 
-/**
- * Les liens d'un texte vers une clinique qui n'est pas encore en ligne mènent à l'adresse
- * `adresse_hors_ligne` de sa fiche.
- * Le texte garde l'adresse définitive (/bussigny/rendez-vous/) : le lien se rétablit seul le jour
- * où la clinique passe en ligne.
- */
-export function pointerVersLesSitesActuels(html: string, cliniques: Clinique[]): string {
-  return html.replace(/href="\/(?:de\/)?([a-z]+)\/[^"]*"/g, (lien, id: string) => {
-    const clinique = cliniques.find((c) => c.id === id);
-    return clinique && !clinique.en_ligne ? `href="${clinique.adresse_hors_ligne}"` : lien;
-  });
-}

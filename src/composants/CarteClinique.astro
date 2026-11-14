@@ -31,7 +31,7 @@ const lien = await lienDeLaClinique(clinique, langue);
   <p class="clinique__adresse">{adressePostale(clinique)}</p>
   <p><a class="clinique__telephone" href={lienTelephone(clinique.telephone.international)}>{clinique.telephone.affiche}</a></p>
   <BoutonRendezVous clinique={clinique} langue={langue} taille="petit" large />
-  {lienVersLaClinique && <a class="lien-fort" href={lien}>{clinique.en_ligne ? t.clinique.voirLaClinique : t.clinique.siteActuel}</a>}
+  {lienVersLaClinique && <a class="lien-fort" href={lien}>{t.clinique.voirLaClinique}</a>}
 </article>
 
 <style>

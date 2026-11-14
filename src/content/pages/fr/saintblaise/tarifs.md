@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Saint-Blaise : vaccins, opérations"
 description: "Prix du cabinet Vetmint Saint-Blaise : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint Saint-Blaise
 recherche: tarif vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Au cabinet Vetmint Saint-Blaise, le tarif vétérinaire est publié prix par prix, avec ce que chacun comprend. Une consultation de 30 minutes y coûte {prix:consultation}. Les stérilisations, les castrations, le détartrage et l'extraction de toutes les dents ont un forfait, anesthésie comprise.

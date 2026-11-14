@@ -6,7 +6,6 @@ title: "Kontakt, Anfahrt und Parkplatz: Tierarzt Vetmint Bussigny"
 description: "Tierarztpraxis Vetmint Bussigny, Rue de l'Industrie 8, neben der Migros. Parkplätze in der Nähe, Bahnhof 3 Minuten zu Fuss. 021 703 25 30. Westen von Lausanne."
 h1: "So finden Sie uns in Bussigny"
 recherche: "Kontakt Tierarzt Bussigny"
-redige_le: 2026-11-13
 ---
 
 Die Tierarztpraxis Vetmint Bussigny liegt im Erdgeschoss der Rue de l'Industrie 8, direkt neben der Migros. Für einen raschen Kontakt während der Öffnungszeiten ist das Telefon am einfachsten. Der Bahnhof Bussigny ist drei Minuten zu Fuss entfernt.

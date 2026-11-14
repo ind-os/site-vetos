@@ -8,7 +8,6 @@ nom: Endoskopie
 en_phrase: "die Endoskopie"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} führt Endoskopien bei Hunden und Katzen durch. Eine dünne, biegsame Kamera zeigt das Innere von Magen, Darm, Nase oder Bronchien, ohne den Bauch zu öffnen. Unter Vollnarkose kann die Tierärztin oder der Tierarzt dabei eine Probe entnehmen oder einen verschluckten Gegenstand entfernen."
 recherche: Endoskopie Hund Katze
-redige_le: 2026-11-10
 ordre: 7
 especes: [chien, chat, nac]
 resume: Eine feine Kamera, um Magen, Darm, Nase oder Bronchien zu betrachten und einen verschluckten Gegenstand ohne Operation zu entfernen.

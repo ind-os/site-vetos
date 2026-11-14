@@ -13,7 +13,6 @@ title: "Vétérinaire à Payerne : cabinet Vetmint Payerne"
 description: "Cabinet vétérinaire à Payerne pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, urgences, accès de plain-pied. 026 660 16 16."
 h1: Cabinet vétérinaire Vetmint Payerne
 recherche: vétérinaire Payerne
-redige_le: 2026-10-16
 resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minutes sur rendez-vous.
 ---
 ```
@@ -28,7 +27,6 @@ resume: Chiens, chats et NAC, route du Châtelard 13. Consultations de 30 minute
 | `h1` | s'il diffère du title | le titre de la page ; le corps n'a aucun titre de niveau 1 |
 | `nom` | services | le nom court, pour les pastilles et le fil d'Ariane : « Radiographie » |
 | `recherche` | toujours | l'expression visée par la page, une seule |
-| `redige_le` | toujours | date AAAA-MM-JJ |
 | `ordre` | facultatif | la position dans une liste (services, conseils) |
 | `resume` | facultatif | une phrase de 20 mots au plus, pour les cartes et l'accroche |
 | `especes` | service et conseil ; obligatoire sur une page `conseil-categorie`, dont il donne l'espèce | `[chien, chat, nac]` |
@@ -44,7 +42,7 @@ Une valeur qui contient « : » se met entre guillemets.
 - Le corps commence par le chapeau, un paragraphe un peu plus grand ; puis des sections `##` et des sous-sections `###`.
 - Un appel à l'action est un lien seul sur sa ligne : `[Prendre rendez-vous](/payerne/rendez-vous/)`. Il devient un bouton.
 - Une liste dont chaque point commence par un lien devient une liste de cartes : `- [Radiographie](/services/radiographie/) : os, poumons, ventre.`
-- Les liens vers le site sont relatifs et écrits avec l'adresse de la page dans la langue de la page : `/payerne/contact/`, `/de/payerne/kontakt/`. Un lien vers un cabinet pas encore en ligne garde son adresse définitive ([plan-des-pages.md](plan-des-pages.md)).
+- Les liens vers le site sont relatifs et écrits avec l'adresse de la page dans la langue de la page : `/payerne/contact/`, `/de/payerne/kontakt/`.
 - Téléphones : `[026 660 16 16](tel:+41266601616)`. E-mails : `[payerne@vetmint.ch](mailto:payerne@vetmint.ch)`.
 - Questions fréquentes : chaque question est un `###`, la réponse suit.
 - Tableaux Markdown pour les prix et les calendriers.

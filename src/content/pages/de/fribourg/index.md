@@ -6,7 +6,6 @@ title: "Tierarzt in Fribourg Ouest: Vetmint-Praxis in Givisiez"
 description: "Tierarztpraxis Vetmint in Givisiez für Hunde, Katzen und Heimtiere: erweiterte Heimtiermedizin, Knochenchirurgie. Konsultation von 30 Minuten. 026 466 84 84."
 h1: "Tierarztpraxis Vetmint Fribourg Ouest"
 recherche: "Tierarzt Fribourg Ouest"
-redige_le: 2026-11-13
 resume: "Hunde, Katzen und Heimtiere im 4. Stock der Route des Fluides 5 in Givisiez. Konsultationen von 30 Minuten nach Termin."
 ---
 

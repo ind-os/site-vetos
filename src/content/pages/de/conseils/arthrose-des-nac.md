@@ -5,7 +5,6 @@ title: "Arthrose bei Kaninchen und Heimtieren: Therapie | Vetmint"
 description: "Arthrose bei Kaninchen und Heimtieren: Steifheit, mangelnde Fellpflege, Springunlust. Anzeichen, Untersuchungen und Behandlung mit Pflege, Boden und Bewegung."
 h1: Arthrose bei Kaninchen und Heimtieren
 recherche: Arthrose Kaninchen
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 16
 resume: Der schmerzhafte Gelenkverschleiss bei Kaninchen und kleinen Säugetieren, der nicht heilt, sich aber lindern lässt.

@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Saint-Légier : vaccins, opérations"
 description: "Prix du cabinet Vetmint Saint-Légier : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, échographie, laser. Détail de chaque prix."
 h1: Les tarifs du cabinet Vetmint Saint-Légier
 recherche: tarif vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Cette page publie le tarif du cabinet Vetmint Saint-Légier, prestation par prestation, avec le contenu de chaque prix. La consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage sont des forfaits : l'anesthésie et le traitement de la douleur y figurent.

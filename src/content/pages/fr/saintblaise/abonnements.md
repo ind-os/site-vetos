@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention à Saint-Blaise"
 description: "À Saint-Blaise, le plan de prévention du chiot ou du chaton coûte {prix:plan-prevention} pour un an. Abonnements mensuels pour un chien ou un chat dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à Saint-Blaise
 recherche: abonnement vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Au cabinet de Saint-Blaise, un abonnement vétérinaire ou un plan de prévention règle d'avance la prévention de votre animal. Le plan couvre, pour un prix fixe, la première année d'un chiot ou d'un chaton. L'abonnement suit un chien ou un chat à chaque âge et étale ses soins de routine sur douze mensualités.

@@ -5,7 +5,6 @@ title: "Vetmint: acht Tierarztpraxen in der Westschweiz"
 description: "Acht Tierarztpraxen von Vetmint in Waadt, Freiburg und Neuenburg. Konsultationen von 30 Minuten, veröffentlichte Preise, Notfalldienst. Finden Sie Ihre Praxis."
 h1: Vetmint, Tierarztpraxen in der Westschweiz
 recherche: Tierarztpraxen Westschweiz
-redige_le: 2026-10-16
 ---
 
 Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, Freiburg und Neuenburg. Die Gruppe wird von Tierärztinnen und Tierärzten geführt und geleitet. Jede Praxis empfängt alle Heimtiere nach Terminvereinbarung: Hunde, Katzen, Kaninchen, Nager, Vögel und Reptilien. Die Praxen sind von Montag bis Freitag geöffnet. Einige empfangen auch am Samstagvormittag.

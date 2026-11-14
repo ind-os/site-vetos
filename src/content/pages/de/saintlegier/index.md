@@ -6,7 +6,6 @@ title: "Tierarzt in Saint-Légier: Praxis Vetmint Saint-Légier"
 description: "Tierarztpraxis in Saint-Légier für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten nach Termin, Impfungen online, Notfälle, Laser. 021 683 10 10."
 h1: "Tierarztpraxis Vetmint Saint-Légier"
 recherche: "Tierarzt Saint-Légier"
-redige_le: 2026-11-14
 resume: "Hunde, Katzen und Heimtiere, Route des Deux-Villages 21. Konsultationen von 30 Minuten nach Termin, Impfungen online buchbar."
 ---
 

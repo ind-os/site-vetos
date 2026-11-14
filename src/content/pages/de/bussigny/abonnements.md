@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Präventionsplan in Bussigny"
 description: "In Bussigny kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr, Konsultationen ohne Limite. Abonnemente ab {prix:abonnement-adulte-chien} pro Monat."
 h1: Präventionsplan und Abonnemente in Bussigny
 recherche: Tierarzt Abonnement Bussigny
-redige_le: 2026-11-13
 ---
 
 In der Praxis Vetmint Bussigny regeln zwei Formeln die Vorsorge Ihres Tieres im Voraus: der Präventionsplan und das monatliche tierärztliche Abonnement. Der Plan bezahlt in einem Mal das erste Jahr eines Welpen oder Kätzchens. Das Abonnement begleitet Ihren Hund oder Ihre Katze in jedem Alter und teilt den Preis der Routinebehandlungen in Monatsraten auf.

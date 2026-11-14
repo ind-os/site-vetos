@@ -6,7 +6,6 @@ title: "Services vétérinaires à Domdidier | Vetmint"
 description: "Services vétérinaires à Domdidier pour chiens, chats et NAC : consultation de 30 minutes à {prix:consultation}, chirurgie, dents, échographie et thérapie laser."
 h1: Les services à Domdidier
 recherche: services vétérinaires Domdidier
-redige_le: 2026-11-13
 ---
 
 Les services vétérinaires du cabinet Vetmint Domdidier se font au 58 de la route de Saint-Aubin, sauf les visites à domicile. Chaque soin a sa page : qui le pratique, comment il se déroule et son prix à Domdidier.

@@ -32,7 +32,7 @@ Un fait qui manque ne s'invente pas (charte, section 4). Ne s'inventent jamais :
 2. Le corps, section par section, dans l'ordre du plan du type et sur le modèle de la page choisie. Le H1 n'est pas dans le corps.
 3. Les horaires et le numéro de garde dans leur bloc de données, chaque prix par son jeton `{prix:<cle>}` : jamais écrits à la main.
 4. Les liens vers les pages liées (rendez-vous, tarifs, page commune du service) ; les téléphones en `tel:+41…`.
-5. Relis une fois contre la voix de la charte : phrases courtes, aucun slogan, aucun adjectif de valeur, aucun tiret d'incise, aucun point d'exclamation. Chaque lieu Vetmint est un « cabinet », jamais une « clinique » (charte, 2.4), même quand la source dit « clinique ».
+5. Relis une fois contre la voix de la charte : phrases courtes, aucun slogan, aucun adjectif de valeur, aucun tiret d'incise, aucun point d'exclamation. Chaque lieu Vetmint est un « cabinet », jamais une « clinique » (charte, 2.4), même quand la demande dit « clinique ».
 
 Pour une page commune de service, son premier paragraphe s'affiche seul sur la page du soin dans chaque cabinet, et le reste du texte s'y déplie au clic. Ce premier paragraphe se lit sans la suite et reste vrai pour chaque cabinet.
 

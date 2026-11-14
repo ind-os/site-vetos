@@ -6,7 +6,6 @@ title: "Vétérinaire à Saint-Légier : cabinet Vetmint Saint-Légier"
 description: "Cabinet vétérinaire à Saint-Légier pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, vaccins en ligne, urgences, laser. 021 683 10 10."
 h1: Cabinet vétérinaire Vetmint Saint-Légier
 recherche: vétérinaire Saint-Légier
-redige_le: 2026-11-14
 resume: Chiens, chats et NAC, route des Deux-Villages 21. Consultations de 30 minutes sur rendez-vous, vaccins réservés en ligne.
 ---
 

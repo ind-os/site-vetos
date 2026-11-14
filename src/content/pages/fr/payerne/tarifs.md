@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Payerne : vaccins, opérations, urgences"
 description: "Prix du cabinet Vetmint Payerne : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint Payerne
 recherche: tarif vétérinaire Payerne
-redige_le: 2026-11-03
 ---
 
 Le tarif vétérinaire du cabinet Vetmint Payerne est publié ligne par ligne, avec ce que chaque montant couvre. À la route du Châtelard 13, une consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage ont un prix forfaitaire, anesthésie incluse.

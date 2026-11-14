@@ -6,7 +6,6 @@ title: "Kontakt, Anfahrt und Parkplatz: Tierarzt Vetmint Payerne"
 description: "Tierarztpraxis Vetmint Payerne, Route du Châtelard 13. Gratis-Parkplätze vor der Tür, SBB-Bahnhof 20 Minuten zu Fuss. 026 660 16 16. Ganze Broye."
 h1: "So finden Sie uns in Payerne"
 recherche: "Kontakt Tierarzt Payerne"
-redige_le: 2026-10-16
 ---
 
 Die Tierarztpraxis Vetmint Payerne befindet sich an der Route du Châtelard 13 in Payerne. Für einen raschen Kontakt während der Öffnungszeiten ist das Telefon am einfachsten. Ein Parkplatz direkt vor der Eingangstür erspart Ihnen lange Wege mit einem schweren Tier.

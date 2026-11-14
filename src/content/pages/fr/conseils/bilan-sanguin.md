@@ -5,7 +5,6 @@ title: "Bilan sanguin du chien et du chat : à quoi sert-il | Vetmint"
 description: "Bilan sanguin du chien, du chat ou du lapin : avant une anesthésie, pour un animal malade, âgé ou d'une race à risque. Ce qu'il mesure, comment il se passe."
 h1: "Bilan sanguin : à quoi sert une prise de sang"
 recherche: bilan sanguin chien chat
-redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 5
 resume: Avant une opération, pour un animal malade ou âgé, la prise de sang montre ce que l'examen ne voit pas.

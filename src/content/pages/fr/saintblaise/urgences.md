@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à Saint-Blaise : qui appeler"
 description: "Urgence à Saint-Blaise : en journée, le cabinet au 032 753 11 22 ; le soir et le week-end, Vet'Urgences Neuchâtel, gratuit jusqu'à minuit. Les signes d'alerte."
 h1: Urgence vétérinaire à Saint-Blaise
 recherche: urgence vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Pour une urgence vétérinaire à Saint-Blaise, appelez avant de prendre la voiture. Un chien renversé sur la route. Un chat qui halète sous le toit en plein été. Un lapin qui ne touche plus à son foin. Dans chacun de ces cas, la personne qui décroche vous dit quoi faire pendant le trajet. Le cabinet et Vet'Urgences Neuchâtel partagent la même adresse, mais pas les mêmes horaires.

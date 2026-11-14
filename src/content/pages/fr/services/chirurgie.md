@@ -8,7 +8,6 @@ nom: Chirurgie
 en_phrase: "la chirurgie"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} opère tous vos animaux, chiens, chats ou NAC. Nous pratiquons les interventions de prévention, comme la castration, la stérilisation et le détartrage. Nous faisons aussi des opérations plus avancées, comme le retrait d'une grosseur ou une opération de l'intestin. Pour chaque opération, en plus du vétérinaire qui opère, une assistante surveille votre animal en continu, de l'endormissement au réveil."
 recherche: chirurgie vétérinaire
-redige_le: 2026-11-10
 ordre: 2
 especes: [chien, chat, nac]
 resume: La stérilisation, la castration et les opérations de la peau, du ventre et des organes.

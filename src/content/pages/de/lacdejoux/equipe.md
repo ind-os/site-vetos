@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint Lac-de-Joux"
 description: "Drei Tierärzte und eine Tierarztassistentin in L'Abbaye: Véronique Curchod, Laura Antoine, Dr. Philippe Boudaroua und Clémence Bruillard. Ihre Werdegänge."
 h1: "Das Team von Vetmint Lac-de-Joux"
 recherche: "Tierärzteteam Lac-de-Joux"
-redige_le: 2026-11-14
 resume: "Drei Tierärzte und eine Tierarztassistentin, Route de l'Hôtel-de-Ville 11 in L'Abbaye, auf Französisch."
 ---
 

@@ -1,7 +1,5 @@
 {
   "id": "bussigny",
-  "en_ligne": true,
-  "adresse_hors_ligne": "https://bussigny.vetmint.ch/",
   "nom": "Vetmint Bussigny",
   "lieu": "Bussigny",
   "canton": "VD",

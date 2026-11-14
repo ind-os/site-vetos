@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Praxis Vetmint Lac-de-Joux"
 description: "Termin in der Praxis Vetmint Lac-de-Joux: online, unter 021 357 89 90 oder am Empfang in L'Abbaye. Konsultation von 30 Minuten. Was Sie mitbringen müssen."
 h1: "Termin vereinbaren in L'Abbaye"
 recherche: "Termin Tierarzt Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Um eine Tierärztin oder einen Tierarzt der Praxis Vetmint Lac-de-Joux in L'Abbaye zu sehen, buchen Sie online. Das geht zu jeder Uhrzeit: Sie wählen den Grund, die Tierart und die Zeit, die Ihnen passt. Während der Öffnungszeiten antwortet auch die [021 357 89 90](tel:+41213578990). Der Empfang an der Route de l'Hôtel-de-Ville 11 nimmt Sie auf.

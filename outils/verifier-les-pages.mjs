@@ -437,7 +437,7 @@ function verifier(chemin, cliniques, grilles, seuil, mesurerDoublons) {
     erreur(`champ clinique absent ou inconnu : ${citer(clinique)} (attendu : ${[...cliniques.keys()].join(', ')})`);
   }
   if (!estClinique && clinique) alerte(`champ clinique renseigné (${clinique}) sur une page commune`);
-  for (const champ of ['url', 'title', 'description', 'recherche', 'redige_le']) {
+  for (const champ of ['url', 'title', 'description', 'recherche']) {
     if (!fm[champ]) erreur(`champ ${champ} absent du frontmatter`);
   }
 

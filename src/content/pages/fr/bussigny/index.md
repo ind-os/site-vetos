@@ -6,7 +6,6 @@ title: "Vétérinaire à Bussigny : cabinet Vetmint Bussigny"
 description: "Cabinet vétérinaire à Bussigny pour chiens, chats et NAC, à côté de la Migros. Consultation de 30 minutes sur rendez-vous, ouvert le samedi. 021 703 25 30."
 h1: Cabinet vétérinaire Vetmint Bussigny
 recherche: vétérinaire Bussigny
-redige_le: 2026-11-13
 resume: Chiens, chats et NAC, rue de l'Industrie 8, à côté de la Migros. Consultations de 30 minutes sur rendez-vous.
 ---
 

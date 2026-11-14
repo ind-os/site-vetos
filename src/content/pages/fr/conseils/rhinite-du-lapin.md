@@ -5,7 +5,6 @@ title: "Rhinite du lapin : signes, causes, traitement | Vetmint"
 description: "Rhinite du lapin : éternuements, nez qui coule, yeux qui pleurent. Ce qui l'entretient, quand consulter, examens et traitement. Par les vétérinaires Vetmint."
 h1: La rhinite chez le lapin
 recherche: rhinite lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 13
 resume: "Un lapin qui éternue et dont le nez coule a souvent une rhinite : prise tôt, elle se soigne mieux."

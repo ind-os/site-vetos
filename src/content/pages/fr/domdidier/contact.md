@@ -6,7 +6,6 @@ title: "Contact, accès et parking : vétérinaire Vetmint Domdidier"
 description: "Cabinet vétérinaire Vetmint Domdidier, route de Saint-Aubin 58. Deux places de parc devant la porte, gare à 10 minutes à pied. 026 675 38 88. Toute la Broye."
 h1: Nous trouver à Domdidier
 recherche: contact vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 Contact et accès du cabinet vétérinaire Vetmint Domdidier : il se trouve au 58 de la route de Saint-Aubin, au nord-ouest du centre du village. Pendant les heures d'ouverture, le plus rapide reste de téléphoner. Deux places de parc se trouvent juste devant la porte : avec un animal lourd, vous n'avez que quelques pas à faire.

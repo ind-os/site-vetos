@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Saint-Légier
 description: "Équipe vétérinaire de Saint-Légier : Romain Abos (yeux, dents, chats) et Louise Schneider (échographie), avec deux assistantes et une apprentie. Leurs parcours."
 h1: L'équipe de Vetmint Saint-Légier
 recherche: équipe vétérinaire Saint-Légier
-redige_le: 2026-11-14
 resume: Deux vétérinaires, deux assistantes et une apprentie, route des Deux-Villages 21.
 ---
 

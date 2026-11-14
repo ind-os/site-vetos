@@ -6,7 +6,6 @@ title: "Tierärztliche Leistungen in Bussigny | Vetmint"
 description: "Tierärztliche Leistungen in Bussigny für Hunde, Katzen und Heimtiere: Konsultation von 30 Minuten zu {prix:consultation}, Impfungen, Operationen, Zähne, Ultraschall."
 h1: Die Leistungen in Bussigny
 recherche: tierärztliche Leistungen Bussigny
-redige_le: 2026-11-13
 ---
 
 Die tierärztlichen Leistungen der Praxis Vetmint Bussigny finden alle im Erdgeschoss der Rue de l'Industrie 8 statt, neben der Migros. Jede Leistung hat ihre Seite: der Ablauf in Bussigny, wer sie übernimmt und ihr Preis.

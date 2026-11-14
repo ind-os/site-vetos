@@ -5,7 +5,6 @@ title: "Diabète chez le chien : signes, causes, traitement | Vetmint"
 description: "Diabète du chien : il boit beaucoup, urine plus et maigrit malgré son appétit. Races à risque, âge, signes d'urgence, insuline, alimentation et suivi."
 h1: Diabète chez le chien
 recherche: diabète chien
-redige_le: 2026-10-16
 especes: [chien]
 ordre: 6
 resume: Un chien qui boit beaucoup, urine plus et maigrit peut être diabétique, une maladie qui se soigne à vie.

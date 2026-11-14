@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : cabinet vétérinaire Vetmint Bussigny"
 description: "Rendez-vous au cabinet Vetmint Bussigny : en ligne, par téléphone au 021 703 25 30 ou au comptoir, le samedi aussi. Consultation de 30 minutes. Quoi apporter."
 h1: Prendre rendez-vous à Bussigny
 recherche: rendez-vous vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 Votre rendez-vous vétérinaire à Bussigny se prend en ligne, à toute heure, dans l'agenda du cabinet. Pendant les heures d'ouverture, vous pouvez aussi appeler le [021 703 25 30](tel:+41217032530) ou passer au comptoir de la rue de l'Industrie 8. En fin de consultation, l'équipe fixe avec vous le prochain rappel.

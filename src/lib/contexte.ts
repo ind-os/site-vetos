@@ -5,7 +5,7 @@
 import type { Langue } from '../config.ts';
 import { LANGUES } from '../config.ts';
 import { textes, type Catalogue } from '../i18n/index.ts';
-import { laClinique, lesCliniques, pointerVersLesSitesActuels, type Clinique } from './cliniques.ts';
+import { laClinique, lesCliniques, type Clinique } from './cliniques.ts';
 import { remplirLesDonnees } from './donnees-de-la-clinique.ts';
 import { laGrille } from './grilles.ts';
 import { remplacerLesPrixDuHtml } from './prix.ts';
@@ -93,8 +93,7 @@ export async function contexteDe(page: Page): Promise<Contexte> {
   const cliniques = await lesCliniques();
   const grille = clinique ? await laGrille(clinique.id) : undefined;
   const avecLesDonnees = remplirLesDonnees(page.rendered?.html ?? '', cliniques, langue, page.id, clinique?.id);
-  const avecLesPrix = grille ? remplacerLesPrixDuHtml(avecLesDonnees, grille.valeurs, langue) : avecLesDonnees;
-  const html = pointerVersLesSitesActuels(avecLesPrix, cliniques);
+  const html = grille ? remplacerLesPrixDuHtml(avecLesDonnees, grille.valeurs, langue) : avecLesDonnees;
   const adresses: Contexte['adresses'] = {};
   for (const l of LANGUES) {
     const traduction = await laPage(l, cleDe(page));

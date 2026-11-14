@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Lac-de-Joux
 description: "Trois vétérinaires et une assistante vétérinaire à L'Abbaye : Véronique Curchod, Laura Antoine, le Dr Philippe Boudaroua et Clémence Bruillard. Leurs parcours."
 h1: L'équipe de Vetmint Lac-de-Joux
 recherche: équipe vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 resume: Trois vétérinaires et une assistante vétérinaire, route de l'Hôtel-de-Ville 11 à L'Abbaye, en français.
 ---
 

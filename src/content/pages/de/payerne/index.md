@@ -6,7 +6,6 @@ title: "Tierarzt in Payerne: Tierarztpraxis Vetmint Payerne"
 description: "Tierarztpraxis in Payerne für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten nach Termin, Notfälle, ebenerdiger Zugang. 026 660 16 16."
 h1: "Tierarztpraxis Vetmint Payerne"
 recherche: "Tierarzt Payerne"
-redige_le: 2026-10-16
 resume: "Hunde, Katzen und Heimtiere, Route du Châtelard 13. Konsultationen von 30 Minuten nach Terminvereinbarung."
 ---
 

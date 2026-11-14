@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Vetmint Domdidier"
 description: "Les questions que nos clients de Domdidier posent le plus : venir après le travail, prix d'une consultation, lapins et rongeurs, laser, parking, garde de nuit."
 h1: Vos questions sur le cabinet de Domdidier
 recherche: questions cabinet vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 Au téléphone comme au comptoir du cabinet vétérinaire Vetmint Domdidier, certaines questions reviennent souvent. Chaque réponse tient en quelques lignes et mène à la page qui donne le détail.

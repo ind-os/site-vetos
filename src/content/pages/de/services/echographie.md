@@ -8,7 +8,6 @@ nom: Ultraschall
 en_phrase: "den Ultraschall"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} macht Ultraschalluntersuchungen bei Hunden und Katzen. Die Untersuchung zeigt Bauch, Herz oder eine Trächtigkeit in bewegten Bildern, ohne Röntgenstrahlen und schmerzfrei. Sie dauert 15 bis 25 Minuten, meist am wachen Tier."
 recherche: Ultraschall Hund Katze
-redige_le: 2026-11-10
 especes: [chien, chat]
 ordre: 6
 resume: Der Ultraschall von Bauch, Herz und Trächtigkeit, die Vorbereitung, die Dauer und die ausgestatteten Praxen.

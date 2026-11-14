@@ -5,7 +5,6 @@ title: "Tierärztliche Leistungen der Vetmint-Praxen"
 description: "Die Leistungen der acht Vetmint-Praxen für Hunde, Katzen und Heimtiere: Prävention, Chirurgie, Zähne, Bildgebung, Labor, Laser, Hausbesuche und Notfälle."
 h1: "Unsere tierärztlichen Leistungen"
 recherche: "tierärztliche Leistungen"
-redige_le: 2026-11-10
 ---
 
 Die tierärztlichen Leistungen der acht Vetmint-Praxen richten sich an Hunde, Katzen, Kaninchen, Nager und andere Heimtiere. Jede Behandlung hat ihre Referenzseite: wozu sie dient, wie sie abläuft und welche Praxen sie anbieten. Alles beginnt mit einer Konsultation von 30 Minuten, Zeit genug, um Ihr Tier vollständig zu untersuchen.

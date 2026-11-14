@@ -5,7 +5,6 @@ title: "Stérilisation du lapin : âge, opération, prix | Vetmint"
 description: "Stériliser sa lapine ou castrer son lapin : à quel âge, ce que l'opération évite, pourquoi il ne faut jamais le mettre à jeun, les suites et les prix."
 h1: Stérilisation et castration du lapin
 recherche: stérilisation lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 10
 resume: "Stériliser une lapine ou castrer un lapin : âge, bénéfices, préparation sans jeûne, suites et prix."

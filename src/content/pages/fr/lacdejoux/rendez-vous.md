@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : cabinet Vetmint Lac-de-Joux"
 description: "Rendez-vous au cabinet Vetmint Lac-de-Joux : en ligne, au 021 357 89 90 ou au comptoir, à L'Abbaye. Consultation de 30 minutes. Ce qu'il faut apporter."
 h1: Prendre rendez-vous à L'Abbaye
 recherche: rendez-vous vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Pour voir un vétérinaire du cabinet Vetmint Lac-de-Joux, à L'Abbaye, réservez en ligne, à toute heure : vous choisissez le motif, l'espèce de votre animal et l'heure qui vous arrange. Pendant les heures d'ouverture, le [021 357 89 90](tel:+41213578990) répond aussi. Le comptoir de la route de l'Hôtel-de-Ville 11 vous accueille.

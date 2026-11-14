@@ -117,7 +117,6 @@ export const fr = {
     adresse: 'Adresse',
     services: 'Les soins du cabinet',
     voirLaClinique: 'Voir le cabinet',
-    siteActuel: 'Site du cabinet',
     equipe: 'L’équipe',
     touteLEquipe: 'Toute l’équipe',
     langues: (liste: string) => `Langues\u00a0: ${liste}`,

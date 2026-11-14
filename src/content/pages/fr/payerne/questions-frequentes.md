@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Vetmint Payerne"
 description: "Les questions que nos clients de Payerne posent le plus : déposer son animal le matin, prix d'une consultation, visite à domicile. Les réponses de l'équipe."
 h1: Vos questions sur le cabinet de Payerne
 recherche: questions cabinet vétérinaire Payerne
-redige_le: 2026-10-16
 ---
 
 Ces questions sont celles que nos clients posent le plus souvent au téléphone et au comptoir du cabinet vétérinaire Vetmint Payerne. Chaque réponse renvoie à la page qui donne le détail.

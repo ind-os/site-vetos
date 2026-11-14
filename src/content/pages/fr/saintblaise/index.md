@@ -6,7 +6,6 @@ title: "Vétérinaire à Saint-Blaise : cabinet Vetmint Saint-Blaise"
 description: "Cabinet vétérinaire à Saint-Blaise pour chiens, chats et NAC. Consultation de 30 minutes sur rendez-vous, Vet'Urgences Neuchâtel sur place. 032 753 11 22."
 h1: Cabinet vétérinaire Vetmint Saint-Blaise
 recherche: vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 resume: Chiens, chats et NAC, rue des Bourguillards 11. Consultations de 30 minutes sur rendez-vous.
 ---
 

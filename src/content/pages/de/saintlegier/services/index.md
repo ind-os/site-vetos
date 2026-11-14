@@ -6,7 +6,6 @@ title: "Tierärztliche Leistungen in Saint-Légier | Vetmint"
 description: "Tierärztliche Leistungen in Saint-Légier: Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Chirurgie, Röntgen, Laser."
 h1: "Die Leistungen in Saint-Légier"
 recherche: "tierärztliche Leistungen Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 Die tierärztlichen Leistungen der Praxis Vetmint Saint-Légier, an der Route des Deux-Villages 21, umfassen neun Leistungsgruppen. Jede hat ihre eigene Seite: Dort lesen Sie, wie die Behandlung in Saint-Légier abläuft, welche Tierärzte sie durchführen und was sie vor Ort kostet.

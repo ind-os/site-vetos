@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : vétérinaire à La Chaux-de-Fonds"
 description: "Rendez-vous au cabinet Vetmint La Chaux-de-Fonds : en ligne, au 032 914 03 48 ou à l'accueil. Consultation ou bilan de 30 minutes. Ce qu'il faut apporter."
 h1: Prendre rendez-vous à La Chaux-de-Fonds
 recherche: rendez-vous vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Un rendez-vous vétérinaire à La Chaux-de-Fonds se réserve en ligne, juste en dessous, à toute heure. Pendant les heures d'ouverture, vous pouvez aussi appeler le [032 914 03 48](tel:+41329140348) ou passer à l'accueil de l'avenue Léopold-Robert 12. Chaque consultation dure 30 minutes.

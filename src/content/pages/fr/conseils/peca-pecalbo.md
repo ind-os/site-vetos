@@ -5,7 +5,6 @@ title: "PECA et PECALBO : opération de l'otite du lapin | Vetmint"
 description: "PECA et PECALBO, l'opération de l'otite sévère du lapin : ce qui est retiré, l'hospitalisation, les soins de l'oreille à la maison, les complications possibles."
 h1: "Fiche de consultation : PECA et PECALBO"
 recherche: opération otite lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 21
 resume: L'opération de l'otite sévère du lapin, l'hospitalisation qui suit et les soins de l'oreille à faire chez vous.

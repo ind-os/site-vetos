@@ -8,7 +8,6 @@ nom: Médecine avancée des NAC
 en_phrase: "la médecine avancée des NAC"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} soigne les nouveaux animaux de compagnie : lapins, cochons d'Inde, rats, hamsters, chinchillas, furets, oiseaux et reptiles. Un vétérinaire formé en médecine et en chirurgie avancées des NAC y reçoit les cas difficiles que lui adressent les autres cabinets Vetmint."
 recherche: vétérinaire NAC
-redige_le: 2026-11-10
 ordre: 11
 especes: [nac]
 resume: Tous les NAC dans les huit cabinets, et les cas complexes chez le vétérinaire NAC de Fribourg Ouest.

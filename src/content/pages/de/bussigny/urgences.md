@@ -6,7 +6,6 @@ title: "Notfall beim Tier in Bussigny: wen Sie wann anrufen"
 description: "Notfall in Bussigny: während der Öffnungszeiten 021 703 25 30; am Abend, in der Nacht und am Sonntag 0900 80 70 60. Warnzeichen und erste Schritte."
 h1: "Tierärztlicher Notfall in Bussigny"
 recherche: "Notfall Tierarzt Bussigny"
-redige_le: 2026-11-13
 ---
 
 Bei einem tierärztlichen Notfall in Bussigny rufen Sie an, bevor Sie losfahren. Ihr Tier ist verletzt, atmet schlecht oder verhält sich nicht mehr wie gewohnt: Am Telefon sagt man Ihnen, was Sie auf der Fahrt tun sollen und wohin Sie fahren. Welche Nummer Sie wählen, hängt von der Uhrzeit ab.

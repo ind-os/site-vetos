@@ -6,7 +6,6 @@ title: "Vétérinaire à Domdidier : cabinet Vetmint Domdidier"
 description: "Cabinet vétérinaire à Domdidier pour chiens, chats et NAC. Consultation de 30 minutes, laser, échographie, parc devant la porte. 026 675 38 88."
 h1: Cabinet vétérinaire Vetmint Domdidier
 recherche: vétérinaire Domdidier
-redige_le: 2026-11-13
 resume: Chiens, chats et NAC, route de Saint-Aubin 58. Trois vétérinaires, consultations de 30 minutes sur rendez-vous.
 ---
 

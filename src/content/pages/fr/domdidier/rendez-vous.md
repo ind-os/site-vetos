@@ -6,7 +6,6 @@ title: "Prendre rendez-vous : cabinet vétérinaire Vetmint Domdidier"
 description: "Rendez-vous au cabinet Vetmint Domdidier : en ligne, au 026 675 38 88, par WhatsApp ou au comptoir. Consultation de 30 minutes. Ce qu'il faut apporter."
 h1: Prendre rendez-vous à Domdidier
 recherche: rendez-vous vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 Un rendez-vous vétérinaire à Domdidier se réserve en ligne, à toute heure, dans l'agenda du cabinet. Pendant les heures d'ouverture, vous pouvez aussi appeler le [026 675 38 88](tel:+41266753888), envoyer un message WhatsApp au même numéro ou passer au comptoir de la route de Saint-Aubin 58.

@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Saint-Blaise
 description: "Le Dr Philippe Boudaroua, vétérinaire, avec Laura Franchini, assistante vétérinaire, reçoit chiens, chats et tous les NAC à Saint-Blaise. Qui voir au cabinet."
 h1: L'équipe de Vetmint Saint-Blaise
 recherche: équipe vétérinaire Saint-Blaise
-redige_le: 2026-11-14
 resume: Deux vétérinaires et une assistante vétérinaire, rue des Bourguillards 11, en français.
 ---
 

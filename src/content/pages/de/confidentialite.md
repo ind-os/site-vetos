@@ -5,7 +5,6 @@ title: "Datenschutzerklärung der Vetmint-Website"
 description: "Welche Daten die Vetmint-Website verarbeitet, warum, wo sie gespeichert sind und wie lange: Termine, E-Mails, Besucherstatistik und welche Rechte Sie haben."
 h1: "Datenschutzerklärung"
 recherche: "Datenschutzerklärung Vetmint"
-redige_le: 2026-10-16
 ---
 
 Vetmint verarbeitet auf vetmint.ch wenig personenbezogene Daten. Die Seiten sind statisch: Sie werden ohne Konto, ohne Anmeldung und ohne Werbe-Cookie angezeigt. Personenbezogene Daten gelangen auf zwei Wegen zu uns: über das Terminmodul und über E-Mails, die Sie uns senden. Unsere Datenschutzerklärung beschreibt diese Verarbeitungen nach dem Bundesgesetz über den Datenschutz (DSG).

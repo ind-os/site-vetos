@@ -6,7 +6,6 @@ title: "Notfall beim Tier in La Chaux-de-Fonds: wen anrufen"
 description: "Notfall in La Chaux-de-Fonds: tagsüber die Praxis, 032 914 03 48; am Abend Vet'Urgences Neuchâtel; nach Mitternacht die 0900 901 902. Warnzeichen und Hilfe."
 h1: "Tierärztlicher Notfall in La Chaux-de-Fonds"
 recherche: "Notfall Tierarzt La Chaux-de-Fonds"
-redige_le: 2026-11-14
 ---
 
 Bei einem tierärztlichen Notfall in La Chaux-de-Fonds rufen Sie an, bevor Sie losfahren. Die richtige Nummer hängt von der Uhrzeit ab. Am Telefon sagt Ihnen ein Tierarzt oder eine Assistentin, ob Ihr Tier sofort kommen muss und was Sie unterwegs tun sollen.

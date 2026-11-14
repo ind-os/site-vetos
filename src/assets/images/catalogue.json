@@ -9,8 +9,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.4
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR-Femme_chat-HR_crop-scaled.jpg"
+    }
   },
   {
     "fichier": "accueil-veterinaire-carlin.jpg",
@@ -22,8 +21,7 @@
     "point_focal": {
       "x": 0.47,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR_inside-vieux-veto-scaled.jpeg"
+    }
   },
   {
     "fichier": "accueil-veterinaire-chat-persan.jpg",
@@ -35,8 +33,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_107432576-scaled.jpeg"
+    }
   },
   {
     "fichier": "espece-chien-croise.jpg",
@@ -48,8 +45,7 @@
     "point_focal": {
       "x": 0.57,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2022/01/vet-12.jpg"
+    }
   },
   {
     "fichier": "espece-chat-chaton-tigre.jpg",
@@ -61,8 +57,7 @@
     "point_focal": {
       "x": 0.3,
       "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Chatton_soins-domicile.jpg"
+    }
   },
   {
     "fichier": "espece-chat-chaton-clair.jpg",
@@ -74,8 +69,7 @@
     "point_focal": {
       "x": 0.68,
       "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/09/chats.jpeg"
+    }
   },
   {
     "fichier": "espece-nac-lapin-gris.jpg",
@@ -87,8 +81,7 @@
     "point_focal": {
       "x": 0.42,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/09/lapin.jpeg"
+    }
   },
   {
     "fichier": "conseil-troubles-de-la-ponte.jpg",
@@ -100,8 +93,7 @@
     "point_focal": {
       "x": 0.65,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Poule.webp"
+    }
   },
   {
     "fichier": "service-consultation-examen-oreille.jpg",
@@ -113,8 +105,7 @@
     "point_focal": {
       "x": 0.56,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme.jpg"
+    }
   },
   {
     "fichier": "service-chirurgie-intervention.jpg",
@@ -126,8 +117,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.55
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/04/Alex_intervention-scaled.jpg"
+    }
   },
   {
     "fichier": "service-soins-dentaires-chien.jpg",
@@ -139,8 +129,7 @@
     "point_focal": {
       "x": 0.64,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/08/soins-dentaires-chien.webp"
+    }
   },
   {
     "fichier": "service-analyses-laboratoire.jpg",
@@ -152,8 +141,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+    }
   },
   {
     "fichier": "service-radiographie-cliche.jpg",
@@ -165,8 +153,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/02/HR-Triptique-HR-scaled.jpeg"
+    }
   },
   {
     "fichier": "service-echographie-ecran.jpg",
@@ -178,8 +165,7 @@
     "point_focal": {
       "x": 0.42,
       "y": 0.47
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/09/echographie-scaled.jpeg"
+    }
   },
   {
     "fichier": "service-laser-chien.jpg",
@@ -191,8 +177,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.4
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+    }
   },
   {
     "fichier": "service-nac-lapin.jpg",
@@ -204,8 +189,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2022/01/AdobeStock_25400444-scaled.jpeg"
+    }
   },
   {
     "fichier": "service-soins-a-domicile-chien.jpg",
@@ -217,8 +201,7 @@
     "point_focal": {
       "x": 0.63,
       "y": 0.42
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2021/03/Chien_soins-domicile-FF.jpg"
+    }
   },
   {
     "fichier": "conseil-pancreatite-du-chien.jpg",
@@ -230,8 +213,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/08/pancreatite.jpeg"
+    }
   },
   {
     "fichier": "conseil-pancreatite-du-chien.jpg",
@@ -243,8 +225,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/08/pancreatite.jpeg"
+    }
   },
   {
     "fichier": "conseil-le-lapin.jpg",
@@ -256,8 +237,7 @@
     "point_focal": {
       "x": 0.53,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/lapin.webp"
+    }
   },
   {
     "fichier": "conseil-le-cochon-d-inde.jpg",
@@ -269,8 +249,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/CDI.jpeg"
+    }
   },
   {
     "fichier": "conseil-le-rat.jpg",
@@ -282,8 +261,7 @@
     "point_focal": {
       "x": 0.37,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/rat.jpeg"
+    }
   },
   {
     "fichier": "conseil-hyperthyroidie-feline.jpg",
@@ -295,8 +273,7 @@
     "point_focal": {
       "x": 0.42,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/07/hyperthiroidie-fel.jpeg"
+    }
   },
   {
     "fichier": "conseil-bilan-sanguin.jpg",
@@ -308,8 +285,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/07/Un-bilan-sanguin-pour-mon-animal.webp"
+    }
   },
   {
     "fichier": "conseil-obesite-du-chat.jpg",
@@ -321,8 +297,7 @@
     "point_focal": {
       "x": 0.62,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/08/chat-obese.jpeg"
+    }
   },
   {
     "fichier": "conseil-alimentation-du-lapin.jpg",
@@ -334,8 +309,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.45
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/07/Alimentation-du-lapin.jpeg"
+    }
   },
   {
     "fichier": "conseil-sterilisation-du-lapin.jpg",
@@ -347,8 +321,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2023/08/sterilisation-des-lapins.jpeg"
+    }
   },
   {
     "fichier": "conseil-maladie-dentaire-du-lapin.jpg",
@@ -360,8 +333,7 @@
     "point_focal": {
       "x": 0.43,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/lapin_maladie_dentaire.png"
+    }
   },
   {
     "fichier": "conseil-otites-du-lapin.jpg",
@@ -373,8 +345,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/otite.webp"
+    }
   },
   {
     "fichier": "conseil-rhinite-du-lapin.jpg",
@@ -386,8 +357,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Rhinite.jpeg"
+    }
   },
   {
     "fichier": "conseil-encephalitozoonose.jpg",
@@ -399,8 +369,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/ECuniculi.png"
+    }
   },
   {
     "fichier": "conseil-mycoplasmose.jpg",
@@ -412,8 +381,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/mycoplasmose.webp"
+    }
   },
   {
     "fichier": "conseil-sablose-urinaire.jpg",
@@ -425,8 +393,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.55
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/sablose-urinaire.webp"
+    }
   },
   {
     "fichier": "conseil-nebulisations-et-inhalations.jpg",
@@ -438,8 +405,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://vetmint.ch/wp-content/uploads/2024/12/Nebulisations-et-inhalations.png"
+    }
   },
   {
     "fichier": "domdidier-locaux-facade.jpg",
@@ -451,8 +417,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/04/Facade-Vetmint-Domdidier.jpg"
+    }
   },
   {
     "fichier": "saintlegier-locaux-facade.jpg",
@@ -464,8 +429,7 @@
     "point_focal": {
       "x": 0.4,
       "y": 0.5
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2022/08/Exterieur-scaled-e1661964498280.jpg"
+    }
   },
   {
     "fichier": "payerne-accueil-veterinaire-chiot-chaton.jpg",
@@ -477,8 +441,7 @@
     "point_focal": {
       "x": 0.53,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+    }
   },
   {
     "fichier": "payerne-accueil-veterinaires-labrador.jpg",
@@ -490,8 +453,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.4
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2021/02/HR-H-F-chien-HR_Crop-scaled.jpg"
+    }
   },
   {
     "fichier": "payerne-accueil-veterinaire-husky.jpg",
@@ -503,8 +465,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.4
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-homme.jpg"
+    }
   },
   {
     "fichier": "payerne-equipe-claire-lise-tinguely.jpg",
@@ -516,8 +477,7 @@
     "point_focal": {
       "x": 0.6,
       "y": 0.3
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/10/Claire-scaled-e1760103492798.jpg"
+    }
   },
   {
     "fichier": "payerne-equipe-annie-pasquier.jpg",
@@ -529,8 +489,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.35
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2025/10/Annie-e1759928693293.jpg"
+    }
   },
   {
     "fichier": "payerne-locaux-entree.jpg",
@@ -542,8 +501,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/11/IMG_20221107_154048-scaled.jpg"
+    }
   },
   {
     "fichier": "payerne-locaux-reception.jpg",
@@ -555,8 +513,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Vue-client-1024x768.jpg"
+    }
   },
   {
     "fichier": "payerne-locaux-zone-de-soins.jpg",
@@ -568,8 +525,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Salle-OP-scaled.jpg"
+    }
   },
   {
     "fichier": "payerne-locaux-laboratoire.jpg",
@@ -581,8 +537,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+    }
   },
   {
     "fichier": "payerne-locaux-laboratoire.jpg",
@@ -594,8 +549,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://payerne.vetmint.ch/wp-content/uploads/2022/08/Laboratoire-scaled.jpg"
+    }
   },
   {
     "fichier": "fribourg-vet-urgence-logo.jpg",
@@ -603,8 +557,7 @@
     "alt": {
       "fr": "Logo de Vet'Urgence Fribourg",
       "de": "Logo von Vet'Urgence Fribourg"
-    },
-    "source": "https://vet-urgence-fribourg.ch/assets/images/image10.jpg"
+    }
   },
   {
     "fichier": "saintblaise-vet-urgence-logo.jpg",
@@ -612,8 +565,7 @@
     "alt": {
       "fr": "Logo de Vet'Urgence Neuchâtel",
       "de": "Logo von Vet'Urgence Neuchâtel"
-    },
-    "source": "https://vet-urgence-neuchatel.ch/assets/images/image10.jpg"
+    }
   },
   {
     "fichier": "domdidier-accueil-veterinaire-chiot-chaton.jpg",
@@ -625,8 +577,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+    }
   },
   {
     "fichier": "domdidier-accueil-veterinaire-basset.jpg",
@@ -638,8 +589,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.4
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/02/HR_p1-Collabo_Crop.jpg"
+    }
   },
   {
     "fichier": "domdidier-accueil-veterinaires-examen-oreille.jpg",
@@ -651,8 +601,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.5
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme-AMV_chien.jpg"
+    }
   },
   {
     "fichier": "domdidier-locaux-reception.jpg",
@@ -664,8 +613,7 @@
     "point_focal": {
       "x": 0.6,
       "y": 0.4
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Vetmint-domdidier-reception-Ewen-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-locaux-salle-d-attente.jpg",
@@ -677,8 +625,7 @@
     "point_focal": {
       "x": 0.4,
       "y": 0.5
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Salle-attente_2-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-locaux-salle-de-consultation.jpg",
@@ -690,8 +637,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Consultation_2a--scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-locaux-salle-de-radiologie.jpg",
@@ -703,8 +649,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.45
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Radiologie-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-locaux-salle-de-radiologie.jpg",
@@ -716,8 +661,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.45
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Radiologie-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-service-dentisterie-chat.jpg",
@@ -729,8 +673,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Alex_intervention-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-service-chirurgie-moniteur.jpg",
@@ -742,8 +685,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.4
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2021/04/Technique_1-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-equipe-diana-rodrigues.jpg",
@@ -755,8 +697,7 @@
     "point_focal": {
       "x": 0.35,
       "y": 0.39
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Diana-.jpg"
+    }
   },
   {
     "fichier": "domdidier-equipe-pascale-bonny.jpg",
@@ -768,8 +709,7 @@
     "point_focal": {
       "x": 0.49,
       "y": 0.26
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Pascale-scaled.jpg"
+    }
   },
   {
     "fichier": "domdidier-equipe-manon-bernheim.jpg",
@@ -781,8 +721,7 @@
     "point_focal": {
       "x": 0.51,
       "y": 0.25
-    },
-    "source": "https://domdidier.vetmint.ch/wp-content/uploads/2025/09/Manon-scaled.jpg"
+    }
   },
   {
     "fichier": "bussigny-accueil-veterinaire-chiot.jpg",
@@ -794,8 +733,7 @@
     "point_focal": {
       "x": 0.57,
       "y": 0.45
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2021/02/HR-Vieux-veto-HR.jpeg"
+    }
   },
   {
     "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
@@ -807,8 +745,7 @@
     "point_focal": {
       "x": 0.33,
       "y": 0.33
-    },
-    "source": "https://bussigny.vetmint.ch/wp-content/uploads/2026/08/PB.png"
+    }
   },
   {
     "fichier": "fribourg-accueil-veterinaire-chiot-chaton.jpg",
@@ -820,8 +757,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+    }
   },
   {
     "fichier": "fribourg-accueil-veterinaires-labrador.jpg",
@@ -833,8 +769,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.5
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2021/02/HR_couple-labrador-scaled.jpeg"
+    }
   },
   {
     "fichier": "fribourg-accueil-veterinaire-beagle-chat.jpg",
@@ -846,8 +781,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+    }
   },
   {
     "fichier": "fribourg-equipe-leo-munne.jpg",
@@ -859,8 +793,7 @@
     "point_focal": {
       "x": 0.49,
       "y": 0.36
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2024/02/LM.png"
+    }
   },
   {
     "fichier": "fribourg-equipe-victor-mignon.jpg",
@@ -872,8 +805,7 @@
     "point_focal": {
       "x": 0.51,
       "y": 0.23
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2025/11/VictorMignon.jpg"
+    }
   },
   {
     "fichier": "fribourg-equipe-laura-frere.jpg",
@@ -885,8 +817,7 @@
     "point_focal": {
       "x": 0.68,
       "y": 0.27
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2025/09/Lauracopie-scaled.jpg"
+    }
   },
   {
     "fichier": "fribourg-equipe-mathilde-bley.jpg",
@@ -898,8 +829,7 @@
     "point_focal": {
       "x": 0.48,
       "y": 0.27
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2026/05/Mathilde-fribourg.jpg"
+    }
   },
   {
     "fichier": "fribourg-equipe-ewen-kerharo.jpg",
@@ -911,8 +841,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.43
-    },
-    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2024/02/EK.png"
+    }
   },
   {
     "fichier": "saintblaise-accueil-veterinaires-labrador.jpg",
@@ -924,8 +853,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.45
-    },
-    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2021/02/HR_couple-labrador-scaled.jpeg"
+    }
   },
   {
     "fichier": "saintblaise-equipe-philippe-boudaroua.jpg",
@@ -937,8 +865,7 @@
     "point_focal": {
       "x": 0.4,
       "y": 0.35
-    },
-    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2024/02/PB.png"
+    }
   },
   {
     "fichier": "saintblaise-equipe-laura-franchini.jpg",
@@ -950,8 +877,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.3
-    },
-    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2024/02/LF.png"
+    }
   },
   {
     "fichier": "saintblaise-accueil-veterinaire-chiot-chaton.jpg",
@@ -963,8 +889,7 @@
     "point_focal": {
       "x": 0.53,
       "y": 0.5
-    },
-    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+    }
   },
   {
     "fichier": "saintblaise-accueil-veterinaires-examen-oreille.jpg",
@@ -976,8 +901,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.45
-    },
-    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme.jpg"
+    }
   },
   {
     "fichier": "lacdejoux-accueil-veterinaire-beagle-chat.jpg",
@@ -989,8 +913,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.45
-    },
-    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+    }
   },
   {
     "fichier": "lacdejoux-equipe-veronique-curchod.jpg",
@@ -1002,8 +925,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.38
-    },
-    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2025/02/Veronique-scaled-e1740042004589.jpg"
+    }
   },
   {
     "fichier": "lacdejoux-equipe-clemence-bruillard.jpg",
@@ -1015,8 +937,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.4
-    },
-    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2025/04/Clemence.jpg"
+    }
   },
   {
     "fichier": "saintlegier-accueil-romain-abos-corgi.jpg",
@@ -1028,8 +949,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.4
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013192-1.jpg"
+    }
   },
   {
     "fichier": "saintlegier-accueil-louise-schneider-chaton.jpg",
@@ -1041,8 +961,7 @@
     "point_focal": {
       "x": 0.55,
       "y": 0.4
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013191-1.jpg"
+    }
   },
   {
     "fichier": "saintlegier-accueil-veterinaire-chiot-chaton.jpg",
@@ -1054,8 +973,7 @@
     "point_focal": {
       "x": 0.53,
       "y": 0.5
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+    }
   },
   {
     "fichier": "saintlegier-equipe-romain-abos.jpg",
@@ -1067,8 +985,7 @@
     "point_focal": {
       "x": 0.45,
       "y": 0.3
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013192-1.jpg"
+    }
   },
   {
     "fichier": "saintlegier-equipe-louise-schneider.jpg",
@@ -1080,8 +997,7 @@
     "point_focal": {
       "x": 0.62,
       "y": 0.25
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013191-1.jpg"
+    }
   },
   {
     "fichier": "saintlegier-equipe-aurore.jpg",
@@ -1093,8 +1009,7 @@
     "point_focal": {
       "x": 0.35,
       "y": 0.4
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2023/03/AJ.png"
+    }
   },
   {
     "fichier": "saintlegier-equipe-ruby.jpg",
@@ -1106,8 +1021,7 @@
     "point_focal": {
       "x": 0.4,
       "y": 0.3
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+    }
   },
   {
     "fichier": "saintlegier-equipe-marie.jpg",
@@ -1119,8 +1033,7 @@
     "point_focal": {
       "x": 0.48,
       "y": 0.35
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/marie-carrard.jpg"
+    }
   },
   {
     "fichier": "saintlegier-service-laser-bouvier.jpg",
@@ -1132,8 +1045,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.45
-    },
-    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+    }
   },
   {
     "fichier": "chauxdefonds-accueil-veterinaire-beagle-chat.jpg",
@@ -1145,8 +1057,7 @@
     "point_focal": {
       "x": 0.5,
       "y": 0.55
-    },
-    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+    }
   },
   {
     "fichier": "chauxdefonds-equipe-raphael-virapin.jpg",
@@ -1158,8 +1069,7 @@
     "point_focal": {
       "x": 0.62,
       "y": 0.36
-    },
-    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/12/Raphael-tenue-travail-scaled-e1734079872685.jpg"
+    }
   },
   {
     "fichier": "chauxdefonds-equipe-charlotte-humbert-droz.jpg",
@@ -1171,8 +1081,7 @@
     "point_focal": {
       "x": 0.49,
       "y": 0.33
-    },
-    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/12/Charlotte-e1734080321862.jpg"
+    }
   },
   {
     "fichier": "chauxdefonds-equipe-lorena-geronazzo.jpg",
@@ -1184,8 +1093,7 @@
     "point_focal": {
       "x": 0.51,
       "y": 0.09
-    },
-    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2025/11/Lorena.jpg"
+    }
   },
   {
     "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
@@ -1197,8 +1105,7 @@
     "point_focal": {
       "x": 0.4,
       "y": 0.35
-    },
-    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2024/02/PB.png"
+    }
   },
   {
     "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
@@ -1210,7 +1117,6 @@
     "point_focal": {
       "x": 0.33,
       "y": 0.33
-    },
-    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/02/PB.png"
+    }
   }
 ]

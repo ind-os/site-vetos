@@ -5,7 +5,6 @@ title: "Gesundheitsratgeber für Kaninchen und Heimtiere | Vetmint"
 description: "Gesundheitsratgeber für Kaninchen, Meerschweinchen, Ratte und Vogel: Ernährung, Zähne, Ohren, Impfung, Kastration und Anzeichen, bei denen Sie anrufen müssen."
 h1: "Gesundheitsratgeber für Kaninchen und Heimtiere"
 recherche: "Gesundheitsratgeber Kaninchen Heimtiere"
-redige_le: 2026-10-16
 especes: [nac]
 ---
 

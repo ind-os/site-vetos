@@ -5,7 +5,6 @@ title: "Vetmint-Tierarztpraxen: Adressen und Öffnungszeiten"
 description: "Die Vetmint-Praxen in Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest, Lac-de-Joux, Payerne, Saint-Blaise, Saint-Légier: Adressen und Öffnungszeiten."
 h1: Unsere Praxen
 recherche: Vetmint-Praxen
-redige_le: 2026-10-16
 ---
 
 Vetmint zählt acht Tierarztpraxen, vier im Kanton Waadt, zwei im Kanton Freiburg und zwei im Kanton Neuenburg. Jede Vetmint-Praxis empfängt nach Terminvereinbarung. Unsere zwei Notfalldienste in Givisiez und Saint-Blaise empfangen Notfälle täglich bis Mitternacht. Nach Mitternacht und in den anderen Regionen übernimmt eine regionale Notfallnummer.

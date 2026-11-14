@@ -6,7 +6,6 @@ title: "Tierarztpreise in Saint-Blaise: Impfungen, Operationen"
 description: "Preise der Praxis Vetmint Saint-Blaise: Konsultation von 30 Minuten zu {prix:consultation}, Impfungen, Sterilisationen, Zahnsteinentfernung. Was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint Saint-Blaise
 recherche: Tierarztpreise Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 In der Praxis Vetmint Saint-Blaise werden die Tierarztpreise Preis für Preis veröffentlicht, mit dem, was jeder umfasst. Eine Konsultation von 30 Minuten kostet dort {prix:consultation}. Sterilisationen, Kastrationen, die Zahnsteinentfernung und die Extraktion aller Zähne sind Pauschalen, Narkose inbegriffen.

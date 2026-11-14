@@ -6,7 +6,6 @@ title: "Tierarzt in Bussigny: Tierarztpraxis Vetmint Bussigny"
 description: "Tierarztpraxis in Bussigny für Hunde, Katzen und Heimtiere, neben der Migros. Konsultation von 30 Minuten nach Termin, auch am Samstag. 021 703 25 30."
 h1: "Tierarztpraxis Vetmint Bussigny"
 recherche: "Tierarzt Bussigny"
-redige_le: 2026-11-13
 resume: "Hunde, Katzen und Heimtiere, Rue de l'Industrie 8, neben der Migros. Konsultationen von 30 Minuten nach Terminvereinbarung."
 ---
 

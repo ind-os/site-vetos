@@ -5,7 +5,6 @@ title: "Vétérinaire de garde : numéros et prix | Vetmint"
 description: "Urgence vétérinaire chez Vetmint : Vet'Urgences Fribourg à Givisiez et Vet'Urgences Neuchâtel à Saint-Blaise, de 8 h à minuit. Le numéro de chaque cabinet."
 h1: Urgences et vétérinaire de garde dans les cabinets Vetmint
 recherche: vétérinaire de garde
-redige_le: 2026-11-11
 ordre: 19
 especes: [chien, chat, nac]
 resume: Nos deux services d'urgence, ouverts tous les jours de 8 h à minuit, et le bon numéro selon l'heure et le cabinet.

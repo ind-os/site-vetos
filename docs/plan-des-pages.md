@@ -92,8 +92,4 @@ Le site fabrique aussi, sans fichier Markdown, des adresses qui ne sont pas des 
 
 ## Ce que le site vérifie
 
-À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, un cabinet en ligne incomplet, un service sans page commune ou un jeton de prix absent de la grille, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).
-
-## Les cabinets pas encore en ligne
-
-Les huit cabinets ont leur fiche. Tant qu'une fiche dit `"en_ligne": false`, le cabinet figure sur la carte et dans les listes, et ses liens mènent à l'adresse du champ `adresse_hors_ligne` de sa fiche. Les textes écrivent l'adresse définitive (`/bussigny/rendez-vous/`) : le lien se rétablit seul le jour où le cabinet passe en ligne. Leurs pages peuvent déjà être écrites : la prévisualisation les construit et les montre ; la construction du site en ligne les laisse de côté, ni page, ni plan du site, ni traduction exigée, tant que la fiche dit `"en_ligne": false`. Quand ses pages sont écrites dans les deux langues, `"en_ligne": true` publie le cabinet.
+À chaque construction, le site s'arrête sur une page sans traduction, une adresse en double, un cabinet incomplet, un service sans page commune ou un jeton de prix absent de la grille, avec le nom du fichier en cause ; en prévisualisation, le problème s'affiche dans le terminal sans arrêter le site. La liste complète, avec ce que `pnpm verifier` et `pnpm auditer` contrôlent en plus, est dans [verifications.md](verifications.md).

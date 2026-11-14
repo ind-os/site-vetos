@@ -5,7 +5,6 @@ title: "Chat en surpoids : l'évaluer et le faire maigrir | Vetmint"
 description: "Chat en surpoids : le repérer, les risques pour sa santé, l'aliment et la ration à choisir, le rythme de perte de poids et des idées pour le faire bouger."
 h1: L'obésité chez le chat
 recherche: chat en surpoids
-redige_le: 2026-10-16
 especes: [chat]
 ordre: 8
 resume: Un chat trop gros vit moins longtemps ; le faire maigrir prend des mois, à un rythme précis.

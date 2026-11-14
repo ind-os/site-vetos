@@ -5,7 +5,6 @@ title: "Politique de confidentialité du site Vetmint"
 description: "Quelles données le site Vetmint traite, pourquoi, où elles sont gardées et combien de temps : rendez-vous, e-mails, mesure d'audience et quels sont vos droits."
 h1: Politique de confidentialité
 recherche: politique de confidentialité Vetmint
-redige_le: 2026-10-16
 ---
 
 Vetmint traite peu de données personnelles sur vetmint.ch. Les pages sont statiques : elles s'affichent sans compte, sans connexion et sans cookie publicitaire. Les données personnelles arrivent par deux voies : le module de rendez-vous et les e-mails que vous nous envoyez. Notre politique de confidentialité décrit ces traitements selon la loi fédérale sur la protection des données (LPD).

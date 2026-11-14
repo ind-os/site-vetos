@@ -5,7 +5,6 @@ title: "Conseils santé pour le chien | Vetmint"
 description: "Conseils santé pour le chien : diabète, pancréatite, prise de sang. Les signes qui doivent alerter, quand appeler et les soins de prévention de chaque année."
 h1: Conseils santé pour le chien
 recherche: conseils santé chien
-redige_le: 2026-10-16
 especes: [chien]
 ---
 

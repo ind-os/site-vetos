@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint Fribourg Ouest"
 description: "Vier Tierärzte und eine TPA in Givisiez: Léo Munné für Heimtiere, Victor Mignon für Notfälle, Laura Frère, Ewen Kerharo und Mathilde Bley. Werdegang, Sprachen."
 h1: "Das Team von Vetmint Fribourg Ouest"
 recherche: "Tierärzteteam Fribourg Ouest"
-redige_le: 2026-11-13
 resume: "Vier Tierärztinnen und Tierärzte und eine Tiermedizinische Praxisassistentin, Route des Fluides 5 in Givisiez, auf Französisch, Deutsch und Englisch."
 ---
 

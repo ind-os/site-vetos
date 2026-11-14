@@ -10,7 +10,7 @@ Tout ce qui n'est pas dans ces tables est une convention : la doc dit la règle,
 
 | Contrôle | Fichier | Ce qu'il protège |
 |---|---|---|
-| L'en-tête d'une page : `type` parmi les types connus, `url` en minuscules qui commence et finit par `/`, `title` de 60 caractères au plus, `description`, `recherche` et `redige_le` présents, `especes` parmi chien, chat et nac | `src/content.config.ts` | une page affichable et référençable |
+| L'en-tête d'une page : `type` parmi les types connus, `url` en minuscules qui commence et finit par `/`, `title` de 60 caractères au plus, `description` et `recherche` présents, `especes` parmi chien, chat et nac | `src/content.config.ts` | une page affichable et référençable |
 | La fiche d'un cabinet : chaque champ présent et bien formé, téléphone international, e-mail, textes dans les deux langues, outil de rendez-vous connu ; les dates sont `AAAA-MM-JJ` et existent dans le calendrier, `du` précède ou égale `au` dans une fermeture, une plage `08:00-12:00` a des heures de 00 à 24 et un début avant la fin | `src/content.config.ts` | les faits affichés sur toutes les pages du cabinet |
 | La grille des prix d'un cabinet : `valable_des` est une date `AAAA-MM-JJ`, chaque `cle` est unique, en minuscules et tirets, chaque `libelle` a ses deux langues, un `montant` est un nombre, une fourchette ou un calcul ; un calcul ne cite que des nombres et des clés de la même grille, sans boucle | `src/content.config.ts`, calculs dans `src/lib/prix.ts` | les montants affichés sur toutes les pages du cabinet |
 | Une grille porte l'identifiant d'une fiche ; le `service` d'un prix nomme une page commune de service | `src/lib/verifications.ts` | chaque prix s'affiche dans le bon cabinet et sur la bonne page de service |
@@ -21,9 +21,8 @@ Tout ce qui n'est pas dans ces tables est une convention : la doc dit la règle,
 | Le champ `especes` est obligatoire sur une page `conseil-categorie` | `src/lib/verifications.ts` | la page des conseils d'une espèce sait laquelle |
 | Les clés de `src/i18n/fr.ts` et de `de.ts` sont les mêmes, dans les deux sens | `src/i18n/index.ts` | aucun menu ni bouton sans l'autre langue |
 | Chaque sujet du catalogue des photos nomme un cabinet existant et, pour un portrait, une personne de sa fiche | `src/lib/images.ts` | aucune photo orpheline |
-| Les pages d'un cabinet dont la fiche dit `"en_ligne": false` se prévisualisent, mais la construction du site en ligne ne les construit pas, ne les met pas dans le plan du site et n'exige pas leur traduction | `src/lib/pages.ts` | un cabinet s'écrit sans paraître |
 | Chaque service cité par une fiche a sa page commune, avec les champs `en_phrase` et `presentation_dans_le_cabinet` (qui contient `{cabinet}`) dans chaque langue | `src/lib/verifications.ts` | aucun lien de service vers le vide ; la page du service dans chaque cabinet |
-| Un cabinet en ligne a toutes ses pages obligatoires, dans les deux langues | `src/lib/verifications.ts`, liste dans `src/lib/types-de-page.ts` | un cabinet complet |
+| Un cabinet qui a sa fiche a toutes ses pages obligatoires, dans les deux langues | `src/lib/verifications.ts`, liste dans `src/lib/types-de-page.ts` | un cabinet complet |
 | Un gabarit qui demande une page absente arrête la construction ; en prévisualisation, le lien mène à `#` et le terminal le dit | `src/lib/pages.ts` | aucun lien de navigation cassé |
 | Un bloc de données a son cabinet et un type connu : horaires, fermetures, garde | `src/lib/donnees-de-la-clinique.ts` | les horaires et la garde affichés viennent de la fiche |
 | Chaque photo du catalogue a son fichier | `src/lib/images.ts` | aucune image manquante |

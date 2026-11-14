@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Präventionsplan, Lac-de-Joux"
 description: "In der Praxis Vetmint Lac-de-Joux kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr. Monatliche Abonnemente ab {prix:abonnement-adulte-chien} pro Monat."
 h1: "Präventionsplan und Abonnemente in L'Abbaye"
 recherche: "Tierarzt Abonnement Lac-de-Joux"
-redige_le: 2026-11-14
 ---
 
 Die Tierarztpraxis Vetmint Lac-de-Joux bietet zwei Wege, die Vorsorge im Voraus zu bezahlen. Der Präventionsplan deckt auf einmal das erste Jahr eines Welpen oder Kätzchens ab. Das monatliche Abonnement begleitet einen Hund oder eine Katze in jedem Alter und verteilt die üblichen Behandlungen auf zwölf Monate.

@@ -1,7 +1,5 @@
 {
   "id": "payerne",
-  "en_ligne": true,
-  "adresse_hors_ligne": "https://payerne.vetmint.ch/",
   "nom": "Vetmint Payerne",
   "lieu": "Payerne",
   "canton": "VD",

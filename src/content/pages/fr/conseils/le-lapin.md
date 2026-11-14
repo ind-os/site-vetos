@@ -5,7 +5,6 @@ title: "Lapin de compagnie : habitat, alimentation, soins | Vetmint"
 description: "Le lapin de compagnie : comment il vit, l'espace et le sol qu'il lui faut, sa ration de foin, ses vaccins et les signes qui imposent d'appeler le vétérinaire."
 h1: Le lapin de compagnie
 recherche: lapin de compagnie
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 1
 resume: "Vivre avec un lapin : son caractère, son espace, sa ration, ses vaccins et les signes d'alerte."

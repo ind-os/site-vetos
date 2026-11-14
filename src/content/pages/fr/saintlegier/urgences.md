@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à Saint-Légier : qui appeler"
 description: "Urgence à Saint-Légier : aux heures d'ouverture, appelez le 021 683 10 10 ; la nuit et le week-end, le cabinet puis la garde de la Riviera, 0900 906 906."
 h1: Urgence vétérinaire à Saint-Légier
 recherche: urgence vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Pour une urgence vétérinaire à Saint-Légier, un appel vient avant le trajet. Le bon numéro dépend de l'heure. L'équipe du cabinet Vetmint Saint-Légier, ou le vétérinaire de garde, évalue la situation avec vous au téléphone et vous dit quoi faire en route.

@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention à Domdidier"
 description: "À Domdidier, le plan de prévention du chiot ou du chaton coûte {prix:plan-prevention} pour un an, vaccins, vermifuges et puce compris. Abonnements mensuels dès {prix:abonnement-adulte-chien}."
 h1: Plan de prévention et abonnements à Domdidier
 recherche: abonnement vétérinaire Domdidier
-redige_le: 2026-11-13
 ---
 
 Au cabinet de Domdidier, la prévention de votre animal peut se payer à l'avance de deux façons : un abonnement vétérinaire mensuel ou un plan de prévention. Le plan règle en une fois les douze premiers mois d'un jeune animal. L'abonnement accompagne votre chien ou votre chat quel que soit son âge et répartit ses soins courants en douze mensualités.

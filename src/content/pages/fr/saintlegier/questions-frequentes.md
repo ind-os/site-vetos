@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Saint-Légier"
 description: "Les questions que nos clients de Saint-Légier posent le plus : vaccin en ligne, déposer son animal, prix d'une consultation, œil rouge, visite à domicile."
 h1: Vos questions sur le cabinet de Saint-Légier
 recherche: questions cabinet vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Au téléphone et au comptoir du cabinet vétérinaire Vetmint Saint-Légier, certaines questions reviennent sans cesse. Chaque réponse est courte et mène à la page qui donne le détail.

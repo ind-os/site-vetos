@@ -6,7 +6,6 @@ title: "Tierarzt in Saint-Blaise: Tierarztpraxis Vetmint"
 description: "Tierarztpraxis in Saint-Blaise für Hunde, Katzen und Heimtiere. Konsultation von 30 Minuten nach Termin, Vet'Urgences Neuchâtel im selben Haus. 032 753 11 22."
 h1: Tierarztpraxis Vetmint Saint-Blaise
 recherche: Tierarzt Saint-Blaise
-redige_le: 2026-11-14
 resume: Hunde, Katzen und Heimtiere, Rue des Bourguillards 11. Konsultationen von 30 Minuten nach Termin.
 ---
 

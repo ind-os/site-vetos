@@ -5,7 +5,6 @@ title: "Conseils santé pour vos animaux : chien, chat, NAC | Vetmint"
 description: "Conseils santé des vétérinaires Vetmint pour le chien, le chat, le lapin et les NAC : maladies, signes qui doivent alerter, soins à la maison, quand appeler."
 h1: Conseils santé
 recherche: conseils santé animaux
-redige_le: 2026-10-16
 ---
 
 Ces conseils santé expliquent les maladies et les soins que les vétérinaires Vetmint rencontrent le plus souvent chez les animaux : chien, chat, lapin, rongeurs et oiseaux. Ils s'appuient sur les articles écrits par nos vétérinaires.

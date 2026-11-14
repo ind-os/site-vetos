@@ -5,7 +5,6 @@ title: "Nébulisation et inhalation du lapin et des NAC | Vetmint"
 description: "Nébulisation et inhalation pour un lapin, un rongeur ou un oiseau qui respire mal : à quoi elles servent, quel appareil choisir, les gestes à la maison."
 h1: "Fiche de consultation : nébulisations et inhalations"
 recherche: nébulisation lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 20
 resume: Les gestes pour faire une nébulisation ou une inhalation à la maison à un lapin, un rongeur ou un oiseau.

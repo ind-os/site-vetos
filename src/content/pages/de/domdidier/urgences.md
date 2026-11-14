@@ -6,7 +6,6 @@ title: "Notfall beim Tier in Domdidier: wen Sie wann anrufen"
 description: "Notfall in Domdidier: während der Öffnungszeiten 026 675 38 88, abends, nachts und am Wochenende 026 466 34 35. Warnzeichen und was Sie jetzt tun können."
 h1: "Tierärztlicher Notfall in Domdidier"
 recherche: "Notfall Tierarzt Domdidier"
-redige_le: 2026-11-13
 ---
 
 Bei einem tierärztlichen Notfall in Domdidier rufen Sie an, bevor Sie losfahren. Welche Nummer Sie wählen, hängt von der Uhrzeit ab. Am Telefon beurteilt das Team der Praxis oder der tierärztliche Notfalldienst die Lage und sagt Ihnen, was Sie auf der Fahrt tun sollen.

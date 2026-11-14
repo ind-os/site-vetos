@@ -5,7 +5,6 @@ title: "Jobs für Tierärzte und TPA in der Westschweiz | Vetmint"
 description: "Vetmint sucht Tierärztinnen, Tiermedizinische Praxisassistentinnen und Lernende für seine acht Praxen in der Westschweiz. Offene Stellen und Bewerbung."
 h1: Bei Vetmint arbeiten
 recherche: Stelle Tierarzt Westschweiz
-redige_le: 2026-10-16
 ---
 
 Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, Freiburg und Neuenburg. Die Gruppe wird von Tierärztinnen und Tierärzten geleitet. Sie suchen eine Stelle als Tierärztin oder Tierarzt oder als Tiermedizinische Praxisassistentin (TPA) in der Westschweiz oder eine Lehrstelle: Unsere Praxen stellen ein.

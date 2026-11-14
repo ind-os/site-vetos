@@ -8,7 +8,6 @@ nom: Orthopädische Chirurgie
 en_phrase: "die orthopädische Chirurgie"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} operiert Knochen, Bänder und Gelenke von Hunden, Katzen und kleinen Tieren. Eine auf Chirurgie spezialisierte Tierärztin versorgt Knochenbrüche, behandelt den Kreuzbandriss und bringt eine verrutschende Kniescheibe an ihren Platz zurück. Danach begleitet sie die Rehabilitation Ihres Tiers."
 recherche: orthopädische Chirurgie Hund
-redige_le: 2026-11-10
 ordre: 3
 especes: [chien, chat, nac]
 resume: Die Operationen an Knochen, Bändern und Gelenken, vom Knochenbruch bis zum gerissenen Kreuzband.

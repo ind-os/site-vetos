@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à La Chaux-de-Fonds : vaccins, opérations"
 description: "Prix du cabinet Vetmint La Chaux-de-Fonds : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint La Chaux-de-Fonds
 recherche: tarif vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Le tarif vétérinaire de La Chaux-de-Fonds est publié ligne par ligne, tel que le cabinet Vetmint de l'avenue Léopold-Robert 12 l'applique. Comptez {prix:consultation} pour 30 minutes de consultation. Opérer une chatte, castrer un chien ou détarter les dents se paie au forfait, avec l'anesthésie et le traitement de la douleur.

@@ -5,7 +5,6 @@ title: "Pododermatite du lapin : signes, causes, soins | Vetmint"
 description: "Pododermatite du lapin : la plaie sous les pattes, ce qui la cause, quand consulter et comment la soigner, du sol au bandage. Par les vétérinaires Vetmint."
 h1: La pododermatite chez le lapin
 recherche: pododermatite lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 14
 resume: Une plaie sous les pattes du lapin, qui se soigne d'abord par le sol, le poids et l'exercice.

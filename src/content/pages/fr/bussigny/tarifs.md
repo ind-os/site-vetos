@@ -6,7 +6,6 @@ title: "Tarif vétérinaire à Bussigny : vaccins, opérations, urgences"
 description: "Prix du cabinet Vetmint Bussigny : consultation de 30 minutes à {prix:consultation}, bilans et vaccins, stérilisations, détartrage, urgences. Ce que couvre chaque prix."
 h1: Les tarifs du cabinet Vetmint Bussigny
 recherche: tarif vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 Le tarif vétérinaire du cabinet Vetmint Bussigny tient en quelques tableaux, avec le détail de ce que vous payez. À la rue de l'Industrie 8, une consultation de 30 minutes coûte {prix:consultation}. Opérer une chatte, castrer un chien ou détartrer des dents se paie au forfait, anesthésie incluse.

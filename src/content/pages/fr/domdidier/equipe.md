@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Domdidier
 description: "Trois vétérinaires à Domdidier, Diana Rodrigues, Pascale Bonny et Rita Ferrao, avec deux assistantes, deux jeunes en formation et deux spécialistes externes."
 h1: L'équipe de Vetmint Domdidier
 recherche: équipe vétérinaire Domdidier
-redige_le: 2026-11-13
 resume: Trois vétérinaires, deux assistantes, une apprentie et une préapprentie, route de Saint-Aubin 58.
 ---
 

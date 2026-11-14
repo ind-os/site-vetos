@@ -6,7 +6,6 @@ title: "Tierärztliches Abonnement und Prävention in Fribourg Ouest"
 description: "In Givisiez kostet der Präventionsplan für Welpen oder Kätzchen {prix:plan-prevention} pro Jahr: Konsultationen, Impfungen, Entwurmung, Chip. Abonnemente ab {prix:abonnement-adulte-chien}."
 h1: Präventionsplan und Abonnemente in Fribourg Ouest
 recherche: Tierarzt Abonnement Fribourg Ouest
-redige_le: 2026-11-13
 ---
 
 In der Praxis Vetmint Fribourg Ouest bezahlen zwei tierärztliche Abonnemente die Prävention im Voraus. Der Präventionsplan begleicht in einem Betrag das erste Jahr eines Welpen oder Kätzchens. Das monatliche Abonnement passt zu einem Hund oder einer Katze jeden Alters: Sein Preis verteilt sich auf zwölf Monate.

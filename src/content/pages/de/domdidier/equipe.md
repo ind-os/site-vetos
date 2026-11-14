@@ -6,7 +6,6 @@ title: "Das Tierärzteteam von Vetmint Domdidier"
 description: "Drei Tierärztinnen in Domdidier, Diana Rodrigues, Pascale Bonny und Rita Ferrao, mit zwei Assistentinnen, zwei jungen Frauen in Ausbildung und zwei Fachleuten."
 h1: "Das Team von Vetmint Domdidier"
 recherche: "Tierärzteteam Domdidier"
-redige_le: 2026-11-13
 resume: "Drei Tierärztinnen, zwei Assistentinnen, eine Lernende und eine Vorlernende, Route de Saint-Aubin 58."
 ---
 

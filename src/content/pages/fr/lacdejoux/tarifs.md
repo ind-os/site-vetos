@@ -6,7 +6,6 @@ title: "Tarif vétérinaire Lac-de-Joux : vaccins, opérations"
 description: "Prix du cabinet Vetmint Lac-de-Joux : consultation de 30 minutes à {prix:consultation}, vaccins, stérilisations, détartrage, urgences. Ce que chaque prix comprend."
 h1: Les tarifs du cabinet Vetmint Lac-de-Joux
 recherche: tarif vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Le tarif vétérinaire du cabinet Vetmint Lac-de-Joux, à L'Abbaye, est public : chaque prix figure avec son contenu. Une consultation de 30 minutes coûte {prix:consultation}. Les opérations de convenance et le détartrage se facturent au forfait : l'anesthésie et le traitement de la douleur y sont inclus.

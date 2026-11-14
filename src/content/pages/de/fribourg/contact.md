@@ -6,7 +6,6 @@ title: "Kontakt, Anfahrt und Parkplatz: Tierarzt in Fribourg Ouest"
 description: "Tierarztpraxis Vetmint Fribourg Ouest, Route des Fluides 5, 4. Stock, in Givisiez. Parkplätze für Kunden, TPF-Busse 8 und 9, Lift. Telefon 026 466 84 84."
 h1: "So finden Sie uns in Givisiez"
 recherche: "Kontakt Tierarzt Fribourg Ouest"
-redige_le: 2026-11-13
 ---
 
 Der schnellste Kontakt zum Tierarzt Vetmint Fribourg Ouest bleibt das Telefon, während der Öffnungszeiten. Die Praxis liegt im 4. Stock der Route des Fluides 5 in Givisiez, im Industriegebiet zwischen Freiburg und Corminboeuf. Ein Lift fährt bis in den Stock.

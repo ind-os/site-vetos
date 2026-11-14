@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Fribourg Ouest"
 description: "Die Fragen an die Praxis Vetmint Fribourg Ouest in Givisiez: Vögel und Reptilien, Preis einer Konsultation, Notfälle am Abend, Parkplatz. Unsere Antworten."
 h1: "Ihre Fragen zur Praxis in Fribourg Ouest"
 recherche: "Fragen Tierarztpraxis Fribourg Ouest"
-redige_le: 2026-11-13
 ---
 
 Halterinnen und Halter stellen der Tierarztpraxis Vetmint Fribourg Ouest oft dieselben Fragen, am Telefon oder am Empfang in Givisiez. Jede Antwort führt zur Seite mit den Einzelheiten.

@@ -6,7 +6,6 @@ title: "Notfall beim Tier in Payerne: wen Sie wann anrufen"
 description: "Notfall in Payerne: während der Öffnungszeiten 026 660 16 16, nachts, am Wochenende und an Feiertagen 026 466 34 35. Warnzeichen und erste Schritte."
 h1: "Tierärztlicher Notfall in Payerne"
 recherche: "Notfall Tierarzt Payerne"
-redige_le: 2026-10-16
 ---
 
 Bei einem tierärztlichen Notfall in Payerne rufen Sie an, bevor Sie losfahren. Ihr Tier ist verletzt, atmet schlecht oder verhält sich nicht mehr wie gewohnt. Am Telefon sagt Ihnen das Team der Tierarztpraxis Vetmint Payerne, was Sie auf der Fahrt tun sollen, und bereitet Ihre Ankunft vor.

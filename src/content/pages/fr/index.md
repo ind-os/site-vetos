@@ -5,7 +5,6 @@ title: "Vetmint : huit cabinets vétérinaires en Suisse romande"
 description: "Huit cabinets vétérinaires Vetmint dans les cantons de Vaud, Fribourg et Neuchâtel. Consultations de 30 minutes, tarifs publiés, garde. Trouvez votre cabinet."
 h1: Vetmint, cabinets vétérinaires en Suisse romande
 recherche: cabinets vétérinaires Suisse romande
-redige_le: 2026-10-16
 ---
 
 Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons de Vaud, de Fribourg et de Neuchâtel. Le groupe est tenu et géré par des vétérinaires. Chaque cabinet reçoit tous les animaux de compagnie sur rendez-vous : chiens, chats et NAC. Les cabinets ouvrent du lundi au vendredi ; certains cabinets reçoivent aussi le samedi matin.

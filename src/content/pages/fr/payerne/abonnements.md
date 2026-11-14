@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention à Payerne"
 description: "À Payerne, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an : consultations, vaccins, vermifuges, puce. Abonnements dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à Payerne
 recherche: abonnement vétérinaire Payerne
-redige_le: 2026-11-03
 ---
 
 À Payerne, deux formules d'abonnement vétérinaire règlent la prévention à l'avance. Le plan de prévention paie en une fois la première année d'un chiot ou d'un chaton. L'abonnement mensuel suit un chien ou un chat à tout âge et répartit sur douze mois le prix de ses soins de routine.

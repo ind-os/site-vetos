@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à La Chaux-de-Fonds : qui appeler"
 description: "Urgence à La Chaux-de-Fonds : en journée, le cabinet au 032 914 03 48 ; le soir, Vet'Urgences Neuchâtel ; après minuit, le 0900 901 902. Signes d'alerte."
 h1: Urgence vétérinaire à La Chaux-de-Fonds
 recherche: urgence vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 En cas d'urgence vétérinaire à La Chaux-de-Fonds, téléphonez avant de prendre la route. Le bon numéro dépend de l'heure. Au bout du fil, un vétérinaire ou une assistante vous dit si votre animal doit venir tout de suite et quoi faire pendant le trajet.

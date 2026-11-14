@@ -72,9 +72,7 @@ serveur :
 | `REDEPLOIEMENT_JETON` | secret | le jeton de cette adresse |
 | `SITE_ADRESSE` | variable | l'adresse du site en ligne, `https://site.exemple.ch` |
 
-Le serveur tire l'image sans identifiant : le paquet GHCR se rend public une
-fois, après la première poussée, dans les réglages du paquet sur GitHub. Un
-paquet naît privé.
+Le paquet GHCR est public : le serveur tire l'image sans identifiant.
 
 ## Claude Code
 

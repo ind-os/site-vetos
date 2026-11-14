@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Bussigny
 description: "Deux vétérinaires à Bussigny : le Dr Pascal Wicki, installé depuis 2000 et référencé en médecines complémentaires, puis le Dr Philippe Boudaroua. Qui voir."
 h1: L'équipe de Vetmint Bussigny
 recherche: équipe vétérinaire Bussigny
-redige_le: 2026-11-13
 resume: Deux vétérinaires, le Dr Pascal Wicki et le Dr Philippe Boudaroua, rue de l'Industrie 8, en français.
 ---
 

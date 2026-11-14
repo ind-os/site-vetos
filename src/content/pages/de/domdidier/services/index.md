@@ -6,7 +6,6 @@ title: "Tierärztliche Leistungen in Domdidier | Vetmint"
 description: "Leistungen von Vetmint Domdidier für Hunde, Katzen und Heimtiere: Konsultation von 30 Minuten zu {prix:consultation}, Chirurgie, Zähne, Ultraschall und Lasertherapie."
 h1: Die Leistungen in Domdidier
 recherche: tierärztliche Leistungen Domdidier
-redige_le: 2026-11-13
 ---
 
 Die tierärztlichen Leistungen der Praxis Vetmint Domdidier finden an der Route de Saint-Aubin 58 statt, ausser den Hausbesuchen. Jede Leistung hat ihre Seite: wer sie ausführt, wie sie abläuft und was sie in Domdidier kostet.

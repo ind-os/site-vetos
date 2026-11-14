@@ -18,7 +18,6 @@ interface EntreeDuCatalogue {
   alt: Record<Langue, string>;
   /** Le point à garder visible, de 0 à 1 depuis le coin haut gauche. */
   point_focal?: { x: number; y: number };
-  source?: string;
 }
 
 export interface Photo {

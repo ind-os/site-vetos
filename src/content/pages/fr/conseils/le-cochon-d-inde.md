@@ -5,7 +5,6 @@ title: "Cochon d'Inde : habitat, vitamine C, soins | Vetmint"
 description: "Le cochon d'Inde : vie en groupe, cage et sol, vitamine C chaque jour, foin, stérilisation, dépistages et signes qui imposent d'appeler le vétérinaire."
 h1: Le cochon d'Inde
 recherche: cochon d'Inde
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 2
 resume: "Vivre avec des cochons d'Inde : groupe, espace, vitamine C, foin, prévention et signes d'alerte."

@@ -6,7 +6,6 @@ title: "Tierarztpreise in Fribourg Ouest: Impfungen, Operationen"
 description: "Preise der Praxis Vetmint Fribourg Ouest: Konsultation von 30 Minuten für {prix:consultation}, Heimtiere, Impfungen, Operationen, Notfälle. Was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint Fribourg Ouest
 recherche: Tierarztpreise Fribourg Ouest
-redige_le: 2026-11-13
 ---
 
 Die Tierarztpreise der Praxis Vetmint Fribourg Ouest stehen hier Leistung für Leistung, mit dem, was jeder Betrag umfasst. In Givisiez kostet die Konsultation von 30 Minuten {prix:consultation}. Sterilisationen, Kastrationen und die Zahnsteinentfernung sind Pauschalen, Narkose inbegriffen.

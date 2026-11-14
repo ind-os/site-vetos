@@ -6,7 +6,6 @@ title: "Contact et accès : vétérinaire Vetmint Saint-Légier"
 description: "Cabinet vétérinaire Vetmint Saint-Légier, route des Deux-Villages 21. Téléphone, WhatsApp, e-mail, horaires, halte de Saint-Légier-Gare. 021 683 10 10."
 h1: Nous trouver à Saint-Légier
 recherche: contact vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Pour tout contact avec le cabinet vétérinaire Vetmint Saint-Légier, rendez-vous au numéro 21 de la route des Deux-Villages, à Saint-Légier-La Chiésaz. Pendant les heures d'ouverture, le téléphone est le moyen le plus direct de nous joindre. WhatsApp et l'e-mail conviennent à une question qui peut attendre.

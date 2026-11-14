@@ -5,7 +5,6 @@ title: "Rat domestique : cage, alimentation, soins | Vetmint"
 description: "Le rat domestique : vie en groupe, cage-volière, granulés complets, stérilisation, visites selon l'âge et signes qui doivent faire consulter un vétérinaire."
 h1: Le rat domestique
 recherche: rat domestique
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 3
 resume: "Vivre avec des rats : groupe, cage, ration, stérilisation, visites selon l'âge et signes d'alerte."

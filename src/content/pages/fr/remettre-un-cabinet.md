@@ -5,7 +5,6 @@ title: "Remettre son cabinet vétérinaire en Suisse romande | Vetmint"
 description: "Vous pensez à remettre votre cabinet vétérinaire ? Vetmint reprend des cabinets romands ou y entre au capital, sans frais ni intermédiaire, en toute discrétion."
 h1: Remettre un cabinet vétérinaire
 recherche: remettre un cabinet vétérinaire
-redige_le: 2026-11-11
 ---
 
 Vous êtes vétérinaire et pensez à remettre votre cabinet vétérinaire, à vous associer ou à vous installer. Vetmint reprend des cabinets de Suisse romande, prend des participations et soutient les vétérinaires qui s'installent. Un vétérinaire du groupe mène la discussion avec vous, sans intermédiaire et en toute confidentialité.

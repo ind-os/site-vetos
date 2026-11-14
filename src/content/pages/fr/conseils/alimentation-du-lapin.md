@@ -5,7 +5,6 @@ title: "Alimentation du lapin : foin, verdure, granulés | Vetmint"
 description: "Que donner à manger à un lapin : la part de foin, la verdure par kilo, les granulés, les aliments interdits, le calcium des légumes et l'eau à prévoir."
 h1: Alimentation du lapin
 recherche: alimentation du lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 9
 resume: "La ration du lapin : foin à volonté, verdure, peu de granulés, les aliments à bannir et l'eau."

@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire Fribourg Ouest"
 description: "Les questions posées au cabinet Vetmint Fribourg Ouest, à Givisiez : oiseaux et reptiles, prix d'une consultation, urgences du soir, parking. Nos réponses."
 h1: Vos questions sur le cabinet de Fribourg Ouest
 recherche: questions cabinet vétérinaire Fribourg Ouest
-redige_le: 2026-11-13
 ---
 
 Les propriétaires posent souvent les mêmes questions au cabinet vétérinaire Vetmint Fribourg Ouest, au téléphone ou à l'accueil de Givisiez. Chaque réponse mène à la page qui donne le détail.

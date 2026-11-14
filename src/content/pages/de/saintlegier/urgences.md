@@ -6,7 +6,6 @@ title: "Tierärztlicher Notfall in Saint-Légier: wen anrufen"
 description: "Notfall in Saint-Légier: während der Öffnungszeiten 021 683 10 10; nachts und am Wochenende zuerst die Praxis, dann der Notfalldienst der Riviera, 0900 906 906."
 h1: "Tierärztlicher Notfall in Saint-Légier"
 recherche: "Notfall Tierarzt Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 Bei einem tierärztlichen Notfall in Saint-Légier kommt der Anruf vor der Fahrt. Die richtige Nummer hängt von der Uhrzeit ab. Das Team der Tierarztpraxis Vetmint Saint-Légier oder der diensthabende Tierarzt beurteilt die Lage mit Ihnen am Telefon und sagt Ihnen, was Sie unterwegs tun sollen.

@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarzt Vetmint Saint-Légier"
 description: "Termin in der Tierarztpraxis Vetmint Saint-Légier: online für eine Impfung, telefonisch unter 021 683 10 10 für alles andere. Konsultation von 30 Minuten."
 h1: "Termin vereinbaren in Saint-Légier"
 recherche: "Termin Tierarzt Saint-Légier"
-redige_le: 2026-11-14
 ---
 
 In Saint-Légier führen zwei Wege zum Termin. Die Impfung mit dem jährlichen Check buchen Sie online über VetLink. Für jeden anderen Anlass rufen Sie während der Öffnungszeiten die [021 683 10 10](tel:+41216831010) an. Sie können auch auf WhatsApp an die [079 388 16 44](https://wa.me/41793881644) schreiben oder am Schalter an der Route des Deux-Villages 21 vorbeikommen.

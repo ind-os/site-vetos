@@ -6,7 +6,6 @@ title: "Contact et accès : vétérinaire Vetmint Lac-de-Joux"
 description: "Cabinet vétérinaire Vetmint Lac-de-Joux, route de l'Hôtel-de-Ville 11 à L'Abbaye. Arrêt de bus à deux minutes à pied. 021 357 89 90. Toute la vallée de Joux."
 h1: Nous trouver à L'Abbaye
 recherche: contact vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Contact et accès : le cabinet vétérinaire Vetmint Lac-de-Joux est au numéro 11 de la route de l'Hôtel-de-Ville, au centre de L'Abbaye, à deux pas du lac de Joux. Pendant les heures d'ouverture, téléphoner est le plus rapide. Depuis Le Sentier, comptez un quart d'heure en voiture.

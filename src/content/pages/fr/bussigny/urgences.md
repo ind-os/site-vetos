@@ -6,7 +6,6 @@ title: "Urgence vétérinaire à Bussigny : qui appeler, à quelle heure"
 description: "Urgence à Bussigny : aux heures d'ouverture, appelez le 021 703 25 30 ; le soir, la nuit et le dimanche, le 0900 80 70 60. Signes d'alerte et premiers gestes."
 h1: Urgence vétérinaire à Bussigny
 recherche: urgence vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 En cas d'urgence vétérinaire à Bussigny, téléphonez avant de prendre la route. Votre animal est blessé, respire mal ou ne se comporte plus comme d'habitude : au téléphone, on vous dit quoi faire pendant le trajet et où aller. Le numéro à appeler dépend de l'heure.

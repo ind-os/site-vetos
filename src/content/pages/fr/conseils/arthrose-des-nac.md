@@ -5,7 +5,6 @@ title: "Arthrose du lapin et des NAC : signes, traitement | Vetmint"
 description: "Arthrose du lapin et des NAC : raideur, toilette négligée, refus de sauter. Les signes à repérer, les examens et un traitement qui mêle soins, sol et exercice."
 h1: L'arthrose chez le lapin et les NAC
 recherche: arthrose lapin
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 16
 resume: L'usure douloureuse des articulations du lapin et des petits mammifères, qui ne se guérit pas mais se soulage.

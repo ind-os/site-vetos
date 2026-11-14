@@ -6,7 +6,6 @@ title: L'équipe vétérinaire de Vetmint Fribourg Ouest
 description: "Quatre vétérinaires et une assistante à Givisiez : Léo Munné pour les NAC, Victor Mignon pour les urgences, Laura Frère, Ewen Kerharo et Mathilde Bley."
 h1: L'équipe de Vetmint Fribourg Ouest
 recherche: équipe vétérinaire Fribourg Ouest
-redige_le: 2026-11-13
 resume: Quatre vétérinaires et une assistante en médecine vétérinaire, route des Fluides 5 à Givisiez, en français, en allemand et en anglais.
 ---
 

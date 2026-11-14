@@ -6,7 +6,6 @@ title: "Tierarztpreise in Payerne: Impfungen, Operationen, Notfälle"
 description: "Preise der Praxis Vetmint Payerne: Konsultation von 30 Minuten für {prix:consultation}, Impfungen, Kastrationen, Zahnsteinentfernung, Notfälle. Was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint Payerne
 recherche: Tierarztpreise Payerne
-redige_le: 2026-11-03
 ---
 
 Der Tarif der Tierarztpraxis Vetmint Payerne ist Zeile für Zeile veröffentlicht, mit dem, was jeder Betrag umfasst. An der Route du Châtelard 13 kostet eine Konsultation von 30 Minuten {prix:consultation}. Kastrationen, Sterilisationen und die Zahnsteinentfernung haben einen Pauschalpreis, Narkose inbegriffen.

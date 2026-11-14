@@ -6,7 +6,6 @@ title: "Tierärztliche Leistungen in Saint-Blaise | Vetmint"
 description: "Tierärztliche Leistungen in Saint-Blaise für Hunde, Katzen und Heimtiere: Konsultation von 30 Minuten zu {prix:consultation}, Chirurgie, Zähne, Röntgen und Ultraschall."
 h1: Die Leistungen in Saint-Blaise
 recherche: tierärztliche Leistungen Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Die tierärztlichen Leistungen der Praxis Vetmint Saint-Blaise finden an der Rue des Bourguillards 11 statt, in den Räumen, die die Praxis mit Vet'Urgences Neuchâtel teilt. Jede Behandlung hat ihre Seite: wie sie in Saint-Blaise abläuft, wer sie übernimmt und was sie in der Praxis kostet.

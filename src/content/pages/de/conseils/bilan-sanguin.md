@@ -5,7 +5,6 @@ title: "Blutuntersuchung bei Hund und Katze: wozu | Vetmint"
 description: "Blutuntersuchung bei Hund, Katze oder Kaninchen: vor einer Narkose, bei kranken oder älteren Tieren, bei Risikorassen. Was sie misst und wie sie abläuft."
 h1: "Blutuntersuchung: wozu eine Blutentnahme dient"
 recherche: Blutuntersuchung Hund Katze
-redige_le: 2026-10-16
 especes: [chien, chat, nac]
 ordre: 5
 resume: Vor einer Operation, bei einem kranken oder älteren Tier zeigt der Bluttest, was die Untersuchung nicht sieht.

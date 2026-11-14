@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention, Lac-de-Joux"
 description: "Au cabinet de Lac-de-Joux, le plan de prévention d'un chiot ou d'un chaton coûte {prix:plan-prevention} pour une année. Abonnements mensuels dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à L'Abbaye
 recherche: abonnement vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 ---
 
 Le cabinet vétérinaire Vetmint Lac-de-Joux offre deux moyens de payer la prévention à l'avance. Le plan de prévention couvre d'un coup la première année d'un chiot ou d'un chaton. L'abonnement mensuel accompagne un chien ou un chat de n'importe quel âge et répartit ses soins courants sur douze mois.

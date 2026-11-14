@@ -6,7 +6,6 @@ title: "Vétérinaire à L'Abbaye : cabinet Vetmint Lac-de-Joux"
 description: "Cabinet vétérinaire de la vallée de Joux, à L'Abbaye, pour chiens, chats et NAC. Consultation de 30 minutes, chirurgie, endoscopie, urgences. 021 357 89 90."
 h1: Cabinet vétérinaire Vetmint Lac-de-Joux
 recherche: vétérinaire Lac-de-Joux
-redige_le: 2026-11-14
 resume: Chiens, chats et NAC, route de l'Hôtel-de-Ville 11 à L'Abbaye. Trois vétérinaires, consultations de 30 minutes sur rendez-vous.
 ---
 

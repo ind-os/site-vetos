@@ -5,7 +5,6 @@ title: Harngriess bei Kaninchen und Meerschweinchen | Vetmint
 description: "Harngriess bei Kaninchen und Meerschweinchen: dicker, weisser Urin, Blut, Schmerzen. Die Rolle des Kalziums, die Untersuchungen, die Behandlung und das Wasser."
 h1: Harngriess bei Kaninchen und Meerschweinchen
 recherche: Harngriess Kaninchen
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 18
 resume: Kalziumgriess in der Blase von Kaninchen oder Meerschweinchen, dem Wasser, Ernährung und Bewegung vorbeugen.

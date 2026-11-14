@@ -5,7 +5,6 @@ title: "Mykoplasmose bei der Ratte: Anzeichen, Therapie | Vetmint"
 description: "Mykoplasmose der Ratte: Niesen, Husten, rote Spuren um Augen und Nase, Gewichtsverlust. Erreger, wann Sie anrufen sollten, die Behandlung und die Vorbeugung."
 h1: Mykoplasmose bei der Ratte
 recherche: Mykoplasmose Ratte
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 17
 resume: Eine häufige, oft chronische Atemwegsinfektion der Ratte, die früh behandelt werden muss.

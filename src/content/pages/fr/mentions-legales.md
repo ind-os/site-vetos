@@ -5,7 +5,6 @@ title: "Mentions légales du site Vetmint"
 description: "Éditeur du site Vetmint, sociétés des huit cabinets, hébergement en Suisse, droits sur les textes et les images, droit applicable. Contact : ek@vetmint.ch."
 h1: Mentions légales
 recherche: mentions légales Vetmint
-redige_le: 2026-10-16
 ---
 
 Les mentions légales qui suivent valent pour tout le site vetmint.ch, pages des huit cabinets compris. Le site est édité par Vetmint SA. Chaque cabinet est exploité par sa propre société, filiale du groupe.

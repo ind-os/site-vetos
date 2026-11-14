@@ -6,7 +6,6 @@ title: "Services vétérinaires à Fribourg Ouest | Vetmint"
 description: "Services vétérinaires à Fribourg Ouest, à Givisiez : consultation de 30 minutes à {prix:consultation}, médecine avancée des NAC, chirurgie des os, endoscopie, dents."
 h1: Les services à Fribourg Ouest
 recherche: services vétérinaires Fribourg Ouest
-redige_le: 2026-11-13
 ---
 
 Le cabinet Vetmint Fribourg Ouest propose ses services vétérinaires au 4ᵉ étage de la route des Fluides 5, à Givisiez. Seules les visites à domicile se passent ailleurs. Pour chaque soin, une page décrit le déroulement à Givisiez, les vétérinaires qui le pratiquent et son prix.

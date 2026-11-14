@@ -8,7 +8,6 @@ nom: Röntgen
 en_phrase: "das Röntgen"
 presentation_dans_le_cabinet: "Die Praxis {cabinet} verfügt über ein digitales Röntgengerät für alle Ihre Tiere, Hunde, Katzen und Heimtiere. Das Bild von Knochen, Lunge, Herz oder Bauch erscheint in wenigen Minuten auf dem Bildschirm. Die Tierärztin oder der Tierarzt erklärt es Ihnen sofort. Die Praxis macht auch die offiziellen Aufnahmen für die Dysplasie-Untersuchung."
 recherche: Röntgen Hund Katze
-redige_le: 2026-11-10
 especes: [chien, chat, nac]
 ordre: 5
 resume: Was ein Röntgenbild zeigt, der Ablauf, die Sedation und die Dysplasie-Untersuchung.

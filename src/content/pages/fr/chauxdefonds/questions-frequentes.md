@@ -6,7 +6,6 @@ title: "Questions fréquentes : cabinet vétérinaire La Chaux-de-Fonds"
 description: "Les questions que nos clients de La Chaux-de-Fonds posent le plus : samedi, prix d'une consultation, animal déposé le matin, jeûne, urgence la nuit, accès."
 h1: Vos questions sur le cabinet de La Chaux-de-Fonds
 recherche: questions cabinet vétérinaire La Chaux-de-Fonds
-redige_le: 2026-11-14
 ---
 
 Ces questions reviennent le plus souvent au téléphone et à l'accueil du cabinet vétérinaire Vetmint La Chaux-de-Fonds, avenue Léopold-Robert 12. Chaque réponse renvoie à la page qui donne le détail.

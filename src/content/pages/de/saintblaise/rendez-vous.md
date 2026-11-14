@@ -6,7 +6,6 @@ title: "Termin vereinbaren: Tierarztpraxis Saint-Blaise"
 description: "Termin in der Praxis Vetmint Saint-Blaise: online zu jeder Zeit, unter 032 753 11 22 oder am Empfang. Konsultation von 30 Minuten. Was Sie mitbringen."
 h1: Termin vereinbaren in Saint-Blaise
 recherche: Tierarzt Termin Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Ihren Tierarzttermin in Saint-Blaise buchen Sie online, zu jeder Zeit, in der Agenda der Praxis. Sie können auch während der Öffnungszeiten die [032 753 11 22](tel:+41327531122) anrufen. Am Empfang an der Rue des Bourguillards 11 legen Sie beim Verlassen der Konsultation den nächsten Termin fest. Die Praxis hat kein WhatsApp.

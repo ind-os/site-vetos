@@ -5,7 +5,6 @@ title: "Meerschweinchen: Haltung, Vitamin C, Pflege | Vetmint"
 description: "Das Meerschweinchen: Leben in der Gruppe, Käfig und Boden, tägliches Vitamin C, Heu, Sterilisation, Untersuchungen und Anzeichen, die zur Tierärztin führen."
 h1: "Das Meerschweinchen"
 recherche: "Meerschweinchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 2
 resume: "Leben mit Meerschweinchen: Gruppe, Platz, Vitamin C, Heu, Vorsorge und Warnzeichen."

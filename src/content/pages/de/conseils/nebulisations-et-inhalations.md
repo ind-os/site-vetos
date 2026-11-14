@@ -5,7 +5,6 @@ title: Vernebelung und Inhalation bei Heimtieren | Vetmint
 description: "Vernebelung und Inhalation bei Kaninchen, Nagern oder Vögeln mit Atemnot: wozu sie dienen, welches Gerät Sie wählen und welche Handgriffe zu Hause nötig sind."
 h1: "Konsultationsblatt: Vernebelungen und Inhalationen"
 recherche: Vernebelung Kaninchen
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 20
 resume: Die Handgriffe, um einem Kaninchen, Nager oder Vogel zu Hause eine Vernebelung oder Inhalation zu geben.

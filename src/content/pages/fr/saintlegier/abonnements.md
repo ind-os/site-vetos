@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention à Saint-Légier"
 description: "À Saint-Légier, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an. Abonnements dès {prix:abonnement-adulte-chien} par mois : consultations, vaccins, vermifuges."
 h1: Plan de prévention et abonnements à Saint-Légier
 recherche: abonnement vétérinaire Saint-Légier
-redige_le: 2026-11-14
 ---
 
 Le cabinet vétérinaire Vetmint Saint-Légier offre deux façons de payer la prévention à l'avance, sous la forme d'un plan ou d'un abonnement. Le plan de prévention concerne la première année d'un chiot ou d'un chaton. L'abonnement mensuel accompagne un chien ou un chat tout au long de sa vie : ses soins de routine sont répartis en mensualités sur douze mois.

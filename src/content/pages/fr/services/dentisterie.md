@@ -8,7 +8,6 @@ nom: Dentisterie
 en_phrase: "la dentisterie"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} propose des soins dentaires à tous vos animaux, chiens, chats ou NAC. Nous disposons sur place du matériel pour le détartrage, le polissage et les extractions dentaires. Le cabinet réalise aussi des radiographies dentaires, pour poser un diagnostic plus précis et cibler le traitement."
 recherche: détartrage chien chat
-redige_le: 2026-11-10
 especes: [chien, chat, nac]
 ordre: 4
 resume: Le détartrage sous anesthésie, les extractions, le brossage à la maison et les prix dans les huit cabinets.

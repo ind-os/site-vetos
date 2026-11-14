@@ -104,28 +104,16 @@ export function estFabriquee(page: Page): boolean {
   return page.data.type === 'service-clinique' && !(page.filePath ?? '').includes(`/${page.data.clinique}/`);
 }
 
-/**
- * Les pages que le site construit. En prévisualisation, toutes. À la construction, les pages
- * communes et celles des cliniques en ligne : les pages d'une clinique dont la fiche dit
- * `"en_ligne": false` ne sont ni construites, ni dans le plan du site.
- */
-export async function pagesPubliables(): Promise<Page[]> {
-  const pages = await toutesLesPages();
-  if (!import.meta.env.PROD) return pages;
-  const enLigne = new Set((await getCollection('cliniques')).filter((c) => c.data.en_ligne).map((c) => c.data.id));
-  return pages.filter((p) => !p.data.clinique || enLigne.has(p.data.clinique));
-}
-
-/** Les pages publiables d'une langue, éventuellement d'un type, dans l'ordre du champ `ordre` puis du titre. */
+/** Les pages d'une langue, éventuellement d'un type, dans l'ordre du champ `ordre` puis du titre. */
 export async function lesPages(langue: Langue, type?: TypeDePage): Promise<Page[]> {
-  return (await pagesPubliables())
+  return (await toutesLesPages())
     .filter((p) => langueDe(p) === langue && (!type || p.data.type === type))
     .sort((a, b) => (a.data.ordre ?? 99) - (b.data.ordre ?? 99) || (a.data.h1 ?? a.data.title).localeCompare(b.data.h1 ?? b.data.title, langue));
 }
 
-/** La page publiable d'une clé dans une langue, ou rien. */
+/** La page d'une clé dans une langue, ou rien. */
 export async function laPage(langue: Langue, cle: string): Promise<Page | undefined> {
-  return (await pagesPubliables()).find((p) => langueDe(p) === langue && cleDe(p) === cle);
+  return (await toutesLesPages()).find((p) => langueDe(p) === langue && cleDe(p) === cle);
 }
 
 /**

@@ -8,7 +8,6 @@ nom: Thérapie laser
 en_phrase: "la thérapie laser"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} propose la thérapie laser aux chiens, aux chats et aux lapins. Cette lumière dirigée sur la zone malade calme la douleur, réduit l'inflammation et accélère la cicatrisation. Elle ne coupe pas et ne brûle pas : votre animal reste éveillé, sans piqûre ni rasage."
 recherche: laser vétérinaire
-redige_le: 2026-11-10
 ordre: 10
 especes: [chien, chat, nac]
 resume: Une lumière qui calme la douleur et accélère la cicatrisation, sans incision ni anesthésie, en séances de quelques minutes.

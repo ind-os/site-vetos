@@ -5,7 +5,6 @@ title: "Schnupfen beim Kaninchen: Anzeichen, Behandlung | Vetmint"
 description: "Schnupfen beim Kaninchen: Niesen, laufende Nase, tränende Augen. Was ihn unterhält, wann Sie zur Tierärztin gehen, Untersuchungen und Behandlung. Von Vetmint."
 h1: "Der Schnupfen beim Kaninchen"
 recherche: "Schnupfen Kaninchen"
-redige_le: 2026-10-16
 especes: [nac]
 ordre: 13
 resume: "Ein Kaninchen, das niest und eine laufende Nase hat, hat oft einen Schnupfen, der früh erkannt besser heilt."

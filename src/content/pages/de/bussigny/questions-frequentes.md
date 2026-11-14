@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint Bussigny"
 description: "Die Fragen, die unsere Kundschaft in Bussigny am häufigsten stellt: Dr. Wicki sehen, Samstag, Komplementärmedizin, Preise, Parkplatz. Die Antworten der Praxis."
 h1: "Ihre Fragen zur Praxis in Bussigny"
 recherche: "Fragen Tierarztpraxis Bussigny"
-redige_le: 2026-11-13
 ---
 
 Die Kundschaft der Tierarztpraxis Vetmint Bussigny stellt diese Fragen oft am Telefon und am Schalter. Jede Antwort führt zur Seite mit den Einzelheiten.

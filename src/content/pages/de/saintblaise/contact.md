@@ -6,7 +6,6 @@ title: "Kontakt, Anfahrt, Parkplatz: Tierarzt Vetmint Saint-Blaise"
 description: "Tierarztpraxis Vetmint Saint-Blaise, Rue des Bourguillards 11: kostenlose Parkplätze vor der Praxis, Bahnhof SBB 6 Minuten zu Fuss. Telefon 032 753 11 22."
 h1: So finden Sie uns in Saint-Blaise
 recherche: Kontakt Tierarzt Saint-Blaise
-redige_le: 2026-11-14
 ---
 
 Die Tierarztpraxis Vetmint Saint-Blaise liegt an der Rue des Bourguillards 11, in den Räumen, die sie mit Vet'Urgences Neuchâtel teilt. Während der Öffnungszeiten ist das Telefon der schnellste Kontakt. Die kostenlosen Parkplätze befinden sich vor der Praxis.

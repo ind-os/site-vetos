@@ -6,7 +6,6 @@ title: "Abonnement vétérinaire et plan de prévention à Bussigny"
 description: "À Bussigny, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an, consultations sans limite. Abonnements chien et chat dès {prix:abonnement-adulte-chien} par mois."
 h1: Plan de prévention et abonnements à Bussigny
 recherche: abonnement vétérinaire Bussigny
-redige_le: 2026-11-13
 ---
 
 Au cabinet Vetmint Bussigny, deux formules règlent d'avance la prévention de votre animal : le plan de prévention et l'abonnement vétérinaire mensuel. Le plan paie d'un coup la première année d'un chiot ou d'un chaton. L'abonnement suit votre chien ou votre chat à chaque âge et divise le prix de ses soins courants en mensualités.

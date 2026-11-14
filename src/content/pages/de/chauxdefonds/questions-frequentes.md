@@ -6,7 +6,6 @@ title: "Häufige Fragen: Tierarztpraxis Vetmint La Chaux-de-Fonds"
 description: "Die Fragen unserer Kundschaft in La Chaux-de-Fonds: Samstag, Preis einer Konsultation, Tier am Morgen abgeben, nüchtern, Notfall in der Nacht, Anfahrt."
 h1: "Ihre Fragen zur Praxis in La Chaux-de-Fonds"
 recherche: "Fragen Tierarztpraxis La Chaux-de-Fonds"
-redige_le: 2026-11-14
 ---
 
 Diese Fragen hören wir am häufigsten am Telefon und am Empfang der Tierarztpraxis Vetmint La Chaux-de-Fonds, Avenue Léopold-Robert 12. Jede Antwort verweist auf die Seite mit den Einzelheiten.

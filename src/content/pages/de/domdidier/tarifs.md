@@ -6,7 +6,6 @@ title: "Tierarztpreise in Domdidier: Impfungen und Operationen"
 description: "Preise der Praxis Vetmint Domdidier: Konsultation von 30 Minuten zu {prix:consultation}, Impfungen, Kastrationen, Zahnsteinentfernung, Notfälle. Was jeder Preis umfasst."
 h1: Die Preise der Tierarztpraxis Vetmint Domdidier
 recherche: Tierarztpreise Domdidier
-redige_le: 2026-11-13
 ---
 
 Die Tierarztpreise in Domdidier sind öffentlich: Jeder Preis der Praxis steht mit dem, was er umfasst. Die Konsultation von 30 Minuten kostet {prix:consultation}. Sterilisationen, Kastrationen und die Zahnsteinentfernung sind Pauschalen, die Narkose und Schmerzbehandlung einschliessen.

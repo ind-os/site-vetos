@@ -5,7 +5,6 @@ title: "Services vétérinaires des cabinets Vetmint"
 description: "Les soins des huit cabinets Vetmint pour chiens, chats et NAC : prévention, chirurgie, dents, imagerie, analyses, laser, visites à domicile et urgences."
 h1: Nos services vétérinaires
 recherche: services vétérinaires
-redige_le: 2026-11-10
 ---
 
 Les services vétérinaires des huit cabinets Vetmint s'adressent aux chiens, aux chats, aux lapins, aux rongeurs et aux autres nouveaux animaux de compagnie (NAC). Chaque soin a sa page de référence : à quoi il sert, comment il se passe et quels cabinets le pratiquent. Tout commence par une consultation de 30 minutes, le temps d'examiner votre animal en entier.

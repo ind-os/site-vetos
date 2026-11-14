@@ -5,7 +5,6 @@ title: "Schilddrüsenüberfunktion bei Katzen: Anzeichen | Vetmint"
 description: "Schilddrüsenüberfunktion der Katze: Sie nimmt trotz mehr Futter ab, ist unruhig oder hat Durchfall. Anzeichen, Bluttest zur Bestätigung, Therapie und Kontrolle."
 h1: Schilddrüsenüberfunktion bei der Katze
 recherche: Schilddrüsenüberfunktion Katze
-redige_le: 2026-10-16
 especes: [chat]
 ordre: 4
 resume: Eine Katze über 10 Jahren, die trotz mehr Futter abnimmt, hat oft eine überaktive Schilddrüse.
