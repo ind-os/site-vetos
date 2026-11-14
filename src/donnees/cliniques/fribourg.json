@@ -1,6 +1,6 @@
 {
   "id": "fribourg",
-  "en_ligne": false,
+  "en_ligne": true,
   "adresse_hors_ligne": "https://fribourg.vetmint.ch/",
   "nom": "Vetmint Fribourg Ouest",
   "lieu": "Fribourg Ouest",
@@ -61,5 +61,118 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/fribourg-vetmint/30min"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Léo Munné",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "médecine et chirurgie des NAC",
+          "de": "Medizin und Chirurgie der Heimtiere"
+        },
+        {
+          "fr": "soins dentaires des NAC",
+          "de": "Zahnbehandlung der Heimtiere"
+        }
+      ]
+    },
+    {
+      "nom": "Victor Mignon",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "urgences",
+          "de": "Notfälle"
+        },
+        {
+          "fr": "hospitalisation le soir et le week-end",
+          "de": "stationäre Betreuung am Abend und am Wochenende"
+        }
+      ]
+    },
+    {
+      "nom": "Laura Frère",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "chiens, chats et NAC",
+          "de": "Hunde, Katzen und Heimtiere"
+        }
+      ]
+    },
+    {
+      "nom": "Ewen Kerharo",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire, directeur du groupe Vetmint",
+        "de": "Tierarzt, Leiter der Vetmint-Gruppe"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": []
+    },
+    {
+      "nom": "Mathilde Bley",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "soins aux NAC",
+          "de": "Pflege der Heimtiere"
+        }
+      ]
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Route des Fluides 5, au 4ᵉ étage, dans la zone industrielle de Givisiez, entre Fribourg et Corminboeuf",
+      "de": "Route des Fluides 5, im 4. Stock, im Industriegebiet von Givisiez, zwischen Freiburg und Corminboeuf"
+    },
+    "parking": {
+      "fr": "Places de parc à disposition des clients",
+      "de": "Parkplätze für die Kundschaft"
+    },
+    "transports": {
+      "fr": "Arrêt « Givisiez, rte des Fluides » des bus TPF 8 et 9, à 2 minutes à pied",
+      "de": "Haltestelle «Givisiez, rte des Fluides» der TPF-Buslinien 8 und 9, 2 Minuten zu Fuss"
+    },
+    "accessibilite": {
+      "fr": "Cabinet au 4ᵉ étage, desservi par un ascenseur",
+      "de": "Praxis im 4. Stock, mit dem Lift erreichbar"
+    }
+  },
+  "communes": [
+    "Givisiez",
+    "Fribourg",
+    "Corminboeuf"
+  ]
 }

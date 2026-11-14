@@ -77,8 +77,8 @@ Exception : un soin qu'un cabinet est seul à pratiquer, sans page commune, a sa
 - Liens obligatoires : `/<cabinet>/rendez-vous/`, `/emploi/`. Script.
 
 1. Chapeau, à la troisième personne : le nombre de personnes par fonction, les langues parlées, les animaux suivis. Puis le bouton « Prendre rendez-vous ».
-2. Les vétérinaires : un `###` par personne, nom et fonction ; diplôme et année, parcours en deux phrases, ce qu'elle fait au cabinet, les animaux qu'elle suit de préférence, les langues, une ou deux phrases personnelles. 120 à 200 mots par personne. Puis un `###`, « Voir le même vétérinaire d'une visite à l'autre » : comment demander le vétérinaire qui suit l'animal.
-3. Les assistantes en médecine vétérinaire : ce qu'elles font au cabinet, puis un `###` par personne, 50 à 100 mots. Sans assistante nommée dans la fiche, la section n'existe pas.
+2. Les vétérinaires : un `###` par personne, nom et fonction ; diplôme et année, parcours en deux phrases, ce qu'elle fait au cabinet, les animaux qu'elle suit de préférence, les langues, une ou deux phrases personnelles. 200 mots au plus par personne ; un portrait est aussi long que ses faits, et une ou deux phrases suffisent quand on ne connaît que le nom, la fonction et les langues. Puis un `###`, « Voir le même vétérinaire d'une visite à l'autre » : comment demander le vétérinaire qui suit l'animal.
+3. Les assistantes en médecine vétérinaire : ce qu'elles font au cabinet, puis un `###` par personne, 100 mots au plus, aussi long que ses faits. Sans assistante nommée dans la fiche, la section n'existe pas.
 4. Les apprentis : comment se passe l'apprentissage au cabinet, puis un `###` par personne, plus court. Sans apprenti dans la fiche, la section n'existe pas.
 5. Les intervenants externes, s'il y en a : qui vient, pour quoi, à quel rythme. Ils ne sont pas dans le champ `equipe` de la fiche, qui donne les cartes de l'équipe et les portraits de l'accueil : seule cette section les présente.
 6. Comment l'équipe reçoit votre animal : trois `###`, à l'accueil, en consultation, le jour d'une opération ; puis le téléphone et le bouton « Prendre rendez-vous ».

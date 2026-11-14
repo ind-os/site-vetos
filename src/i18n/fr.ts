@@ -161,8 +161,9 @@ export const fr = {
     veterinairesDuCabinet: (noms: string, nombre: number) => `${nombre > 1 ? 'Les vétérinaires du cabinet' : 'Le vétérinaire du cabinet'}\u00a0: ${noms}.`,
     estProche: 'Le cabinet est-il proche de chez moi\u00a0?',
     clientsDuCabinet: (localite: string, communes: string) => `Ses clients viennent ${deLaLocalite(localite)} et des environs\u00a0: ${communes}.`,
-    /** Apr\u00e8s les communes : le lien vers la page Contact du cabinet, `lien` en HTML. */
-    voirLaPageContact: (lien: string) => `L\u2019itin\u00e9raire et le parking sont sur la page ${lien}.`,
+    /** Apr\u00e8s les communes : le lien vers la page Contact du cabinet, `lien` en HTML ; le parking seulement si la fiche le d\u00e9crit. */
+    voirLaPageContact: (lien: string, parking: boolean) =>
+      parking ? `L\u2019itin\u00e9raire et le parking sont sur la page ${lien}.` : `L\u2019itin\u00e9raire est sur la page ${lien}.`,
     pageContact: 'Contact',
     commentPrendreRendezVous: (enPhrase: string) => `Comment prendre rendez-vous pour ${enPhrase}\u00a0?`,
     rendezVousParTelephone: (telephone: string, whatsapp: string) =>

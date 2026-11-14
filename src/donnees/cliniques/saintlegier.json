@@ -1,6 +1,6 @@
 {
   "id": "saintlegier",
-  "en_ligne": false,
+  "en_ligne": true,
   "adresse_hors_ligne": "https://saintlegier.vetmint.ch/",
   "nom": "Vetmint Saint-Légier",
   "lieu": "Saint-Légier",
@@ -19,13 +19,27 @@
     "affiche": "021 683 10 10",
     "international": "+41216831010"
   },
+  "whatsapp": {
+    "affiche": "079 388 16 44",
+    "international": "+41793881644"
+  },
   "email": "st-legier@vetmint.ch",
   "especes": [
     "chien",
     "chat",
     "nac"
   ],
-  "services": ["prevention", "chirurgie", "dentisterie", "radiographie", "echographie", "hospitalisation", "analyses-sanguines", "visites-a-domicile", "laser"],
+  "services": [
+    "prevention",
+    "chirurgie",
+    "dentisterie",
+    "radiographie",
+    "echographie",
+    "hospitalisation",
+    "analyses-sanguines",
+    "visites-a-domicile",
+    "laser"
+  ],
   "urgences": true,
   "horaires": {
     "lundi": [
@@ -61,5 +75,118 @@
   "rendez_vous": {
     "outil": "vetlink",
     "adresse": "https://www.vetlink.ch/fr/cabinet/vetmint-st-legier-la-chiesaz"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Romain Abos",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "ophtalmologie",
+          "de": "Augenheilkunde"
+        },
+        {
+          "fr": "dentisterie",
+          "de": "Zahnmedizin"
+        },
+        {
+          "fr": "médecine du chat",
+          "de": "Katzenmedizin"
+        }
+      ]
+    },
+    {
+      "nom": "Louise Schneider",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        },
+        {
+          "fr": "échographie et radiographie",
+          "de": "Ultraschall und Röntgen"
+        },
+        {
+          "fr": "stérilisations et soins dentaires",
+          "de": "Kastrationen und Zahnbehandlungen"
+        }
+      ]
+    },
+    {
+      "nom": "Aurore",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "soins",
+          "de": "Pflege"
+        }
+      ]
+    },
+    {
+      "nom": "Ruby",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": []
+    },
+    {
+      "nom": "Marie",
+      "titre": null,
+      "fonction": {
+        "fr": "Apprentie assistante en médecine vétérinaire",
+        "de": "Lernende Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": []
+    }
+  ],
+  "acces": {
+    "transports": {
+      "fr": "Halte de Saint-Légier-Gare, sur la ligne de train de Vevey à Blonay, à environ 5 minutes à pied",
+      "de": "Haltestelle Saint-Légier-Gare an der Bahnlinie Vevey–Blonay, etwa 5 Minuten zu Fuss"
+    }
+  },
+  "communes": [
+    "Saint-Légier-La Chiésaz",
+    "Blonay",
+    "Vevey",
+    "La Tour-de-Peilz",
+    "Corsier-sur-Vevey",
+    "Jongny",
+    "Chardonne",
+    "Montreux"
+  ]
 }

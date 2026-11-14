@@ -1,6 +1,6 @@
 {
   "id": "lacdejoux",
-  "en_ligne": false,
+  "en_ligne": true,
   "adresse_hors_ligne": "https://lacdejoux.vetmint.ch/",
   "nom": "Vetmint Lac-de-Joux",
   "lieu": "Lac-de-Joux",
@@ -66,5 +66,107 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmint/vetmint"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Véronique Curchod",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        }
+      ]
+    },
+    {
+      "nom": "Laura Antoine",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierärztin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        },
+        {
+          "fr": "médecine interne, en formation",
+          "de": "innere Medizin, in Weiterbildung"
+        }
+      ]
+    },
+    {
+      "nom": "Philippe Boudaroua",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "consultations",
+          "de": "Sprechstunden"
+        }
+      ]
+    },
+    {
+      "nom": "Clémence Bruillard",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante vétérinaire",
+        "de": "Tierarztassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "assistance en consultation et au bloc",
+          "de": "Assistenz in der Sprechstunde und im OP"
+        }
+      ]
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Route de l'Hôtel-de-Ville 11, au centre de L'Abbaye, à deux pas du lac de Joux",
+      "de": "Route de l'Hôtel-de-Ville 11, im Zentrum von L'Abbaye, wenige Schritte vom Lac de Joux"
+    },
+    "transports": {
+      "fr": "Arrêt de bus L'Abbaye, place du village, à deux minutes à pied ; gare du Pont à 2,5 km environ",
+      "de": "Bushaltestelle L'Abbaye, place du village, zwei Minuten zu Fuss; Bahnhof Le Pont etwa 2,5 km entfernt"
+    }
+  },
+  "communes": [
+    "L'Abbaye",
+    "Le Pont",
+    "Les Bioux",
+    "Le Lieu",
+    "Le Séchey",
+    "Les Charbonnières",
+    "Le Sentier",
+    "L'Orient",
+    "Le Solliat",
+    "Le Brassus",
+    "Vallorbe",
+    "Vaulion"
+  ]
 }

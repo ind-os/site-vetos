@@ -66,7 +66,7 @@ const infosPratiques = [
     ? [
         {
           question: t.services.estProche,
-          reponse: `<p>${echapper(t.services.clientsDuCabinet(localite, enumerer(communes, langue)))} ${t.services.voirLaPageContact(`<a href="${await adresse(langue, `${clinique.id}/contact`)}">${echapper(t.services.pageContact)}</a>`)}</p>`,
+          reponse: `<p>${echapper(t.services.clientsDuCabinet(localite, enumerer(communes, langue)))} ${t.services.voirLaPageContact(`<a href="${await adresse(langue, `${clinique.id}/contact`)}">${echapper(t.services.pageContact)}</a>`, Boolean(clinique.acces?.parking))}</p>`,
         },
       ]
     : []),

@@ -809,5 +809,408 @@
       "y": 0.33
     },
     "source": "https://bussigny.vetmint.ch/wp-content/uploads/2026/08/PB.png"
+  },
+  {
+    "fichier": "fribourg-accueil-veterinaire-chiot-chaton.jpg",
+    "sujet": "fribourg:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en blouse blanche tient dans ses bras un chiot cocker et un chaton roux",
+      "de": "Eine Tierärztin im weissen Kittel hält einen Cockerspaniel-Welpen und ein rotes Kätzchen im Arm"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+  },
+  {
+    "fichier": "fribourg-accueil-veterinaires-labrador.jpg",
+    "sujet": "fribourg:accueil",
+    "alt": {
+      "fr": "Deux vétérinaires en blouse blanche sourient derrière un labrador couché sur la table d'examen",
+      "de": "Zwei Tierärzte im weissen Kittel lächeln hinter einem Labrador, der auf dem Untersuchungstisch liegt"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2021/02/HR_couple-labrador-scaled.jpeg"
+  },
+  {
+    "fichier": "fribourg-accueil-veterinaire-beagle-chat.jpg",
+    "sujet": "fribourg:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en tenue bleue sourit entre un chiot beagle et un chat gris",
+      "de": "Eine Tierärztin in blauer Berufskleidung lächelt zwischen einem Beagle-Welpen und einer grauen Katze"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+  },
+  {
+    "fichier": "fribourg-equipe-leo-munne.jpg",
+    "sujet": "fribourg:equipe:Léo Munné",
+    "alt": {
+      "fr": "Léo Munné, vétérinaire en blouse blanche, un furet posé sur l'épaule",
+      "de": "Léo Munné, Tierarzt im weissen Kittel, mit einem Frettchen auf der Schulter"
+    },
+    "point_focal": {
+      "x": 0.49,
+      "y": 0.36
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2024/02/LM.png"
+  },
+  {
+    "fichier": "fribourg-equipe-victor-mignon.jpg",
+    "sujet": "fribourg:equipe:Victor Mignon",
+    "alt": {
+      "fr": "Victor Mignon, vétérinaire, tient un boa devant des terrariums",
+      "de": "Victor Mignon, Tierarzt, hält eine Boa vor Terrarien"
+    },
+    "point_focal": {
+      "x": 0.51,
+      "y": 0.23
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2025/11/VictorMignon.jpg"
+  },
+  {
+    "fichier": "fribourg-equipe-laura-frere.jpg",
+    "sujet": "fribourg:equipe:Laura Frère",
+    "alt": {
+      "fr": "Laura Frère, vétérinaire, assise à côté d'un bouvier bernois devant un mur vert",
+      "de": "Laura Frère, Tierärztin, sitzt neben einem Berner Sennenhund vor einer grünen Wand"
+    },
+    "point_focal": {
+      "x": 0.68,
+      "y": 0.27
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2025/09/Lauracopie-scaled.jpg"
+  },
+  {
+    "fichier": "fribourg-equipe-mathilde-bley.jpg",
+    "sujet": "fribourg:equipe:Mathilde Bley",
+    "alt": {
+      "fr": "Mathilde Bley, assistante en médecine vétérinaire, tient un lapin gris dans une salle de consultation",
+      "de": "Mathilde Bley, Tiermedizinische Praxisassistentin, hält ein graues Kaninchen in einem Sprechzimmer"
+    },
+    "point_focal": {
+      "x": 0.48,
+      "y": 0.27
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2026/05/Mathilde-fribourg.jpg"
+  },
+  {
+    "fichier": "fribourg-equipe-ewen-kerharo.jpg",
+    "sujet": "fribourg:equipe:Ewen Kerharo",
+    "alt": {
+      "fr": "Ewen Kerharo, vétérinaire, en tenue bleu marine devant un mur blanc",
+      "de": "Ewen Kerharo, Tierarzt, in dunkelblauer Berufskleidung vor einer weissen Wand"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.43
+    },
+    "source": "https://fribourg.vetmint.ch/wp-content/uploads/2024/02/EK.png"
+  },
+  {
+    "fichier": "saintblaise-accueil-veterinaires-labrador.jpg",
+    "sujet": "saintblaise:accueil",
+    "alt": {
+      "fr": "Deux vétérinaires en blouse blanche sourient derrière un labrador couché sur la table d'examen",
+      "de": "Zwei Tierärzte im weissen Kittel lächeln hinter einem Labrador, der auf dem Untersuchungstisch liegt"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.45
+    },
+    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2021/02/HR_couple-labrador-scaled.jpeg"
+  },
+  {
+    "fichier": "saintblaise-equipe-philippe-boudaroua.jpg",
+    "sujet": "saintblaise:equipe:Philippe Boudaroua",
+    "alt": {
+      "fr": "Philippe Boudaroua, vétérinaire, en noir et blanc à côté d'un chien blanc à poil long",
+      "de": "Philippe Boudaroua, Tierarzt, in Schwarzweiss neben einem weissen langhaarigen Hund"
+    },
+    "point_focal": {
+      "x": 0.4,
+      "y": 0.35
+    },
+    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2024/02/PB.png"
+  },
+  {
+    "fichier": "saintblaise-equipe-laura-franchini.jpg",
+    "sujet": "saintblaise:equipe:Laura Franchini",
+    "alt": {
+      "fr": "Laura Franchini, assistante vétérinaire, tient un chat noir et blanc dans ses bras",
+      "de": "Laura Franchini, Tierarztassistentin, hält eine schwarz-weisse Katze im Arm"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.3
+    },
+    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2024/02/LF.png"
+  },
+  {
+    "fichier": "saintblaise-accueil-veterinaire-chiot-chaton.jpg",
+    "sujet": "saintblaise:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en blouse blanche tient dans ses bras un chiot cocker et un chaton roux",
+      "de": "Eine Tierärztin im weissen Kittel hält einen Cockerspaniel-Welpen und ein rotes Kätzchen im Arm"
+    },
+    "point_focal": {
+      "x": 0.53,
+      "y": 0.5
+    },
+    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+  },
+  {
+    "fichier": "saintblaise-accueil-veterinaires-examen-oreille.jpg",
+    "sujet": "saintblaise:accueil",
+    "alt": {
+      "fr": "Deux vétérinaires examinent à l'otoscope l'oreille d'un petit chien blanc à poil long",
+      "de": "Zwei Tierärzte untersuchen mit dem Otoskop das Ohr eines kleinen weissen langhaarigen Hundes"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.45
+    },
+    "source": "https://saintblaise.vetmint.ch/wp-content/uploads/2021/03/Veterinaire-Femme.jpg"
+  },
+  {
+    "fichier": "lacdejoux-accueil-veterinaire-beagle-chat.jpg",
+    "sujet": "lacdejoux:accueil",
+    "alt": {
+      "fr": "Une vétérinaire souriante en tenue bleue, entre un chiot beagle et un chat gris",
+      "de": "Eine lächelnde Tierärztin in blauer Berufskleidung zwischen einem Beagle-Welpen und einer grauen Katze"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.45
+    },
+    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+  },
+  {
+    "fichier": "lacdejoux-equipe-veronique-curchod.jpg",
+    "sujet": "lacdejoux:equipe:Véronique Curchod",
+    "alt": {
+      "fr": "Véronique Curchod, vétérinaire, à côté d'un berger picard",
+      "de": "Véronique Curchod, Tierärztin, neben einem Berger Picard"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.38
+    },
+    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2025/02/Veronique-scaled-e1740042004589.jpg"
+  },
+  {
+    "fichier": "lacdejoux-equipe-clemence-bruillard.jpg",
+    "sujet": "lacdejoux:equipe:Clémence Bruillard",
+    "alt": {
+      "fr": "Clémence Bruillard, assistante vétérinaire, tient une chatte écaille de tortue contre elle",
+      "de": "Clémence Bruillard, Tierarztassistentin, hält eine Schildpattkatze an sich"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.4
+    },
+    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2025/04/Clemence.jpg"
+  },
+  {
+    "fichier": "saintlegier-accueil-romain-abos-corgi.jpg",
+    "sujet": "saintlegier:accueil",
+    "alt": {
+      "fr": "Romain Abos, vétérinaire, tient un corgi noir et blanc dans ses bras au cabinet de Saint-Légier",
+      "de": "Romain Abos, Tierarzt, hält in der Praxis Saint-Légier einen schwarz-weissen Corgi im Arm"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.4
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013192-1.jpg"
+  },
+  {
+    "fichier": "saintlegier-accueil-louise-schneider-chaton.jpg",
+    "sujet": "saintlegier:accueil",
+    "alt": {
+      "fr": "Louise Schneider, vétérinaire, tient un chaton crème contre elle au cabinet de Saint-Légier",
+      "de": "Louise Schneider, Tierärztin, hält in der Praxis Saint-Légier ein cremefarbenes Kätzchen an sich gedrückt"
+    },
+    "point_focal": {
+      "x": 0.55,
+      "y": 0.4
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013191-1.jpg"
+  },
+  {
+    "fichier": "saintlegier-accueil-veterinaire-chiot-chaton.jpg",
+    "sujet": "saintlegier:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en blouse blanche tient dans ses bras un chiot cocker et un chaton roux",
+      "de": "Eine Tierärztin im weissen Kittel hält einen Cockerspaniel-Welpen und ein rotes Kätzchen im Arm"
+    },
+    "point_focal": {
+      "x": 0.53,
+      "y": 0.5
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2022/04/AdobeStock_287230497-scaled-1.jpeg"
+  },
+  {
+    "fichier": "saintlegier-equipe-romain-abos.jpg",
+    "sujet": "saintlegier:equipe:Romain Abos",
+    "alt": {
+      "fr": "Romain Abos, vétérinaire, tient un corgi noir et blanc dans ses bras",
+      "de": "Romain Abos, Tierarzt, hält einen schwarz-weissen Corgi im Arm"
+    },
+    "point_focal": {
+      "x": 0.45,
+      "y": 0.3
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013192-1.jpg"
+  },
+  {
+    "fichier": "saintlegier-equipe-louise-schneider.jpg",
+    "sujet": "saintlegier:equipe:Louise Schneider",
+    "alt": {
+      "fr": "Louise Schneider, vétérinaire, tient un chaton crème contre elle",
+      "de": "Louise Schneider, Tierärztin, hält ein cremefarbenes Kätzchen an sich gedrückt"
+    },
+    "point_focal": {
+      "x": 0.62,
+      "y": 0.25
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/12/1000013191-1.jpg"
+  },
+  {
+    "fichier": "saintlegier-equipe-aurore.jpg",
+    "sujet": "saintlegier:equipe:Aurore",
+    "alt": {
+      "fr": "Aurore, assistante en médecine vétérinaire, joue contre joue avec un chien au museau blanc",
+      "de": "Aurore, Tiermedizinische Praxisassistentin, Wange an Wange mit einem Hund mit weisser Schnauze"
+    },
+    "point_focal": {
+      "x": 0.35,
+      "y": 0.4
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2023/03/AJ.png"
+  },
+  {
+    "fichier": "saintlegier-equipe-ruby.jpg",
+    "sujet": "saintlegier:equipe:Ruby",
+    "alt": {
+      "fr": "Ruby, assistante en médecine vétérinaire, rit avec un bouvier bernois pendant une séance de laser",
+      "de": "Ruby, Tiermedizinische Praxisassistentin, lacht mit einem Berner Sennenhund während einer Lasersitzung"
+    },
+    "point_focal": {
+      "x": 0.4,
+      "y": 0.3
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+  },
+  {
+    "fichier": "saintlegier-equipe-marie.jpg",
+    "sujet": "saintlegier:equipe:Marie",
+    "alt": {
+      "fr": "Marie, apprentie assistante en médecine vétérinaire, à cheval sur un chemin de campagne",
+      "de": "Marie, Lernende Tiermedizinische Praxisassistentin, zu Pferd auf einem Feldweg"
+    },
+    "point_focal": {
+      "x": 0.48,
+      "y": 0.35
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/marie-carrard.jpg"
+  },
+  {
+    "fichier": "saintlegier-service-laser-bouvier.jpg",
+    "sujet": "saintlegier:service:laser",
+    "alt": {
+      "fr": "Une assistante en lunettes de protection tient un bouvier bernois pendant qu'une sonde laser traite son poitrail, au cabinet de Saint-Légier",
+      "de": "Eine Assistentin mit Schutzbrille hält in der Praxis Saint-Légier einen Berner Sennenhund, während eine Lasersonde seine Brust behandelt"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.45
+    },
+    "source": "https://saintlegier.vetmint.ch/wp-content/uploads/2025/07/ruby-tscherrig.jpg"
+  },
+  {
+    "fichier": "chauxdefonds-accueil-veterinaire-beagle-chat.jpg",
+    "sujet": "chauxdefonds:accueil",
+    "alt": {
+      "fr": "Une vétérinaire en tenue bleue sourit entre un chiot beagle et un chat gris",
+      "de": "Eine Tierärztin in blauer Kleidung lächelt zwischen einem Beagle-Welpen und einer grauen Katze"
+    },
+    "point_focal": {
+      "x": 0.5,
+      "y": 0.55
+    },
+    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2021/03/Veto_pro.jpg"
+  },
+  {
+    "fichier": "chauxdefonds-equipe-raphael-virapin.jpg",
+    "sujet": "chauxdefonds:equipe:Raphaël Virapin",
+    "alt": {
+      "fr": "Raphaël Virapin, vétérinaire en tenue bleue, accroupi dans un parc à côté d'un berger allemand",
+      "de": "Raphaël Virapin, Tierarzt in blauer Kleidung, kauert in einem Park neben einem Deutschen Schäferhund"
+    },
+    "point_focal": {
+      "x": 0.62,
+      "y": 0.36
+    },
+    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/12/Raphael-tenue-travail-scaled-e1734079872685.jpg"
+  },
+  {
+    "fichier": "chauxdefonds-equipe-charlotte-humbert-droz.jpg",
+    "sujet": "chauxdefonds:equipe:Charlotte Humbert-Droz",
+    "alt": {
+      "fr": "Charlotte Humbert-Droz, assistante en médecine vétérinaire, assise entre un berger des Shetland et un grand chien blanc",
+      "de": "Charlotte Humbert-Droz, Tiermedizinische Praxisassistentin, sitzt zwischen einem Shetland Sheepdog und einem grossen weissen Hund"
+    },
+    "point_focal": {
+      "x": 0.49,
+      "y": 0.33
+    },
+    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/12/Charlotte-e1734080321862.jpg"
+  },
+  {
+    "fichier": "chauxdefonds-equipe-lorena-geronazzo.jpg",
+    "sujet": "chauxdefonds:equipe:Lorena Geronazzo",
+    "alt": {
+      "fr": "Lorena Geronazzo, assistante vétérinaire, debout dans un pré avec une poule dans les mains et deux chiens à ses pieds",
+      "de": "Lorena Geronazzo, Tierarztassistentin, steht auf einer Wiese mit einem Huhn in den Händen und zwei Hunden zu ihren Füssen"
+    },
+    "point_focal": {
+      "x": 0.51,
+      "y": 0.09
+    },
+    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2025/11/Lorena.jpg"
+  },
+  {
+    "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
+    "sujet": "lacdejoux:equipe:Philippe Boudaroua",
+    "alt": {
+      "fr": "Philippe Boudaroua, vétérinaire, en noir et blanc à côté d'un chien blanc à poil long",
+      "de": "Philippe Boudaroua, Tierarzt, in Schwarz-Weiss neben einem weissen, langhaarigen Hund"
+    },
+    "point_focal": {
+      "x": 0.4,
+      "y": 0.35
+    },
+    "source": "https://lacdejoux.vetmint.ch/wp-content/uploads/2024/02/PB.png"
+  },
+  {
+    "fichier": "bussigny-equipe-philippe-boudaroua.jpg",
+    "sujet": "chauxdefonds:equipe:Philippe Boudaroua",
+    "alt": {
+      "fr": "Philippe Boudaroua, vétérinaire, sourit à côté d'un grand chien blanc à poil long",
+      "de": "Philippe Boudaroua, Tierarzt, lächelt neben einem grossen weissen, langhaarigen Hund"
+    },
+    "point_focal": {
+      "x": 0.33,
+      "y": 0.33
+    },
+    "source": "https://chauxdefonds.vetmint.ch/wp-content/uploads/2024/02/PB.png"
   }
 ]

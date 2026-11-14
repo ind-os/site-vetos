@@ -14,7 +14,7 @@ especes: [chien, chat, nac]
 resume: Une caméra fine pour regarder l'estomac, l'intestin, le nez ou les bronches, et retirer un objet avalé sans opération.
 ---
 
-L'endoscopie du chien et du chat fait entrer une caméra fine et souple par la bouche, le nez ou l'anus. Le vétérinaire voit l'intérieur de l'estomac, de l'intestin, du nez ou des bronches sur un écran. Il peut y prélever un petit morceau de tissu ou retirer un objet avalé, sans ouvrir le ventre. Chez Vetmint, l'endoscopie se fait au cabinet de Fribourg Ouest, à Givisiez, sous anesthésie générale.
+L'endoscopie du chien et du chat fait entrer une caméra fine et souple par la bouche, le nez ou l'anus. Le vétérinaire voit l'intérieur de l'estomac, de l'intestin, du nez ou des bronches sur un écran. Il peut y prélever un petit morceau de tissu ou retirer un objet avalé, sans ouvrir le ventre. L'endoscopie se fait sous anesthésie générale, dans l'un des deux cabinets Vetmint équipés pour la pratiquer : votre animal dort pendant tout l'examen.
 
 [Choisir un cabinet et prendre rendez-vous](/cabinets/)
 

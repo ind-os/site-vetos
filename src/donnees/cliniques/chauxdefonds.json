@@ -1,6 +1,6 @@
 {
   "id": "chauxdefonds",
-  "en_ligne": false,
+  "en_ligne": true,
   "adresse_hors_ligne": "https://chauxdefonds.vetmint.ch/",
   "nom": "Vetmint La Chaux-de-Fonds",
   "lieu": "La Chaux-de-Fonds",
@@ -77,5 +77,105 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintcdf/30min"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Raphaël Virapin",
+      "titre": null,
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "médecine générale",
+          "de": "Allgemeinmedizin"
+        }
+      ]
+    },
+    {
+      "nom": "Philippe Boudaroua",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "médecine générale",
+          "de": "Allgemeinmedizin"
+        }
+      ]
+    },
+    {
+      "nom": "Charlotte Humbert-Droz",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante en médecine vétérinaire",
+        "de": "Tiermedizinische Praxisassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "assistance en consultation et au bloc",
+          "de": "Assistenz in der Sprechstunde und im OP"
+        }
+      ]
+    },
+    {
+      "nom": "Lorena Geronazzo",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante vétérinaire",
+        "de": "Tierarztassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": [
+        {
+          "fr": "accueil",
+          "de": "Empfang"
+        },
+        {
+          "fr": "assistance en consultation et au bloc",
+          "de": "Assistenz in der Sprechstunde und im OP"
+        }
+      ]
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Avenue Léopold-Robert 12, au centre de La Chaux-de-Fonds",
+      "de": "Avenue Léopold-Robert 12, im Zentrum von La Chaux-de-Fonds"
+    },
+    "transports": {
+      "fr": "Gare CFF de La Chaux-de-Fonds à une dizaine de minutes à pied, bus transN sur l'avenue Léopold-Robert",
+      "de": "Bahnhof SBB La Chaux-de-Fonds, etwa zehn Minuten zu Fuss, Busse von transN auf der Avenue Léopold-Robert"
+    }
+  },
+  "communes": [
+    "La Chaux-de-Fonds",
+    "Le Locle",
+    "Les Planchettes",
+    "La Sagne",
+    "Les Ponts-de-Martel",
+    "Les Brenets",
+    "La Ferrière",
+    "Renan",
+    "Les Bois",
+    "Le Noirmont"
+  ]
 }

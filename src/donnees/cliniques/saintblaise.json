@@ -1,6 +1,6 @@
 {
   "id": "saintblaise",
-  "en_ligne": false,
+  "en_ligne": true,
   "adresse_hors_ligne": "https://saintblaise.vetmint.ch/",
   "nom": "Vetmint Saint-Blaise",
   "lieu": "Saint-Blaise",
@@ -25,7 +25,16 @@
     "chat",
     "nac"
   ],
-  "services": ["prevention", "chirurgie", "dentisterie", "radiographie", "echographie", "hospitalisation", "analyses-sanguines", "visites-a-domicile"],
+  "services": [
+    "prevention",
+    "chirurgie",
+    "dentisterie",
+    "radiographie",
+    "echographie",
+    "hospitalisation",
+    "analyses-sanguines",
+    "visites-a-domicile"
+  ],
   "urgences": true,
   "horaires": {
     "lundi": [
@@ -77,5 +86,55 @@
   "rendez_vous": {
     "outil": "calendly",
     "adresse": "https://calendly.com/vetmintsaintblaise/45min"
-  }
+  },
+  "equipe": [
+    {
+      "nom": "Philippe Boudaroua",
+      "titre": "Dr",
+      "fonction": {
+        "fr": "Vétérinaire",
+        "de": "Tierarzt"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": []
+    },
+    {
+      "nom": "Laura Franchini",
+      "titre": null,
+      "fonction": {
+        "fr": "Assistante vétérinaire",
+        "de": "Tierarztassistentin"
+      },
+      "langues": [
+        "fr"
+      ],
+      "domaines": []
+    }
+  ],
+  "acces": {
+    "repere": {
+      "fr": "Rue des Bourguillards 11, dans les mêmes locaux que Vet'Urgences Neuchâtel",
+      "de": "Rue des Bourguillards 11, in denselben Räumen wie Vet'Urgences Neuchâtel"
+    },
+    "parking": {
+      "fr": "Places de parc gratuites devant le cabinet",
+      "de": "Kostenlose Parkplätze vor der Praxis"
+    },
+    "transports": {
+      "fr": "Gare CFF de Saint-Blaise à 6 minutes à pied",
+      "de": "Bahnhof SBB Saint-Blaise, 6 Minuten zu Fuss"
+    }
+  },
+  "communes": [
+    "Saint-Blaise",
+    "Hauterive",
+    "La Tène",
+    "Neuchâtel",
+    "Cornaux",
+    "Cressier",
+    "Enges",
+    "Le Landeron"
+  ]
 }

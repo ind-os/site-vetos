@@ -14,7 +14,7 @@ especes: [chien, chat, nac]
 resume: Eine feine Kamera, um Magen, Darm, Nase oder Bronchien zu betrachten und einen verschluckten Gegenstand ohne Operation zu entfernen.
 ---
 
-Bei der Endoskopie von Hund und Katze wird eine feine, biegsame Kamera durch Maul, Nase oder After eingeführt. Die Tierärztin oder der Tierarzt sieht das Innere von Magen, Darm, Nase oder Bronchien auf einem Bildschirm. Dabei lässt sich ein kleines Gewebestück entnehmen oder ein verschluckter Gegenstand entfernen, ohne den Bauch zu öffnen. Bei Vetmint findet die Endoskopie in der Praxis Fribourg Ouest in Givisiez statt, in Vollnarkose.
+Bei der Endoskopie von Hund und Katze wird eine feine, biegsame Kamera durch Maul, Nase oder After eingeführt. Die Tierärztin oder der Tierarzt sieht das Innere von Magen, Darm, Nase oder Bronchien auf einem Bildschirm. Dabei lässt sich ein kleines Gewebestück entnehmen oder ein verschluckter Gegenstand entfernen, ohne den Bauch zu öffnen. Die Endoskopie findet in Vollnarkose statt, in einer der beiden Vetmint-Praxen, die dafür ausgerüstet sind: Ihr Tier schläft während der ganzen Untersuchung.
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)
 

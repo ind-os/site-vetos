@@ -146,7 +146,8 @@ export const de: Catalogue = {
     veterinairesDuCabinet: (noms: string, _nombre: number) => `Das tierärztliche Team der Praxis: ${noms}.`,
     estProche: 'Ist die Praxis in meiner Nähe?',
     clientsDuCabinet: (localite: string, communes: string) => `Die Kundschaft kommt aus ${localite} und Umgebung: ${communes}.`,
-    voirLaPageContact: (lien: string) => `Anfahrt und Parkplatz stehen auf der Seite ${lien}.`,
+    voirLaPageContact: (lien: string, parking: boolean) =>
+      parking ? `Anfahrt und Parkplatz stehen auf der Seite ${lien}.` : `Die Anfahrt steht auf der Seite ${lien}.`,
     pageContact: 'Kontakt',
     commentPrendreRendezVous: (enPhrase: string) => `Wie vereinbare ich einen Termin für ${enPhrase}?`,
     rendezVousParTelephone: (telephone: string, whatsapp: string) =>
