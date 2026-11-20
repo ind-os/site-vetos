@@ -63,7 +63,7 @@ Kaninchen, Meerschweinchen und kleine Nager, die nicht mehr fressen und seit sec
 
 ## Die benachbarten Vetmint-Praxen
 
-Wenn Payerne Sie tagsüber nicht empfangen kann, rufen Sie die Tierarztpraxis Vetmint in Domdidier an, etwa zehn Minuten mit dem Auto entfernt. Sie befindet sich an der Route de Saint-Aubin 58, 1564 Domdidier, Telefon [026 675 38 88](tel:+41266753888). Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez ist etwa 25 Minuten entfernt: [026 466 84 84](tel:+41264668484). Die Adressen der acht Vetmint-Praxen stehen auf der [Karte der Praxen](/de/praxen/).
+Wenn Payerne Sie tagsüber nicht empfangen kann, rufen Sie die Tierarztpraxis Vetmint in Domdidier an, etwa zehn Minuten mit dem Auto entfernt. Sie befindet sich an der Route de Saint-Aubin 58, 1564 Domdidier, Telefon [026 675 38 88](tel:+41266753888). Die Tierarztpraxis Vetmint Fribourg in Givisiez ist etwa 25 Minuten entfernt: [026 466 84 84](tel:+41264668484). Die Adressen der acht Vetmint-Praxen stehen auf der [Karte der Praxen](/de/praxen/).
 
 ## Die Bezahlung eines Notfalls
 

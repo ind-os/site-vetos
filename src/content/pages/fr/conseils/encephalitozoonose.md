@@ -68,6 +68,6 @@ C'est possible, surtout chez une personne dont les défenses immunitaires sont a
 
 ## Faire suivre votre lapin
 
-Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cabinets reçoivent les lapins en consultation ; la page [Médecine avancée des NAC](/services/nac/) présente ce que nous leur proposons. Le cabinet Vetmint Fribourg Ouest, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/).
+Une encéphalitozoonose se suit sur plusieurs semaines. Le parasite peut aussi favoriser des [troubles urinaires](/conseils/sablose-urinaire/). Nos cabinets reçoivent les lapins en consultation ; la page [Médecine avancée des NAC](/services/nac/) présente ce que nous leur proposons. Le cabinet Vetmint Fribourg, à Givisiez, offre aussi une [consultation spécialisée NAC](/fribourg/services/nac/).
 
 [Prendre rendez-vous dans un cabinet](/cabinets/)

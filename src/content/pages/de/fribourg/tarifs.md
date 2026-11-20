@@ -2,13 +2,13 @@
 type: tarifs
 clinique: fribourg
 url: /de/fribourg/preise/
-title: "Tierarztpreise in Fribourg Ouest: Impfungen, Operationen"
-description: "Preise der Praxis Vetmint Fribourg Ouest: Konsultation von 30 Minuten für {prix:consultation}, Heimtiere, Impfungen, Operationen, Notfälle. Was jeder Preis umfasst."
-h1: Die Preise der Tierarztpraxis Vetmint Fribourg Ouest
-recherche: Tierarztpreise Fribourg Ouest
+title: "Tierarztpreise in Fribourg: Impfungen, Operationen"
+description: "Preise der Praxis Vetmint Fribourg: Konsultation von 30 Minuten für {prix:consultation}, Heimtiere, Impfungen, Operationen, Notfälle. Was jeder Preis umfasst."
+h1: Die Preise der Tierarztpraxis Vetmint Fribourg
+recherche: Tierarztpreise Fribourg
 ---
 
-Die Tierarztpreise der Praxis Vetmint Fribourg Ouest stehen hier Leistung für Leistung, mit dem, was jeder Betrag umfasst. In Givisiez kostet die Konsultation von 30 Minuten {prix:consultation}. Sterilisationen, Kastrationen und die Zahnsteinentfernung sind Pauschalen, Narkose inbegriffen.
+Die Tierarztpreise der Praxis Vetmint Fribourg stehen hier Leistung für Leistung, mit dem, was jeder Betrag umfasst. In Givisiez kostet die Konsultation von 30 Minuten {prix:consultation}. Sterilisationen, Kastrationen und die Zahnsteinentfernung sind Pauschalen, Narkose inbegriffen.
 
 ## So lesen Sie diese Preisliste
 
@@ -96,7 +96,7 @@ Sie bezahlen am Empfang am Ende des Termins, mit Karte oder mit TWINT. Für eine
 
 Für das erste Jahr eines Welpen oder Kätzchens kostet der Präventionsplan {prix:plan-prevention}: Konsultationen, Impfungen, Entwurmungen, Mikrochip und Heimtierpass. Einzeln gekauft würden diese Behandlungen {prix:soins-chiot-un-par-un} für einen Welpen und {prix:soins-chaton-un-par-un} für ein Kätzchen kosten. Die monatlichen Abonnemente verteilen die Prävention eines Hundes oder einer Katze über zwölf Monate.
 
-[Der Präventionsplan und die Abonnemente in Fribourg Ouest](/de/fribourg/abonnemente/)
+[Der Präventionsplan und die Abonnemente in Fribourg](/de/fribourg/abonnemente/)
 
 ## Mit den anderen Praxen vergleichen
 

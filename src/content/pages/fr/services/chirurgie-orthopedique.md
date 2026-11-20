@@ -13,7 +13,7 @@ especes: [chien, chat, nac]
 resume: Les opérations des os, des ligaments et des articulations, de la fracture au ligament croisé rompu.
 ---
 
-La chirurgie orthopédique opère les os, les ligaments et les articulations du chien, du chat et des petits animaux. Elle répare une fracture, remplace la fonction d'un ligament rompu ou remet en place une rotule qui se déplace. Chez Vetmint, ces opérations se font au cabinet de Fribourg Ouest, à Givisiez, par une vétérinaire spécialisée en chirurgie. Sur demande, elle peut se déplacer dans un autre cabinet Vetmint.
+La chirurgie orthopédique opère les os, les ligaments et les articulations du chien, du chat et des petits animaux. Elle répare une fracture, remplace la fonction d'un ligament rompu ou remet en place une rotule qui se déplace. Chez Vetmint, ces opérations se font au cabinet de Fribourg, à Givisiez, par une vétérinaire spécialisée en chirurgie. Sur demande, elle peut se déplacer dans un autre cabinet Vetmint.
 
 [Choisir un cabinet pour une consultation](/cabinets/)
 
@@ -45,7 +45,7 @@ L'opération rend une patte stable et sans douleur. Elle ne rend pas toujours un
 
 Le vétérinaire regarde l'animal marcher, puis palpe chaque articulation. Il cherche la douleur, le gonflement et le jeu anormal d'un genou. Une [radiographie](/services/radiographie/) montre la fracture ou l'état de l'articulation ; elle se fait souvent sous sédation (un calmant qui détend l'animal sans l'endormir complètement), pour bien placer la patte.
 
-La consultation spécialisée en chirurgie de Fribourg Ouest sert à décider de l'opération. La chirurgienne explique la technique choisie, la durée de la convalescence et les risques. Vous recevez un devis. Une [prise de sang](/services/analyses-sanguines/) vérifie que l'animal supporte l'anesthésie.
+La consultation spécialisée en chirurgie de Fribourg sert à décider de l'opération. La chirurgienne explique la technique choisie, la durée de la convalescence et les risques. Vous recevez un devis. Une [prise de sang](/services/analyses-sanguines/) vérifie que l'animal supporte l'anesthésie.
 
 ### L'opération
 
@@ -53,7 +53,7 @@ L'opération se fait sous anesthésie gazeuse, avec une perfusion et une surveil
 
 ### L'hospitalisation
 
-L'animal reste en général une à deux nuits en [hospitalisation](/services/hospitalisation/), le temps que la douleur se contrôle par la bouche et qu'il se lève seul. À Fribourg Ouest, un vétérinaire suit les animaux hospitalisés les soirs et les week-ends.
+L'animal reste en général une à deux nuits en [hospitalisation](/services/hospitalisation/), le temps que la douleur se contrôle par la bouche et qu'il se lève seul. À Fribourg, un vétérinaire suit les animaux hospitalisés les soirs et les week-ends.
 
 ## La préparation
 
@@ -99,7 +99,7 @@ Oui. Beaucoup de chiens se rompent le second ligament dans les années qui suive
 
 En général non. Elles restent en place sauf si elles gênent ou s'infectent.
 
-### Mon cabinet n'est pas à Fribourg Ouest. Dois-je y aller ?
+### Mon cabinet n'est pas à Fribourg. Dois-je y aller ?
 
 La consultation et l'opération se font en principe à Givisiez. Sur demande, la chirurgienne peut se déplacer dans votre cabinet Vetmint. Votre vétérinaire habituel s'occupe des contrôles.
 
@@ -109,9 +109,9 @@ Appelez le cabinet tout de suite, même s'il semble aller bien. Une chute peut c
 
 ## Le cabinet qui la pratique
 
-- [Fribourg Ouest](/fribourg/services/) : une vétérinaire spécialisée en chirurgie, une consultation spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. [Rendez-vous à Fribourg Ouest](/fribourg/rendez-vous/)
+- [Fribourg](/fribourg/services/) : une vétérinaire spécialisée en chirurgie, une consultation spécialisée en chirurgie et une salle d'opération équipée pour la chirurgie des os. [Rendez-vous à Fribourg](/fribourg/rendez-vous/)
 
-Les autres cabinets Vetmint examinent l'animal, font la radiographie et adressent le dossier à Fribourg Ouest. Sur demande, la chirurgienne peut venir opérer dans votre cabinet.
+Les autres cabinets Vetmint examinent l'animal, font la radiographie et adressent le dossier à Fribourg. Sur demande, la chirurgienne peut venir opérer dans votre cabinet.
 
 ## Prendre rendez-vous
 

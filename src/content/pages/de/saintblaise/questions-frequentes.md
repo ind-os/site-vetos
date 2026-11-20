@@ -49,7 +49,7 @@ Er kostet {prix:plan-prevention} für ein Jahr. Er deckt die Konsultationen nach
 
 ### Welche Tiere behandeln Sie?
 
-Alle Heimtiere: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten, Hamster, Wüstenrennmäuse, Chinchillas, Degus, Frettchen, Vögel und Reptilien. Das Team operiert sie auch und betreut sie stationär. Bei einer komplexen Krankheit eines Heimtiers kann die Tierärztin oder der Tierarzt Sie an die Vetmint-Praxis Fribourg Ouest verweisen, die fortgeschrittene Heimtiermedizin betreibt. Die Seite [Leistungen](/de/saintblaise/leistungen/) listet die vor Ort erbrachten Behandlungen auf.
+Alle Heimtiere: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten, Hamster, Wüstenrennmäuse, Chinchillas, Degus, Frettchen, Vögel und Reptilien. Das Team operiert sie auch und betreut sie stationär. Bei einer komplexen Krankheit eines Heimtiers kann die Tierärztin oder der Tierarzt Sie an die Vetmint-Praxis Fribourg verweisen, die fortgeschrittene Heimtiermedizin betreibt. Die Seite [Leistungen](/de/saintblaise/leistungen/) listet die vor Ort erbrachten Behandlungen auf.
 
 ### Was ist der Unterschied zwischen der Praxis und Vet'Urgences Neuchâtel?
 

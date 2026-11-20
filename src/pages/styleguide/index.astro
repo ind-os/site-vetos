@@ -38,16 +38,13 @@ import { laClinique, lesCliniques } from '../../lib/cliniques.ts';
 import { htmlDeLaGarde } from '../../lib/donnees-de-la-clinique.ts';
 import { sections } from '../../lib/html.ts';
 import { photo } from '../../lib/images.ts';
+import { nosServicesDUrgence } from '../../lib/services-d-urgence.ts';
 import charte from '../../styles/charte.css?raw';
 
 const langue = 'fr';
 const payerne = await laClinique('payerne');
 const cliniques = await lesCliniques();
-const fribourgOuest = await laClinique('fribourg');
-const servicesDUrgence = [
-  { nom: "Vet'Urgences Fribourg", telephone: fribourgOuest.garde.telephone, site: 'https://vet-urgence-fribourg.ch/', logo: photo('fribourg:vet-urgence-logo', langue) },
-  { nom: "Vet'Urgences Neuchâtel", telephone: { affiche: '032 753 16 32', international: '+41327531632' }, site: 'https://vet-urgence-neuchatel.ch/', logo: photo('saintblaise:vet-urgence-logo', langue) },
-];
+const servicesDUrgence = await nosServicesDUrgence(langue);
 // Des variantes de la fiche, pour montrer un bandeau et une fermeture. La fermeture commence dans
 // dix jours et dure trois jours : l'exemple reste à venir quel que soit le jour de la construction.
 const dansNJours = (n: number) => new Date(Date.now() + n * 86_400_000).toISOString().slice(0, 10);
@@ -203,7 +200,7 @@ ${htmlDeLaGarde(payerne, langue)}
         <AppelUrgence clinique={avecDeuxGardes} langue={langue} />
       </Exemple>
 
-      <Exemple titre="Nos services d’urgence" description="Une carte par service d’urgence de Vetmint : son logo (lien vers son site), son nom, son numéro gratuit en grand, cliquable, et ses horaires. Dans la colonne de la page Urgences du réseau ; sur un téléphone, avant le texte. Les numéros viennent des fiches de Fribourg Ouest et de Saint-Blaise." fichier="composants/ServicesDUrgence.astro" code={`<ServicesDUrgence services={[{ nom: "Vet'Urgences Fribourg", telephone, site, logo }]} langue={langue} />`}>
+      <Exemple titre="Nos services d’urgence" description="Une carte par service d’urgence de Vetmint : son logo (lien vers son site), son nom, son numéro gratuit en grand, cliquable, et ses horaires. Dans la colonne de la page Urgences du réseau ; sur un téléphone, avant le texte. Les numéros viennent des fiches de Fribourg et de Saint-Blaise." fichier="composants/ServicesDUrgence.astro" code={`<ServicesDUrgence services={[{ nom: "Vet'Urgences Fribourg", telephone, site, logo }]} langue={langue} />`}>
         <div style="max-width: 20rem;"><ServicesDUrgence services={servicesDUrgence} langue={langue} /></div>
       </Exemple>
     </section>

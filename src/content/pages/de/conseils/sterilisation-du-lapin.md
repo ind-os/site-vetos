@@ -96,6 +96,6 @@ Sie senkt den Energiebedarf ein wenig. Eine Ration mit viel Heu und wenig Pellet
 
 ## Zum Weiterlesen
 
-Die Kastration und Sterilisation bei den anderen Arten: [Kastration und Sterilisation](/de/leistungen/chirurgie/). Die Behandlung von Kaninchen in unseren Praxen: [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/), mit der [Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/). Alles über das Leben des Kaninchens: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
+Die Kastration und Sterilisation bei den anderen Arten: [Kastration und Sterilisation](/de/leistungen/chirurgie/). Die Behandlung von Kaninchen in unseren Praxen: [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/), mit der [Heimtier-Spezialität der Praxis Fribourg](/de/fribourg/leistungen/heimtiere/). Alles über das Leben des Kaninchens: [das Merkblatt zum Kaninchen](/de/ratgeber/das-kaninchen/).
 
 [Praxis wählen und Termin vereinbaren](/de/praxen/)

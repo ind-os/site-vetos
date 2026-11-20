@@ -83,6 +83,6 @@ Die Tierärztin oder der Tierarzt passt die Ration an Ihr Tier an. Der Ratgeber 
 
 ## Ihr Tier untersuchen lassen
 
-Die Untersuchungen und Behandlungen von Kaninchen und Meerschweinchen sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt sie auch in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/).
+Die Untersuchungen und Behandlungen von Kaninchen und Meerschweinchen sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) vorgestellt. Die Tierarztpraxis Vetmint Fribourg in Givisiez empfängt sie auch in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/).
 
 [Ihre Praxis finden](/de/praxen/)

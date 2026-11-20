@@ -50,7 +50,7 @@ Der Plan kostet {prix:plan-prevention} für das erste Jahr eines Welpen oder Kä
 
 ### Welche Tiere behandeln Sie?
 
-Alle Heimtiere: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten und andere Nager, Frettchen, Vögel und Reptilien. Die Praxis empfängt sie in der Konsultation, operiert sie und betreut sie stationär. Knochenoperationen erfolgen in der Praxis Vetmint Fribourg Ouest. Die Seite [Leistungen](/de/bussigny/leistungen/) sagt, was vor Ort gemacht wird.
+Alle Heimtiere: Hunde, Katzen, Kaninchen, Meerschweinchen, Ratten und andere Nager, Frettchen, Vögel und Reptilien. Die Praxis empfängt sie in der Konsultation, operiert sie und betreut sie stationär. Knochenoperationen erfolgen in der Praxis Vetmint Fribourg. Die Seite [Leistungen](/de/bussigny/leistungen/) sagt, was vor Ort gemacht wird.
 
 ### Bieten Sie Komplementärmedizin an?
 

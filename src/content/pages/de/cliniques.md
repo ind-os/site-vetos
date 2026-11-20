@@ -2,7 +2,7 @@
 type: cliniques
 url: /de/praxen/
 title: "Vetmint-Tierarztpraxen: Adressen und Öffnungszeiten"
-description: "Die Vetmint-Praxen in Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest, Lac-de-Joux, Payerne, Saint-Blaise, Saint-Légier: Adressen und Öffnungszeiten."
+description: "Die Vetmint-Praxen in Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg, Lac-de-Joux, Payerne, Saint-Blaise, Saint-Légier: Adressen und Öffnungszeiten."
 h1: Unsere Praxen
 recherche: Vetmint-Praxen
 ---
@@ -62,7 +62,7 @@ Am Samstag öffnen Domdidier und Payerne abwechselnd, von 8.30 bis 15 Uhr, nie b
 
 [Die Praxis Vetmint Domdidier](/de/domdidier/)
 
-## Vetmint Fribourg Ouest
+## Vetmint Fribourg
 
 Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freiburg und Corminboeuf. Telefon [026 466 84 84](tel:+41264668484), E-Mail [fribourg@vetmint.ch](mailto:fribourg@vetmint.ch).
 
@@ -75,7 +75,7 @@ Route des Fluides 5, 4. Stock, 1762 Givisiez, im Industriegebiet, zwischen Freib
 - Notfalldienst: [026 466 34 35](tel:+41264663435), kostenlose Nummer, von 8 bis 24 Uhr
 <!-- /donnees -->
 
-[Die Praxis Vetmint Fribourg Ouest](/de/fribourg/)
+[Die Praxis Vetmint Fribourg](/de/fribourg/)
 
 ## Vetmint Lac-de-Joux
 

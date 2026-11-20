@@ -33,7 +33,7 @@ Ein Notfall während der Öffnungszeiten kostet die Konsultation, {prix:consulta
 
 ## Ausserhalb der Öffnungszeiten
 
-Die Notfallnummer verbindet Sie mit Vet'Urgences Fribourg, dem Notfalldienst von Vetmint. Er befindet sich an der Route des Fluides 5 in Givisiez, in den Räumen der Praxis Vetmint Fribourg Ouest. Er antwortet täglich von 8 Uhr bis Mitternacht. Eine Tierärztin oder ein Tierarzt beurteilt mit Ihnen den Ernst der Lage und sagt Ihnen, ob Sie kommen sollen; diese Beratung am Telefon ist kostenlos. Nach Mitternacht nennt Ihnen der Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Für Notfallbehandlungen gilt ein Zuschlag. Einzelheiten finden Sie auf [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
+Die Notfallnummer verbindet Sie mit Vet'Urgences Fribourg, dem Notfalldienst von Vetmint. Er befindet sich an der Route des Fluides 5 in Givisiez, in den Räumen der Praxis Vetmint Fribourg. Er antwortet täglich von 8 Uhr bis Mitternacht. Eine Tierärztin oder ein Tierarzt beurteilt mit Ihnen den Ernst der Lage und sagt Ihnen, ob Sie kommen sollen; diese Beratung am Telefon ist kostenlos. Nach Mitternacht nennt Ihnen der Anrufbeantworter die Nummer des tierärztlichen Notfalldienstes. Für Notfallbehandlungen gilt ein Zuschlag. Einzelheiten finden Sie auf [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
 
 ## Die Anzeichen, bei denen Sie anrufen müssen
 
@@ -74,7 +74,7 @@ Bei allen Tierarten rufen Sie auch bei Krämpfen, einer Wunde, die nicht aufhör
 Wenn Domdidier Sie tagsüber nicht empfangen kann, sind zwei andere Vetmint-Praxen in der Nähe:
 
 - Vetmint Payerne, Route du Châtelard 13, etwa zehn Autominuten entfernt: [026 660 16 16](tel:+41266601616);
-- Vetmint Fribourg Ouest, Route des Fluides 5 in Givisiez, etwa zwanzig Minuten entfernt: [026 466 84 84](tel:+41264668484).
+- Vetmint Fribourg, Route des Fluides 5 in Givisiez, etwa zwanzig Minuten entfernt: [026 466 84 84](tel:+41264668484).
 
 Rufen Sie an, bevor Sie losfahren. Die acht Praxen stehen auf der [Karte der Praxen](/de/praxen/).
 

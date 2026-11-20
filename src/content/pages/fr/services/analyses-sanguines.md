@@ -115,7 +115,7 @@ Chaque cabinet Vetmint a son laboratoire pour le sang, l'urine et les cellules. 
 - [Bussigny](/bussigny/services/) : [prendre rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [prendre rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [prendre rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/) : [prendre rendez-vous](/fribourg/rendez-vous/)
+- [Fribourg](/fribourg/services/) : [prendre rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/) : [prendre rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : [prendre rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [prendre rendez-vous](/saintblaise/rendez-vous/)

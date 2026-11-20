@@ -1,10 +1,11 @@
 ---
 // Le pied de page, sur fond marine. Sur les pages d'une clinique : ses coordonnées et ses
-// horaires. Partout : les huit cliniques, les pages communes et les mentions légales.
+// horaires. Partout : nos services d'urgence et leur numéro, les huit cliniques, les pages communes et les mentions légales.
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
 import type { Clinique } from '../lib/cliniques.ts';
 import { lienTelephone } from '../lib/format.ts';
+import { nosServicesDUrgence } from '../lib/services-d-urgence.ts';
 import Horaires from './Horaires.astro';
 
 interface Lien {
@@ -26,6 +27,7 @@ interface Props {
 const { langue, clinique, cliniques, liens, legal } = Astro.props;
 const t = textes(langue);
 const annee = new Date().getFullYear();
+const urgences = await nosServicesDUrgence(langue);
 ---
 
 <footer class="pied fond-marine">
@@ -56,6 +58,21 @@ const annee = new Date().getFullYear();
           </>
         )
       }
+      <div class="pied__urgences">
+        <h3 class="pied__titre">{t.urgence.services}</h3>
+        <ul class="pied__liste">
+          {
+            urgences.map((s) => (
+              <li>
+                <a href={s.site}>{s.nom}</a>
+                <br />
+                <a class="pied__numero" href={lienTelephone(s.telephone.international)}>{s.telephone.affiche}</a>
+              </li>
+            ))
+          }
+        </ul>
+        <p class="pied__note">{t.urgence.noteDuPied}</p>
+      </div>
     </div>
     <nav class="pied__bloc" aria-labelledby="pied-cliniques">
       <h2 class="pied__titre" id="pied-cliniques">{clinique ? t.clinique.autresCliniques : t.navigation.cliniques}</h2>
@@ -81,6 +98,10 @@ const annee = new Date().getFullYear();
   .pied a:hover { text-decoration: underline; }
   .pied__liste { list-style: none; margin: 0; padding: 0; line-height: 2; }
   .pied__horaires { margin-top: var(--espace-2); }
+  .pied__urgences { display: grid; gap: var(--espace-2); margin-top: var(--espace-4); }
+  .pied__urgences .pied__liste { display: grid; gap: var(--espace-2); line-height: 1.5; }
+  .pied__numero { font-weight: 700; white-space: nowrap; }
+  .pied__note { margin: 0; }
   .pied__bas {
     display: flex;
     flex-wrap: wrap;

@@ -37,7 +37,7 @@ Pendant toute la reprise, Vetmint mène les démarches administratives, sous vot
 
 Votre interlocuteur est un vétérinaire expérimenté du groupe. Vous discutez directement avec lui, sans courtier ni intermédiaire. Tout ce que vous nous confiez reste strictement confidentiel.
 
-Vetmint compte huit cabinets en Suisse romande : Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest à Givisiez, Lac-de-Joux à L'Abbaye, Payerne, Saint-Blaise et Saint-Légier. Ce sont les vétérinaires qui y décident des soins. Tous les associés du groupe sont des vétérinaires. Notre groupe est strictement indépendant. Nous ne dépendons d'aucun fonds d'investissement ni d'aucun investisseur externe.
+Vetmint compte huit cabinets en Suisse romande : Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg à Givisiez, Lac-de-Joux à L'Abbaye, Payerne, Saint-Blaise et Saint-Légier. Ce sont les vétérinaires qui y décident des soins. Tous les associés du groupe sont des vétérinaires. Notre groupe est strictement indépendant. Nous ne dépendons d'aucun fonds d'investissement ni d'aucun investisseur externe.
 
 ## Nous écrire
 

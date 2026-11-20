@@ -2,7 +2,7 @@
 type: cliniques
 url: /cabinets/
 title: "Les cabinets vétérinaires Vetmint : adresses et horaires"
-description: "Les cabinets Vetmint à Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest, Lac-de-Joux, Payerne, Saint-Blaise et Saint-Légier : adresses, horaires, garde."
+description: "Les cabinets Vetmint à Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg, Lac-de-Joux, Payerne, Saint-Blaise et Saint-Légier : adresses, horaires, garde."
 h1: Nos cabinets
 recherche: cabinets Vetmint
 ---
@@ -62,7 +62,7 @@ Le samedi, Domdidier et Payerne ouvrent à tour de rôle, de 8 h 30 à 15 h, jam
 
 [Le cabinet Vetmint Domdidier](/domdidier/)
 
-## Vetmint Fribourg Ouest
+## Vetmint Fribourg
 
 Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entre Fribourg et Corminboeuf. Téléphone [026 466 84 84](tel:+41264668484), e-mail [fribourg@vetmint.ch](mailto:fribourg@vetmint.ch).
 
@@ -75,7 +75,7 @@ Route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans la zone industrielle, entr
 - Garde : [026 466 34 35](tel:+41264663435), numéro gratuit, de 8 h à minuit
 <!-- /donnees -->
 
-[Le cabinet Vetmint Fribourg Ouest](/fribourg/)
+[Le cabinet Vetmint Fribourg](/fribourg/)
 
 ## Vetmint Lac-de-Joux
 

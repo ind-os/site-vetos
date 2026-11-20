@@ -111,7 +111,7 @@ Dites-le à l'arrivée. Pour une échographie du ventre, le gaz de la digestion 
 - [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
+- [Fribourg](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/) : [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/echographie/) : [Rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)

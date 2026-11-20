@@ -33,7 +33,7 @@ Une urgence reçue aux heures d'ouverture coûte la consultation, {prix:consulta
 
 ## En dehors des heures d'ouverture
 
-Le numéro de garde joint Vet'Urgences Fribourg, le service d'urgence de Vetmint. Il se trouve route des Fluides 5, à Givisiez, dans les locaux du cabinet Vetmint Fribourg Ouest. Il répond tous les jours de 8 h à minuit. Un vétérinaire juge avec vous de la gravité et vous dit s'il faut venir ; ce conseil au téléphone est gratuit. Après minuit, le répondeur vous donne le numéro du vétérinaire de garde. Les soins d'urgence portent un supplément. Le détail est sur [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
+Le numéro de garde joint Vet'Urgences Fribourg, le service d'urgence de Vetmint. Il se trouve route des Fluides 5, à Givisiez, dans les locaux du cabinet Vetmint Fribourg. Il répond tous les jours de 8 h à minuit. Un vétérinaire juge avec vous de la gravité et vous dit s'il faut venir ; ce conseil au téléphone est gratuit. Après minuit, le répondeur vous donne le numéro du vétérinaire de garde. Les soins d'urgence portent un supplément. Le détail est sur [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
 
 ## Les signes qui imposent d'appeler
 
@@ -74,7 +74,7 @@ Pour toutes les espèces, appelez aussi pour des convulsions, une plaie qui saig
 Si Domdidier ne peut pas vous recevoir en journée, deux autres cabinets Vetmint sont proches :
 
 - Vetmint Payerne, route du Châtelard 13, à une dizaine de minutes en voiture : [026 660 16 16](tel:+41266601616) ;
-- Vetmint Fribourg Ouest, route des Fluides 5, à Givisiez, à une vingtaine de minutes : [026 466 84 84](tel:+41264668484).
+- Vetmint Fribourg, route des Fluides 5, à Givisiez, à une vingtaine de minutes : [026 466 84 84](tel:+41264668484).
 
 Appelez-les avant de partir. Les huit cabinets figurent sur la [carte des cabinets](/cabinets/).
 

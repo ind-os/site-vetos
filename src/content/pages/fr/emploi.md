@@ -13,7 +13,7 @@ Vetmint réunit huit cabinets vétérinaires en Suisse romande, dans les cantons
 
 ### Vétérinaire urgentiste, 40 à 100 %
 
-Au cabinet Vetmint **Fribourg Ouest, à Givisiez**. Vous assurez les urgences des chiens, des chats et des NAC la nuit et le week-end. Vous bénéficiez d'un encadrement à votre arrivée et de formations garanties. Entrée à convenir.
+Au cabinet Vetmint **Fribourg, à Givisiez**. Vous assurez les urgences des chiens, des chats et des NAC la nuit et le week-end. Vous bénéficiez d'un encadrement à votre arrivée et de formations garanties. Entrée à convenir.
 
 ### Vétérinaire généraliste, 50 à 100 %
 

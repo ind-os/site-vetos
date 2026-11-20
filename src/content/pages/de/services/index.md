@@ -20,7 +20,7 @@ Ein Tier, das jedes Jahr untersucht wird, erkrankt seltener. Seine Krankheiten w
 Die Operationen erfolgen in überwachter Gasnarkose, mit Schmerzbehandlung.
 
 - [Chirurgie](/de/leistungen/chirurgie/): Kastration, Sterilisation, Knoten, Wunden, verschluckte Gegenstände und Kaiserschnitte.
-- [Orthopädische Chirurgie](/de/leistungen/orthopaedische-chirurgie/): Knochenbrüche, Kreuzband, Kniescheibe und Hüfte, in Fribourg Ouest.
+- [Orthopädische Chirurgie](/de/leistungen/orthopaedische-chirurgie/): Knochenbrüche, Kreuzband, Kniescheibe und Hüfte, in Fribourg.
 - [Zahnmedizin](/de/leistungen/zahnmedizin/): Zahnsteinentfernung, Zahnröntgen und Extraktionen.
 
 ## Bildgebung
@@ -29,7 +29,7 @@ Die Bilder erscheinen während der Untersuchung und werden Ihnen sofort erklärt
 
 - [Röntgen](/de/leistungen/roentgen/): Knochen, Lunge, Bauch und offizielle Dysplasie-Untersuchung.
 - [Ultraschall](/de/leistungen/ultraschall/): Bauch, Herz und Trächtigkeit.
-- [Endoskopie](/de/leistungen/endoskopie/): eine feine Kamera in Magen, Darm oder Nase, in Fribourg Ouest und Lac-de-Joux.
+- [Endoskopie](/de/leistungen/endoskopie/): eine feine Kamera in Magen, Darm oder Nase, in Fribourg und Lac-de-Joux.
 
 ## Betreuung, Labor und spezialisierte Medizin
 

@@ -5,15 +5,10 @@
 import { Picture } from 'astro:assets';
 import type { Langue } from '../config.ts';
 import { textes } from '../i18n/index.ts';
-import type { Photo } from '../lib/images.ts';
 import { lienTelephone } from '../lib/format.ts';
+import type { ServiceDUrgence } from '../lib/services-d-urgence.ts';
 
-export interface ServiceDUrgence {
-  nom: string;
-  telephone: { affiche: string; international: string };
-  site: string;
-  logo?: Photo;
-}
+export type { ServiceDUrgence };
 
 interface Props {
   services: ServiceDUrgence[];

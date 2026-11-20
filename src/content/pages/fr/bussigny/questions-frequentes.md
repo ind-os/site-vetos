@@ -50,7 +50,7 @@ Le plan coûte {prix:plan-prevention} pour la première année d'un chiot ou d'u
 
 ### Quels animaux soignez-vous ?
 
-Tous les animaux de compagnie : chiens, chats, lapins, cochons d'Inde, rats et autres rongeurs, furets, oiseaux et reptiles. Le cabinet les reçoit en consultation, les opère et les hospitalise. Les opérations des os se font au cabinet Vetmint Fribourg Ouest. La page [Services](/bussigny/services/) dit ce qui se fait sur place.
+Tous les animaux de compagnie : chiens, chats, lapins, cochons d'Inde, rats et autres rongeurs, furets, oiseaux et reptiles. Le cabinet les reçoit en consultation, les opère et les hospitalise. Les opérations des os se font au cabinet Vetmint Fribourg. La page [Services](/bussigny/services/) dit ce qui se fait sur place.
 
 ### Proposez-vous les médecines complémentaires ?
 

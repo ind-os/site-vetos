@@ -20,7 +20,7 @@ Un animal examiné chaque année tombe moins souvent malade. Ses maladies se dé
 Les opérations se font sous anesthésie gazeuse surveillée, avec le traitement de la douleur.
 
 - [Chirurgie](/services/chirurgie/) : stérilisation, castration, grosseurs, plaies, objets avalés et césariennes.
-- [Chirurgie orthopédique](/services/chirurgie-orthopedique/) : fractures, ligament croisé, rotule et hanche, à Fribourg Ouest.
+- [Chirurgie orthopédique](/services/chirurgie-orthopedique/) : fractures, ligament croisé, rotule et hanche, à Fribourg.
 - [Dentisterie](/services/dentisterie/) : détartrage, radiographie des dents et extractions.
 
 ## Imagerie
@@ -29,7 +29,7 @@ Les images s'affichent pendant l'examen et le vétérinaire vous les explique au
 
 - [Radiographie](/services/radiographie/) : os, poumons, ventre et dépistage officiel de la dysplasie.
 - [Échographie](/services/echographie/) : le ventre, le cœur et la gestation.
-- [Endoscopie](/services/endoscopie/) : une caméra fine dans l'estomac, l'intestin ou le nez, à Fribourg Ouest et au Lac-de-Joux.
+- [Endoscopie](/services/endoscopie/) : une caméra fine dans l'estomac, l'intestin ou le nez, à Fribourg et au Lac-de-Joux.
 
 ## Soins, analyses et médecine spécialisée
 

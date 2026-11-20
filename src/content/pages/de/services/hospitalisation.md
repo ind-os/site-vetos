@@ -107,7 +107,7 @@ Die acht Praxen von Vetmint betreuen alle Heimtiere stationär.
 - [Bussigny](/de/bussigny/leistungen/): [Termin](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): [Termin](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/): [Termin](/de/fribourg/termin/)
+- [Fribourg](/de/fribourg/leistungen/): [Termin](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/): [Termin](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): [Termin](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): [Termin](/de/saintblaise/termin/)

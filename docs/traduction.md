@@ -29,7 +29,7 @@ Le même chemin relie une page à sa traduction : `fr/payerne/equipe.md` et `de/
 - Vouvoiement : « Sie ».
 - Orthographe suisse : « ss » à la place de « ß » (« Strasse », « schliessen », « Grösse »).
 - Phrases courtes, comme en français. Pas de tiret d'incise, pas de point d'exclamation.
-- Les noms de lieu des cabinets restent en français : Payerne, Bussigny, Fribourg Ouest, Saint-Légier. Les cantons se traduisent : Waadt, Freiburg, Neuenburg. Les lacs aussi : Neuenburgersee, Genfersee.
+- Les noms de lieu des cabinets restent en français : Payerne, Bussigny, Fribourg, Saint-Légier. Les cantons se traduisent : Waadt, Freiburg, Neuenburg. Les lacs aussi : Neuenburgersee, Genfersee.
 - Heures : « 8 Uhr », « 13.45 Uhr », « 8–12 Uhr ».
 - Prix : le même jeton qu'en français. Le site écrit le montant de la grille à la forme allemande ([grille-des-prix.md](grille-des-prix.md), « Les formes d'un montant »).
 - Les sigles se traduisent : CFF devient SBB.

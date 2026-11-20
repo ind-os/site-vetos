@@ -115,7 +115,7 @@ Jede Praxis von Vetmint hat ihr Labor für Blut, Urin und Zellen. Alle schicken 
 - [Bussigny](/de/bussigny/leistungen/): [Termin vereinbaren](/de/bussigny/termin/)
 - [La Chaux-de-Fonds](/de/chauxdefonds/leistungen/): [Termin vereinbaren](/de/chauxdefonds/termin/)
 - [Domdidier](/de/domdidier/leistungen/): [Termin vereinbaren](/de/domdidier/termin/)
-- [Fribourg Ouest](/de/fribourg/leistungen/): [Termin vereinbaren](/de/fribourg/termin/)
+- [Fribourg](/de/fribourg/leistungen/): [Termin vereinbaren](/de/fribourg/termin/)
 - [Lac-de-Joux](/de/lacdejoux/leistungen/): [Termin vereinbaren](/de/lacdejoux/termin/)
 - [Payerne](/de/payerne/leistungen/): [Termin vereinbaren](/de/payerne/termin/)
 - [Saint-Blaise](/de/saintblaise/leistungen/): [Termin vereinbaren](/de/saintblaise/termin/)

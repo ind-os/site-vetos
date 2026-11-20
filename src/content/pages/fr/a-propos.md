@@ -11,7 +11,7 @@ Vetmint est un groupe de huit cabinets vétérinaires en Suisse romande, tenu et
 
 ## Qui dirige Vetmint
 
-Ewen Kerharo, vétérinaire, dirige le groupe. Il n'a cependant pas arrêté la pratique et continue à prendre soin de vos animaux dans les cabinets de Domdidier, Fribourg Ouest et Payerne.
+Ewen Kerharo, vétérinaire, dirige le groupe. Il n'a cependant pas arrêté la pratique et continue à prendre soin de vos animaux dans les cabinets de Domdidier, Fribourg et Payerne.
 
 Dans chaque cabinet, ce sont les vétérinaires qui décident des soins. Le groupe se charge de ce qui les éloigne des animaux : l'administration, la gestion du personnel et le recrutement.
 
@@ -23,7 +23,7 @@ Vetmint naît en 2021. Le groupe a ouvert trois cabinets et en a repris cinq :
 - 2022 : ouverture du cabinet de Payerne.
 - 2023 : reprise du cabinet de Saint-Blaise.
 - 2024 : reprise des cabinets de La Chaux-de-Fonds et du Lac-de-Joux, à L'Abbaye.
-- 2025 : ouverture du cabinet de Fribourg Ouest, à Givisiez.
+- 2025 : ouverture du cabinet de Fribourg, à Givisiez.
 - 2026 : reprise du cabinet de Bussigny.
 
 Quand Vetmint reprend un cabinet, il discute directement avec le vétérinaire qui le remet. Celui-ci choisit la forme de la reprise, son rôle ensuite et l'avenir de son équipe.
@@ -54,7 +54,7 @@ Une proposition faite par un membre d'une équipe est écoutée, évaluée à pl
 
 ## Vetmint et les autres vétérinaires
 
-Le groupe s'adresse aussi aux vétérinaires indépendants. Il reprend des cabinets, prend des participations et soutient ceux qui s'installent. Les cabinets reçoivent les patients qu'un confrère leur adresse, par exemple la médecine avancée des NAC et la douleur chronique à Fribourg Ouest.
+Le groupe s'adresse aussi aux vétérinaires indépendants. Il reprend des cabinets, prend des participations et soutient ceux qui s'installent. Les cabinets reçoivent les patients qu'un confrère leur adresse, par exemple la médecine avancée des NAC et la douleur chronique à Fribourg.
 
 ## Joindre le groupe
 

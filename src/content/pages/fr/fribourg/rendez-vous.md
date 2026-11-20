@@ -2,13 +2,13 @@
 type: rendez-vous
 clinique: fribourg
 url: /fribourg/rendez-vous/
-title: "Prendre rendez-vous : vétérinaire Vetmint Fribourg Ouest"
-description: "Rendez-vous chez le vétérinaire Vetmint Fribourg Ouest, à Givisiez : en ligne, au 026 466 84 84 ou au comptoir. Consultation de 30 minutes, NAC, perroquets."
-h1: Prendre rendez-vous à Fribourg Ouest
-recherche: rendez-vous vétérinaire Fribourg Ouest
+title: "Prendre rendez-vous : vétérinaire Vetmint Fribourg"
+description: "Rendez-vous chez le vétérinaire Vetmint Fribourg, à Givisiez : en ligne, au 026 466 84 84 ou au comptoir. Consultation de 30 minutes, NAC, perroquets."
+h1: Prendre rendez-vous à Fribourg
+recherche: rendez-vous vétérinaire Fribourg
 ---
 
-Un rendez-vous chez le vétérinaire Vetmint Fribourg Ouest se réserve en ligne à toute heure : choisissez le motif, puis l'heure libre. Vous pouvez aussi appeler le [026 466 84 84](tel:+41264668484) aux heures d'ouverture ou passer à l'accueil, au 4ᵉ étage de la route des Fluides 5, à Givisiez.
+Un rendez-vous chez le vétérinaire Vetmint Fribourg se réserve en ligne à toute heure : choisissez le motif, puis l'heure libre. Vous pouvez aussi appeler le [026 466 84 84](tel:+41264668484) aux heures d'ouverture ou passer à l'accueil, au 4ᵉ étage de la route des Fluides 5, à Givisiez.
 
 ## Quel rendez-vous choisir
 

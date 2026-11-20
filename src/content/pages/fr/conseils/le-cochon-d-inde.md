@@ -109,6 +109,6 @@ Une visite annuelle contrôle les dents, le cœur, les poumons et les problèmes
 
 Les cabinets Vetmint reçoivent les cochons d'Inde en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) présente les soins aux lapins et aux rongeurs.
 
-À Fribourg Ouest, le cabinet a une spécialité NAC : soins dentaires des rongeurs, chirurgie avec une anesthésie adaptée à l'espèce, hospitalisation ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+À Fribourg, le cabinet a une spécialité NAC : soins dentaires des rongeurs, chirurgie avec une anesthésie adaptée à l'espèce, hospitalisation ([la spécialité NAC de Fribourg](/fribourg/services/nac/)).
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

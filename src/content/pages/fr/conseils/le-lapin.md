@@ -122,6 +122,6 @@ Une visite par an suffit pour un lapin en bonne santé. Elle sert au vaccin et a
 
 Les cabinets Vetmint reçoivent les lapins en consultation de 30 minutes, pour le bilan annuel comme pour un problème de santé. La page [médecine des NAC](/services/nac/) décrit ce que nous faisons pour les lapins et les rongeurs.
 
-Le cabinet de Fribourg Ouest a fait des NAC sa spécialité : consultations, soins dentaires, chirurgie et hospitalisation adaptées à ces espèces. Chaque consultation s'y termine par un document qui résume les soins à faire à la maison ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+Le cabinet de Fribourg a fait des NAC sa spécialité : consultations, soins dentaires, chirurgie et hospitalisation adaptées à ces espèces. Chaque consultation s'y termine par un document qui résume les soins à faire à la maison ([la spécialité NAC de Fribourg](/fribourg/services/nac/)).
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

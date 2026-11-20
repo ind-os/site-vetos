@@ -19,7 +19,7 @@ Vetmint a deux services d'urgence vétérinaire, ouverts tous les jours de 8 h �
 ### Vet'Urgences Fribourg, à Givisiez
 
 - **Téléphone** : [026 466 34 35](tel:+41264663435), **numéro gratuit**, de 8 h à minuit.
-- **Adresse** : route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans les locaux du cabinet Vetmint Fribourg Ouest.
+- **Adresse** : route des Fluides 5, 4ᵉ étage, 1762 Givisiez, dans les locaux du cabinet Vetmint Fribourg.
 - **Horaires** : tous les jours, de 8 h à minuit.
 - **Site** : [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
 
@@ -53,7 +53,7 @@ Le rapport et les résultats des examens vous sont envoyés rapidement, ainsi qu
 | [La Chaux-de-Fonds](/chauxdefonds/urgences/) | Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632) (gratuit) | [032 914 03 48](tel:+41329140348) |
 |  | Garde régionale : [0900 901 902](tel:0900901902) (3 CHF/min) |  |
 | [Domdidier](/domdidier/urgences/) | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 675 38 88](tel:+41266753888) |
-| [Fribourg Ouest](/fribourg/urgences/), à Givisiez | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 466 84 84](tel:+41264668484) |
+| [Fribourg](/fribourg/urgences/), à Givisiez | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 466 84 84](tel:+41264668484) |
 | [Lac-de-Joux](/lacdejoux/urgences/), à L'Abbaye | Médi-Vet : [0900 022 022](tel:0900022022) (2 CHF/min) | [021 357 89 90](tel:+41213578990) |
 | [Payerne](/payerne/urgences/) | Vet'Urgences Fribourg : [026 466 34 35](tel:+41264663435) (gratuit). Après minuit, le répondeur donne le numéro. | [026 660 16 16](tel:+41266601616) |
 | [Saint-Blaise](/saintblaise/urgences/) | Vet'Urgences Neuchâtel : [032 753 16 32](tel:+41327531632) (gratuit) | [032 753 11 22](tel:+41327531122) |

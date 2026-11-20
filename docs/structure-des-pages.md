@@ -32,7 +32,9 @@ Ce que contient chaque type de page, dans quel ordre et à quelle longueur. Ces 
 
 Sous le premier écran, le gabarit pose l'encart de la campagne en cours, s'il y en a une ([campagnes.md](campagnes.md)). Le texte de la page n'en parle pas.
 
-Interdits : un slogan, un paragraphe commun à un autre cabinet, un avis client, une actualité datée (elle va dans le bandeau de la fiche).
+Sous les horaires, l'accès et les contacts, le gabarit pose la note Google du cabinet, son nombre d'avis et le lien vers ses avis, si la fiche les donne (`avis_google`). Le texte de la page n'en parle pas.
+
+Interdits : un slogan, un paragraphe commun à un autre cabinet, un avis client dans le texte, une actualité datée (elle va dans le bandeau de la fiche).
 
 ### Les services du cabinet, `services-clinique`
 

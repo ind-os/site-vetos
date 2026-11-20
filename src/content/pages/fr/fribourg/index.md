@@ -2,14 +2,14 @@
 type: accueil-clinique
 clinique: fribourg
 url: /fribourg/
-title: "Vétérinaire à Fribourg Ouest : cabinet Vetmint à Givisiez"
+title: "Vétérinaire à Fribourg : cabinet Vetmint à Givisiez"
 description: "Cabinet vétérinaire Vetmint à Givisiez pour chiens, chats et NAC : médecine avancée des NAC, chirurgie des os. Consultation de 30 minutes. 026 466 84 84."
-h1: Cabinet vétérinaire Vetmint Fribourg Ouest
-recherche: vétérinaire Fribourg Ouest
+h1: Cabinet vétérinaire Vetmint Fribourg
+recherche: vétérinaire Fribourg
 resume: Chiens, chats et NAC au 4ᵉ étage de la route des Fluides 5, à Givisiez. Consultations de 30 minutes sur rendez-vous.
 ---
 
-Le cabinet vétérinaire Vetmint Fribourg Ouest soigne les chiens, les chats et tous les NAC au 4ᵉ étage de la route des Fluides 5, à Givisiez. C'est le cabinet du groupe pour la médecine avancée des lapins, rongeurs, furets, oiseaux et reptiles. Quatre vétérinaires et une assistante en médecine vétérinaire y travaillent. Chaque consultation dure 30 minutes et se fait sur rendez-vous.
+Le cabinet vétérinaire Vetmint Fribourg soigne les chiens, les chats et tous les NAC au 4ᵉ étage de la route des Fluides 5, à Givisiez. C'est le cabinet du groupe pour la médecine avancée des lapins, rongeurs, furets, oiseaux et reptiles. Quatre vétérinaires et une assistante en médecine vétérinaire y travaillent. Chaque consultation dure 30 minutes et se fait sur rendez-vous.
 
 [Prendre rendez-vous](/fribourg/rendez-vous/)
 

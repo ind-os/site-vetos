@@ -13,7 +13,7 @@ Vetmint vereint acht Tierarztpraxen in der Westschweiz, in den Kantonen Waadt, F
 
 ### Notfalltierärztin oder Notfalltierarzt, 40 bis 100 %
 
-In der Praxis Vetmint **Fribourg Ouest in Givisiez**. Sie übernehmen die Notfälle von Hunden, Katzen und Heimtieren in der Nacht und am Wochenende. Sie werden bei Ihrem Einstieg begleitet, und Weiterbildungen sind garantiert. Eintritt nach Vereinbarung.
+In der Praxis Vetmint **Fribourg in Givisiez**. Sie übernehmen die Notfälle von Hunden, Katzen und Heimtieren in der Nacht und am Wochenende. Sie werden bei Ihrem Einstieg begleitet, und Weiterbildungen sind garantiert. Eintritt nach Vereinbarung.
 
 ### Tierärztin oder Tierarzt für Allgemeinmedizin, 50 bis 100 %
 

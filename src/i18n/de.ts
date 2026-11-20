@@ -64,6 +64,7 @@ export const de: Catalogue = {
     services: 'Unsere Notfalldienste',
     gratuit: 'Kostenlose Nummer',
     horaires: 'Täglich von 8 Uhr bis Mitternacht',
+    noteDuPied: 'Kostenlose Nummern, täglich von 8 Uhr bis Mitternacht',
   },
 
   horaires: {
@@ -110,6 +111,10 @@ export const de: Catalogue = {
     especes: (liste: string) => `Behandelte Tiere: ${liste}`,
     autresCliniques: 'Die anderen Vetmint-Praxen',
     pagesDeLaClinique: 'Die Praxis',
+    avisGoogle: 'Unsere Google-Bewertungen',
+    noteGoogle: (note: string) => `${note} von 5`,
+    nombreDAvis: (nombre: number) => `${nombre} Bewertungen`,
+    lireLesAvis: 'Unsere Bewertungen auf Google lesen',
   },
 
   especes: {

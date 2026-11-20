@@ -2,7 +2,7 @@
 type: service
 url: /de/leistungen/heimtiere/
 title: "Erweiterte Heimtiermedizin: Kaninchen, Vögel | Vetmint"
-description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen, Nager, Vögel und Reptilien in allen acht Praxen, schwierige Fälle in Fribourg Ouest. Impfungen, Operationen."
+description: "Erweiterte Heimtiermedizin bei Vetmint: Kaninchen, Nager, Vögel und Reptilien in allen acht Praxen, schwierige Fälle in Fribourg. Impfungen, Operationen."
 h1: "Erweiterte Heimtiermedizin: vom Kaninchen bis zum Reptil"
 nom: Erweiterte Heimtiermedizin
 en_phrase: "die erweiterte Heimtiermedizin"
@@ -10,12 +10,12 @@ presentation_dans_le_cabinet: "Die Praxis {cabinet} behandelt Heimtiere: Kaninch
 recherche: Tierarzt Heimtiere
 ordre: 11
 especes: [nac]
-resume: Alle Heimtiere in allen acht Praxen, komplexe Fälle beim Heimtier-Tierarzt in Fribourg Ouest.
+resume: Alle Heimtiere in allen acht Praxen, komplexe Fälle beim Heimtier-Tierarzt in Fribourg.
 ---
 
-Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen alle Heimtiere. Schwierige Fälle gehen in die Praxis Fribourg Ouest in Givisiez, wo ein Tierarzt mit Ausbildung in fortgeschrittener Heimtiermedizin und -chirurgie praktiziert. Die Vetmint-Praxen behandeln weder Pferde noch Nutztiere.
+Eine Tierärztin oder ein Tierarzt für Heimtiere behandelt die neuen Heimtiere (NAC): Kaninchen, Meerschweinchen, Ratten, Hamster, Chinchillas, Frettchen, Vögel und Reptilien. Bei Vetmint empfangen alle acht Praxen alle Heimtiere. Schwierige Fälle gehen in die Praxis Fribourg in Givisiez, wo ein Tierarzt mit Ausbildung in fortgeschrittener Heimtiermedizin und -chirurgie praktiziert. Die Vetmint-Praxen behandeln weder Pferde noch Nutztiere.
 
-[Termin für ein Heimtier in Fribourg Ouest vereinbaren](/de/fribourg/termin/)
+[Termin für ein Heimtier in Fribourg vereinbaren](/de/fribourg/termin/)
 
 ## Warum ein Heimtier anders behandelt wird
 
@@ -37,9 +37,9 @@ Das Frettchen, das reist, erhält wie Hund und Katze eine Tollwutimpfung. Ein Pa
 
 ## Was vor Ort geschieht
 
-**Die Konsultationen.** Alle Praxen empfangen Heimtiere zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. Die allermeisten Gesundheitsprobleme von Heimtieren kann Ihre Tierärztin oder Ihr Tierarzt für Allgemeinmedizin behandeln. Hält sie oder er weitergehende Behandlungen für nötig, kann sie oder er Sie gegebenenfalls an eine spezialisierte Konsultation in unserer Praxis Fribourg Ouest weiterleiten.
+**Die Konsultationen.** Alle Praxen empfangen Heimtiere zu einer Konsultation von 30 Minuten: Untersuchung, Wägung, Kontrolle der Zähne mit dem Otoskop, Fütterungsberatung. Die allermeisten Gesundheitsprobleme von Heimtieren kann Ihre Tierärztin oder Ihr Tierarzt für Allgemeinmedizin behandeln. Hält sie oder er weitergehende Behandlungen für nötig, kann sie oder er Sie gegebenenfalls an eine spezialisierte Konsultation in unserer Praxis Fribourg weiterleiten.
 
-**Die Operationen.** Die acht Praxen operieren Heimtiere: Kastration des Kaninchenmännchens, Sterilisation des Kaninchenweibchens, Operationen an Nagern. Die Narkose erfolgt mit Gas, nach einem Protokoll, das auf die Art abgestimmt ist. Fribourg Ouest führt zusätzlich Mikrochirurgie an kleinen Nagern, Vögeln und Reptilien durch.
+**Die Operationen.** Die acht Praxen operieren Heimtiere: Kastration des Kaninchenmännchens, Sterilisation des Kaninchenweibchens, Operationen an Nagern. Die Narkose erfolgt mit Gas, nach einem Protokoll, das auf die Art abgestimmt ist. Fribourg führt zusätzlich Mikrochirurgie an kleinen Nagern, Vögeln und Reptilien durch.
 
 **Die Zähne.** Alle Praxen behandeln die Zähne von Kaninchen und Nagern: Kürzen zu langer Zähne, Zahnröntgen, Extraktionen, Behandlung von Abszessen. Siehe [Zahnerkrankungen beim Kaninchen](/de/ratgeber/zahnerkrankungen-kaninchen/).
 
@@ -93,13 +93,13 @@ Ja. Die Narkose eines Tieres von 100 Gramm erfordert angepasstes Material und an
 
 In der Vetmint-Praxis in Ihrer Nähe. Die erste Konsultation verschafft einen Überblick über Käfig, Fütterung, Herkunft und Verhalten des Vogels.
 
-### Wann muss mein Heimtier nach Fribourg Ouest?
+### Wann muss mein Heimtier nach Fribourg?
 
-Bei einem schwierigen Fall oder für eine Zweitmeinung zu einem Fall, der sich hinzieht. Die Tierärztin oder der Tierarzt Ihrer Praxis verweist Sie dann an Fribourg Ouest in Givisiez. Sie können diese Praxis auch direkt anrufen. Für eine Konsultation, eine gewöhnliche Operation oder eine stationäre Betreuung können Sie in Ihre gewohnte Praxis gehen.
+Bei einem schwierigen Fall oder für eine Zweitmeinung zu einem Fall, der sich hinzieht. Die Tierärztin oder der Tierarzt Ihrer Praxis verweist Sie dann an Fribourg in Givisiez. Sie können diese Praxis auch direkt anrufen. Für eine Konsultation, eine gewöhnliche Operation oder eine stationäre Betreuung können Sie in Ihre gewohnte Praxis gehen.
 
 ## Die Praxen und ihre Heimtierpraxis
 
-### Fribourg Ouest, in Givisiez
+### Fribourg, in Givisiez
 
 Dies ist die Praxis der Gruppe für schwierige Fälle und Zweitmeinungen. Léo Munné, Tierarzt, besitzt ein Zusatzdiplom in Heimtiermedizin und -chirurgie, das er an einem Universitätsspital erworben hat. Er behandelt Kaninchen ebenso wie Reptilien. Die Praxis operiert auch die kleinen Arten, Vögel eingeschlossen. [Leistungen](/de/fribourg/leistungen/) · [Termin](/de/fribourg/termin/)
 
@@ -117,6 +117,6 @@ Sie empfangen alle Heimtiere, in der Konsultation, zur Operation und zur station
 
 ## Termin vereinbaren
 
-Nennen Sie am Telefon Art, Alter und Anlass. Bei einem Kaninchen, das nicht mehr frisst, sagen Sie es gleich: Es ist ein Notfall. Für einen schwierigen Fall oder eine zweite Meinung zu einem Fall, der sich hinzieht, rufen Sie Fribourg Ouest an.
+Nennen Sie am Telefon Art, Alter und Anlass. Bei einem Kaninchen, das nicht mehr frisst, sagen Sie es gleich: Es ist ein Notfall. Für einen schwierigen Fall oder eine zweite Meinung zu einem Fall, der sich hinzieht, rufen Sie Fribourg an.
 
 [Die nächstgelegene Praxis finden](/de/praxen/)

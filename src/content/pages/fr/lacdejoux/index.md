@@ -30,7 +30,7 @@ L'agenda en ligne est ouvert à toute heure. Vous pouvez aussi appeler le [021 3
 - Au laboratoire, les [analyses](/lacdejoux/services/analyses-sanguines/) de sang et d'urine sont faites sur place. Les selles, la peau et les biopsies sont envoyées à un laboratoire externe.
 - La [radiographie numérique](/lacdejoux/services/radiographie/) sert aussi aux clichés officiels des hanches et des coudes, qui dépistent la dysplasie.
 - L'[échographie](/lacdejoux/services/echographie/) explore le ventre et confirme une gestation.
-- L'[endoscopie](/lacdejoux/services/endoscopie/) passe une caméra fine dans l'estomac ou l'intestin. Lac-de-Joux et Fribourg Ouest sont les deux seuls cabinets Vetmint à la proposer.
+- L'[endoscopie](/lacdejoux/services/endoscopie/) passe une caméra fine dans l'estomac ou l'intestin. Lac-de-Joux et Fribourg sont les deux seuls cabinets Vetmint à la proposer.
 - L'[hospitalisation](/lacdejoux/services/hospitalisation/) accueille chiens, chats, lapins et rongeurs dans des boxes individuels.
 - Les [visites à domicile](/lacdejoux/services/visites-a-domicile/) conduisent un vétérinaire chez vous, dans la vallée de Joux, aux heures d'ouverture. Le déplacement est facturé en plus des soins.
 

@@ -68,6 +68,6 @@ Une fois la cicatrisation achevée, l'opération apporte au lapin un confort dur
 
 ## Le suivi des NAC chez Vetmint
 
-La page [Médecine avancée des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins. Le cabinet Vetmint Fribourg Ouest, à Givisiez, opère les NAC avec une anesthésie adaptée à chaque espèce et propose une [consultation spécialisée NAC](/fribourg/services/nac/). Le prix de l'opération fait l'objet d'un devis, selon l'oreille et l'étendue de l'infection. Les autres prix sont sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
+La page [Médecine avancée des NAC](/services/nac/) décrit ce que nos vétérinaires font pour les lapins. Le cabinet Vetmint Fribourg, à Givisiez, opère les NAC avec une anesthésie adaptée à chaque espèce et propose une [consultation spécialisée NAC](/fribourg/services/nac/). Le prix de l'opération fait l'objet d'un devis, selon l'oreille et l'étendue de l'infection. Les autres prix sont sur la page Tarifs de votre cabinet, depuis la [liste des cabinets](/cabinets/).
 
 [Trouver un cabinet Vetmint](/cabinets/)

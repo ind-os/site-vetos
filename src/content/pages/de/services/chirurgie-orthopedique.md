@@ -13,7 +13,7 @@ especes: [chien, chat, nac]
 resume: Die Operationen an Knochen, Bändern und Gelenken, vom Knochenbruch bis zum gerissenen Kreuzband.
 ---
 
-Die orthopädische Chirurgie operiert Knochen, Bänder und Gelenke von Hund, Katze und kleinen Tieren. Sie richtet einen Knochenbruch, ersetzt die Funktion eines gerissenen Bandes oder bringt eine Kniescheibe, die herausspringt, wieder an ihren Platz. Bei Vetmint finden diese Operationen in der Praxis Fribourg Ouest in Givisiez statt, durch eine auf Chirurgie spezialisierte Tierärztin. Auf Anfrage kann sie in eine andere Vetmint-Praxis kommen.
+Die orthopädische Chirurgie operiert Knochen, Bänder und Gelenke von Hund, Katze und kleinen Tieren. Sie richtet einen Knochenbruch, ersetzt die Funktion eines gerissenen Bandes oder bringt eine Kniescheibe, die herausspringt, wieder an ihren Platz. Bei Vetmint finden diese Operationen in der Praxis Fribourg in Givisiez statt, durch eine auf Chirurgie spezialisierte Tierärztin. Auf Anfrage kann sie in eine andere Vetmint-Praxis kommen.
 
 [Praxis für eine Konsultation wählen](/de/praxen/)
 
@@ -45,7 +45,7 @@ Die Operation macht ein Bein stabil und schmerzfrei. Sie macht es nicht immer wi
 
 Die Tierärztin oder der Tierarzt beobachtet das Tier beim Gehen und tastet dann jedes Gelenk ab. Gesucht werden Schmerz, Schwellung und abnormale Beweglichkeit eines Knies. Ein [Röntgenbild](/de/leistungen/roentgen/) zeigt den Bruch oder den Zustand des Gelenks; es entsteht oft unter Sedation (einem Beruhigungsmittel, das das Tier entspannt, ohne es ganz einschlafen zu lassen), um das Bein richtig zu lagern.
 
-Die spezialisierte Konsultation in Chirurgie in Fribourg Ouest dient dem Entscheid über die Operation. Die Chirurgin erklärt die gewählte Technik, die Dauer der Genesung und die Risiken. Sie erhalten eine Offerte. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft, ob das Tier die Narkose verträgt.
+Die spezialisierte Konsultation in Chirurgie in Fribourg dient dem Entscheid über die Operation. Die Chirurgin erklärt die gewählte Technik, die Dauer der Genesung und die Risiken. Sie erhalten eine Offerte. Eine [Blutentnahme](/de/leistungen/blutanalysen/) prüft, ob das Tier die Narkose verträgt.
 
 ### Die Operation
 
@@ -53,7 +53,7 @@ Die Operation erfolgt in Gasnarkose, mit Infusion und durchgehender Überwachung
 
 ### Die stationäre Betreuung
 
-Das Tier bleibt meist ein bis zwei Nächte in [stationärer Betreuung](/de/leistungen/stationaere-betreuung/), bis der Schmerz mit Tabletten kontrolliert ist und es allein aufsteht. In Fribourg Ouest betreut eine Tierärztin oder ein Tierarzt die stationären Tiere abends und am Wochenende.
+Das Tier bleibt meist ein bis zwei Nächte in [stationärer Betreuung](/de/leistungen/stationaere-betreuung/), bis der Schmerz mit Tabletten kontrolliert ist und es allein aufsteht. In Fribourg betreut eine Tierärztin oder ein Tierarzt die stationären Tiere abends und am Wochenende.
 
 ## Die Vorbereitung
 
@@ -99,7 +99,7 @@ Ja. Viele Hunde reissen sich in den folgenden Jahren auch das zweite Band. Ein a
 
 Meist nicht. Sie bleiben, ausser sie stören oder entzünden sich.
 
-### Meine Praxis ist nicht Fribourg Ouest. Muss ich dorthin?
+### Meine Praxis ist nicht Fribourg. Muss ich dorthin?
 
 Konsultation und Operation finden grundsätzlich in Givisiez statt. Auf Anfrage kann die Chirurgin in Ihre Vetmint-Praxis kommen. Ihre gewohnte Tierärztin oder Ihr gewohnter Tierarzt übernimmt die Kontrollen.
 
@@ -109,9 +109,9 @@ Rufen Sie sofort die Praxis an, auch wenn sie gesund wirkt. Ein Sturz kann einen
 
 ## Die Praxis, die sie anbietet
 
-- [Fribourg Ouest](/de/fribourg/leistungen/): eine auf Chirurgie spezialisierte Tierärztin, eine spezialisierte Konsultation in Chirurgie und ein Operationssaal für Knochenchirurgie. [Termin in Fribourg Ouest](/de/fribourg/termin/)
+- [Fribourg](/de/fribourg/leistungen/): eine auf Chirurgie spezialisierte Tierärztin, eine spezialisierte Konsultation in Chirurgie und ein Operationssaal für Knochenchirurgie. [Termin in Fribourg](/de/fribourg/termin/)
 
-Die anderen Vetmint-Praxen untersuchen das Tier, machen das Röntgenbild und senden das Dossier nach Fribourg Ouest. Auf Anfrage kann die Chirurgin in Ihrer Praxis operieren.
+Die anderen Vetmint-Praxen untersuchen das Tier, machen das Röntgenbild und senden das Dossier nach Fribourg. Auf Anfrage kann die Chirurgin in Ihrer Praxis operieren.
 
 ## Termin vereinbaren
 

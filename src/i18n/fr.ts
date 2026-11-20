@@ -81,6 +81,7 @@ export const fr = {
     services: 'Nos services d’urgence',
     gratuit: 'Numéro gratuit',
     horaires: 'Tous les jours, de 8 h à minuit',
+    noteDuPied: 'Numéros gratuits, tous les jours de 8 h à minuit',
   },
 
   horaires: {
@@ -127,6 +128,10 @@ export const fr = {
     especes: (liste: string) => `Animaux reçus\u00a0: ${liste}`,
     autresCliniques: 'Les autres cabinets Vetmint',
     pagesDeLaClinique: 'Le cabinet',
+    avisGoogle: 'Nos avis Google',
+    noteGoogle: (note: string) => `${note} sur 5`,
+    nombreDAvis: (nombre: number) => `${nombre} avis`,
+    lireLesAvis: 'Lire nos avis sur Google',
   },
 
   especes: {

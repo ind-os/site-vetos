@@ -115,6 +115,6 @@ Sie erfolgt ab 4 bis 5 Monaten. Sie kann chirurgisch sein oder hormonell, mit ei
 
 Die Vetmint-Praxen empfangen Ratten zu einer Konsultation von 30 Minuten. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt die Behandlung von Nagern im Einzelnen. Zu den anderen Nagern siehe auch [das Meerschweinchen](/de/ratgeber/das-meerschweinchen/).
 
-Die Praxis Fribourg Ouest hat eine Heimtier-Spezialität. Ihre Instrumente und Narkoseprotokolle sind auf kleine Nager abgestimmt, bis hin zur Mikrochirurgie ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
+Die Praxis Fribourg hat eine Heimtier-Spezialität. Ihre Instrumente und Narkoseprotokolle sind auf kleine Nager abgestimmt, bis hin zur Mikrochirurgie ([die Heimtier-Spezialität der Praxis Fribourg](/de/fribourg/leistungen/heimtiere/)).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)

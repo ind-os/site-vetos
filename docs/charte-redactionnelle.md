@@ -59,7 +59,7 @@ L'espèce quand elle est connue (« votre chat », « votre chienne »), « votr
 ### 1.6 Ce que les pages ne contiennent pas
 
 - **Aucun slogan.** Sous un titre, une phrase de fait.
-- **Aucun avis client.** Les fiches Google des cabinets les portent.
+- **Aucun avis client dans un texte.** Les fiches Google des cabinets les portent. Seule la note Google du cabinet et son nombre d'avis s'affichent sur son accueil, sous les horaires, depuis le champ `avis_google` de sa fiche ([fiche-du-cabinet.md](fiche-du-cabinet.md)).
 - **Aucune actualité datée.** Ni « nouveau », ni « désormais », ni « dès maintenant », ni « cette année ». La page décrit l'état présent ; une annonce passe par le bandeau de la fiche du cabinet ([fiche-du-cabinet.md](fiche-du-cabinet.md)).
 - **Aucune phrase sur la page elle-même.** Le lien porte sur l'action ou l'objet : « Prendre rendez-vous », « Le plan de prévention chiot ».
 - **Aucun texte qui parle de Vetmint au lieu de parler au propriétaire.** « Le plan de prévention chiot couvre pendant un an les consultations, les vaccins, les vermifuges, la puce électronique et le passeport de votre chiot », pas « notre philosophie nous pousse à proposer toujours plus de prévention ».
@@ -185,7 +185,7 @@ Les cabinets :
 | Bussigny | |
 | La Chaux-de-Fonds | La Chaux de fonds, Chaux-de-fonds, CDF (sauf dans l'adresse e-mail cdf@vetmint.ch) |
 | Domdidier | |
-| Fribourg Ouest (le cabinet est à Givisiez) | Fribourg-Ouest, Fribourg seul dans un titre |
+| Fribourg (le cabinet est à Givisiez ; la société reste « Vetmint Fribourg Ouest SA ») | Fribourg Ouest, Fribourg-Ouest |
 | Lac-de-Joux (le cabinet est à L'Abbaye) | Lac de Joux, lac-de-Joux |
 | Payerne | |
 | Saint-Blaise | St-Blaise |

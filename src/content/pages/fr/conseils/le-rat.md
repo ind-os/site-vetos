@@ -115,6 +115,6 @@ Elle se fait dès 4 à 5 mois. Elle peut être chirurgicale, ou hormonale par un
 
 Les cabinets Vetmint reçoivent les rats en consultation de 30 minutes. La page [médecine des NAC](/services/nac/) détaille les soins aux rongeurs. Pour les autres rongeurs, voir aussi [le cochon d'Inde](/conseils/le-cochon-d-inde/).
 
-Le cabinet de Fribourg Ouest a une spécialité NAC. Ses instruments et ses protocoles d'anesthésie sont adaptés aux petits rongeurs, jusqu'à la microchirurgie ([la spécialité NAC de Fribourg Ouest](/fribourg/services/nac/)).
+Le cabinet de Fribourg a une spécialité NAC. Ses instruments et ses protocoles d'anesthésie sont adaptés aux petits rongeurs, jusqu'à la microchirurgie ([la spécialité NAC de Fribourg](/fribourg/services/nac/)).
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

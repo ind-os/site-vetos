@@ -37,7 +37,7 @@ Während der ganzen Übernahme erledigt Vetmint die administrativen Schritte, un
 
 Ihr Ansprechpartner ist eine erfahrene Tierärztin oder ein erfahrener Tierarzt der Gruppe. Sie sprechen direkt miteinander, ohne Makler und ohne Vermittler. Alles, was Sie uns anvertrauen, bleibt streng vertraulich.
 
-Vetmint zählt acht Praxen in der Westschweiz: Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg Ouest in Givisiez, Lac-de-Joux in L'Abbaye, Payerne, Saint-Blaise und Saint-Légier. Dort entscheiden die Tierärztinnen und Tierärzte über die Behandlungen. Alle Teilhaber der Gruppe sind Tierärztinnen und Tierärzte. Unsere Gruppe ist vollständig unabhängig. Wir hängen von keinem Investmentfonds und keinem externen Investor ab.
+Vetmint zählt acht Praxen in der Westschweiz: Bussigny, La Chaux-de-Fonds, Domdidier, Fribourg in Givisiez, Lac-de-Joux in L'Abbaye, Payerne, Saint-Blaise und Saint-Légier. Dort entscheiden die Tierärztinnen und Tierärzte über die Behandlungen. Alle Teilhaber der Gruppe sind Tierärztinnen und Tierärzte. Unsere Gruppe ist vollständig unabhängig. Wir hängen von keinem Investmentfonds und keinem externen Investor ab.
 
 ## Schreiben Sie uns
 

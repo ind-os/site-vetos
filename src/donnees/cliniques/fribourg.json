@@ -1,7 +1,7 @@
 {
   "id": "fribourg",
-  "nom": "Vetmint Fribourg Ouest",
-  "lieu": "Fribourg Ouest",
+  "nom": "Vetmint Fribourg",
+  "lieu": "Fribourg",
   "canton": "FR",
   "raison_sociale": "Vetmint Fribourg Ouest SA",
   "adresse": {
@@ -55,6 +55,12 @@
       "fr": "numéro gratuit, de 8 h à minuit",
       "de": "kostenlose Nummer, von 8 bis 24 Uhr"
     }
+  },
+  "avis_google": {
+    "note": 4.9,
+    "nombre": 49,
+    "lien": "https://maps.google.com/?cid=13498438839323870683",
+    "releve_le": "2026-11-20"
   },
   "rendez_vous": {
     "outil": "calendly",

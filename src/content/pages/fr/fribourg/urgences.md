@@ -2,13 +2,13 @@
 type: urgences
 clinique: fribourg
 url: /fribourg/urgences/
-title: "Urgence vétérinaire à Fribourg Ouest : qui appeler et quand"
+title: "Urgence vétérinaire à Fribourg : qui appeler et quand"
 description: "Urgence à Givisiez : aux heures d'ouverture, le cabinet au 026 466 84 84 ; sinon le 026 466 34 35, Vet'Urgences Fribourg, même immeuble. Signes d'alerte."
-h1: Urgence vétérinaire à Fribourg Ouest
-recherche: urgence vétérinaire Fribourg Ouest
+h1: Urgence vétérinaire à Fribourg
+recherche: urgence vétérinaire Fribourg
 ---
 
-En cas d'urgence vétérinaire à Fribourg Ouest, téléphonez avant de prendre la route. Votre animal saigne, respire mal, a avalé un produit ou ne tient plus debout. Au bout du fil, l'équipe vous dit quoi faire pendant le trajet et prépare une salle pour votre arrivée.
+En cas d'urgence vétérinaire à Fribourg, téléphonez avant de prendre la route. Votre animal saigne, respire mal, a avalé un produit ou ne tient plus debout. Au bout du fil, l'équipe vous dit quoi faire pendant le trajet et prépare une salle pour votre arrivée.
 
 ## Que faire maintenant
 

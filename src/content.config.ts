@@ -96,7 +96,7 @@ const cliniques = defineCollection({
     /** L'identifiant, qui donne l'adresse : vetmint.ch/payerne/. */
     id: z.string(),
     nom: z.string(),
-    /** Le nom de lieu affiché à côté du logo : « Fribourg Ouest ». */
+    /** Le nom de lieu affiché à côté du logo : « Fribourg ». */
     lieu: z.string(),
     /**
      * Le lieu dans une phrase, quand « à {lieu} » et « de {lieu} » ne se disent pas : « au Lac-de-Joux »,
@@ -165,6 +165,8 @@ const cliniques = defineCollection({
       /** Un second service de garde de la région, nommé : « Vet'Urgence Neuchâtel ». */
       autre: z.object({ nom: z.string(), telephone, tarif: texte }).optional(),
     }),
+    /** La note de la fiche Google du cabinet, relevée à la main le jour `releve_le`. */
+    avis_google: z.object({ note: z.number().min(1).max(5), nombre: z.number().int().positive(), lien: z.url(), releve_le: date }).optional(),
     /** Le module de réservation, ouvert par le bouton « Prendre rendez-vous ». */
     rendez_vous: z.object({ outil: z.enum(['calendly', 'vetlink']), adresse: z.url() }),
   }),

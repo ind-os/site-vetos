@@ -107,7 +107,7 @@ Les huit cabinets Vetmint hospitalisent tous les animaux de compagnie.
 - [Bussigny](/bussigny/services/) : [Rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [Rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [Rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
+- [Fribourg](/fribourg/services/) : [Rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/) : [Rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : [Rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [Rendez-vous](/saintblaise/rendez-vous/)

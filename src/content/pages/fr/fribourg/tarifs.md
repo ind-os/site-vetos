@@ -2,13 +2,13 @@
 type: tarifs
 clinique: fribourg
 url: /fribourg/tarifs/
-title: "Tarif vétérinaire à Fribourg Ouest : vaccins, opérations"
-description: "Prix du cabinet Vetmint Fribourg Ouest : consultation de 30 minutes à {prix:consultation}, NAC, vaccins, opérations, détartrage, urgences. Ce que comprend chaque prix."
-h1: Les tarifs du cabinet Vetmint Fribourg Ouest
-recherche: tarif vétérinaire Fribourg Ouest
+title: "Tarif vétérinaire à Fribourg : vaccins, opérations"
+description: "Prix du cabinet Vetmint Fribourg : consultation de 30 minutes à {prix:consultation}, NAC, vaccins, opérations, détartrage, urgences. Ce que comprend chaque prix."
+h1: Les tarifs du cabinet Vetmint Fribourg
+recherche: tarif vétérinaire Fribourg
 ---
 
-Le tarif vétérinaire du cabinet Vetmint Fribourg Ouest est publié ici prestation par prestation, avec ce que comprend chaque montant. À Givisiez, la consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage sont des forfaits, anesthésie comprise.
+Le tarif vétérinaire du cabinet Vetmint Fribourg est publié ici prestation par prestation, avec ce que comprend chaque montant. À Givisiez, la consultation de 30 minutes coûte {prix:consultation}. Les stérilisations, les castrations et le détartrage sont des forfaits, anesthésie comprise.
 
 ## Comment lire cette grille
 
@@ -96,7 +96,7 @@ Vous payez à l'accueil à la fin du rendez-vous, par carte ou par TWINT. Pour u
 
 Pour la première année d'un chiot ou d'un chaton, le plan de prévention coûte {prix:plan-prevention} : consultations, vaccins, vermifuges, puce et passeport. Achetés séparément, ces soins coûteraient {prix:soins-chiot-un-par-un} pour un chiot et {prix:soins-chaton-un-par-un} pour un chaton. Les abonnements mensuels étalent sur douze mois la prévention d'un chien ou d'un chat.
 
-[Le plan de prévention et les abonnements à Fribourg Ouest](/fribourg/abonnements/)
+[Le plan de prévention et les abonnements à Fribourg](/fribourg/abonnements/)
 
 ## Comparer avec les autres cabinets
 

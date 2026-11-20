@@ -89,6 +89,6 @@ La prévention compte d'autant plus que votre lapin a les oreilles tombantes.
 
 ## Faire soigner votre lapin
 
-Les otites du lapin se soignent dans les cabinets Vetmint : [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/), avec des consultations spécialisées et une hospitalisation adaptée aux lapins. Pour l'habitat, la ration et les vaccins : [la fiche du lapin](/conseils/le-lapin/).
+Les otites du lapin se soignent dans les cabinets Vetmint : [médecine des NAC](/services/nac/). Le cabinet de Fribourg a une [spécialité NAC](/fribourg/services/nac/), avec des consultations spécialisées et une hospitalisation adaptée aux lapins. Pour l'habitat, la ration et les vaccins : [la fiche du lapin](/conseils/le-lapin/).
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

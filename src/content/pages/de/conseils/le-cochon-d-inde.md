@@ -109,6 +109,6 @@ Ein jährlicher Besuch kontrolliert Zähne, Herz, Lunge und die häufigen Proble
 
 Die Vetmint-Praxen empfangen Meerschweinchen zu einer Konsultation von 30 Minuten. Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) stellt die Behandlung von Kaninchen und Nagern vor.
 
-In Fribourg Ouest hat die Praxis eine Heimtier-Spezialität: Zahnbehandlungen bei Nagern, Chirurgie mit einer auf die Art abgestimmten Narkose, stationäre Betreuung ([die Heimtier-Spezialität der Praxis Fribourg Ouest](/de/fribourg/leistungen/heimtiere/)).
+In Fribourg hat die Praxis eine Heimtier-Spezialität: Zahnbehandlungen bei Nagern, Chirurgie mit einer auf die Art abgestimmten Narkose, stationäre Betreuung ([die Heimtier-Spezialität der Praxis Fribourg](/de/fribourg/leistungen/heimtiere/)).
 
 [Praxis finden und Termin vereinbaren](/de/praxen/)

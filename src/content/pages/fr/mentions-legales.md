@@ -26,7 +26,7 @@ Vetmint SA est responsable du contenu de vetmint.ch, pages des cabinets compris.
 | [Bussigny](/bussigny/) | Vetmint Bussigny SA | Rue de l'Industrie 8, 1030 Bussigny | [021 703 25 30](tel:+41217032530) |
 | [La Chaux-de-Fonds](/chauxdefonds/) | Vetmint La Chaux-de-Fonds SA | Avenue Léopold-Robert 12, 2300 La Chaux-de-Fonds | [032 914 03 48](tel:+41329140348) |
 | [Domdidier](/domdidier/) | Vetmint Domdidier SA | Route de Saint-Aubin 58, 1564 Domdidier | [026 675 38 88](tel:+41266753888) |
-| [Fribourg Ouest](/fribourg/) | Vetmint Fribourg Ouest SA | Route des Fluides 5, 1762 Givisiez | [026 466 84 84](tel:+41264668484) |
+| [Fribourg](/fribourg/) | Vetmint Fribourg Ouest SA | Route des Fluides 5, 1762 Givisiez | [026 466 84 84](tel:+41264668484) |
 | [Lac-de-Joux](/lacdejoux/) | Vetmint Lac de Joux SA | Route de l'Hôtel-de-Ville 11, 1344 L'Abbaye | [021 357 89 90](tel:+41213578990) |
 | [Payerne](/payerne/) | Vetmint Payerne SA | Route du Châtelard 13, 1530 Payerne | [026 660 16 16](tel:+41266601616) |
 | [Saint-Blaise](/saintblaise/) | Vetmint Saint-Blaise SA | Rue des Bourguillards 11, 2072 Saint-Blaise | [032 753 11 22](tel:+41327531122) |

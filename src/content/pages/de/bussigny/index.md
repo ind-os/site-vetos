@@ -38,7 +38,7 @@ Die Praxis öffnet auch am Samstag: Eine Impfung oder eine Kontrolle passt gut i
 - Die [stationäre Betreuung](/de/bussigny/leistungen/stationaere-betreuung/) behält den Hund, die Katze oder das Heimtier in der Praxis, das eine Infusion oder eine Überwachung braucht.
 - Für die [Hausbesuche](/de/bussigny/leistungen/hausbesuche/) kommt eine Tierärztin oder ein Tierarzt während der Öffnungszeiten zu Ihnen, nach Terminvereinbarung. Die Anfahrtskosten kommen zu den Behandlungen hinzu.
 
-Kaninchen, Meerschweinchen, Ratten, Frettchen, Vögel und Reptilien: Die [Heimtiere](/de/leistungen/heimtiere/) werden wie ein Hund oder eine Katze empfangen, operiert und stationär betreut. Knochenoperationen erfolgen in der Praxis Vetmint Fribourg Ouest, die Endoskopie in Fribourg Ouest und im Lac-de-Joux. Die Seite [Leistungen](/de/bussigny/leistungen/) stellt jede Leistung vor, die in Bussigny erbracht wird.
+Kaninchen, Meerschweinchen, Ratten, Frettchen, Vögel und Reptilien: Die [Heimtiere](/de/leistungen/heimtiere/) werden wie ein Hund oder eine Katze empfangen, operiert und stationär betreut. Knochenoperationen erfolgen in der Praxis Vetmint Fribourg, die Endoskopie in Fribourg und im Lac-de-Joux. Die Seite [Leistungen](/de/bussigny/leistungen/) stellt jede Leistung vor, die in Bussigny erbracht wird.
 
 ## Das Team
 

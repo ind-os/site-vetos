@@ -2,13 +2,13 @@
 type: services-clinique
 clinique: fribourg
 url: /de/fribourg/leistungen/
-title: "Tierärztliche Leistungen in Fribourg Ouest | Vetmint"
-description: "Tierärztliche Leistungen in Fribourg Ouest, Givisiez: Konsultation von 30 Minuten für {prix:consultation}, erweiterte Heimtiermedizin, Knochenchirurgie, Endoskopie."
-h1: Die Leistungen in Fribourg Ouest
-recherche: tierärztliche Leistungen Fribourg Ouest
+title: "Tierärztliche Leistungen in Fribourg | Vetmint"
+description: "Tierärztliche Leistungen in Fribourg, Givisiez: Konsultation von 30 Minuten für {prix:consultation}, erweiterte Heimtiermedizin, Knochenchirurgie, Endoskopie."
+h1: Die Leistungen in Fribourg
+recherche: tierärztliche Leistungen Fribourg
 ---
 
-Die Praxis Vetmint Fribourg Ouest erbringt ihre tierärztlichen Leistungen im 4. Stock der Route des Fluides 5 in Givisiez. Nur die Hausbesuche finden anderswo statt. Für jede Leistung beschreibt eine Seite den Ablauf in Givisiez, die Tierärztinnen und Tierärzte, die sie ausführen, und ihren Preis.
+Die Praxis Vetmint Fribourg erbringt ihre tierärztlichen Leistungen im 4. Stock der Route des Fluides 5 in Givisiez. Nur die Hausbesuche finden anderswo statt. Für jede Leistung beschreibt eine Seite den Ablauf in Givisiez, die Tierärztinnen und Tierärzte, die sie ausführen, und ihren Preis.
 
 Vier Tierärztinnen und Tierärzte, Léo Munné, Victor Mignon, Laura Frère und Ewen Kerharo, empfangen Hunde, Katzen und Heimtiere. Die Konsultation von 30 Minuten kostet {prix:consultation}. Bei Vetmint wird die orthopädische Chirurgie in Givisiez durchgeführt. Die anderen Praxen der Gruppe schicken auch ihre schwierigen Heimtierfälle hierher.
 

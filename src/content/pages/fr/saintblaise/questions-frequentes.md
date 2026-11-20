@@ -49,7 +49,7 @@ Il coûte {prix:plan-prevention} pour un an. Il couvre les consultations sur ren
 
 ### Quels animaux soignez-vous ?
 
-Tous les animaux de compagnie : chiens, chats, lapins, cochons d'Inde, rats, hamsters, gerbilles, chinchillas, dègues, furets, oiseaux et reptiles. L'équipe les opère et les hospitalise aussi. Pour une maladie complexe d'un NAC, le vétérinaire peut vous adresser au cabinet Vetmint Fribourg Ouest, qui pratique la médecine avancée des NAC. La page [Services](/saintblaise/services/) liste les soins faits sur place.
+Tous les animaux de compagnie : chiens, chats, lapins, cochons d'Inde, rats, hamsters, gerbilles, chinchillas, dègues, furets, oiseaux et reptiles. L'équipe les opère et les hospitalise aussi. Pour une maladie complexe d'un NAC, le vétérinaire peut vous adresser au cabinet Vetmint Fribourg, qui pratique la médecine avancée des NAC. La page [Services](/saintblaise/services/) liste les soins faits sur place.
 
 ### Quelle différence entre le cabinet et Vet'Urgences Neuchâtel ?
 

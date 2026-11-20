@@ -27,6 +27,7 @@ Les prix ne sont pas dans la fiche : ils vivent dans la grille des prix, `src/do
 | `fermetures` | `{ "du": "2026-12-24", "au": "2026-12-26", "motif": { "fr": "…", "de": "…" } }`, `du` avant ou égal à `au` ; une fermeture passée ne s'affiche plus |
 | `bandeau` | `{ "texte": { "fr": "…", "de": "…" }, "niveau": "info", "jusqu_au": "2026-12-24" }`, ou `null` ; `urgent` le pose en rouge |
 | `garde` | le numéro de garde et son tarif, dans les deux langues ; `autre`, s'il y a lieu, un second service de garde de la région : `{ "nom": "Vet'Urgence Neuchâtel", "telephone": {…}, "tarif": { "fr": "…", "de": "…" } }`, affiché sous le premier |
+| `avis_google` | facultatif : la note de la fiche Google du cabinet, relevée à la main. `{ "note": 4.9, "nombre": 49, "lien": "https://maps.google.com/?cid=…", "releve_le": "2026-11-20" }`. L'accueil du cabinet l'affiche sous les horaires, avec le lien « Lire nos avis sur Google » ; sans ce champ, rien ne s'affiche |
 | `rendez_vous` | `{ "outil": "calendly", "adresse": "https://calendly.com/…" }` ; `vetlink` pour Saint-Légier |
 
 Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }`.
@@ -39,4 +40,5 @@ Un texte affiché s'écrit dans les deux langues : `{ "fr": "…", "de": "…" }
 - **Ajouter une personne** : ajouter une entrée dans `equipe`, puis sa photo au catalogue, sujet `<cabinet>:equipe:<nom>` ([charte-graphique.md](charte-graphique.md), « Le catalogue des photos »). Son portrait s'écrit sur la page Équipe, dans les deux langues.
 - **Retirer une personne** : retirer son entrée de `equipe`, sa photo du catalogue et du dossier des images, puis son portrait de la page Équipe, dans les deux langues.
 - **Ajouter un service** : l'ajouter à `services`, par le nom de sa page commune. Sa page dans le cabinet et son lien dans le menu apparaissent seuls. Ses prix sont ceux de la grille qui portent ce `service` ([grille-des-prix.md](grille-des-prix.md)).
+- **Mettre à jour la note Google** : relever la note et le nombre d'avis sur la fiche Google Maps du cabinet, les écrire dans `avis_google` avec la date du jour dans `releve_le`. Le lien est l'adresse `https://maps.google.com/?cid=…` de la fiche.
 - **Retirer un service** : le retirer de `services`. Sa page dans le cabinet disparaît ; `pnpm verifier` signale les liens des autres pages qui y menaient.

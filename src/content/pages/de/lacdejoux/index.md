@@ -30,7 +30,7 @@ Die Online-Agenda ist zu jeder Uhrzeit offen. Sie können auch während der Öff
 - Im Labor werden die [Analysen](/de/lacdejoux/leistungen/blutanalysen/) von Blut und Urin vor Ort durchgeführt. Kot, Haut und Biopsien gehen an ein externes Labor.
 - Das [digitale Röntgen](/de/lacdejoux/leistungen/roentgen/) dient auch den offiziellen Aufnahmen von Hüften und Ellbogen, die eine Dysplasie aufspüren.
 - Der [Ultraschall](/de/lacdejoux/leistungen/ultraschall/) untersucht den Bauch und bestätigt eine Trächtigkeit.
-- Die [Endoskopie](/de/lacdejoux/leistungen/endoskopie/) führt eine feine Kamera in Magen oder Darm. Lac-de-Joux und Fribourg Ouest sind die einzigen beiden Vetmint-Praxen, die sie anbieten.
+- Die [Endoskopie](/de/lacdejoux/leistungen/endoskopie/) führt eine feine Kamera in Magen oder Darm. Lac-de-Joux und Fribourg sind die einzigen beiden Vetmint-Praxen, die sie anbieten.
 - Die [stationäre Betreuung](/de/lacdejoux/leistungen/stationaere-betreuung/) nimmt Hunde, Katzen, Kaninchen und Nager in Einzelboxen auf.
 - Die [Hausbesuche](/de/lacdejoux/leistungen/hausbesuche/) führen einen Tierarzt zu Ihnen, im Vallée de Joux, während der Öffnungszeiten. Die Anfahrt wird zusätzlich zu den Behandlungen verrechnet.
 

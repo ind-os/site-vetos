@@ -2,13 +2,13 @@
 type: abonnements
 clinique: fribourg
 url: /fribourg/abonnements/
-title: "Abonnement vétérinaire et prévention à Fribourg Ouest"
+title: "Abonnement vétérinaire et prévention à Fribourg"
 description: "À Givisiez, le plan de prévention chiot ou chaton coûte {prix:plan-prevention} pour un an : consultations, vaccins, vermifuges, puce. Abonnements mensuels dès {prix:abonnement-adulte-chien}."
-h1: Plan de prévention et abonnements à Fribourg Ouest
-recherche: abonnement vétérinaire Fribourg Ouest
+h1: Plan de prévention et abonnements à Fribourg
+recherche: abonnement vétérinaire Fribourg
 ---
 
-Au cabinet Vetmint Fribourg Ouest, deux formules d'abonnement vétérinaire paient la prévention d'avance. Le plan de prévention règle en une fois la première année d'un chiot ou d'un chaton. L'abonnement mensuel convient à un chien ou à un chat de tout âge : son prix se répartit sur douze mois.
+Au cabinet Vetmint Fribourg, deux formules d'abonnement vétérinaire paient la prévention d'avance. Le plan de prévention règle en une fois la première année d'un chiot ou d'un chaton. L'abonnement mensuel convient à un chien ou à un chat de tout âge : son prix se répartit sur douze mois.
 
 ## Laquelle choisir
 

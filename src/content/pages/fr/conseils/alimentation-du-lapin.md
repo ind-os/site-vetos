@@ -91,6 +91,6 @@ Prenez rendez-vous si vous remarquez :
 
 Pendant la consultation de 30 minutes, le vétérinaire pèse votre lapin, palpe son ventre, examine ses dents et parle avec vous de sa ration réelle. Notez avant de venir ce qu'il mange sur une journée type : la marque du foin, la quantité de granulés, les légumes. Le vétérinaire ajuste la ration au poids, à l'âge et aux maladies éventuelles de votre lapin.
 
-Pour l'habitat, la vie en groupe et les vaccins : [la fiche du lapin](/conseils/le-lapin/). Les soins aux lapins dans nos cabinets : [médecine des NAC](/services/nac/). Le cabinet de Fribourg Ouest a une [spécialité NAC](/fribourg/services/nac/).
+Pour l'habitat, la vie en groupe et les vaccins : [la fiche du lapin](/conseils/le-lapin/). Les soins aux lapins dans nos cabinets : [médecine des NAC](/services/nac/). Le cabinet de Fribourg a une [spécialité NAC](/fribourg/services/nac/).
 
 [Trouver un cabinet et prendre rendez-vous](/cabinets/)

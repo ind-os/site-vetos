@@ -68,6 +68,6 @@ Ist die Heilung abgeschlossen, bringt die Operation dem Kaninchen in der Mehrhei
 
 ## Die Betreuung von Heimtieren bei Vetmint
 
-Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen tun. Die Vetmint-Praxis Fribourg Ouest in Givisiez operiert Heimtiere mit einer auf jede Art abgestimmten Narkose und bietet eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) an. Der Preis der Operation wird in einem Kostenvoranschlag festgelegt, je nach Ohr und Ausdehnung der Infektion. Die übrigen Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
+Die Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschreibt, was unsere Tierärztinnen und Tierärzte für Kaninchen tun. Die Vetmint-Praxis Fribourg in Givisiez operiert Heimtiere mit einer auf jede Art abgestimmten Narkose und bietet eine [spezialisierte Heimtier-Konsultation](/de/fribourg/leistungen/heimtiere/) an. Der Preis der Operation wird in einem Kostenvoranschlag festgelegt, je nach Ohr und Ausdehnung der Infektion. Die übrigen Preise stehen auf der Preisseite Ihrer Praxis, über die [Liste der Praxen](/de/praxen/).
 
 [Vetmint-Praxis finden](/de/praxen/)

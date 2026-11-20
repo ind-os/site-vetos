@@ -2,13 +2,13 @@
 type: services-clinique
 clinique: fribourg
 url: /fribourg/services/
-title: "Services vétérinaires à Fribourg Ouest | Vetmint"
-description: "Services vétérinaires à Fribourg Ouest, à Givisiez : consultation de 30 minutes à {prix:consultation}, médecine avancée des NAC, chirurgie des os, endoscopie, dents."
-h1: Les services à Fribourg Ouest
-recherche: services vétérinaires Fribourg Ouest
+title: "Services vétérinaires à Fribourg | Vetmint"
+description: "Services vétérinaires à Fribourg, à Givisiez : consultation de 30 minutes à {prix:consultation}, médecine avancée des NAC, chirurgie des os, endoscopie, dents."
+h1: Les services à Fribourg
+recherche: services vétérinaires Fribourg
 ---
 
-Le cabinet Vetmint Fribourg Ouest propose ses services vétérinaires au 4ᵉ étage de la route des Fluides 5, à Givisiez. Seules les visites à domicile se passent ailleurs. Pour chaque soin, une page décrit le déroulement à Givisiez, les vétérinaires qui le pratiquent et son prix.
+Le cabinet Vetmint Fribourg propose ses services vétérinaires au 4ᵉ étage de la route des Fluides 5, à Givisiez. Seules les visites à domicile se passent ailleurs. Pour chaque soin, une page décrit le déroulement à Givisiez, les vétérinaires qui le pratiquent et son prix.
 
 Quatre vétérinaires, Léo Munné, Victor Mignon, Laura Frère et Ewen Kerharo, reçoivent chiens, chats et NAC. La consultation de 30 minutes coûte {prix:consultation}. Chez Vetmint, la chirurgie orthopédique se pratique à Givisiez. Les autres cabinets du groupe y envoient aussi leurs cas difficiles de NAC.
 

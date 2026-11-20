@@ -38,7 +38,7 @@ Le cabinet ouvre aussi le samedi : un vaccin ou un contrôle s'y place bien qua
 - L'[hospitalisation](/bussigny/services/hospitalisation/) garde au cabinet le chien, le chat ou le NAC qui a besoin d'une perfusion ou d'une surveillance.
 - Pour les [visites à domicile](/bussigny/services/visites-a-domicile/), un vétérinaire vient chez vous aux heures d'ouverture, sur rendez-vous. Les frais de déplacement s'ajoutent aux soins.
 
-Lapins, cochons d'Inde, rats, furets, oiseaux et reptiles : les [NAC](/services/nac/) sont reçus, opérés et hospitalisés comme un chien ou un chat. Les opérations des os se font au cabinet Vetmint Fribourg Ouest, l'endoscopie à Fribourg Ouest et au Lac-de-Joux. La page [Services](/bussigny/services/) présente chaque soin pratiqué à Bussigny.
+Lapins, cochons d'Inde, rats, furets, oiseaux et reptiles : les [NAC](/services/nac/) sont reçus, opérés et hospitalisés comme un chien ou un chat. Les opérations des os se font au cabinet Vetmint Fribourg, l'endoscopie à Fribourg et au Lac-de-Joux. La page [Services](/bussigny/services/) présente chaque soin pratiqué à Bussigny.
 
 ## L'équipe
 

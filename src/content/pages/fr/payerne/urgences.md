@@ -63,7 +63,7 @@ Un lapin, un cochon d'Inde ou un petit rongeur qui ne mange plus et ne fait plus
 
 ## Les cabinets Vetmint voisins
 
-Si Payerne ne peut pas vous recevoir pendant la journée, appelez le cabinet Vetmint de Domdidier, à une dizaine de minutes en voiture. Il est à la route de Saint-Aubin 58, 1564 Domdidier, au [026 675 38 88](tel:+41266753888). Le cabinet Vetmint Fribourg Ouest, à Givisiez, est à 25 minutes environ : [026 466 84 84](tel:+41264668484). Les adresses des huit cabinets Vetmint figurent sur la [carte des cabinets](/cabinets/).
+Si Payerne ne peut pas vous recevoir pendant la journée, appelez le cabinet Vetmint de Domdidier, à une dizaine de minutes en voiture. Il est à la route de Saint-Aubin 58, 1564 Domdidier, au [026 675 38 88](tel:+41266753888). Le cabinet Vetmint Fribourg, à Givisiez, est à 25 minutes environ : [026 466 84 84](tel:+41264668484). Les adresses des huit cabinets Vetmint figurent sur la [carte des cabinets](/cabinets/).
 
 ## Le paiement d'une urgence
 

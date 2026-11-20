@@ -82,6 +82,6 @@ La prévention passe par les facteurs de risque : litière peu poussiéreuse et
 
 ## Où faire soigner votre rat
 
-Les soins que nous proposons aux rats et aux autres rongeurs sont décrits sur la page [Médecine avancée des NAC](/services/nac/). Le cabinet Vetmint Fribourg Ouest, à Givisiez, reçoit les rongeurs en [consultation spécialisée NAC](/fribourg/services/nac/).
+Les soins que nous proposons aux rats et aux autres rongeurs sont décrits sur la page [Médecine avancée des NAC](/services/nac/). Le cabinet Vetmint Fribourg, à Givisiez, reçoit les rongeurs en [consultation spécialisée NAC](/fribourg/services/nac/).
 
 [Trouver le cabinet le plus proche](/cabinets/)

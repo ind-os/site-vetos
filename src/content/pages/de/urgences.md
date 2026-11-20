@@ -19,7 +19,7 @@ Vetmint hat zwei tierärztliche Notfalldienste, die täglich von 8 Uhr bis Mitte
 ### Vet'Urgences Fribourg in Givisiez
 
 - **Telefon**: [026 466 34 35](tel:+41264663435), **kostenlose Nummer**, von 8 Uhr bis Mitternacht.
-- **Adresse**: Route des Fluides 5, 4. Stock, 1762 Givisiez, in den Räumen der Praxis Vetmint Fribourg Ouest.
+- **Adresse**: Route des Fluides 5, 4. Stock, 1762 Givisiez, in den Räumen der Praxis Vetmint Fribourg.
 - **Öffnungszeiten**: täglich von 8 Uhr bis Mitternacht.
 - **Website**: [vet-urgence-fribourg.ch](https://vet-urgence-fribourg.ch/).
 
@@ -53,7 +53,7 @@ Der Bericht und die Untersuchungsresultate werden rasch Ihnen und Ihrer gewohnte
 | [La Chaux-de-Fonds](/de/chauxdefonds/notfall/) | Vet'Urgences Neuchâtel: [032 753 16 32](tel:+41327531632) (kostenlos) | [032 914 03 48](tel:+41329140348) |
 |  | Regionaler Notfalldienst: [0900 901 902](tel:0900901902) (CHF 3.–/Min.) |  |
 | [Domdidier](/de/domdidier/notfall/) | Vet'Urgences Fribourg: [026 466 34 35](tel:+41264663435) (kostenlos). Nach Mitternacht nennt der Anrufbeantworter die Nummer. | [026 675 38 88](tel:+41266753888) |
-| [Fribourg Ouest](/de/fribourg/notfall/), in Givisiez | Vet'Urgences Fribourg: [026 466 34 35](tel:+41264663435) (kostenlos). Nach Mitternacht nennt der Anrufbeantworter die Nummer. | [026 466 84 84](tel:+41264668484) |
+| [Fribourg](/de/fribourg/notfall/), in Givisiez | Vet'Urgences Fribourg: [026 466 34 35](tel:+41264663435) (kostenlos). Nach Mitternacht nennt der Anrufbeantworter die Nummer. | [026 466 84 84](tel:+41264668484) |
 | [Lac-de-Joux](/de/lacdejoux/notfall/), in L'Abbaye | Médi-Vet: [0900 022 022](tel:0900022022) (CHF 2.–/Min.) | [021 357 89 90](tel:+41213578990) |
 | [Payerne](/de/payerne/notfall/) | Vet'Urgences Fribourg: [026 466 34 35](tel:+41264663435) (kostenlos). Nach Mitternacht nennt der Anrufbeantworter die Nummer. | [026 660 16 16](tel:+41266601616) |
 | [Saint-Blaise](/de/saintblaise/notfall/) | Vet'Urgences Neuchâtel: [032 753 16 32](tel:+41327531632) (kostenlos) | [032 753 11 22](tel:+41327531122) |

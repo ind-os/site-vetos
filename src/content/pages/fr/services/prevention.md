@@ -148,7 +148,7 @@ Les huit cabinets Vetmint font les bilans, les vaccins et la puce, sur rendez-vo
 - [Bussigny](/bussigny/services/) : [Prendre rendez-vous](/bussigny/rendez-vous/)
 - [La Chaux-de-Fonds](/chauxdefonds/services/) : [Prendre rendez-vous](/chauxdefonds/rendez-vous/)
 - [Domdidier](/domdidier/services/) : [Prendre rendez-vous](/domdidier/rendez-vous/)
-- [Fribourg Ouest](/fribourg/services/) : [Prendre rendez-vous](/fribourg/rendez-vous/)
+- [Fribourg](/fribourg/services/) : [Prendre rendez-vous](/fribourg/rendez-vous/)
 - [Lac-de-Joux](/lacdejoux/services/) : [Prendre rendez-vous](/lacdejoux/rendez-vous/)
 - [Payerne](/payerne/services/) : [Prendre rendez-vous](/payerne/rendez-vous/)
 - [Saint-Blaise](/saintblaise/services/) : [Prendre rendez-vous](/saintblaise/rendez-vous/)

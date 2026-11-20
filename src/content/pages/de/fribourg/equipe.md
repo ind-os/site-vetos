@@ -2,14 +2,14 @@
 type: equipe
 clinique: fribourg
 url: /de/fribourg/team/
-title: "Das Tierärzteteam von Vetmint Fribourg Ouest"
+title: "Das Tierärzteteam von Vetmint Fribourg"
 description: "Vier Tierärzte und eine TPA in Givisiez: Léo Munné für Heimtiere, Victor Mignon für Notfälle, Laura Frère, Ewen Kerharo und Mathilde Bley. Werdegang, Sprachen."
-h1: "Das Team von Vetmint Fribourg Ouest"
-recherche: "Tierärzteteam Fribourg Ouest"
+h1: "Das Team von Vetmint Fribourg"
+recherche: "Tierärzteteam Fribourg"
 resume: "Vier Tierärztinnen und Tierärzte und eine Tiermedizinische Praxisassistentin, Route des Fluides 5 in Givisiez, auf Französisch, Deutsch und Englisch."
 ---
 
-Das Tierärzteteam der Praxis Vetmint Fribourg Ouest in Givisiez zählt fünf Personen: vier Tierärztinnen und Tierärzte und eine Tiermedizinische Praxisassistentin (TPA). Sie empfangen Hunde und Katzen. Ein grosser Teil ihrer Arbeit betrifft Kaninchen, Nager, Frettchen, Vögel und Reptilien. Die Praxis empfängt Sie auf Französisch, Deutsch und Englisch; nennen Sie Ihre Sprache bei der Buchung, der Empfang sagt Ihnen, wer Sie empfangen kann.
+Das Tierärzteteam der Praxis Vetmint Fribourg in Givisiez zählt fünf Personen: vier Tierärztinnen und Tierärzte und eine Tiermedizinische Praxisassistentin (TPA). Sie empfangen Hunde und Katzen. Ein grosser Teil ihrer Arbeit betrifft Kaninchen, Nager, Frettchen, Vögel und Reptilien. Die Praxis empfängt Sie auf Französisch, Deutsch und Englisch; nennen Sie Ihre Sprache bei der Buchung, der Empfang sagt Ihnen, wer Sie empfangen kann.
 
 [Termin vereinbaren](/de/fribourg/termin/)
 
@@ -41,7 +41,7 @@ Zum Auftanken läuft oder wandert sie. An ruhigeren Tagen liest sie, backt Kuche
 
 ### Ewen Kerharo, Tierarzt und Leiter
 
-Ewen Kerharo ist Tierarzt und leitet die Vetmint-Gruppe. Er konsultiert in der Praxis Fribourg Ouest sowie in denen von Domdidier und Payerne.
+Ewen Kerharo ist Tierarzt und leitet die Vetmint-Gruppe. Er konsultiert in der Praxis Fribourg sowie in denen von Domdidier und Payerne.
 
 ### Bei jedem Besuch dieselbe Tierärztin oder denselben Tierarzt sehen
 
@@ -79,4 +79,4 @@ Für einen Termin bei einer der Tierärztinnen oder einem der Tierärzte rufen S
 
 ## In der Praxis arbeiten
 
-Die Praxis Fribourg Ouest sucht eine Notfalltierärztin oder einen Notfalltierarzt für die Nacht und das Wochenende. Diese Stelle und die der sieben anderen Vetmint-Praxen finden Sie auf der Seite [Jobs](/de/jobs/).
+Die Praxis Fribourg sucht eine Notfalltierärztin oder einen Notfalltierarzt für die Nacht und das Wochenende. Diese Stelle und die der sieben anderen Vetmint-Praxen finden Sie auf der Seite [Jobs](/de/jobs/).

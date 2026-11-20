@@ -2,14 +2,14 @@
 type: equipe
 clinique: fribourg
 url: /fribourg/equipe/
-title: L'équipe vétérinaire de Vetmint Fribourg Ouest
+title: L'équipe vétérinaire de Vetmint Fribourg
 description: "Quatre vétérinaires et une assistante à Givisiez : Léo Munné pour les NAC, Victor Mignon pour les urgences, Laura Frère, Ewen Kerharo et Mathilde Bley."
-h1: L'équipe de Vetmint Fribourg Ouest
-recherche: équipe vétérinaire Fribourg Ouest
+h1: L'équipe de Vetmint Fribourg
+recherche: équipe vétérinaire Fribourg
 resume: Quatre vétérinaires et une assistante en médecine vétérinaire, route des Fluides 5 à Givisiez, en français, en allemand et en anglais.
 ---
 
-L'équipe vétérinaire du cabinet Vetmint Fribourg Ouest, à Givisiez, compte cinq personnes : quatre vétérinaires et une assistante en médecine vétérinaire. Elles reçoivent les chiens et les chats. Une grande part de leur travail concerne les lapins, les rongeurs, les furets, les oiseaux et les reptiles. Le cabinet reçoit en français, en allemand et en anglais ; dites votre langue en réservant, l'accueil vous dit qui peut vous recevoir.
+L'équipe vétérinaire du cabinet Vetmint Fribourg, à Givisiez, compte cinq personnes : quatre vétérinaires et une assistante en médecine vétérinaire. Elles reçoivent les chiens et les chats. Une grande part de leur travail concerne les lapins, les rongeurs, les furets, les oiseaux et les reptiles. Le cabinet reçoit en français, en allemand et en anglais ; dites votre langue en réservant, l'accueil vous dit qui peut vous recevoir.
 
 [Prendre rendez-vous](/fribourg/rendez-vous/)
 
@@ -41,7 +41,7 @@ Pour se ressourcer, elle court ou randonne. Les jours plus calmes, elle lit, fai
 
 ### Ewen Kerharo, vétérinaire et directeur
 
-Ewen Kerharo est vétérinaire et dirige le groupe Vetmint. Il consulte au cabinet de Fribourg Ouest, ainsi que dans ceux de Domdidier et de Payerne.
+Ewen Kerharo est vétérinaire et dirige le groupe Vetmint. Il consulte au cabinet de Fribourg, ainsi que dans ceux de Domdidier et de Payerne.
 
 ### Voir le même vétérinaire d'une visite à l'autre
 
@@ -79,4 +79,4 @@ Pour voir l'un des vétérinaires, appelez le [026 466 84 84](tel:+41264668484) 
 
 ## Travailler au cabinet
 
-Le cabinet de Fribourg Ouest cherche un vétérinaire urgentiste pour la nuit et le week-end. Ce poste et ceux des sept autres cabinets Vetmint sont sur la page [Emploi](/emploi/).
+Le cabinet de Fribourg cherche un vétérinaire urgentiste pour la nuit et le week-end. Ce poste et ceux des sept autres cabinets Vetmint sont sur la page [Emploi](/emploi/).

@@ -11,7 +11,7 @@ Vetmint ist eine Gruppe von acht Tierarztpraxen in der Westschweiz, geführt und
 
 ## Wer Vetmint leitet
 
-Ewen Kerharo, Tierarzt, leitet die Gruppe. Er arbeitet aber weiterhin als Tierarzt und behandelt Ihre Tiere in den Praxen Domdidier, Fribourg Ouest und Payerne.
+Ewen Kerharo, Tierarzt, leitet die Gruppe. Er arbeitet aber weiterhin als Tierarzt und behandelt Ihre Tiere in den Praxen Domdidier, Fribourg und Payerne.
 
 In jeder Praxis entscheiden die Tierärztinnen und Tierärzte über die Behandlungen. Die Gruppe übernimmt, was sie von den Tieren fernhält: die Administration, die Personalführung und die Rekrutierung.
 
@@ -23,7 +23,7 @@ Vetmint wurde 2021 gegründet. Die Gruppe hat drei Praxen eröffnet und fünf ü
 - 2022: Eröffnung der Praxis in Payerne.
 - 2023: Übernahme der Praxis in Saint-Blaise.
 - 2024: Übernahme der Praxen in La Chaux-de-Fonds und Lac-de-Joux in L'Abbaye.
-- 2025: Eröffnung der Praxis Fribourg Ouest in Givisiez.
+- 2025: Eröffnung der Praxis Fribourg in Givisiez.
 - 2026: Übernahme der Praxis in Bussigny.
 
 Wenn Vetmint eine Praxis übernimmt, bespricht sich die Gruppe direkt mit der Tierärztin oder dem Tierarzt, die oder der sie abgibt. Diese Person wählt die Form der Übernahme, ihre Rolle danach und die Zukunft ihres Teams.
@@ -54,7 +54,7 @@ Ein Vorschlag aus einem Team wird angehört, gemeinsam beurteilt und umgesetzt, 
 
 ## Vetmint und die anderen Tierärztinnen und Tierärzte
 
-Die Gruppe richtet sich auch an selbstständige Tierärztinnen und Tierärzte. Sie übernimmt Praxen, beteiligt sich und unterstützt, wer sich selbstständig macht. Die Praxen empfangen Patienten, die eine Kollegin oder ein Kollege überweist, zum Beispiel erweiterte Heimtiermedizin und chronische Schmerzen in Fribourg Ouest.
+Die Gruppe richtet sich auch an selbstständige Tierärztinnen und Tierärzte. Sie übernimmt Praxen, beteiligt sich und unterstützt, wer sich selbstständig macht. Die Praxen empfangen Patienten, die eine Kollegin oder ein Kollege überweist, zum Beispiel erweiterte Heimtiermedizin und chronische Schmerzen in Fribourg.
 
 ## Die Gruppe kontaktieren
 

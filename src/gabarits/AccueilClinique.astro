@@ -1,7 +1,7 @@
 ---
 // L'accueil d'une clinique : le premier écran avec rendez-vous, téléphone et urgence ; l'encart
 // de la campagne en cours ; les
-// horaires, l'accès et les contacts ; le texte de la page avec la carte de la clinique à côté ;
+// horaires, l'accès et les contacts, puis la note Google si la fiche la donne ; le texte de la page avec la carte de la clinique à côté ;
 // un aperçu de l'équipe. La liste des soins est sur la page Services de la clinique.
 import type { Contexte } from '../lib/contexte.ts';
 import { adressePostale } from '../lib/cliniques.ts';
@@ -36,6 +36,7 @@ const lien = (cle: string) => adresse(langue, `${id}/${cle}`);
 const photoDAccueil = photo(`${id}:accueil`, langue, 1) ?? photo('accueil', langue);
 const campagne = await campagneDuJour(clinique);
 const equipe = clinique.equipe.slice(0, 4);
+const avis = clinique.avis_google;
 const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chiens' | 'chats' | 'nacs']), langue);
 ---
 
@@ -67,6 +68,19 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
         <p>{t.clinique.especes(especes)}</p>
       </Carte>
     </div>
+    {
+      avis && (
+        <div class="avis">
+          <Carte titre={t.clinique.avisGoogle} niveau={2} href={avis.lien} lien={t.clinique.lireLesAvis}>
+            <p class="avis__note">
+              <span class="avis__etoiles" aria-hidden="true">{'★'.repeat(Math.round(avis.note))}{'☆'.repeat(5 - Math.round(avis.note))}</span>
+              <strong>{t.clinique.noteGoogle(avis.note.toLocaleString(langue === 'de' ? 'de-CH' : 'fr-CH', { minimumFractionDigits: 1 }))}</strong>
+              <span>· {t.clinique.nombreDAvis(avis.nombre)}</span>
+            </p>
+          </Carte>
+        </div>
+      )
+    }
   </Section>
 
   <div class="conteneur texte avec-cote">
@@ -97,6 +111,10 @@ const especes = enumerer(clinique.especes.map((e) => t.especes[`${e}s` as 'chien
 
 <style>
   .infos { display: grid; gap: var(--espace-4); }
+  /* La note Google du cabinet, sous les horaires, l'accès et les contacts, si la fiche la donne. */
+  .avis { margin-top: var(--espace-4); }
+  .avis__note { display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--espace-2); font-size: var(--texte-m); color: var(--encre); }
+  .avis__etoiles { color: var(--titre); letter-spacing: 0.1em; }
   .campagne { padding-bottom: var(--section-y); }
   /* La grille du texte et de sa colonne est la classe .avec-cote de src/styles/charte.css ; la
      colonne n'apparaît qu'à côté du texte. */

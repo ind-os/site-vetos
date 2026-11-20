@@ -2,13 +2,13 @@
 type: rendez-vous
 clinique: fribourg
 url: /de/fribourg/termin/
-title: "Termin vereinbaren: Tierarzt Vetmint Fribourg Ouest"
-description: "Termin beim Tierarzt Vetmint Fribourg Ouest in Givisiez: online, unter 026 466 84 84 oder am Schalter. Konsultation von 30 Minuten, Heimtiere, Papageien."
-h1: "Termin in Fribourg Ouest vereinbaren"
-recherche: "Termin Tierarzt Fribourg Ouest"
+title: "Termin vereinbaren: Tierarzt Vetmint Fribourg"
+description: "Termin beim Tierarzt Vetmint Fribourg in Givisiez: online, unter 026 466 84 84 oder am Schalter. Konsultation von 30 Minuten, Heimtiere, Papageien."
+h1: "Termin in Fribourg vereinbaren"
+recherche: "Termin Tierarzt Fribourg"
 ---
 
-Einen Termin beim Tierarzt Vetmint Fribourg Ouest buchen Sie jederzeit online: Wählen Sie den Grund des Besuchs, dann den freien Termin. Sie können auch während der Öffnungszeiten die [026 466 84 84](tel:+41264668484) anrufen oder am Empfang im 4. Stock der Route des Fluides 5 in Givisiez vorbeikommen.
+Einen Termin beim Tierarzt Vetmint Fribourg buchen Sie jederzeit online: Wählen Sie den Grund des Besuchs, dann den freien Termin. Sie können auch während der Öffnungszeiten die [026 466 84 84](tel:+41264668484) anrufen oder am Empfang im 4. Stock der Route des Fluides 5 in Givisiez vorbeikommen.
 
 ## Welchen Termin wählen
 

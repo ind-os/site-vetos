@@ -82,6 +82,6 @@ Die Vorbeugung setzt bei den Risikofaktoren an: eine staubarme Einstreu, die oft
 
 ## Wo Sie Ihre Ratte behandeln lassen
 
-Die Behandlungen, die wir Ratten und anderen Nagern anbieten, sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Die Tierarztpraxis Vetmint Fribourg Ouest in Givisiez empfängt Nager in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/).
+Die Behandlungen, die wir Ratten und anderen Nagern anbieten, sind auf der Seite [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/) beschrieben. Die Tierarztpraxis Vetmint Fribourg in Givisiez empfängt Nager in der [spezialisierten Heimtierkonsultation](/de/fribourg/leistungen/heimtiere/).
 
 [Die nächstgelegene Praxis finden](/de/praxen/)

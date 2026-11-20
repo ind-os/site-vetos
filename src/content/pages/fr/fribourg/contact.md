@@ -2,13 +2,13 @@
 type: contact
 clinique: fribourg
 url: /fribourg/contact/
-title: "Contact, accès et parking : vétérinaire à Fribourg Ouest"
-description: "Cabinet vétérinaire Vetmint Fribourg Ouest, route des Fluides 5, 4ᵉ étage, à Givisiez. Places de parc, bus TPF 8 et 9, ascenseur. Téléphone 026 466 84 84."
+title: "Contact, accès et parking : vétérinaire à Fribourg"
+description: "Cabinet vétérinaire Vetmint Fribourg, route des Fluides 5, 4ᵉ étage, à Givisiez. Places de parc, bus TPF 8 et 9, ascenseur. Téléphone 026 466 84 84."
 h1: Nous trouver à Givisiez
-recherche: contact vétérinaire Fribourg Ouest
+recherche: contact vétérinaire Fribourg
 ---
 
-Le contact le plus rapide avec le vétérinaire Vetmint Fribourg Ouest reste le téléphone, aux heures d'ouverture. Le cabinet se trouve au 4ᵉ étage de la route des Fluides 5, à Givisiez, dans la zone industrielle, entre Fribourg et Corminboeuf. Un ascenseur monte jusqu'à l'étage.
+Le contact le plus rapide avec le vétérinaire Vetmint Fribourg reste le téléphone, aux heures d'ouverture. Le cabinet se trouve au 4ᵉ étage de la route des Fluides 5, à Givisiez, dans la zone industrielle, entre Fribourg et Corminboeuf. Un ascenseur monte jusqu'à l'étage.
 
 ## Coordonnées
 
