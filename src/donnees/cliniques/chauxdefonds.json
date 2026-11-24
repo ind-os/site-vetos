@@ -50,14 +50,7 @@
     "dimanche": []
   },
   "fermetures": [],
-  "bandeau": {
-    "texte": {
-      "fr": "Raphaël Virapin reçoit en consultation de physiothérapie à partir du 1er janvier 2027, pour les chiens et les chats âgés ou opérés.",
-      "de": "Raphaël Virapin bietet ab dem 1. Januar 2027 Physiotherapie-Konsultationen an, für ältere oder operierte Hunde und Katzen."
-    },
-    "niveau": "info",
-    "jusqu_au": "2027-01-31"
-  },
+  "bandeau": null,
   "garde": {
     "telephone": {
       "affiche": "0900 901 902",
