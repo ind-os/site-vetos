@@ -75,6 +75,16 @@ Prises de sang, analyses d'urine, radios et échographies se font au cabinet. Le
 
 Voir les pages [analyses](/chauxdefonds/services/analyses-sanguines/), [radiographie](/chauxdefonds/services/radiographie/) et [échographie](/chauxdefonds/services/echographie/).
 
+## La physiothérapie
+
+La consultation de physiothérapie dure 45 minutes. Chaque séance de suivi a la même durée et le même prix. Les radiographies, les médicaments et les compléments se paient en plus.
+
+| Soin | Ce qu'il comprend | Prix |
+|---|---|---|
+| Consultation ou séance de physiothérapie | 45 minutes : l'examen de la marche et des articulations, les manipulations, les exercices et le programme à faire à la maison | {prix:physiotherapie} |
+
+Comment se passe une séance : page [physiothérapie à La Chaux-de-Fonds](/chauxdefonds/services/physiotherapie/).
+
 ## Les urgences
 
 | Quand | En plus du supplément | Supplément |

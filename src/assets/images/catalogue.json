@@ -180,6 +180,18 @@
     }
   },
   {
+    "fichier": "service-physiotherapie-chien.jpg",
+    "sujet": "service:physiotherapie",
+    "alt": {
+      "fr": "Des mains gantées plient doucement la patte avant d'un chien âgé couché sur la table",
+      "de": "Behandschuhte Hände beugen sanft das Vorderbein eines älteren Hundes, der auf dem Tisch liegt"
+    },
+    "point_focal": {
+      "x": 0.6,
+      "y": 0.55
+    }
+  },
+  {
     "fichier": "service-nac-lapin.jpg",
     "sujet": "service:nac",
     "alt": {

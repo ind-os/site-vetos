@@ -38,6 +38,7 @@ Certains de ces soins ne se pratiquent que dans quelques cabinets. Chaque page d
 - [Hospitalisation](/services/hospitalisation/) : la surveillance d'un animal opéré ou malade, jour et nuit.
 - [Analyse sanguine](/services/analyses-sanguines/) : prises de sang au laboratoire du cabinet, urines, selles, biopsies.
 - [Thérapie laser](/services/laser/) : cicatrisation, arthrose, douleur, gencives et oreilles.
+- [Physiothérapie](/services/physiotherapie/) : la rééducation du chien et du chat âgé ou opéré, à La Chaux-de-Fonds.
 - [Médecine avancée des NAC](/services/nac/) : lapins, rongeurs, furets, oiseaux et reptiles.
 
 ## À domicile et en urgence

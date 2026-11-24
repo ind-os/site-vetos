@@ -38,6 +38,7 @@ Manche dieser Behandlungen gibt es nur in einigen Praxen. Jede Seite sagt, in we
 - [Stationäre Betreuung](/de/leistungen/stationaere-betreuung/): die Überwachung eines operierten oder kranken Tieres, Tag und Nacht.
 - [Blutanalyse](/de/leistungen/blutanalysen/): Blutentnahmen im Labor der Praxis, Urin, Kot, Biopsien.
 - [Lasertherapie](/de/leistungen/lasertherapie/): Wundheilung, Arthrose, Schmerzen, Zahnfleisch und Ohren.
+- [Physiotherapie](/de/leistungen/physiotherapie/): die Rehabilitation älterer oder operierter Hunde und Katzen, in La Chaux-de-Fonds.
 - [Erweiterte Heimtiermedizin](/de/leistungen/heimtiere/): Kaninchen, Nager, Frettchen, Vögel und Reptilien.
 
 ## Zu Hause und im Notfall

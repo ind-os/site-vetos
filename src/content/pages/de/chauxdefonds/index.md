@@ -33,6 +33,7 @@ Rufen Sie die [032 914 03 48](tel:+41329140348) an oder buchen Sie in der Online
 - Das [digitale Röntgen](/de/chauxdefonds/leistungen/roentgen/) zeigt Knochen, Brustkorb, Bauch und Zähne. Es dient auch den offiziellen Aufnahmen für die Untersuchung auf Hüft- und Ellbogendysplasie.
 - Der [Ultraschall](/de/chauxdefonds/leistungen/ultraschall/) zeigt Bauch und Herz. Er bestätigt auch eine Trächtigkeit.
 - Die [Lasertherapie](/de/chauxdefonds/leistungen/lasertherapie/) hilft einer Wunde beim Heilen und lindert Arthrose, Ohrentzündungen und die Zahnfleischentzündung der Katze. La Chaux-de-Fonds ist eine der drei Vetmint-Praxen, die sie anbieten.
+- In der [Physiotherapie](/de/chauxdefonds/leistungen/physiotherapie/) empfängt Raphaël Virapin ältere oder operierte Hunde und Katzen während 45 Minuten.
 - Die [stationäre Betreuung](/de/chauxdefonds/leistungen/stationaere-betreuung/) behält ein Tier an der Infusion, zur Beobachtung oder nach einer Operation in der Praxis.
 - Für die [Hausbesuche](/de/chauxdefonds/leistungen/hausbesuche/) kommt ein Tierarzt während der Öffnungszeiten zu Ihnen. Die Anfahrtskosten kommen zu den Behandlungen hinzu: Das Team nennt Ihnen den Betrag, wenn es den Besuch vereinbart.
 

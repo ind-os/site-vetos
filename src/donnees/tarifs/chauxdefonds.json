@@ -24,6 +24,8 @@
 
     { "cle": "echographie-gestation", "service": "echographie", "libelle": { "fr": "Échographie de gestation, consultation en plus", "de": "Trächtigkeitsultraschall, Konsultation zusätzlich" }, "montant": 50 },
 
+    { "cle": "physiotherapie", "service": "physiotherapie", "libelle": { "fr": "Consultation ou séance de physiothérapie, 45 minutes", "de": "Physiotherapie-Konsultation oder -Sitzung, 45 Minuten" }, "montant": 95 },
+
     { "cle": "supplement-urgence-jour", "libelle": { "fr": "Supplément d'une urgence pendant les heures d'ouverture", "de": "Zuschlag für einen Notfall während der Öffnungszeiten" }, "montant": 65 },
     { "cle": "urgence-jour-minimum", "libelle": { "fr": "Urgence pendant les heures d'ouverture, au moins (consultation et supplément)", "de": "Notfall während der Öffnungszeiten, mindestens (Konsultation und Zuschlag)" }, "montant": "consultation + supplement-urgence-jour" },
 

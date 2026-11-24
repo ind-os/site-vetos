@@ -33,6 +33,7 @@ Téléphonez au [032 914 03 48](tel:+41329140348) ou réservez dans l'agenda en 
 - La [radiographie numérique](/chauxdefonds/services/radiographie/) montre les os, le thorax, le ventre et les dents. Elle sert aussi aux clichés officiels de dépistage de la dysplasie des hanches et des coudes.
 - L'[échographie](/chauxdefonds/services/echographie/) montre le ventre et le cœur. Elle confirme aussi une gestation.
 - La [thérapie laser](/chauxdefonds/services/laser/) aide une plaie à cicatriser et soulage l'arthrose, les otites et la gingivite du chat. La Chaux-de-Fonds est l'un des trois cabinets Vetmint qui la proposent.
+- En [physiothérapie](/chauxdefonds/services/physiotherapie/), Raphaël Virapin reçoit pendant 45 minutes les chiens et les chats âgés ou opérés.
 - L'[hospitalisation](/chauxdefonds/services/hospitalisation/) garde au cabinet un animal sous perfusion, en observation ou après une opération.
 - Pour les [visites à domicile](/chauxdefonds/services/visites-a-domicile/), un vétérinaire se rend chez vous aux heures d'ouverture. Les frais de déplacement s'ajoutent aux soins : l'équipe vous en donne le montant en fixant la visite.
 

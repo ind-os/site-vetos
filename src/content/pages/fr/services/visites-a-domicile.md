@@ -10,7 +10,7 @@ pour_un_rendez_vous: "une visite à domicile"
 question_qui_pratique: "Quel vétérinaire fait des visites à domicile ?"
 presentation_dans_le_cabinet: "Le cabinet {cabinet} se déplace chez vous pour les soins courants de vos animaux, chiens, chats ou NAC : consultation, vaccins, contrôle d'un animal âgé ou malade. Les visites ont lieu aux heures d'ouverture du cabinet, sur rendez-vous. Un forfait de déplacement s'ajoute au prix de la consultation."
 recherche: vétérinaire à domicile
-ordre: 12
+ordre: 13
 especes: [chien, chat, nac]
 resume: Un vétérinaire vient chez vous aux heures d'ouverture pour les soins courants, sur rendez-vous.
 ---

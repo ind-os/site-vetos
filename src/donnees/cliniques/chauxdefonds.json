@@ -23,7 +23,7 @@
     "chat",
     "nac"
   ],
-  "services": ["prevention", "chirurgie", "dentisterie", "radiographie", "echographie", "hospitalisation", "analyses-sanguines", "visites-a-domicile", "laser"],
+  "services": ["prevention", "chirurgie", "dentisterie", "radiographie", "echographie", "hospitalisation", "analyses-sanguines", "visites-a-domicile", "laser", "physiotherapie"],
   "urgences": true,
   "horaires": {
     "lundi": [
@@ -50,7 +50,14 @@
     "dimanche": []
   },
   "fermetures": [],
-  "bandeau": null,
+  "bandeau": {
+    "texte": {
+      "fr": "Raphaël Virapin reçoit en consultation de physiothérapie à partir du 1er janvier 2027, pour les chiens et les chats âgés ou opérés.",
+      "de": "Raphaël Virapin bietet ab dem 1. Januar 2027 Physiotherapie-Konsultationen an, für ältere oder operierte Hunde und Katzen."
+    },
+    "niveau": "info",
+    "jusqu_au": "2027-01-31"
+  },
   "garde": {
     "telephone": {
       "affiche": "0900 901 902",
@@ -91,6 +98,10 @@
         {
           "fr": "médecine générale",
           "de": "Allgemeinmedizin"
+        },
+        {
+          "fr": "physiothérapie",
+          "de": "Physiotherapie"
         }
       ]
     },

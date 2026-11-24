@@ -75,6 +75,16 @@ Blutentnahmen, Urinanalysen, Röntgenbilder und Ultraschall werden in der Praxis
 
 Siehe die Seiten [Analysen](/de/chauxdefonds/leistungen/blutanalysen/), [Röntgen](/de/chauxdefonds/leistungen/roentgen/) und [Ultraschall](/de/chauxdefonds/leistungen/ultraschall/).
 
+## Die Physiotherapie
+
+Die Physiotherapie-Konsultation dauert 45 Minuten. Jede Folgesitzung hat dieselbe Dauer und denselben Preis. Röntgenbilder, Medikamente und Ergänzungsmittel werden zusätzlich bezahlt.
+
+| Behandlung | Was sie umfasst | Preis |
+|---|---|---|
+| Physiotherapie-Konsultation oder -Sitzung | 45 Minuten: die Untersuchung des Gangs und der Gelenke, die Manipulationen, die Übungen und das Programm für zu Hause | {prix:physiotherapie} |
+
+Wie eine Sitzung abläuft: Seite [Physiotherapie in La Chaux-de-Fonds](/de/chauxdefonds/leistungen/physiotherapie/).
+
 ## Notfälle
 
 | Wann | Zusätzlich zum Zuschlag | Zuschlag |

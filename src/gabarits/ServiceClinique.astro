@@ -47,7 +47,11 @@ const chapeau = (page.data.presentation_dans_le_cabinet ?? '').replaceAll('{cabi
 const { rue, npa, localite } = clinique.adresse;
 const acces = clinique.acces;
 const phrase = (texte?: string) => (texte ? `${texte.replace(/[.\s]+$/, '')}.` : '');
-const veterinaires = (clinique.equipe ?? []).filter((p) => /^(vétérinaire|tierärzt|tierarzt)/i.test(p.fonction[langue])).map((p) => p.nom);
+// Les vétérinaires du cabinet ; si certains ont ce soin dans leurs domaines, eux seuls.
+const tousLesVeterinaires = (clinique.equipe ?? []).filter((p) => /^(vétérinaire|tierärzt|tierarzt)/i.test(p.fonction[langue]));
+const nomDuSoin = (page.data.nom ?? '').toLowerCase();
+const specialistes = tousLesVeterinaires.filter((p) => (p.domaines ?? []).some((d) => d[langue]?.toLowerCase() === nomDuSoin));
+const veterinaires = (specialistes.length > 0 ? specialistes : tousLesVeterinaires).map((p) => p.nom);
 const communes = (clinique.communes ?? []).filter((c) => c !== localite && c !== clinique.lieu);
 const lien = (numero: { affiche: string; international: string }) => `<a href="${lienTelephone(numero.international)}">${echapper(numero.affiche)}</a>`;
 const whatsapp = clinique.whatsapp

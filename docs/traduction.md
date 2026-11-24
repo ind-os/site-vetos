@@ -96,6 +96,7 @@ Une page commune : `/services/<service>/` devient `/de/leistungen/<Leistung>/`. 
 | `hospitalisation` | `stationaere-betreuung` |
 | `analyses-sanguines` | `blutanalysen` |
 | `laser` | `lasertherapie` |
+| `physiotherapie` | `physiotherapie` |
 | `nac` | `heimtiere` |
 | `visites-a-domicile` | `hausbesuche` |
 
